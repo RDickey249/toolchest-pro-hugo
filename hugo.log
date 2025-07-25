@@ -1,0 +1,31 @@
+Watching for changes in /home/yan/toolchest-pro-hugo/{archetypes,content,data,layouts,static}
+Watching for config changes in /home/yan/toolchest-pro-hugo/config.toml
+Start building sites … 
+hugo v0.121.1-00b46fed8e47f7bb0a85d7cfc2d9f1356379b740+extended linux/amd64 BuildDate=2023-12-08T08:47:45Z VendorInfo=gohugoio
+
+
+                   | EN   
+-------------------+------
+  Pages            | 138  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   0  
+  Processed images |   0  
+  Aliases          |   0  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Built in 88 ms
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0) 
+Press Ctrl+C to stop
+
+Change of Static files detected, rebuilding site.
+2025-07-25 10:10:42.716 -0600
+Syncing CNAME.tmp.1704.1753459842282 to /
+ERROR file does not exist
+Syncing CNAME.tmp.1704.1753459842282 to /
+File no longer exists in static dir, removing CNAME.tmp.1704.1753459842282
+Syncing CNAME to /
