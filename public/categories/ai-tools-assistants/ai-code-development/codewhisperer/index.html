@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1320&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> - ToolChest Pro</title>
+    <meta name="description" content="Anti-overwhelm business tool curation platform with expert-backed recommendations to help you find the right tools without the research fatigue">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        header {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            gap: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: 500;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .tool-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .tool-card {
+            border: 1px solid #e1e5e9;
+            padding: 20px;
+            border-radius: 8px;
+            background: #f8f9fa;
+        }
+        .tool-card h3 {
+            margin-top: 0;
+            color: #007bff;
+        }
+        .category-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .category-item {
+            background: #fff;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #007bff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .category-item a {
+            text-decoration: none;
+            color: #2c3e50;
+            font-weight: 600;
+        }
+        .category-item a:hover {
+            color: #007bff;
+        }
+        .btn {
+            display: inline-block;
+            background: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .btn:hover {
+            background: #0056b3;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ToolChest Pro</h1>
+        <nav>
+            <ul>
+                
+                <li><a href="http://localhost:1320/">Home</a></li>
+                
+                <li><a href="http://localhost:1320/categories/">Categories</a></li>
+                
+                <li><a href="http://localhost:1320/about/">About</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <ol class="breadcrumb-list">
+    <li class="breadcrumb-item">
+      <a href="http://localhost:1320/" class="breadcrumb-link">
+        <span class="breadcrumb-home">🏠</span>
+        Home
+      </a>
+    </li>
+    
+    
+      
+      
+      
+      
+        
+          
+          
+          
+          <li class="breadcrumb-item">
+            <span class="breadcrumb-separator">›</span>
+            
+              <a href="http://localhost:1320/categories" class="breadcrumb-link">
+                
+                  Categories
+                
+              </a>
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          <li class="breadcrumb-item">
+            <span class="breadcrumb-separator">›</span>
+            
+              <a href="http://localhost:1320/categories/ai-tools-assistants" class="breadcrumb-link">
+                
+                  Ai Tools Assistants
+                
+              </a>
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          <li class="breadcrumb-item">
+            <span class="breadcrumb-separator">›</span>
+            
+              <a href="http://localhost:1320/categories/ai-tools-assistants/ai-code-development" class="breadcrumb-link">
+                
+                  Ai Code Development
+                
+              </a>
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          <li class="breadcrumb-item">
+            <span class="breadcrumb-separator">›</span>
+            
+              <span class="breadcrumb-current" aria-current="page">
+                
+                  Codewhisperer
+                
+              </span>
+            
+          </li>
+        
+      
+    
+  </ol>
+</nav>
+
+<style>
+.breadcrumb {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+}
+
+.breadcrumb-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+}
+
+.breadcrumb-item:not(:first-child) {
+  margin-left: 0.25rem;
+}
+
+.breadcrumb-link {
+  color: #0066cc;
+  text-decoration: none;
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  background-color: #e3f2fd;
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  margin: 0 0.5rem;
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.breadcrumb-current {
+  color: #495057;
+  font-weight: 600;
+  padding: 0.125rem 0.25rem;
+}
+
+.breadcrumb-home {
+  margin-right: 0.25rem;
+}
+
+ 
+@media (max-width: 768px) {
+  .breadcrumb {
+    font-size: 0.8rem;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .breadcrumb-separator {
+    margin: 0 0.25rem;
+  }
+  
+  .breadcrumb-list {
+    flex-wrap: wrap;
+  }
+  
+  .breadcrumb-item {
+    margin-bottom: 0.25rem;
+  }
+}
+</style>
+<article>
+    <h1></h1>
+    <div class="content">
+        <h1 id="codewhisperer">CodeWhisperer</h1>
+<p>CodeWhisperer transforms development productivity by providing AWS-native AI code generation that specializes in cloud-aware coding suggestions, security scanning, and AWS service integration, enabling developers to build cloud applications faster while maintaining security best practices and optimal AWS resource utilization. This intelligent platform combines code completion with real-time security vulnerability detection, offering developers not just faster coding but safer, more secure applications that follow AWS Well-Architected Framework principles and industry security standards. CodeWhisperer&rsquo;s strength lies in its deep understanding of AWS services and cloud development patterns, providing contextual suggestions that help developers leverage AWS capabilities effectively while avoiding common security pitfalls and architecture mistakes that can lead to costly vulnerabilities. The platform excels at serving cloud developers, DevOps engineers, and organizations building AWS-native applications who need both coding acceleration and built-in security guidance to maintain velocity without compromising application security or cloud cost optimization. Whether you&rsquo;re developing serverless functions, containerized applications, or complex cloud architectures, CodeWhisperer provides the AWS-optimized coding assistance that transforms cloud development from a complex, error-prone process into streamlined, secure application delivery. Its combination of coding intelligence and security awareness makes it indispensable for teams who recognize that cloud development requires specialized knowledge and security consciousness that generic coding assistants cannot provide.</p>
+<h2 id="key-features">Key Features</h2>
+<p>• <strong>AWS-optimized suggestions</strong> - Code completion specialized for AWS services and patterns
+• <strong>Real-time security scanning</strong> - Detect vulnerabilities and security issues as you code
+• <strong>Multi-language support</strong> - Works with Python, Java, JavaScript, TypeScript, and more
+• <strong>IDE integration</strong> - Seamless support for VS Code, IntelliJ, PyCharm, and AWS Cloud9
+• <strong>Reference tracking</strong> - Identify when suggestions match open-source code with licensing info
+• <strong>Individual and professional tiers</strong> - Free tier available for individual developers
+• <strong>Organization customization</strong> - Train on your internal codebase for enterprise use
+• <strong>Compliance assistance</strong> - Help maintain coding standards and regulatory requirements</p>
+<h2 id="pros-and-cons">Pros and Cons</h2>
+<h3 id="pros">Pros</h3>
+<p>• Excellent for AWS cloud development specifically
+• Built-in security scanning provides additional value
+• Strong integration with AWS development tools
+• Free tier available for individual developers
+• Great for learning AWS best practices
+• Reference tracking helps with licensing compliance</p>
+<h3 id="cons">Cons</h3>
+<p>• Primarily focused on AWS ecosystem development
+• Less general-purpose than broader coding assistants
+• Newer platform with evolving feature set
+• Best suited for cloud-native application development
+• Limited value for non-AWS development work</p>
+<p><a href="https://aws.amazon.com/codewhisperer">Build Secure AWS Applications with CodeWhisperer →</a></p>
+<h2 id="how-it-compares">How It Compares</h2>
+<p>CodeWhisperer specializes in AWS cloud development compared to general-purpose tools like GitHub Copilot or Tabnine. Unlike codebase analysis platforms like Mutable.ai, CodeWhisperer focuses on real-time coding assistance with security integration. While code quality tools like Codiga emphasize analysis and review, CodeWhisperer prioritizes secure code generation and AWS optimization. Compared to generic AI coding assistants, CodeWhisperer offers specialized cloud expertise and security scanning. For cloud developers, DevOps engineers, and organizations building AWS-native applications who need specialized cloud coding assistance with built-in security awareness, CodeWhisperer delivers the most AWS-focused and security-conscious coding platform available.</p>
+
+    </div>
+    
+    
+</article>
+
+    </main>
+</body>
+</html>

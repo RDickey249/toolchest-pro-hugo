@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1320&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Development &amp; Technical Tools - ToolChest Pro</title>
+    <meta name="description" content="Essential development tools, frameworks, and technical platforms for software engineering">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        header {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            gap: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: 500;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .tool-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .tool-card {
+            border: 1px solid #e1e5e9;
+            padding: 20px;
+            border-radius: 8px;
+            background: #f8f9fa;
+        }
+        .tool-card h3 {
+            margin-top: 0;
+            color: #007bff;
+        }
+        .category-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .category-item {
+            background: #fff;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #007bff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .category-item a {
+            text-decoration: none;
+            color: #2c3e50;
+            font-weight: 600;
+        }
+        .category-item a:hover {
+            color: #007bff;
+        }
+        .btn {
+            display: inline-block;
+            background: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .btn:hover {
+            background: #0056b3;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ToolChest Pro</h1>
+        <nav>
+            <ul>
+                
+                <li><a href="http://localhost:1320/">Home</a></li>
+                
+                <li><a href="http://localhost:1320/categories/">Categories</a></li>
+                
+                <li><a href="http://localhost:1320/about/">About</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <ol class="breadcrumb-list">
+    <li class="breadcrumb-item">
+      <a href="http://localhost:1320/" class="breadcrumb-link">
+        <span class="breadcrumb-home">🏠</span>
+        Home
+      </a>
+    </li>
+    
+    
+      
+      
+      
+      
+        
+          
+          
+          
+          <li class="breadcrumb-item">
+            <span class="breadcrumb-separator">›</span>
+            
+              <a href="http://localhost:1320/categories" class="breadcrumb-link">
+                
+                  Categories
+                
+              </a>
+            
+          </li>
+        
+      
+        
+          
+          
+          
+          <li class="breadcrumb-item">
+            <span class="breadcrumb-separator">›</span>
+            
+              <span class="breadcrumb-current" aria-current="page">
+                
+                  Development Technical Tools
+                
+              </span>
+            
+          </li>
+        
+      
+    
+  </ol>
+</nav>
+
+<style>
+.breadcrumb {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+}
+
+.breadcrumb-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+}
+
+.breadcrumb-item:not(:first-child) {
+  margin-left: 0.25rem;
+}
+
+.breadcrumb-link {
+  color: #0066cc;
+  text-decoration: none;
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  background-color: #e3f2fd;
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  margin: 0 0.5rem;
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.breadcrumb-current {
+  color: #495057;
+  font-weight: 600;
+  padding: 0.125rem 0.25rem;
+}
+
+.breadcrumb-home {
+  margin-right: 0.25rem;
+}
+
+ 
+@media (max-width: 768px) {
+  .breadcrumb {
+    font-size: 0.8rem;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .breadcrumb-separator {
+    margin: 0 0.25rem;
+  }
+  
+  .breadcrumb-list {
+    flex-wrap: wrap;
+  }
+  
+  .breadcrumb-item {
+    margin-bottom: 0.25rem;
+  }
+}
+</style>
+<h1>Development &amp; Technical Tools</h1>
+<h1 id="-development--technical-tools">🛠️ Development &amp; Technical Tools</h1>
+<p>Comprehensive suite of development tools, frameworks, and platforms that power modern software engineering and technical workflows.</p>
+<h2 id="subcategories">Subcategories</h2>
+<h3 id="code-editors--idescategoriesdevelopment-technical-toolscode-editors-ides"><a href="http://localhost:1320/categories/development-technical-tools/code-editors-ides/">Code Editors &amp; IDEs</a></h3>
+<p>Integrated development environments and advanced code editors
+<strong>Tools: 20+</strong> | Features: Syntax highlighting, debugging, extensions, version control integration</p>
+<h3 id="version-control--collaborationcategoriesdevelopment-technical-toolsversion-control-collaboration"><a href="http://localhost:1320/categories/development-technical-tools/version-control-collaboration/">Version Control &amp; Collaboration</a></h3>
+<p>Git platforms, code review tools, and collaborative development environments
+<strong>Tools: 15+</strong> | Features: Source control, pull requests, code review, team collaboration</p>
+<h3 id="frontend-frameworkscategoriesdevelopment-technical-toolsfrontend-frameworks"><a href="http://localhost:1320/categories/development-technical-tools/frontend-frameworks/">Frontend Frameworks</a></h3>
+<p>JavaScript frameworks, UI libraries, and frontend development tools
+<strong>Tools: 25+</strong> | Features: Component libraries, state management, build tools, responsive design</p>
+<h3 id="backend-frameworkscategoriesdevelopment-technical-toolsbackend-frameworks"><a href="http://localhost:1320/categories/development-technical-tools/backend-frameworks/">Backend Frameworks</a></h3>
+<p>Server-side frameworks, APIs, and backend development platforms
+<strong>Tools: 30+</strong> | Features: RESTful APIs, database integration, authentication, scalability</p>
+<h3 id="mobile-frameworkscategoriesdevelopment-technical-toolsmobile-frameworks"><a href="http://localhost:1320/categories/development-technical-tools/mobile-frameworks/">Mobile Frameworks</a></h3>
+<p>Cross-platform and native mobile development frameworks
+<strong>Tools: 15+</strong> | Features: Native performance, cross-platform support, UI components, device APIs</p>
+<h3 id="deployment--hostingcategoriesdevelopment-technical-toolsdeployment-hosting"><a href="http://localhost:1320/categories/development-technical-tools/deployment-hosting/">Deployment &amp; Hosting</a></h3>
+<p>Cloud platforms, hosting services, and deployment automation tools
+<strong>Tools: 25+</strong> | Features: CI/CD, containerization, serverless, auto-scaling</p>
+<h3 id="programming-languagescategoriesdevelopment-technical-toolsprogramming-languages"><a href="http://localhost:1320/categories/development-technical-tools/programming-languages/">Programming Languages</a></h3>
+<p>Programming languages, compilers, and language-specific toolchains
+<strong>Tools: 40+</strong> | Features: Syntax support, package managers, runtime environments, documentation</p>
+<hr>
+<p><strong>Total Development Tools</strong>: 170+ solutions for comprehensive software development workflows</p>
+
+
+
+
+    </main>
+</body>
+</html>
