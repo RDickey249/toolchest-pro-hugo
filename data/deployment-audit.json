@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "total_published_landing_pages": 0,
+    "total_tools_in_csv": 913,
+    "tools_missing_landing_pages": 913,
+    "completion_rate": "0.0%"
+  },
+  "tools_by_category": {},
+  "tools_by_subcategory": {},
+  "homepage_featured_tools": [
+    "notion-ai",
+    "chatgpt",
+    "descript",
+    "sudowrite",
+    "veed",
+    "elevenlabs",
+    "khanmigo-by-khan-academy",
+    "figma",
+    "zapier",
+    "github-copilot",
+    "socratic-by-google",
+    "midjourney"
+  ],
+  "all_published_tools": []
+}

@@ -1,0 +1,185 @@
+TOOLCHEST PRO - DEPLOYMENT SUMMARY
+==================================================
+
+Total Published: 151 landing pages
+Total in CSV: 913 tools
+Missing Pages: 880 tools
+Completion: 16.5%
+
+PUBLISHED TOOLS BY SUBCATEGORY:
+--------------------------------------------------
+
+Ai Tools Assistants > Ai Code Development (5 tools):
+  - codewhisperer
+  - codiga
+  - github-copilot
+  - mutable-ai
+  - tabnine
+
+Ai Tools Assistants > Ai Design Creative (20 tools):
+  - adobe-firefly
+  - adobe-photoshop-ai
+  - canva
+  - canva-magic-studio
+  - cleanup-pictures
+  - dall-e
+  - dalle-via-chatgpt
+  - figma
+  - framer
+  - leonardo-ai
+  - lets-enhance
+  - microsoft-designer
+  - midjourney
+  - penpot
+  - photoroom
+  - remove-bg
+  - runway
+  - stable-diffusion
+  - uizard
+  - visme
+
+Ai Tools Assistants > Ai Productivity Business (34 tools):
+  - akiflow
+  - bardeen
+  - clickup-brain
+  - convertcart
+  - datarobot
+  - forethought
+  - grammarlygo
+  - helpshift
+  - ifttt
+  - koala-inspector
+  - lily-ai
+  - mem
+  - microsoft-copilot
+  - monkeylearn
+  - motion
+  - notion-ai
+  - obviously-ai
+  - octane-ai
+  - pecan
+  - polymer
+  - reclaim
+  - sellesta
+  - sisu
+  - sunsama
+  - taskade
+  - tellius
+  - thankful
+  - tibco-spotfire
+  - toucan-toco
+  - ultimate-ai
+  - yurbi
+  - zapier
+  - zendesk-ai
+  - zingg
+
+Ai Tools Assistants > Ai Writing Content (15 tools):
+  - anyword
+  - copy-ai
+  - grammarly
+  - ink
+  - jasper
+  - notion-ai
+  - prowritingaid
+  - rytr
+  - seowriting-ai
+  - slick-write
+  - sudowrite
+  - surfer-seo
+  - wordtune
+  - writer
+  - writesonic
+
+Ai Tools Assistants > Conversational Ai (21 tools):
+  - anthropic-console
+  - bard
+  - bing-chat
+  - botpress
+  - botsify
+  - character-ai
+  - chatfuel
+  - chatgpt
+  - claude
+  - copilot
+  - dialogflow
+  - drift
+  - flow-xo
+  - gemini
+  - grok
+  - landbot
+  - manychat
+  - mistral
+  - perplexity
+  - tidio
+  - you-com
+
+Business Marketing Tools > Branding Identity (8 tools):
+  - brandmark
+  - designevo
+  - logoai
+  - logomaster
+  - looka
+  - tailor-brands
+  - wix-logo-maker
+  - zyro
+
+Business Marketing Tools > Presentation Tools (7 tools):
+  - beautiful-ai
+  - canva
+  - gamma
+  - pitch
+  - simplified
+  - slidesai
+  - tome
+
+Business Marketing Tools > Social Media Management (4 tools):
+  - copy-ai
+  - ocoya
+  - postly
+  - predis-ai
+
+Education Learning Tools > Creative Writing (4 tools):
+  - narrative-device
+  - novelcrafter
+  - storylab-ai
+  - sudowrite
+
+Education Learning Tools > Education Tutoring (5 tools):
+  - khanmigo-by-khan-academy
+  - nuance-dragon
+  - quizgecko
+  - socratic-by-google
+  - studygpt
+
+Video Audio Tools > Audio Generation Editing (13 tools):
+  - adobe-podcast
+  - alitu
+  - auphonic
+  - cleanvoice
+  - descript
+  - elevenlabs
+  - krisp
+  - listnr
+  - lovo-ai
+  - play-ht
+  - resemble-ai
+  - speechify
+  - voicemod
+
+Video Audio Tools > Video Creation Editing (15 tools):
+  - animoto
+  - cleanvoice
+  - descript
+  - elevenlabs
+  - flexclip
+  - fliki
+  - invideo
+  - kapwing
+  - lumen5
+  - pictory
+  - pika-labs
+  - runway
+  - synthesia
+  - veed
+  - wisecut
