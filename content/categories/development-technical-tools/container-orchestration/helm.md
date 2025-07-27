@@ -2,7 +2,7 @@
 title: "Helm"
 tagline: "Package manager for Kubernetes applications with templating and versioning"
 category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+subcategory: "Container & Orchestration"
 tool_name: "Helm"
 deployment_status: "deployed"
 image: "/images/tools/helm-placeholder.jpg"
