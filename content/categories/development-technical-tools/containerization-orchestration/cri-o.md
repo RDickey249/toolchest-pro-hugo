@@ -2,7 +2,7 @@
 title: "CRI-O"
 tagline: "Lightweight container runtime specifically designed for Kubernetes"
 category: "Development & Technical Tools"
-subcategory: "Containerization subcategory: "Container & Orchestration" Orchestration"
+subcategory: "Containerization & Orchestration"
 tool_name: "CRI-O"
 deployment_status: "deployed"
 image: "/images/tools/cri-o-placeholder.jpg"
