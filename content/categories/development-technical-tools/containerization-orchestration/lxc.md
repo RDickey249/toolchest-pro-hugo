@@ -2,7 +2,7 @@
 title: "LXC"
 tagline: "Linux containers for system-level virtualization and process isolation"
 category: "Development & Technical Tools"
-subcategory: "Container & Orchestration"
+subcategory: "Containerization subcategory: "Container & Orchestration" Orchestration"
 tool_name: "LXC"
 deployment_status: "deployed"
 image: "/images/tools/lxc-placeholder.jpg"
