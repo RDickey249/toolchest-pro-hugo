@@ -124,7 +124,7 @@ description: "Cut through the noise of 1000+ business tools. Expert-backed recom
 <style>
 /* Featured Affiliate Tools Section */
 .featured-affiliate-tools {
-  background: linear-gradient(135deg, #2E3A46 0%, #444444 100%);
+  background: linear-gradient(135deg, #3E4C59 0%, #444444 100%);
   border: 2px solid #E74C3C;
   margin: 2rem -2rem;
   padding: 3rem 2rem;
