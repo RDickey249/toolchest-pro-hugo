@@ -226,15 +226,12 @@
 {{- if eq $depth 3 -}}
     {{/* Main /categories/ page - show top-level categories */}}
     <div class="category-grid">
-        {{- $categories := where .Site.Pages "Section" "categories" -}}
         {{- $topLevelCategories := slice -}}
+        {{- range where .Site.RegularPages "Section" "categories" -}}{{- end -}}
         
-        {{- range $categories -}}
-            {{- $catPathParts := split .RelPermalink "/" -}}
-            {{- if eq (len $catPathParts) 4 -}}
-                {{- if ne .Title "Categories" -}}
-                    {{- $topLevelCategories = $topLevelCategories | append . -}}
-                {{- end -}}
+        {{- range .Sections -}}
+            {{- if ne .Title "Categories" -}}
+                {{- $topLevelCategories = $topLevelCategories | append . -}}
             {{- end -}}
         {{- end -}}
         
@@ -270,11 +267,14 @@
                 {{- $subcategories := .Sections -}}
                 {{- $subcatNames := slice -}}
                 {{- range $subcategories -}}
-                    {{- $subcatNames = $subcatNames | append .Title -}}
+                    {{- if ne .Title "" -}}
+                        {{- $subcatNames = $subcatNames | append .Title -}}
+                    {{- end -}}
                 {{- end -}}
-                {{- if $subcatNames -}}
+                {{- if gt (len $subcatNames) 0 -}}
                     <strong>Subcategories:</strong> {{ delimit $subcatNames ", " }}
                 {{- else -}}
+                    <!-- Debug: {{ len .Sections }} sections found -->
                     <em>Subcategories coming soon</em>
                 {{- end -}}
             </div>
