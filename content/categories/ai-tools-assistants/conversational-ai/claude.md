@@ -1,6 +1,50 @@
+---
+title: "Claude"
+tagline: "Anthropic's thoughtful AI"
+category: "AI Tools & Assistants"
+subcategory: "Conversational AI"
+tool_name: "Claude"
+deployment_status: "deployed"
+image: "/images/tools/claude-placeholder.jpg"
+tags: ["ai-tools-assistants", "conversational-ai"]
+categories: ["AI Tools & Assistants"]
+subcategories: ["Conversational AI"]
+---
+
 # Claude
 
-Claude represents Anthropic's vision for helpful, harmless, and honest AI, delivering a conversational experience that prioritizes safety and nuance without sacrificing capability. This sophisticated AI assistant excels at complex reasoning, creative writing, and technical analysis while maintaining an thoughtful approach to sensitive topics. Claude's standout feature is its exceptional ability to understand context and follow detailed instructions, making it ideal for professional writing, code generation, and in-depth analysis. With an industry-leading 100K+ token context window, Claude can process entire books, lengthy codebases, or extensive documents while maintaining coherent understanding throughout. Whether you're drafting legal documents, analyzing research papers, or building software applications, Claude provides thoughtful, well-reasoned responses that consider multiple perspectives. Its commitment to reducing harmful outputs while remaining genuinely helpful has made it the preferred choice for enterprises and individuals who value both capability and responsibility in their AI tools.
+Claude is Anthropic's AI assistant built on principles of being helpful, harmless, and honest—delivering powerful AI capabilities with thoughtful safety measures.
+
+Developed by former OpenAI researchers, Claude offers a more nuanced, context-aware conversational experience that excels at complex reasoning and analysis.
+
+**What makes Claude special:**
+- **Massive context window** - Process up to 200K tokens (entire books or codebases)
+- **Superior reasoning** - Excels at analysis, logic, and complex problem-solving
+- **Constitutional AI** - Trained to be helpful while avoiding harmful outputs
+- **Professional writing** - Exceptional at nuanced, high-quality content creation
+
+**Key capabilities:**
+- Long-form writing and editing
+- Code generation and debugging
+- Document analysis and summarization
+- Research and data analysis
+- Creative writing and brainstorming
+- Technical documentation
+
+**Perfect for:**
+- **Professionals** needing high-quality writing assistance
+- **Researchers** analyzing lengthy documents or datasets
+- **Developers** working on complex coding projects
+- **Students** tackling challenging academic work
+- **Teams** requiring reliable, consistent AI assistance
+
+**Claude's advantages:**
+- More thoughtful and nuanced responses
+- Better at acknowledging uncertainty and limitations
+- Excellent at following complex, detailed instructions
+- Strong performance on reasoning-heavy tasks
+
+Chosen by enterprises and individuals who value both AI capability and responsible development.
 
 ## Key Features
 
