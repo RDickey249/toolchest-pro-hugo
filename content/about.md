@@ -32,6 +32,7 @@ ToolChest is a comprehensive directory of 1,271+ business tools organized to hel
   background-color: #444444;
   border-radius: 8px;
   border-left: 4px solid #E74C3C;
+  overflow: hidden; /* Prevent any content from overflowing the container */
 }
 
 .author-photo {
@@ -49,8 +50,9 @@ ToolChest is a comprehensive directory of 1,271+ business tools organized to hel
 
 .author-bio {
   flex: 1;
-  max-width: calc(100% - 240px); /* Prevent text overflow beyond photo width + gap */
+  min-width: 0; /* Allow flex item to shrink below content size */
   overflow-wrap: break-word; /* Handle long words gracefully */
+  word-wrap: break-word; /* Legacy browser support */
 }
 
 .author-bio p {
@@ -94,7 +96,7 @@ a:visited {
   }
   
   .author-bio {
-    max-width: 100%; /* Full width on mobile */
+    min-width: 0; /* Reset min-width on mobile */
   }
 }
 </style>
