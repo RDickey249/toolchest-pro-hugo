@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web-analytics on ToolChest</title>
+    <link>https://toolchest.pro/tags/web-analytics/</link>
+    <description>Recent content in web-analytics on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/web-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Analytics</title>
+      <link>https://toolchest.pro/categories/analytics-data-tools/web-analytics/google-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/analytics-data-tools/web-analytics/google-analytics/</guid>
+      <description>Google Analytics Google Analytics is the world&amp;rsquo;s most popular web analytics platform, providing free, comprehensive insights into your website&amp;rsquo;s performance and visitor behavior.&#xA;Used by over 50 million websites worldwide, Google Analytics helps businesses understand their audience, track conversions, and optimize their digital marketing efforts.&#xA;Core features:&#xA;Real-time reporting - See what&amp;rsquo;s happening on your site right now Audience insights - Demographics, interests, and behavior patterns Acquisition tracking - How visitors find your website Conversion goals - Track important actions like purchases or sign-ups E-commerce tracking - Detailed sales and product performance data Advanced capabilities:</description>
+    </item>
+  </channel>
+</rss>

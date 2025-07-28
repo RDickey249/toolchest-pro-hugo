@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CRM &amp; Sales Tools on ToolChest</title><link>https://toolchest.pro/categories/crm-sales-tools/</link><description>Recent content in CRM &amp; Sales Tools on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/categories/crm-sales-tools/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRM &amp; Sales Tools on ToolChest</title>
+    <link>https://toolchest.pro/categories/crm-sales-tools/</link>
+    <description>Recent content in CRM &amp; Sales Tools on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/categories/crm-sales-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HubSpot</title>
+      <link>https://toolchest.pro/categories/crm-sales-tools/customer-relationship-management/hubspot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/crm-sales-tools/customer-relationship-management/hubspot/</guid>
+      <description>HubSpot HubSpot is the leading inbound marketing and CRM platform for growing businesses.&#xA;Built around the proven inbound methodology, HubSpot helps companies attract, engage, and delight customers through integrated marketing, sales, and service tools.&#xA;Key capabilities:&#xA;Complete CRM with contact management and deal tracking Marketing automation and email campaigns Content management and landing page builder Lead scoring and analytics dashboards Social media management tools Customer service and ticketing system What sets HubSpot apart:</description>
+    </item>
+    <item>
+      <title>Hunter.io</title>
+      <link>https://toolchest.pro/categories/crm-sales-tools/sales-outreach-tools/hunter-io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/crm-sales-tools/sales-outreach-tools/hunter-io/</guid>
+      <description>Hunter.io Hunter.io revolutionizes sales prospecting through powerful email finding and verification platform that enables sales professionals to discover, verify, and connect with prospects while maintaining high deliverability rates and compliance standards. This platform provides domain-based email discovery, individual email finding, bulk email verification, and comprehensive email deliverability tools alongside campaign management and engagement tracking capabilities. Hunter.io excels in data accuracy, GDPR compliance, and integration capabilities that support modern sales workflows while providing detailed analytics and confidence scores for every email discovered.</description>
+    </item>
+    <item>
+      <title>Pipedrive</title>
+      <link>https://toolchest.pro/categories/crm-sales-tools/customer-relationship-management/pipedrive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/crm-sales-tools/customer-relationship-management/pipedrive/</guid>
+      <description>Pipedrive Pipedrive is the visual CRM built for sales teams who want to see their deals progress clearly and close more business.&#xA;With its intuitive drag-and-drop pipeline interface, Pipedrive makes it easy to track where every deal stands and what actions are needed to move them forward.&#xA;Why sales teams love Pipedrive:&#xA;Visual pipeline - See all your deals at a glance with drag-and-drop stages Activity reminders - Never miss a follow-up or important task Sales forecasting - Predict revenue based on pipeline data Mobile optimization - Manage your sales on the go Core features:</description>
+    </item>
+  </channel>
+</rss>

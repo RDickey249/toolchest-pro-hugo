@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Branding &amp; Identity on ToolChest</title><link>https://toolchest.pro/categories/business-marketing-tools/branding-identity/</link><description>Recent content in Branding &amp; Identity on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/categories/business-marketing-tools/branding-identity/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Branding &amp; Identity on ToolChest</title>
+    <link>https://toolchest.pro/categories/business-marketing-tools/branding-identity/</link>
+    <description>Recent content in Branding &amp; Identity on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/categories/business-marketing-tools/branding-identity/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
