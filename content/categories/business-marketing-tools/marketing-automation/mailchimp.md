@@ -40,3 +40,10 @@ Built specifically for businesses without big marketing teams, Mailchimp makes p
 - Any business wanting to grow through email
 
 Mailchimp grows with your business—start free and scale up as your audience and needs expand. Over 12 million businesses trust Mailchimp to help them connect with customers and drive growth.
+
+## Get Started with Mailchimp
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://mailchimp.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Mailchimp →</a>
+  <a href="https://mailchimp.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

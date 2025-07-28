@@ -34,3 +34,10 @@ Built around the proven inbound methodology, HubSpot helps companies attract, en
 - **Educational resources** - HubSpot Academy provides world-class training
 
 Perfect for startups and growing companies that want to build predictable revenue through inbound marketing and integrated customer relationship management.
+
+## Get Started with HubSpot
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.hubspot.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit HubSpot →</a>
+  <a href="https://www.hubspot.com/products/get-started" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

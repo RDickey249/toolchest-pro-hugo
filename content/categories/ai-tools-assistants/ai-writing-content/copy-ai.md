@@ -69,7 +69,12 @@ Copy.ai levels the playing field by giving you the copywriting expertise that ty
 • Less sophisticated than premium tools
 • Basic analytics features
 
-[Generate Copy with Copy.ai →](https://www.copy.ai)
+## Get Started with Copy.ai
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.copy.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Copy.ai →</a>
+  <a href="https://www.copy.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

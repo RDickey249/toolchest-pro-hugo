@@ -16,3 +16,10 @@ featured: true
 # Sucuri
 
 Sucuri protects websites through comprehensive security platform that combines malware detection, removal, and prevention with advanced firewall protection and continuous monitoring for businesses requiring robust web security solutions. This platform provides automated malware scanning, instant malware removal, DDoS protection, and website application firewall alongside performance optimization and detailed security reporting capabilities. Sucuri excels in rapid incident response, global content delivery network integration, and proactive threat prevention that keeps websites secure while maintaining optimal performance and user experience. The platform serves over 5 million websites worldwide by combining automated security monitoring with expert security team support, enabling website owners to prevent attacks, recover from compromises, and maintain continuous protection through cloud-based security infrastructure. Sucuri transforms website security management through proven detection algorithms, comprehensive threat intelligence, and seamless integration with popular content management systems while providing detailed analytics, compliance support, and 24/7 monitoring that ensures websites remain secure, fast, and accessible to legitimate users.
+
+## Get Started with Sucuri
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://sucuri.net" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Sucuri →</a>
+  <a href="https://sucuri.net/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

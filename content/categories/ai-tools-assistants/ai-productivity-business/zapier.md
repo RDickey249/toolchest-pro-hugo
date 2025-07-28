@@ -30,7 +30,12 @@ Zapier transforms productivity by automating repetitive tasks between thousands 
 • Task limits on lower-tier plans
 • Learning curve for advanced features
 
-[Automate Everything with Zapier →](https://zapier.com)
+## Get Started with Zapier
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://zapier.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zapier →</a>
+  <a href="https://zapier.com/sign-up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

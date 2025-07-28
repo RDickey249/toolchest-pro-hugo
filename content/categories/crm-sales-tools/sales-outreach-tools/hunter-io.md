@@ -16,3 +16,10 @@ featured: true
 # Hunter.io
 
 Hunter.io revolutionizes sales prospecting through powerful email finding and verification platform that enables sales professionals to discover, verify, and connect with prospects while maintaining high deliverability rates and compliance standards. This platform provides domain-based email discovery, individual email finding, bulk email verification, and comprehensive email deliverability tools alongside campaign management and engagement tracking capabilities. Hunter.io excels in data accuracy, GDPR compliance, and integration capabilities that support modern sales workflows while providing detailed analytics and confidence scores for every email discovered. The platform serves over 4 million sales professionals and marketers worldwide by combining advanced search algorithms with real-time verification technology, enabling users to build qualified prospect lists, improve outreach effectiveness, and maintain sender reputation through verified contact data. Hunter.io transforms cold outreach strategy through proven email discovery methods, comprehensive verification processes, and seamless integration with popular CRM and sales tools while ensuring compliance with privacy regulations and providing actionable insights for optimizing outbound sales campaigns.
+
+## Get Started with Hunter.io
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://hunter.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Hunter.io →</a>
+  <a href="https://hunter.io/users/sign_up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
