@@ -56,3 +56,10 @@ By solving the "it works on my machine" problem, Docker has become essential inf
 - **Docker Swarm** - Native container orchestration
 
 The technology that made "build once, run anywhere" a reality for applications.
+
+## Get Started with Docker
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Docker →</a>
+  <a href="https://www.docker.com/get-started" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Download Free →</a>
+</div>

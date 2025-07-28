@@ -44,3 +44,10 @@ Seamlessly integrated with the Microsoft ecosystem, Power BI transforms your org
 - **Active community** - Thousands of templates, tutorials, and custom visuals
 
 Chosen by over 97% of Fortune 500 companies for democratizing data insights across their organizations.
+
+## Get Started with Power BI
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Power BI →</a>
+  <a href="https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>

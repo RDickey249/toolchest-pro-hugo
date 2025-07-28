@@ -52,3 +52,10 @@ Perfect for asynchronous work, Loom enables teams to share context quickly witho
 - **Better context** - Show, don't just tell
 
 Used by over 21 million people to communicate more effectively in the modern workplace.
+
+## Get Started with Loom
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.loom.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Loom →</a>
+  <a href="https://www.loom.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Sign Up Free →</a>
+</div>

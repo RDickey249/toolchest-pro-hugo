@@ -44,3 +44,10 @@ Trusted by over 90,000 organizations worldwide, Tableau transforms raw data into
 - **Proven ROI** - Average 1,400% return on investment according to Forrester
 
 The gold standard for data visualization and business intelligence.
+
+## Get Started with Tableau
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.tableau.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Tableau →</a>
+  <a href="https://www.tableau.com/products/trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

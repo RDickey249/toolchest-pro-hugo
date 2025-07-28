@@ -83,3 +83,10 @@ The library that made component-based UI development the standard for modern web
 • Rapid ecosystem changes requiring continuous learning to keep up with best practices and library updates
 • JSX syntax mixing JavaScript and markup may confuse developers new to the paradigm
 • Configuration complexity for optimal production builds requiring understanding of webpack and build tools
+
+## Get Started with React
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://react.dev" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit React →</a>
+  <a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Learn React →</a>
+</div>

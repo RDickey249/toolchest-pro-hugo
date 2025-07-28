@@ -80,3 +80,10 @@ The editor that has redefined what developers expect from their coding environme
 • Learning curve for advanced features and optimal extension configuration requiring time investment for maximum productivity
 • Microsoft ecosystem integration may not appeal to developers preferring completely open-source development tool alternatives
 • Memory consumption can be substantial with multiple workspaces and extensive extension usage affecting system resources
+
+## Get Started with Visual Studio Code
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit VS Code →</a>
+  <a href="https://code.visualstudio.com/download" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Download Free →</a>
+</div>

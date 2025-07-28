@@ -97,3 +97,10 @@ Originally built for gamers, Discord's voice-first approach and casual atmospher
 - Connect with Trello, Notion, and other productivity tools
 
 Used by millions of teams worldwide to create more engaging, persistent communication that builds stronger relationships and company culture.
+
+## Get Started with Discord
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://discord.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Discord →</a>
+  <a href="https://discord.com/register" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Sign Up Free →</a>
+</div>

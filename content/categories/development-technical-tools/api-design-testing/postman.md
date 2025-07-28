@@ -59,3 +59,10 @@ What started as a simple Chrome extension has evolved into the complete platform
 - Custom integrations and enterprise support
 
 The platform that has become synonymous with API development and testing worldwide.
+
+## Get Started with Postman
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Postman →</a>
+  <a href="https://www.postman.com/downloads/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Download Free →</a>
+</div>

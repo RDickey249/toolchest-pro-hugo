@@ -74,7 +74,12 @@ With over 100 million users worldwide, ChatGPT has fundamentally changed how peo
 • Occasional capacity issues
 • Knowledge cutoff limitations
 
-[Start Chatting with ChatGPT →](https://chat.openai.com)
+## Get Started with ChatGPT
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ChatGPT →</a>
+  <a href="https://chat.openai.com/auth/login" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Chat →</a>
+</div>
 
 ## How It Compares
 
