@@ -59,6 +59,8 @@ ToolChest is a comprehensive directory of 1,271+ business tools organized to hel
   margin: 0 0 1rem 0;
   line-height: 1.6;
   color: #FFFFFF; /* Ensure good contrast on dark background */
+  font-size: 16px; /* Ensure consistent font size for all paragraphs */
+  font-weight: normal; /* Ensure consistent font weight */
 }
 
 .author-bio p:last-child {
