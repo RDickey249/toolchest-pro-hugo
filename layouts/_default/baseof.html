@@ -23,6 +23,12 @@
             border-bottom: 3px solid #E74C3C;
             display: flex;
             align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+        }
+        .header-left {
+            display: flex;
+            align-items: center;
             gap: 15px;
         }
         .site-logo {
@@ -155,27 +161,393 @@
         .search-input::placeholder {
             color: #9EC9FF;
         }
+        
+        /* Header Search Styles */
+        .header-search {
+            position: relative;
+            min-width: 300px;
+        }
+        .header-search-input {
+            width: 100%;
+            padding: 10px 40px 10px 15px;
+            border: 2px solid #666;
+            border-radius: 25px;
+            background-color: #444444;
+            color: #FFFFFF;
+            font-size: 14px;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+        .header-search-input:focus {
+            outline: none;
+            border-color: #9EC9FF;
+            box-shadow: 0 0 0 3px rgba(158, 201, 255, 0.1);
+            background-color: #555555;
+        }
+        .header-search-input::placeholder {
+            color: #9EC9FF;
+            opacity: 0.7;
+        }
+        .search-btn {
+            position: absolute;
+            right: 5px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #E74C3C;
+            border: none;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+        .search-btn:hover {
+            background: #C0392B;
+            transform: translateY(-50%) scale(1.1);
+        }
+        .search-icon {
+            color: #FFFFFF;
+            font-size: 14px;
+        }
+        .search-results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: #2E3A46;
+            border: 2px solid #666;
+            border-top: none;
+            border-radius: 0 0 15px 15px;
+            max-height: 400px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+        }
+        .search-results.show {
+            display: block;
+        }
+        .search-result-item {
+            padding: 12px 15px;
+            border-bottom: 1px solid #444;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+        .search-result-item:hover {
+            background-color: #444444;
+        }
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+        .search-result-title {
+            color: #9EC9FF;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        .search-result-snippet {
+            color: #CCCCCC;
+            font-size: 13px;
+            line-height: 1.4;
+        }
+        .search-result-category {
+            color: #E74C3C;
+            font-size: 11px;
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+        .search-no-results {
+            padding: 20px 15px;
+            text-align: center;
+            color: #999;
+        }
+        .search-external {
+            padding: 10px 15px;
+            background: #444444;
+            border-top: 1px solid #666;
+        }
+        .search-external-btn {
+            display: inline-block;
+            background: #28a745;
+            color: #FFFFFF;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-right: 10px;
+            transition: background-color 0.3s ease;
+        }
+        .search-external-btn:hover {
+            background: #20c997;
+        }
+        
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                gap: 20px;
+            }
+            .header-left {
+                width: 100%;
+                justify-content: center;
+            }
+            .header-search {
+                width: 100%;
+                min-width: auto;
+            }
+        }
     </style>
 </head>
 <body>
     <header>
-        <a href="/" title="ToolChest Home">
-            <img src="/images/toolchest-logo-transparent.svg" alt="ToolChest" class="site-logo">
-        </a>
-        <div>
-            <h1 style="margin: 0; color: #FFFFFF;">{{ .Site.Title }}</h1>
-            <nav>
-                <ul>
-                    {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-                    {{ end }}
-                </ul>
-            </nav>
+        <div class="header-left">
+            <a href="/" title="ToolChest Home">
+                <img src="/images/toolchest-logo-transparent.svg" alt="ToolChest" class="site-logo">
+            </a>
+            <div>
+                <h1 style="margin: 0; color: #FFFFFF;">{{ .Site.Title }}</h1>
+                <nav>
+                    <ul>
+                        {{ range .Site.Menus.main }}
+                        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        
+        <div class="header-search">
+            <input type="text" class="header-search-input" id="searchInput" placeholder="Search tools, categories, or anything...">
+            <button class="search-btn" onclick="performSearch()">
+                <span class="search-icon">🔍</span>
+            </button>
+            <div class="search-results" id="searchResults"></div>
         </div>
     </header>
     
     <main>
         {{ block "main" . }}{{ end }}
     </main>
+
+    <script>
+        // Search functionality
+        let searchTimeout;
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+        
+        // Site content index (this would be populated by Hugo's search index)
+        let siteIndex = [];
+        
+        // Initialize search
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load search index
+            loadSearchIndex();
+            
+            // Add event listeners
+            searchInput.addEventListener('input', handleSearchInput);
+            searchInput.addEventListener('keydown', handleKeyDown);
+            
+            // Close search results when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.header-search')) {
+                    hideSearchResults();
+                }
+            });
+        });
+        
+        function handleSearchInput(e) {
+            const query = e.target.value.trim();
+            
+            // Clear previous timeout
+            if (searchTimeout) {
+                clearTimeout(searchTimeout);
+            }
+            
+            // Debounce search
+            searchTimeout = setTimeout(() => {
+                if (query.length >= 2) {
+                    performSiteSearch(query);
+                } else {
+                    hideSearchResults();
+                }
+            }, 300);
+        }
+        
+        function handleKeyDown(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                performSearch();
+            } else if (e.key === 'Escape') {
+                hideSearchResults();
+                searchInput.blur();
+            }
+        }
+        
+        function performSearch() {
+            const query = searchInput.value.trim();
+            if (query) {
+                performSiteSearch(query);
+            }
+        }
+        
+        async function loadSearchIndex() {
+            try {
+                // Try to load Hugo's search index
+                const response = await fetch('/index.json');
+                if (response.ok) {
+                    siteIndex = await response.json();
+                } else {
+                    // Fallback: create basic index from current page
+                    createBasicIndex();
+                }
+            } catch (error) {
+                console.log('Search index not found, creating basic index');
+                createBasicIndex();
+            }
+        }
+        
+        function createBasicIndex() {
+            // Create a basic search index from page content
+            const titles = document.querySelectorAll('h1, h2, h3, h4');
+            const paragraphs = document.querySelectorAll('p');
+            
+            titles.forEach(title => {
+                siteIndex.push({
+                    title: title.textContent.trim(),
+                    content: title.textContent.trim(),
+                    url: window.location.pathname,
+                    type: 'heading'
+                });
+            });
+            
+            paragraphs.forEach(p => {
+                if (p.textContent.trim().length > 50) {
+                    siteIndex.push({
+                        title: p.textContent.substring(0, 100) + '...',
+                        content: p.textContent.trim(),
+                        url: window.location.pathname,
+                        type: 'content'
+                    });
+                }
+            });
+        }
+        
+        function performSiteSearch(query) {
+            const results = searchSiteContent(query);
+            displaySearchResults(query, results);
+        }
+        
+        function searchSiteContent(query) {
+            const lowercaseQuery = query.toLowerCase();
+            const results = [];
+            
+            // Search through site index
+            siteIndex.forEach(item => {
+                const titleMatch = item.title.toLowerCase().includes(lowercaseQuery);
+                const contentMatch = item.content.toLowerCase().includes(lowercaseQuery);
+                
+                if (titleMatch || contentMatch) {
+                    const relevance = titleMatch ? 10 : 5;
+                    results.push({
+                        ...item,
+                        relevance,
+                        snippet: createSnippet(item.content, query)
+                    });
+                }
+            });
+            
+            // Sort by relevance
+            results.sort((a, b) => b.relevance - a.relevance);
+            
+            return results.slice(0, 8); // Limit to top 8 results
+        }
+        
+        function createSnippet(content, query) {
+            const maxLength = 120;
+            const lowercaseContent = content.toLowerCase();
+            const lowercaseQuery = query.toLowerCase();
+            const index = lowercaseContent.indexOf(lowercaseQuery);
+            
+            if (index === -1) {
+                return content.substring(0, maxLength) + (content.length > maxLength ? '...' : '');
+            }
+            
+            const start = Math.max(0, index - 30);
+            const end = Math.min(content.length, start + maxLength);
+            const snippet = content.substring(start, end);
+            
+            return (start > 0 ? '...' : '') + snippet + (end < content.length ? '...' : '');
+        }
+        
+        function displaySearchResults(query, results) {
+            let html = '';
+            
+            if (results.length > 0) {
+                results.forEach(result => {
+                    html += `
+                        <div class="search-result-item" onclick="navigateToResult('${result.url}')">
+                            <div class="search-result-category">${result.type || 'Tool'}</div>
+                            <div class="search-result-title">${highlightQuery(result.title, query)}</div>
+                            <div class="search-result-snippet">${highlightQuery(result.snippet, query)}</div>
+                        </div>
+                    `;
+                });
+            } else {
+                html = '<div class="search-no-results">No results found on ToolChest</div>';
+            }
+            
+            // Add external search options
+            html += `
+                <div class="search-external">
+                    <strong style="color: #9EC9FF; margin-bottom: 10px; display: block;">Search beyond ToolChest:</strong>
+                    <a href="https://www.google.com/search?q=site:toolchest.pro+${encodeURIComponent(query)}" target="_blank" class="search-external-btn">
+                        Google ToolChest
+                    </a>
+                    <a href="https://www.google.com/search?q=${encodeURIComponent(query + ' business tools')}" target="_blank" class="search-external-btn">
+                        Google Search
+                    </a>
+                    <a href="https://duckduckgo.com/?q=${encodeURIComponent(query + ' business tools')}" target="_blank" class="search-external-btn">
+                        DuckDuckGo
+                    </a>
+                </div>
+            `;
+            
+            searchResults.innerHTML = html;
+            showSearchResults();
+        }
+        
+        function highlightQuery(text, query) {
+            const regex = new RegExp(`(${query})`, 'gi');
+            return text.replace(regex, '<strong style="color: #E74C3C;">$1</strong>');
+        }
+        
+        function navigateToResult(url) {
+            if (url && url !== window.location.pathname) {
+                window.location.href = url;
+            }
+            hideSearchResults();
+        }
+        
+        function showSearchResults() {
+            searchResults.classList.add('show');
+        }
+        
+        function hideSearchResults() {
+            searchResults.classList.remove('show');
+        }
+        
+        // Advanced search functionality for future enhancement
+        function performAdvancedSearch(query) {
+            // This can be enhanced to search through:
+            // 1. Tool descriptions
+            // 2. Category information  
+            // 3. Tags and metadata
+            // 4. User reviews (if added)
+            // 5. External APIs (ProductHunt, etc.)
+        }
+    </script>
 </body>
 </html>

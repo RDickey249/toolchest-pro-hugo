@@ -11,6 +11,11 @@ canonifyURLs = true
 paginate = 10
 paginatePath = "page"
 
+# Output formats for search
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
+
 # Taxonomies
 [taxonomies]
   category = "categories"
