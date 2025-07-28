@@ -19,12 +19,14 @@
     box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     transition: all 0.3s ease;
     position: relative;
+    z-index: 1;
 }
 
 .category-card:hover {
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(0,0,0,0.4);
     border-left-color: #9EC9FF;
+    z-index: 10;
 }
 
 .category-header {
@@ -66,6 +68,7 @@
     flex-shrink: 0;
     margin-left: 10px;
     transition: all 0.3s ease;
+    z-index: 20;
 }
 
 .help-icon:hover {
