@@ -88,7 +88,13 @@
             <strong>Subcategories:</strong> E-commerce Platforms, Payment Processing, Inventory Management
         </div>
         <div class="category-meta">
-            50+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "ecommerce-business-tools" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
@@ -101,7 +107,13 @@
             <strong>Subcategories:</strong> Customer Relationship Management, Sales Outreach Tools, Email Marketing Automation
         </div>
         <div class="category-meta">
-            80+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "crm-sales-tools" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
