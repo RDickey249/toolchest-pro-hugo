@@ -6,6 +6,9 @@ subcategory: "Deployment & Hosting"
 tool_name: "Heroku"
 deployment_status: "deployed"
 image: "/images/tools/heroku-placeholder.jpg"
+tags: ["development-technical-tools", "deployment-hosting"]
+categories: ["Development & Technical Tools"]
+subcategories: ["Deployment & Hosting"]
 ---
 
 # Heroku

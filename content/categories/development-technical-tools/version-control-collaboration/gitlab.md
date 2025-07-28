@@ -6,6 +6,9 @@ subcategory: "Version Control & Collaboration"
 tool_name: "GitLab"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-placeholder.jpg"
+tags: ["development-technical-tools", "version-control-collaboration"]
+categories: ["Development & Technical Tools"]
+subcategories: ["Version Control & Collaboration"]
 ---
 
 # GitLab

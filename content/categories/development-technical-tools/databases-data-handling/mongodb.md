@@ -6,6 +6,9 @@ subcategory: "Databases & Data Handling"
 tool_name: "MongoDB"
 deployment_status: "deployed"
 image: "/images/tools/mongodb-placeholder.jpg"
+tags: ["development-technical-tools", "databases-data-handling"]
+categories: ["Development & Technical Tools"]
+subcategories: ["Databases & Data Handling"]
 ---
 
 # MongoDB

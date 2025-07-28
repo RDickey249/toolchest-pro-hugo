@@ -6,6 +6,9 @@ subcategory: "Databases & Data Handling"
 tool_name: "MySQL"
 deployment_status: "deployed"
 image: "/images/tools/mysql-placeholder.jpg"
+tags: ["development-technical-tools", "databases-data-handling"]
+categories: ["Development & Technical Tools"]
+subcategories: ["Databases & Data Handling"]
 ---
 
 # MySQL

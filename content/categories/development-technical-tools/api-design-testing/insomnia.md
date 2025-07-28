@@ -6,6 +6,9 @@ subcategory: "API Design & Testing"
 tool_name: "Insomnia"
 deployment_status: "deployed"
 image: "/images/tools/insomnia-placeholder.jpg"
+tags: ["development-technical-tools", "api-design-testing"]
+categories: ["Development & Technical Tools"]
+subcategories: ["API Design & Testing"]
 ---
 
 # Insomnia
