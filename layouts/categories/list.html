@@ -267,7 +267,7 @@
             </div>
             
             <div class="category-summary">
-                {{- $subcategories := where .Site.Pages "Parent" . -}}
+                {{- $subcategories := .Sections -}}
                 {{- $subcatNames := slice -}}
                 {{- range $subcategories -}}
                     {{- $subcatNames = $subcatNames | append .Title -}}
@@ -280,15 +280,20 @@
             </div>
             
             <div class="category-meta">
-                {{- $subcategories := where .Site.Pages "Parent" . -}}
+                {{- $subcategories := .Sections -}}
                 {{- $toolCount := 0 -}}
                 {{- range $subcategories -}}
-                    {{- $toolCount = add $toolCount (len .Pages) -}}
+                    {{- $toolCount = add $toolCount (len .RegularPages) -}}
                 {{- end -}}
                 {{- if gt $toolCount 0 -}}
                     {{ $toolCount }}+ tools across {{ len $subcategories }} subcategories
                 {{- else -}}
-                    {{ len .Pages }}+ tools available
+                    {{- $directTools := len .RegularPages -}}
+                    {{- if gt $directTools 0 -}}
+                        {{ $directTools }}+ tools available
+                    {{- else -}}
+                        0+ tools available
+                    {{- end -}}
                 {{- end -}}
             </div>
         </div>
@@ -313,20 +318,16 @@
             </div>
             
             <div class="category-summary">
-                {{- $subcategories := where .Site.Pages "Parent" . -}}
-                {{- $subcatNames := slice -}}
-                {{- range $subcategories -}}
-                    {{- $subcatNames = $subcatNames | append .Title -}}
-                {{- end -}}
-                {{- if $subcatNames -}}
-                    <strong>Subcategories:</strong> {{ delimit $subcatNames ", " }}
+                {{- $tools := .RegularPages -}}
+                {{- if $tools -}}
+                    {{ .Params.description | default .Summary | truncate 120 }}
                 {{- else -}}
-                    <em>Subcategories coming soon</em>
+                    <em>Tools coming soon</em>
                 {{- end -}}
             </div>
             
             <div class="category-meta">
-                {{ len .Pages }}+ tools available
+                {{ len .RegularPages }}+ tools available
             </div>
         </div>
         {{- end -}}
