@@ -115,7 +115,22 @@
     color: #FFFFFF;
     line-height: 1.6;
     margin-bottom: 15px;
-    font-size: 15px;
+    font-size: 14px;
+}
+
+.category-summary strong {
+    color: #9EC9FF;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.category-summary em {
+    color: #999;
+    font-style: italic;
 }
 
 .category-meta {
@@ -249,7 +264,16 @@
             </div>
             
             <div class="category-summary">
-                {{ .Summary | truncate 120 }}
+                {{- $subcategories := where .Site.Pages "Parent" . -}}
+                {{- $subcatNames := slice -}}
+                {{- range $subcategories -}}
+                    {{- $subcatNames = $subcatNames | append .Title -}}
+                {{- end -}}
+                {{- if $subcatNames -}}
+                    <strong>Subcategories:</strong> {{ delimit $subcatNames ", " }}
+                {{- else -}}
+                    <em>Subcategories coming soon</em>
+                {{- end -}}
             </div>
             
             <div class="category-meta">
@@ -286,7 +310,16 @@
             </div>
             
             <div class="category-summary">
-                {{ .Summary | truncate 120 }}
+                {{- $subcategories := where .Site.Pages "Parent" . -}}
+                {{- $subcatNames := slice -}}
+                {{- range $subcategories -}}
+                    {{- $subcatNames = $subcatNames | append .Title -}}
+                {{- end -}}
+                {{- if $subcatNames -}}
+                    <strong>Subcategories:</strong> {{ delimit $subcatNames ", " }}
+                {{- else -}}
+                    <em>Subcategories coming soon</em>
+                {{- end -}}
             </div>
             
             <div class="category-meta">
