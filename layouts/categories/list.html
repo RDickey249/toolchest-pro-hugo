@@ -124,6 +124,66 @@
     font-weight: 500;
 }
 
+.tool-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.tool-card {
+    border: 1px solid #666;
+    padding: 20px;
+    border-radius: 8px;
+    background: #444444;
+    transition: all 0.3s ease;
+}
+
+.tool-card:hover {
+    border-color: #9EC9FF;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+
+.tool-card h3 {
+    margin-top: 0;
+    color: #9EC9FF;
+}
+
+.tool-card h3 a {
+    text-decoration: none;
+    color: #9EC9FF;
+    transition: color 0.3s ease;
+}
+
+.tool-card h3 a:hover {
+    color: #FFFFFF;
+}
+
+.tool-card p {
+    color: #FFFFFF;
+    line-height: 1.6;
+}
+
+.btn {
+    display: inline-block;
+    background: #E74C3C;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin: 10px 0;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    background: #C0392B;
+    color: #FFFFFF;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3);
+}
+
 @media (max-width: 768px) {
     .category-grid {
         grid-template-columns: 1fr;
@@ -142,49 +202,97 @@
 }
 </style>
 
-<div class="category-grid">
-    {{- $categories := where .Site.Pages "Section" "categories" -}}
-    {{- $topLevelCategories := slice -}}
-    
-    {{- range $categories -}}
-        {{- $pathParts := split .RelPermalink "/" -}}
-        {{- if eq (len $pathParts) 4 -}}
-            {{- if ne .Title "Categories" -}}
-                {{- $topLevelCategories = $topLevelCategories | append . -}}
+{{- $pathParts := split .RelPermalink "/" -}}
+{{- $depth := len $pathParts -}}
+
+{{- if eq $depth 3 -}}
+    {{/* Main /categories/ page - show top-level categories */}}
+    <div class="category-grid">
+        {{- $categories := where .Site.Pages "Section" "categories" -}}
+        {{- $topLevelCategories := slice -}}
+        
+        {{- range $categories -}}
+            {{- $catPathParts := split .RelPermalink "/" -}}
+            {{- if eq (len $catPathParts) 4 -}}
+                {{- if ne .Title "Categories" -}}
+                    {{- $topLevelCategories = $topLevelCategories | append . -}}
+                {{- end -}}
             {{- end -}}
         {{- end -}}
-    {{- end -}}
-    
-    {{- range sort $topLevelCategories ".Params.weight" "asc" -}}
-    <div class="category-card">
-        <div class="category-header">
-            <h3 class="category-title">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h3>
-            <div class="help-icon">
-                ?
-                <div class="tooltip">{{ .Params.description | default .Summary }}</div>
+        
+        {{- range sort $topLevelCategories ".Params.weight" "asc" -}}
+        <div class="category-card">
+            <div class="category-header">
+                <h3 class="category-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                <div class="help-icon">
+                    ?
+                    <div class="tooltip">{{ .Params.description | default .Summary }}</div>
+                </div>
+            </div>
+            
+            <div class="category-summary">
+                {{ .Summary | truncate 120 }}
+            </div>
+            
+            <div class="category-meta">
+                {{- $subcategories := where .Site.Pages "Parent" . -}}
+                {{- $toolCount := 0 -}}
+                {{- range $subcategories -}}
+                    {{- $toolCount = add $toolCount (len .Pages) -}}
+                {{- end -}}
+                {{- if gt $toolCount 0 -}}
+                    {{ $toolCount }}+ tools across {{ len $subcategories }} subcategories
+                {{- else -}}
+                    {{ len .Pages }}+ tools available
+                {{- end -}}
             </div>
         </div>
+        {{- end -}}
+    </div>
+
+{{- else if eq $depth 4 -}}
+    {{/* Category page (e.g., /categories/ai-tools-assistants/) - show subcategories */}}
+    <div class="category-grid">
+        {{- $subcategories := .Sections -}}
         
-        <div class="category-summary">
-            {{ .Summary | truncate 120 }}
-        </div>
-        
-        <div class="category-meta">
-            {{- $subcategories := where .Site.Pages "Parent" . -}}
-            {{- $toolCount := 0 -}}
-            {{- range $subcategories -}}
-                {{- $toolCount = add $toolCount (len .Pages) -}}
-            {{- end -}}
-            {{- if gt $toolCount 0 -}}
-                {{ $toolCount }}+ tools across {{ len $subcategories }} subcategories
-            {{- else -}}
+        {{- range sort $subcategories ".Params.weight" "asc" -}}
+        <div class="category-card">
+            <div class="category-header">
+                <h3 class="category-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                <div class="help-icon">
+                    ?
+                    <div class="tooltip">{{ .Params.description | default .Summary }}</div>
+                </div>
+            </div>
+            
+            <div class="category-summary">
+                {{ .Summary | truncate 120 }}
+            </div>
+            
+            <div class="category-meta">
                 {{ len .Pages }}+ tools available
-            {{- end -}}
+            </div>
         </div>
+        {{- end -}}
+    </div>
+
+{{- else -}}
+    {{/* Subcategory page (e.g., /categories/ai-tools-assistants/ai-code-development/) - show tools */}}
+    {{- if .Pages -}}
+    <div class="tool-grid">
+        {{- range .Pages -}}
+        <div class="tool-card">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary | truncate 150 }}</p>
+            <a href="{{ .Permalink }}" class="btn">Learn More →</a>
+        </div>
+        {{- end -}}
     </div>
     {{- end -}}
-</div>
+{{- end -}}
 
 {{ end }}
