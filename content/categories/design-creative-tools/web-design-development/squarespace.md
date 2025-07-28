@@ -6,6 +6,11 @@ subcategory: "Web Design & Development"
 tool_name: "Squarespace"
 deployment_status: "deployed"
 image: "/images/tools/squarespace-placeholder.jpg"
+tags: ["design-creative-tools", "web-design-development"]
+categories: ["Design & Creative Tools"]
+subcategories: ["Web Design & Development"]
+affiliate: true
+featured: true
 ---
 
 # Squarespace

@@ -6,6 +6,11 @@ subcategory: "Analytics & Insights"
 tool_name: "Semrush"
 deployment_status: "deployed"
 image: "/images/tools/semrush-placeholder.jpg"
+tags: ["marketing-social-media", "analytics-insights"]
+categories: ["Marketing & Social Media"]
+subcategories: ["Analytics & Insights"]
+affiliate: true
+featured: true
 ---
 
 # Semrush

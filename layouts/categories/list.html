@@ -266,7 +266,13 @@
             <strong>Subcategories:</strong> Graphic Design, Web Design & Development, Video & Animation
         </div>
         <div class="category-meta">
-            90+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "design-creative-tools" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
@@ -285,7 +291,13 @@
             <strong>Subcategories:</strong> Branding Identity, Marketing Automation, Presentation Tools, Social Media Management
         </div>
         <div class="category-meta">
-            40+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "business-marketing-tools" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
@@ -304,7 +316,13 @@
             <strong>Subcategories:</strong> Social Media Management, Analytics & Insights, Content Creation
         </div>
         <div class="category-meta">
-            70+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "marketing-social-media" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
@@ -323,7 +341,13 @@
             <strong>Subcategories:</strong> Password Management, VPN Services, Security Tools
         </div>
         <div class="category-meta">
-            35+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "security-privacy-tools" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
@@ -342,7 +366,13 @@
             <strong>Subcategories:</strong> Applicant Tracking Systems, Background Checking Verification, Employee Engagement Performance, HR Management Platforms, Job Posting Sourcing
         </div>
         <div class="category-meta">
-            60+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "hr-recruiting-tools" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 

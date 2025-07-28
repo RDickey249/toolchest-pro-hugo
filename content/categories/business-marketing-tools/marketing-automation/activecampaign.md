@@ -6,6 +6,11 @@ subcategory: "Marketing Automation"
 tool_name: "ActiveCampaign"
 deployment_status: "deployed"
 image: "/images/tools/activecampaign-placeholder.jpg"
+tags: ["business-marketing-tools", "marketing-automation"]
+categories: ["Business Marketing Tools"]
+subcategories: ["Marketing Automation"]
+affiliate: true
+featured: true
 ---
 
 # ActiveCampaign

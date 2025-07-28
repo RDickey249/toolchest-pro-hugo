@@ -6,6 +6,11 @@ subcategory: "HR Management Platforms"
 tool_name: "Gusto"
 deployment_status: "deployed"
 image: "/images/tools/gusto-placeholder.jpg"
+tags: ["hr-recruiting-tools", "hr-management-platforms"]
+categories: ["HR & Recruiting Tools"]
+subcategories: ["HR Management Platforms"]
+affiliate: true
+featured: true
 ---
 
 # Gusto
