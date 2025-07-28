@@ -6,13 +6,6 @@
         {{ .Content }}
     </div>
     
-    {{ if .Params.categories }}
-    <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee;">
-        <strong>Category:</strong>
-        {{ range .Params.categories }}
-        <span style="background: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-right: 5px;">{{ . }}</span>
-        {{ end }}
-    </div>
-    {{ end }}
+    {{/* Category tags hidden - breadcrumb navigation provides this info already */}}
 </article>
 {{ end }}

@@ -15,4 +15,34 @@ featured: true
 
 # Pipedrive
 
-Pipedrive revolutionizes visual sales management through intuitive pipeline interface that enables sales teams to track deals visually while maintaining simplicity and proven effectiveness across sales-focused organizations requiring clear deal progression visibility. This platform provides extensive features for pipeline customization, activity tracking, contact management, and sales reporting while offering advanced capabilities like automation, forecasting, and mobile optimization. Pipedrive's strength lies in its visual approach and sales focus, offering specialized CRM that prioritizes deal management through intuitive design and proven adoption among sales-driven teams. The platform excels at serving sales teams, small to medium businesses, and organizations requiring straightforward deal tracking with features like drag-and-drop pipeline, activity reminders, and goal tracking that enable everything from simple sales tracking to comprehensive sales management with visual deal progression, automated follow-ups, and comprehensive sales analytics while providing users with intuitive interfaces, sales-focused features, and proven methodology for managing sales pipelines that emphasize deal progression and sales team productivity.
+Pipedrive is the visual CRM built for sales teams who want to see their deals progress clearly and close more business.
+
+With its intuitive drag-and-drop pipeline interface, Pipedrive makes it easy to track where every deal stands and what actions are needed to move them forward.
+
+**Why sales teams love Pipedrive:**
+- **Visual pipeline** - See all your deals at a glance with drag-and-drop stages
+- **Activity reminders** - Never miss a follow-up or important task
+- **Sales forecasting** - Predict revenue based on pipeline data
+- **Mobile optimization** - Manage your sales on the go
+
+**Core features:**
+- Customizable deal stages and pipelines
+- Contact and company management
+- Email integration and templates
+- Sales reporting and analytics
+- Goal tracking and performance metrics
+- Workflow automation
+
+**Perfect for:**
+- Small to medium sales teams
+- Sales managers who need clear visibility
+- Businesses focused on deal progression
+- Teams that want simplicity over complexity
+
+**Key benefits:**
+- Easy to learn and use (quick team adoption)
+- Affordable pricing for growing teams
+- Strong mobile app for field sales
+- Excellent customer support
+
+Over 100,000 companies use Pipedrive to organize their sales process and close more deals consistently.
