@@ -216,7 +216,13 @@
             <strong>Subcategories:</strong> AI Writing & Content, AI Code Development, AI Design & Creative, AI Productivity & Business, Conversational AI, Prompt Engineering
         </div>
         <div class="category-meta">
-            150+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "ai-tools-assistants" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 
@@ -235,7 +241,13 @@
             <strong>Subcategories:</strong> Business Process Automation, Data Integration, Workflow Automation
         </div>
         <div class="category-meta">
-            50+ tools available
+            {{- $categoryCount := 0 -}}
+            {{- range .Site.RegularPages -}}
+                {{- if in .Params.tags "automation-workflows" -}}
+                    {{- $categoryCount = add $categoryCount 1 -}}
+                {{- end -}}
+            {{- end -}}
+            {{ $categoryCount }} tools available
         </div>
     </div>
 

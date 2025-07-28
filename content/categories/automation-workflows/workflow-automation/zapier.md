@@ -6,6 +6,11 @@ subcategory: "Workflow Automation"
 tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"
+tags: ["automation-workflows", "workflow-automation"]
+categories: ["Automation & Workflows"]
+subcategories: ["Workflow Automation"]
+affiliate: true
+featured: true
 ---
 
 # Zapier

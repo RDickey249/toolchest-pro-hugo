@@ -6,6 +6,11 @@ subcategory: "Marketing Automation"
 tool_name: "Mailchimp"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-placeholder.jpg"
+tags: ["business-marketing-tools", "marketing-automation"]
+categories: ["Business Marketing Tools"]
+subcategories: ["Marketing Automation"]
+affiliate: true
+featured: true
 ---
 
 # Mailchimp
