@@ -1,7 +1,7 @@
 title = "ToolChest Pro"
 baseURL = "https://toolchest.pro/"
 languageCode = "en-us"
-# theme = "m10c"
+theme = "m10c"
 
 enableGitInfo = true
 enableRobotsTXT = true
@@ -39,6 +39,17 @@ paginatePath = "page"
   show_reading_time = true
   background_color_class = "bg-black"
   featured_image = "/images/site-feature-image.jpg"
+  
+  # Logo and branding
+  avatar = "/images/toolchest-logo.svg"
+  
+  # ToolChest Pro Color Scheme
+  [params.style]
+    darkestColor = "#2E3A46"     # Deep iron gray background
+    darkColor = "#444444"        # Card background (slightly lighter)
+    lightColor = "#9EC9FF"       # Pale blue accent text for headings
+    lightestColor = "#FFFFFF"    # Pure white primary text
+    primaryColor = "#E74C3C"     # Bold red for CTA/buttons
   
   # Social media
   [params.social]
