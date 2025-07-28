@@ -106,3 +106,10 @@ Built with privacy and speed as core principles, Telegram offers advanced featur
 - **Active development** - Regular updates with new features
 
 Used by over 700 million people worldwide who value privacy, security, and powerful communication features that respect user rights.
+
+## Get Started with Telegram
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://telegram.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Telegram →</a>
+  <a href="https://telegram.org/apps" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Download Apps →</a>
+</div>

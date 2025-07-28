@@ -101,3 +101,10 @@ The world's most widely used productivity suite, now enhanced with cloud-based c
 - **Continuous updates** - Always get the latest features automatically
 
 Used by over 345 million paid seats worldwide, Microsoft 365 remains the gold standard for business productivity and collaboration.
+
+## Get Started with Microsoft 365
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Microsoft 365 →</a>
+  <a href="https://www.microsoft.com/microsoft-365/try" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
