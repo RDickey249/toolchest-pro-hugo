@@ -5,11 +5,9 @@ date: 2025-01-25
 draft: false
 ---
 
-# About ToolChest
-
 ## Our Mission: Cutting Through the Tool Overwhelm
 
-ToolChest is a comprehensive directory of 1,200+ business tools organized to help you discover what you need without the overwhelm. In a world where new business tools launch every day, we provide a structured, searchable catalog that cuts through the noise. Our goal is simple: organize the business tool landscape so you can find what you're looking for quickly and efficiently. We believe that the right tools should be easy to discover, and our categorized approach helps you explore by function, use case, and business need.
+ToolChest is a comprehensive directory of 1,271+ business tools organized to help you discover what you need without the overwhelm. In a world where new business tools launch every day, we provide a structured, searchable catalog that cuts through the noise. Our goal is simple: organize the business tool landscape so you can find what you're looking for quickly and efficiently. We believe that the right tools should be easy to discover, and our categorized approach helps you explore by function, use case, and business need.
 
 ## About Ryan Dickey
 
@@ -51,15 +49,34 @@ ToolChest is a comprehensive directory of 1,200+ business tools organized to hel
 
 .author-bio {
   flex: 1;
+  max-width: calc(100% - 240px); /* Prevent text overflow beyond photo width + gap */
+  overflow-wrap: break-word; /* Handle long words gracefully */
 }
 
 .author-bio p {
   margin: 0 0 1rem 0;
   line-height: 1.6;
+  color: #FFFFFF; /* Ensure good contrast on dark background */
 }
 
 .author-bio p:last-child {
   margin-bottom: 0;
+}
+
+/* Link styling for better readability on dark background */
+a {
+  color: #9EC9FF; /* Light blue for good contrast */
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #FFFFFF; /* White on hover for emphasis */
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #B8D4FF; /* Slightly different shade for visited links */
 }
 
 /* Mobile responsiveness */
@@ -74,6 +91,10 @@ ToolChest is a comprehensive directory of 1,200+ business tools organized to hel
     width: 150px;
     height: 150px;
     margin: 0 auto;
+  }
+  
+  .author-bio {
+    max-width: 100%; /* Full width on mobile */
   }
 }
 </style>
