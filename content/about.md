@@ -56,11 +56,12 @@ ToolChest is a comprehensive directory of 1,271+ business tools organized to hel
 }
 
 .author-bio p {
-  margin: 0 0 1rem 0;
-  line-height: 1.6;
-  color: #FFFFFF; /* Ensure good contrast on dark background */
-  font-size: 16px; /* Ensure consistent font size for all paragraphs */
-  font-weight: normal; /* Ensure consistent font weight */
+  margin: 0 0 1rem 0 !important;
+  line-height: 1.6 !important;
+  color: #FFFFFF !important;
+  font-size: 16px !important; /* Force consistent font size */
+  font-weight: normal !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
 }
 
 .author-bio p:last-child {
