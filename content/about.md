@@ -9,7 +9,7 @@ draft: false
 
 ## Our Mission: Cutting Through the Tool Overwhelm
 
-ToolChest is an anti-overwhelm curation platform that synthesizes expert opinions on business tools to help users make confident decisions without the research fatigue. In a world with 1000+ business tools competing for your attention, we cut through the noise by providing curated, expert-backed recommendations that save you time and decision paralysis. Our goal is simple: do the research you don't have time to do yourself, so you can focus on what matters most—growing your business. We believe that the right tools should empower your workflow, not complicate it, and every recommendation we make is backed by real-world testing and expert analysis.
+ToolChest is a comprehensive directory of 1,200+ business tools organized to help you discover what you need without the overwhelm. In a world where new business tools launch every day, we provide a structured, searchable catalog that cuts through the noise. Our goal is simple: organize the business tool landscape so you can find what you're looking for quickly and efficiently. We believe that the right tools should be easy to discover, and our categorized approach helps you explore by function, use case, and business need.
 
 ## About Ryan Dickey
 
@@ -18,9 +18,9 @@ ToolChest is an anti-overwhelm curation platform that synthesizes expert opinion
     <img src="/images/ryan-dickey.jpg" alt="Ryan Dickey - AI Content Strategist and ToolChest Founder" class="author-image">
   </div>
   <div class="author-bio">
-    <p>Ryan Dickey is an AI Content Strategist and Apress author who founded ToolChest after experiencing firsthand the overwhelming nature of choosing the right business tools in today's saturated market. With extensive expertise in AI-powered content creation and systematic business tool evaluation, Ryan combines deep technical knowledge with practical business experience to provide trustworthy recommendations you can act on with confidence.</p>
+    <p>Ryan Dickey is an AI Content Strategist and Apress author who founded ToolChest after experiencing firsthand the overwhelming nature of choosing the right business tools in today's saturated market. With extensive expertise in AI-powered content creation and business tool research, Ryan created this comprehensive directory to help others navigate the complex landscape of business software and services.</p>
     
-    <p>His approach focuses relentlessly on real-world usability and genuine business impact over marketing hype and feature bloat, ensuring every tool recommendation serves actual business needs rather than vendor interests.</p>
+    <p>His approach focuses on organization and accessibility, creating a structured catalog that helps users discover tools by category and function rather than getting lost in endless lists and marketing pages.</p>
   </div>
 </div>
 
@@ -31,9 +31,9 @@ ToolChest is an anti-overwhelm curation platform that synthesizes expert opinion
   align-items: flex-start;
   margin: 2rem 0;
   padding: 1.5rem;
-  background-color: #f8f9fa;
+  background-color: #444444;
   border-radius: 8px;
-  border-left: 4px solid #007bff;
+  border-left: 4px solid #E74C3C;
 }
 
 .author-photo {
@@ -80,9 +80,9 @@ ToolChest is an anti-overwhelm curation platform that synthesizes expert opinion
 
 ## Ready to Find Your Perfect Tools?
 
-Stop wasting time comparing endless options. Explore our expertly curated categories and find the tools that will actually move your business forward.
+Ready to explore our organized collection of business tools? Browse by category to find exactly what you're looking for.
 
-[Browse All Tool Categories →](/)
+[Browse All Tool Categories →](/categories/)
 
 ---
 

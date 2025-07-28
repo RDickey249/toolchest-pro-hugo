@@ -278,14 +278,14 @@ description: "Cut through the noise of 1000+ business tools. Expert-backed recom
 
 ## Why ToolChest?
 
-**We do the research you don't have time to do.** Our anti-overwhelm approach focuses on real-world usability over marketing hype, combining technical expertise with practical business experience.
+**We organize the tools so you don't have to search endlessly.** Our structured approach focuses on clear categorization and easy discovery, making business tool exploration simple and efficient.
 
-- **✓ Expert-Backed Curation** - Every recommendation tested and validated
-- **✓ Anti-Overwhelm Focus** - Cut through 1000+ tools to find what works  
-- **✓ Real-World Testing** - Practical insights beyond feature lists
-- **✓ No Marketing Hype** - Honest assessments focused on genuine business value
+- **✓ Organized by Function** - Tools grouped by business purpose and use case
+- **✓ 1,200+ Tools Indexed** - Comprehensive directory across all business categories  
+- **✓ Easy Navigation** - Category → Subcategory → Tool structure
+- **✓ Search Functionality** - Find specific tools or browse by category
 
-**Ready to find tools that actually move your business forward?**
+**Ready to explore our organized tool collection?**
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="/categories/" style="display: inline-block; background: #28a745; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Browse All Tool Categories →</a>
