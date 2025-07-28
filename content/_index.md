@@ -256,97 +256,6 @@ description: "Cut through the noise of 1000+ business tools. Expert-backed recom
   z-index: 1;
 }
 
-/* Regular Tools Section */
-.featured-tools {
-  margin: 2rem 0;
-}
-
-.featured-tools h3 {
-  color: #2c3e50;
-  border-bottom: 3px solid #007bff;
-  padding-bottom: 0.5rem;
-  margin: 3rem 0 1rem 0;
-}
-
-.featured-tools h3:first-of-type {
-  margin-top: 2rem;
-}
-
-.featured-tools p {
-  color: #666;
-  font-style: italic;
-  margin-bottom: 1.5rem;
-}
-
-.tool-showcase {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin: 1.5rem 0;
-}
-
-.tool-card {
-  background: #f8f9fa;
-  border: 1px solid #e9ecef;
-  border-radius: 8px;
-  padding: 1.5rem;
-  transition: all 0.3s ease;
-  border-left: 4px solid #007bff;
-}
-
-.tool-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.15);
-  border-left-color: #0056b3;
-}
-
-.tool-card h4 {
-  margin: 0 0 0.5rem 0;
-  color: #2c3e50;
-}
-
-.tool-card h4 a {
-  text-decoration: none;
-  color: inherit;
-}
-
-.tool-card h4 a:hover {
-  color: #007bff;
-}
-
-.tool-category {
-  font-size: 0.875rem;
-  color: #007bff !important;
-  font-weight: 600;
-  margin: 0 0 0.75rem 0 !important;
-  font-style: normal !important;
-}
-
-.tool-card p:last-of-type {
-  margin-bottom: 0;
-  color: #555;
-  line-height: 1.5;
-}
-
-.category-link {
-  text-align: center;
-  margin: 2rem 0 3rem 0;
-}
-
-.category-link a {
-  display: inline-block;
-  background: #007bff;
-  color: white;
-  padding: 0.75rem 1.5rem;
-  text-decoration: none;
-  border-radius: 5px;
-  font-weight: 500;
-  transition: background-color 0.3s ease;
-}
-
-.category-link a:hover {
-  background: #0056b3;
-}
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
@@ -361,14 +270,6 @@ description: "Cut through the noise of 1000+ business tools. Expert-backed recom
   
   .featured-affiliate-tools .tool-showcase {
     grid-template-columns: 1fr;
-  }
-  
-  .tool-showcase {
-    grid-template-columns: 1fr;
-  }
-  
-  .tool-card {
-    padding: 1.25rem;
   }
 }
 </style>

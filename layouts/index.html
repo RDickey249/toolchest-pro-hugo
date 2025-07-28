@@ -1,16 +1,3 @@
 {{ define "main" }}
 {{ .Content }}
-
-<div class="category-list">
-    {{ range (where .Site.Pages "Type" "categories").ByTitle }}
-    {{ if ne .Title "Categories" }}
-    <div class="category-item">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-        <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #666;">
-            {{ .Description | default .Summary | truncate 100 }}
-        </p>
-    </div>
-    {{ end }}
-    {{ end }}
-</div>
 {{ end }}
