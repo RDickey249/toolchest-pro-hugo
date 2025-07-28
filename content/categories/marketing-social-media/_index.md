@@ -1,7 +1,7 @@
 ---
 title: "Marketing & Social Media"
 description: "Social media management, content creation, and marketing analytics tools"
-weight: 21
+weight: 6
 ---
 
 # 📱 Marketing & Social Media

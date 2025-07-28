@@ -1,7 +1,7 @@
 ---
 title: "Security & Privacy Tools"
 description: "Cybersecurity, privacy protection, and data security solutions"
-weight: 16
+weight: 8
 ---
 
 # 🔒 Security & Privacy Tools

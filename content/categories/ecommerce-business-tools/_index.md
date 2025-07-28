@@ -1,7 +1,7 @@
 ---
 title: "E-commerce & Business Tools"
 description: "Online store platforms, payment processing, and inventory management solutions"
-weight: 19
+weight: 1
 ---
 
 # 🛍️ E-commerce & Business Tools

@@ -1,7 +1,6 @@
 ---
 title: "Analytics & Data Tools"
 description: "Web analytics, business intelligence, and data management platforms"
-weight: 17
 ---
 
 # 📊 Analytics & Data Tools

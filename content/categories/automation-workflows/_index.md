@@ -1,7 +1,7 @@
 ---
 title: "Automation & Workflows"
 description: "Business process automation, workflow management, and integration tools"
-weight: 14
+weight: 7
 ---
 
 # ⚙️ Automation & Workflows

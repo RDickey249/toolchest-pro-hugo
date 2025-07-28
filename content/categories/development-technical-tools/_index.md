@@ -1,7 +1,7 @@
 ---
 title: "Development & Technical Tools"
 description: "Essential development tools, frameworks, and technical platforms for software engineering"
-weight: 3
+weight: 10
 ---
 
 # 🛠️ Development & Technical Tools

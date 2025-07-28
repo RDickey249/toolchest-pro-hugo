@@ -4,6 +4,7 @@ tagline: "Marketing automation, branding, and presentation platforms"
 category: "Business Marketing"
 description: "Business marketing tools empower organizations to build brand identity, automate marketing campaigns, and create compelling presentations. From logo design platforms to sophisticated marketing automation systems, these tools help businesses attract, engage, and convert customers across all touchpoints. Whether you're building brand recognition, nurturing leads through email campaigns, or creating professional presentations, these platforms provide the capabilities needed for effective marketing and business growth."
 image: "/images/categories/business-marketing-placeholder.jpg"
+weight: 3
 ---
 
 # Business Marketing Tools

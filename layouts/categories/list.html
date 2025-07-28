@@ -220,7 +220,23 @@
             {{- end -}}
         {{- end -}}
         
-        {{- range sort $topLevelCategories ".Params.weight" "asc" -}}
+        {{/* Hybrid sorting: Tier 1 (weighted affiliate categories) first, then Tier 2 (alphabetical) */}}
+        {{- $tier1Categories := slice -}}
+        {{- $tier2Categories := slice -}}
+        
+        {{- range $topLevelCategories -}}
+            {{- if .Params.weight -}}
+                {{- $tier1Categories = $tier1Categories | append . -}}
+            {{- else -}}
+                {{- $tier2Categories = $tier2Categories | append . -}}
+            {{- end -}}
+        {{- end -}}
+        
+        {{- $sortedTier1 := sort $tier1Categories ".Params.weight" "asc" -}}
+        {{- $sortedTier2 := sort $tier2Categories ".Title" "asc" -}}
+        {{- $allSortedCategories := $sortedTier1 | append $sortedTier2 -}}
+        
+        {{- range $allSortedCategories -}}
         <div class="category-card">
             <div class="category-header">
                 <h3 class="category-title">

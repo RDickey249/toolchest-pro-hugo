@@ -1,7 +1,6 @@
 ---
 title: "Finance & Accounting"
 description: "Professional financial management, accounting software, and business finance tools"
-weight: 11
 ---
 
 # 💰 Finance & Accounting

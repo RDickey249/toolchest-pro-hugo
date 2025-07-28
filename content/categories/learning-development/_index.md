@@ -1,7 +1,6 @@
 ---
 title: "Learning & Development"
 description: "Online education, skill development, and professional training platforms"
-weight: 18
 ---
 
 # 🎓 Learning & Development

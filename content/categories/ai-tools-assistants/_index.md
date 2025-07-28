@@ -1,7 +1,7 @@
 ---
 title: "AI Tools & Assistants"
 description: "Comprehensive directory of AI-powered tools and assistants for every use case"
-weight: 1
+weight: 4
 ---
 
 # 🤖 AI Tools & Assistants

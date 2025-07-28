@@ -1,7 +1,6 @@
 ---
 title: "Communication & Collaboration"
 description: "Essential tools for team communication, document collaboration, and remote work coordination"
-weight: 2
 ---
 
 # 💬 Communication & Collaboration

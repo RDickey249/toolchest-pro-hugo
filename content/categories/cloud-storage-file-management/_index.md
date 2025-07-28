@@ -1,7 +1,6 @@
 ---
 title: "Cloud Storage & File Management"
 description: "Cloud storage, file sharing, and document management solutions"
-weight: 15
 ---
 
 # ☁️ Cloud Storage & File Management

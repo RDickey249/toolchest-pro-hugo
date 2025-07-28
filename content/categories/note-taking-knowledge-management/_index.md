@@ -1,7 +1,6 @@
 ---
 title: "Note-Taking & Knowledge Management"
 description: "Digital note-taking, knowledge management, and information organization tools"
-weight: 13
 ---
 
 # 📝 Note-Taking & Knowledge Management

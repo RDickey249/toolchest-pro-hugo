@@ -3,6 +3,7 @@ title: "HR & Recruiting Tools"
 description: "Comprehensive human resources and recruiting solutions"
 category_emoji: "👥"
 layout: "category"
+weight: 9
 ---
 
 # HR & Recruiting Tools

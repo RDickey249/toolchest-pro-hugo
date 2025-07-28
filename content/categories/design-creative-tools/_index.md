@@ -1,7 +1,7 @@
 ---
 title: "Design & Creative Tools"
 description: "Graphic design, web development, and creative production tools"
-weight: 22
+weight: 5
 ---
 
 # 🎨 Design & Creative Tools
