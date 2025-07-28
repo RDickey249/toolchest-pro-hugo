@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Pre-commit hook to auto-heal ToolChest structure
+# This runs locally before commits to prevent issues
+
+echo "🔧 Pre-commit: Auto-healing ToolChest structure..."
+
+# Run the auto-heal script
+if [ -f "scripts/auto-heal.sh" ]; then
+    ./scripts/auto-heal.sh
+    
+    # If files were created, add them to the commit
+    if git diff --quiet content/categories/; then
+        echo "✅ No structure issues found"
+    else
+        echo "🔧 Adding auto-generated _index.md files to commit"
+        git add content/categories/
+    fi
+else
+    echo "⚠️  Auto-heal script not found, skipping..."
+fi
+
+exit 0

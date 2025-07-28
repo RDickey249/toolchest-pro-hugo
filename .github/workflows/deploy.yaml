@@ -55,6 +55,11 @@ jobs:
             npm ci || yarn install --frozen-lockfile
           fi
 
+      - name: Auto-heal site structure
+        run: |
+          chmod +x scripts/auto-heal.sh
+          ./scripts/auto-heal.sh
+
       - name: Build Hugo site
         env:
           # For maximum backward compatibility with Hugo modules
