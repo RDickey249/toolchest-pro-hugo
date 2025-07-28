@@ -31,6 +31,11 @@
             align-items: center;
             gap: 15px;
         }
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
         .site-logo {
             height: 120px;
             width: auto;
@@ -284,6 +289,39 @@
             background: #20c997;
         }
         
+        /* Tool Counter Styles */
+        .tool-counter {
+            background: rgba(68, 68, 68, 0.9);
+            border: 1px solid #666;
+            border-radius: 20px;
+            padding: 8px 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            min-width: 140px;
+            justify-content: center;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+        .tool-counter:hover {
+            background: rgba(158, 201, 255, 0.1);
+            border-color: #9EC9FF;
+            transform: scale(1.05);
+        }
+        .tool-count-number {
+            font-size: 18px;
+            font-weight: 700;
+            color: #E74C3C;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        }
+        .tool-count-label {
+            font-size: 12px;
+            color: #9EC9FF;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
         /* Mobile Responsiveness */
         @media (max-width: 768px) {
             header {
@@ -294,9 +332,25 @@
                 width: 100%;
                 justify-content: center;
             }
+            .header-right {
+                flex-direction: column;
+                gap: 15px;
+                width: 100%;
+            }
             .header-search {
                 width: 100%;
                 min-width: auto;
+            }
+            .tool-counter {
+                order: 2;
+                min-width: auto;
+                padding: 6px 12px;
+            }
+            .tool-count-number {
+                font-size: 16px;
+            }
+            .tool-count-label {
+                font-size: 11px;
             }
         }
     </style>
@@ -319,12 +373,28 @@
             </div>
         </div>
         
-        <div class="header-search">
-            <input type="text" class="header-search-input" id="searchInput" placeholder="Search tools, categories, or anything...">
-            <button class="search-btn" onclick="performSearch()">
-                <span class="search-icon">🔍</span>
-            </button>
-            <div class="search-results" id="searchResults"></div>
+        <div class="header-right">
+            <div class="tool-counter">
+                {{- $toolCount := 0 -}}
+                {{- range .Site.RegularPages -}}
+                    {{- if and (eq .Section "categories") (not (eq .Kind "section")) -}}
+                        {{- $pathParts := split .RelPermalink "/" -}}
+                        {{- if ge (len $pathParts) 5 -}}
+                            {{- $toolCount = add $toolCount 1 -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- end -}}
+                <span class="tool-count-number">{{ $toolCount }}</span>
+                <span class="tool-count-label">Tools Curated</span>
+            </div>
+            
+            <div class="header-search">
+                <input type="text" class="header-search-input" id="searchInput" placeholder="Search tools, categories, or anything...">
+                <button class="search-btn" onclick="performSearch()">
+                    <span class="search-icon">🔍</span>
+                </button>
+                <div class="search-results" id="searchResults"></div>
+            </div>
         </div>
     </header>
     
