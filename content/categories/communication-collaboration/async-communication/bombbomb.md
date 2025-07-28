@@ -60,3 +60,10 @@ Perfect for sales teams, real estate professionals, and customer service represe
 - **Professional branding** - Consistent video templates maintain brand standards
 
 Used by over 63,000 professionals to humanize digital communication and build stronger business relationships.
+
+## Get Started with BombBomb
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://bombbomb.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit BombBomb →</a>
+  <a href="https://bombbomb.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
