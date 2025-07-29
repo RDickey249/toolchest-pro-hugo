@@ -10,4 +10,26 @@ image: "/images/tools/nextcloud-placeholder.jpg"
 
 # Nextcloud
 
-Nextcloud revolutionizes self-hosted cloud collaboration through open-source platform that enables organizations to maintain complete control over data while providing comprehensive collaboration features and proven effectiveness across privacy-conscious organizations requiring on-premises cloud capabilities. This platform provides extensive features for file sync, collaborative editing, video conferencing, and calendar integration while offering advanced capabilities like end-to-end encryption, workflow automation, and extensive app ecosystem. Nextcloud's strength lies in its open-source nature and data sovereignty, offering complete cloud solution that maintains local control through self-hosting and proven reliability without vendor dependencies. The platform excels at serving government agencies, educational institutions, and privacy-focused organizations requiring controlled cloud services with features like federated sharing, LDAP integration, and comprehensive audit logs that enable everything from team collaboration to enterprise file services with GDPR compliance, extensive customization, and complete data ownership while providing users with open-source transparency, comprehensive feature set, and proven alternative to commercial cloud services for organizations prioritizing data sovereignty and privacy control.
+Nextcloud is an open-source self-hosted cloud collaboration platform that enables organizations to maintain complete control over their data while providing comprehensive collaboration features.
+
+## Key Features
+
+- **Self-hosted** - Complete data ownership and control
+- **Open-source** - Transparent, auditable codebase
+- **File sync** - Cross-platform synchronization
+- **Collaborative editing** - Real-time document collaboration
+- **Video conferencing** - Integrated communication tools
+- **End-to-end encryption** - Advanced security features
+- **App ecosystem** - Extensive third-party integrations
+
+## Use Cases
+
+- Government data sovereignty
+- Educational institution privacy
+- Healthcare compliance
+- Enterprise self-hosted clouds
+- Privacy-focused organizations
+
+## Get Started with Nextcloud
+
+Deploy your own secure cloud with complete data control. Visit [nextcloud.com](https://nextcloud.com) to implement self-hosted collaboration.
