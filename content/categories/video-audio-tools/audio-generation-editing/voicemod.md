@@ -30,7 +30,9 @@ Voicemod brings entertainment and creativity to voice communication through real
 • Some voices sound artificial
 • Subscription for premium voices
 
-[Transform Your Voice with Voicemod →](https://www.voicemod.net)
+## Get Started with Voicemod
+
+Transform your voice in real-time. Visit [voicemod.net](https://www.voicemod.net) to download Voicemod free and become anyone or anything with your voice.
 
 ## How It Compares
 

@@ -30,7 +30,9 @@ Pictory transforms content creation by automatically converting blog posts, arti
 • AI voice can sound robotic
 • Limited advanced editing features
 
-[Transform Your Content with Pictory →](https://pictory.ai)
+## Get Started with Pictory
+
+Turn your blog posts into videos instantly. Visit [pictory.ai](https://pictory.ai) to start your free trial and transform text into compelling video content with AI.
 
 ## How It Compares
 

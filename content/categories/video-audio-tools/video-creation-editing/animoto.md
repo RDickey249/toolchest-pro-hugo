@@ -30,7 +30,9 @@ Animoto simplifies video creation for small businesses and marketers through an 
 • Basic animation capabilities
 • Limited creative control
 
-[Create Marketing Videos with Animoto →](https://animoto.com)
+## Get Started with Animoto
+
+Create marketing videos that work. Visit [animoto.com](https://animoto.com) to start your free trial and make professional videos in minutes with drag-and-drop simplicity.
 
 ## How It Compares
 
