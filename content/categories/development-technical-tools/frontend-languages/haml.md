@@ -10,4 +10,27 @@ image: "/images/tools/haml-placeholder.jpg"
 
 # HAML
 
-HAML revolutionizes HTML templating through its elegant, indentation-based syntax that replaces verbose HTML with a clean, readable format inspired by Ruby's philosophy of programmer happiness, making markup beautiful, DRY, and remarkably efficient while eliminating the visual clutter of traditional HTML. This HTML abstraction markup language transforms how developers write templates by using significant whitespace, CSS-style selectors for elements and attributes, and Ruby-style interpolation that reduces HTML verbosity by up to 50% while maintaining perfect semantic structure and making templates easier to read, write, and maintain. HAML's design philosophy centers on making markup as clean as possible, with features like automatic tag closing based on indentation, inline Ruby evaluation for dynamic content, filters for embedding other languages like JavaScript or Markdown, and helper methods that streamline common patterns like forms and links. The language excels in Ruby on Rails applications where it originated but has expanded to other platforms through implementations in PHP, Python, and JavaScript, making it accessible to developers who appreciate its emphasis on beautiful code, reduced typing, and templates that clearly express document structure through visual hierarchy rather than nested closing tags.
+HAML is an HTML abstraction markup language that uses indentation-based syntax to create clean, readable templates with reduced verbosity and visual clutter.
+
+## Key Features
+
+- **Indentation-based** - Significant whitespace instead of closing tags
+- **CSS-style selectors** - Easy element and attribute definition
+- **Ruby interpolation** - Dynamic content with Ruby expressions
+- **Automatic tag closing** - Structure defined by indentation
+- **Filters** - Embed JavaScript, Markdown, and other languages
+- **Helper methods** - Streamlined forms and common patterns
+- **DRY principles** - Reduced HTML verbosity by up to 50%
+- **Cross-platform** - Available for Ruby, PHP, Python, and JavaScript
+
+## Use Cases
+
+- Ruby on Rails template development
+- Clean HTML template generation
+- Rapid prototyping
+- Maintainable markup systems
+- Framework-agnostic templating
+
+## Get Started with HAML
+
+Write beautiful HTML templates with minimal syntax. Visit [haml.info](https://haml.info) to clean up markup development.

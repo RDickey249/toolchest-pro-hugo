@@ -10,4 +10,27 @@ image: "/images/tools/pug-placeholder.jpg"
 
 # Pug
 
-Pug transforms HTML development through a clean, whitespace-sensitive syntax that eliminates closing tags and angle brackets, enabling developers to write markup faster and more readable while reducing errors and improving maintainability through a powerful template engine that has become a favorite among Node.js developers. This robust HTML preprocessor, formerly known as Jade, leverages indentation-based syntax similar to Python, making templates more concise and visually appealing while providing powerful features like mixins for reusable components, includes for modular templates, and dynamic content generation through JavaScript expressions and logic. Pug's template inheritance system enables sophisticated layout management where child templates can extend parent layouts and override specific blocks, promoting DRY principles and consistent structure across large web applications while supporting features like conditionals, loops, and filters for markdown or custom transformations. The preprocessor excels in server-side rendering scenarios with Express.js and other Node.js frameworks, but also integrates seamlessly with modern build tools like Webpack and Gulp, making it versatile for both traditional server-rendered applications and modern JavaScript build pipelines where its concise syntax and powerful features significantly accelerate HTML development.
+Pug is a clean, whitespace-sensitive HTML template engine that eliminates closing tags and angle brackets for faster, more readable markup development.
+
+## Key Features
+
+- **Indentation-based syntax** - Clean templates without closing tags
+- **Template inheritance** - Extend layouts and override blocks
+- **Mixins** - Reusable template components
+- **Dynamic content** - JavaScript expressions and logic
+- **Includes** - Modular template composition
+- **Filters** - Support for Markdown and custom transformations
+- **Express.js integration** - Native Node.js framework support
+- **Build tool compatibility** - Works with Webpack, Gulp, and others
+
+## Use Cases
+
+- Server-side rendered applications
+- Express.js template rendering
+- Static site generation
+- Component-based HTML development
+- Rapid prototyping
+
+## Get Started with Pug
+
+Write clean HTML templates with indentation-based syntax. Visit [pugjs.org](https://pugjs.org) to streamline markup development.
