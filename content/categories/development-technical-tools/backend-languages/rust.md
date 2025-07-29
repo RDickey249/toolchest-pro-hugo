@@ -10,4 +10,27 @@ image: "/images/tools/rust-placeholder.jpg"
 
 # Rust
 
-Rust redefines systems programming by delivering memory safety without garbage collection, achieving the impossible trinity of safety, speed, and concurrency through its revolutionary ownership system that eliminates entire classes of bugs at compile time while matching or exceeding C++ performance. This modern systems language's borrow checker enforces memory safety and thread safety at compile time, preventing null pointer dereferences, buffer overflows, and data races before code ever runs, while zero-cost abstractions ensure these safety guarantees come without runtime overhead. Rust's expressive type system, pattern matching, and trait-based generics provide powerful abstractions for building everything from operating systems and game engines to web services and embedded systems, with major projects like Firefox's Servo engine, Discord's backend services, and Microsoft's Windows components proving its production readiness. The language excels through its exceptional tooling including Cargo package manager, comprehensive documentation, helpful compiler errors that teach as they correct, and a vibrant ecosystem that has made Rust the most loved programming language in Stack Overflow surveys for multiple years, attracting developers who refuse to compromise between performance and safety in systems programming.
+Rust is a systems programming language that delivers memory safety without garbage collection through its ownership system, achieving safety, speed, and concurrency without compromising performance.
+
+## Key Features
+
+- **Memory safety** - Prevents null pointers, buffer overflows, and memory leaks
+- **Zero-cost abstractions** - High-level features without runtime overhead
+- **Ownership system** - Compile-time memory management without garbage collection
+- **Concurrency** - Safe concurrent programming with data race prevention
+- **Pattern matching** - Powerful control flow with match expressions
+- **Trait system** - Flexible type system with zero-cost generics
+- **Cargo package manager** - Built-in dependency management and build system
+- **Excellent tooling** - Helpful compiler errors and comprehensive documentation
+
+## Use Cases
+
+- Systems programming and operating systems
+- Web services and backend development
+- Game engines and performance-critical applications
+- Embedded systems and IoT devices
+- Blockchain and cryptocurrency projects
+
+## Get Started with Rust
+
+Build fast, safe systems with modern language features. Visit [rust-lang.org](https://www.rust-lang.org) to learn systems programming.

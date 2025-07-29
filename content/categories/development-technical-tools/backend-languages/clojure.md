@@ -10,4 +10,27 @@ image: "/images/tools/clojure-placeholder.jpg"
 
 # Clojure
 
-Clojure brings the elegance of Lisp to modern software development through its emphasis on functional programming, immutable data structures, and powerful concurrency primitives, while running on the JVM to provide access to Java's vast ecosystem and battle-tested performance characteristics. This dynamic, functional language treats code as data through its homoiconic syntax, enabling powerful metaprogramming capabilities and domain-specific languages while maintaining simplicity through its consistent use of parentheses and emphasis on composition over inheritance. Clojure's approach to concurrency through software transactional memory, agents, and persistent data structures provides elegant solutions to parallel programming challenges, making it particularly well-suited for data processing, financial systems, and applications requiring high concurrency without the complexity of traditional locking mechanisms. The language excels in environments requiring rapid development, data transformation, and reliable concurrent processing, with its REPL-driven development enabling interactive programming that accelerates the development cycle, while its functional approach and immutable-by-default data structures eliminate many common sources of bugs and make reasoning about program behavior significantly easier than in imperative languages.
+Clojure is a dynamic, functional Lisp language that runs on the JVM, emphasizing immutable data structures, powerful concurrency primitives, and elegant solutions to parallel programming challenges.
+
+## Key Features
+
+- **Functional programming** - Immutable data structures and functional approach
+- **JVM compatibility** - Access to Java's vast ecosystem and performance
+- **Homoiconic syntax** - Code as data enabling powerful metaprogramming
+- **Concurrency primitives** - Software transactional memory and agents
+- **REPL-driven development** - Interactive programming for rapid development
+- **Persistent data structures** - Efficient immutable collections
+- **Metaprogramming** - Macros and domain-specific language creation
+- **Java interoperability** - Seamless integration with Java libraries
+
+## Use Cases
+
+- Data processing and transformation
+- Financial systems and trading platforms
+- High-concurrency applications
+- Interactive development environments
+- Functional programming projects
+
+## Get Started with Clojure
+
+Explore functional programming with elegant Lisp syntax on the JVM. Visit [clojure.org](https://clojure.org) to learn functional development.
