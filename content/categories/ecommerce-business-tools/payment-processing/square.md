@@ -10,4 +10,26 @@ image: "/images/tools/square-placeholder.jpg"
 
 # Square
 
-Square revolutionizes unified payment processing through omnichannel commerce that enables seamless in-person and online transactions while maintaining simplicity and proven effectiveness across small businesses requiring integrated payment solutions and retail operations needing unified commerce with comprehensive business management tools for complete retail operations. This platform provides extensive features for point-of-sale systems, online payments, inventory management, and customer analytics while offering advanced capabilities like appointment booking, payroll processing, and business loans. Square's strength lies in its ecosystem integration and small business focus, offering complete commerce solution that unifies all business operations and proven adoption among small businesses and retail establishments. The platform excels at serving small businesses, restaurants, and retail stores requiring unified commerce with features like integrated POS, online store, and business management that enable everything from coffee shop operations to multi-location retail with operational unity, business simplicity, and comprehensive commerce management while providing users with unified commerce platform, integrated business tools, and proven methodology for streamlined business operations through omnichannel integration and comprehensive business ecosystem.
+Square is a comprehensive commerce platform that unifies in-person and online payments with integrated business management tools for small businesses and retailers.
+
+## Key Features
+
+- **Unified commerce** - Seamless in-person and online transactions
+- **Point-of-sale systems** - Complete POS hardware and software
+- **Online payments** - E-commerce and online store capabilities
+- **Inventory management** - Real-time stock tracking and management
+- **Customer analytics** - Detailed customer insights and reporting
+- **Business loans** - Access to working capital and financing
+- **Ecosystem integration** - Payroll, appointments, and business tools
+
+## Use Cases
+
+- Small business payment processing
+- Restaurant and retail operations
+- Omnichannel commerce management
+- Service-based business operations
+- Multi-location retail management
+
+## Get Started with Square
+
+Unify your business operations. Visit [squareup.com](https://squareup.com) to accept payments everywhere.
