@@ -10,4 +10,27 @@ image: "/images/tools/sublime-text-placeholder.jpg"
 
 # Sublime Text
 
-Sublime Text delivers exceptional performance and elegance through its meticulously crafted text editing experience that prioritizes speed, responsiveness, and intuitive design, offering a lightweight yet powerful editor that handles massive files effortlessly while providing sophisticated features like multiple selections, powerful search and replace, and lightning-fast file navigation that enable developers to edit code with unprecedented efficiency. This premium editor distinguishes itself through its minimalist interface that stays out of the way while providing immediate access to advanced functionality through its command palette, goto anything navigation, and sophisticated key binding system that enables expert users to perform complex editing tasks without ever touching the mouse. Sublime Text's Python-based plugin architecture enables extensive customization and automation through its Package Control ecosystem, offering everything from language-specific enhancements and linting tools to workflow automation and aesthetic themes, while maintaining the core performance characteristics that make it ideal for working with large codebases, multiple files, and resource-constrained environments. The editor excels in scenarios requiring raw editing power, speed, and reliability, particularly for developers who value performance over IDE-style features, offering cross-platform consistency, distraction-free editing modes, and project management capabilities that make it a favorite among web developers, system administrators, and anyone who spends significant time editing text files, while its reasonable licensing model and long-term stability ensure that investments in customization and workflow optimization pay dividends for years of productive development work.
+Sublime Text is a sophisticated text editor focused on performance, elegance, and powerful editing features with a lightweight, minimalist interface.
+
+## Key Features
+
+- **Exceptional performance** - Lightning-fast file handling and responsiveness
+- **Multiple selections** - Edit multiple locations simultaneously
+- **Command palette** - Quick access to all functionality
+- **Goto anything** - Instant file, symbol, and line navigation
+- **Python-based plugins** - Extensive customization through Package Control
+- **Distraction-free mode** - Clean, focused editing environment
+- **Cross-platform** - Consistent experience across operating systems
+- **Large file handling** - Efficiently work with massive codebases
+
+## Use Cases
+
+- High-performance text and code editing
+- Large file manipulation
+- Web development workflows
+- System administration tasks
+- Markdown and documentation writing
+
+## Get Started with Sublime Text
+
+Edit text with unmatched speed and elegance. Visit [sublimetext.com](https://www.sublimetext.com) to experience premium editing.

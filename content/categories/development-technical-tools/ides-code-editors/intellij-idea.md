@@ -10,4 +10,27 @@ image: "/images/tools/intellij-idea-placeholder.jpg"
 
 # IntelliJ IDEA
 
-IntelliJ IDEA stands as the gold standard for Java development and JVM ecosystem programming, delivering unmatched intelligent code assistance, sophisticated refactoring capabilities, and comprehensive tooling that enables developers to write, debug, and maintain complex enterprise applications with unprecedented efficiency and accuracy. This premium IDE from JetBrains combines deep static code analysis with advanced language understanding to provide context-aware code completion, error detection, and automated refactoring suggestions that go far beyond simple syntax highlighting, while its integrated tools for testing, profiling, version control, and database management create a unified development environment that eliminates context switching and workflow interruptions. IntelliJ IDEA's framework-specific support extends beyond Java to embrace Kotlin, Scala, Groovy, and other JVM languages, while providing specialized assistance for Spring, Hibernate, Android development, and enterprise Java frameworks through intelligent navigation, dependency injection analysis, and configuration validation that helps developers avoid common pitfalls and architectural mistakes. The platform excels in enterprise development environments where code quality, maintainability, and team productivity are paramount, offering advanced debugging capabilities, powerful search and navigation tools, and collaborative features that enable large development teams to work efficiently on complex codebases, while its plugin ecosystem and customization options ensure that the IDE adapts to specific project requirements and organizational workflows, making it an indispensable tool for professional Java development and modern JVM-based software engineering.
+IntelliJ IDEA is JetBrains' flagship IDE for Java and JVM languages, offering intelligent code assistance, powerful refactoring, and comprehensive enterprise development tools.
+
+## Key Features
+
+- **Intelligent code assistance** - Context-aware completion and suggestions
+- **Advanced refactoring** - Safe, automated code transformations
+- **JVM language support** - Java, Kotlin, Scala, Groovy, and more
+- **Framework integration** - Spring, Hibernate, Android, and enterprise frameworks
+- **Built-in tools** - Testing, profiling, version control, and database management
+- **Static code analysis** - Deep inspection and error detection
+- **Debugging** - Advanced debugging with intelligent breakpoints
+- **Plugin ecosystem** - Extensive customization and language support
+
+## Use Cases
+
+- Enterprise Java application development
+- Android mobile app development
+- Kotlin and JVM language programming
+- Spring framework development
+- Large-scale enterprise projects
+
+## Get Started with IntelliJ IDEA
+
+Develop Java applications with the most intelligent IDE. Visit [jetbrains.com/idea](https://www.jetbrains.com/idea) to boost productivity.
