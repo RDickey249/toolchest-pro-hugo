@@ -10,4 +10,26 @@ image: "/images/tools/namely-placeholder.jpg"
 
 # Namely
 
-Namely delivers comprehensive mid-market HR platform capabilities that provide integrated hiring, payroll, and employee management designed for growing organizations. This platform offers applicant tracking, payroll processing, performance management, and employee engagement tools optimized for mid-sized companies. Users benefit from integrated HR workflows, customizable functionality, and scalable features that support organizational growth. Namely emphasizes mid-market HR needs through balanced functionality, professional interfaces, and comprehensive integration capabilities that bridge the gap between small business simplicity and enterprise complexity. The platform excels at serving mid-sized organizations that have outgrown basic HR tools but don't need full enterprise functionality, offering sophisticated HR capabilities that scale effectively while maintaining user-friendly operation and comprehensive functionality for growing businesses.
+Namely is a mid-market HR platform providing integrated hiring, payroll, and employee management for growing organizations. Balanced functionality bridges the gap between small business simplicity and enterprise complexity.
+
+## Key Features
+
+- **Mid-market focus** - Designed specifically for growing organizations
+- **Integrated HR workflows** - Hiring, payroll, and employee management combined
+- **Applicant tracking** - Recruiting tools optimized for mid-sized companies
+- **Payroll processing** - Comprehensive payroll and benefits administration
+- **Performance management** - Employee evaluation and development tools
+- **Employee engagement** - Tools to measure and improve workplace satisfaction
+- **Customizable functionality** - Adapt to specific organizational needs
+
+## Use Cases
+
+- Mid-sized company HR management
+- Growing organization needs
+- Integrated HR and payroll processing
+- Performance management and engagement
+- Scalable HR operations
+
+## Get Started with Namely
+
+HR platform built for growing companies. Visit [namely.com](https://www.namely.com) to learn more and see why mid-market organizations choose Namely for HR management.

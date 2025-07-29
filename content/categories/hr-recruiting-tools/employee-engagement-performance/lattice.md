@@ -10,4 +10,26 @@ image: "/images/tools/lattice-placeholder.jpg"
 
 # Lattice
 
-Lattice delivers comprehensive people management platform capabilities that integrate performance management, employee engagement, and career development in a unified solution. This platform offers performance reviews, goal management, career development planning, and employee engagement surveys designed to support complete people management. Users benefit from integrated people operations, comprehensive performance tracking, and career development tools that support employee growth and organizational success. Lattice emphasizes holistic people management through integrated functionality, data-driven insights, and employee development focus that enhances organizational performance. The platform excels at serving organizations that need comprehensive people management with integrated performance and development capabilities, offering sophisticated people operations tools that support employee success while providing managers and HR teams with the insights and tools needed for effective people management.
+Lattice is a comprehensive people management platform that integrates performance management, employee engagement, and career development. Data-driven insights and employee development focus enhance organizational performance and employee success.
+
+## Key Features
+
+- **Performance reviews** - Comprehensive employee evaluation and feedback tools
+- **Goal management** - OKR tracking and alignment with company objectives
+- **Career development** - Growth planning and career pathing tools
+- **Employee engagement** - Surveys and feedback collection
+- **1-on-1 meetings** - Structured manager-employee conversations
+- **People analytics** - Data-driven insights into workforce performance
+- **360-degree feedback** - Multi-source performance evaluation
+
+## Use Cases
+
+- Comprehensive people management
+- Performance review processes
+- Career development planning
+- Employee engagement tracking
+- Manager effectiveness improvement
+
+## Get Started with Lattice
+
+Build high-performing teams with integrated people management. Visit [lattice.com](https://lattice.com) to start improving and see why companies choose Lattice for people operations.

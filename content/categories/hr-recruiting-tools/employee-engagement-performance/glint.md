@@ -10,4 +10,26 @@ image: "/images/tools/glint-placeholder.jpg"
 
 # Glint
 
-Glint delivers comprehensive employee engagement analytics capabilities that provide deep insights into employee experience and engagement through advanced survey analytics and predictive insights. This platform offers engagement surveys, predictive analytics, manager insights, and action planning tools designed to drive meaningful improvements in employee experience. Users benefit from advanced analytics, predictive insights, and manager-focused tools that enable data-driven engagement improvements and proactive engagement management. Glint emphasizes analytics excellence through sophisticated measurement tools, predictive capabilities, and manager enablement that supports strategic engagement management. The platform excels at serving organizations that need advanced engagement analytics with predictive capabilities, offering enterprise-grade engagement measurement and improvement tools that provide sophisticated insights while supporting managers and leaders in creating exceptional employee experiences.
+Glint is an advanced employee engagement analytics platform providing deep insights into employee experience through sophisticated survey analytics and predictive insights. Enterprise-grade measurement tools support strategic engagement management and proactive improvements.
+
+## Key Features
+
+- **Advanced analytics** - Sophisticated engagement measurement and insights
+- **Predictive insights** - Forecast engagement trends and potential issues
+- **Manager enablement** - Tools and insights specifically for team leaders
+- **Action planning** - Data-driven recommendations for improvement
+- **Real-time dashboards** - Live engagement monitoring and reporting
+- **Benchmarking** - Compare engagement against industry standards
+- **Enterprise-grade** - Scalable analytics for large organizations
+
+## Use Cases
+
+- Enterprise employee engagement analytics
+- Predictive engagement management
+- Strategic workforce insights
+- Manager effectiveness improvement
+- Large-scale culture transformation
+
+## Get Started with Glint
+
+Advanced engagement analytics for enterprise organizations. Visit [glintinc.com](https://www.glintinc.com) to learn more and see why enterprises choose Glint for engagement insights.

@@ -10,4 +10,26 @@ image: "/images/tools/officevibe-placeholder.jpg"
 
 # Officevibe
 
-Officevibe delivers comprehensive employee engagement capabilities that provide regular pulse surveys, feedback collection, and engagement analytics for improving workplace satisfaction. This platform offers pulse surveys, anonymous feedback, recognition tools, and engagement insights designed to help managers and HR teams understand and improve employee engagement. Users benefit from regular engagement measurement, anonymous feedback channels, and actionable insights that support continuous engagement improvement. Officevibe emphasizes continuous engagement monitoring through regular pulse surveys, user-friendly interfaces, and practical insights that enable immediate engagement improvements. The platform excels at serving organizations that want to maintain high employee engagement through regular measurement and feedback, offering accessible engagement tools that provide continuous insights into employee satisfaction while supporting managers in creating more engaging work environments.
+Officevibe is an employee engagement platform providing regular pulse surveys, feedback collection, and engagement analytics. Continuous monitoring and actionable insights help managers and HR teams improve workplace satisfaction.
+
+## Key Features
+
+- **Pulse surveys** - Regular employee engagement measurement
+- **Anonymous feedback** - Safe channels for honest employee input
+- **Recognition tools** - Peer appreciation and acknowledgment features
+- **Engagement analytics** - Insights into workplace satisfaction trends
+- **Manager tools** - Dashboards and recommendations for team leaders
+- **Action planning** - Guidance for improving engagement scores
+- **Real-time insights** - Immediate feedback on engagement initiatives
+
+## Use Cases
+
+- Employee engagement measurement
+- Workplace satisfaction improvement
+- Manager effectiveness enhancement
+- Anonymous feedback collection
+- Team engagement monitoring
+
+## Get Started with Officevibe
+
+Improve employee engagement with continuous feedback. Visit [officevibe.com](https://www.officevibe.com) to start measuring and see why teams choose Officevibe for engagement.

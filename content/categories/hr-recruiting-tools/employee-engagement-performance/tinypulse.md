@@ -10,4 +10,26 @@ image: "/images/tools/tinypulse-placeholder.jpg"
 
 # TINYpulse
 
-TINYpulse provides comprehensive employee feedback tool capabilities that enable organizations to collect regular employee feedback and measure engagement through simple, effective survey tools. This platform offers weekly pulse surveys, anonymous feedback collection, peer recognition, and engagement analytics designed to provide continuous insights into employee satisfaction. Users benefit from regular feedback collection, anonymous communication channels, and actionable engagement insights that support workplace improvement. TINYpulse emphasizes simplicity through easy-to-use surveys, quick feedback collection, and clear reporting that makes employee feedback accessible and actionable. The platform excels at serving organizations that want simple, effective employee feedback collection without complex survey management, offering straightforward tools for gathering employee input while providing clear insights that support engagement improvement and workplace satisfaction enhancement.
+TINYpulse is a simple employee feedback tool that enables organizations to collect regular employee feedback and measure engagement. Weekly pulse surveys and anonymous feedback provide continuous insights into employee satisfaction.
+
+## Key Features
+
+- **Weekly pulse surveys** - Simple, regular employee feedback collection
+- **Anonymous feedback** - Safe channels for honest employee communication
+- **Peer recognition** - Employee appreciation and recognition features
+- **Engagement analytics** - Clear insights into workplace satisfaction
+- **Simple interface** - Easy-to-use surveys and reporting
+- **Quick feedback** - Fast collection and analysis of employee input
+- **Actionable insights** - Clear recommendations for improvement
+
+## Use Cases
+
+- Simple employee feedback collection
+- Regular engagement pulse checks
+- Anonymous workplace communication
+- Employee recognition programs
+- Workplace satisfaction monitoring
+
+## Get Started with TINYpulse
+
+Simple employee feedback made easy. Visit [tinypulse.com](https://www.tinypulse.com) to start collecting feedback and see why organizations choose TINYpulse for employee engagement.
