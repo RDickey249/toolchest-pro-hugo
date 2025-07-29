@@ -30,7 +30,9 @@ Synthesia revolutionizes video production by eliminating the need for cameras, a
 • Avatar movements can appear rigid
 • Not suitable for all content types
 
-[Create Professional Videos with Synthesia →](https://www.synthesia.io)
+## Get Started with Synthesia
+
+Create AI videos without cameras or actors. Visit [synthesia.io](https://www.synthesia.io) to start your free trial and transform text into professional videos in minutes.
 
 ## How It Compares
 

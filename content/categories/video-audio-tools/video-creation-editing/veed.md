@@ -30,7 +30,9 @@ Veed democratizes professional video editing by providing a comprehensive browse
 • Export time varies with video length
 • Some features can be slow with large files
 
-[Edit Videos Effortlessly with Veed →](https://www.veed.io)
+## Get Started with Veed
+
+Edit videos like a pro in your browser. Visit [veed.io](https://www.veed.io) to start creating professional videos with AI-powered tools and zero downloads.
 
 ## How It Compares
 

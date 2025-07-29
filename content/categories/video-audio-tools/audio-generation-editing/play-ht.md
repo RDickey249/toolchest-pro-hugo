@@ -30,7 +30,9 @@ Play.ht delivers professional-grade text-to-speech technology with ultra-realist
 • Complex pricing structure
 • Requires technical knowledge for advanced features
 
-[Generate Premium Voices with Play.ht →](https://play.ht)
+## Get Started with Play.ht
+
+Create ultra-realistic AI voices. Visit [play.ht](https://play.ht) to try the world's most advanced text-to-speech platform and bring your content to life.
 
 ## How It Compares
 

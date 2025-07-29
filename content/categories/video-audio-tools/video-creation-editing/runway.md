@@ -30,7 +30,9 @@ Runway revolutionizes video creation by harnessing cutting-edge AI technology to
 • Can be expensive for heavy usage
 • Limited traditional editing features
 
-[Create the Future with Runway →](https://runwayml.com)
+## Get Started with Runway
+
+Explore the future of video creation with AI. Visit [runwayml.com](https://runwayml.com) to start creating impossible videos with cutting-edge AI technology.
 
 ## How It Compares
 
