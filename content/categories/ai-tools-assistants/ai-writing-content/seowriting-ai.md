@@ -30,7 +30,12 @@ SEOWriting.AI streamlines content creation by automatically generating comprehen
 • Fewer style and tone options
 • Requires fact-checking for accuracy
 
-[Generate SEO Articles with SEOWriting.AI →](https://seowriting.ai)
+## Get Started with SEOWriting.AI
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://seowriting.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit SEOWriting.AI →</a>
+  <a href="https://seowriting.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Writing →</a>
+</div>
 
 ## How It Compares
 

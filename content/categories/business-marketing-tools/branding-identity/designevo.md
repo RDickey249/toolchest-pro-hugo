@@ -30,7 +30,12 @@ DesignEvo democratizes professional logo design through an extensive template li
 • Basic brand packages
 • May lack uniqueness
 
-[Design Your Logo with DesignEvo →](https://www.designevo.com)
+## Get Started with DesignEvo
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.designevo.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit DesignEvo →</a>
+  <a href="https://www.designevo.com/logo-maker" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Logo →</a>
+</div>
 
 ## How It Compares
 

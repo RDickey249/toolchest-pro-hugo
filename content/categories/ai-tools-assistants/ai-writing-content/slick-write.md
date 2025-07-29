@@ -30,7 +30,12 @@ Slick Write transforms writing improvement by providing comprehensive grammar, s
 • No cloud storage or project management
 • Limited customization options
 
-[Write Better for Free with Slick Write →](https://www.slickwrite.com)
+## Get Started with Slick Write
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.slickwrite.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Slick Write →</a>
+  <a href="https://www.slickwrite.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Writing →</a>
+</div>
 
 ## How It Compares
 
