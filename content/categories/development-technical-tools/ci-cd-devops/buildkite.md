@@ -10,4 +10,26 @@ image: "/images/tools/buildkite-placeholder.jpg"
 
 # Buildkite
 
-Buildkite revolutionizes continuous integration through hybrid agent architecture and elastic scaling that enable teams to run CI/CD pipelines with maximum flexibility, leveraging both cloud infrastructure and on-premises resources while maintaining complete control over build environments, security policies, and computational resources with comprehensive pipeline visualization and extensive integration capabilities. This CI platform provides extensive features for pipeline orchestration, agent management, artifact handling, and team collaboration while offering advanced capabilities like dynamic parallel execution, custom build environments, and comprehensive analytics dashboards. Buildkite's strength lies in its hybrid architecture and scaling flexibility, offering cloud-managed orchestration with self-hosted agents that provide unlimited scalability, custom environment control, and cost optimization while maintaining enterprise security and compliance requirements. The platform excels at serving engineering teams requiring scalable CI/CD infrastructure, organizations with complex security requirements, and teams needing custom build environments with features like elastic agent pools, advanced pipeline templating, and comprehensive integration ecosystem that enable everything from simple test automation to complex deployment workflows with build optimization, resource management, and team collaboration while providing developers with intuitive pipeline definition, powerful CLI tools, and proven enterprise reliability that makes scalable continuous integration accessible and efficient across diverse technology stacks and organizational architectures.
+Buildkite is a scalable CI/CD platform with hybrid agent architecture, enabling teams to run pipelines on their own infrastructure while managing orchestration in the cloud.
+
+## Key Features
+
+- **Hybrid architecture** - Cloud orchestration with self-hosted agents
+- **Elastic scaling** - Dynamic agent pools and parallelization
+- **Custom environments** - Full control over build infrastructure
+- **Pipeline as code** - YAML-based pipeline definitions
+- **Visual pipeline** - Real-time build visualization
+- **Agent management** - Flexible agent deployment options
+- **Enterprise security** - SOC 2 compliance and audit logs
+
+## Use Cases
+
+- Enterprise CI/CD pipelines
+- Custom build environments
+- High-security deployments
+- Scalable test automation
+- Multi-cloud deployments
+
+## Get Started with Buildkite
+
+Scale CI/CD with hybrid cloud architecture. Visit [buildkite.com](https://buildkite.com) to implement flexible continuous integration.

@@ -10,4 +10,26 @@ image: "/images/tools/jasmine-placeholder.jpg"
 
 # Jasmine
 
-Jasmine revolutionizes JavaScript testing through behavior-driven development approach and comprehensive testing capabilities that enable developers to write expressive tests with built-in assertions, spies, and matchers while maintaining clean, readable syntax and comprehensive browser compatibility without external dependencies. This testing framework provides extensive features for test organization, spy functions, custom matchers, and asynchronous testing while offering advanced capabilities like clock manipulation, AJAX testing, and comprehensive reporter system. Jasmine's strength lies in its simplicity and self-contained nature, offering complete testing solution without requiring additional libraries or complex configuration while maintaining expressive BDD-style syntax. The platform excels at serving JavaScript developers preferring behavior-driven testing, frontend applications, and teams requiring readable test specifications with features like descriptive test syntax, comprehensive spy system, and detailed error reporting that enable everything from unit testing to integration testing with clear test documentation, effective mocking, and cross-browser compatibility while providing developers with intuitive APIs, comprehensive documentation, and proven stability that makes JavaScript testing clear and maintainable.
+Jasmine is a behavior-driven development framework for JavaScript testing with clean syntax, built-in assertions, spies, and no external dependencies.
+
+## Key Features
+
+- **BDD syntax** - Describe and it functions for readable tests
+- **Built-in assertions** - Comprehensive expectation matchers
+- **Spy functions** - Mock and track function calls
+- **No dependencies** - Self-contained testing framework
+- **Async testing** - Promise and callback support
+- **Custom matchers** - Extend assertion capabilities
+- **Browser compatible** - Runs in browsers and Node.js
+
+## Use Cases
+
+- JavaScript unit testing
+- Behavior-driven development
+- Frontend application testing
+- Node.js testing
+- Legacy browser testing
+
+## Get Started with Jasmine
+
+Write expressive JavaScript tests with clean BDD syntax. Visit [jasmine.github.io](https://jasmine.github.io) to implement behavior-driven testing.
