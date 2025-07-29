@@ -10,4 +10,27 @@ image: "/images/tools/helm-placeholder.jpg"
 
 # Helm
 
-Helm revolutionizes Kubernetes application management through package templating and release management that enable teams to deploy, upgrade, and manage complex Kubernetes applications with reusable charts, version control, and dependency management while simplifying configuration and ensuring consistent deployments across environments. This package manager provides extensive features for chart templating, release lifecycle management, repository hosting, and dependency resolution while offering advanced capabilities like hooks, tests, and comprehensive rollback functionality. Helm's strength lies in its templating system and package ecosystem, offering standardized application packaging that makes Kubernetes deployments repeatable, configurable, and maintainable with comprehensive version management. The platform excels at serving Kubernetes operators, DevOps teams, and organizations requiring standardized deployments with features like values injection, chart repositories, and release tracking that enable everything from simple applications to complex enterprise systems with configuration management, environment promotion, and deployment automation while providing teams with reusable packages, comprehensive documentation, and community-driven chart ecosystem that makes Kubernetes application management accessible and scalable.
+Helm is the package manager for Kubernetes that simplifies application deployment with reusable charts, templating, and release management.
+
+## Key Features
+
+- **Chart templating** - Reusable Kubernetes application packages
+- **Release management** - Version control and rollback capabilities
+- **Dependency management** - Handle complex application dependencies
+- **Values injection** - Parameterize charts for different environments
+- **Chart repositories** - Share and distribute Kubernetes applications
+- **Hooks and tests** - Lifecycle management and validation
+- **Rollback functionality** - Easy reversion to previous releases
+- **Community ecosystem** - Extensive collection of pre-built charts
+
+## Use Cases
+
+- Kubernetes application packaging
+- Multi-environment deployments
+- Application lifecycle management
+- DevOps automation
+- Complex application orchestration
+
+## Get Started with Helm
+
+Package and deploy Kubernetes applications with the standard package manager. Visit [helm.sh](https://helm.sh) to manage Kubernetes apps.

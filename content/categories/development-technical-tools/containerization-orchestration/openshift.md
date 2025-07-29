@@ -10,4 +10,27 @@ image: "/images/tools/openshift-placeholder.jpg"
 
 # OpenShift
 
-OpenShift revolutionizes enterprise Kubernetes deployment through comprehensive platform services and developer-focused tooling that enable organizations to build, deploy, and manage applications with integrated CI/CD pipelines, enhanced security, and streamlined developer experience while maintaining enterprise-grade operations and comprehensive compliance capabilities. This Kubernetes distribution provides extensive features for source-to-image builds, integrated registry, developer console, and security scanning while offering advanced capabilities like operators, service mesh integration, and comprehensive monitoring solutions. OpenShift's strength lies in its enterprise readiness and developer experience, offering production-ready Kubernetes with additional enterprise features, security enhancements, and developer productivity tools that accelerate application delivery. The platform excels at serving enterprise environments, development teams requiring streamlined workflows, and organizations needing comprehensive container platforms with features like automated builds, integrated monitoring, and comprehensive security policies that enable everything from development to production with enhanced security posture, operational efficiency, and developer productivity while providing teams with enterprise support, comprehensive documentation, and integrated tooling that makes enterprise Kubernetes adoption accessible and successful.
+OpenShift is Red Hat's enterprise Kubernetes platform that provides developer tools, enhanced security, and integrated CI/CD for production-ready applications.
+
+## Key Features
+
+- **Enterprise Kubernetes** - Production-ready Kubernetes with enterprise features
+- **Developer console** - Web-based development and deployment interface
+- **Source-to-image builds** - Automated application builds from source code
+- **Integrated CI/CD** - Built-in continuous integration and deployment
+- **Enhanced security** - Security scanning, policies, and compliance
+- **Operator framework** - Automated application lifecycle management
+- **Service mesh** - Istio integration for microservices communication
+- **Multi-cloud support** - Deploy across hybrid and multi-cloud environments
+
+## Use Cases
+
+- Enterprise Kubernetes deployment
+- DevOps and application modernization
+- Hybrid and multi-cloud strategies
+- Container platform standardization
+- Microservices and cloud-native development
+
+## Get Started with OpenShift
+
+Deploy enterprise Kubernetes with integrated developer tools and security. Visit [openshift.com](https://openshift.com) to build cloud-native applications.
