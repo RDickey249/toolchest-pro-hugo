@@ -10,4 +10,27 @@ image: "/images/tools/pnpm-placeholder.jpg"
 
 # pnpm
 
-pnpm revolutionizes JavaScript package management through innovative disk space optimization and symlink-based architecture that enable developers to install packages with significant storage savings, faster installation times, and strict dependency isolation compared to traditional flat node_modules structures. This package manager provides comprehensive features for content-addressable storage, workspace management, and strict dependency resolution while offering advanced capabilities like filtering, patching, and comprehensive monorepo support. pnpm's strength lies in its efficiency and storage optimization, offering up to 50% disk space savings through intelligent package deduplication and linking. The platform excels at serving large codebases, monorepo projects, CI/CD environments, and teams requiring efficient package management with features like non-flat node_modules, side-effect isolation, and faster installation speeds that enable everything from individual projects to enterprise-scale development with workspace coordination, dependency filtering, and build optimization while providing developers with modern package management that addresses traditional npm limitations through innovative storage architecture and performance enhancements.
+pnpm is an efficient JavaScript package manager that uses disk space optimization and symlink-based architecture for faster, more reliable installations.
+
+## Key Features
+
+- **Disk space optimization** - Up to 50% storage savings through deduplication
+- **Fast installations** - Faster than npm and Yarn through linking
+- **Strict dependency isolation** - Non-flat node_modules structure
+- **Monorepo support** - Built-in workspace management
+- **Content-addressable storage** - Efficient package storage system
+- **Filtering** - Install subsets of dependencies
+- **Patching** - Apply patches to packages
+- **Side-effect isolation** - Prevents dependency pollution
+
+## Use Cases
+
+- Large JavaScript projects
+- Monorepo development
+- CI/CD environments
+- Enterprise development
+- Storage-constrained environments
+
+## Get Started with pnpm
+
+Manage JavaScript packages efficiently with advanced storage optimization. Visit [pnpm.io](https://pnpm.io) to install faster and save space.
