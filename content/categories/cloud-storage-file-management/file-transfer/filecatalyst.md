@@ -10,4 +10,26 @@ image: "/images/tools/filecatalyst-placeholder.jpg"
 
 # FileCatalyst
 
-FileCatalyst revolutionizes accelerated file transfer through UDP-based technology that enables high-speed delivery over challenging network conditions while maintaining reliability and proven effectiveness across enterprise environments requiring guaranteed file delivery regardless of distance or network quality. This platform provides extensive features for transfer acceleration, checkpoint restart, bandwidth control, and enterprise integration while offering advanced capabilities like multi-stream transfer, compression, and comprehensive security. FileCatalyst's strength lies in its acceleration technology and network resilience, offering robust transfer solution that overcomes network limitations through advanced protocols and proven reliability in challenging network environments. The platform excels at serving global enterprises, satellite communications, and challenging network scenarios requiring reliable high-speed transfer with features like automatic retry, bandwidth throttling, and encryption that enable everything from remote site connectivity to global file distribution with network-agnostic performance, comprehensive fault tolerance, and enterprise-grade security while providing users with guaranteed delivery performance, network optimization, and proven methodology for achieving reliable high-speed file transfer across diverse network conditions and challenging connectivity scenarios.
+FileCatalyst is an enterprise file transfer platform that uses UDP-based acceleration technology to deliver high-speed file transfers over challenging network conditions.
+
+## Key Features
+
+- **UDP acceleration** - Proprietary protocol for maximum transfer speeds
+- **Network resilience** - Reliable transfers over poor connections
+- **Checkpoint restart** - Resume interrupted transfers automatically
+- **Bandwidth control** - Throttle and prioritize transfer speeds
+- **Multi-stream transfer** - Parallel connections for faster delivery
+- **Enterprise integration** - APIs and system connectivity
+- **Compression and encryption** - Secure and efficient file handling
+
+## Use Cases
+
+- Global enterprise file distribution
+- Satellite and remote connectivity
+- Media and broadcast workflows
+- Scientific data transfer
+- Remote site backup and sync
+
+## Get Started with FileCatalyst
+
+Accelerate your file transfers over any network. Visit [filecatalyst.com](https://www.filecatalyst.com) to implement UDP-based acceleration technology.

@@ -10,4 +10,26 @@ image: "/images/tools/firefox-send-placeholder.jpg"
 
 # Firefox Send
 
-Firefox Send revolutionizes encrypted file sharing through privacy-focused design that enables secure file transfer with automatic expiration while maintaining simplicity and proven effectiveness across privacy-conscious users requiring confidential file sharing without permanent storage. This platform provides extensive features for end-to-end encryption, customizable expiration, download limits, and password protection while offering advanced capabilities like self-destructing links, anonymous sharing, and zero-knowledge architecture. Firefox Send's strength lies in its privacy design and Mozilla backing, offering trustworthy file sharing that prioritizes user privacy through client-side encryption and proven commitment to user rights. The platform excels at serving journalists, activists, and security-conscious users requiring confidential sharing with features like automatic deletion, encrypted uploads, and open-source transparency that enable everything from sensitive document sharing to whistleblower communications with zero server-side storage, complete anonymity, and comprehensive privacy protection while providing users with Mozilla's privacy reputation, open-source security, and proven methodology for sharing sensitive files without leaving digital traces or requiring recipient accounts.
+Firefox Send (discontinued) was Mozilla's encrypted file sharing service that provided privacy-focused file transfer with automatic expiration and end-to-end encryption.
+
+## Key Features (Historical)
+
+- **End-to-end encryption** - Client-side encryption for maximum privacy
+- **Automatic expiration** - Self-destructing links and files
+- **Zero-knowledge architecture** - No server-side file storage
+- **Password protection** - Additional security layer for sensitive files
+- **Anonymous sharing** - No account registration required
+- **Download limits** - Control number of file downloads
+- **Open-source transparency** - Fully auditable codebase
+
+## Use Cases (Historical)
+
+- Secure sensitive document sharing
+- Journalist and activist communications
+- Privacy-focused file transfer
+- Temporary file sharing
+- Confidential business communications
+
+## Note About Firefox Send
+
+Firefox Send was discontinued by Mozilla. For similar privacy-focused file sharing, consider alternatives like [send.vis.ee](https://send.vis.ee) (community fork).

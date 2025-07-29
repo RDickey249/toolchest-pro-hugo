@@ -10,4 +10,26 @@ image: "/images/tools/signiant-placeholder.jpg"
 
 # Signiant
 
-Signiant revolutionizes media file transfer through cloud-native acceleration that enables broadcast and media organizations to move content efficiently while maintaining reliability and proven effectiveness across media supply chains requiring dependable content delivery and workflow integration. This platform provides extensive features for intelligent routing, automated workflows, cloud connectivity, and media asset management while offering advanced capabilities like SaaS deployment, API integration, and comprehensive analytics. Signiant's strength lies in its media industry specialization and cloud optimization, offering purpose-built transfer solution that addresses media workflow requirements through intelligent automation and proven adoption in broadcast environments. The platform excels at serving broadcasters, streaming services, and media organizations requiring content distribution with features like intelligent load balancing, automated failover, and workflow orchestration that enable everything from live content contribution to global content distribution with cloud-native architecture, media-specific optimization, and comprehensive monitoring while providing users with broadcast-grade reliability, intelligent automation, and proven methodology for managing complex media workflows requiring guaranteed delivery and seamless integration with existing broadcast and streaming infrastructure.
+Signiant is a cloud-native media file transfer platform designed specifically for broadcast and media organizations to efficiently move large video and audio content.
+
+## Key Features
+
+- **Media optimization** - Purpose-built for video and audio files
+- **Cloud-native architecture** - SaaS deployment and scaling
+- **Intelligent routing** - Automated path selection for optimal delivery
+- **Workflow integration** - API and broadcast system connectivity
+- **Automated failover** - Redundant delivery paths
+- **Real-time monitoring** - Transfer visibility and analytics
+- **Load balancing** - Intelligent traffic distribution
+
+## Use Cases
+
+- Broadcast content contribution
+- Streaming service distribution
+- Media supply chain workflows
+- Live content delivery
+- Global media distribution
+
+## Get Started with Signiant
+
+Optimize your media workflows with broadcast-grade transfer. Visit [signiant.com](https://www.signiant.com) to implement intelligent media file delivery.

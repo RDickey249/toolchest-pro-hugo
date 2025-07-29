@@ -10,4 +10,26 @@ image: "/images/tools/filemail-placeholder.jpg"
 
 # Filemail
 
-Filemail revolutionizes email-based file sharing through large file attachment solutions that enable users to send files exceeding email limits while maintaining familiar email workflows and proven effectiveness across users requiring simple large file delivery without changing communication habits. This platform provides extensive features for email integration, automatic compression, tracking notifications, and mobile sending while offering advanced capabilities like custom branding, enterprise features, and API integration. Filemail's strength lies in its email integration and simplicity, offering seamless file sharing that works within existing email workflows through transparent integration and proven reliability in business communication. The platform excels at serving business professionals, email-dependent workflows, and organizations requiring large file email with features like delivery confirmation, virus scanning, and expiration controls that enable everything from document delivery to client communication with familiar email interface, automatic optimization, and comprehensive tracking while providing users with zero learning curve, email client integration, and proven methodology for sending large files through existing email infrastructure without changing established communication patterns or requiring recipient software installation.
+Filemail is an email-based file sharing service that allows users to send large files that exceed standard email attachment limits while maintaining familiar email workflows.
+
+## Key Features
+
+- **Email integration** - Works with existing email clients
+- **Large file support** - Send files up to 30GB
+- **Automatic compression** - Optimize files for faster delivery
+- **Tracking notifications** - Delivery and download confirmations
+- **Mobile sending** - Send large files from mobile devices
+- **Virus scanning** - Automatic malware detection
+- **Custom branding** - Enterprise customization options
+
+## Use Cases
+
+- Business document delivery
+- Client file sharing
+- Email-based workflows
+- Large attachment replacement
+- Professional communications
+
+## Get Started with Filemail
+
+Send large files through your existing email workflow. Visit [filemail.com](https://www.filemail.com) to integrate large file sharing with your email.

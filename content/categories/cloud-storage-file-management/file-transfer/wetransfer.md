@@ -10,4 +10,26 @@ image: "/images/tools/wetransfer-placeholder.jpg"
 
 # WeTransfer
 
-WeTransfer revolutionizes simple file sharing through elegant web interface that enables users to send large files without registration while maintaining ease of use and proven effectiveness across creative professionals and casual users requiring quick file transfer solutions. This platform provides extensive features for drag-and-drop upload, email notifications, expiring links, and mobile apps while offering advanced capabilities like password protection, custom backgrounds, and team collaboration features. WeTransfer's strength lies in its simplicity and visual appeal, offering effortless file sharing that removes technical barriers through beautiful design and proven adoption across creative industries. The platform excels at serving designers, photographers, and creative professionals requiring quick large file sharing with features like presentation mode, link customization, and branding options that enable everything from client file delivery to creative collaboration with generous free tier, automatic expiration, and comprehensive mobile support while providing users with stunning visual experience, zero-friction sharing, and proven methodology for making large file transfer accessible and beautiful without requiring technical knowledge or account creation.
+WeTransfer is a simple file sharing service that allows users to send large files up to 2GB for free without registration through an elegant web interface.
+
+## Key Features
+
+- **No registration required** - Send files instantly without accounts
+- **Drag-and-drop interface** - Simple file upload experience
+- **Email notifications** - Automatic sender and recipient alerts
+- **Expiring links** - Files automatically deleted after 7 days
+- **Mobile apps** - iOS and Android applications available
+- **Password protection** - Optional security for sensitive files
+- **Custom backgrounds** - Personalize transfer pages
+
+## Use Cases
+
+- Creative file sharing for designers
+- Client deliverables and presentations
+- Photography portfolio sharing
+- Quick large file transfers
+- Team collaboration files
+
+## Get Started with WeTransfer
+
+Send large files beautifully and simply. Visit [wetransfer.com](https://wetransfer.com) to start sharing files instantly without registration.

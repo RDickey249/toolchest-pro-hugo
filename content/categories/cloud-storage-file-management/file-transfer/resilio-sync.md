@@ -10,4 +10,26 @@ image: "/images/tools/resilio-sync-placeholder.jpg"
 
 # Resilio Sync
 
-Resilio Sync revolutionizes peer-to-peer file synchronization through distributed architecture that enables direct device-to-device sync without cloud storage while maintaining speed and proven effectiveness across users requiring private, decentralized file sharing without third-party servers. This platform provides extensive features for real-time sync, selective sharing, version control, and encrypted transfer while offering advanced capabilities like one-way sync, link sharing, and enterprise deployment. Resilio Sync's strength lies in its P2P architecture and privacy design, offering decentralized sync solution that eliminates cloud dependencies through direct connections and proven reliability in bandwidth-constrained environments. The platform excels at serving privacy-conscious users, distributed teams, and bandwidth-sensitive scenarios requiring direct sync with features like LAN discovery, encrypted sharing, and offline sync that enable everything from personal device synchronization to enterprise file distribution with zero cloud storage, unlimited file sizes, and comprehensive privacy protection while providing users with decentralized architecture, private file sharing, and proven methodology for maintaining file synchronization without cloud dependencies or third-party access to data.
+Resilio Sync is a peer-to-peer file synchronization tool that syncs files directly between devices without using cloud storage or third-party servers.
+
+## Key Features
+
+- **P2P architecture** - Direct device-to-device synchronization
+- **No cloud storage** - Files never stored on third-party servers
+- **Real-time sync** - Instant file updates across devices
+- **Encrypted transfer** - End-to-end encryption for all data
+- **Selective sharing** - Choose specific folders to sync
+- **LAN discovery** - Automatic local network detection
+- **Offline sync** - Resume when devices reconnect
+
+## Use Cases
+
+- Private file synchronization
+- Distributed team collaboration
+- Personal device sync
+- Enterprise file distribution
+- Bandwidth-constrained environments
+
+## Get Started with Resilio Sync
+
+Sync files privately without the cloud. Visit [resilio.com/sync](https://www.resilio.com/sync) to implement decentralized file synchronization.
