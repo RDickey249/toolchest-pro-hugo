@@ -10,4 +10,26 @@ image: "/images/tools/aws-placeholder.jpg"
 
 # Amazon Web Services (AWS)
 
-Amazon Web Services is the world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. AWS pioneered cloud computing and continues to lead with the largest market share, most extensive service portfolio, and strongest ecosystem of partners and customers. The platform provides everything from basic compute and storage to advanced machine learning, IoT, and quantum computing services. AWS's global infrastructure spans 99 Availability Zones across 31 geographic regions, with plans for more, ensuring low latency and high availability worldwide. The platform's pay-as-you-go pricing model eliminates upfront costs and allows organizations to scale resources up or down based on actual usage. AWS's comprehensive security model includes shared responsibility frameworks, compliance certifications, and advanced security services. The platform's extensive partner network and marketplace provide thousands of third-party solutions and professional services. With services like EC2 for compute, S3 for storage, RDS for databases, and Lambda for serverless computing, AWS provides the building blocks for virtually any application architecture, from simple websites to complex enterprise systems.
+Amazon Web Services (AWS) is the world's most comprehensive cloud platform, offering 200+ services from data centers globally. Market leader with the largest ecosystem and most extensive service portfolio for any cloud computing need.
+
+## Key Features
+
+- **200+ services** - Complete portfolio from compute to quantum computing
+- **Global infrastructure** - 99 Availability Zones across 31+ regions
+- **Pay-as-you-go pricing** - Scale resources based on actual usage
+- **Enterprise security** - Shared responsibility model with compliance certifications
+- **Core services** - EC2, S3, RDS, Lambda, and advanced AI/ML services
+- **Extensive marketplace** - Thousands of third-party solutions
+- **Serverless computing** - Lambda and managed services for zero-server operations
+
+## Use Cases
+
+- Enterprise cloud migration and modernization
+- Serverless and microservices architectures
+- Big data analytics and machine learning
+- Global web applications and content delivery
+- Disaster recovery and backup solutions
+
+## Get Started with AWS
+
+Build on the world's most comprehensive cloud platform. Visit [aws.amazon.com](https://aws.amazon.com) to start building and see why millions choose AWS for cloud computing.

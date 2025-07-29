@@ -10,4 +10,26 @@ image: "/images/tools/kubernetes-placeholder.jpg"
 
 # Kubernetes
 
-Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications across clusters of machines. Originally developed by Google and now maintained by the Cloud Native Computing Foundation, Kubernetes has become the standard for container orchestration in production environments. The platform's declarative configuration model allows users to specify desired application states, while Kubernetes controllers continuously work to maintain those states. Kubernetes' service discovery and load balancing capabilities automatically distribute traffic across healthy container instances, while its self-healing features restart failed containers and replace unhealthy nodes. The platform's horizontal auto-scaling adjusts the number of container replicas based on CPU usage, memory consumption, or custom metrics. Kubernetes' rolling update mechanism enables zero-downtime deployments and easy rollback capabilities. The platform's extensive ecosystem includes Helm for package management, Istio for service mesh capabilities, and numerous operators for managing complex applications. Kubernetes' multi-cloud portability enables applications to run consistently across different cloud providers and on-premises environments. The platform's role-based access control and network policies provide comprehensive security features for enterprise deployments. With managed Kubernetes services available from all major cloud providers, Kubernetes combines the power of container orchestration with the convenience of managed infrastructure.
+Kubernetes is the open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. Originally developed by Google, now the industry standard for production container orchestration.
+
+## Key Features
+
+- **Declarative configuration** - Specify desired states, Kubernetes maintains them
+- **Service discovery** - Automatic load balancing across healthy container instances
+- **Self-healing** - Restart failed containers and replace unhealthy nodes
+- **Auto-scaling** - Horizontal scaling based on CPU, memory, or custom metrics
+- **Rolling updates** - Zero-downtime deployments with easy rollback
+- **Extensive ecosystem** - Helm, Istio, operators, and thousands of tools
+- **Multi-cloud portability** - Run consistently across any cloud or on-premises
+
+## Use Cases
+
+- Production container orchestration
+- Microservices architecture deployment
+- Cloud-native application management
+- Multi-cloud and hybrid deployments
+- Enterprise-scale container operations
+
+## Get Started with Kubernetes
+
+Deploy and scale containerized applications with the industry-standard orchestration platform. Visit [kubernetes.io](https://kubernetes.io) to begin your cloud-native journey.
