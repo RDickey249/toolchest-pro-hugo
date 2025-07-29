@@ -10,4 +10,26 @@ image: "/images/tools/rancher-placeholder.jpg"
 
 # Rancher
 
-Rancher is a complete container management platform that simplifies the deployment and operation of Kubernetes clusters across any infrastructure. The platform's centralized management interface enables administrators to manage multiple Kubernetes clusters from a single dashboard, regardless of where they're deployed. Rancher's cluster provisioning capabilities support major cloud providers, on-premises virtualization platforms, and bare metal servers with automated Kubernetes installation and configuration. The platform's multi-cluster application deployment enables consistent application rollouts across development, staging, and production environments. Rancher's integrated monitoring, logging, and alerting provide comprehensive observability across all managed clusters and applications. The platform's app catalog offers one-click deployment of popular applications and services through Helm charts and Rancher's own catalog system. Rancher's role-based access control and project-based organization enable secure multi-tenancy with granular permissions management. The platform's backup and disaster recovery features protect cluster configurations and application data across multiple storage backends. Rancher's security scanning identifies vulnerabilities in container images and Kubernetes configurations, while its network policies provide micro-segmentation for enhanced security. The platform's fleet management capabilities enable GitOps-based deployment and configuration management across large numbers of clusters. With its focus on operational simplicity and multi-environment support, Rancher enables organizations to adopt Kubernetes without the complexity traditionally associated with container orchestration.
+Rancher is a complete container management platform that simplifies Kubernetes deployment and operation across any infrastructure with centralized multi-cluster management.
+
+## Key Features
+
+- **Multi-cluster management** - Manage multiple Kubernetes clusters from single dashboard
+- **Cluster provisioning** - Automated deployment on cloud, on-premises, and bare metal
+- **App catalog** - One-click deployment through Helm charts
+- **Integrated observability** - Built-in monitoring, logging, and alerting
+- **RBAC and multi-tenancy** - Secure project-based organization
+- **Security scanning** - Vulnerability detection for images and configurations
+- **Fleet management** - GitOps-based deployment across clusters
+
+## Use Cases
+
+- Multi-cluster Kubernetes management
+- Hybrid and multi-cloud deployments
+- Enterprise container platform
+- Development team enablement
+- Infrastructure standardization
+
+## Get Started with Rancher
+
+Simplify Kubernetes management across any infrastructure. Visit [rancher.com](https://rancher.com) to deploy and manage Kubernetes clusters at scale.

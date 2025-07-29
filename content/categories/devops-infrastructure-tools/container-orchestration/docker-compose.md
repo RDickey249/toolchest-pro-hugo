@@ -10,4 +10,26 @@ image: "/images/tools/docker-compose-placeholder.jpg"
 
 # Docker Compose
 
-Docker Compose is a tool for defining and running multi-container Docker applications using a simple YAML file format that describes the entire application stack. The platform simplifies the development and deployment of applications that consist of multiple interconnected containers, such as web applications with separate database, cache, and web server components. Compose's declarative syntax allows developers to specify container configurations, networking, volumes, and dependencies in a single, version-controlled file. The platform's service abstraction enables easy scaling of individual components and load balancing across multiple container instances. Docker Compose's environment variable support and multiple environment file options facilitate configuration management across development, testing, and production environments. The platform's networking capabilities automatically create isolated networks for applications while enabling inter-service communication through service names. Compose's volume management provides persistent storage solutions and data sharing between containers and the host system. The platform's override files enable environment-specific configurations without duplicating base configuration files. Docker Compose's integration with Docker Swarm provides basic orchestration capabilities for production deployments, while its compatibility with Kubernetes deployment tools enables migration to more sophisticated orchestration platforms. With its focus on developer productivity and local development workflows, Docker Compose has become essential for teams working with containerized applications that require multiple services.
+Docker Compose is a tool for defining and running multi-container Docker applications using simple YAML files that describe the entire application stack.
+
+## Key Features
+
+- **YAML configuration** - Define multi-container apps in single files
+- **Service abstraction** - Easy scaling and load balancing of components
+- **Environment management** - Variable support for different environments
+- **Automatic networking** - Isolated networks with service name communication
+- **Volume management** - Persistent storage and data sharing
+- **Override files** - Environment-specific configs without duplication
+- **Docker integration** - Compatible with Swarm and Kubernetes tools
+
+## Use Cases
+
+- Local development environments
+- Multi-container application definition
+- Development workflow automation
+- Testing environment setup
+- Simple container orchestration
+
+## Get Started with Docker Compose
+
+Simplify multi-container application development. Visit [docs.docker.com/compose](https://docs.docker.com/compose) to define and run multi-container Docker applications.

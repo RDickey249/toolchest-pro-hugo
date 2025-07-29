@@ -10,4 +10,26 @@ image: "/images/tools/grafana-placeholder.jpg"
 
 # Grafana
 
-Grafana is an open-source platform for monitoring and observability that provides beautiful, flexible dashboards for visualizing metrics, logs, and traces from any data source. The platform's data source abstraction layer supports over 60 different backends including Prometheus, Elasticsearch, InfluxDB, and cloud monitoring services, enabling unified visualization across diverse monitoring stacks. Grafana's dashboard system offers rich visualization options including time series graphs, heat maps, histograms, and geographic maps with extensive customization capabilities. The platform's alerting system provides flexible rule definitions, notification channels, and escalation policies that integrate with popular communication tools like Slack, PagerDuty, and email. Grafana's templating system enables dynamic dashboards that adapt to different environments, services, and time ranges through variable substitution. The platform's annotation system allows teams to mark significant events like deployments, incidents, and releases directly on graphs for correlation analysis. Grafana's explore mode provides ad-hoc query capabilities for investigating issues and exploring data without creating permanent dashboards. The platform's extensive plugin ecosystem includes panels, data sources, and applications that extend functionality for specific use cases and integrations. Grafana Cloud offers fully managed hosting with additional features like synthetic monitoring and incident response management. The platform's role-based access control and team management features enable secure, collaborative monitoring across large organizations. With its focus on visualization excellence and data source flexibility, Grafana has become the de facto standard for monitoring dashboards in modern observability stacks.
+Grafana is an open-source platform for monitoring and observability providing beautiful, flexible dashboards for visualizing metrics, logs, and traces from any data source.
+
+## Key Features
+
+- **60+ data sources** - Unified visualization across Prometheus, Elasticsearch, InfluxDB
+- **Rich visualizations** - Time series, heat maps, histograms, geographic maps
+- **Flexible alerting** - Rules, notifications, and integrations with Slack, PagerDuty
+- **Dynamic templating** - Dashboards that adapt to environments and time ranges
+- **Event annotations** - Mark deployments and incidents for correlation analysis
+- **Explore mode** - Ad-hoc queries and data investigation
+- **Extensive plugins** - Community panels, data sources, and applications
+
+## Use Cases
+
+- Monitoring dashboard creation
+- Multi-source data visualization  
+- Infrastructure and application observability
+- Business metrics dashboards
+- Team collaboration on monitoring
+
+## Get Started with Grafana
+
+Visualize your monitoring data beautifully. Visit [grafana.com](https://grafana.com) to create stunning dashboards from any data source.
