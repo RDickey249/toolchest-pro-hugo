@@ -10,4 +10,26 @@ image: "/images/tools/copper-placeholder.jpg"
 
 # Copper
 
-Copper revolutionizes Google Workspace CRM through native Gmail integration that enables seamless customer relationship management within existing Google workflows while maintaining simplicity and proven effectiveness across Google-centric organizations requiring CRM without changing established communication patterns. This platform provides extensive features for contact management, deal tracking, task automation, and email integration while offering advanced capabilities like workflow automation, custom fields, and comprehensive reporting. Copper's strength lies in its Google integration and zero-disruption approach, offering invisible CRM that works within Gmail and Google Workspace through native connectivity and proven adoption among Google-dependent teams. The platform excels at serving Google Workspace users, small to medium businesses, and teams requiring seamless CRM integration with features like automatic contact capture, email tracking, and calendar integration that enable everything from lead management to deal closure with Gmail-native experience, automatic data capture, and comprehensive Google ecosystem integration while providing users with familiar Google interfaces, effortless setup, and proven methodology for implementing CRM solutions that enhance rather than disrupt existing Google-based workflows.
+Copper is the CRM that works the way you do. Designed specifically for Google Workspace, it automatically captures leads and manages relationships right from Gmail.
+
+## Key Features
+
+- **Native Gmail integration** - CRM that lives inside your inbox
+- **Automatic data capture** from emails and calendar events
+- **Pipeline management** with visual deal tracking
+- **Task automation** to streamline workflows
+- **Google Calendar sync** for meeting management
+- **Mobile apps** for iOS and Android
+- **Custom reporting** and analytics
+
+## Use Cases
+
+- Google Workspace teams
+- Small to medium businesses
+- Service-based companies
+- Sales teams using Gmail
+- Relationship-focused selling
+
+## Get Started with Copper
+
+Try the CRM built for Google users. Visit [copper.com](https://www.copper.com) to start your free trial and see why thousands of Google teams choose Copper.

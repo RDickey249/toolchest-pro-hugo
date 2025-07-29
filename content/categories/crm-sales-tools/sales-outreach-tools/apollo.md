@@ -10,4 +10,26 @@ image: "/images/tools/apollo-placeholder.jpg"
 
 # Apollo
 
-Apollo revolutionizes sales intelligence through comprehensive prospecting database that enables sales teams to find, engage, and convert prospects while maintaining data accuracy and proven effectiveness across organizations requiring integrated prospecting and outreach capabilities in unified platform. This platform provides extensive features for contact discovery, email verification, sequence automation, and engagement tracking while offering advanced capabilities like technographic data, buying intent signals, and conversation intelligence. Apollo's strength lies in its database quality and platform integration, offering complete sales intelligence solution that combines prospecting with engagement through accurate data and proven reliability in supporting end-to-end sales processes. The platform excels at serving B2B sales teams, growth companies, and organizations requiring comprehensive prospecting with features like advanced search filters, email finder, and automated sequences that enable everything from lead generation to deal closure with high-quality contact data, integrated outreach capabilities, and comprehensive sales intelligence while providing users with accurate prospecting data, seamless workflow integration, and proven methodology for building efficient sales processes that combine intelligent prospecting with systematic engagement and performance tracking.
+Apollo is your end-to-end sales platform. Find, engage, and close your ideal buyers with the most accurate B2B database and powerful sales engagement tools.
+
+## Key Features
+
+- **275M+ contacts** with verified emails and phone numbers
+- **Advanced search** with 65+ filters for precise targeting
+- **Email sequences** with personalization and A/B testing
+- **Conversation intelligence** to analyze call performance
+- **CRM integration** with Salesforce, HubSpot, Pipedrive
+- **Chrome extension** for prospecting on LinkedIn and websites
+- **Analytics dashboard** to track engagement and ROI
+
+## Use Cases
+
+- B2B lead generation
+- Sales prospecting
+- Email outreach campaigns
+- Account-based sales
+- Pipeline management
+
+## Get Started with Apollo
+
+Find your next customer today. Visit [apollo.io](https://www.apollo.io) to start your free trial and access the world's largest B2B database.

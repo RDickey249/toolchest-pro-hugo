@@ -10,4 +10,26 @@ image: "/images/tools/figma-placeholder.jpg"
 
 # Figma
 
-Figma revolutionizes collaborative design through browser-based interface design that enables teams to work together in real-time while maintaining version control and proven effectiveness across design teams requiring seamless collaboration and modern design workflows without software installation requirements. This platform provides extensive features for vector editing, prototyping, design systems, and real-time collaboration while offering advanced capabilities like component libraries, auto-layout, and developer handoff tools. Figma's strength lies in its collaborative approach and cloud-native architecture, offering complete design solution that eliminates traditional design workflow barriers through real-time collaboration and proven adoption among modern design teams. The platform excels at serving UI/UX designers, product teams, and distributed organizations requiring collaborative design with features like live collaboration, version history, and design tokens that enable everything from wireframing to high-fidelity prototypes with seamless teamwork, consistent design systems, and efficient developer handoff while providing users with collaborative design platform, cloud-based accessibility, and proven methodology for building modern digital products through team-centric design processes and comprehensive design system management.
+Figma is the collaborative interface design tool that runs in the browser. Design, prototype, and build design systems together with your team in real-time.
+
+## Key Features
+
+- **Real-time collaboration** - Multiple designers working simultaneously
+- **Browser-based** - No software to install or update
+- **Vector editing** with professional design tools
+- **Prototyping** with interactive animations and transitions
+- **Design systems** with reusable components and styles
+- **Developer handoff** with code generation and specs
+- **Version history** to track and restore changes
+
+## Use Cases
+
+- UI/UX design
+- Web and mobile prototyping
+- Design systems
+- Team collaboration
+- Wireframing
+
+## Get Started with Figma
+
+Design better products, together. Visit [figma.com](https://www.figma.com) to start designing for free and see why millions of designers choose Figma.

@@ -10,4 +10,26 @@ image: "/images/tools/calendly-placeholder.jpg"
 
 # Calendly
 
-Calendly revolutionizes automated scheduling through seamless booking integration that eliminates scheduling friction while maintaining professional presentation and proven effectiveness across sales, customer success, and professional services requiring efficient meeting coordination without administrative overhead. This platform provides extensive features for availability sharing, automatic scheduling, calendar integration, and meeting workflows while offering advanced capabilities like routing forms, buffer times, and team scheduling. Calendly's strength lies in its simplicity and integration depth, offering effortless scheduling solution that removes booking barriers through intelligent automation and proven adoption across diverse professional scenarios. The platform excels at serving sales professionals, consultants, and customer-facing teams requiring streamlined scheduling with features like custom branding, payment collection, and workflow automation that enable everything from sales calls to customer onboarding with professional booking experience, automatic confirmations, and comprehensive scheduling optimization while providing users with friction-free scheduling, professional presentation, and proven methodology for eliminating scheduling administrative work while improving booking conversion rates and customer experience through seamless, automated meeting coordination.
+Calendly eliminates the back-and-forth emails of scheduling. Share your availability, let people book time with you, and get back to what matters most.
+
+## Key Features
+
+- **Automated scheduling** eliminates email back-and-forth
+- **Calendar integration** with Google, Outlook, iCloud, Exchange
+- **Custom availability** with buffer times and blackout dates
+- **Meeting preferences** for location, duration, and type
+- **Team scheduling** with round-robin and collective availability
+- **Routing forms** to qualify leads before booking
+- **Payment collection** for paid consultations
+
+## Use Cases
+
+- Sales calls and demos
+- Customer support meetings
+- Consulting sessions
+- Job interviews
+- Client onboarding
+
+## Get Started with Calendly
+
+Simplify your scheduling today. Visit [calendly.com](https://calendly.com) to create your free account and start booking meetings without the hassle.
