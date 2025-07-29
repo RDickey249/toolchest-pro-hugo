@@ -10,4 +10,26 @@ image: "/images/tools/sage-x3-placeholder.jpg"
 
 # Sage X3
 
-Sage X3 revolutionizes enterprise inventory management through comprehensive ERP integration that enables sophisticated inventory control while maintaining enterprise scalability and proven effectiveness across large organizations requiring advanced inventory capabilities and global enterprises needing integrated business management with comprehensive operational control for complex inventory operations. This platform provides extensive features for inventory optimization, demand planning, warehouse management, and supply chain integration while offering advanced capabilities like advanced analytics, global compliance, and multi-company support. Sage X3's strength lies in its enterprise focus and global capabilities, offering complete ERP solution that handles complex inventory requirements and proven adoption among large enterprises and global organizations. The platform excels at serving large enterprises, global companies, and complex operations requiring sophisticated inventory management with features like advanced optimization, global support, and enterprise integration that enable everything from complex inventory control to global supply chain management with enterprise scalability, global compliance, and comprehensive operational management while providing users with enterprise ERP platform, sophisticated inventory capabilities, and proven methodology for complex inventory operations through enterprise integration and comprehensive global business management.
+Sage X3 is a comprehensive enterprise ERP solution that provides sophisticated inventory management and business operations for large organizations with global operations.
+
+## Key Features
+
+- **Advanced inventory optimization** - Sophisticated demand planning and forecasting
+- **Global compliance** - Multi-country regulatory and tax support
+- **Warehouse management** - Advanced WMS capabilities and automation
+- **Supply chain integration** - End-to-end supply chain visibility
+- **Multi-company support** - Manage multiple entities and subsidiaries
+- **Advanced analytics** - Business intelligence and reporting
+- **Enterprise scalability** - Handle complex global operations
+
+## Use Cases
+
+- Large enterprise inventory management
+- Global manufacturing operations
+- Complex supply chain management
+- Multi-company business operations
+- Advanced demand planning and optimization
+
+## Get Started with Sage X3
+
+Scale your enterprise operations globally. Visit [sage.com/x3](https://www.sage.com/x3) to implement comprehensive ERP solutions.
