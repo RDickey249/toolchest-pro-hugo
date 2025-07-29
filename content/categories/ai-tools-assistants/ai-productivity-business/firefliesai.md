@@ -29,3 +29,7 @@ Fireflies.ai revolutionizes meeting productivity by providing intelligent call r
 • Some participants may feel uncomfortable with automated recording
 • Learning curve for maximizing advanced features and integrations
 • Dependency on internet connectivity for real-time processing and analysis
+
+## Get Started with Fireflies.ai
+
+Never miss another meeting detail. Visit [fireflies.ai](https://fireflies.ai) to start your free trial and turn every conversation into actionable insights with AI-powered meeting intelligence.

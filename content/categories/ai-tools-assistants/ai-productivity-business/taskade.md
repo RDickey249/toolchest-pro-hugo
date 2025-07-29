@@ -30,7 +30,9 @@ Taskade revolutionizes team collaboration by combining AI-powered productivity f
 • May not suit complex enterprise workflows
 • Smaller ecosystem of integrations
 
-[Collaborate Smarter with Taskade →](https://www.taskade.com)
+## Get Started with Taskade
+
+Work smarter with AI-powered collaboration. Visit [taskade.com](https://www.taskade.com) to start your free account and supercharge your team's productivity with intelligent task management.
 
 ## How It Compares
 

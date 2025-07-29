@@ -29,3 +29,7 @@ PromptLayer revolutionizes prompt engineering through sophisticated logging, ana
 • Pricing can be expensive for smaller teams
 • Complex feature set may overwhelm simple use cases
 • Primarily focused on development teams rather than individual users
+
+## Get Started with PromptLayer
+
+Build better AI products with prompt analytics. Visit [promptlayer.com](https://promptlayer.com) to start tracking, analyzing, and optimizing your AI prompts with professional-grade infrastructure.

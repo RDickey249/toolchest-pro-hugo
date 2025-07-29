@@ -88,3 +88,7 @@ Built by TechSmith for over 30 years, Snagit combines powerful capture capabilit
 - **Professional results** - Polished output without design expertise
 
 Used by millions of professionals worldwide to create clear, compelling visual communication that gets results.
+
+## Get Started with Snagit
+
+Capture, edit, and share like a pro. Visit [techsmith.com/snagit](https://www.techsmith.com/screen-capture.html) to download your free trial and see why Snagit is the standard for professional screen capture.

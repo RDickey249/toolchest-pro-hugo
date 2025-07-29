@@ -53,3 +53,7 @@ With its modular block-based approach, Notion adapts to any workflow—from pers
 - **Active community** - Thousands of templates and tutorials available
 
 Used by millions to build their ideal digital workspace.
+
+## Get Started with Notion
+
+Build your perfect workspace. Visit [notion.so](https://www.notion.so) to start for free and discover why millions use Notion as their all-in-one workspace.
