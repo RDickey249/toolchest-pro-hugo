@@ -10,4 +10,27 @@ image: "/images/tools/astro-placeholder.jpg"
 
 # Astro
 
-Astro revolutionizes static site generation through islands architecture and partial hydration that enable developers to build ultra-fast websites with framework-agnostic components, minimal JavaScript shipping, and exceptional performance optimization while maintaining flexibility across React, Vue, Svelte, and other modern frameworks. This modern generator provides extensive features for component islands, automatic optimization, content collections, and multi-framework integration while offering advanced capabilities like server-side rendering, edge deployment, and comprehensive build customization. Astro's strength lies in its performance-first approach and framework flexibility, offering zero JavaScript by default with selective hydration that delivers exceptional Core Web Vitals scores and developer experience across multiple frontend frameworks. The platform excels at serving performance-conscious developers, content-heavy sites, and teams requiring framework choice with features like automatic image optimization, CSS optimization, and comprehensive content management that enable everything from marketing sites to complex web applications with component reusability, build-time optimization, and deployment flexibility while providing developers with familiar framework syntax, comprehensive tooling integration, and proven performance benefits that make building fast, modern websites accessible and scalable across diverse technology preferences and performance requirements.
+Astro is a modern static site builder that uses islands architecture and partial hydration to deliver ultra-fast websites with minimal JavaScript.
+
+## Key Features
+
+- **Islands architecture** - Partial hydration for optimal performance
+- **Framework agnostic** - Use React, Vue, Svelte, and others together
+- **Zero JavaScript by default** - Ship only what's needed
+- **Content collections** - Type-safe content management
+- **Automatic optimization** - Image, CSS, and bundle optimization
+- **Component islands** - Interactive components where needed
+- **Server-side rendering** - SSG and SSR capabilities
+- **Edge deployment** - Deploy to edge networks
+
+## Use Cases
+
+- Performance-critical websites
+- Content-heavy blogs and publications
+- Marketing and landing pages
+- Documentation sites
+- Multi-framework projects
+
+## Get Started with Astro
+
+Build ultra-fast websites with islands architecture and framework flexibility. Visit [astro.build](https://astro.build) to create modern sites.

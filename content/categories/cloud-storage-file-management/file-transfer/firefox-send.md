@@ -30,6 +30,6 @@ Firefox Send (discontinued) was Mozilla's encrypted file sharing service that pr
 - Temporary file sharing
 - Confidential business communications
 
-## Note About Firefox Send
+## Get Started with Firefox Send Alternatives
 
-Firefox Send was discontinued by Mozilla. For similar privacy-focused file sharing, consider alternatives like [send.vis.ee](https://send.vis.ee) (community fork).
+Firefox Send was discontinued by Mozilla. For similar privacy-focused file sharing, visit [send.vis.ee](https://send.vis.ee) to use community-maintained alternatives.

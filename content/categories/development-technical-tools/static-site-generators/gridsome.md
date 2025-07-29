@@ -10,4 +10,27 @@ image: "/images/tools/gridsome-placeholder.jpg"
 
 # Gridsome
 
-Gridsome revolutionizes Vue.js static site generation through GraphQL data unification and modern development practices that enable developers to build fast websites with Vue components, unified data sourcing, and automatic performance optimization while maintaining Vue.js development experience and comprehensive plugin ecosystem. This Vue generator provides extensive features for GraphQL data layer, image optimization, code splitting, and progressive web app capabilities while offering advanced capabilities like source plugins, transformer plugins, and comprehensive deployment options. Gridsome's strength lies in its Vue integration and data unification, offering Vue developers a familiar development experience with Gatsby-inspired architecture and comprehensive data management. The platform excels at serving Vue developers, content-heavy sites, portfolio websites, and projects requiring modern development workflows with features like automatic image processing, prefetching optimization, and SEO enhancement that enable everything from personal portfolios to complex content sites with headless CMS integration, e-commerce capabilities, and modern development practices while providing developers with Vue familiarity, GraphQL benefits, and performance optimization that makes building fast, modern Vue-based websites accessible and efficient.
+Gridsome is a Vue.js-powered static site generator that uses GraphQL to unify data from multiple sources with modern development practices.
+
+## Key Features
+
+- **GraphQL data layer** - Unified data sourcing from multiple sources
+- **Vue.js components** - Build with familiar Vue.js syntax
+- **Automatic optimization** - Code splitting and performance optimization
+- **Image processing** - Automatic image optimization and lazy loading
+- **Plugin ecosystem** - Extensive source and transformer plugins
+- **PWA ready** - Progressive web app capabilities built-in
+- **Hot reloading** - Fast development with live updates
+- **SEO optimization** - Automatic meta tags and structured data
+
+## Use Cases
+
+- Vue.js-based static websites
+- Portfolio and personal websites
+- Content-heavy blogs and publications
+- Documentation sites
+- JAMstack applications
+
+## Get Started with Gridsome
+
+Build fast Vue.js websites with GraphQL data unification. Visit [gridsome.org](https://gridsome.org) to create modern Vue sites.

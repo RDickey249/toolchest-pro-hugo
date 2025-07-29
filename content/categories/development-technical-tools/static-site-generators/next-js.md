@@ -10,4 +10,27 @@ image: "/images/tools/next-js-placeholder.jpg"
 
 # Next.js
 
-Next.js revolutionizes React application development through hybrid static generation and server-side rendering that enable developers to build scalable websites with automatic optimization, API routes, and flexible rendering strategies while maintaining React development experience and comprehensive deployment options. This React framework provides extensive features for static site generation, incremental static regeneration, API development, and image optimization while offering advanced capabilities like middleware, edge functions, and comprehensive analytics. Next.js's strength lies in its flexibility and performance optimization, offering multiple rendering strategies with automatic optimization and full-stack capabilities in a single framework. The platform excels at serving React developers, e-commerce sites, content platforms, and applications requiring flexible rendering with features like automatic code splitting, image optimization, and built-in CSS support that enable everything from static marketing sites to dynamic web applications with API integration, real-time data, and global content delivery while providing developers with React familiarity, comprehensive tooling, and deployment flexibility that makes building performant, scalable React applications accessible and efficient.
+Next.js is a React framework that provides hybrid static generation and server-side rendering with automatic optimization and full-stack capabilities.
+
+## Key Features
+
+- **Hybrid rendering** - Static generation, SSR, and client-side rendering
+- **API routes** - Built-in serverless API endpoints
+- **Image optimization** - Automatic image optimization and lazy loading
+- **Automatic code splitting** - Bundle optimization for faster loading
+- **Built-in CSS support** - CSS Modules, Sass, and CSS-in-JS
+- **Incremental static regeneration** - Update static content dynamically
+- **Edge functions** - Deploy functions to edge locations
+- **TypeScript support** - Built-in TypeScript configuration
+
+## Use Cases
+
+- E-commerce and marketing websites
+- Content management platforms
+- Full-stack React applications
+- Static site generation
+- Enterprise web applications
+
+## Get Started with Next.js
+
+Build React applications with hybrid rendering and automatic optimization. Visit [nextjs.org](https://nextjs.org) to create full-stack React apps.
