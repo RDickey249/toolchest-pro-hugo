@@ -30,7 +30,9 @@ Lumen5 transforms content marketing by automatically converting blog posts and a
 • Requires existing written content
 • Limited advanced editing features
 
-[Repurpose Content with Lumen5 →](https://www.lumen5.com)
+## Get Started with Lumen5
+
+Turn your blog posts into engaging videos. Visit [lumen5.com](https://www.lumen5.com) to start creating videos from your content automatically with AI-powered video generation.
 
 ## How It Compares
 

@@ -30,7 +30,9 @@ Cleanvoice revolutionizes podcast post-production by automatically detecting and
 • Limited manual control
 • Processing time varies
 
-[Clean Your Audio with Cleanvoice →](https://cleanvoice.ai)
+## Get Started with Cleanvoice
+
+Clean your audio automatically. Visit [cleanvoice.ai](https://cleanvoice.ai) to upload your first file free and see how Cleanvoice transforms your podcast editing workflow.
 
 ## How It Compares
 
