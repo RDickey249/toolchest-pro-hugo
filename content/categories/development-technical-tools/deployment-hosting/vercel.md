@@ -13,4 +13,27 @@ subcategories: ["Deployment & Hosting"]
 
 # Vercel
 
-Vercel revolutionizes frontend deployment through Next.js optimization and Jamstack-focused infrastructure that enable developers to deploy React applications with zero-configuration workflows, instant global distribution, and comprehensive serverless integration while maintaining exceptional performance and developer experience optimization. This deployment platform provides extensive features for automatic deployments, preview environments, edge functions, and performance analytics while offering advanced capabilities like image optimization, incremental static regeneration, and comprehensive team collaboration tools. Vercel's strength lies in its Next.js integration and performance focus, offering seamless deployment experiences that maximize frontend application speed with automatic code splitting, edge caching, and intelligent build optimization. The platform excels at serving React developers, Next.js applications, and modern frontend frameworks requiring optimized deployment workflows with features like automatic HTTPS, custom domains, and comprehensive monitoring that enable everything from portfolio sites to enterprise applications with deployment automation, performance insights, and development workflow enhancement while providing teams with intuitive Git integration, collaborative preview sharing, and proven scalability that makes modern frontend deployment efficient and performant across diverse project types and organizational requirements.
+Vercel is a frontend deployment platform optimized for Next.js and React applications with zero-configuration workflows and global edge distribution.
+
+## Key Features
+
+- **Next.js optimization** - Built specifically for Next.js apps
+- **Edge functions** - Serverless functions at the network edge
+- **Preview deployments** - Every branch gets a URL
+- **Image optimization** - Automatic image resizing and formats
+- **Global CDN** - Fast content delivery worldwide
+- **Incremental static regeneration** - Update static content dynamically
+- **Analytics** - Core web vitals and performance metrics
+- **Team collaboration** - Share previews and manage deployments
+
+## Use Cases
+
+- Next.js applications
+- React and frontend frameworks
+- Jamstack sites
+- E-commerce platforms
+- Portfolio and marketing sites
+
+## Get Started with Vercel
+
+Deploy frontend applications with optimal performance and zero configuration. Visit [vercel.com](https://vercel.com) to build on the edge platform.

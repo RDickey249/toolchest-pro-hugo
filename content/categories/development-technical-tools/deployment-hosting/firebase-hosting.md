@@ -10,4 +10,27 @@ image: "/images/tools/firebase-hosting-placeholder.jpg"
 
 # Firebase Hosting
 
-Firebase Hosting revolutionizes web application deployment through Google's global infrastructure and comprehensive Firebase ecosystem integration that enable developers to host static and dynamic applications with automatic SSL, global CDN distribution, and seamless backend service connectivity while maintaining exceptional performance and developer workflow optimization. This hosting platform provides extensive features for instant deployments, custom domains, preview channels, and traffic splitting while offering advanced capabilities like Firebase SDK integration, real-time database connectivity, and comprehensive analytics integration. Firebase Hosting's strength lies in its Google Cloud integration and full-stack capabilities, offering production-grade hosting that seamlessly connects with Firebase services including authentication, databases, and cloud functions with automatic scaling and performance optimization. The platform excels at serving web applications, progressive web apps, and Firebase-powered projects requiring integrated hosting solutions with features like atomic deployments, instant rollbacks, and comprehensive monitoring that enable everything from personal projects to enterprise applications with backend integration, performance optimization, and development workflow enhancement while providing teams with powerful CLI tools, extensive documentation, and proven Google infrastructure that makes modern web hosting reliable and scalable across diverse application architectures and organizational requirements.
+Firebase Hosting is Google's web hosting service that provides fast, secure hosting for web applications with seamless integration to the Firebase ecosystem.
+
+## Key Features
+
+- **Global CDN** - Fast content delivery worldwide
+- **Automatic SSL** - Free HTTPS certificates
+- **Preview channels** - Test deployments before going live
+- **Traffic splitting** - A/B testing and gradual rollouts
+- **Firebase integration** - Connect with databases, auth, functions
+- **Atomic deployments** - All-or-nothing deploys
+- **Instant rollbacks** - Quick reversion to previous versions
+- **Custom domains** - Use your own domain names
+
+## Use Cases
+
+- Progressive web applications
+- Static websites and SPAs
+- Firebase-powered applications
+- Web app prototyping
+- Enterprise web hosting
+
+## Get Started with Firebase Hosting
+
+Host web apps with Google's global CDN and Firebase integration. Visit [firebase.google.com/products/hosting](https://firebase.google.com/products/hosting) to deploy instantly.

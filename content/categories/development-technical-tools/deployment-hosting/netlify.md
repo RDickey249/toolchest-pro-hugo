@@ -10,4 +10,27 @@ image: "/images/tools/netlify-placeholder.jpg"
 
 # Netlify
 
-Netlify revolutionizes static site deployment through comprehensive CI/CD workflows and serverless infrastructure that enable developers to deploy web applications with automated builds, instant rollbacks, and global CDN distribution while maintaining seamless Git integration and extensive third-party service connectivity. This deployment platform provides extensive features for continuous deployment, branch previews, form handling, and edge computing while offering advanced capabilities like split testing, analytics, and comprehensive serverless functions. Netlify's strength lies in its developer experience and automation, offering one-click deployments that transform Git commits into production-ready websites with automatic SSL, custom domains, and performance optimization. The platform excels at serving frontend developers, Jamstack applications, and static site generators requiring modern deployment workflows with features like atomic deploys, instant cache invalidation, and comprehensive build optimization that enable everything from personal blogs to enterprise applications with deployment automation, performance monitoring, and development workflow optimization while providing teams with intuitive dashboard controls, comprehensive API access, and proven scalability that makes modern web deployment accessible and reliable across diverse project requirements and team configurations.
+Netlify is a cloud platform that automates the deployment of modern web applications with continuous integration, serverless functions, and global CDN distribution.
+
+## Key Features
+
+- **Continuous deployment** - Automatic builds from Git repos
+- **Branch previews** - Deploy every pull request automatically
+- **Serverless functions** - Backend logic without servers
+- **Global CDN** - Fast content delivery worldwide
+- **Form handling** - Process forms without backend code
+- **Split testing** - A/B test different versions
+- **Edge computing** - Run code at CDN edge locations
+- **Atomic deploys** - All-or-nothing deployments
+
+## Use Cases
+
+- Jamstack applications
+- Static site generators (Gatsby, Next.js)
+- Frontend applications
+- Documentation sites
+- E-commerce sites
+
+## Get Started with Netlify
+
+Deploy modern web apps with automatic CI/CD and global distribution. Visit [netlify.com](https://netlify.com) to build on the Jamstack platform.

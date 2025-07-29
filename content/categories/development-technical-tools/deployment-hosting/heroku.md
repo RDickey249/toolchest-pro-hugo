@@ -13,4 +13,27 @@ subcategories: ["Deployment & Hosting"]
 
 # Heroku
 
-Heroku revolutionizes application deployment through Git-based workflows and comprehensive platform services that enable developers to deploy web applications with zero server management, automatic scaling, and extensive add-on ecosystem while maintaining simple deployment processes and robust infrastructure abstraction. This cloud platform provides extensive features for container-based deployment, database management, monitoring tools, and team collaboration while offering advanced capabilities like review apps, pipeline management, and comprehensive logging systems. Heroku's strength lies in its developer experience and platform abstraction, offering effortless deployments that transform Git pushes into production applications with automatic dependency management, process scaling, and infrastructure optimization. The platform excels at serving startups, rapid prototyping, and web applications requiring simple deployment workflows with features like one-click add-ons, automatic SSL, and comprehensive metrics that enable everything from MVP development to enterprise applications with deployment automation, resource scaling, and operational monitoring while providing teams with intuitive CLI tools, extensive language support, and proven reliability that makes cloud deployment accessible and manageable for developers focused on application logic rather than infrastructure complexity and operational overhead.
+Heroku is a cloud platform that enables developers to deploy, manage, and scale applications with Git-based workflows and zero server administration.
+
+## Key Features
+
+- **Git-based deployment** - Deploy applications with simple git push
+- **Add-on ecosystem** - Over 200 add-ons for databases, monitoring, caching
+- **Auto-scaling** - Automatic application and database scaling
+- **Multi-language support** - Ruby, Node.js, Python, Java, PHP, Go, Scala
+- **Review apps** - Temporary apps for each pull request
+- **Pipeline management** - Staging and production environments
+- **Dyno management** - Containerized application processes
+- **CLI tools** - Comprehensive command-line interface
+
+## Use Cases
+
+- Rapid prototyping and MVP development
+- Web application deployment
+- API and microservices hosting
+- Team collaboration projects
+- CI/CD pipeline integration
+
+## Get Started with Heroku
+
+Deploy applications instantly with git push workflows. Visit [heroku.com](https://heroku.com) to start building on the cloud platform.
