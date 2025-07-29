@@ -10,4 +10,26 @@ image: "/images/tools/dokuwiki-placeholder.jpg"
 
 # DokuWiki
 
-DokuWiki revolutionizes file-based wiki management through database-free architecture that enables organizations to maintain wikis using plain text files while ensuring reliability and proven effectiveness across teams requiring simple, maintainable knowledge management solutions. This platform provides extensive features for namespace organization, access control, revision tracking, and plugin ecosystem while offering advanced capabilities like template system, caching mechanisms, and backup simplicity. DokuWiki's strength lies in its simplicity and file-based storage, offering robust wiki that requires no database through text file management and proven longevity across diverse hosting environments. The platform excels at serving small to medium organizations, technical teams, and environments requiring low-maintenance solutions with features like syntax highlighting, media management, and user authentication that enable everything from technical documentation to project wikis with version control integration, search functionality, and collaborative editing while providing users with straightforward setup, minimal server requirements, and proven reliability that makes wiki management accessible without complex infrastructure dependencies.
+DokuWiki is a file-based wiki that requires no database, enabling organizations to maintain wikis using plain text files for simple, reliable knowledge management.
+
+## Key Features
+
+- **No database required** - Store everything in plain text files
+- **Namespace organization** - Hierarchical page structure
+- **Access control** - Granular user permissions
+- **Revision tracking** - Complete edit history
+- **Plugin ecosystem** - Extensive customization options
+- **Syntax highlighting** - Code formatting support
+- **Media management** - Image and file handling
+
+## Use Cases
+
+- Technical documentation wikis
+- Small to medium team collaboration
+- Project documentation
+- Low-maintenance knowledge bases
+- Self-hosted documentation sites
+
+## Get Started with DokuWiki
+
+Deploy a simple, database-free wiki. Visit [dokuwiki.org](https://www.dokuwiki.org) to create file-based documentation.

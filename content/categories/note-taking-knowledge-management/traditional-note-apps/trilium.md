@@ -10,4 +10,26 @@ image: "/images/tools/trilium-placeholder.jpg"
 
 # Trilium
 
-Trilium revolutionizes personal knowledge management through hierarchical tree structure that enables users to organize complex information systems with infinite nesting while maintaining relationships and proven effectiveness across users requiring sophisticated organization and self-hosted control. This platform provides extensive features for note cloning, attribute system, scripting capabilities, and synchronization while offering advanced capabilities like relation mapping, full-text search, and web interface. Trilium's strength lies in its architectural flexibility and self-hosting focus, offering enterprise-grade knowledge management that runs locally with complete customization and proven scalability for complex knowledge bases. The platform excels at serving researchers, developers, and power users requiring sophisticated organization with features like note templates, backup systems, and API access that enable everything from personal wikis to complex documentation systems with revision history, encryption support, and collaborative features while providing users with complete data control, extensive customization options, and proven capability to handle large, complex knowledge structures without external dependencies.
+Trilium is a self-hosted personal knowledge management system that uses hierarchical tree structures to organize complex information with infinite nesting capabilities.
+
+## Key Features
+
+- **Hierarchical organization** - Tree structure with infinite nesting
+- **Note cloning** - Reference notes in multiple locations
+- **Attribute system** - Custom metadata and properties
+- **Scripting capabilities** - Automate with custom scripts
+- **Relation mapping** - Visualize note relationships
+- **Full-text search** - Powerful search capabilities
+- **Self-hosted** - Complete data control and privacy
+
+## Use Cases
+
+- Personal knowledge management
+- Research organization
+- Complex documentation systems
+- Self-hosted note databases
+- Sophisticated information architecture
+
+## Get Started with Trilium
+
+Build your personal knowledge empire. Visit [github.com/zadam/trilium](https://github.com/zadam/trilium) to deploy self-hosted knowledge management.

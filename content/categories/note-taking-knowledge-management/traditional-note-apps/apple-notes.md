@@ -10,4 +10,26 @@ image: "/images/tools/apple-notes-placeholder.jpg"
 
 # Apple Notes
 
-Apple Notes revolutionizes native note-taking through seamless Apple ecosystem integration that enables users to capture thoughts instantly across all Apple devices while maintaining simplicity and proven effectiveness for quick capture and basic organization needs. This platform provides extensive features for rich text formatting, checklist creation, document scanning, and handwriting support while offering advanced capabilities like folder organization, shared notes, and Siri integration. Apple Notes' strength lies in its zero-friction access and iCloud sync, offering instantly available note-taking that requires no setup through native integration and proven reliability across Apple devices. The platform excels at serving Apple users requiring quick capture with features like lock screen access, voice dictation, and markup tools that enable everything from shopping lists to meeting notes with drawing support, photo annotation, and family sharing while providing users with familiar iOS interfaces, instant synchronization, and proven effectiveness for everyday note-taking without additional app downloads or subscriptions, making it ideal for casual users seeking reliable, integrated note-taking.
+Apple Notes is the native note-taking app that provides seamless integration across all Apple devices with instant synchronization through iCloud.
+
+## Key Features
+
+- **Apple ecosystem integration** - Seamless sync across iPhone, iPad, Mac
+- **Rich text formatting** - Bold, italics, lists, and tables
+- **Document scanning** - Capture documents with camera
+- **Handwriting support** - Apple Pencil compatibility on iPad
+- **Shared notes** - Collaborate with other Apple users
+- **Siri integration** - Voice commands and dictation
+- **Lock screen access** - Quick note capture without unlocking
+
+## Use Cases
+
+- Quick thought capture and daily notes
+- Shopping lists and reminders
+- Meeting notes and project planning
+- Family note sharing
+- Apple ecosystem productivity
+
+## Get Started with Apple Notes
+
+Capture thoughts instantly across your Apple devices. Visit [apple.com/ios/notes](https://www.apple.com/ios/notes) to explore native note-taking features.

@@ -10,4 +10,26 @@ image: "/images/tools/tiddlywiki-placeholder.jpg"
 
 # TiddlyWiki
 
-TiddlyWiki revolutionizes non-linear documentation through unique single-file architecture that enables users to create interconnected knowledge networks that run entirely in browsers while maintaining complete portability and proven effectiveness across personal knowledge management and documentation needs. This platform provides extensive features for tiddler creation, transclusion, tagging system, and macro programming while offering advanced capabilities like plugins, custom layouts, and server modes. TiddlyWiki's strength lies in its self-contained nature and infinite customization, offering revolutionary documentation tool that stores everything in one HTML file with powerful linking and proven longevity through open-source development. The platform excels at serving researchers, educators, and knowledge workers requiring portable documentation with features like dynamic filtering, story view, and timeline plugins that enable everything from personal wikis to complex documentation systems with mathematical notation, interactive elements, and collaborative editing while providing users with complete ownership, endless customization possibilities, and proven methodology for creating living documents that grow and adapt without external dependencies.
+TiddlyWiki is a unique single-file wiki that enables users to create interconnected knowledge networks that run entirely in browsers with complete portability.
+
+## Key Features
+
+- **Single-file architecture** - Everything stored in one HTML file
+- **Non-linear structure** - Interconnected tiddlers and content
+- **Complete portability** - Runs in any modern browser
+- **Powerful linking** - Dynamic content relationships
+- **Tagging system** - Flexible content organization
+- **Macro programming** - Advanced customization capabilities
+- **Plugin ecosystem** - Extensive functionality extensions
+
+## Use Cases
+
+- Personal knowledge management
+- Research documentation
+- Non-linear note-taking
+- Portable wiki creation
+- Educational content development
+
+## Get Started with TiddlyWiki
+
+Create your portable, interconnected knowledge base. Visit [tiddlywiki.com](https://tiddlywiki.com) to build living documents.
