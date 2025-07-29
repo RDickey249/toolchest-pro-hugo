@@ -30,7 +30,12 @@ Uizard revolutionizes UI design by using artificial intelligence to transform ha
 • Less control than professional design tools
 • Newer platform with evolving features
 
-[Design with AI Assistance using Uizard →](https://uizard.io)
+## Get Started with Uizard
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://uizard.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Uizard →</a>
+  <a href="https://uizard.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Designing →</a>
+</div>
 
 ## How It Compares
 

@@ -30,7 +30,12 @@ Socratic by Google revolutionizes homework help by using advanced AI and image r
 • Requires clear photos for optimal problem recognition
 • Less interactive than live tutoring or comprehensive learning platforms
 
-[Get Instant Homework Help with Socratic →](https://socratic.org)
+## Get Started with Socratic
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://socratic.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Socratic →</a>
+  <a href="https://play.google.com/store/apps/details?id=com.google.socratic" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Download App →</a>
+</div>
 
 ## How It Compares
 

@@ -30,7 +30,12 @@ Zendesk AI revolutionizes customer service by integrating advanced artificial in
 • Best suited for organizations already committed to Zendesk
 • Feature development pace may be slower than dedicated AI companies
 
-[Enhance Support with Zendesk AI →](https://www.zendesk.com/solutions/ai)
+## Get Started with Zendesk AI
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.zendesk.com/solutions/ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zendesk AI →</a>
+  <a href="https://www.zendesk.com/register" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

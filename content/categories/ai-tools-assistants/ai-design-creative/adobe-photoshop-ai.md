@@ -30,7 +30,12 @@ Adobe Photoshop's AI features revolutionize professional image editing by integr
 • AI features may need manual refinement for perfection
 • Overkill for simple editing tasks
 
-[Enhance Your Creativity with Adobe Photoshop AI →](https://www.adobe.com/products/photoshop.html)
+## Get Started with Adobe Photoshop AI
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Adobe Photoshop →</a>
+  <a href="https://www.adobe.com/creativecloud/plans.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

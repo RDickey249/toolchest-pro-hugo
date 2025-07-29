@@ -30,7 +30,12 @@ Mem transforms knowledge management by using AI to automatically organize, conne
 • Learning curve for optimal usage patterns
 • Best suited for conceptual rather than procedural knowledge
 
-[Organize Your Knowledge with Mem →](https://mem.ai)
+## Get Started with Mem
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://mem.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Mem →</a>
+  <a href="https://mem.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## How It Compares
 

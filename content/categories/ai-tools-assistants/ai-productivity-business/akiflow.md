@@ -30,7 +30,12 @@ Akiflow revolutionizes task management by consolidating all your work sources in
 • Best suited for users already using multiple tools
 • Learning curve for optimal workflow setup
 
-[Unify Your Workflow with Akiflow →](https://akiflow.com)
+## Get Started with Akiflow
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://akiflow.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Akiflow →</a>
+  <a href="https://akiflow.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

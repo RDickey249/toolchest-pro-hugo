@@ -30,7 +30,12 @@ Koala Inspector revolutionizes e-commerce competitive intelligence by providing 
 • Limited real-time data for very new websites
 • Best suited for competitive research rather than optimization
 
-[Analyze Competitors with Koala Inspector →](https://koala-app.com)
+## Get Started with Koala Inspector
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://koala-app.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Koala Inspector →</a>
+  <a href="https://koala-app.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Analyzing →</a>
+</div>
 
 ## How It Compares
 

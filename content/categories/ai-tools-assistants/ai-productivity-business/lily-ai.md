@@ -30,7 +30,12 @@ Lily AI revolutionizes e-commerce product data by using advanced artificial inte
 • May need customization for specialized product categories
 • Enterprise-focused pricing may be high for smaller retailers
 
-[Enhance Product Data with Lily AI →](https://www.lily.ai)
+## Get Started with Lily AI
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.lily.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Lily AI →</a>
+  <a href="https://www.lily.ai/contact" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>
 
 ## How It Compares
 

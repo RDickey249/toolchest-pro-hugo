@@ -30,7 +30,12 @@ Let's Enhance transforms low-resolution and poor-quality images into crisp, prof
 • Subscription required for high-resolution outputs
 • Best suited for enhancement rather than creative editing
 
-[Enhance Your Images with Let's Enhance →](https://letsenhance.io)
+## Get Started with Let's Enhance
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://letsenhance.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Let's Enhance →</a>
+  <a href="https://letsenhance.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Enhance Images →</a>
+</div>
 
 ## How It Compares
 

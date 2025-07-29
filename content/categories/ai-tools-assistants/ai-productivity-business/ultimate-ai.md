@@ -30,7 +30,12 @@ Ultimate AI transforms customer service by providing comprehensive conversationa
 • Premium pricing compared to basic chatbot solutions
 • Requires ongoing optimization and management for best results
 
-[Deploy Advanced Conversational AI with Ultimate AI →](https://ultimate.ai)
+## Get Started with Ultimate AI
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://ultimate.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Ultimate AI →</a>
+  <a href="https://ultimate.ai/request-demo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>
 
 ## How It Compares
 

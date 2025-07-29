@@ -30,7 +30,12 @@ Postly transforms social media management through intelligent automation that le
 • Best for consistent, volume-based posting
 • Requires initial setup and training period
 
-[Automate Your Social Media with Postly →](https://www.postly.ai)
+## Get Started with Postly
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.postly.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Postly →</a>
+  <a href="https://www.postly.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## How It Compares
 

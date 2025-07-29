@@ -30,7 +30,12 @@ Mutable.ai revolutionizes codebase transformation by using advanced AI to unders
 • Higher cost compared to basic code completion tools
 • Requires technical expertise to utilize effectively
 
-[Transform Your Codebase with Mutable.ai →](https://www.mutable.ai)
+## Get Started with Mutable.ai
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.mutable.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Mutable.ai →</a>
+  <a href="https://www.mutable.ai/contact" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>
 
 ## How It Compares
 

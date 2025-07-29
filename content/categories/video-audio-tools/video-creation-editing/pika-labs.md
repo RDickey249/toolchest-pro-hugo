@@ -30,7 +30,12 @@ Pika Labs emerges as an exciting newcomer in AI video generation, challenging es
 • Less documentation
 • Occasional quality variations
 
-[Join Pika Labs →](https://pika.art)
+## Get Started with Pika Labs
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://pika.art" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Pika Labs →</a>
+  <a href="https://discord.gg/pika" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Join Discord →</a>
+</div>
 
 ## How It Compares
 

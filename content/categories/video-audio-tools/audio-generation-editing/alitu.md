@@ -30,7 +30,12 @@ Alitu transforms podcast production into a simple, automated process that handle
 • Limited advanced effects and processing
 • Automation may not suit all podcast styles
 
-[Automate Your Podcast Production with Alitu →](https://alitu.com)
+## Get Started with Alitu
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://alitu.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Alitu →</a>
+  <a href="https://alitu.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

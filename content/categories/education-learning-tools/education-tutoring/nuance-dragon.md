@@ -30,7 +30,12 @@ Nuance Dragon transforms accessibility and productivity in education by providin
 • Best suited for individual rather than collaborative use
 • Learning curve for advanced features and customization
 
-[Enhance Accessibility with Nuance Dragon →](https://www.nuance.com/dragon)
+## Get Started with Nuance Dragon
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.nuance.com/dragon" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Nuance Dragon →</a>
+  <a href="https://www.nuance.com/dragon/dragon-professional.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Try Free Trial →</a>
+</div>
 
 ## How It Compares
 

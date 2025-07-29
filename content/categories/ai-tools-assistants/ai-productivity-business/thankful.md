@@ -30,7 +30,12 @@ Thankful revolutionizes e-commerce customer service by providing AI-powered auto
 • Limited applicability outside retail and e-commerce contexts
 • Requires integration setup with existing systems
 
-[Automate E-commerce Support with Thankful →](https://www.thankful.ai)
+## Get Started with Thankful
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.thankful.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Thankful →</a>
+  <a href="https://www.thankful.ai/demo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>
 
 ## How It Compares
 

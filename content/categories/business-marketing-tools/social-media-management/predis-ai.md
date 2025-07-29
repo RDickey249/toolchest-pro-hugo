@@ -30,7 +30,12 @@ Predis.ai revolutionizes social media content creation by combining AI-powered p
 • Best suited for standard business posting
 • Learning curve for advanced features
 
-[Generate Better Social Content with Predis.ai →](https://predis.ai)
+## Get Started with Predis.ai
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://predis.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Predis.ai →</a>
+  <a href="https://predis.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Content →</a>
+</div>
 
 ## How It Compares
 

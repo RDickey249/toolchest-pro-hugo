@@ -30,7 +30,12 @@ Novelcrafter transforms novel writing by providing a comprehensive project manag
 • Focused on organization over creative enhancement
 • Best suited for structured writing approaches
 
-[Organize Your Novel Writing with Novelcrafter →](https://novelcrafter.com)
+## Get Started with Novelcrafter
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://novelcrafter.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Novelcrafter →</a>
+  <a href="https://novelcrafter.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Project →</a>
+</div>
 
 ## How It Compares
 
