@@ -29,3 +29,7 @@ Windsurf transforms software development by providing an AI-native integrated de
 • Potential dependency on AI assistance rather than developing core skills
 • Resource requirements may be higher than lightweight editors
 • Still evolving platform with occasional feature limitations
+
+## Get Started with Windsurf
+
+Transform your development workflow with AI-native coding. Visit [windsurf.ai](https://windsurf.ai) to download the IDE and experience the future of intelligent software development.

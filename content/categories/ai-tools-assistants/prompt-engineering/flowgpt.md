@@ -29,3 +29,7 @@ FlowGPT revolutionizes prompt engineering by creating the world's largest commun
 • Limited customization for enterprise workflows
 • Overwhelming selection for beginners
 • Some premium features require subscription
+
+## Get Started with FlowGPT
+
+Discover and share the best AI prompts. Visit [flowgpt.com](https://flowgpt.com) to explore millions of community-tested prompts and accelerate your AI workflow.

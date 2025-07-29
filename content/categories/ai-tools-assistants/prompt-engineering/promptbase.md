@@ -29,3 +29,7 @@ PromptBase pioneered the prompt economy by creating the world's first marketplac
 • Variable pricing across different prompt types
 • Learning curve for sellers navigating marketplace
 • Competition for popular prompt categories
+
+## Get Started with PromptBase
+
+Buy and sell premium AI prompts. Visit [promptbase.com](https://promptbase.com) to explore the marketplace or start monetizing your prompt engineering expertise.

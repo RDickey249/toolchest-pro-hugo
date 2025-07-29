@@ -29,3 +29,7 @@ Claude Code revolutionizes command-line development by bringing Anthropic's adva
 • May require internet connectivity for full AI capabilities
 • Limited visual interface compared to traditional IDEs
 • Potential over-reliance on AI assistance for problem-solving
+
+## Get Started with Claude Code
+
+Experience AI-powered development in your terminal. Visit [claude.ai/code](https://claude.ai/code) to install Claude Code and start transforming your command-line workflow with intelligent AI assistance.

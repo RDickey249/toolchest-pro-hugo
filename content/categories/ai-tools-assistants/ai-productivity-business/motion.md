@@ -30,7 +30,9 @@ Motion transforms time management by combining intelligent scheduling, task mana
 • Limited customization of scheduling logic
 • May not suit all work styles and preferences
 
-[Optimize Your Time with Motion →](https://usemotion.com)
+## Get Started with Motion
+
+Let AI schedule your day perfectly. Visit [usemotion.com](https://usemotion.com) to start your free trial and reclaim control over your time.
 
 ## How It Compares
 

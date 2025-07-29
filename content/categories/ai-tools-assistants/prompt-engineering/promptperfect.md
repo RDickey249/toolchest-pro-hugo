@@ -29,3 +29,7 @@ PromptPerfect transforms the art of prompt engineering into a scientific discipl
 • Learning curve for understanding optimization recommendations
 • Limited customization for very specific prompt styles
 • Dependency on platform algorithms rather than manual control
+
+## Get Started with PromptPerfect
+
+Optimize your AI prompts for better results. Visit [promptperfect.jina.ai](https://promptperfect.jina.ai) to start improving your prompts with AI-powered optimization.
