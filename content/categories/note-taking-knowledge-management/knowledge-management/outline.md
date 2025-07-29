@@ -10,4 +10,26 @@ image: "/images/tools/outline-placeholder.jpg"
 
 # Outline
 
-Outline revolutionizes team knowledge sharing through fast, collaborative wiki that enables teams to create and maintain shared documentation while prioritizing speed and proven effectiveness across modern teams requiring responsive knowledge management solutions. This platform provides extensive features for real-time editing, collection organization, search functionality, and team collaboration while offering advanced capabilities like Slack integration, version history, and guest access. Outline's strength lies in its performance and modern design, offering lightning-fast wiki that responds instantly through optimized architecture and proven adoption among fast-moving teams. The platform excels at serving startups, remote teams, and agile organizations requiring rapid knowledge sharing with features like keyboard shortcuts, markdown support, and commenting system that enable everything from project documentation to company handbooks with real-time collaboration, mobile access, and integration ecosystem while providing users with modern interfaces, comprehensive search capabilities, and proven effectiveness in reducing friction for teams who need to capture and share knowledge quickly without traditional wiki complexity.
+Outline is a fast, collaborative wiki platform designed for modern teams who need to capture and share knowledge quickly without traditional wiki complexity.
+
+## Key Features
+
+- **Lightning-fast performance** - Optimized architecture for instant responsiveness
+- **Real-time collaboration** - Simultaneous editing with live updates
+- **Collection organization** - Structured content organization and navigation
+- **Powerful search** - Fast, comprehensive search across all documents
+- **Markdown support** - Write with familiar markdown syntax
+- **Slack integration** - Seamless workflow with team communication
+- **Guest access** - Share content with external collaborators
+
+## Use Cases
+
+- Team documentation and wikis
+- Project knowledge sharing
+- Company handbooks and policies
+- Meeting notes and decisions
+- Remote team collaboration
+
+## Get Started with Outline
+
+Capture and share team knowledge at the speed of thought. Visit [getoutline.com](https://www.getoutline.com) to build fast, collaborative wikis.

@@ -10,4 +10,26 @@ image: "/images/tools/gitbook-placeholder.jpg"
 
 # GitBook
 
-GitBook revolutionizes modern documentation through collaborative writing platform that enables teams to create beautiful docs, wikis, and knowledge bases while maintaining simplicity and proven effectiveness across technical documentation and team knowledge sharing needs. This platform provides extensive features for collaborative editing, organization tools, integrations, and publishing options while offering advanced capabilities like Git synchronization, custom domains, and analytics tracking. GitBook's strength lies in its design focus and developer-friendly approach, offering elegant documentation that bridges technical and non-technical users through intuitive interface and proven reliability in creating engaging documentation. The platform excels at serving development teams, product companies, and technical organizations requiring polished documentation with features like version control, search functionality, and team spaces that enable everything from API documentation to company handbooks with real-time collaboration, custom branding, and multi-format publishing while providing users with modern editing experience, comprehensive integrations, and proven effectiveness in making documentation creation enjoyable and accessible to both technical and non-technical team members.
+GitBook is a modern documentation platform that enables teams to create beautiful docs, wikis, and knowledge bases with collaborative editing and developer-friendly features.
+
+## Key Features
+
+- **Beautiful design** - Professional, clean documentation with modern layouts
+- **Collaborative editing** - Real-time editing with comments and suggestions
+- **Git synchronization** - Sync content with GitHub repositories
+- **Custom domains** - Publish documentation on your own domain
+- **Version control** - Track changes and manage document versions
+- **Team spaces** - Organize documentation by teams and projects
+- **Analytics tracking** - Monitor documentation usage and engagement
+
+## Use Cases
+
+- Technical and API documentation
+- Company handbooks and policies
+- Product documentation and guides
+- Team wikis and knowledge bases
+- Educational content and tutorials
+
+## Get Started with GitBook
+
+Create beautiful documentation that teams love to write and read. Visit [gitbook.com](https://www.gitbook.com) to transform your knowledge sharing.
