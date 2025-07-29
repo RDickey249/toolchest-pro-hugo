@@ -10,4 +10,26 @@ image: "/images/tools/activecampaign-placeholder.jpg"
 
 # ActiveCampaign
 
-ActiveCampaign revolutionizes integrated email marketing and CRM through behavioral automation that enables businesses to nurture leads and manage customers with sophisticated marketing automation while maintaining relationship focus and proven effectiveness across organizations requiring combined marketing and sales tools. This platform provides extensive features for email marketing, automation workflows, contact management, and sales pipeline while offering advanced capabilities like behavioral triggers, lead scoring, and predictive analytics. ActiveCampaign's strength lies in its automation sophistication and marketing-sales integration, offering comprehensive platform that connects marketing activities with sales outcomes through intelligent automation and proven reliability in customer journey management. The platform excels at serving marketing-focused businesses, e-commerce companies, and organizations requiring sophisticated customer engagement with features like dynamic content, conditional logic, and attribution reporting that enable everything from lead nurturing to customer retention with advanced automation, integrated marketing and sales, and comprehensive customer journey tracking while providing users with powerful automation tools, unified customer view, and proven methodology for creating sophisticated marketing and sales funnels that drive business growth.
+ActiveCampaign combines email marketing with CRM capabilities through sophisticated behavioral automation, enabling businesses to nurture leads and manage customer relationships effectively.
+
+## Key Features
+
+- **Email marketing** - Professional campaigns with advanced personalization
+- **Marketing automation** - Behavioral triggers and conditional workflows
+- **CRM integration** - Sales pipeline management with lead scoring
+- **Dynamic content** - Personalized messaging based on customer behavior
+- **Predictive analytics** - AI-powered insights for campaign optimization
+- **Lead scoring** - Automatically prioritize prospects based on engagement
+- **Attribution reporting** - Track customer journey from marketing to sales
+
+## Use Cases
+
+- Email marketing with advanced automation
+- Lead nurturing and customer onboarding
+- E-commerce customer lifecycle management
+- Marketing and sales alignment
+- Behavioral marketing campaigns
+
+## Get Started with ActiveCampaign
+
+Combine powerful email marketing with CRM automation. Visit [activecampaign.com](https://www.activecampaign.com) to create sophisticated customer journeys.

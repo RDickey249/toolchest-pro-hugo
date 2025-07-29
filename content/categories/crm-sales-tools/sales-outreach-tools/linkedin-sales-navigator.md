@@ -10,4 +10,26 @@ image: "/images/tools/linkedin-sales-navigator-placeholder.jpg"
 
 # LinkedIn Sales Navigator
 
-LinkedIn Sales Navigator revolutionizes social selling through professional networking intelligence that enables sales professionals to leverage LinkedIn relationships for prospecting while maintaining authenticity and proven effectiveness across B2B sales requiring relationship-based approach and professional network utilization. This platform provides extensive features for advanced search, lead recommendations, relationship mapping, and social selling insights while offering advanced capabilities like TeamLink, lead alerts, and CRM integration. LinkedIn Sales Navigator's strength lies in its professional network access and relationship intelligence, offering premium social selling tools that leverage LinkedIn's professional database through advanced targeting and proven adoption among relationship-focused sales professionals. The platform excels at serving B2B sales professionals, account managers, and relationship-driven organizations requiring social selling capabilities with features like saved searches, prospect insights, and warm introductions that enable everything from cold prospecting to account penetration with professional context, mutual connections, and comprehensive prospect intelligence while providing users with authentic relationship building, professional networking leverage, and proven methodology for conducting social selling that respects professional relationships while enabling systematic prospecting and relationship development.
+LinkedIn Sales Navigator is a premium social selling platform that enables sales professionals to leverage LinkedIn's professional network for B2B prospecting and relationship building.
+
+## Key Features
+
+- **Advanced search filters** - Target prospects by company, role, industry, and more
+- **Lead recommendations** - AI-powered suggestions based on your ideal customer profile
+- **Relationship mapping** - See connections and warm introduction paths
+- **Sales insights** - Company news, job changes, and engagement opportunities
+- **TeamLink** - Leverage your team's network for introductions
+- **CRM integration** - Sync with Salesforce, HubSpot, and other CRM systems
+- **InMail credits** - Direct messaging to prospects outside your network
+
+## Use Cases
+
+- B2B sales prospecting and lead generation
+- Account-based marketing and sales
+- Relationship mapping and warm introductions
+- Social selling and professional networking
+- Competitive intelligence and market research
+
+## Get Started with LinkedIn Sales Navigator
+
+Leverage professional networks for B2B sales success. Visit [business.linkedin.com/sales-solutions](https://business.linkedin.com/sales-solutions) to transform your social selling approach.
