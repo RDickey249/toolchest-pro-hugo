@@ -10,4 +10,26 @@ image: "/images/tools/performance-reviews-placeholder.jpg"
 
 # Performance Reviews
 
-Performance Reviews platforms encompass various solutions that provide comprehensive performance evaluation and review management capabilities for organizations seeking structured performance assessment processes. These platforms offer review cycle management, goal tracking, feedback collection, and performance analytics designed to support fair and effective performance evaluation. Users benefit from structured review processes, comprehensive feedback collection, and performance tracking that supports employee development and organizational performance improvement. Performance Reviews emphasize structured evaluation through customizable review cycles, multi-rater feedback, and comprehensive documentation that supports fair and consistent performance management. The platform excels at serving organizations that need systematic performance review processes with comprehensive tracking and documentation, offering professional performance evaluation tools that support employee development while providing organizations with the documentation and insights needed for effective performance management.
+Performance review platforms provide comprehensive performance evaluation and review management capabilities for organizations seeking structured performance assessment processes.
+
+## Key Features
+
+- **Review cycle management** - Automated scheduling and workflow
+- **Goal tracking** - Set, monitor, and evaluate objectives
+- **Multi-rater feedback** - Collect input from multiple sources
+- **Performance analytics** - Detailed insights and reporting
+- **Customizable templates** - Tailor reviews to different roles
+- **Continuous feedback** - Real-time performance discussions
+- **Development planning** - Create targeted improvement plans
+
+## Use Cases
+
+- Annual and quarterly performance reviews
+- Goal setting and tracking
+- Employee development planning
+- Performance improvement documentation
+- Compensation decision support
+
+## Get Started with Performance Reviews
+
+Streamline your performance evaluation process. Visit [bamboohr.com](https://www.bamboohr.com) to implement structured performance management.

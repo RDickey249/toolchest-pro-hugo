@@ -10,4 +10,26 @@ image: "/images/tools/360-feedback-placeholder.jpg"
 
 # 360 Feedback
 
-360 Feedback tools provide comprehensive multi-rater feedback capabilities that collect input from supervisors, peers, direct reports, and other stakeholders to provide complete performance and development insights. These platforms offer multi-source feedback collection, comprehensive reporting, and development planning tools designed to support holistic performance assessment and development. Users benefit from comprehensive perspective gathering, detailed feedback analysis, and development-focused insights that support well-rounded performance improvement. 360 Feedback emphasizes comprehensive assessment through multi-stakeholder input, detailed feedback analysis, and development-focused reporting that provides complete performance pictures. The platform excels at serving organizations that need comprehensive performance feedback with multiple perspectives, offering sophisticated feedback collection and analysis tools that provide complete performance insights while supporting individual development and organizational performance improvement through comprehensive multi-rater assessment processes.
+360 feedback tools provide comprehensive multi-rater feedback capabilities that collect input from supervisors, peers, direct reports, and other stakeholders for complete performance insights.
+
+## Key Features
+
+- **Multi-source feedback** - Collect input from all stakeholder groups
+- **Comprehensive reporting** - Detailed analysis and insights
+- **Development planning** - Create targeted improvement plans
+- **Anonymous feedback** - Encourage honest input from all raters
+- **Competency frameworks** - Assess against organizational standards
+- **Progress tracking** - Monitor development over time
+- **Custom questionnaires** - Tailor assessments to specific needs
+
+## Use Cases
+
+- Leadership development programs
+- Performance assessment and improvement
+- Team effectiveness evaluation
+- Succession planning support
+- Organizational culture development
+
+## Get Started with 360 Feedback
+
+Gain comprehensive performance insights from all perspectives. Visit [15five.com](https://www.15five.com) to implement multi-rater feedback systems.

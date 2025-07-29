@@ -10,4 +10,26 @@ image: "/images/tools/kashflow-placeholder.jpg"
 
 # KashFlow
 
-KashFlow revolutionizes UK small business accounting through localized financial management that enables region-specific compliance while maintaining simplicity and proven effectiveness across UK businesses requiring local accounting and organizations needing UK-compliant financial tools with comprehensive local business support for complete regional financial management.
+KashFlow is accounting software designed specifically for UK small businesses, providing localized financial management and compliance features.
+
+## Key Features
+
+- **UK tax compliance** - Built for UK tax requirements and VAT
+- **VAT management** - Automated VAT calculations and returns
+- **Bank reconciliation** - Streamlined bank account matching
+- **Invoice creation** - Professional invoicing with UK formatting
+- **Expense tracking** - Comprehensive expense management
+- **Financial reporting** - UK-specific reports and statements
+- **Mobile access** - Manage finances on mobile devices
+
+## Use Cases
+
+- UK small business accounting
+- VAT compliance and reporting
+- Invoice and payment management
+- Expense tracking and control
+- Financial reporting for UK businesses
+
+## Get Started with KashFlow
+
+Manage your UK business finances with local compliance. Visit [kashflow.com](https://www.kashflow.com) to get UK-specific accounting solutions.

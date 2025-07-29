@@ -10,4 +10,26 @@ image: "/images/tools/joplin-placeholder.jpg"
 
 # Joplin
 
-Joplin revolutionizes open-source note-taking through comprehensive feature set that enables users to maintain full control over their data while accessing advanced capabilities and proven effectiveness across users requiring both functionality and freedom from vendor lock-in. This platform provides extensive features for markdown editing, notebook organization, synchronization options, and web clipper while offering advanced capabilities like end-to-end encryption, plugin system, and self-hosting. Joplin's strength lies in its open-source nature and synchronization flexibility, offering feature-rich note-taking that works with multiple cloud providers through transparent code and proven reliability without subscription dependencies. The platform excels at serving developers, privacy advocates, and power users requiring customizable note-taking with features like import/export capabilities, search functionality, and offline access that enable everything from code documentation to research notes with attachment support, version control integration, and extensible architecture while providing users with complete data ownership, transparent development, and proven alternative to proprietary solutions with enterprise-grade features available to everyone.
+Joplin is an open-source note-taking application that provides comprehensive features while ensuring complete data ownership and freedom from vendor lock-in.
+
+## Key Features
+
+- **Open-source** - Complete transparency with full control over your data
+- **Markdown editing** - Write notes in markdown with live preview
+- **Multi-platform sync** - Synchronize across devices using your preferred cloud service
+- **End-to-end encryption** - Secure your notes with client-side encryption
+- **Web clipper** - Save web content directly to your notebooks
+- **Plugin system** - Extend functionality with community plugins
+- **Offline access** - Full functionality without internet connection
+
+## Use Cases
+
+- Privacy-focused note-taking
+- Developer documentation and code notes
+- Research and academic writing
+- Personal knowledge management
+- Secure note storage and organization
+
+## Get Started with Joplin
+
+Take control of your notes with open-source freedom. Visit [joplinapp.org](https://joplinapp.org) to own your data completely.

@@ -10,4 +10,26 @@ image: "/images/tools/reference-checking-placeholder.jpg"
 
 # Reference Checking
 
-Reference Checking tools provide automated reference verification capabilities that streamline the process of collecting and verifying professional references for hiring decisions. These platforms offer automated reference collection, structured reference interviews, and comprehensive reference reporting designed to gather consistent, reliable reference information. Users benefit from standardized reference processes, improved reference response rates, and comprehensive reference analysis that enhances hiring decision quality. Reference Checking emphasizes consistency through automated processes, structured questioning, and comprehensive reporting that improves reference reliability and usefulness. The platform excels at serving organizations that need systematic reference checking with improved efficiency and consistency, offering automated reference collection and analysis tools that provide reliable reference information while saving time and improving the quality of reference-based hiring decisions.
+Reference checking tools provide automated reference verification capabilities that streamline the process of collecting and verifying professional references for hiring decisions.
+
+## Key Features
+
+- **Automated reference collection** - Streamlined reference request process
+- **Structured interviews** - Consistent questioning across all references
+- **Comprehensive reporting** - Detailed reference analysis and insights
+- **Response rate optimization** - Improved reference participation
+- **Multi-format collection** - Phone, email, and online reference options
+- **Real-time tracking** - Monitor reference completion status
+- **Integration capabilities** - Connect with HR and ATS systems
+
+## Use Cases
+
+- Systematic candidate reference checking
+- Hiring decision quality improvement
+- Reference process standardization
+- Time-efficient reference collection
+- Comprehensive candidate assessment
+
+## Get Started with Reference Checking
+
+Streamline your reference verification process. Visit [skillsurvey.com](https://www.skillsurvey.com) to automate professional reference collection.
