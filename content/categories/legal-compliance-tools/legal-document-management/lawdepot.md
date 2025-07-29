@@ -10,4 +10,26 @@ image: "/images/tools/lawdepot-placeholder.jpg"
 
 # LawDepot
 
-LawDepot specializes in legal forms and documents creation with comprehensive templates for personal and business legal needs. This platform offers extensive collections of state-specific legal forms, contracts, and agreements that can be customized and downloaded instantly. Users benefit from lawyer-reviewed templates, step-by-step document creation guidance, and affordable pricing for legal document preparation. LawDepot emphasizes simplicity and accuracy through its user-friendly interface, automated form completion, and compliance with local legal requirements. The platform excels at serving individuals, small businesses, and organizations that need reliable legal documents without the expense of attorney drafting, making legal compliance accessible and affordable for everyday legal needs.
+LawDepot specializes in legal forms and document creation with comprehensive lawyer-reviewed templates for personal and business legal needs across multiple jurisdictions.
+
+## Key Features
+
+- **Legal templates** - Extensive library of legal forms and contracts
+- **State-specific forms** - Jurisdiction-compliant documents
+- **Step-by-step guidance** - Easy document creation process
+- **Lawyer-reviewed** - Professionally vetted templates
+- **Instant download** - Immediate access to completed documents
+- **Multiple formats** - PDF and Word document options
+- **International coverage** - US, UK, Canada, and Australia
+
+## Use Cases
+
+- Rental agreements
+- Business contracts
+- Estate planning documents
+- Employment agreements
+- Legal forms preparation
+
+## Get Started with LawDepot
+
+Create professional legal documents instantly. Visit [lawdepot.com](https://www.lawdepot.com) to access lawyer-reviewed templates.
