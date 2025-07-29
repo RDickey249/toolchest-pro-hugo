@@ -10,4 +10,26 @@ image: "/images/tools/wave-placeholder.jpg"
 
 # Wave
 
-Wave revolutionizes free small business accounting through comprehensive financial tools that enable professional bookkeeping while maintaining zero cost and proven effectiveness across startups requiring budget-conscious accounting and small businesses needing complete financial management without subscription fees for accessible business financial oversight.
+Wave provides completely free accounting software for small businesses, offering professional bookkeeping tools without subscription fees or hidden costs.
+
+## Key Features
+
+- **100% free accounting** - No subscription fees or hidden charges
+- **Professional invoicing** - Customizable invoices with online payments
+- **Expense tracking** - Receipt scanning and expense categorization
+- **Bank connections** - Automatic transaction imports and reconciliation
+- **Financial reporting** - Profit & loss, balance sheet, and tax reports
+- **Payroll services** - Optional paid payroll with tax filing
+- **Payment processing** - Accept credit cards and bank payments
+
+## Use Cases
+
+- Startup financial management on a budget
+- Small business accounting without costs
+- Freelancer invoicing and expense tracking
+- Nonprofit organization bookkeeping
+- Basic business financial reporting
+
+## Get Started with Wave
+
+Access professional accounting tools completely free. Visit [waveapps.com](https://www.waveapps.com) to manage your business finances without subscription costs.
