@@ -30,7 +30,9 @@ Krisp transforms any environment into a professional recording studio by using a
 • Limited to noise removal only
 • Requires compatible operating system
 
-[Eliminate Noise with Krisp →](https://krisp.ai)
+## Get Started with Krisp
+
+Sound professional from anywhere. Visit [krisp.ai](https://krisp.ai) to download Krisp free and eliminate background noise from all your calls and recordings.
 
 ## How It Compares
 

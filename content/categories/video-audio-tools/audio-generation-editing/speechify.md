@@ -30,7 +30,9 @@ Speechify transforms how people consume written content by converting any text i
 • Premium voices are expensive
 • Can miss text formatting nuances
 
-[Boost Your Reading with Speechify →](https://speechify.com)
+## Get Started with Speechify
+
+Turn any text into audio instantly. Visit [speechify.com](https://speechify.com) to start your free trial and experience the power of listening to everything.
 
 ## How It Compares
 

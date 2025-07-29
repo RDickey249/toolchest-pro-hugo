@@ -10,4 +10,26 @@ image: "/images/tools/insomnia-placeholder.jpg"
 
 # Insomnia
 
-Insomnia is a powerful, open-source REST client that combines beautiful design with advanced features for API testing and development. The platform's clean, intuitive interface reduces clutter while providing comprehensive functionality for API interaction and testing. Insomnia's environment and template system enables dynamic request configuration with variable substitution and complex data manipulation. The platform's plugin architecture allows extending functionality with custom plugins for authentication, request processing, and response handling. Insomnia's code generation feature creates client code in multiple programming languages from API requests, accelerating integration development. The platform's GraphQL support includes query building, variable management, and schema exploration for modern API architectures. Insomnia's team synchronization features enable collaboration through encrypted cloud sync and shared workspaces. The platform's request chaining capabilities allow using response data from one request as input for subsequent requests. Insomnia's comprehensive authentication support includes OAuth, JWT, AWS signatures, and custom authentication schemes. The platform's response visualization includes JSON formatting, XML parsing, and raw response viewing with syntax highlighting. With its focus on developer experience and modern API standards, Insomnia provides an elegant alternative to traditional API testing tools while maintaining powerful functionality for complex testing scenarios.
+Insomnia is the open-source API client for REST and GraphQL. Design and test APIs with a beautiful interface that developers love.
+
+## Key Features
+
+- **Clean interface** designed for developer productivity
+- **GraphQL support** with query builder and schema explorer
+- **Environment management** with variables and templates
+- **Code generation** in 20+ programming languages
+- **Plugin system** for custom functionality
+- **Team sync** with encrypted cloud collaboration
+- **Advanced auth** including OAuth, JWT, AWS signatures
+
+## Use Cases
+
+- REST API testing
+- GraphQL development
+- API documentation
+- Team collaboration
+- Integration development
+
+## Get Started with Insomnia
+
+Test APIs with style. Visit [insomnia.rest](https://insomnia.rest) to download the free, open-source API client that developers prefer.
