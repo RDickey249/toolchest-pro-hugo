@@ -10,4 +10,27 @@ image: "/images/tools/railway-placeholder.jpg"
 
 # Railway
 
-Railway revolutionizes application deployment through modern infrastructure automation and developer-focused workflows that enable teams to deploy applications, databases, and services with Git-based deployment, automatic scaling, and comprehensive project management capabilities. This cloud platform provides extensive features for containerized applications, database hosting, environment management, and team collaboration while offering advanced capabilities like preview environments, metrics monitoring, and infrastructure templates. Railway's strength lies in its modern developer experience and automation, offering zero-configuration deployment with automatic environment detection and intelligent scaling. The platform excels at serving full-stack applications, microservices, databases, and team projects requiring rapid deployment with features like automatic SSL, custom domains, and collaborative development that enable everything from personal projects to enterprise applications with PostgreSQL, MySQL, Redis databases, and background services while providing developers with intuitive project management, real-time collaboration tools, and comprehensive monitoring that abstract infrastructure complexity and enable focus on application development with modern deployment workflows.
+Railway is an infrastructure platform for rapid application deployment with modern automation, Git-based deployment, automatic scaling, and comprehensive project management capabilities.
+
+## Key Features
+
+- **Zero-configuration deployment** - Deploy applications without complex setup
+- **Git-based workflows** - Automatic deployment from GitHub repositories
+- **Database hosting** - Managed PostgreSQL, MySQL, Redis, and MongoDB
+- **Automatic scaling** - Scale applications based on traffic and demand
+- **Team collaboration** - Shared projects with role-based access control
+- **Preview environments** - Test changes with temporary deployments
+- **Infrastructure templates** - Pre-built templates for common applications
+- **Real-time monitoring** - Application metrics and performance tracking
+
+## Use Cases
+
+- Full-stack application deployment
+- Team development projects
+- Database hosting and management
+- Microservices and API development
+- Rapid prototyping and MVPs
+
+## Get Started with Railway
+
+Deploy applications rapidly with modern infrastructure automation. Visit [railway.app](https://railway.app) to start building and deploying.

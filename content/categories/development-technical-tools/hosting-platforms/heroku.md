@@ -10,4 +10,27 @@ image: "/images/tools/heroku-placeholder.jpg"
 
 # Heroku
 
-Heroku revolutionizes cloud application deployment through platform-as-a-service infrastructure and simplified deployment workflows that enable developers to build, run, and scale applications in multiple programming languages with automatic infrastructure management, add-on ecosystem, and Git-based deployment. This cloud platform provides comprehensive features for application hosting, database management, monitoring, and scaling while offering advanced capabilities like review apps, pipeline deployment, and extensive add-on marketplace. Heroku's strength lies in its simplicity and developer experience, offering zero-infrastructure management with automatic scaling, security updates, and comprehensive logging. The platform excels at serving web applications, APIs, background workers, and prototypes requiring rapid deployment with features like automatic SSL, custom domains, and collaborative development that enable everything from simple web apps to complex enterprise applications with database services, caching solutions, and monitoring tools while providing developers with intuitive CLI tools, deployment workflows, and team collaboration features that abstract infrastructure complexity and enable focus on application development.
+Heroku is a cloud platform-as-a-service that enables developers to build, run, and scale applications with simplified deployment workflows, automatic infrastructure management, and Git-based deployment.
+
+## Key Features
+
+- **Git-based deployment** - Deploy applications by pushing to Git repositories
+- **Multi-language support** - Support for multiple programming languages and frameworks
+- **Add-on marketplace** - Extensive ecosystem of services and integrations
+- **Automatic scaling** - Scale applications based on demand and traffic
+- **Zero infrastructure management** - Platform handles all server maintenance
+- **Review apps** - Temporary apps for testing pull requests
+- **Pipeline deployment** - Continuous delivery workflows with staging
+- **Collaborative development** - Team collaboration tools and access management
+
+## Use Cases
+
+- Web application hosting and deployment
+- API development and microservices
+- Prototype and MVP development
+- Background job processing
+- Educational and learning projects
+
+## Get Started with Heroku
+
+Deploy applications to the cloud with zero infrastructure management. Visit [heroku.com](https://www.heroku.com) to start building and scaling apps.

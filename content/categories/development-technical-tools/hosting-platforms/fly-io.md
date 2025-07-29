@@ -10,4 +10,27 @@ image: "/images/tools/fly-io-placeholder.jpg"
 
 # Fly.io
 
-Fly.io revolutionizes edge computing through global application deployment and low-latency infrastructure that enables developers to run applications close to users worldwide with automatic scaling, geographic distribution, and modern containerized deployment workflows. This edge platform provides comprehensive features for application hosting, database replication, load balancing, and geographic routing while offering advanced capabilities like anycast networking, edge storage, and distributed application architecture. Fly.io's strength lies in its edge-first approach and global presence, offering deployment to data centers worldwide with automatic traffic routing and regional failover. The platform excels at serving latency-sensitive applications, global services, real-time applications, and distributed systems requiring worldwide deployment with features like automatic SSL, custom domains, and geographic load balancing that enable everything from simple web applications to complex distributed systems with global database replication, edge caching, and regional deployment while providing developers with modern deployment tools, comprehensive monitoring, and edge computing capabilities that deliver applications with minimal latency and maximum global performance.
+Fly.io is an edge computing platform that enables global application deployment with low-latency infrastructure, running applications close to users worldwide with automatic scaling and geographic distribution.
+
+## Key Features
+
+- **Global edge deployment** - Deploy to data centers worldwide for low latency
+- **Anycast networking** - Automatic traffic routing to nearest data center
+- **Container-based** - Modern containerized deployment workflows
+- **Database replication** - Global database distribution and synchronization
+- **Automatic scaling** - Scale applications based on geographic demand
+- **Regional failover** - Automatic failover between global regions
+- **Edge storage** - Distributed storage close to users
+- **Geographic load balancing** - Intelligent traffic distribution globally
+
+## Use Cases
+
+- Latency-sensitive applications
+- Global web services and APIs
+- Real-time applications and gaming
+- Content delivery and media streaming
+- Multi-region distributed systems
+
+## Get Started with Fly.io
+
+Deploy applications globally with edge computing and low latency. Visit [fly.io](https://fly.io) to run apps close to your users worldwide.
