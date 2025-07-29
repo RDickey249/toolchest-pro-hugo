@@ -10,4 +10,27 @@ image: "/images/tools/bamboo-placeholder.jpg"
 
 # Bamboo
 
-Bamboo revolutionizes continuous integration and deployment through comprehensive Atlassian ecosystem integration that enables development teams to automate build, test, and deployment processes with seamless Jira connectivity, advanced pipeline management, and enterprise-grade security features while maintaining sophisticated deployment automation and proven scalability across diverse organizational environments and project requirements. This CI/CD platform provides extensive features for build planning, deployment projects, environment management, and release tracking while offering advanced capabilities like parallel builds, custom notifications, and comprehensive reporting dashboards. Bamboo's strength lies in its Atlassian integration and enterprise focus, offering unified development workflow that connects build processes to project management with extensive customization options and proven reliability in complex enterprise deployments. The platform excels at serving Atlassian-centric organizations, enterprise development teams, and projects requiring comprehensive integration with features like deployment permissions, environment promotion, and detailed audit trails that enable everything from simple build automation to complex multi-environment deployment workflows with quality gates, approval processes, and integration automation while providing teams with intuitive pipeline configuration, comprehensive Jira connectivity, and proven enterprise scalability that makes CI/CD accessible and manageable across diverse organizational structures and development methodologies.
+Bamboo is Atlassian's CI/CD server that provides continuous integration and deployment with deep integration into the Atlassian ecosystem.
+
+## Key Features
+
+- **Jira integration** - Deep connectivity with Jira for project tracking
+- **Build automation** - Automated build, test, and deployment pipelines
+- **Deployment projects** - Structured deployment across environments
+- **Parallel builds** - Concurrent build execution for faster feedback
+- **Environment management** - Manage staging and production environments
+- **Release tracking** - Track releases across multiple projects
+- **Permissions system** - Granular access control and approvals
+- **Reporting dashboards** - Detailed build and deployment analytics
+
+## Use Cases
+
+- Enterprise CI/CD workflows
+- Atlassian ecosystem integration
+- Multi-environment deployments
+- Complex build orchestration
+- Release management
+
+## Get Started with Bamboo
+
+Automate builds and deployments with Atlassian ecosystem integration. Visit [atlassian.com/software/bamboo](https://atlassian.com/software/bamboo) to streamline CI/CD workflows.
