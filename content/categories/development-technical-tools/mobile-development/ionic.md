@@ -10,4 +10,26 @@ image: "/images/tools/ionic-placeholder.jpg"
 
 # Ionic
 
-Ionic bridges the gap between web and mobile development by enabling developers to build cross-platform mobile applications using familiar web technologies like HTML, CSS, and JavaScript while achieving native-like performance and access to device features through Capacitor and Cordova plugins. This comprehensive framework provides a rich library of pre-built UI components that automatically adapt to each platform's design guidelines, ensuring applications feel native on iOS and Android while maintaining a single codebase that leverages existing web development skills and frameworks. Ionic's ecosystem includes powerful development tools like the Ionic CLI for project scaffolding and building, Ionic Studio for visual development, and Appflow for continuous integration and deployment, while its integration with popular frameworks like Angular, React, and Vue.js allows teams to use their preferred development stack. The framework excels for teams with strong web development expertise looking to enter mobile development, rapid prototyping scenarios, and applications where time-to-market is critical, with features like live reload, extensive theming capabilities, and progressive web app support making it possible to deploy to web, iOS, and Android from a single codebase while leveraging the vast ecosystem of web technologies and libraries.
+Ionic is the app development platform for web developers. Build amazing cross-platform mobile, web, and desktop apps all with one shared code base and open web standards.
+
+## Key Features
+
+- **Web technologies** - Build with HTML, CSS, and JavaScript
+- **Cross-platform** - One codebase for iOS, Android, and web
+- **Native access** through Capacitor for device features
+- **Framework agnostic** - Works with Angular, React, Vue, or vanilla JS
+- **UI components** that adapt to each platform's design
+- **Live reload** for fast development cycles
+- **PWA ready** for progressive web apps
+
+## Use Cases
+
+- Cross-platform mobile apps
+- Progressive web applications
+- Enterprise mobile solutions
+- Rapid prototyping
+- Web-to-mobile conversion
+
+## Get Started with Ionic
+
+Build your next app with web tech. Visit [ionicframework.com](https://ionicframework.com) to get started and see why millions of developers choose Ionic.
