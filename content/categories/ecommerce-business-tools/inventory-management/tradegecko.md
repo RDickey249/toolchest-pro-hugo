@@ -10,4 +10,26 @@ image: "/images/tools/tradegecko-placeholder.jpg"
 
 # TradeGecko
 
-TradeGecko revolutionizes inventory and order management through cloud-based operations that enable comprehensive stock control while maintaining multi-channel integration and proven effectiveness across wholesale businesses requiring inventory coordination and growing retailers needing unified stock management with comprehensive order fulfillment for streamlined inventory operations. This platform provides extensive features for inventory tracking, order management, purchasing workflows, and sales integration while offering advanced capabilities like demand forecasting, automated reordering, and multi-location management. TradeGecko's strength lies in its wholesale focus and integration capabilities, offering complete inventory solution that connects all business channels and proven adoption among wholesale distributors and multi-channel retailers. The platform excels at serving wholesale businesses, distributors, and multi-channel retailers requiring comprehensive inventory management with features like B2B portals, purchase order automation, and sales channel integration that enable everything from wholesale distribution to retail inventory control with operational efficiency, inventory accuracy, and comprehensive stock management while providing users with unified inventory platform, wholesale-focused features, and proven methodology for streamlined inventory operations through integrated stock control and comprehensive order management capabilities.
+TradeGecko (now part of QuickBooks Commerce) is a cloud-based inventory and order management platform designed for wholesale businesses and multi-channel retailers.
+
+## Key Features
+
+- **Multi-channel integration** - Sync inventory across all sales channels
+- **B2B portal** - Custom wholesale ordering portals for customers
+- **Order management** - Complete order processing and fulfillment
+- **Demand forecasting** - Predict inventory needs and optimize stock
+- **Automated reordering** - Smart replenishment based on demand
+- **Multi-location management** - Track inventory across warehouses
+- **Purchase order automation** - Streamlined supplier management
+
+## Use Cases
+
+- Wholesale business operations
+- Multi-channel retail inventory
+- B2B order management
+- Distributor inventory control
+- Growing retailer stock management
+
+## Get Started with QuickBooks Commerce
+
+Streamline your wholesale operations. Visit [quickbooks.intuit.com/commerce](https://quickbooks.intuit.com/commerce) to manage inventory and orders.
