@@ -10,4 +10,27 @@ image: "/images/tools/obsidian-placeholder.jpg"
 
 # Obsidian
 
-Obsidian transforms personal knowledge management through its unique approach to note-taking that treats information as an interconnected web of ideas, using bidirectional linking and graph visualization to reveal hidden connections between concepts while maintaining full ownership of your data through local markdown files. This powerful knowledge management system enables users to build a "second brain" by creating atomic notes that link to each other, forming a rich network of knowledge that can be explored through multiple views including the revolutionary graph view that visualizes relationships between ideas as an interactive network diagram. Obsidian's extensibility through community plugins provides virtually unlimited customization possibilities, from advanced query systems and spaced repetition learning to integration with external tools and custom workflows, while its core features include powerful search, tag systems, templates, and real-time preview that enhance the markdown editing experience. The platform excels for researchers, writers, students, and knowledge workers who need to manage complex information relationships and discover new insights through connected thinking, with its local-first approach ensuring data ownership and privacy while enabling synchronization across devices through Obsidian Sync, making it ideal for building personal wikis, research databases, writing projects, and any scenario where understanding connections between ideas is as important as the ideas themselves.
+Obsidian is a personal knowledge management app that uses bidirectional linking and graph visualization to connect notes and ideas in a networked knowledge base.
+
+## Key Features
+
+- **Bidirectional linking** - Connect notes with [[double brackets]]
+- **Graph view** - Visualize note connections as interactive network
+- **Local files** - Markdown files stored on your device
+- **Plugin ecosystem** - Extensive community extensions
+- **Search and tags** - Powerful note discovery tools
+- **Templates** - Reusable note structures
+- **Real-time preview** - Live markdown rendering
+- **Obsidian Sync** - Cross-device synchronization
+
+## Use Cases
+
+- Personal knowledge management
+- Research and academic note-taking
+- Creative writing and ideation
+- Second brain and PKM systems
+- Team knowledge sharing
+
+## Get Started with Obsidian
+
+Build a connected knowledge base with networked note-taking. Visit [obsidian.md](https://obsidian.md) to create your second brain.

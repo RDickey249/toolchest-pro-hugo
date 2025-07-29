@@ -10,4 +10,27 @@ image: "/images/tools/sphinx-placeholder.jpg"
 
 # Sphinx
 
-Sphinx revolutionizes technical documentation through comprehensive reStructuredText processing and extensible architecture that enable developers to create professional documentation with cross-references, automatic API documentation, and multiple output formats while maintaining powerful markup capabilities and extensive customization through themes and extensions with proven Python ecosystem integration. This documentation generator provides extensive features for content organization, automatic indexing, code highlighting, and cross-referencing while offering advanced capabilities like autodoc extraction, internationalization support, and comprehensive extension ecosystem. Sphinx's strength lies in its markup power and extensibility, offering sophisticated documentation features that scale from simple project docs to complex technical manuals with automatic API generation and extensive formatting control through reStructuredText's semantic markup capabilities. The platform excels at serving Python projects, technical writers, and organizations requiring comprehensive documentation with features like automatic module documentation, mathematical notation support, and extensive theming options that enable everything from API references to user manuals with content reuse, advanced linking, and professional publishing while providing authors with powerful markup tools, extensive configuration options, and proven reliability that makes technical documentation creation accessible and maintainable across diverse documentation requirements and publishing workflows.
+Sphinx is a powerful documentation generator that creates professional technical documentation from reStructuredText files with automatic API documentation and multiple output formats.
+
+## Key Features
+
+- **reStructuredText** - Powerful markup language with semantic structure
+- **Autodoc** - Automatic API documentation from Python docstrings
+- **Cross-references** - Smart linking between documents and APIs
+- **Multiple outputs** - HTML, PDF, ePub, and more formats
+- **Extension system** - Rich ecosystem of plugins and themes
+- **Code highlighting** - Syntax highlighting for many languages
+- **Internationalization** - Multi-language documentation support
+- **Mathematical notation** - LaTeX math rendering support
+
+## Use Cases
+
+- Python project documentation
+- Technical manuals and guides
+- API reference documentation
+- Academic and scientific documentation
+- Multi-format publishing
+
+## Get Started with Sphinx
+
+Create professional technical documentation with powerful markup and automation. Visit [sphinx-doc.org](https://sphinx-doc.org) to build comprehensive docs.
