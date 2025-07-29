@@ -10,4 +10,27 @@ image: "/images/tools/eleventy-placeholder.jpg"
 
 # Eleventy
 
-Eleventy revolutionizes static site generation through template flexibility and zero-configuration philosophy that enable developers to build websites with multiple templating languages, minimal setup requirements, and comprehensive data processing while maintaining simplicity and extensive customization capabilities. This JavaScript generator provides extensive features for multiple template engines, data files, collections, and pagination while offering advanced capabilities like custom filters, shortcodes, and comprehensive build optimization. Eleventy's strength lies in its flexibility and simplicity, offering support for multiple templating languages with minimal configuration overhead and maximum customization potential. The platform excels at serving developers requiring template flexibility, content creators needing simple workflows, and projects requiring custom build processes with features like automatic hot reloading, comprehensive data cascade, and extensive plugin system that enable everything from simple blogs to complex documentation sites with custom content processing, advanced navigation, and sophisticated build workflows while providing developers with template language choice, minimal learning curve, and comprehensive control over the build process that makes creating fast, customized static sites accessible and maintainable.
+Eleventy is a simple yet powerful static site generator that supports multiple templating languages with zero-configuration setup and maximum flexibility.
+
+## Key Features
+
+- **Multiple template engines** - Nunjucks, Liquid, Handlebars, and more
+- **Zero configuration** - Works out of the box with minimal setup
+- **Data cascade** - Flexible data inheritance and processing
+- **Collections** - Organize and group content automatically
+- **Custom filters** - Create reusable template functions
+- **Shortcodes** - Reusable content snippets
+- **Hot reloading** - Automatic browser refresh during development
+- **Flexible routing** - Custom URL structures and permalinks
+
+## Use Cases
+
+- Simple blogs and personal sites
+- Documentation and knowledge bases
+- Portfolio and agency websites
+- Custom static site projects
+- Multi-template projects
+
+## Get Started with Eleventy
+
+Build flexible static sites with multiple templating options. Visit [11ty.dev](https://11ty.dev) to create with template freedom.

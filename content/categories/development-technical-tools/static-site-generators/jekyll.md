@@ -10,4 +10,27 @@ image: "/images/tools/jekyll-placeholder.jpg"
 
 # Jekyll
 
-Jekyll revolutionizes blog-aware static site generation through Ruby-based processing and seamless GitHub Pages integration that enable developers and writers to create websites with built-in blogging features, liquid templating, and automatic deployment while maintaining simple content workflow and extensive plugin ecosystem. This Ruby generator provides extensive features for post management, collections, data files, and sass processing while offering advanced capabilities like custom plugins, incremental builds, and comprehensive configuration options. Jekyll's strength lies in its blog-focus and GitHub integration, offering native GitHub Pages support with zero-configuration deployment and comprehensive blogging features. The platform excels at serving bloggers, documentation sites, personal portfolios, and GitHub-hosted projects requiring simple publishing with features like automatic post generation, tag and category organization, and built-in development server that enable everything from personal blogs to project documentation with permalink customization, theme inheritance, and plugin extensibility while providing users with familiar markdown authoring, simple deployment workflows, and comprehensive community support that makes creating and maintaining static websites straightforward and reliable.
+Jekyll is a Ruby-powered static site generator with built-in blogging features and seamless GitHub Pages integration for simple website publishing.
+
+## Key Features
+
+- **Blog-aware** - Built-in support for blogs, posts, and permalinks
+- **GitHub Pages integration** - Native deployment to GitHub Pages
+- **Liquid templating** - Flexible templating with Liquid syntax
+- **Ruby ecosystem** - Extensive plugin and gem ecosystem
+- **Collections** - Organize different types of content
+- **Sass processing** - Built-in Sass and SCSS support
+- **Incremental builds** - Fast rebuilds for large sites
+- **Data files** - YAML, JSON, and CSV data integration
+
+## Use Cases
+
+- Personal blogs and portfolios
+- GitHub-hosted project sites
+- Documentation and knowledge bases
+- Marketing and company websites
+- Academic and research sites
+
+## Get Started with Jekyll
+
+Create blog-aware static sites with Ruby and deploy to GitHub Pages. Visit [jekyllrb.com](https://jekyllrb.com) to build with Ruby.

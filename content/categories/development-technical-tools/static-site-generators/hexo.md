@@ -10,4 +10,27 @@ image: "/images/tools/hexo-placeholder.jpg"
 
 # Hexo
 
-Hexo revolutionizes blog-focused static site generation through Node.js-powered processing and comprehensive blogging features that enable content creators to build fast websites with built-in blog functionality, extensive theme system, and powerful content management while maintaining simple publishing workflows and extensive customization options. This JavaScript generator provides extensive features for post management, tag and category systems, archive generation, and asset processing while offering advanced capabilities like multi-language support, custom generators, and comprehensive plugin architecture. Hexo's strength lies in its blog optimization and ease of use, offering specialized blogging features with fast generation speeds and extensive theme ecosystem. The platform excels at serving bloggers, content creators, technical writers, and personal websites requiring blog-centric features with capabilities like automatic post scaffolding, RSS feed generation, and social media integration that enable everything from personal blogs to professional content sites with custom post types, advanced navigation, and content organization while providing users with intuitive content authoring, comprehensive theme customization, and simple deployment workflows that make creating and maintaining blog-focused websites straightforward and efficient.
+Hexo is a fast Node.js-powered blog framework with extensive blogging features and a comprehensive theme ecosystem for content creators.
+
+## Key Features
+
+- **Blog-focused** - Built specifically for blogging with post management
+- **Node.js powered** - Fast generation with JavaScript ecosystem
+- **Extensive themes** - Large collection of beautiful themes
+- **Plugin architecture** - Extensible with community plugins
+- **Multi-language** - Internationalization support
+- **Tag and categories** - Comprehensive content organization
+- **Asset processing** - Image and file optimization
+- **RSS feeds** - Automatic feed generation
+
+## Use Cases
+
+- Personal and professional blogs
+- Content creation and publishing
+- Technical writing and documentation
+- Multi-language content sites
+- Theme-customized websites
+
+## Get Started with Hexo
+
+Create fast blogs with Node.js and extensive themes. Visit [hexo.io](https://hexo.io) to build blog-focused sites.

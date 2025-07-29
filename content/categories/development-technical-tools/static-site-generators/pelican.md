@@ -10,4 +10,27 @@ image: "/images/tools/pelican-placeholder.jpg"
 
 # Pelican
 
-Pelican revolutionizes Python-based static site generation through flexible content processing and comprehensive theming capabilities that enable Python developers to build websites with reStructuredText and Markdown support, extensive plugin architecture, and powerful content organization while maintaining Python ecosystem integration and simple deployment workflows. This Python generator provides extensive features for multiple content formats, theme system, plugin architecture, and multi-language support while offering advanced capabilities like content import tools, social media integration, and comprehensive metadata handling. Pelican's strength lies in its Python ecosystem integration and content flexibility, offering Python developers a familiar environment with extensive customization capabilities and comprehensive content processing features. The platform excels at serving Python developers, academic websites, technical blogs, and content creators requiring flexible publishing with features like automatic feed generation, tag and category systems, and comprehensive content organization that enable everything from personal blogs to professional websites with custom content types, advanced navigation, and sophisticated build processes while providing users with Python familiarity, extensive documentation, and comprehensive customization options that make creating and maintaining Python-powered websites accessible and powerful.
+Pelican is a Python-powered static site generator with flexible content processing and comprehensive support for reStructuredText and Markdown.
+
+## Key Features
+
+- **Python ecosystem** - Built with Python for familiar development
+- **Multiple formats** - reStructuredText and Markdown support
+- **Plugin architecture** - Extensible with Python plugins
+- **Theme system** - Comprehensive theming capabilities
+- **Content import** - Import from WordPress, RSS, and other sources
+- **Multi-language** - Internationalization support
+- **Metadata handling** - Rich content metadata processing
+- **Feed generation** - Automatic RSS and Atom feeds
+
+## Use Cases
+
+- Python-based websites and blogs
+- Academic and research sites
+- Technical documentation
+- Multi-format content publishing
+- Community and personal sites
+
+## Get Started with Pelican
+
+Generate static sites with Python and flexible content processing. Visit [getpelican.com](https://getpelican.com) to build with Python.
