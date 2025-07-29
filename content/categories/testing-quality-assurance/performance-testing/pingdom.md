@@ -10,4 +10,26 @@ image: "/images/tools/pingdom-placeholder.jpg"
 
 # Pingdom
 
-Pingdom is a comprehensive website monitoring and performance tracking service that provides continuous monitoring of website availability, performance, and user experience from global locations. The platform's uptime monitoring checks websites at regular intervals from multiple locations worldwide, providing immediate alerts when sites become unavailable or perform poorly. Pingdom's performance monitoring measures page load times, identifies slow-loading resources, and tracks performance trends over time. The service's real user monitoring (RUM) collects performance data from actual website visitors, providing insights into real-world user experiences across different browsers, devices, and locations. Pingdom's detailed reporting includes uptime statistics, performance trends, and root cause analysis for incidents and performance issues. The platform's alerting system provides immediate notifications through email, SMS, push notifications, and integrations with collaboration tools like Slack and PagerDuty. Pingdom's transaction monitoring tests complex user workflows including login processes, form submissions, and e-commerce transactions. The service's API access enables integration with dashboards, custom applications, and automated workflows. Pingdom's page speed analysis provides detailed insights into optimization opportunities with actionable recommendations. The platform's status pages enable transparent communication about service status and incidents to customers and stakeholders. With its focus on continuous monitoring and comprehensive reporting, Pingdom helps organizations maintain website reliability and optimal user experiences while providing data-driven insights for performance optimization.
+Pingdom is a leading website monitoring service that helps you ensure your sites and applications are always available and performing well. Monitor uptime, page speed, and user interactions from over 100 global locations.
+
+## Key Features
+
+- **Uptime monitoring** from 100+ global probe servers
+- **Real user monitoring** to track actual visitor experiences
+- **Page speed insights** with detailed performance metrics
+- **Transaction monitoring** for critical user journeys
+- **Instant alerts** via email, SMS, Slack, PagerDuty
+- **Public status pages** for transparent communication
+- **API monitoring** with custom HTTP checks
+
+## Use Cases
+
+- Website availability monitoring
+- API endpoint health checks
+- E-commerce transaction monitoring
+- Page speed optimization
+- SLA compliance tracking
+
+## Get Started with Pingdom
+
+Start monitoring your website's uptime and performance today. Visit [pingdom.com](https://www.pingdom.com) to sign up for a free trial or explore their monitoring solutions.

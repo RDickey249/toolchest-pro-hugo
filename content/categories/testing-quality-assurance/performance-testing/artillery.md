@@ -10,4 +10,26 @@ image: "/images/tools/artillery-placeholder.jpg"
 
 # Artillery
 
-Artillery is a modern load testing toolkit designed for testing APIs, microservices, and web applications with a focus on simplicity and developer experience. The platform's YAML-based configuration makes creating load tests intuitive without requiring programming knowledge, while supporting JavaScript plugins for advanced scenarios. Artillery's multi-protocol support includes HTTP, WebSocket, Socket.io, and custom protocols through plugins, enabling testing of diverse application architectures. The tool's real-time metrics display provides immediate feedback during test execution with response time distributions and error rates. Artillery's scenario-based testing enables complex user journey simulation with weighted scenarios and realistic user behavior patterns. The platform's distributed testing capabilities allow coordinating load generation across multiple machines and AWS regions for global scale testing. Artillery's comprehensive reporting includes detailed performance metrics, custom metrics tracking, and integration with monitoring systems like DataDog and StatsD. The tool's CI/CD integration enables automated performance testing with configurable success criteria and detailed reporting. Artillery's plugin system extends functionality with custom protocols, metrics, and integrations while maintaining simplicity. The platform's AWS integration provides managed load generation with auto-scaling and global distribution. With its focus on modern applications, ease of use, and developer-friendly configuration, Artillery provides an efficient alternative to traditional load testing tools for teams seeking rapid, reliable performance validation.
+Artillery is a modern, lightweight load testing toolkit for developers and SREs. Write tests in YAML, run them from your CI/CD pipeline, and ensure your APIs and microservices can handle production traffic.
+
+## Key Features
+
+- **Simple YAML syntax** for writing test scenarios
+- **Multi-protocol support** for HTTP, WebSocket, Socket.io
+- **Real-time metrics** during test execution
+- **Distributed testing** across multiple workers
+- **CI/CD friendly** with exit codes and JSON reports
+- **Plugin ecosystem** for custom protocols and integrations
+- **Cloud-ready** with AWS Fargate and Lambda support
+
+## Use Cases
+
+- API load testing
+- WebSocket performance testing
+- Microservices stress testing
+- Smoke tests in CI/CD pipelines
+- Production readiness validation
+
+## Get Started with Artillery
+
+Start load testing in minutes with Artillery's simple YAML syntax. Visit [artillery.io](https://www.artillery.io) to install the open-source tool or explore Artillery Pro for team features.

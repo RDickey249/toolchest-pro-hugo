@@ -10,4 +10,26 @@ image: "/images/tools/selenium-placeholder.jpg"
 
 # Selenium
 
-Selenium is the most widely adopted framework for automating web application testing across different browsers and platforms. The framework's WebDriver API provides programmatic control over web browsers, enabling automated interaction with web elements, form submission, and navigation testing. Selenium's cross-browser compatibility ensures applications work consistently across Chrome, Firefox, Safari, Edge, and other browsers. The framework's language bindings support Java, Python, C#, Ruby, and JavaScript, making it accessible to diverse development teams. Selenium Grid enables distributed testing across multiple machines and browser configurations, scaling test execution and reducing runtime. The framework's Page Object Model pattern promotes maintainable test code by separating page structure from test logic. Selenium's extensive ecosystem includes integration with testing frameworks like TestNG, JUnit, and pytest, as well as CI/CD platforms for automated test execution. The framework's headless browser support enables fast test execution in continuous integration environments. While Selenium requires more setup than modern alternatives, its maturity, stability, and comprehensive browser support make it essential for enterprise web application testing. The framework's open-source nature and large community ensure continued development and extensive documentation.
+Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily used for testing web applications, Selenium has become the de facto standard for browser automation.
+
+## Key Features
+
+- **Cross-browser support** for Chrome, Firefox, Safari, Edge
+- **WebDriver API** for programmatic browser control
+- **Multi-language bindings** - Java, Python, C#, Ruby, JavaScript
+- **Selenium Grid** for parallel and distributed testing
+- **Headless browser** support for CI/CD pipelines
+- **Mobile testing** via Appium integration
+- **Page Object Model** for maintainable tests
+
+## Use Cases
+
+- Web application testing
+- Browser automation
+- Web scraping
+- Cross-browser compatibility testing
+- Regression testing
+
+## Get Started with Selenium
+
+Automate your web testing with Selenium WebDriver. Visit [selenium.dev](https://www.selenium.dev) for downloads, documentation, and getting started guides for your preferred language.

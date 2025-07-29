@@ -10,4 +10,26 @@ image: "/images/tools/playwright-placeholder.jpg"
 
 # Playwright
 
-Playwright is a modern cross-browser automation framework developed by Microsoft that enables reliable end-to-end testing across Chromium, Firefox, and WebKit browsers. The framework's architecture provides consistent APIs across all supported browsers, eliminating browser-specific testing code and ensuring true cross-browser compatibility. Playwright's auto-waiting capabilities intelligently wait for elements to become actionable, reducing flaky tests caused by timing issues. The framework's powerful selectors support CSS, XPath, and text-based element identification with auto-retry mechanisms for dynamic content. Playwright's network interception allows mocking of API responses, enabling testing of various scenarios and edge cases without external dependencies. The framework's screenshot and video recording capabilities provide comprehensive test execution documentation. Playwright's headless and headed execution modes support both CI/CD integration and interactive debugging. The framework's parallel execution and browser context isolation enable fast, reliable test runs at scale. Playwright's integration with popular testing frameworks and CI/CD platforms streamlines adoption in existing workflows. The framework's code generation feature can record user interactions and generate test scripts automatically. With support for multiple programming languages including JavaScript, Python, Java, and .NET, Playwright serves diverse development teams seeking modern, reliable browser automation.
+Playwright enables reliable end-to-end testing for modern web apps. Built by Microsoft, it runs tests across all browsers with a single API, auto-waits for elements, and captures videos of test runs.
+
+## Key Features
+
+- **Cross-browser testing** with Chromium, Firefox, and WebKit
+- **Auto-waiting** eliminates flaky timeouts
+- **Mobile testing** with device emulation
+- **Network interception** for API mocking
+- **Visual testing** with screenshots and videos
+- **Code generation** by recording actions
+- **Multiple languages** - JavaScript, Python, .NET, Java
+
+## Use Cases
+
+- End-to-end web testing
+- Cross-browser compatibility testing
+- Mobile web testing
+- API testing
+- Visual regression testing
+
+## Get Started with Playwright
+
+Write reliable tests for modern web apps. Visit [playwright.dev](https://playwright.dev) to install Playwright and explore the comprehensive documentation.

@@ -10,4 +10,26 @@ image: "/images/tools/gatling-placeholder.jpg"
 
 # Gatling
 
-Gatling is a high-performance load testing framework built on Scala and Akka that provides exceptional performance and detailed metrics for modern applications. The platform's asynchronous, non-blocking architecture enables generating massive loads with minimal hardware resources, often outperforming traditional load testing tools by orders of magnitude. Gatling's domain-specific language (DSL) creates readable, maintainable test scripts that express user behavior and load patterns clearly. The framework's real-time monitoring provides live metrics during test execution with detailed response time percentiles and throughput measurements. Gatling's comprehensive reporting generates beautiful HTML reports with interactive charts, detailed statistics, and performance analysis. The platform's advanced features include conditional logic, loops, and complex user journey simulation for realistic load testing scenarios. Gatling's integration capabilities include CI/CD pipeline support, Jenkins plugin, and Maven/SBT build tool integration. The framework's distributed testing support enables coordinating load generation across multiple machines for large-scale testing. Gatling's assertion system validates performance requirements and can fail builds if performance degrades below acceptable thresholds. The platform's enterprise version, Gatling FrontLine, adds features like clustering, real-time metrics, and advanced analytics. With its focus on performance, developer-friendly approach, and beautiful reporting, Gatling has become increasingly popular for teams seeking modern, efficient load testing solutions.
+Gatling is a powerful open-source load testing framework designed for continuous load testing and DevOps integration. Built on Scala, Akka, and Netty, it delivers exceptional performance for simulating thousands of concurrent users.
+
+## Key Features
+
+- **High-performance engine** built on asynchronous architecture
+- **Scala-based DSL** for expressive and maintainable test scripts
+- **Real-time monitoring** with live metrics during test execution
+- **Detailed HTML reports** with response time distribution graphs
+- **CI/CD integration** for automated performance testing
+- **Protocol support** for HTTP, WebSocket, Server-Sent Events, JMS
+- **Distributed testing** capabilities for large-scale simulations
+
+## Use Cases
+
+- API performance testing at scale
+- Web application load testing
+- Microservices performance validation
+- Continuous performance testing in CI/CD
+- Capacity planning and sizing
+
+## Get Started with Gatling
+
+Start load testing with Gatling's powerful Scala DSL. Visit [gatling.io](https://gatling.io) to download the open-source version or explore Gatling Enterprise for advanced features.
