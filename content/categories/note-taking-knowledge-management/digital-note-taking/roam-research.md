@@ -10,4 +10,26 @@ image: "/images/tools/roam-research-placeholder.jpg"
 
 # Roam Research
 
-Roam Research revolutionizes thought capture through block-reference architecture that enables researchers to create fluid, non-linear knowledge graphs where every piece of information becomes reusable and interconnected while maintaining context and proven effectiveness across academic and creative research. This platform provides extensive features for daily notes, block embedding, bidirectional links, and queries while offering advanced capabilities like version history, multiplayer collaboration, and custom JavaScript. Roam's strength lies in its temporal organization and block references, offering revolutionary note-taking that treats thoughts as building blocks with powerful query language and proven adoption among researchers and thinkers. The platform excels at serving academics, writers, and systems thinkers requiring non-hierarchical organization with features like sidebar workflows, filtered references, and delta exports that enable everything from research synthesis to creative exploration with citation management, collaborative graphs, and temporal navigation while providing users with keyboard shortcuts, advanced queries, and proven methodology for capturing thoughts in ways that reveal emergent patterns and unexpected connections.
+Roam Research is a networked thought tool that enables non-linear knowledge creation through block references and bidirectional linking for research and creative exploration.
+
+## Key Features
+
+- **Block references** - Every piece of text becomes reusable
+- **Bidirectional linking** - Automatic backlinks between pages
+- **Daily notes** - Timestamped capture with automatic dating
+- **Query system** - Powerful search and filter capabilities
+- **Graph database** - Non-hierarchical information structure
+- **Collaborative editing** - Real-time multiplayer research
+- **Block embedding** - Reference content across pages
+
+## Use Cases
+
+- Academic research synthesis
+- Creative writing and ideation
+- Systems thinking and analysis
+- Collaborative research projects
+- Non-linear thought organization
+
+## Get Started with Roam Research
+
+Explore networked thought and emergent connections. Visit [roamresearch.com](https://roamresearch.com) to revolutionize your research process.

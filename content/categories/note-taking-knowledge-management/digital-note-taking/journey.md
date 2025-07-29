@@ -10,4 +10,26 @@ image: "/images/tools/journey-placeholder.jpg"
 
 # Journey
 
-Journey revolutionizes accessible journaling through cross-platform design that enables users to maintain consistent reflection habits across all devices while offering rich features and proven effectiveness in building sustainable writing practices. This platform provides extensive features for multimedia entries, location mapping, mood tracking, and cloud synchronization while offering advanced capabilities like export options, search functionality, and customizable themes. Journey's strength lies in its platform availability and feature completeness, offering comprehensive journaling that works everywhere from phones to desktops with automatic backup and proven reliability across diverse user scenarios. The platform excels at serving mobile-first users and cross-platform families requiring flexible journaling with features like voice recordings, photo attachments, and timeline views that enable everything from daily reflection to travel documentation with weather integration, calendar views, and sharing options while providing users with consistent experiences, affordable pricing, and proven ability to maintain journaling habits through accessible design and reliable synchronization across all major platforms.
+Journey is a cross-platform journaling app that enables users to maintain consistent reflection habits across all devices with rich multimedia features.
+
+## Key Features
+
+- **Cross-platform sync** - Available on all major platforms
+- **Multimedia entries** - Add photos, videos, and voice recordings
+- **Location mapping** - Automatic location and weather data
+- **Mood tracking** - Track emotional patterns over time
+- **Timeline views** - Browse entries chronologically
+- **Search functionality** - Find entries across all content
+- **Export options** - Multiple backup and export formats
+
+## Use Cases
+
+- Daily journaling and reflection
+- Travel documentation
+- Life milestone recording
+- Mood and habit tracking
+- Cross-device journal access
+
+## Get Started with Journey
+
+Capture life's moments across all your devices. Visit [journey.cloud](https://journey.cloud) to start cross-platform journaling.

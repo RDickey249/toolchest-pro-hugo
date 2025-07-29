@@ -10,4 +10,26 @@ image: "/images/tools/ulysses-placeholder.jpg"
 
 # Ulysses
 
-Ulysses revolutionizes professional writing through distraction-free environment that enables authors, journalists, and bloggers to manage complex writing projects from initial notes to final publication while maintaining organization and proven effectiveness across long-form content creation. This platform provides extensive features for hierarchical organization, goal tracking, style sheets, and publishing integration while offering advanced capabilities like writing statistics, revision mode, and direct publishing to WordPress and Medium. Ulysses' strength lies in its project management and focused writing, offering comprehensive authoring environment that handles everything from notes to novels through unified library and proven adoption among professional writers. The platform excels at serving authors, academics, and content creators requiring structured writing workflow with features like manuscript targets, keyword organization, and export flexibility that enable everything from blog posts to dissertations with typewriter mode, markup-based editing, and publishing automation while providing users with minimalist interfaces, powerful organization tools, and proven framework for managing complex writing projects from conception to publication.
+Ulysses is a professional writing app that provides a distraction-free environment for authors, journalists, and bloggers to manage complex writing projects from notes to publication.
+
+## Key Features
+
+- **Distraction-free writing** - Clean, focused writing environment
+- **Project organization** - Hierarchical structure for complex projects
+- **Goal tracking** - Set and monitor writing targets
+- **Publishing integration** - Direct publishing to WordPress and Medium
+- **Style sheets** - Customize formatting and export styles
+- **Writing statistics** - Track progress and productivity
+- **Revision mode** - Track changes and edits
+
+## Use Cases
+
+- Novel and book writing
+- Academic writing and dissertations
+- Blog post creation and management
+- Journalism and article writing
+- Long-form content projects
+
+## Get Started with Ulysses
+
+Focus on your writing with professional tools. Visit [ulysses.app](https://ulysses.app) to manage complex writing projects.

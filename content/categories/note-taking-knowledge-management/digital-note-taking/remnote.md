@@ -10,4 +10,26 @@ image: "/images/tools/remnote-placeholder.jpg"
 
 # RemNote
 
-RemNote revolutionizes learning-integrated note-taking through automatic spaced repetition that transforms notes into flashcards while maintaining hierarchical organization and proven effectiveness across academic study and professional skill development. This platform provides extensive features for concept-descriptor framework, PDF annotation, references, and practice queues while offering advanced capabilities like image occlusion, LaTeX equations, and learning statistics. RemNote's strength lies in its cognitive science foundation and seamless integration, offering intelligent note-taking that optimizes retention through algorithmic review scheduling and proven improvements in long-term memory formation. The platform excels at serving students, medical professionals, and lifelong learners requiring active recall integration with features like portals, aliases, and smart practice that enable everything from lecture notes to certification preparation with automatic question generation, progress analytics, and collaborative learning while providing users with evidence-based algorithms, comprehensive organization, and proven methodology for transforming passive information consumption into active knowledge retention.
+RemNote is a note-taking app that integrates spaced repetition learning by automatically transforming notes into flashcards for enhanced memory retention.
+
+## Key Features
+
+- **Automatic flashcards** - Convert notes into spaced repetition cards
+- **Hierarchical notes** - Organize content in structured outlines
+- **PDF annotation** - Annotate documents with linked notes
+- **Learning statistics** - Track study progress and retention
+- **LaTeX equations** - Mathematical notation support
+- **Concept mapping** - Visual relationship building
+- **Smart scheduling** - Optimized review timing algorithms
+
+## Use Cases
+
+- Medical and law school studying
+- Academic research and learning
+- Professional skill development
+- Exam preparation and review
+- Long-term knowledge retention
+
+## Get Started with RemNote
+
+Transform your notes into learning tools. Visit [remnote.com](https://www.remnote.com) to integrate spaced repetition with note-taking.

@@ -10,4 +10,26 @@ image: "/images/tools/acuity-scheduling-placeholder.jpg"
 
 # Acuity Scheduling
 
-Acuity Scheduling revolutionizes comprehensive appointment management through advanced booking features that enable service-based businesses to automate complex scheduling while maintaining customization and proven effectiveness across professional services requiring sophisticated booking workflows and client management capabilities. This platform provides extensive features for online booking, payment processing, client management, and automated workflows while offering advanced capabilities like intake forms, package scheduling, and certification tracking. Acuity Scheduling's strength lies in its feature depth and customization options, offering professional scheduling solution that handles complex service requirements through extensive configuration and proven reliability in service-oriented businesses. The platform excels at serving coaches, consultants, and service providers requiring advanced scheduling with features like class scheduling, resource management, and client portals that enable everything from individual consultations to group programs with sophisticated booking rules, automated communication, and comprehensive client management while providing users with professional service presentation, extensive customization capabilities, and proven methodology for managing complex service delivery through automated scheduling that handles diverse service types, pricing models, and client requirements.
+Acuity Scheduling is an advanced appointment booking platform that enables service-based businesses to automate complex scheduling with sophisticated customization options.
+
+## Key Features
+
+- **Online booking** - Self-service appointment scheduling
+- **Payment processing** - Integrated payment collection
+- **Client management** - Comprehensive customer profiles
+- **Automated workflows** - Email confirmations and reminders
+- **Intake forms** - Collect client information before appointments
+- **Package scheduling** - Sell and schedule service packages
+- **Class scheduling** - Group sessions and workshops
+
+## Use Cases
+
+- Professional coaching and consulting
+- Health and wellness services
+- Beauty and personal care businesses
+- Fitness classes and training
+- Educational workshops and tutoring
+
+## Get Started with Acuity Scheduling
+
+Automate your appointment booking process. Visit [acuityscheduling.com](https://acuityscheduling.com) to streamline professional scheduling.
