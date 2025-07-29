@@ -10,4 +10,26 @@ image: "/images/tools/gitlab-ci-placeholder.jpg"
 
 # GitLab CI
 
-GitLab CI/CD is a fully integrated continuous integration and deployment platform built directly into GitLab, providing seamless automation without external tool integration. The platform's pipeline configuration uses YAML files stored in repositories, enabling version-controlled, collaborative development of CI/CD workflows. GitLab CI's auto DevOps feature provides zero-configuration CI/CD pipelines that automatically detect project types and configure appropriate build, test, and deployment stages. The platform's runner system supports Docker, Kubernetes, and shell executors with both shared and dedicated runner options for flexible build environments. GitLab CI's merge request pipelines enable testing of proposed changes before they're merged, while its branch and tag-based deployments support complex release strategies. The platform's environment management tracks deployments across development, staging, and production environments with rollback capabilities and deployment approval processes. GitLab CI's container registry integration provides secure image storage and vulnerability scanning within the same platform. The platform's monitoring and observability features include performance monitoring, error tracking, and log aggregation for deployed applications. GitLab CI's security scanning capabilities include static application security testing (SAST), dynamic application security testing (DAST), and dependency scanning integrated into pipelines. The platform's review apps automatically deploy merge requests to temporary environments for testing and review. With its comprehensive DevOps platform approach, GitLab CI provides end-to-end automation from code to production deployment.
+GitLab CI/CD is a fully integrated continuous integration and deployment platform built directly into GitLab. Complete DevOps automation from code to production without external tool integration.
+
+## Key Features
+
+- **Integrated platform** - Built directly into GitLab repositories
+- **Auto DevOps** - Zero-configuration pipelines with automatic detection
+- **Flexible runners** - Docker, Kubernetes, and shell executors
+- **Merge request pipelines** - Test changes before merging
+- **Environment management** - Track deployments with rollback capabilities
+- **Container registry** - Integrated image storage with vulnerability scanning
+- **Security scanning** - SAST, DAST, and dependency scanning built-in
+
+## Use Cases
+
+- Complete DevOps platform automation
+- Integrated CI/CD with GitLab repos
+- Security-first development workflows
+- Container-based deployments
+- Enterprise DevOps with compliance
+
+## Get Started with GitLab CI
+
+Complete DevOps platform with integrated CI/CD. Visit [gitlab.com/gitlab-ci](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) to start automating and see why teams choose GitLab for DevOps.
