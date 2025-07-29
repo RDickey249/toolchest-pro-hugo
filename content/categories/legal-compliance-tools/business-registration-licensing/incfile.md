@@ -10,4 +10,26 @@ image: "/images/tools/incfile-placeholder.jpg"
 
 # Incfile
 
-Incfile provides comprehensive business formation services that simplify the process of establishing legal business entities across all US states. This platform offers LLC formation, corporation setup, registered agent services, and ongoing compliance support designed to streamline business establishment. Users benefit from affordable formation packages, fast processing times, and expert guidance throughout the business formation process. Incfile emphasizes simplicity through user-friendly online processes, transparent pricing, and comprehensive support services. The platform excels at serving entrepreneurs and small business owners who need reliable business formation services without the complexity and expense of traditional legal services, offering professional business establishment solutions that ensure proper legal structure and ongoing compliance support.
+Incfile provides comprehensive business formation services that simplify establishing legal business entities with affordable packages and fast processing across all US states.
+
+## Key Features
+
+- **LLC formation** - Complete LLC setup in all 50 states
+- **Corporation setup** - C-Corp and S-Corp formation services
+- **Registered agent** - Free registered agent for first year
+- **Compliance alerts** - Annual report and filing reminders
+- **Operating agreements** - Custom document preparation
+- **EIN filing** - Federal tax ID application
+- **Business banking** - Banking setup assistance
+
+## Use Cases
+
+- New business formation
+- LLC and corporation setup
+- Registered agent services
+- State compliance management
+- Business entity changes
+
+## Get Started with Incfile
+
+Form your business with affordable, transparent pricing. Visit [incfile.com](https://www.incfile.com) to establish your legal business entity.
