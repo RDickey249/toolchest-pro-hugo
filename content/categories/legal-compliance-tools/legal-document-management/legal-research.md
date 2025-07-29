@@ -10,4 +10,26 @@ image: "/images/tools/legal-research-placeholder.jpg"
 
 # Legal Research
 
-Legal Research platforms including Westlaw and LexisNexis provide comprehensive legal database access and research capabilities for legal professionals and businesses. These platforms offer extensive case law databases, statutory research tools, and legal analysis resources that support informed legal decision-making. Users benefit from advanced search capabilities, citation analysis, and expert legal commentary that ensures thorough and accurate legal research. Legal Research emphasizes accuracy through comprehensive database coverage, real-time updates, and professional editorial oversight. The platform excels at serving law firms, corporate legal departments, and legal professionals who require authoritative legal information and research tools for case preparation, compliance analysis, and legal strategy development.
+Legal Research platforms including Westlaw and LexisNexis provide comprehensive legal database access with case law, statutes, and expert analysis for legal professionals.
+
+## Key Features
+
+- **Case law databases** - Comprehensive court decision archives
+- **Statutory research** - Federal and state legislation access
+- **Citation analysis** - Case treatment and validity checking
+- **Legal commentary** - Expert analysis and treatises
+- **Advanced search** - Boolean and natural language queries
+- **Alert services** - Case and topic monitoring
+- **Document analytics** - Legal trend analysis tools
+
+## Use Cases
+
+- Case law research
+- Statutory compliance checking
+- Legal brief preparation
+- Due diligence research
+- Regulatory analysis
+
+## Get Started with Legal Research
+
+Access professional legal databases and research tools. Visit [westlaw.com](https://legal.thomsonreuters.com/en/products/westlaw) or [lexisnexis.com](https://www.lexisnexis.com) for comprehensive legal research.
