@@ -10,4 +10,26 @@ image: "/images/tools/animoto-placeholder.jpg"
 
 # Animoto
 
-Animoto revolutionizes automated video creation through template-based video production that enables professional-looking videos while maintaining simplicity and proven effectiveness across users requiring quick video creation and marketing-focused video content without extensive editing expertise or time-intensive production workflows. This platform provides extensive features for template customization, music library, text overlay, and social media optimization while offering advanced capabilities like brand customization, stock footage integration, and marketing analytics. Animoto's strength lies in its automation and marketing focus, offering complete video creation solution that streamlines production through intelligent automation and proven adoption among marketers and small businesses. The platform excels at serving marketers, small businesses, and social media managers requiring quick video production with features like drag-and-drop editing, music licensing, and social media formatting that enable everything from promotional videos to social media content with automated efficiency, professional templates, and marketing optimization while providing users with automated video creation, marketing-focused templates, and proven methodology for creating engaging video content through streamlined production workflows and template-based customization.
+Animoto is an automated video creation platform that turns photos and video clips into professional marketing videos using templates and AI. Create engaging social media and marketing content in minutes without editing experience.
+
+## Key Features
+
+- **Template-based creation** - Professional video templates for marketing
+- **Automated editing** - AI combines your content with music and effects
+- **Licensed music library** - Commercial-use music tracks included
+- **Brand customization** - Add logos, colors, and brand elements
+- **Social media optimization** - Formats for all major platforms
+- **Stock footage integration** - Access to millions of stock videos and photos
+- **Marketing analytics** - Track video performance and engagement
+
+## Use Cases
+
+- Social media marketing videos
+- Product promotion videos
+- Real estate marketing
+- Small business advertising
+- Event promotion
+
+## Get Started with Animoto
+
+Create professional marketing videos in minutes. Visit [animoto.com](https://animoto.com) to start making videos and see why businesses choose Animoto for video marketing.

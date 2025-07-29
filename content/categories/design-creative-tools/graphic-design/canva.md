@@ -10,4 +10,26 @@ image: "/images/tools/canva-placeholder.jpg"
 
 # Canva
 
-Canva revolutionizes graphic design through accessible templates that enable anyone to create professional-quality designs while maintaining simplicity and proven effectiveness across users requiring design capabilities without extensive training or specialized software knowledge. This platform provides extensive features for template customization, brand consistency, collaborative editing, and multi-format publishing while offering advanced capabilities like animation, video editing, and brand kit management. Canva's strength lies in its user-friendly approach and vast template library, offering complete design solution that democratizes graphic design through intuitive interfaces and proven adoption among non-designers and professionals alike. The platform excels at serving small businesses, marketers, and individuals requiring quick design solutions with features like drag-and-drop editing, stock photo access, and social media optimization that enable everything from social posts to presentation creation with professional results, collaborative workflows, and brand consistency while providing users with accessible design tools, comprehensive template libraries, and proven methodology for creating engaging visual content through simplified design processes and user-centric interface design.
+Canva is a user-friendly graphic design platform that makes professional design accessible to everyone. Choose from millions of templates to create everything from social media posts to presentations with drag-and-drop simplicity.
+
+## Key Features
+
+- **Million+ templates** - Professional designs for every need
+- **Drag-and-drop editor** - Easy design creation without experience
+- **Brand kit management** - Consistent colors, fonts, and logos
+- **Collaborative editing** - Real-time team collaboration on designs
+- **Animation and video** - Create animated posts and short videos
+- **Stock content library** - Photos, illustrations, and graphics included
+- **Multi-format publishing** - Resize designs for different platforms instantly
+
+## Use Cases
+
+- Social media content creation
+- Marketing materials and flyers
+- Presentations and infographics
+- Logo and brand design
+- Print materials and documents
+
+## Get Started with Canva
+
+Design anything with easy-to-use templates. Visit [canva.com](https://www.canva.com) to start creating and see why millions choose Canva for design.

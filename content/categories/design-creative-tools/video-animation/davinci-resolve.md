@@ -10,4 +10,26 @@ image: "/images/tools/davinci-resolve-placeholder.jpg"
 
 # DaVinci Resolve
 
-DaVinci Resolve revolutionizes all-in-one post-production through professional color grading that enables cinematic quality while maintaining comprehensive functionality and proven effectiveness across post-production professionals requiring advanced color correction and complete video post-production workflows in unified environment. This platform provides extensive features for color grading, video editing, audio post-production, and visual effects while offering advanced capabilities like HDR workflows, collaborative features, and professional delivery options. DaVinci Resolve's strength lies in its color science excellence and comprehensive integration, offering complete post-production solution that combines multiple disciplines through professional tools and proven adoption among colorists and post-production facilities. The platform excels at serving colorists, post-production teams, and independent filmmakers requiring professional workflows with features like advanced color wheels, collaborative projects, and professional delivery that enable everything from music videos to feature films with cinematic color quality, comprehensive post-production, and professional-grade output while providing users with professional post-production suite, industry-leading color tools, and proven methodology for creating cinematic content through integrated workflows and comprehensive post-production capabilities.
+DaVinci Resolve is a professional all-in-one post-production suite that combines video editing, color grading, visual effects, and audio post-production. Industry-leading color science and comprehensive tools used by Hollywood professionals.
+
+## Key Features
+
+- **Professional color grading** - Industry-leading color correction and grading tools
+- **Video editing** - Full timeline editing with advanced features
+- **Visual effects** - Fusion VFX and motion graphics integrated
+- **Audio post-production** - Fairlight audio mixing and editing
+- **HDR workflows** - Complete HDR color pipeline support
+- **Collaborative editing** - Multi-user collaboration on projects
+- **Professional delivery** - Broadcast and cinema-quality output
+
+## Use Cases
+
+- Professional film and TV post-production
+- Color grading and correction
+- Visual effects and compositing
+- Audio mixing and sound design
+- Independent filmmaking
+
+## Get Started with DaVinci Resolve
+
+Professional post-production for free. Visit [blackmagicdesign.com/products/davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve) to download and see why Hollywood uses DaVinci Resolve.

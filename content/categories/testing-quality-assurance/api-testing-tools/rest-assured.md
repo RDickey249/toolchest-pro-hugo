@@ -10,4 +10,26 @@ image: "/images/tools/rest-assured-placeholder.jpg"
 
 # REST Assured
 
-REST Assured is a popular Java library that simplifies testing of REST services through a fluent, domain-specific language that makes API testing code readable and maintainable. The library's builder pattern allows chaining method calls to construct requests and validations in an intuitive, English-like syntax. REST Assured's comprehensive assertion capabilities enable validation of response status codes, headers, body content, and JSON/XML structures with powerful matchers. The library's authentication support includes basic auth, OAuth, form authentication, and custom authentication schemes for secure API testing. REST Assured's request specification feature enables creating reusable request templates with common headers, parameters, and configuration. The library's response extraction capabilities allow capturing values from responses for use in subsequent requests or assertions. REST Assured's JSON and XML path support provides powerful querying capabilities for complex response structures. The library's integration with popular testing frameworks like JUnit and TestNG enables seamless incorporation into existing test suites. REST Assured's logging features provide detailed request and response information for debugging and troubleshooting. The library's multipart form data support enables testing of file upload and complex form submissions. With its focus on readability and Java ecosystem integration, REST Assured has become the standard for REST API testing in Java-based applications and enterprise environments.
+REST Assured is a Java library that simplifies REST API testing with a fluent, readable syntax. Write API tests that read like English with powerful assertions and comprehensive authentication support.
+
+## Key Features
+
+- **Fluent API** - Readable, English-like syntax for test construction
+- **Comprehensive assertions** - Validate status codes, headers, and response body
+- **Authentication support** - Basic auth, OAuth, form auth, and custom schemes
+- **JSON/XML path** - Powerful querying for complex response structures
+- **Request specifications** - Reusable request templates and configurations
+- **Testing framework integration** - Works with JUnit, TestNG, and others
+- **Response extraction** - Capture values for use in subsequent requests
+
+## Use Cases
+
+- Java-based API testing
+- Automated REST service validation
+- Integration testing
+- API contract testing
+- Enterprise test automation
+
+## Get Started with REST Assured
+
+Write readable API tests in Java. Visit [rest-assured.io](https://rest-assured.io) to get started and see why developers choose REST Assured for API testing.

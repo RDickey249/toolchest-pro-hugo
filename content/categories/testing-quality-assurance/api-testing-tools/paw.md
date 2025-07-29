@@ -10,4 +10,26 @@ image: "/images/tools/paw-placeholder.jpg"
 
 # Paw
 
-Paw is a sophisticated API testing tool designed exclusively for macOS that combines powerful functionality with native Mac design principles and user experience. The application's dynamic value system enables complex request chaining where responses from one request can be used as inputs for subsequent requests automatically. Paw's environment management provides visual organization of different API configurations with easy switching between development, staging, and production settings. The application's code generation feature creates client code in over 20 programming languages and frameworks, accelerating API integration development. Paw's comprehensive authentication support includes OAuth flows, AWS signatures, custom authentication, and certificate-based authentication with visual configuration. The application's response visualization includes syntax highlighting, JSON formatting, and custom response viewers for different content types. Paw's extension system allows adding custom functionality through JavaScript extensions and community-contributed add-ons. The application's team synchronization features enable collaboration through cloud sync and shared API definitions. Paw's documentation export creates beautiful, interactive API documentation with code examples in multiple languages. The application's Mac-native features include Touch Bar support, macOS integrations, and optimized performance for Apple hardware. While limited to macOS, Paw's focus on design, usability, and advanced features makes it a premium choice for Mac-based development teams seeking powerful API testing capabilities.
+Paw is a sophisticated API testing tool designed exclusively for macOS with native Mac design and powerful functionality. Dynamic request chaining and beautiful interface make API testing intuitive and efficient.
+
+## Key Features
+
+- **Dynamic values** - Chain requests where responses become inputs automatically
+- **Native macOS design** - Beautiful interface optimized for Mac
+- **Code generation** - Create client code in 20+ programming languages
+- **Advanced authentication** - OAuth, AWS signatures, certificates, and custom auth
+- **Environment management** - Visual organization of API configurations
+- **Team collaboration** - Cloud sync and shared API definitions
+- **Interactive documentation** - Export beautiful API docs with code examples
+
+## Use Cases
+
+- macOS-based API development
+- Complex API workflow testing
+- API documentation creation
+- Team API collaboration
+- Premium API testing experience
+
+## Get Started with Paw
+
+Experience beautiful API testing on Mac. Visit [paw.cloud](https://paw.cloud) to download Paw and see why Mac developers choose it for API testing.
