@@ -10,4 +10,27 @@ image: "/images/tools/k3s-placeholder.jpg"
 
 # K3s
 
-K3s revolutionizes edge Kubernetes deployment through lightweight distribution and simplified operations that enable organizations to run Kubernetes in resource-constrained environments with reduced memory footprint, single binary installation, and comprehensive functionality while maintaining full Kubernetes API compatibility and enterprise-grade features. This Kubernetes distribution provides extensive features for edge computing, IoT deployments, embedded systems, and development environments while offering advanced capabilities like built-in storage, load balancing, and comprehensive networking solutions. K3s's strength lies in its simplicity and resource efficiency, offering production-ready Kubernetes with minimal operational overhead and infrastructure requirements that make Kubernetes accessible in environments where traditional distributions would be impractical. The platform excels at serving edge computing, IoT deployments, development environments, and resource-constrained scenarios requiring Kubernetes functionality with features like automatic TLS certificate management, built-in ingress controller, and simplified cluster management that enable everything from single-node deployments to multi-node edge clusters with consistent Kubernetes experience, operational simplicity, and resource optimization while providing teams with familiar Kubernetes APIs, comprehensive documentation, and proven reliability that makes Kubernetes deployment successful in diverse and challenging environments.
+K3s is a lightweight Kubernetes distribution designed for edge computing, IoT deployments, and resource-constrained environments with minimal operational overhead.
+
+## Key Features
+
+- **Lightweight** - Reduced memory footprint and single binary installation
+- **Full Kubernetes API** - 100% upstream Kubernetes API compatibility
+- **Built-in components** - Ingress controller, load balancer, and storage
+- **Simple installation** - Single binary with minimal dependencies
+- **Edge optimized** - Designed for edge computing and IoT deployments
+- **Auto TLS** - Automatic TLS certificate management
+- **SQLite backend** - Embedded database for single-node clusters
+- **ARM support** - Runs on ARM64 and ARMv7 architectures
+
+## Use Cases
+
+- Edge computing and IoT deployments
+- Development and testing environments
+- Resource-constrained deployments
+- Single-node Kubernetes clusters
+- CI/CD and automation
+
+## Get Started with K3s
+
+Deploy lightweight Kubernetes for edge computing and resource-constrained environments. Visit [k3s.io](https://k3s.io) to run Kubernetes anywhere.
