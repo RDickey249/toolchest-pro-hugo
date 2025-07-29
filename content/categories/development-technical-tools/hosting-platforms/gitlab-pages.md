@@ -10,4 +10,27 @@ image: "/images/tools/gitlab-pages-placeholder.jpg"
 
 # GitLab Pages
 
-GitLab Pages revolutionizes static site hosting through seamless GitLab integration and CI/CD pipeline automation that enables developers to publish websites directly from repositories with custom domains, SSL certificates, and automated deployment workflows. This hosting service provides comprehensive features for static site generation, project documentation, and organizational pages while offering advanced capabilities like access controls, custom redirects, and pipeline-based deployment. GitLab Pages' strength lies in its integration with GitLab's complete DevOps platform and flexible deployment options, offering both public and private hosting with extensive customization. The platform excels at serving documentation sites, personal portfolios, project showcases, and organizational websites requiring integrated development workflows with features like branch-based deployment, merge request previews, and team collaboration that enable everything from simple static sites to complex documentation systems with automated builds, content management, and access controls while providing developers with complete CI/CD integration, version control workflows, and comprehensive project management that leverage GitLab's collaborative development environment.
+GitLab Pages is a static site hosting service integrated with GitLab repositories that enables automated deployment through CI/CD pipelines with custom domains and SSL certificates.
+
+## Key Features
+
+- **GitLab integration** - Seamless hosting from GitLab repositories
+- **CI/CD automation** - Automated builds and deployment pipelines
+- **Custom domains** - Use your own domain with free SSL certificates
+- **Access controls** - Public and private hosting with user permissions
+- **Branch deployment** - Deploy from any branch with custom configurations
+- **Merge request previews** - Preview sites for every merge request
+- **Static site generators** - Support for Jekyll, Hugo, and other generators
+- **Team collaboration** - Integrated with GitLab's project management
+
+## Use Cases
+
+- Project documentation and wikis
+- Personal portfolios and blogs
+- Organization websites
+- API documentation sites
+- Team collaboration sites
+
+## Get Started with GitLab Pages
+
+Host static sites with integrated CI/CD and version control. Visit [docs.gitlab.com/ee/user/project/pages](https://docs.gitlab.com/ee/user/project/pages) to deploy from GitLab.

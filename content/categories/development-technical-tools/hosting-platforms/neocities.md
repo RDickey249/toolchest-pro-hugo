@@ -10,4 +10,27 @@ image: "/images/tools/neocities-placeholder.jpg"
 
 # Neocities
 
-Neocities revolutionizes personal web hosting through nostalgic simplicity and creative freedom that enables individuals to create and host personal websites with HTML, CSS, and JavaScript in the spirit of the classic GeoCities platform with modern reliability and community features. This hosting platform provides straightforward features for static website creation, file management, and social discovery while offering capabilities like custom domains, site analytics, and community interaction. Neocities' strength lies in its simplicity and creative focus, offering free hosting that encourages experimental web design and personal expression without commercial pressure. The platform excels at serving personal websites, creative portfolios, experimental projects, and educational sites requiring simple hosting with features like drag-and-drop file management, website analytics, and community browsing that enable everything from personal blogs to artistic showcases with social features, site following, and creative inspiration while providing users with accessible web publishing tools, community engagement, and nostalgic web design freedom that celebrates individual creativity and personal web presence without complex hosting requirements.
+Neocities is a free web hosting platform for creative and personal websites that embraces the spirit of classic GeoCities with modern reliability and community features.
+
+## Key Features
+
+- **Free hosting** - Completely free static website hosting
+- **Creative freedom** - Encourages experimental and personal web design
+- **Community features** - Discover and follow other creative websites
+- **Simple file management** - Drag-and-drop file upload and organization
+- **Custom domains** - Use your own domain with hosted sites
+- **Site analytics** - Basic visitor statistics and insights
+- **Social discovery** - Browse and explore community websites
+- **No ads** - Clean hosting without forced advertisements
+
+## Use Cases
+
+- Personal websites and blogs
+- Creative portfolios and art showcases
+- Experimental web design projects
+- Educational and learning sites
+- Nostalgic and retro web experiences
+
+## Get Started with Neocities
+
+Create free personal websites with creative freedom and community. Visit [neocities.org](https://neocities.org) to start your creative web presence.
