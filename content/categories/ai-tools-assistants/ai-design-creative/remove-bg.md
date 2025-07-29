@@ -30,7 +30,12 @@ Remove.bg revolutionizes background removal by using advanced AI to instantly se
 • Limited editing options beyond background removal
 • Best results require good original image quality
 
-[Remove Backgrounds Instantly with Remove.bg →](https://www.remove.bg)
+## Get Started with Remove.bg
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.remove.bg" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Remove.bg →</a>
+  <a href="https://www.remove.bg/upload" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Upload Image →</a>
+</div>
 
 ## How It Compares
 
