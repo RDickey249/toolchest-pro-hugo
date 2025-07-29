@@ -10,4 +10,27 @@ image: "/images/tools/saltstack-placeholder.jpg"
 
 # SaltStack
 
-SaltStack revolutionizes infrastructure automation through comprehensive event-driven configuration management that enables organizations to automate system administration, application deployment, and infrastructure orchestration with high-speed communication, remote execution capabilities, and extensive state management while maintaining real-time responsiveness and proven scalability across diverse environments and organizational requirements. This automation platform provides extensive features for state configuration, remote execution, event handling, and pillar data management while offering advanced capabilities like reactor systems, orchestration workflows, and comprehensive security frameworks. SaltStack's strength lies in its event-driven architecture and high performance, offering unified automation that supports both push and pull models with extensive customization options and proven reliability in large-scale enterprise deployments. The platform excels at serving system administrators, DevOps teams, and organizations requiring fast execution with features like parallel processing, event reactors, and detailed targeting that enable everything from simple configuration tasks to complex infrastructure orchestration with real-time monitoring, compliance enforcement, and integration capabilities while providing operators with powerful Salt states, comprehensive execution modules, and proven enterprise scalability that makes automation accessible and reliable across diverse infrastructure environments and organizational governance requirements.
+SaltStack is an event-driven automation and configuration management platform that provides high-speed infrastructure automation with remote execution capabilities.
+
+## Key Features
+
+- **Event-driven architecture** - Real-time infrastructure automation and monitoring
+- **Remote execution** - Execute commands across thousands of systems simultaneously
+- **State management** - Define and enforce desired system configurations
+- **High-speed communication** - ZeroMQ-based communication for fast execution
+- **Pillar data** - Secure data management and configuration variables
+- **Reactor system** - Automated responses to infrastructure events
+- **Orchestration** - Complex workflow and deployment orchestration
+- **Targeting system** - Precise system selection and grouping
+
+## Use Cases
+
+- Large-scale configuration management
+- Real-time infrastructure automation
+- Cloud orchestration and provisioning
+- Compliance and security automation
+- Event-driven infrastructure responses
+
+## Get Started with SaltStack
+
+Automate infrastructure with event-driven configuration management at scale. Visit [saltproject.io](https://saltproject.io) to manage systems efficiently.

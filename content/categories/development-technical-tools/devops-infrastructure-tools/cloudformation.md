@@ -10,4 +10,27 @@ image: "/images/tools/cloudformation-placeholder.jpg"
 
 # CloudFormation
 
-CloudFormation revolutionizes AWS infrastructure management through comprehensive native infrastructure as code capabilities that enable organizations to define, provision, and manage AWS resources with JSON or YAML templates, dependency resolution, and extensive service integration while maintaining state management and proven scalability across diverse AWS environments and organizational requirements. This infrastructure service provides extensive features for stack management, resource provisioning, change sets, and rollback capabilities while offering advanced capabilities like nested stacks, custom resources, and comprehensive compliance frameworks. CloudFormation's strength lies in its AWS integration and declarative approach, offering unified infrastructure management that supports all AWS services with extensive template validation and proven reliability in complex AWS architectures. The platform excels at serving AWS-focused organizations, cloud architects, and projects requiring native AWS integration with features like automatic dependency resolution, drift detection, and detailed stack events that enable everything from simple resource creation to complex multi-region deployments with workflow automation, compliance tracking, and cost management while providing developers with comprehensive AWS service coverage, extensive documentation, and proven enterprise scalability that makes AWS infrastructure management accessible and reliable across diverse application architectures and organizational governance requirements.
+CloudFormation is AWS's native infrastructure as code service that enables organizations to define, provision, and manage AWS resources using JSON or YAML templates.
+
+## Key Features
+
+- **AWS-native service** - Built-in AWS service with deep integration
+- **Template-based** - Define infrastructure using JSON or YAML templates
+- **Stack management** - Organize resources into manageable stacks
+- **Dependency resolution** - Automatic resource dependency handling
+- **Change sets** - Preview changes before applying them
+- **Rollback capabilities** - Automatic rollback on deployment failures
+- **Nested stacks** - Modular template organization
+- **Drift detection** - Identify configuration changes outside templates
+
+## Use Cases
+
+- AWS infrastructure automation
+- Repeatable environment provisioning
+- Multi-region deployments
+- Compliance and governance
+- Cost management and optimization
+
+## Get Started with CloudFormation
+
+Provision AWS infrastructure with native infrastructure as code templates. Visit [aws.amazon.com/cloudformation](https://aws.amazon.com/cloudformation) to automate AWS resources.

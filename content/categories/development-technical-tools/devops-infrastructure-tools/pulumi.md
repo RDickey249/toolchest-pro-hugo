@@ -10,4 +10,27 @@ image: "/images/tools/pulumi-placeholder.jpg"
 
 # Pulumi
 
-Pulumi revolutionizes infrastructure as code through modern programming language support that enables developers to define cloud infrastructure using familiar languages like Python, TypeScript, Go, and C# with comprehensive cloud provider support, state management, and extensive ecosystem integration while maintaining type safety and proven scalability across diverse cloud environments and organizational requirements. This infrastructure platform provides extensive features for resource provisioning, stack management, policy enforcement, and secrets handling while offering advanced capabilities like component resources, automation API, and comprehensive testing frameworks. Pulumi's strength lies in its programming language flexibility and developer experience, offering unified infrastructure management that leverages existing language skills with extensive IDE support and proven reliability in complex multi-cloud architectures. The platform excels at serving developer-focused teams, cloud-native organizations, and projects requiring sophisticated logic with features like conditional resources, loops, and functions that enable everything from simple resource creation to complex infrastructure patterns with CI/CD integration, policy as code, and team collaboration while providing developers with familiar syntax, comprehensive SDK documentation, and proven enterprise scalability that makes infrastructure management accessible and reliable across diverse technology stacks and organizational development workflows.
+Pulumi is a modern infrastructure as code platform that enables developers to define cloud infrastructure using familiar programming languages like Python, TypeScript, Go, and C#.
+
+## Key Features
+
+- **Multi-language support** - Use Python, TypeScript, Go, C#, Java, and YAML
+- **Cloud provider support** - Works with AWS, Azure, GCP, Kubernetes, and more
+- **Type safety** - Full IDE support with autocomplete and error checking
+- **State management** - Automatic state tracking and conflict resolution
+- **Component resources** - Reusable infrastructure components
+- **Policy as code** - Define and enforce infrastructure policies
+- **Secrets management** - Encrypted secrets handling
+- **Testing frameworks** - Unit and integration testing for infrastructure
+
+## Use Cases
+
+- Developer-focused infrastructure as code
+- Multi-cloud resource management
+- Complex infrastructure logic and patterns
+- CI/CD infrastructure automation
+- Policy enforcement and compliance
+
+## Get Started with Pulumi
+
+Define infrastructure using real programming languages with full IDE support. Visit [pulumi.com](https://pulumi.com) to code your cloud.

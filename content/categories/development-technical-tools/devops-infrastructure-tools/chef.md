@@ -10,4 +10,27 @@ image: "/images/tools/chef-placeholder.jpg"
 
 # Chef
 
-Chef revolutionizes infrastructure automation through comprehensive Ruby-based configuration management that enables organizations to define system configuration as code with powerful domain-specific language, client-server architecture, and extensive cookbook ecosystem while maintaining idempotent operations and proven scalability across diverse infrastructure environments and organizational requirements. This automation platform provides extensive features for recipe management, node configuration, cookbook organization, and policy enforcement while offering advanced capabilities like test-driven infrastructure, compliance scanning, and comprehensive reporting frameworks. Chef's strength lies in its Ruby DSL and enterprise features, offering unified configuration management that supports complex logic, custom resources, and sophisticated dependency management with extensive customization options and proven reliability in large-scale enterprise deployments. The platform excels at serving enterprise organizations, infrastructure teams, and projects requiring sophisticated automation with features like convergence testing, policy-driven compliance, and detailed audit trails that enable everything from simple package management to complex application stack automation with workflow integration, security compliance, and change management while providing developers with powerful Ruby-based cookbooks, comprehensive testing frameworks, and proven enterprise scalability that makes infrastructure automation accessible and reliable across diverse technology stacks and organizational governance requirements.
+Chef is an infrastructure automation tool that uses Ruby-based DSL to define system configurations as code with cookbooks and recipes.
+
+## Key Features
+
+- **Ruby DSL** - Define infrastructure using Ruby domain-specific language
+- **Cookbook ecosystem** - Extensive library of reusable configuration recipes
+- **Client-server architecture** - Centralized management with distributed agents
+- **Idempotent operations** - Safe to run configurations multiple times
+- **Test-driven infrastructure** - Built-in testing frameworks for cookbooks
+- **Policy enforcement** - Compliance scanning and policy-driven automation
+- **Custom resources** - Create reusable infrastructure components
+- **Convergence testing** - Validate system state and configuration drift
+
+## Use Cases
+
+- Enterprise configuration management
+- Application stack automation
+- Compliance and security automation
+- Infrastructure testing and validation
+- Complex deployment orchestration
+
+## Get Started with Chef
+
+Automate infrastructure with Ruby-based configuration management. Visit [chef.io](https://chef.io) to define systems as code.
