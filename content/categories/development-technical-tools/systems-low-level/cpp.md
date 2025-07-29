@@ -10,4 +10,27 @@ image: "/images/tools/cpp-placeholder.jpg"
 
 # C++
 
-C++ revolutionizes systems programming by extending C's performance and control with powerful object-oriented features, template metaprogramming, and modern language constructs that enable developers to build complex, high-performance applications ranging from game engines and operating systems to financial trading platforms and embedded systems. This multi-paradigm language supports procedural, object-oriented, and generic programming styles while maintaining C's zero-overhead principle, where abstractions come without runtime cost, allowing developers to write expressive, maintainable code that compiles to optimized machine code rivaling hand-tuned C. C++'s template system enables compile-time computation and code generation that produces highly optimized executables, while features like RAII (Resource Acquisition Is Initialization) provide deterministic resource management and exception safety without garbage collection overhead. The language dominates performance-critical domains including AAA game development with engines like Unreal Engine, high-frequency trading systems where nanoseconds matter, browser engines like Chrome and Firefox, database systems, and real-time applications where predictable performance and direct hardware access are essential, while its vast ecosystem includes libraries like Boost, Qt, and standard library implementations that demonstrate C++'s continued evolution and relevance in modern computing.
+C++ is a multi-paradigm programming language that extends C with object-oriented features, templates, and modern constructs for high-performance applications.
+
+## Key Features
+
+- **Object-oriented programming** - Classes, inheritance, and polymorphism
+- **Template metaprogramming** - Compile-time code generation
+- **Zero-overhead abstractions** - High-level features without runtime cost
+- **RAII** - Deterministic resource management
+- **Standard Template Library** - Rich collection of algorithms and containers
+- **Multiple paradigms** - Procedural, object-oriented, and generic programming
+- **Manual memory management** - Direct control over memory allocation
+- **Cross-platform** - Runs on many operating systems and architectures
+
+## Use Cases
+
+- Game engines and AAA game development
+- High-frequency trading systems
+- Browser engines and databases
+- Operating systems and device drivers
+- Real-time and embedded systems
+
+## Get Started with C++
+
+Build high-performance applications with object-oriented systems programming. Visit [cplusplus.com](https://cplusplus.com) to master modern C++.
