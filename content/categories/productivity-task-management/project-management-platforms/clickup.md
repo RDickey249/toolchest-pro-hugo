@@ -42,3 +42,7 @@ ClickUp revolutionizes productivity by providing an all-in-one workspace that co
 • Performance can slow with very large workspaces and extensive customizations
 • Feature richness may lead to over-engineering simple workflows
 • Some advanced features require higher-tier subscriptions
+
+## Get Started with ClickUp
+
+Replace all your productivity apps with one. Visit [clickup.com](https://clickup.com) to start free and see why millions use ClickUp to get more done.
