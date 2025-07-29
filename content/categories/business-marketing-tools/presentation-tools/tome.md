@@ -30,7 +30,9 @@ Tome revolutionizes storytelling by using AI to generate complete presentations 
 • AI content may need editing
 • Premium features are expensive
 
-[Build Stories with Tome →](https://tome.app)
+## Get Started with Tome
+
+Create compelling presentations with AI-powered storytelling. Visit [tome.app](https://tome.app) to generate complete presentations from simple prompts.
 
 ## How It Compares
 

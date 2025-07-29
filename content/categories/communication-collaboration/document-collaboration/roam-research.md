@@ -10,4 +10,26 @@ image: "/images/tools/roam-research-placeholder.jpg"
 
 # Roam Research
 
-Roam Research revolutionizes thought organization through block references and bidirectional linking that enables researchers to create non-linear knowledge graphs capturing complex idea relationships while maintaining context and proven effectiveness across academic research and creative thinking workflows. This platform provides extensive features for daily pages, block embedding, queries, and version control while offering advanced capabilities like attributes, calculations, and collaborative databases. Roam's strength lies in its block-reference system and temporal organization, offering unified research tool that treats every thought as reusable and linkable with powerful query capabilities and proven adoption in research communities. The platform excels at serving academics, writers, and systems thinkers requiring non-hierarchical organization with features like sidebar multitasking, filtered views, and Zettelkasten methodology that enable everything from dissertation research to creative project development with citation management, collaborative graphs, and advanced queries while providing users with keyboard shortcuts, powerful search operators, and proven methodology for capturing and connecting thoughts in ways that reveal unexpected insights.
+Roam Research revolutionizes thought organization through block references and bidirectional linking, enabling researchers to create non-linear knowledge graphs that capture complex idea relationships.
+
+## Key Features
+
+- **Bidirectional linking** - Connect thoughts and ideas across all notes
+- **Block references** - Reuse and embed content throughout your database
+- **Daily pages** - Capture thoughts with automatic date organization
+- **Graph database** - Visualize connections between ideas and concepts
+- **Queries** - Find and organize information with powerful search
+- **Collaborative editing** - Work together on shared knowledge bases
+- **Version control** - Track changes and restore previous versions
+
+## Use Cases
+
+- Academic research and dissertation writing
+- Knowledge management and note-taking
+- Creative project development
+- Systems thinking and concept mapping
+- Zettelkasten methodology implementation
+
+## Get Started with Roam Research
+
+Build networked knowledge with connected thinking. Visit [roamresearch.com](https://roamresearch.com) to create non-linear knowledge graphs.

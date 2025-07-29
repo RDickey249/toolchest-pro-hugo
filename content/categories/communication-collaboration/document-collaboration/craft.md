@@ -94,3 +94,7 @@ Built with meticulous attention to detail, Craft transforms document creation in
 - **Team plans** - Enhanced collaboration and admin features
 
 Used by writers, teams, and creative professionals who appreciate beautiful, fast, and intuitive document creation that makes writing a pleasure.
+
+## Get Started with Craft
+
+Create beautiful documents with block-based writing. Visit [craft.do](https://www.craft.do) to experience elegant writing and note-taking on Apple devices.

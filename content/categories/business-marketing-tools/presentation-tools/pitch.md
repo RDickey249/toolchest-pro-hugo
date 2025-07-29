@@ -30,7 +30,9 @@ Pitch transforms team presentation workflows by combining beautiful design tools
 • Requires internet connection
 • Learning curve for some features
 
-[Collaborate with Pitch →](https://pitch.com)
+## Get Started with Pitch
+
+Transform team presentation workflows with beautiful collaboration. Visit [pitch.com](https://pitch.com) to create stunning presentations together.
 
 ## How It Compares
 

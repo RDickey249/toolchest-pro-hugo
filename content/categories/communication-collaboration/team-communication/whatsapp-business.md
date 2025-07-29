@@ -104,3 +104,7 @@ With over 2 billion users worldwide, WhatsApp Business leverages the familiar me
 - **Global standard** - Trusted communication platform worldwide
 
 Used by over 50 million businesses worldwide to build stronger customer relationships through the power of personal, immediate messaging.
+
+## Get Started with WhatsApp Business
+
+Connect with customers on the world's most popular messaging platform. Visit [business.whatsapp.com](https://business.whatsapp.com) to start professional messaging with your customers.

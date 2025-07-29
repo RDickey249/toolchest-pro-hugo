@@ -30,7 +30,9 @@ SlidesAI streamlines presentation creation by automatically converting text docu
 • Not suitable for creative presentations
 • AI may miss content nuances
 
-[Convert Content with SlidesAI →](https://www.slidesai.io)
+## Get Started with SlidesAI
+
+Convert text to presentations automatically. Visit [slidesai.io](https://www.slidesai.io) to transform documents into polished slide decks instantly.
 
 ## How It Compares
 
