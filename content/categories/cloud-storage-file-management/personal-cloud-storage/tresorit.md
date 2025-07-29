@@ -10,4 +10,26 @@ image: "/images/tools/tresorit-placeholder.jpg"
 
 # Tresorit
 
-Tresorit revolutionizes encrypted business storage through end-to-end encryption that enables teams to collaborate securely while maintaining complete data protection and proven effectiveness across organizations requiring zero-knowledge security with business functionality. This platform provides extensive features for encrypted file sync, secure sharing, team collaboration, and admin controls while offering advanced capabilities like digital rights management, remote wipe, and compliance reporting. Tresorit's strength lies in its business-focused encryption and European privacy standards, offering secure collaboration solution that combines enterprise features with zero-knowledge encryption through Swiss-hosted infrastructure and proven reliability in regulated industries. The platform excels at serving businesses, healthcare organizations, and professional services requiring encrypted collaboration with features like encrypted links, activity monitoring, and granular permissions that enable everything from secure client communication to team project management with GDPR compliance, SOC 2 certification, and comprehensive audit capabilities while providing users with business-grade functionality, transparent encryption practices, and proven methodology for maintaining data privacy in collaborative business environments without sacrificing productivity or security.
+Tresorit is an encrypted cloud storage platform designed for businesses requiring zero-knowledge security with team collaboration features and Swiss-hosted infrastructure.
+
+## Key Features
+
+- **End-to-end encryption** - Zero-knowledge security architecture
+- **Team collaboration** - Secure file sharing and editing
+- **Digital rights management** - Control file access and usage
+- **Remote wipe** - Secure device and file deletion
+- **Admin controls** - Enterprise user and permission management
+- **Compliance reporting** - GDPR and SOC 2 certified
+- **Activity monitoring** - Comprehensive audit trails
+
+## Use Cases
+
+- Healthcare data protection
+- Legal document security
+- Financial services compliance
+- Professional client communication
+- Regulated industry collaboration
+
+## Get Started with Tresorit
+
+Secure business collaboration with zero-knowledge encryption. Visit [tresorit.com](https://tresorit.com) to implement encrypted team storage.

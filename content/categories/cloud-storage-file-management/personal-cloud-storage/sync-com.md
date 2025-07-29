@@ -10,4 +10,26 @@ image: "/images/tools/sync-com-placeholder.jpg"
 
 # Sync.com
 
-Sync.com revolutionizes privacy-first cloud storage through Canadian-hosted zero-knowledge encryption that enables users to store and share files with complete privacy while maintaining ease of use and proven effectiveness across privacy-conscious users seeking secure yet accessible storage solutions. This platform provides extensive features for encrypted sync, secure sharing, file versioning, and team collaboration while offering advanced capabilities like password-protected links, expiring shares, and comprehensive admin controls. Sync.com's strength lies in its privacy focus and Canadian jurisdiction, offering secure storage solution that combines zero-knowledge encryption with user-friendly experience through transparent privacy practices and proven reliability in personal and business scenarios. The platform excels at serving privacy advocates, Canadian users, and teams requiring secure collaboration with features like secure vault, file requests, and activity tracking that enable everything from personal backup to business file sharing with end-to-end encryption, Canadian privacy laws protection, and generous free storage while providing users with transparent privacy policies, comprehensive security features, and proven commitment to user privacy through zero-knowledge architecture and Canadian data sovereignty.
+Sync.com is a Canadian-hosted cloud storage service that provides zero-knowledge encryption with privacy-first architecture and transparent security practices.
+
+## Key Features
+
+- **Zero-knowledge encryption** - End-to-end encryption with user-controlled keys
+- **Canadian hosting** - Data stored under Canadian privacy laws
+- **Secure vault** - Additional encryption layer for sensitive files
+- **Password-protected links** - Secure file sharing with expiration
+- **File versioning** - Access and restore previous versions
+- **Team collaboration** - Business features with admin controls
+- **5GB free storage** - Generous free tier with privacy focus
+
+## Use Cases
+
+- Privacy-focused file storage
+- Canadian data sovereignty
+- Secure business collaboration
+- Personal backup with encryption
+- Confidential file sharing
+
+## Get Started with Sync.com
+
+Secure Canadian cloud storage with zero-knowledge encryption. Visit [sync.com](https://www.sync.com) to protect your files with complete privacy.
