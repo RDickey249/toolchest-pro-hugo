@@ -30,7 +30,9 @@ Canva transforms presentation creation with an intuitive drag-and-drop interface
 • Some AI features need Pro
 • May lack uniqueness
 
-[Design with Canva →](https://www.canva.com)
+## Get Started with Canva
+
+Design amazing presentations with ease. Visit [canva.com](https://www.canva.com) to start creating for free with millions of templates and AI-powered design tools.
 
 ## How It Compares
 

@@ -30,7 +30,9 @@ Beautiful.ai transforms presentation creation by automatically handling design d
 • Internet connection required
 • Some templates feel similar
 
-[Create Beautiful Presentations →](https://www.beautiful.ai)
+## Get Started with Beautiful.ai
+
+Create stunning presentations in minutes. Visit [beautiful.ai](https://www.beautiful.ai) to start your free trial and let AI handle the design while you focus on your message.
 
 ## How It Compares
 
