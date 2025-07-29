@@ -10,4 +10,26 @@ image: "/images/tools/activecampaign-placeholder.jpg"
 
 # ActiveCampaign
 
-ActiveCampaign revolutionizes advanced marketing automation through behavioral trigger sophistication that enables businesses to create complex customer journeys while maintaining personalization and proven effectiveness across organizations requiring sophisticated automation workflows and customer experience optimization. This platform provides extensive features for email automation, behavioral tracking, lead scoring, and customer journey mapping while offering advanced capabilities like predictive analytics, dynamic content, and machine learning optimization. ActiveCampaign's strength lies in its automation complexity and behavioral intelligence, offering enterprise-grade automation that adapts to customer behavior through advanced logic and proven reliability in complex marketing scenarios. The platform excels at serving growing businesses, e-commerce companies, and marketing-focused organizations requiring sophisticated automation with features like conditional logic, split testing, and attribution modeling that enable everything from welcome series to complex nurture campaigns with advanced personalization, comprehensive customer tracking, and intelligent automation while providing users with powerful automation builder, detailed behavioral insights, and proven methodology for creating sophisticated marketing automation that delivers personalized experiences at scale through intelligent customer journey orchestration.
+ActiveCampaign is an advanced marketing automation platform that enables businesses to create sophisticated customer journeys with behavioral triggers and personalization.
+
+## Key Features
+
+- **Advanced automation** - Complex behavioral trigger workflows
+- **Customer journey mapping** - Visual journey builder and optimization
+- **Lead scoring** - Intelligent contact scoring and prioritization
+- **Behavioral tracking** - Comprehensive customer activity monitoring
+- **Predictive analytics** - Machine learning-powered insights
+- **Dynamic content** - Personalized email experiences
+- **Attribution modeling** - Track campaign influence and ROI
+
+## Use Cases
+
+- Complex marketing automation workflows
+- E-commerce customer lifecycle management
+- B2B lead nurturing and scoring
+- Advanced email personalization
+- Multi-channel customer journey orchestration
+
+## Get Started with ActiveCampaign
+
+Build sophisticated marketing automation. Visit [activecampaign.com](https://www.activecampaign.com) to create intelligent customer experiences.

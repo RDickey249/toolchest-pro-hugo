@@ -10,4 +10,26 @@ image: "/images/tools/drip-placeholder.jpg"
 
 # Drip
 
-Drip revolutionizes ecommerce marketing automation through sophisticated behavioral targeting that enables online retailers to create personalized customer experiences while maintaining revenue focus and proven effectiveness across ecommerce businesses requiring advanced automation workflows and customer lifecycle management. This platform provides extensive features for behavioral automation, customer segmentation, revenue tracking, and personalization while offering advanced capabilities like predictive analytics, multi-channel campaigns, and advanced ecommerce integrations. Drip's strength lies in its ecommerce specialization and automation sophistication, offering purpose-built marketing automation that maximizes customer value through intelligent workflows and proven adoption among successful ecommerce brands. The platform excels at serving ecommerce businesses, online retailers, and product-focused companies requiring advanced automation with features like revenue attribution, customer lifetime value tracking, and behavioral triggers that enable everything from abandoned cart recovery to customer retention with comprehensive ecommerce analytics, advanced personalization, and revenue optimization while providing users with ecommerce-focused automation, sophisticated customer intelligence, and proven methodology for building profitable marketing automation that leverages customer behavior to drive repeat purchases and maximize customer lifetime value.
+Drip is an ecommerce marketing automation platform that enables online retailers to create sophisticated behavioral targeting and personalized customer experiences.
+
+## Key Features
+
+- **Behavioral automation** - Advanced customer behavior triggers
+- **Revenue tracking** - Complete ecommerce revenue attribution
+- **Customer segmentation** - Sophisticated audience targeting
+- **Predictive analytics** - AI-powered customer insights
+- **Multi-channel campaigns** - Email, SMS, and social coordination
+- **Customer lifetime value** - Track and optimize CLV
+- **Advanced integrations** - Connect with ecommerce platforms
+
+## Use Cases
+
+- Ecommerce marketing automation
+- Advanced customer lifecycle management
+- Revenue optimization campaigns
+- Behavioral targeting and personalization
+- Customer retention and win-back
+
+## Get Started with Drip
+
+Maximize ecommerce revenue with intelligent automation. Visit [drip.com](https://www.drip.com) to create sophisticated customer experiences.
