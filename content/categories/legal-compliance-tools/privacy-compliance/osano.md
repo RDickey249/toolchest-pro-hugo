@@ -10,4 +10,26 @@ image: "/images/tools/osano-placeholder.jpg"
 
 # Osano
 
-Osano provides comprehensive data privacy platform capabilities that help organizations manage privacy compliance across multiple regulations and jurisdictions. This platform offers consent management, privacy monitoring, vendor risk assessment, and compliance automation tools designed to streamline privacy program management. Users benefit from automated compliance tracking, comprehensive privacy assessments, and ongoing monitoring that ensures continuous compliance with evolving privacy regulations. Osano emphasizes practical privacy management through user-friendly tools, automated workflows, and comprehensive reporting capabilities. The platform excels at serving mid-market organizations that need robust privacy compliance capabilities without enterprise-level complexity, offering effective privacy management solutions that scale with organizational growth while maintaining compliance across changing regulatory landscapes.
+Osano is a data privacy platform that helps organizations manage privacy compliance across multiple regulations with automated monitoring and practical management tools.
+
+## Key Features
+
+- **Consent management** - Customizable consent collection and management
+- **Privacy monitoring** - Continuous compliance tracking
+- **Vendor risk assessment** - Third-party privacy evaluations
+- **Compliance automation** - Automated privacy workflows
+- **Cookie discovery** - Automatic website scanning
+- **Privacy assessments** - Comprehensive compliance evaluations
+- **Regulatory updates** - Real-time regulation tracking
+
+## Use Cases
+
+- Mid-market privacy compliance
+- Multi-regulation adherence
+- Website privacy management
+- Vendor privacy assessments
+- Growing organization compliance
+
+## Get Started with Osano
+
+Streamline privacy compliance with practical automation. Visit [osano.com](https://www.osano.com) to implement scalable privacy management.
