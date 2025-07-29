@@ -10,4 +10,26 @@ image: "/images/tools/canva-placeholder.jpg"
 
 # Canva
 
-Canva empowers creative content creation and design for marketing materials.
+Canva is a user-friendly design platform that enables anyone to create professional-quality graphics, presentations, and marketing materials with drag-and-drop simplicity.
+
+## Key Features
+
+- **Drag-and-drop editor** - Intuitive design interface for all skill levels
+- **Template library** - Thousands of pre-designed templates
+- **Stock media** - Millions of photos, videos, and graphics
+- **Brand kit** - Consistent branding across all designs
+- **Collaboration tools** - Team sharing and real-time editing
+- **Magic resize** - Adapt designs to different formats instantly
+- **Print services** - Direct printing and delivery options
+
+## Use Cases
+
+- Social media graphics and posts
+- Marketing materials and flyers
+- Presentations and infographics
+- Logo and brand design
+- Print materials and business cards
+
+## Get Started with Canva
+
+Create stunning designs without design experience. Visit [canva.com](https://www.canva.com) to design anything with ease.
