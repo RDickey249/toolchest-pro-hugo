@@ -10,4 +10,26 @@ image: "/images/tools/masv-placeholder.jpg"
 
 # Masv
 
-Masv revolutionizes professional large file transfer through pay-as-you-go cloud delivery that enables media professionals to send massive files reliably while maintaining speed and proven effectiveness across post-production and creative industries requiring dependable large file delivery. This platform provides extensive features for massive file upload, global acceleration, delivery tracking, and integration capabilities while offering advanced capabilities like API access, automation tools, and enterprise security. Masv's strength lies in its media industry focus and performance optimization, offering specialized transfer solution that handles extreme file sizes through global infrastructure and proven reliability in demanding production environments. The platform excels at serving post-production facilities, broadcasters, and media organizations requiring massive file delivery with features like automatic retry, portal creation, and workflow integration that enable everything from daily rushes to final delivery with global edge network, unlimited file sizes, and comprehensive tracking while providing users with professional reliability, transparent pricing, and proven methodology for handling mission-critical media file transfers requiring guaranteed delivery and professional-grade performance standards.
+Masv is a professional large file transfer service designed for media and post-production industries, enabling reliable delivery of massive files with pay-as-you-go pricing.
+
+## Key Features
+
+- **Massive file support** - Transfer files of any size reliably
+- **Global acceleration** - Worldwide edge network for fast delivery
+- **Pay-as-you-go pricing** - Transparent, usage-based pricing model
+- **Delivery tracking** - Complete visibility into transfer status
+- **API access** - Integrate with existing workflows
+- **Portal creation** - Custom upload portals for clients
+- **Enterprise security** - Professional-grade security standards
+
+## Use Cases
+
+- Post-production file delivery
+- Broadcasting and media distribution
+- Creative agency large file sharing
+- Mission-critical media transfers
+- Professional video collaboration
+
+## Get Started with Masv
+
+Deliver massive files reliably to anywhere. Visit [masv.io](https://masv.io) to handle professional large file transfers.

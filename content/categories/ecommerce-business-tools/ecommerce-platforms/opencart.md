@@ -10,4 +10,26 @@ image: "/images/tools/opencart-placeholder.jpg"
 
 # OpenCart
 
-OpenCart revolutionizes PHP-based e-commerce through lightweight platform architecture that enables efficient online stores while maintaining simplicity and proven effectiveness across developers requiring clean codebase and small businesses needing straightforward e-commerce with minimal resource requirements for optimized retail performance. This platform provides extensive features for product management, order processing, customer accounts, and payment integration while offering advanced capabilities like multi-store management, SEO optimization, and extensive extension marketplace. OpenCart's strength lies in its simplicity and performance efficiency, offering streamlined e-commerce solution that maximizes speed through lightweight design and proven adoption among performance-focused developers and efficient retailers. The platform excels at serving developers, small retailers, and performance-conscious businesses requiring efficient e-commerce with features like clean architecture, fast loading, and extensive extensions that enable everything from simple product sales to multi-store operations with performance optimization, development efficiency, and comprehensive retail functionality while providing users with lightweight e-commerce platform, PHP-based development, and proven methodology for building fast online stores through efficient architecture and comprehensive performance-focused capabilities.
+OpenCart is a lightweight, PHP-based e-commerce platform that provides efficient online store solutions with clean architecture and optimal performance.
+
+## Key Features
+
+- **Lightweight architecture** - Fast-loading, performance-optimized platform
+- **PHP-based development** - Clean, efficient codebase
+- **Multi-store management** - Manage multiple stores from one installation
+- **SEO optimization** - Built-in search engine optimization features
+- **Extension marketplace** - Thousands of available extensions
+- **Product management** - Comprehensive catalog and inventory tools
+- **Payment integration** - Multiple payment gateway support
+
+## Use Cases
+
+- Performance-focused online stores
+- Small to medium business e-commerce
+- Efficient multi-store operations
+- Developer-friendly custom solutions
+- Resource-optimized retail platforms
+
+## Get Started with OpenCart
+
+Build fast, efficient online stores. Visit [opencart.com](https://www.opencart.com) to access lightweight e-commerce.

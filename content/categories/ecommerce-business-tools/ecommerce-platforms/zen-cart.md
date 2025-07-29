@@ -10,4 +10,26 @@ image: "/images/tools/zen-cart-placeholder.jpg"
 
 # Zen Cart
 
-Zen Cart revolutionizes free shopping cart software through community-driven development that enables accessible e-commerce while maintaining feature richness and proven effectiveness across small businesses requiring cost-free solutions and community-supported retailers needing comprehensive shopping cart functionality with extensive customization options. This platform provides extensive features for product catalog, customer management, order processing, and payment integration while offering advanced capabilities like discount management, shipping calculation, and template customization. Zen Cart's strength lies in its community support and free availability, offering complete shopping cart solution without licensing fees and proven adoption among community-focused developers and budget-conscious retailers. The platform excels at serving small businesses, community developers, and cost-conscious retailers requiring free e-commerce with features like extensive documentation, community forums, and volunteer support that enable everything from basic product sales to complex retail operations with community backing, cost-free operation, and comprehensive shopping functionality while providing users with free shopping cart platform, community-supported development, and proven methodology for building cost-effective online stores through community collaboration and comprehensive volunteer-driven support.
+Zen Cart is a free, open-source shopping cart software with community-driven development that provides comprehensive e-commerce functionality without licensing fees.
+
+## Key Features
+
+- **Free open-source** - No licensing fees or costs
+- **Product catalog** - Comprehensive inventory and catalog management
+- **Customer management** - Complete customer account system
+- **Payment integration** - Multiple payment gateway support
+- **Discount management** - Flexible coupon and pricing systems
+- **Template customization** - Extensive design customization options
+- **Community support** - Active forums and volunteer assistance
+
+## Use Cases
+
+- Budget-conscious e-commerce projects
+- Small business online stores
+- Community-supported development
+- Custom e-commerce solutions
+- Cost-free retail operations
+
+## Get Started with Zen Cart
+
+Build your store for free with community support. Visit [zen-cart.com](https://www.zen-cart.com) to access open-source e-commerce.

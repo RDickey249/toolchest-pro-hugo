@@ -10,4 +10,26 @@ image: "/images/tools/hightail-placeholder.jpg"
 
 # Hightail
 
-Hightail revolutionizes creative file collaboration through project-focused sharing that enables creative teams to organize, review, and approve creative assets while maintaining workflow efficiency and proven effectiveness across agencies and creative professionals requiring structured creative collaboration. This platform provides extensive features for project organization, visual proofing, approval workflows, and client collaboration while offering advanced capabilities like version control, feedback collection, and deadline management. Hightail's strength lies in its creative workflow focus and collaboration features, offering specialized sharing solution that addresses creative industry needs through project-based organization and proven adoption in creative environments. The platform excels at serving creative agencies, marketing teams, and design professionals requiring structured creative collaboration with features like visual annotations, approval tracking, and client portals that enable everything from campaign reviews to creative project management with organized asset delivery, streamlined feedback cycles, and comprehensive project tracking while providing users with creative-focused interfaces, professional presentation options, and proven methodology for managing complex creative projects requiring multiple stakeholders, iterative reviews, and deadline-driven deliverables.
+Hightail is a creative collaboration platform that enables creative teams to organize, review, and approve creative assets with structured workflow management.
+
+## Key Features
+
+- **Project organization** - Structured creative project management
+- **Visual proofing** - Review and annotate creative assets
+- **Approval workflows** - Streamlined approval and feedback processes
+- **Client collaboration** - Secure client portals and sharing
+- **Version control** - Track asset versions and changes
+- **Deadline management** - Project timeline and milestone tracking
+- **Visual annotations** - Precise feedback on creative assets
+
+## Use Cases
+
+- Creative agency project management
+- Marketing campaign reviews
+- Design asset collaboration
+- Client feedback and approvals
+- Creative workflow optimization
+
+## Get Started with Hightail
+
+Streamline creative collaboration workflows. Visit [hightail.com](https://www.hightail.com) to organize creative projects efficiently.
