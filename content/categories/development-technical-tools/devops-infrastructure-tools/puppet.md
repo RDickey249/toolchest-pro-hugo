@@ -10,4 +10,27 @@ image: "/images/tools/puppet-placeholder.jpg"
 
 # Puppet
 
-Puppet revolutionizes configuration management through comprehensive declarative automation that enables organizations to define and enforce desired system states with domain-specific language, agent-based architecture, and extensive module ecosystem while maintaining idempotent operations and proven scalability across diverse infrastructure environments and organizational requirements. This automation platform provides extensive features for manifest creation, catalog compilation, node classification, and state enforcement while offering advanced capabilities like dependency management, reporting dashboards, and comprehensive compliance frameworks. Puppet's strength lies in its declarative model and enterprise governance, offering unified configuration management that automatically corrects configuration drift with extensive customization options and proven reliability in large-scale enterprise deployments. The platform excels at serving enterprise organizations, compliance-focused teams, and projects requiring strict state management with features like automatic remediation, detailed reporting, and policy enforcement that enable everything from simple service configuration to complex infrastructure governance with audit trails, security compliance, and change management while providing administrators with powerful Puppet DSL, comprehensive module forge, and proven enterprise scalability that makes configuration management accessible and reliable across diverse technology stacks and organizational governance requirements.
+Puppet is a declarative configuration management platform that automatically enforces desired system states using a domain-specific language and agent-based architecture.
+
+## Key Features
+
+- **Declarative model** - Define desired state, Puppet enforces it
+- **Agent-based architecture** - Agents on managed nodes ensure compliance
+- **Puppet DSL** - Domain-specific language for configuration
+- **Module ecosystem** - Extensive library of reusable configurations
+- **Automatic remediation** - Corrects configuration drift automatically
+- **Reporting dashboards** - Detailed compliance and change reporting
+- **Node classification** - Organize and classify managed systems
+- **Dependency management** - Handle complex configuration dependencies
+
+## Use Cases
+
+- Enterprise configuration management
+- Compliance and governance automation
+- Infrastructure standardization
+- Security policy enforcement
+- Large-scale system administration
+
+## Get Started with Puppet
+
+Enforce desired system states with declarative configuration management. Visit [puppet.com](https://puppet.com) to automate infrastructure compliance.

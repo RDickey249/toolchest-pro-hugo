@@ -10,4 +10,27 @@ image: "/images/tools/terraform-placeholder.jpg"
 
 # Terraform
 
-Terraform revolutionizes infrastructure provisioning through comprehensive infrastructure as code capabilities that enable organizations to define, provision, and manage cloud resources across multiple providers with declarative configuration syntax, state management, and extensive provider ecosystem while maintaining version control, collaboration, and proven scalability across diverse cloud environments and organizational requirements. This infrastructure automation platform provides extensive features for resource provisioning, dependency management, state tracking, and workspace organization while offering advanced capabilities like plan visualization, remote state storage, and comprehensive compliance frameworks. Terraform's strength lies in its provider flexibility and declarative approach, offering unified infrastructure management that supports AWS, Azure, Google Cloud, and hundreds of other providers with extensive customization options and proven reliability in complex multi-cloud architectures. The platform excels at serving cloud-native organizations, infrastructure teams, and projects requiring standardized provisioning with features like immutable infrastructure, drift detection, and detailed plan output that enable everything from simple resource creation to complex multi-cloud deployments with collaboration workflows, compliance tracking, and automation integration while providing developers with intuitive HCL syntax, comprehensive documentation, and proven enterprise scalability that makes infrastructure management accessible and reliable across diverse technology stacks and organizational governance requirements.
+Terraform is an infrastructure as code tool that enables organizations to define, provision, and manage cloud resources across multiple providers with declarative configuration.
+
+## Key Features
+
+- **Infrastructure as code** - Define infrastructure with declarative HCL syntax
+- **Multi-provider support** - Works with AWS, Azure, GCP, and hundreds of providers
+- **State management** - Track and manage infrastructure state
+- **Plan and apply** - Preview changes before applying them
+- **Dependency management** - Automatic resource dependency resolution
+- **Workspace organization** - Manage multiple environments
+- **Remote state** - Collaborative state storage and locking
+- **Drift detection** - Identify configuration changes
+
+## Use Cases
+
+- Cloud infrastructure provisioning
+- Multi-cloud resource management
+- Infrastructure automation
+- Environment standardization
+- Compliance and governance
+
+## Get Started with Terraform
+
+Provision and manage infrastructure as code across cloud providers. Visit [terraform.io](https://terraform.io) to automate infrastructure deployment.
