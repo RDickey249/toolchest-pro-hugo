@@ -10,4 +10,26 @@ image: "/images/tools/culture-amp-placeholder.jpg"
 
 # Culture Amp
 
-Culture Amp provides comprehensive employee feedback platform capabilities that help organizations measure, understand, and improve employee engagement and culture. This platform offers employee engagement surveys, pulse surveys, performance reviews, and analytics designed to provide deep insights into organizational culture and employee experience. Users benefit from scientifically-backed survey methodologies, comprehensive analytics, and actionable insights that drive cultural improvement and employee engagement. Culture Amp emphasizes culture science through research-backed approaches, comprehensive measurement tools, and expert guidance that supports meaningful organizational change. The platform excels at serving organizations that prioritize culture and employee experience, offering sophisticated measurement and improvement tools that provide deep insights into employee sentiment while supporting evidence-based culture and engagement improvements.
+Culture Amp is an employee feedback platform that helps organizations measure, understand, and improve employee engagement and culture. Research-backed surveys and analytics provide deep insights into organizational culture and employee experience.
+
+## Key Features
+
+- **Employee engagement surveys** - Scientifically-backed measurement tools
+- **Pulse surveys** - Regular feedback and sentiment tracking
+- **Performance reviews** - Comprehensive performance evaluation tools
+- **Culture analytics** - Deep insights into organizational culture
+- **Benchmarking** - Compare results against industry standards
+- **Action planning** - Guidance for culture improvement initiatives
+- **Expert support** - Access to culture science expertise
+
+## Use Cases
+
+- Employee engagement measurement
+- Organizational culture assessment
+- Performance review processes
+- Culture improvement initiatives
+- Employee experience optimization
+
+## Get Started with Culture Amp
+
+Measure and improve your company culture. Visit [cultureamp.com](https://www.cultureamp.com) to start measuring and see why organizations choose Culture Amp for culture insights.

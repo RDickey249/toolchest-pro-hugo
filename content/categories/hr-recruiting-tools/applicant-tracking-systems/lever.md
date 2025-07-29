@@ -10,4 +10,26 @@ image: "/images/tools/lever-placeholder.jpg"
 
 # Lever
 
-Lever delivers comprehensive talent acquisition suite capabilities that combine applicant tracking with advanced sourcing and relationship management tools. This platform provides candidate relationship management, automated sourcing, interview coordination, and hiring analytics designed to transform talent acquisition processes. Users benefit from integrated sourcing tools, collaborative hiring features, and comprehensive candidate tracking that supports both reactive and proactive recruiting strategies. Lever emphasizes relationship-driven recruiting through advanced CRM features, automated outreach capabilities, and long-term candidate relationship management. The platform excels at serving organizations that prioritize proactive talent acquisition and relationship building, offering sophisticated tools for building talent pipelines while maintaining comprehensive tracking and management of all hiring activities.
+Lever is a comprehensive talent acquisition suite that combines applicant tracking with advanced sourcing and relationship management. Transform hiring with proactive recruiting strategies and long-term candidate relationship building.
+
+## Key Features
+
+- **Candidate relationship management** - CRM features for long-term talent relationships
+- **Automated sourcing** - Proactive candidate identification and outreach
+- **Interview coordination** - Streamlined scheduling and evaluation processes
+- **Hiring analytics** - Data-driven insights and performance metrics
+- **Collaborative hiring** - Team-based candidate evaluation and feedback
+- **Pipeline management** - Build and maintain talent pipelines
+- **Advanced tracking** - Comprehensive candidate journey management
+
+## Use Cases
+
+- Proactive talent acquisition
+- Relationship-driven recruiting
+- Enterprise hiring processes
+- Long-term talent pipeline building
+- Collaborative team hiring
+
+## Get Started with Lever
+
+Transform your talent acquisition strategy. Visit [lever.co](https://www.lever.co) to start building relationships and see why companies choose Lever for recruiting.

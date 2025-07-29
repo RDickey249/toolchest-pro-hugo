@@ -10,4 +10,26 @@ image: "/images/tools/gusto-placeholder.jpg"
 
 # Gusto
 
-Gusto provides comprehensive small business HR platform capabilities that integrate hiring with payroll processing and employee management designed specifically for small businesses. This platform offers applicant tracking, payroll processing, benefits administration, and compliance management through user-friendly interfaces optimized for small business needs. Users benefit from integrated HR workflows, automated compliance features, and affordable pricing that makes comprehensive HR functionality accessible to small businesses. Gusto emphasizes small business HR simplicity through intuitive design, integrated functionality, and comprehensive support that eliminates HR complexity. The platform excels at serving small businesses and startups that need comprehensive HR functionality without enterprise complexity, offering professional-grade HR capabilities that scale with business growth while maintaining simplicity and affordability.
+Gusto is a comprehensive small business HR platform that integrates hiring, payroll, benefits, and compliance management. User-friendly design and affordable pricing make professional HR functionality accessible to growing businesses.
+
+## Key Features
+
+- **Integrated HR platform** - Hiring, payroll, and benefits in one system
+- **Applicant tracking** - Simple hiring workflows and candidate management
+- **Payroll processing** - Automated payroll with tax compliance
+- **Benefits administration** - Health insurance and employee benefits management
+- **Compliance automation** - Built-in compliance with labor laws
+- **Employee self-service** - Portal for employees to manage their information
+- **Small business focus** - Designed specifically for growing companies
+
+## Use Cases
+
+- Small business HR management
+- Startup hiring and payroll
+- Growing company HR needs
+- Integrated HR and payroll processing
+- Compliance-friendly HR operations
+
+## Get Started with Gusto
+
+Simplify HR for your growing business. Visit [gusto.com](https://gusto.com) to start your free trial and see why small businesses choose Gusto for HR.
