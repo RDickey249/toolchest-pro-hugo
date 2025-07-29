@@ -43,3 +43,7 @@ Unlike traditional web analytics that focus on page views, Mixpanel tracks indiv
 - Easy integration with mobile and web applications
 
 Trusted by companies like Airbnb, Spotify, and Twitter to understand and optimize user experiences.
+
+## Get Started with Mixpanel
+
+Track what matters with event-based analytics. Visit [mixpanel.com](https://mixpanel.com) to start your free trial and unlock deeper product insights.

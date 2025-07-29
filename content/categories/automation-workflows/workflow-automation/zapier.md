@@ -39,3 +39,7 @@ With over 6,000 app integrations, Zapier lets you create automated workflows (ca
 Perfect for small businesses, marketers, and operations teams who want to eliminate manual, repetitive work and create seamless workflows between their favorite apps.
 
 Over 2 million businesses use Zapier to save time and reduce human error in their daily operations.
+
+## Get Started with Zapier
+
+Automate your work today. Visit [zapier.com](https://zapier.com) to start connecting your apps and create your first automation workflow for free.

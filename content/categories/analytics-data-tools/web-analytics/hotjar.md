@@ -49,3 +49,7 @@ Going beyond traditional analytics numbers, Hotjar provides visual insights that
 - Increase conversion rates and user satisfaction
 
 Used by over 1.1 million websites to understand and improve user experiences.
+
+## Get Started with Hotjar
+
+See how users really use your website. Visit [hotjar.com](https://www.hotjar.com) to start your free trial and discover what your analytics are missing.

@@ -58,3 +58,7 @@ Unlike traditional relational databases, MongoDB stores data in flexible documen
 - **Enterprise ready** - Security, compliance, and enterprise support available
 
 Used by companies like Toyota, Adobe, and Facebook to power applications serving billions of users.
+
+## Get Started with MongoDB
+
+Build faster with the developer data platform. Visit [mongodb.com](https://www.mongodb.com) to try MongoDB Atlas free or download the community edition.
