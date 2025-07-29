@@ -10,4 +10,26 @@ image: "/images/tools/chili-piper-placeholder.jpg"
 
 # Chili Piper
 
-Chili Piper revolutionizes revenue-focused scheduling through intelligent meeting routing that enables sales teams to capture and convert leads instantly while maintaining qualification standards and proven effectiveness across high-velocity sales organizations requiring immediate lead response and optimized meeting distribution. This platform provides extensive features for instant booking, lead routing, qualification forms, and handoff automation while offering advanced capabilities like round-robin distribution, territory management, and conversion optimization. Chili Piper's strength lies in its revenue optimization and speed focus, offering specialized scheduling solution that maximizes conversion rates through intelligent automation and proven adoption in competitive sales environments. The platform excels at serving inbound sales teams, SaaS companies, and high-growth organizations requiring immediate lead response with features like instant scheduling, lead scoring, and performance analytics that enable everything from form submissions to booked meetings with minimal friction, intelligent routing, and comprehensive conversion tracking while providing users with revenue-optimized scheduling, instant lead response, and proven methodology for converting website visitors into qualified meetings through intelligent automation that eliminates scheduling delays and optimizes sales team utilization.
+Chili Piper is a revenue-focused scheduling platform that enables sales teams to capture and convert leads instantly through intelligent meeting routing and qualification.
+
+## Key Features
+
+- **Instant booking** - Convert leads to meetings immediately
+- **Intelligent routing** - Route prospects to the right sales rep
+- **Qualification forms** - Screen leads before booking meetings
+- **Round-robin distribution** - Balance meeting load across team
+- **Territory management** - Route by geographic or account rules
+- **Conversion optimization** - Maximize form-to-meeting rates
+- **Performance analytics** - Track conversion metrics and ROI
+
+## Use Cases
+
+- Inbound sales lead conversion
+- SaaS trial-to-meeting automation
+- High-velocity sales operations
+- Lead qualification and routing
+- Revenue optimization
+
+## Get Started with Chili Piper
+
+Convert more leads with intelligent scheduling. Visit [chilipiper.com](https://www.chilipiper.com) to maximize revenue with instant booking.
