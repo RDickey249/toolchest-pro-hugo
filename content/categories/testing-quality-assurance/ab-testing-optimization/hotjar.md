@@ -10,4 +10,26 @@ image: "/images/tools/hotjar-placeholder.jpg"
 
 # Hotjar
 
-Hotjar is a comprehensive user behavior analytics platform that provides heatmaps, session recordings, and feedback tools to help businesses understand how users interact with their websites. The platform's heatmaps visualize where users click, scroll, and move their cursors, revealing patterns and areas of interest or confusion. Hotjar's session recordings capture individual user journeys, showing exactly how visitors navigate through websites and where they encounter difficulties. The platform's conversion funnels identify where users drop off in important processes like checkout flows or form submissions. Hotjar's feedback widgets enable collecting user opinions and suggestions directly on web pages through customizable polls and surveys. The platform's user testing capabilities include recruitment services for gathering feedback from target audiences through moderated sessions. Hotjar's form analysis reveals which form fields cause abandonment and frustration, enabling optimization of lead generation and conversion processes. The platform's recruitment database provides access to users who match specific criteria for targeted research and testing. Hotjar's privacy-first approach includes automatic PII masking, GDPR compliance, and granular data controls. The platform's integration capabilities connect with popular analytics, marketing, and development tools for comprehensive user experience analysis. With its focus on visual analytics and user feedback, Hotjar provides actionable insights that inform website optimization and A/B testing strategies for businesses seeking to improve user experience and conversion rates.
+Hotjar is a user behavior analytics platform that shows how visitors actually use your website. See what users click, where they scroll, and watch session recordings to understand user experience and optimize conversions.
+
+## Key Features
+
+- **Heatmaps** - Visualize clicks, scrolls, and cursor movements
+- **Session recordings** - Watch individual user journeys on your site
+- **Conversion funnels** - Identify where users drop off in key processes
+- **Feedback widgets** - Collect user opinions with polls and surveys
+- **Form analysis** - See which form fields cause abandonment
+- **User recruitment** - Access targeted users for testing and research
+- **Privacy protection** - GDPR compliant with automatic PII masking
+
+## Use Cases
+
+- Website optimization
+- User experience research
+- Conversion rate optimization
+- Form optimization
+- User feedback collection
+
+## Get Started with Hotjar
+
+See how users really interact with your website. Visit [hotjar.com](https://www.hotjar.com) to start your free trial and discover what your visitors are doing.

@@ -1,6 +1,20 @@
 # InVideo
 
-InVideo empowers creators and businesses to produce professional-quality videos through an intuitive platform that combines extensive template libraries with powerful editing tools and AI-assisted features, making sophisticated video creation accessible to users of all skill levels. This comprehensive video creation platform stands out by offering thousands of customizable templates alongside advanced editing capabilities, enabling users to create everything from social media content to marketing campaigns and educational videos. InVideo's strength lies in its balance of pre-designed efficiency and creative flexibility, allowing users to start with professionally designed templates while maintaining full control over customization and branding. The platform excels at serving diverse content creation needs, from quick social media posts to comprehensive marketing campaigns, with features like automated text-to-video conversion, voiceover integration, and collaborative editing. Whether you're a social media manager scaling content production, a marketer creating campaign assets, or an educator developing engaging course materials, InVideo provides the tools and resources to create compelling video content efficiently. Its extensive stock library, brand management features, and export options ensure every video meets professional standards while maintaining brand consistency across all content.
+InVideo is a comprehensive video creation platform that combines 5000+ professional templates with powerful editing tools and AI features. Create everything from social media content to marketing campaigns with intuitive drag-and-drop editing.
+
+---
+title: "InVideo"
+tagline: "Professional video creation with templates and AI tools"
+category: "Video & Audio Tools"
+subcategory: "Video Creation & Editing"
+tool_name: "InVideo"
+deployment_status: "deployed"
+image: "/images/tools/invideo-placeholder.jpg"
+---
+
+# InVideo
+
+InVideo is a comprehensive video creation platform that combines 5000+ professional templates with powerful editing tools and AI features. Create everything from social media content to marketing campaigns with intuitive drag-and-drop editing.
 
 ## Key Features
 
@@ -30,7 +44,9 @@ InVideo empowers creators and businesses to produce professional-quality videos 
 • Learning curve for all features
 • Subscription required for full access
 
-[Create Professional Videos with InVideo →](https://invideo.io)
+## Get Started with InVideo
+
+Create professional videos with templates and AI. Visit [invideo.io](https://invideo.io) to start making stunning videos and see why millions choose InVideo for video creation.
 
 ## How It Compares
 
