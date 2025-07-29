@@ -10,4 +10,26 @@ image: "/images/tools/argo-workflows-placeholder.jpg"
 
 # Argo Workflows
 
-Argo Workflows revolutionizes container-native workflow orchestration through Kubernetes-native pipeline execution that enables teams to define, schedule, and manage complex computational workflows with directed acyclic graphs, parallel processing capabilities, and comprehensive resource management while maintaining cloud-native scalability and extensive integration with Kubernetes ecosystem tools. This workflow engine provides extensive features for pipeline definition, artifact management, conditional execution, and resource optimization while offering advanced capabilities like workflow templates, parameter passing, and comprehensive monitoring dashboards. Argo Workflows' strength lies in its Kubernetes integration and workflow flexibility, offering container-based execution with sophisticated dependency management that scales from simple CI/CD pipelines to complex data processing workflows with automatic retries, resource allocation, and comprehensive logging. The platform excels at serving DevOps teams, data engineers, and MLOps practitioners requiring sophisticated workflow orchestration with features like dynamic workflow generation, artifact repositories, and comprehensive observability that enable everything from continuous integration to machine learning pipelines with workflow scheduling, resource optimization, and execution monitoring while providing teams with declarative workflow definition, extensive CLI tools, and proven Kubernetes reliability that makes complex workflow automation accessible and scalable across diverse computational requirements and organizational needs.
+Argo Workflows is a Kubernetes-native workflow engine for orchestrating parallel jobs, supporting complex pipeline execution with directed acyclic graphs.
+
+## Key Features
+
+- **Container-native** - Each step runs in its own container
+- **DAG workflows** - Define complex dependency graphs
+- **Parallel execution** - Run multiple steps simultaneously
+- **Artifact management** - Pass data between workflow steps
+- **Template system** - Reusable workflow components
+- **Resource management** - CPU and memory resource controls
+- **Web UI** - Visual workflow monitoring and management
+
+## Use Cases
+
+- CI/CD pipeline automation
+- Data processing workflows
+- Machine learning pipelines
+- Batch job orchestration
+- ETL processes
+
+## Get Started with Argo Workflows
+
+Orchestrate complex workflows on Kubernetes. Visit [argoproj.github.io/argo-workflows](https://argoproj.github.io/argo-workflows) to build container-native pipelines.
