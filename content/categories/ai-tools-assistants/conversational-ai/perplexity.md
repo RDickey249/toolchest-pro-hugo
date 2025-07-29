@@ -30,7 +30,12 @@ Perplexity revolutionizes the search experience by combining the power of advanc
 • Less personality than conversational AIs
 • Limited customization options
 
-[Start Researching with Perplexity →](https://www.perplexity.ai)
+## Get Started with Perplexity
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.perplexity.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Perplexity →</a>
+  <a href="https://www.perplexity.ai/pro" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Upgrade to Pro →</a>
+</div>
 
 ## How It Compares
 

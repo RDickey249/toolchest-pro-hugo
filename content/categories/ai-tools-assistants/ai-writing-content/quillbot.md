@@ -29,3 +29,10 @@ Quillbot revolutionizes content creation and refinement through sophisticated AI
 • Limited customization for highly specialized writing styles
 • Can become dependent on tool rather than developing natural writing skills
 • Output quality varies with input text complexity and clarity
+
+## Get Started with Quillbot
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://quillbot.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Quillbot →</a>
+  <a href="https://quillbot.com/premium" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Upgrade Premium →</a>
+</div>
