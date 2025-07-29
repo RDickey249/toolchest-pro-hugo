@@ -30,7 +30,12 @@ Wordtune transforms existing writing into more compelling, clear, and impactful 
 • Not suitable for bulk content creation
 • Can be suggestion-heavy
 
-[Enhance Your Writing with Wordtune →](https://www.wordtune.com)
+## Get Started with Wordtune
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.wordtune.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Wordtune →</a>
+  <a href="https://www.wordtune.com/editor" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Try Free Editor →</a>
+</div>
 
 ## How It Compares
 

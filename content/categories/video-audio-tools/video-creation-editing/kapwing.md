@@ -30,7 +30,12 @@ Kapwing democratizes creative content production with an all-in-one platform tha
 • Internet connection required
 • Storage limitations
 
-[Create with Kapwing →](https://www.kapwing.com)
+## Get Started with Kapwing
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.kapwing.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Kapwing →</a>
+  <a href="https://www.kapwing.com/studio" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Creating →</a>
+</div>
 
 ## How It Compares
 

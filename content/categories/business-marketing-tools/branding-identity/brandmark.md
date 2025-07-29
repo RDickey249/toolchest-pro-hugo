@@ -30,7 +30,12 @@ Brandmark transforms logo creation through advanced AI that generates unique, pr
 • Fewer industry-specific templates
 • Can be overwhelming with options
 
-[Design Your Brand with Brandmark →](https://brandmark.io)
+## Get Started with Brandmark
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://brandmark.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Brandmark →</a>
+  <a href="https://brandmark.io/logo-rank/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Logo →</a>
+</div>
 
 ## How It Compares
 
