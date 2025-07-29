@@ -10,4 +10,27 @@ image: "/images/tools/bazaar-placeholder.jpg"
 
 # Bazaar
 
-Bazaar revolutionizes decentralized version control through adaptive workflow support and user-friendly command structure that enable developers to work with multiple collaboration models including centralized, distributed, and hybrid approaches while maintaining comprehensive branching capabilities and extensive integration with popular development tools and hosting platforms. This version control system provides extensive features for flexible branching, smart merging, repository management, and cross-platform compatibility while offering advanced capabilities like shelf functionality, lightweight checkouts, and comprehensive plugin architecture. Bazaar's strength lies in its workflow flexibility and ease of use, offering intuitive version control with adaptive collaboration models that accommodate diverse team structures and development methodologies with consistent command semantics and helpful user guidance. The platform excels at serving teams requiring workflow flexibility, developers transitioning between VCS systems, and organizations needing adaptable version control with features like bound branches, standalone trees, and comprehensive conflict resolution that enable everything from solo development to complex team collaboration with workflow customization, merge intelligence, and repository synchronization while providing users with helpful command guidance, extensive documentation, and proven cross-platform reliability that makes flexible version control accessible and adaptable across diverse development environments and team collaboration patterns.
+Bazaar is a decentralized version control system with adaptive workflow support, enabling multiple collaboration models from centralized to fully distributed development.
+
+## Key Features
+
+- **Adaptive workflows** - Support for centralized, distributed, and hybrid models
+- **User-friendly commands** - Intuitive interface with helpful guidance
+- **Flexible branching** - Bound branches, standalone trees, and lightweight checkouts
+- **Smart merging** - Intelligent conflict resolution and merge tracking
+- **Shelf functionality** - Save work-in-progress without committing
+- **Plugin architecture** - Extensible with comprehensive plugin system
+- **Cross-platform** - Consistent behavior across operating systems
+- **Workflow customization** - Adapt to various team structures and methodologies
+
+## Use Cases
+
+- Teams requiring flexible workflow adaptation
+- Organizations transitioning between version control systems
+- Projects needing both centralized and distributed capabilities
+- Developers preferring user-friendly command interfaces
+- Mixed environments with diverse collaboration needs
+
+## Get Started with Bazaar
+
+Adapt version control to your workflow with flexible collaboration models. Visit [bazaar-vcs.org](http://bazaar-vcs.org) to customize development processes.
