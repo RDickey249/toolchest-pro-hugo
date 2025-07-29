@@ -10,4 +10,26 @@ image: "/images/tools/greenhouse-placeholder.jpg"
 
 # Greenhouse
 
-Greenhouse provides comprehensive hiring platform capabilities designed to help organizations build effective and efficient recruitment processes. This platform offers advanced applicant tracking, interview scheduling, candidate evaluation tools, and hiring analytics that optimize the entire recruitment lifecycle. Users benefit from structured interview processes, collaborative hiring workflows, and data-driven hiring insights that improve hiring quality and speed. Greenhouse emphasizes hiring best practices through built-in templates, customizable workflows, and comprehensive reporting capabilities. The platform excels at serving organizations that prioritize hiring quality and process improvement, offering sophisticated tools for creating consistent, fair, and effective hiring processes while providing the analytics needed to continuously optimize recruitment performance and outcomes.
+Greenhouse is a comprehensive hiring platform designed to help organizations build effective recruitment processes. Advanced applicant tracking, structured interviews, and data-driven insights optimize hiring quality and speed.
+
+## Key Features
+
+- **Advanced applicant tracking** - Complete candidate pipeline management
+- **Structured interviews** - Consistent evaluation processes and scorecards
+- **Collaborative hiring** - Team-based candidate evaluation and feedback
+- **Interview scheduling** - Automated scheduling and calendar integration
+- **Hiring analytics** - Data-driven insights and performance metrics
+- **Custom workflows** - Tailored hiring processes for different roles
+- **Diversity and inclusion** - Tools to reduce bias and improve diversity
+
+## Use Cases
+
+- Enterprise-level recruiting
+- Structured hiring processes
+- Team-based candidate evaluation
+- Data-driven hiring optimization
+- Diversity and inclusion initiatives
+
+## Get Started with Greenhouse
+
+Build better hiring processes. Visit [greenhouse.io](https://www.greenhouse.io) to start hiring and see why leading companies choose Greenhouse for recruitment.

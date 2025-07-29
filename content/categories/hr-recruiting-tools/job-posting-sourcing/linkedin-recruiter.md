@@ -10,4 +10,26 @@ image: "/images/tools/linkedin-recruiter-placeholder.jpg"
 
 # LinkedIn Recruiter
 
-LinkedIn Recruiter provides comprehensive professional network recruiting capabilities that leverage the world's largest professional network for talent acquisition. This platform offers advanced search functionality, candidate outreach tools, and recruiting analytics designed to find and engage top professional talent. Users benefit from access to millions of professional profiles, advanced filtering capabilities, and integrated communication tools that streamline the sourcing and engagement process. LinkedIn Recruiter emphasizes relationship-driven recruiting through professional networking features, InMail messaging, and comprehensive candidate tracking. The platform excels at serving organizations that need access to passive candidates and professional talent, offering unparalleled reach into the professional community while providing sophisticated tools for identifying, engaging, and tracking potential candidates across all industries and experience levels.
+LinkedIn Recruiter is the premium recruiting platform that leverages the world's largest professional network for talent acquisition. Advanced search and outreach tools help find and engage top professional talent and passive candidates.
+
+## Key Features
+
+- **Advanced search** - Sophisticated filters to find exact talent matches
+- **InMail messaging** - Direct outreach to candidates not in your network
+- **Professional profiles** - Access to millions of detailed professional profiles
+- **Passive candidate reach** - Connect with candidates not actively job searching
+- **Candidate tracking** - Comprehensive pipeline and relationship management
+- **Recruiting analytics** - Performance insights and sourcing metrics
+- **Team collaboration** - Share candidates and collaborate on hiring
+
+## Use Cases
+
+- Executive and senior-level recruiting
+- Passive candidate sourcing
+- Professional and technical hiring
+- Global talent acquisition
+- Relationship-driven recruiting
+
+## Get Started with LinkedIn Recruiter
+
+Access the world's professional talent. Visit [business.linkedin.com/talent-solutions/recruiter](https://business.linkedin.com/talent-solutions/recruiter) to start recruiting and see why top companies choose LinkedIn Recruiter.

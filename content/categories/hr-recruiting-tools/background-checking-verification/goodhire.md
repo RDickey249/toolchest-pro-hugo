@@ -10,4 +10,26 @@ image: "/images/tools/goodhire-placeholder.jpg"
 
 # GoodHire
 
-GoodHire delivers comprehensive online background checks capabilities that provide fast, affordable, and accurate employment screening through user-friendly digital platforms. This platform offers criminal background checks, employment verification, education verification, and identity checks designed for small to medium-sized businesses seeking reliable screening services. Users benefit from transparent pricing, fast turnaround times, and intuitive online interfaces that simplify the background check process. GoodHire emphasizes accessibility through affordable pricing, user-friendly technology, and comprehensive screening options that make professional background checking accessible to organizations of all sizes. The platform excels at serving small and medium-sized businesses that need reliable background screening without enterprise complexity, offering professional-grade screening services that provide thorough candidate evaluation while maintaining simplicity and affordability.
+GoodHire is an online background check platform that provides fast, affordable, and accurate employment screening for small to medium-sized businesses. User-friendly technology makes professional screening accessible and simple.
+
+## Key Features
+
+- **Fast turnaround** - Quick background check processing and results
+- **Transparent pricing** - Clear, upfront costs with no hidden fees
+- **Criminal background checks** - Comprehensive criminal history screening
+- **Employment verification** - Confirm work history and references
+- **Education verification** - Validate academic credentials
+- **Identity verification** - Confirm candidate identity and credentials
+- **User-friendly platform** - Intuitive online interface for easy ordering
+
+## Use Cases
+
+- Small business hiring
+- Affordable employment screening
+- Simple background verification
+- Fast hiring decisions
+- Compliance-friendly screening
+
+## Get Started with GoodHire
+
+Affordable background checks made simple. Visit [goodhire.com](https://www.goodhire.com) to start screening and see why small businesses choose GoodHire for background verification.

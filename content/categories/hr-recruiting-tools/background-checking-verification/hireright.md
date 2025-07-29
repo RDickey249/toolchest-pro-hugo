@@ -10,4 +10,26 @@ image: "/images/tools/hireright-placeholder.jpg"
 
 # HireRight
 
-HireRight delivers comprehensive employment screening capabilities that provide thorough background verification services for organizations of all sizes. This platform offers criminal background checks, employment history verification, education verification, and specialized screening services designed to support safe and informed hiring decisions. Users benefit from comprehensive screening options, global verification capabilities, and expert compliance guidance that ensures thorough candidate evaluation. HireRight emphasizes screening excellence through extensive verification networks, comprehensive reporting, and professional service support that enhances hiring confidence. The platform excels at serving organizations that require comprehensive employment screening with global reach, offering professional-grade background verification services that support confident hiring decisions while maintaining compliance with complex employment screening regulations across multiple jurisdictions.
+HireRight is a comprehensive employment screening platform that provides thorough background verification services for organizations of all sizes. Global verification capabilities and expert compliance guidance ensure confident hiring decisions.
+
+## Key Features
+
+- **Criminal background checks** - Comprehensive criminal history screening
+- **Employment verification** - Confirm work history and references
+- **Education verification** - Validate academic credentials and degrees
+- **Global screening** - International background verification capabilities
+- **Compliance expertise** - Guidance on employment screening regulations
+- **Professional reporting** - Detailed verification reports and insights
+- **Specialized services** - Industry-specific screening requirements
+
+## Use Cases
+
+- Enterprise employment screening
+- Global workforce verification
+- Compliance-critical hiring
+- High-security position screening
+- International employee verification
+
+## Get Started with HireRight
+
+Make confident hiring decisions with comprehensive screening. Visit [hireright.com](https://www.hireright.com) to start screening and see why enterprises choose HireRight for employment verification.
