@@ -10,4 +10,26 @@ image: "/images/tools/newman-placeholder.jpg"
 
 # Newman
 
-Newman is Postman's command-line collection runner that enables automated execution of Postman collections in CI/CD pipelines, server environments, and automated testing workflows. The tool provides seamless integration between Postman's visual API testing environment and automated deployment processes. Newman's extensive reporting options include JSON, JUnit XML, HTML, and custom reporter formats that integrate with various CI/CD platforms and testing dashboards. The tool's environment and global variable support enables dynamic configuration for different testing environments and scenarios. Newman's iteration capabilities allow running collections multiple times with different data sets for comprehensive testing coverage. The tool's timeout and retry configuration options provide robust handling of network issues and service availability. Newman's integration with CI/CD platforms like Jenkins, GitHub Actions, and Azure DevOps enables automated API testing as part of deployment pipelines. The tool's Docker support simplifies deployment and execution in containerized environments. Newman's programmatic API allows embedding collection execution within larger automation frameworks and custom testing solutions. The tool's extensive command-line options provide fine-grained control over execution parameters, output formatting, and error handling. With its ability to bridge the gap between Postman's user-friendly interface and automated testing requirements, Newman has become essential for organizations seeking to maintain API quality through continuous testing.
+Newman is Postman's command-line collection runner that enables automated execution of Postman collections in CI/CD pipelines and testing workflows. Seamless integration between Postman's visual interface and automated deployment processes.
+
+## Key Features
+
+- **Command-line execution** - Run Postman collections from terminal or scripts
+- **CI/CD integration** - Works with Jenkins, GitHub Actions, Azure DevOps
+- **Multiple report formats** - JSON, JUnit XML, HTML, and custom reporters
+- **Environment variables** - Dynamic configuration for different environments
+- **Iteration support** - Run collections multiple times with different data
+- **Docker support** - Easy deployment in containerized environments
+- **Programmatic API** - Embed in larger automation frameworks
+
+## Use Cases
+
+- Automated API testing in CI/CD
+- Continuous testing pipelines
+- Server-side test execution
+- Batch API testing
+- Integration testing
+
+## Get Started with Newman
+
+Automate your Postman tests with command-line power. Visit [npmjs.com/package/newman](https://www.npmjs.com/package/newman) to install Newman and run your API collections anywhere.

@@ -10,4 +10,26 @@ image: "/images/tools/luma-fusion-placeholder.jpg"
 
 # Luma Fusion
 
-Luma Fusion revolutionizes mobile video editing through professional-grade mobile tools that enable sophisticated editing while maintaining portability and proven effectiveness across mobile content creators requiring desktop-class editing capabilities and professional workflows on mobile devices for on-the-go video production. This platform provides extensive features for multi-track editing, color correction, audio mixing, and effects while offering advanced capabilities like keyframe animation, green screen compositing, and professional export options. Luma Fusion's strength lies in its mobile optimization and professional features, offering complete mobile editing solution that brings desktop capabilities to mobile devices and proven adoption among mobile-first content creators. The platform excels at serving mobile videographers, content creators, and professionals requiring portable editing with features like multiple video tracks, advanced effects, and professional output that enable everything from social media content to broadcast-quality productions with mobile convenience, professional capabilities, and comprehensive editing tools while providing users with professional mobile editor, desktop-class features, and proven methodology for creating high-quality video content through mobile-optimized workflows and advanced editing capabilities.
+Luma Fusion is a professional mobile video editing app that brings desktop-class capabilities to iOS and Android devices. Multi-track editing, color correction, and advanced effects make it the go-to choice for mobile video production.
+
+## Key Features
+
+- **Multi-track editing** - Up to 6 video and audio tracks
+- **Professional effects** - Color correction, LUTs, and visual effects
+- **Keyframe animation** - Precise control over effects and properties
+- **Green screen compositing** - Advanced chroma key capabilities
+- **Audio mixing** - Professional audio editing and mixing tools
+- **4K export** - High-quality output in multiple formats
+- **Project management** - Organize and manage complex projects
+
+## Use Cases
+
+- Mobile video production
+- Social media content creation
+- Documentary filming
+- YouTube video editing
+- Professional on-location editing
+
+## Get Started with Luma Fusion
+
+Edit professional videos on your mobile device. Visit [lumafusion.com](https://luma-touch.com/lumafusion/) to get started and see why creators choose Luma Fusion for mobile editing.
