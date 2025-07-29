@@ -10,4 +10,27 @@ image: "/images/tools/rollup-placeholder.jpg"
 
 # Rollup
 
-Rollup transforms JavaScript bundling through its specialized focus on ES modules and tree-shaking optimization that produces lean, efficient bundles by eliminating unused code at the module level, making it the preferred choice for library development and applications where bundle size and performance are critical considerations while maintaining clean, readable output code. This sophisticated bundler excels at static analysis of ES module imports and exports to create optimized bundles that include only the code actually used by the application, while its plugin architecture enables extensive customization for different output formats including UMD, CommonJS, and ES modules that support diverse deployment scenarios from browser applications to Node.js libraries. Rollup's strength lies in its optimization capabilities and clean output generation, producing bundles that are often significantly smaller than those created by other bundlers due to its advanced tree-shaking algorithms and efficient scope hoisting, while its configuration system provides precise control over build processes without the complexity that can overwhelm developers working on simpler projects. The platform dominates library development and performance-critical applications where its ability to produce minimal, optimized bundles makes it ideal for creating reusable components, utility libraries, and applications that need to minimize their JavaScript footprint, while its integration with modern development workflows through plugins for TypeScript, PostCSS, and other tools ensures compatibility with contemporary development practices while maintaining its core focus on producing efficient, production-ready code.
+Rollup is an ES module-focused JavaScript bundler that specializes in tree-shaking optimization to produce lean, efficient bundles by eliminating unused code at the module level.
+
+## Key Features
+
+- **Advanced tree-shaking** - Eliminates unused code with ES module static analysis
+- **Multiple output formats** - UMD, CommonJS, ES modules, and IIFE support
+- **Clean output** - Readable, optimized bundles with efficient scope hoisting
+- **Plugin ecosystem** - Extensive plugins for TypeScript, PostCSS, and more
+- **Library optimization** - Ideal for creating reusable components and libraries
+- **Code splitting** - Dynamic imports and automatic code splitting
+- **Zero-config mode** - Simple setup for common use cases
+- **Production optimization** - Minification, compression, and performance optimization
+
+## Use Cases
+
+- JavaScript library development
+- Performance-critical applications
+- ES module-based projects
+- Reusable component creation
+- Bundle size optimization
+
+## Get Started with Rollup
+
+Bundle JavaScript efficiently with advanced tree-shaking optimization. Visit [rollupjs.org](https://rollupjs.org) to create lean bundles.
