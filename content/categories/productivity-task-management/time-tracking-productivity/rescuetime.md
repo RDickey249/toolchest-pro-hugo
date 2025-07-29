@@ -13,7 +13,11 @@ subcategories: ["Time Tracking & Productivity"]
 
 # RescueTime
 
-RescueTime revolutionizes personal productivity through automatic time tracking and detailed analytics that provide comprehensive insights into digital habits, work patterns, and productivity trends without requiring manual input or disruptive monitoring, enabling individuals and teams to understand and optimize their relationship with technology while building sustainable productivity practices. This intelligent platform addresses the challenge of digital distraction and productivity optimization by providing objective data about time usage across applications, websites, and digital activities, enabling users to make informed decisions about their digital habits while maintaining privacy and focusing on personal improvement rather than surveillance. RescueTime's strength lies in its passive, intelligent tracking combined with actionable insights and goal-setting features, offering comprehensive productivity analytics through seamless background monitoring that promotes self-awareness and productivity optimization without disrupting workflow or requiring constant attention to tracking activities. The platform excels at serving knowledge workers seeking productivity optimization, remote employees tracking work patterns, teams analyzing collective productivity trends, and individuals working to build better digital habits and work-life balance through data-driven insights and behavior modification tools. Its comprehensive feature set includes automatic activity tracking, productivity scoring, goal setting, distraction blocking, detailed analytics, and habit formation tools that transform productivity management from guesswork and manual tracking into data-driven optimization that supports both immediate productivity improvements and long-term habit development. Whether you're optimizing personal productivity, analyzing team work patterns, or building better digital habits, RescueTime provides the intelligent tracking platform that delivers actionable insights while maintaining the privacy and ease of use that supports sustainable productivity improvement and digital wellness.
+RescueTime provides automatic time tracking and detailed analytics to help individuals and teams understand and optimize their digital habits and productivity patterns.
+
+## Get Started with RescueTime
+
+Understand and optimize your productivity with automatic tracking. Visit [rescuetime.com](https://www.rescuetime.com) to build better digital habits and work patterns.
 
 ## Key Features
 

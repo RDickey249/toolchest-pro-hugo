@@ -2,6 +2,10 @@
 
 Freedcamp democratizes professional project management by providing a comprehensive, feature-rich platform that offers enterprise-level project coordination capabilities completely free for unlimited users, making sophisticated project management accessible to organizations of any size without the financial barriers typically associated with professional project management software. This generous platform addresses the critical challenge faced by startups, nonprofits, and budget-conscious organizations that need powerful project management capabilities but cannot justify expensive software licensing costs, providing all essential project management features without compromising functionality or user limits. Freedcamp's strength lies in its ability to deliver serious project management capabilities—including task management, time tracking, project templates, and team collaboration—while maintaining a completely free tier that supports unlimited projects and team members, making it particularly valuable for growing organizations, volunteer-driven projects, and teams exploring project management solutions. The platform excels at serving nonprofit organizations coordinating volunteer initiatives, startups managing product development on tight budgets, educational institutions organizing academic projects, and small businesses seeking comprehensive project management without ongoing software costs. Its extensive feature set includes project planning, milestone tracking, file sharing, team communication, and basic reporting that transforms project management from a luxury reserved for well-funded organizations into an accessible capability that any team can leverage to improve organization, coordination, and project success rates regardless of budget constraints.
 
+## Get Started with Freedcamp
+
+Access professional project management completely free. Visit [freedcamp.com](https://freedcamp.com) to manage unlimited projects and users without cost.
+
 ## Key Features
 
 • **Unlimited free usage** - Complete project management platform with no user limits or project restrictions
