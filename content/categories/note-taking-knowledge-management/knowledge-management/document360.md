@@ -10,4 +10,26 @@ image: "/images/tools/document360-placeholder.jpg"
 
 # Document360
 
-Document360 revolutionizes customer documentation through comprehensive knowledge management that enables businesses to create public and private knowledge bases while reducing support workload and proven effectiveness across companies requiring both customer-facing and internal documentation solutions. This platform provides extensive features for article management, site customization, analytics tracking, and team collaboration while offering advanced capabilities like workflow automation, advanced permissions, and API documentation tools. Document360's strength lies in its dual-purpose design and comprehensive features, offering complete documentation solution that serves both customers and internal teams through unified platform and proven scalability across diverse use cases. The platform excels at serving SaaS companies, support teams, and organizations requiring comprehensive documentation with features like approval workflows, version control, and feedback management that enable everything from customer help centers to internal wikis with advanced search, custom branding, and integration capabilities while providing users with professional interfaces, detailed analytics, and proven framework for creating documentation that effectively serves both customer support and internal knowledge sharing needs.
+Document360 is a comprehensive knowledge management platform that enables businesses to create both public customer-facing and private internal knowledge bases with professional design and analytics.
+
+## Key Features
+
+- **Dual knowledge bases** - Public customer help centers and private internal wikis
+- **Article management** - Rich editor with version control and approval workflows
+- **Custom branding** - Professional design with custom themes and domains
+- **Advanced search** - Powerful search with filters and suggestions
+- **Analytics tracking** - Detailed insights on content performance and user behavior
+- **API documentation** - Specialized tools for developer documentation
+- **Team collaboration** - Multi-author editing with feedback management
+
+## Use Cases
+
+- Customer help centers and support documentation
+- Internal team wikis and knowledge sharing
+- API and developer documentation
+- Product documentation and user guides
+- SaaS company knowledge management
+
+## Get Started with Document360
+
+Create professional knowledge bases for customers and teams. Visit [document360.com](https://document360.com) to reduce support tickets and improve knowledge sharing.

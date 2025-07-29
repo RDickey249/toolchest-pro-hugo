@@ -10,4 +10,26 @@ image: "/images/tools/freshsales-placeholder.jpg"
 
 # Freshsales
 
-Freshsales revolutionizes modern sales CRM through intuitive design that enables sales teams to manage leads and deals efficiently while maintaining user-friendly experience and proven effectiveness across businesses requiring contemporary CRM solutions with minimal learning curve. This platform provides extensive features for contact management, deal tracking, email integration, and sales analytics while offering advanced capabilities like phone integration, workflow automation, and AI-powered insights. Freshsales' strength lies in its modern interface and ease of use, offering accessible CRM solution that balances functionality with simplicity through thoughtful design and proven adoption among teams seeking user-friendly tools. The platform excels at serving small to medium businesses, sales teams, and organizations requiring modern CRM with features like built-in phone, email tracking, and visual pipeline that enable everything from lead qualification to deal closure with intuitive user experience, comprehensive contact management, and integrated communication tools while providing users with modern interfaces, straightforward setup, and proven methodology for implementing CRM solutions that teams actually want to use and can adopt quickly without extensive training.
+Freshsales is a modern, intuitive CRM platform that enables sales teams to manage leads and deals efficiently with user-friendly design and comprehensive features.
+
+## Key Features
+
+- **Visual sales pipeline** - Drag-and-drop deal management with customizable stages
+- **Contact management** - 360-degree customer view with interaction history
+- **Built-in phone** - Make calls directly from the CRM with call logging
+- **Email integration** - Track emails and automate follow-up sequences
+- **AI-powered insights** - Predictive analytics and deal scoring
+- **Workflow automation** - Automate repetitive tasks and processes
+- **Mobile apps** - Full-featured mobile CRM for on-the-go access
+
+## Use Cases
+
+- Small to medium business CRM needs
+- Sales pipeline management and tracking
+- Lead qualification and nurturing
+- Customer communication management
+- Sales team performance optimization
+
+## Get Started with Freshsales
+
+Modernize your sales process with intuitive CRM. Visit [freshworks.com/freshsales-crm](https://www.freshworks.com/freshsales-crm) to manage leads and close deals efficiently.

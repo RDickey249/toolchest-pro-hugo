@@ -10,4 +10,26 @@ image: "/images/tools/outreach-placeholder.jpg"
 
 # Outreach
 
-Outreach revolutionizes sales engagement through comprehensive sequence automation that enables sales teams to scale personalized outreach while maintaining relationship quality and proven effectiveness across enterprise sales organizations requiring systematic prospect engagement and pipeline acceleration. This platform provides extensive features for email sequences, call automation, social selling, and performance analytics while offering advanced capabilities like AI-powered insights, conversation intelligence, and revenue attribution. Outreach's strength lies in its enterprise focus and sequence sophistication, offering complete sales engagement solution that automates repetitive tasks through intelligent workflows and proven adoption in high-performance sales organizations. The platform excels at serving enterprise sales teams, SDR organizations, and complex sales processes requiring systematic outreach with features like A/B testing, territory management, and coaching tools that enable everything from prospecting automation to deal acceleration with comprehensive analytics, team coordination, and performance optimization while providing users with enterprise-grade reliability, advanced automation capabilities, and proven methodology for scaling sales outreach that maintains personalization while dramatically increasing efficiency and consistency.
+Outreach is the leading sales engagement platform that enables teams to scale personalized outreach through comprehensive sequence automation and performance analytics.
+
+## Key Features
+
+- **Email sequences** - Multi-touch automated outreach campaigns
+- **Call automation** - Integrated calling with local presence and recording
+- **Social selling** - LinkedIn and social media engagement tools
+- **AI-powered insights** - Predictive analytics and conversation intelligence
+- **A/B testing** - Optimize messaging and sequence performance
+- **Revenue attribution** - Track outreach impact on pipeline and deals
+- **Team coaching** - Performance analytics and coaching tools
+
+## Use Cases
+
+- Enterprise sales development and outreach
+- Account-based marketing and sales
+- Pipeline acceleration and deal closing
+- Sales team performance optimization
+- Systematic prospect engagement
+
+## Get Started with Outreach
+
+Scale personalized sales engagement with comprehensive automation. Visit [outreach.io](https://www.outreach.io) to accelerate your sales development efforts.

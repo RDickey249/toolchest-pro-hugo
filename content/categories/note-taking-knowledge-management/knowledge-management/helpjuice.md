@@ -10,4 +10,26 @@ image: "/images/tools/helpjuice-placeholder.jpg"
 
 # Helpjuice
 
-Helpjuice revolutionizes customer support knowledge through dedicated knowledge base platform that enables companies to reduce support tickets while improving customer satisfaction and proven effectiveness across organizations prioritizing self-service customer support solutions. This platform provides extensive features for article creation, advanced search, customization options, and analytics tracking while offering advanced capabilities like multi-language support, team collaboration, and integration ecosystem. Helpjuice's strength lies in its customer-focused design and support optimization, offering specialized knowledge base that improves support efficiency through intelligent organization and proven ROI in ticket reduction. The platform excels at serving customer support teams, SaaS companies, and service organizations requiring customer-facing documentation with features like article suggestions, feedback collection, and performance analytics that enable everything from FAQ management to comprehensive help centers with custom branding, SEO optimization, and user behavior tracking while providing users with customer-centric interfaces, comprehensive analytics, and proven methodology for creating knowledge bases that effectively deflect support tickets while enhancing customer experience.
+Helpjuice is a customer-focused knowledge base platform designed to reduce support tickets while improving customer satisfaction through comprehensive self-service documentation.
+
+## Key Features
+
+- **Advanced search** - Intelligent search with auto-suggestions and filters
+- **Custom branding** - Professional design with custom themes and domains
+- **Multi-language support** - Localized content for global customers
+- **Analytics tracking** - Detailed insights on article performance and user behavior
+- **Article suggestions** - AI-powered content recommendations
+- **Team collaboration** - Multi-author editing and approval workflows
+- **SEO optimization** - Built-in SEO tools for better search visibility
+
+## Use Cases
+
+- Customer support self-service portals
+- SaaS product documentation
+- FAQ and help center management
+- Internal team knowledge sharing
+- Multilingual customer support
+
+## Get Started with Helpjuice
+
+Reduce support tickets with customer-focused knowledge bases. Visit [helpjuice.com](https://helpjuice.com) to improve customer satisfaction through self-service.
