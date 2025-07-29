@@ -10,4 +10,26 @@ image: "/images/tools/glide-placeholder.jpg"
 
 # Glide
 
-Glide revolutionizes spreadsheet-to-app transformation through no-code mobile app creation that enables functional applications while maintaining simplicity and proven effectiveness across users requiring quick app development and data-driven mobile solutions without programming expertise or complex development processes. This platform provides extensive features for data integration, component libraries, user authentication, and app publishing while offering advanced capabilities like real-time updates, offline functionality, and custom actions. Glide's strength lies in its data-centric approach and ease of use, offering complete app solution that transforms existing data into mobile experiences through intuitive tools and proven adoption among business users and rapid prototypers. The platform excels at serving small businesses, educators, and teams requiring data-driven apps with features like spreadsheet integration, drag-and-drop interface, and instant publishing that enable everything from internal tools to customer-facing apps with data synchronization, mobile optimization, and quick deployment while providing users with no-code app builder, data-driven functionality, and proven methodology for creating mobile applications through spreadsheet-based development and simplified app creation workflows.
+Glide is a no-code app builder that transforms spreadsheets into mobile and web apps. Turn your Google Sheets or Excel data into professional applications with drag-and-drop simplicity.
+
+## Key Features
+
+- **Spreadsheet integration** - Build apps directly from Google Sheets or Excel
+- **Drag-and-drop builder** - Create apps without coding
+- **Real-time data sync** - Apps update automatically with data changes
+- **User authentication** - Built-in login and user management
+- **Offline functionality** - Apps work without internet connection
+- **Custom actions** - Add interactive features and workflows
+- **Instant publishing** - Deploy apps immediately to web and mobile
+
+## Use Cases
+
+- Internal business tools
+- Customer-facing apps
+- Data dashboards and reports
+- Directory and catalog apps
+- Event and inventory management
+
+## Get Started with Glide
+
+Turn spreadsheets into apps in minutes. Visit [glideapps.com](https://www.glideapps.com) to start building and see why businesses choose Glide for no-code apps.

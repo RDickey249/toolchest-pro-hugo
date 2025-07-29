@@ -10,4 +10,26 @@ image: "/images/tools/gravit-designer-placeholder.jpg"
 
 # Gravit Designer
 
-Gravit Designer revolutionizes cross-platform vector design through browser-based accessibility that enables designers to create professional graphics from any device while maintaining consistency and proven effectiveness across users requiring flexible design tools and platform-independent creative workflows without software installation barriers. This platform provides extensive features for vector illustration, typography, layout design, and export options while offering advanced capabilities like cloud synchronization, offline editing, and collaborative sharing. Gravit Designer's strength lies in its accessibility and cross-platform compatibility, offering complete design solution that works everywhere through browser technology and proven adoption among mobile and distributed designers. The platform excels at serving traveling designers, education, and teams requiring device flexibility with features like cloud storage, responsive interface, and universal compatibility that enable everything from icon design to marketing materials with platform independence, seamless synchronization, and professional capabilities while providing users with accessible design tools, cross-platform functionality, and proven methodology for creating vector graphics through browser-based design workflows and comprehensive cloud integration.
+Gravit Designer is a cross-platform vector design tool that works in your browser or as a desktop app. Create professional graphics, logos, and illustrations with powerful vector tools accessible from any device.
+
+## Key Features
+
+- **Cross-platform** - Works on any device via browser or desktop app
+- **Vector illustration** - Professional drawing and design tools
+- **Cloud synchronization** - Access your work from anywhere
+- **Typography tools** - Advanced text handling and font management
+- **Layout design** - Multi-page documents and design systems
+- **Offline editing** - Work without internet connection
+- **Export options** - Multiple formats including SVG, PNG, PDF
+
+## Use Cases
+
+- Logo and brand design
+- Web graphics and icons
+- Print design and layouts
+- Illustration and artwork
+- Cross-device design workflows
+
+## Get Started with Gravit Designer
+
+Design professional graphics anywhere. Visit [gravit.io](https://www.gravit.io) to start creating and see why designers choose Gravit for cross-platform vector design.

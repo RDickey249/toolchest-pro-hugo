@@ -10,4 +10,26 @@ image: "/images/tools/pixlr-placeholder.jpg"
 
 # Pixlr
 
-Pixlr revolutionizes accessible photo editing through browser-based editor that enables quick image enhancements while maintaining convenience and proven effectiveness across users requiring immediate photo editing capabilities and web-accessible creative tools without software installation requirements. This platform provides extensive features for photo adjustment, filter application, collage creation, and quick edits while offering advanced capabilities like layer support, AI-powered tools, and template libraries. Pixlr's strength lies in its accessibility and ease of use, offering complete photo editing solution that works instantly through web browsers and proven adoption among casual editors and social media users. The platform excels at serving content creators, social media managers, and casual users requiring quick photo editing with features like one-click enhancements, social media templates, and instant sharing that enable everything from basic corrections to creative compositions with browser convenience, AI assistance, and user-friendly interface while providing users with accessible photo editing, instant web access, and proven methodology for enhancing images through simplified editing workflows and template-based creativity.
+Pixlr is a browser-based photo editor that provides powerful image editing tools accessible instantly online. Edit photos, apply filters, and create graphics without downloading software.
+
+## Key Features
+
+- **Browser-based editing** - No software installation required
+- **Photo adjustments** - Professional color correction and enhancement tools
+- **Filter library** - Hundreds of creative filters and effects
+- **Layer support** - Advanced editing with multiple layers
+- **AI-powered tools** - Smart enhancement and background removal
+- **Template library** - Ready-made designs for social media
+- **Collage creation** - Combine multiple photos creatively
+
+## Use Cases
+
+- Quick photo editing and enhancement
+- Social media content creation
+- Basic graphic design
+- Photo collages and compositions
+- Mobile-friendly editing
+
+## Get Started with Pixlr
+
+Edit photos instantly in your browser. Visit [pixlr.com](https://pixlr.com) to start editing and see why millions choose Pixlr for quick photo editing.

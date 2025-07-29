@@ -10,4 +10,26 @@ image: "/images/tools/carrd-placeholder.jpg"
 
 # Carrd
 
-Carrd revolutionizes single-page website creation through focused simplicity that enables beautiful landing pages while maintaining efficiency and proven effectiveness across users requiring quick website deployment and minimalist web presence without complexity or overwhelming feature sets. This platform provides extensive features for responsive design, form integration, custom domains, and analytics while offering advanced capabilities like conditional logic, embed support, and A/B testing. Carrd's strength lies in its focus and pricing, offering complete one-page solution that excels at specific use cases through streamlined tools and proven adoption among individuals and small projects requiring simple web presence. The platform excels at serving freelancers, personal brands, and simple business needs requiring focused websites with features like drag-and-drop building, template variety, and affordable pricing that enable everything from portfolios to landing pages with design simplicity, fast loading, and cost-effective hosting while providing users with focused website builder, one-page specialization, and proven methodology for creating effective single-page websites through minimalist design principles and streamlined development workflows.
+Carrd is a simple website builder focused on creating beautiful one-page sites. Build landing pages, portfolios, and personal sites quickly with minimal complexity and affordable pricing.
+
+## Key Features
+
+- **One-page focus** - Specialized for single-page websites
+- **Responsive design** - Mobile-friendly sites automatically
+- **Drag-and-drop builder** - Simple, intuitive site creation
+- **Form integration** - Contact forms and data collection
+- **Custom domains** - Use your own domain name
+- **Template variety** - Professional designs for different use cases
+- **Affordable pricing** - Free and low-cost paid plans
+
+## Use Cases
+
+- Personal portfolios and resumes
+- Landing pages for products
+- Simple business websites
+- Event pages and announcements
+- Link-in-bio pages
+
+## Get Started with Carrd
+
+Build beautiful one-page sites in minutes. Visit [carrd.co](https://carrd.co) to start creating and see why thousands choose Carrd for simple websites.

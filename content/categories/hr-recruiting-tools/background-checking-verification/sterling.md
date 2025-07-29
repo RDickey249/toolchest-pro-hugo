@@ -10,4 +10,26 @@ image: "/images/tools/sterling-placeholder.jpg"
 
 # Sterling
 
-Sterling provides comprehensive background verification capabilities that deliver thorough employment screening and identity verification services for confident hiring decisions. This platform offers criminal background checks, identity verification, employment history checks, and specialized screening services designed to support safe hiring across all industries. Users benefit from comprehensive verification options, advanced technology platforms, and expert compliance support that ensures thorough candidate evaluation. Sterling emphasizes verification accuracy through extensive database access, multi-layered verification processes, and professional screening expertise that enhances hiring confidence. The platform excels at serving organizations that require comprehensive background verification with professional service support, offering enterprise-grade screening capabilities that provide thorough candidate evaluation while maintaining compliance with complex employment screening regulations and industry-specific requirements.
+Sterling is a comprehensive background verification platform that provides employment screening and identity verification services for confident hiring decisions. Advanced technology and expert compliance support ensure thorough candidate evaluation.
+
+## Key Features
+
+- **Criminal background checks** - Comprehensive criminal history screening
+- **Identity verification** - Confirm candidate identity and credentials
+- **Employment history** - Verify previous work experience and positions
+- **Education verification** - Confirm academic credentials and degrees
+- **Specialized screening** - Industry-specific verification services
+- **Compliance support** - Expert guidance on employment screening regulations
+- **Technology platform** - Advanced systems for efficient processing
+
+## Use Cases
+
+- Pre-employment screening
+- Ongoing employee monitoring
+- Contractor and vendor verification
+- Volunteer background checks
+- Tenant screening
+
+## Get Started with Sterling
+
+Make confident hiring decisions with comprehensive screening. Visit [sterlingcheck.com](https://www.sterlingcheck.com) to start screening and see why employers choose Sterling for background verification.
