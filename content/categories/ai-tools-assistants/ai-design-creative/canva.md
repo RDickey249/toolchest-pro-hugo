@@ -30,7 +30,9 @@ Canva democratizes design by combining intuitive drag-and-drop tools with AI-pow
 • Template-dependent creativity
 • Internet connection required
 
-[Start Designing with Canva →](https://www.canva.com)
+## Get Started with Canva
+
+Ready to create professional designs in minutes? Visit [Canva](https://www.canva.com) to access millions of templates, AI-powered tools, and start designing for free with drag-and-drop simplicity.
 
 ## How It Compares
 

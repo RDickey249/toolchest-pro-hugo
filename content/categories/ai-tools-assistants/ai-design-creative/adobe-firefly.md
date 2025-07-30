@@ -30,7 +30,9 @@ Adobe Firefly transforms professional creative workflows by integrating enterpri
 • Limited compared to specialized AI art platforms
 • Focused on professional use cases
 
-[Enhance Creativity with Adobe Firefly →](https://www.adobe.com/sensei/generative-ai/firefly.html)
+## Get Started with Adobe Firefly
+
+Ready to integrate AI into your professional creative workflow? Visit [Adobe Firefly](https://www.adobe.com/products/firefly.html) to access enterprise-grade generative AI tools within Adobe Creative Cloud applications.
 
 ## How It Compares
 

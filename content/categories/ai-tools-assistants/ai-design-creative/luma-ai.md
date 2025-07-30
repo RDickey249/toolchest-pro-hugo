@@ -29,3 +29,7 @@ Luma AI transforms the creation of three-dimensional content by making professio
 • Requires internet connectivity for AI processing and cloud storage
 • Subscription pricing for commercial use and advanced features
 • May struggle with highly reflective or transparent surfaces
+
+## Get Started with Luma AI
+
+Ready to create stunning 3D content from your smartphone? Visit [Luma AI](https://lumalabs.ai) to download the app and start capturing photorealistic 3D scenes with just your phone camera.

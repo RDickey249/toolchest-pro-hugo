@@ -29,3 +29,7 @@ Windsurf Creative revolutionizes digital design workflows by providing an AI-pow
 • Potential over-reliance on AI suggestions rather than developing personal style
 • Limited customization for highly specialized design requirements
 • Subscription pricing may be expensive for individual freelancers
+
+## Get Started with Windsurf Creative
+
+Ready to accelerate your design workflow with AI? Visit [Windsurf](https://codeium.com/windsurf) to experience AI-powered creative development that bridges concept and implementation.

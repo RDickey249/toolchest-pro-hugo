@@ -30,7 +30,9 @@ DALL·E via ChatGPT revolutionizes creative visualization by combining OpenAI's 
 • Generation speed dependent on OpenAI servers
 • Less suitable for highly stylized or artistic work
 
-[Create Images Conversationally with DALL·E →](https://openai.com/dall-e)
+## Get Started with DALL·E (via ChatGPT)
+
+Ready to create images through conversation? Visit [ChatGPT](https://chat.openai.com) with a Plus subscription to access DALL·E's powerful image generation capabilities through natural dialogue.
 
 ## How It Compares
 
