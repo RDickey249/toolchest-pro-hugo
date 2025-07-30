@@ -19,7 +19,11 @@ breadcrumbs:
 
 # Poe
 
-Poe revolutionizes AI interaction by bringing together the world's most powerful language models—including ChatGPT, Claude, GPT-4, and specialized bots—into a single, streamlined platform. Created by Quora, this innovative hub eliminates the hassle of managing multiple AI subscriptions and interfaces. Users can seamlessly switch between different AI models to compare responses, leverage each model's unique strengths, and discover which AI works best for specific tasks. Whether you're a developer testing prompts across models, a researcher needing diverse AI perspectives, or a power user maximizing AI capabilities, Poe transforms the fragmented AI landscape into a unified powerhouse. The platform's clean interface and instant model switching make it feel like having an entire AI research lab at your fingertips.
+Poe by Quora brings together ChatGPT, Claude, GPT-4, and dozens of specialized AI models in one unified platform. Instead of juggling multiple subscriptions and interfaces, you can instantly switch between models to compare responses and find the perfect AI for each task.
+
+What sets Poe apart is its model marketplace and custom bot creation tools. You can discover community-built specialized assistants or create your own, all while maintaining conversation history across different models in a clean, streamlined interface.
+
+It's ideal for AI power users, researchers, and developers who regularly work with multiple models. Rather than paying for separate subscriptions, Poe offers cost-effective access to premium AI models with the convenience of instant comparison and switching.
 
 ## Key Features
 
