@@ -31,3 +31,10 @@ Used by companies like Mojang (Minecraft), King, and DICE, Favro combines the fl
 • Pricing may be higher compared to simpler project management tools and basic agile solutions
 • May be overwhelming for teams seeking simple task management without agile methodology complexity
 • Smaller user community compared to major project management platforms may limit resources
+
+## Get Started with Favro
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.favro.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Favro →</a>
+  <a href="https://www.favro.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
