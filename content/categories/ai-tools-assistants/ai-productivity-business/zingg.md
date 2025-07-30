@@ -34,7 +34,12 @@ Zingg is ideal for data engineers, IT teams, and enterprises with multiple syste
 • May need customization for unique matching requirements
 • Limited value for organizations with already clean data
 
-[Clean Your Data with Zingg AI →](https://zingg.ai)
+## Get Started with Zingg
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://zingg.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zingg →</a>
+  <a href="https://zingg.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## How It Compares
 

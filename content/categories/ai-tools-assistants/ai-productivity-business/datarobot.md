@@ -36,7 +36,10 @@ Perfect for large enterprises, government agencies, and organizations deploying 
 
 ## Get Started with DataRobot
 
-Ready to deploy enterprise-grade AI at scale? Visit [DataRobot](https://www.datarobot.com) to explore automated machine learning solutions designed for large organizations with governance and compliance requirements.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.datarobot.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit DataRobot →</a>
+  <a href="https://www.datarobot.com/request-demo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>
 
 ## How It Compares
 

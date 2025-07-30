@@ -34,7 +34,10 @@ Used by busy professionals and entrepreneurs, Motion offers AI scheduling, calen
 
 ## Get Started with Motion
 
-Let AI schedule your day perfectly. Visit [usemotion.com](https://usemotion.com) to start your free trial and reclaim control over your time.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://usemotion.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Motion →</a>
+  <a href="https://usemotion.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
 
 ## How It Compares
 

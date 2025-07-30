@@ -34,4 +34,7 @@ Used by 200,000+ organizations including sales teams and project managers, Firef
 
 ## Get Started with Fireflies.ai
 
-Never miss another meeting detail. Visit [fireflies.ai](https://fireflies.ai) to start your free trial and turn every conversation into actionable insights with AI-powered meeting intelligence.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://fireflies.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Fireflies.ai →</a>
+  <a href="https://fireflies.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

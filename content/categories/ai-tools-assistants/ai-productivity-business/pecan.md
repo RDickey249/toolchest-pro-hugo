@@ -30,7 +30,12 @@ Pecan transforms predictive analytics into a seamless, automated experience that
 • May not suit highly specialized use cases
 • Less control over model parameters
 
-[Predict Business Outcomes with Pecan →](https://www.pecan.ai)
+## Get Started with Pecan
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.pecan.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Pecan →</a>
+  <a href="https://www.pecan.ai/demo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>
 
 ## How It Compares
 

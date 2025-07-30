@@ -15,7 +15,10 @@ Obviously AI democratizes machine learning by enabling business users to build s
 
 ## Get Started with Obviously AI
 
-Ready to build predictive models without coding? Visit [Obviously AI](https://www.obviously.ai) to create sophisticated machine learning models using simple drag-and-drop tools and natural language queries.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.obviously.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Obviously AI →</a>
+  <a href="https://www.obviously.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## Pros and Cons
 
@@ -34,7 +37,6 @@ Ready to build predictive models without coding? Visit [Obviously AI](https://ww
 • Less control over model parameters
 • Limited to structured data
 
-[Predict the Future with Obviously AI →](https://www.obviously.ai)
 
 ## How It Compares
 

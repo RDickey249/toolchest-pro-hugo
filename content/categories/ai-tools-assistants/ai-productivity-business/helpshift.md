@@ -30,7 +30,12 @@ Helpshift transforms mobile customer support by providing a comprehensive, in-ap
 • Best suited for consumer-facing rather than B2B applications
 • Requires development resources for optimal implementation
 
-[Enhance Mobile Support with Helpshift →](https://www.helpshift.com)
+## Get Started with Helpshift
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.helpshift.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Helpshift →</a>
+  <a href="https://www.helpshift.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## How It Compares
 
