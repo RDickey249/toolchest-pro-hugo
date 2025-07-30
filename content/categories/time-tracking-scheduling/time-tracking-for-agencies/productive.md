@@ -6,28 +6,35 @@ Used by agencies like AKQA, DDB, and hundreds of creative studios worldwide, Pro
 
 ## Key Features
 
-• **Agency time tracking with financial integration** - Comprehensive time capture connected with budgeting and comprehensive agency financial coordination
-• **Budgeting with project oversight** - Advanced budget tracking with agency-specific project financial management and comprehensive coordination
-• **Automated invoicing with features** - Seamless billing automation with agency templates and comprehensive client invoicing coordination
-• **Profitability insights and analysis** - Strategic financial analysis combining time data with profit metrics and comprehensive agency business intelligence
-• **Team collaboration for agencies** - Collaborative features supporting agency team coordination and comprehensive project financial workflows
-• **Advanced reporting with intelligence** - Financial analytics combining time data with agency metrics and comprehensive business performance intelligence
-• **Client management with visibility** - Professional client coordination with project financial transparency and comprehensive agency relationship development
-• **Comprehensive agency intelligence** - Business insights supporting agency optimization and strategic financial development through detailed analytics
+• **Financial time tracking** - Connect time tracking directly to project budgets and profitability analysis
+• **Real-time budgeting** - Track project budgets and get alerts when approaching limits
+• **Profitability insights** - See which projects and clients are most profitable at a glance
+• **Resource planning** - Plan and allocate team capacity across multiple projects
+• **Automated invoicing** - Generate invoices from tracked time with customizable templates
+• **Team collaboration** - Task management, file sharing, and project communication tools
+• **Client reporting** - Professional reports showing project progress and time allocation
+• **Business intelligence** - Dashboard analytics for agency performance and financial health
 
 ## Pros and Cons
 
 ### Pros
-• Excellent financial integration providing comprehensive agency business management with detailed profitability oversight and coordination
-• Strong budgeting capabilities ensuring strategic agency financial planning and comprehensive project budget management optimization
-• Good profitability insights supporting strategic agency decision-making and comprehensive financial optimization through detailed analytics
-• User-friendly interface encouraging agency adoption while providing sophisticated financial management and business coordination capabilities
-• Comprehensive agency features improving financial oversight and strategic agency business development optimization
-• Regular platform updates with focus on agency financial needs and comprehensive business workflow optimization for operational excellence
+• Excellent profitability insights help agencies identify their most valuable work
+• Strong budgeting features prevent project cost overruns and improve margins
+• Built specifically for agencies with relevant features and workflows
+• Intuitive interface makes financial data accessible to non-financial team members
+• Combines project management, time tracking, and financial analytics in one platform
+• Regular updates based on feedback from agency users
 
 ### Cons
-• Agency specialization may limit flexibility for businesses outside creative agency environments and agency financial requirements
-• Premium pricing for advanced financial features may be expensive for small agencies with basic time tracking needs
-• Learning curve for maximizing integrated financial features across budgeting, invoicing, and profitability coordination requirements
-• Financial complexity may be more extensive than needed for agencies requiring only basic time tracking and billing functionality
-• Advanced features may require significant setup time for optimal agency financial coordination and profitability management implementation
+• Pricing can be expensive for smaller agencies with tight margins
+• May be overkill for agencies that only need basic time tracking
+• Learning curve to set up budgets and financial reporting properly
+• Some advanced features require higher-tier subscriptions
+• Limited customization compared to enterprise project management tools
+
+## Get Started with Productive
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://productive.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Productive →</a>
+  <a href="https://productive.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
