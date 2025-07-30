@@ -31,3 +31,10 @@ Used by HR teams seeking seamless absence management, Absence.io offers native c
 • Learning curve exists for maximizing workforce planning and analytics capabilities
 • Implementation may require time investment for policy configuration and calendar integration setup
 • Some advanced customization options may be limited compared to specialized HR platforms
+
+## Get Started with Absence.io
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://absence.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Absence.io →</a>
+  <a href="https://absence.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
