@@ -11,6 +11,7 @@ categories: ["Automation & Workflows"]
 subcategories: ["Workflow Automation"]
 affiliate: true
 featured: true
+external_link: "https://zapier.com"
 ---
 
 # Zapier

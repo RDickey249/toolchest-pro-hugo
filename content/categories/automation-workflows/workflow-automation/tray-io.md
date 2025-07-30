@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Tray.io"
 deployment_status: "deployed"
 image: "/images/tools/tray-io-placeholder.jpg"
+external_link: "https://tray.io"
 ---
 
 # Tray.io

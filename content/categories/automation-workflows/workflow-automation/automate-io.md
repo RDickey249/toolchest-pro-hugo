@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Automate.io"
 deployment_status: "deployed"
 image: "/images/tools/automate-io-placeholder.jpg"
+external_link: "https://automate.io"
 ---
 
 # Automate.io

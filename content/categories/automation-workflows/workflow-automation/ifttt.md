@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "IFTTT"
 deployment_status: "deployed"
 image: "/images/tools/ifttt-placeholder.jpg"
+external_link: "https://ifttt.com"
 ---
 
 # IFTTT

@@ -6,6 +6,7 @@ subcategory: "Frontend Frameworks"
 tool_name: "Next.js"
 deployment_status: "deployed"
 image: "/images/tools/next-js-placeholder.jpg"
+external_link: "https://nextjs.org"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

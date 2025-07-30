@@ -6,6 +6,7 @@ subcategory: "Frontend Frameworks"
 tool_name: "Nuxt.js"
 deployment_status: "deployed"
 image: "/images/tools/nuxt-js-placeholder.jpg"
+external_link: "https://nuxt.com"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

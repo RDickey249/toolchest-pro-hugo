@@ -6,6 +6,7 @@ subcategory: "Frontend Frameworks"
 tool_name: "Svelte"
 deployment_status: "deployed"
 image: "/images/tools/svelte-placeholder.jpg"
+external_link: "https://svelte.dev"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

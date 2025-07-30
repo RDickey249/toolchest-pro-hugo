@@ -6,6 +6,7 @@ subcategory: "Business Process Automation"
 tool_name: "Notion"
 deployment_status: "deployed"
 image: "/images/tools/notion-placeholder.jpg"
+external_link: "https://www.notion.so"
 ---
 
 # Notion

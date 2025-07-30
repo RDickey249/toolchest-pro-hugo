@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Workato"
 deployment_status: "deployed"
 image: "/images/tools/workato-placeholder.jpg"
+external_link: "https://www.workato.com"
 ---
 
 # Workato

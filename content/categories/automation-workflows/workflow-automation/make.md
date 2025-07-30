@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Make (Integromat)"
 deployment_status: "deployed"
 image: "/images/tools/make-placeholder.jpg"
+external_link: "https://www.make.com"
 ---
 
 # Make (Integromat)

@@ -6,6 +6,7 @@ subcategory: "Frontend Frameworks"
 tool_name: "Vue.js"
 deployment_status: "deployed"
 image: "/images/tools/vue-js-placeholder.jpg"
+external_link: "https://vuejs.org"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

@@ -6,6 +6,7 @@ subcategory: "Frontend Frameworks"
 tool_name: "Astro"
 deployment_status: "deployed"
 image: "/images/tools/astro-placeholder.jpg"
+external_link: "https://astro.build"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

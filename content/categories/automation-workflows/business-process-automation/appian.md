@@ -9,6 +9,7 @@ image: "/images/tools/appian-placeholder.jpg"
 tags: ["automation-workflows", "business-process-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
+external_link: "https://appian.com"
 ---
 
 # Appian

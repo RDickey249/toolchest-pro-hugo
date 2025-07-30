@@ -6,6 +6,7 @@ subcategory: "Business Process Automation"
 tool_name: "Monday.com"
 deployment_status: "deployed"
 image: "/images/tools/monday-com-placeholder.jpg"
+external_link: "https://monday.com"
 ---
 
 # Monday.com

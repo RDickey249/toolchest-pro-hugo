@@ -6,6 +6,7 @@ subcategory: "Frontend Frameworks"
 tool_name: "Gatsby"
 deployment_status: "deployed"
 image: "/images/tools/gatsby-placeholder.jpg"
+external_link: "https://www.gatsbyjs.com"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

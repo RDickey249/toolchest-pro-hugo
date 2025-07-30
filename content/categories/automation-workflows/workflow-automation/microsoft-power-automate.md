@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Microsoft Power Automate"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-power-automate-placeholder.jpg"
+external_link: "https://powerautomate.microsoft.com"
 ---
 
 # Microsoft Power Automate

@@ -6,6 +6,7 @@ subcategory: "Business Process Automation"
 tool_name: "Airtable"
 deployment_status: "deployed"
 image: "/images/tools/airtable-placeholder.jpg"
+external_link: "https://airtable.com"
 ---
 
 # Airtable

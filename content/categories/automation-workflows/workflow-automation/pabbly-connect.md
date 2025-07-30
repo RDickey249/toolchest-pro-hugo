@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Pabbly Connect"
 deployment_status: "deployed"
 image: "/images/tools/pabbly-connect-placeholder.jpg"
+external_link: "https://www.pabbly.com/connect"
 ---
 
 # Pabbly Connect

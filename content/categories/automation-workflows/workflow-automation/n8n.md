@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "n8n"
 deployment_status: "deployed"
 image: "/images/tools/n8n-placeholder.jpg"
+external_link: "https://n8n.io"
 ---
 
 # n8n

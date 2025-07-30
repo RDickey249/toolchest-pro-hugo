@@ -6,6 +6,7 @@ subcategory: "Workflow Automation"
 tool_name: "Integrately"
 deployment_status: "deployed"
 image: "/images/tools/integrately-placeholder.jpg"
+external_link: "https://integrately.com"
 ---
 
 # Integrately

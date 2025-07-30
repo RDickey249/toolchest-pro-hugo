@@ -6,6 +6,7 @@ subcategory: "Business Process Automation"
 tool_name: "Asana"
 deployment_status: "deployed"
 image: "/images/tools/asana-placeholder.jpg"
+external_link: "https://asana.com"
 ---
 
 # Asana

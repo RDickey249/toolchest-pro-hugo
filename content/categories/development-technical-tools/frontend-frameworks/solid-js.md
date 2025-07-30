@@ -6,6 +6,10 @@ subcategory: "Frontend Frameworks"
 tool_name: "SolidJS"
 deployment_status: "deployed"
 image: "/images/tools/solidjs-placeholder.jpg"
+external_link: "https://solidjs.com"
+tags: ["development-technical-tools", "frontend-frameworks"]
+categories: ["Development & Technical Tools"]
+subcategories: ["Frontend Frameworks"]
 ---
 
 # SolidJS

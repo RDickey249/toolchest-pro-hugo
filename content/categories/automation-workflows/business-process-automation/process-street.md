@@ -6,6 +6,7 @@ subcategory: "Business Process Automation"
 tool_name: "Process Street"
 deployment_status: "deployed"
 image: "/images/tools/process-street-placeholder.jpg"
+external_link: "https://www.process.st"
 ---
 
 # Process Street
