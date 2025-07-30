@@ -15,7 +15,9 @@ featured: true
 
 # Gusto
 
-Gusto transforms small to medium-sized business operations through comprehensive payroll, benefits, and HR management platform that streamlines employee management while ensuring compliance and providing exceptional employee experiences. This platform offers automated payroll processing, health insurance administration, 401(k) management, and complete HR tools including onboarding, time tracking, and performance management. Gusto excels in user-friendly design, comprehensive benefits options, and automated compliance features that eliminate HR complexity for growing businesses. The platform provides seamless integration capabilities, employee self-service portals, and expert support that makes professional-grade HR accessible to businesses without dedicated HR departments. Gusto serves over 300,000 small and medium businesses by combining payroll accuracy with benefits administration, compliance automation, and employee engagement tools that support business growth while maintaining simplicity and affordability for companies seeking comprehensive HR solutions without enterprise complexity.
+Gusto is the full-service payroll, benefits, and HR platform that serves over 300,000 small to medium businesses with automated compliance and employee self-service.
+
+Used by growing companies without dedicated HR departments, Gusto offers automated payroll processing, health insurance administration, 401(k) management, and complete onboarding tools. Streamline employee management with user-friendly design and expert support for professional-grade HR solutions.
 
 ## Get Started with Gusto
 
