@@ -1,6 +1,45 @@
+---
+title: "n8n"
+tagline: "Open-source workflow automation platform"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking Integrations"
+tool_name: "n8n"
+deployment_status: "deployed"
+image: "/images/tools/n8n-placeholder.jpg"
+tags: ["time-tracking-scheduling", "time-tracking-integrations"]
+categories: ["Time Tracking & Scheduling"]
+subcategories: ["Time Tracking Integrations"]
+---
+
 # n8n
 
-n8n revolutionizes time tracking automation through open-source workflow orchestration that provides organizations with complete control over their integration infrastructure while enabling sophisticated time tracking connectivity and business process automation without vendor lock-in or usage limitations, creating flexible automation solutions that adapt to unique organizational requirements and evolving business needs. This powerful open-source platform addresses the challenge of automation flexibility and cost control by providing self-hosted workflow automation that enables organizations to create comprehensive time tracking integrations while maintaining data privacy, customization freedom, and operational independence through community-driven development and transparent technology infrastructure. n8n's strength lies in its open-source architecture combined with professional automation capabilities, offering organizations complete workflow control and customization freedom while providing the technical sophistication needed for complex time tracking integration and business process automation through collaborative development and extensive community support. The platform excels at serving organizations requiring data privacy and infrastructure control, businesses seeking cost-effective automation solutions without usage limitations, technical teams needing extensive customization and workflow flexibility, and companies prioritizing open-source technology and community-driven innovation for their automation infrastructure and strategic business processes. Its comprehensive feature set includes open-source workflow automation, extensive customization and extension capabilities, self-hosted infrastructure control, comprehensive integration development tools, community-driven feature development, and professional automation capabilities that transform time tracking integration from vendor-dependent services into independent automation infrastructure that drives both operational flexibility and strategic autonomy through open-source technology and collaborative innovation. Whether you're building custom time tracking integrations, establishing independent automation infrastructure, or creating specialized workflow solutions, n8n provides the open-source platform that ensures complete automation control while maintaining the flexibility and cost-effectiveness needed for sustainable business automation and strategic technological independence.
+n8n is the open-source workflow automation platform that lets you connect any app to any other app. Unlike cloud automation tools that charge per workflow, n8n gives you complete control over your automation infrastructure.
+
+Used by companies like Lattice, Phantom, and thousands of developers, n8n offers the power of enterprise automation tools without the enterprise price tag or vendor lock-in.
+
+## Key Features
+- **Visual Workflow Builder**: Create automations with a drag-and-drop interface
+- **300+ Integrations**: Connect to popular apps and services
+- **Self-Hosted**: Deploy on your own infrastructure for complete data privacy
+- **Custom Nodes**: Build integrations for any API or service
+- **Fair-Code License**: Free for individual use, affordable for businesses
+- **Active Community**: Open-source with regular updates and contributions
+
+## Perfect For
+- Developers who want automation control
+- Companies needing data privacy compliance
+- Teams wanting to avoid per-execution pricing
+- Organizations requiring custom integrations
+
+## Why Teams Choose n8n
+n8n eliminates the restrictions of cloud automation platforms. Instead of paying per workflow execution, you pay once and automate as much as you want. The self-hosted option ensures your data never leaves your infrastructure, making it ideal for compliance-conscious organizations.
+
+## Get Started with n8n
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://n8n.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit n8n →</a>
+  <a href="https://n8n.io/cloud" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Try n8n Cloud →</a>
+</div>
 
 ## Key Features
 
