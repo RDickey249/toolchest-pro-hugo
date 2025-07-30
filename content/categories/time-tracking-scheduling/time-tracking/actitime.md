@@ -31,3 +31,10 @@ Used by enterprises and consulting firms worldwide, actiTIME offers advanced ana
 • Interface complexity may be overwhelming for users seeking simple time tracking solutions
 • Feature richness requires extensive configuration and ongoing administration for optimal results
 • May be overkill for organizations with basic time tracking and project management requirements
+
+## Get Started with actiTIME
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.actitime.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit actiTIME →</a>
+  <a href="https://www.actitime.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

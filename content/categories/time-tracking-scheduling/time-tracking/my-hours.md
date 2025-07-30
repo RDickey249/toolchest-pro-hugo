@@ -31,3 +31,10 @@ Used by teams across diverse industries, My Hours offers professional time track
 • Advanced features may require premium subscriptions which can increase costs for larger teams
 • Integration capabilities could be more extensive for complex business workflow requirements
 • Some advanced customization options may be limited compared to specialized enterprise platforms
+
+## Get Started with My Hours
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.myhours.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit My Hours →</a>
+  <a href="https://www.myhours.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

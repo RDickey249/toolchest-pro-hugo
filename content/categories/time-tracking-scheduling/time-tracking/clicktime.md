@@ -29,3 +29,10 @@ ClickTime enhances business operations through comprehensive time tracking and e
 • Learning curve exists for maximizing advanced workforce management and analytics capabilities
 • Implementation may require significant time investment for optimal configuration and team training
 • Interface design could be more modern compared to contemporary productivity and workforce management tools
+
+## Get Started with ClickTime
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.clicktime.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ClickTime →</a>
+  <a href="https://www.clicktime.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

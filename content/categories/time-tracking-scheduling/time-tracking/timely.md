@@ -31,3 +31,10 @@ Used by agencies and knowledge workers worldwide, Timely's AI learns your work p
 • Limited advanced project management features compared to specialized project coordination tools
 • Technology complexity may be overwhelming for teams seeking simple time tracking solutions
 • Integration ecosystem could be more extensive for comprehensive business workflow connectivity
+
+## Get Started with Timely
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://timelyapp.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Timely →</a>
+  <a href="https://timelyapp.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

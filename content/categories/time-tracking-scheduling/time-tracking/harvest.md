@@ -31,3 +31,10 @@ Used by companies like Lululemon, Yale University, and Amnesty International, Ha
 • Advanced features may require training for teams new to comprehensive business management tools
 • Customization options may be limited for organizations with highly specialized business requirements
 • Integration capabilities could be more extensive for complex business workflow and system requirements
+
+## Get Started with Harvest
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.getharvest.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Harvest →</a>
+  <a href="https://www.getharvest.com/try" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

@@ -29,3 +29,10 @@ Toggl Track simplifies time tracking through an intuitive, user-friendly platfor
 • Advanced features require premium subscriptions which may be expensive for larger teams
 • Customization options may be limited for organizations with highly specialized tracking requirements
 • Integration capabilities could be more extensive for complex business workflow requirements
+
+## Get Started with Toggl Track
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://toggl.com/track/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Toggl Track →</a>
+  <a href="https://toggl.com/track/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

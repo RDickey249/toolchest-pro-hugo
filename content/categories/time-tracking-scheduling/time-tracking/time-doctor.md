@@ -33,3 +33,10 @@ The platform is ideal for remote-first companies, agencies managing billable cli
 • Learning curve for maximizing advanced monitoring and analytics capabilities
 • Privacy considerations may require extensive policy development and employee agreement
 • Feature complexity may be overwhelming for organizations seeking straightforward time tracking solutions
+
+## Get Started with Time Doctor
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.timedoctor.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Time Doctor →</a>
+  <a href="https://www.timedoctor.com/sign-up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

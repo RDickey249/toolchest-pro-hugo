@@ -31,3 +31,10 @@ Used by teams at companies like Typeform, Buffer, and Pipedrive, Everhour adds t
 • Integration quality may vary depending on the specific project management platform being used
 • Customization options may be limited compared to specialized time tracking platforms
 • Learning curve exists for maximizing integration features and advanced analytics capabilities
+
+## Get Started with Everhour
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://everhour.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Everhour →</a>
+  <a href="https://everhour.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

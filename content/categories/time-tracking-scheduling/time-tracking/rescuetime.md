@@ -31,3 +31,10 @@ Used by over 2.5 million people worldwide, RescueTime tracks applications and we
 • Fewer advanced workforce management features compared to enterprise productivity platforms
 • Integration options could be more extensive for comprehensive business workflow connectivity
 • Some productivity scoring may not align perfectly with all work types and individual preferences
+
+## Get Started with RescueTime
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.rescuetime.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit RescueTime →</a>
+  <a href="https://www.rescuetime.com/get_rescuetime" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
