@@ -1,3 +1,8 @@
+---
+title: "Veriato"
+external_link: "https://veriato.com"
+---
+
 # Veriato
 
 Veriato is the employee monitoring platform that provides detailed insights into workforce productivity and user behavior. Track application usage, monitor productivity patterns, and identify security risks with comprehensive activity monitoring.
@@ -31,3 +36,10 @@ Used by organizations across healthcare, finance, and government sectors, Veriat
 • Learning curve exists for maximizing advanced analytics and productivity optimization capabilities
 • Feature complexity may be overwhelming for organizations seeking simple activity monitoring
 • Advanced customization may require significant time investment for optimal configuration and deployment
+
+## Get Started with Veriato
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://veriato.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Veriato →</a>
+  <a href="https://veriato.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
+</div>

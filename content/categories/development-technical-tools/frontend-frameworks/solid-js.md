@@ -39,3 +39,7 @@ Used by developers seeking performance and React familiarity, SolidJS offers sig
 • Learning curve for reactive programming concepts requiring understanding of signals and fine-grained reactivity
 • Limited tooling ecosystem affecting debugging, development tools, and IDE integration capabilities
 • Newer framework with evolving best practices potentially affecting long-term stability considerations
+
+## Get Started with SolidJS
+
+Ready to build high-performance web applications? Visit [SolidJS.com](https://solidjs.com) to explore the documentation, try interactive examples, and start your first project with superior reactive performance.

@@ -10,4 +10,20 @@ image: "/images/tools/automate-io-placeholder.jpg"
 
 # Automate.io
 
-Automate.io revolutionizes accessible automation through streamlined integration that enables quick workflow setup while maintaining affordability and proven effectiveness across small businesses requiring straightforward automation solutions and simple application connectivity without complex configuration or extensive technical knowledge. This platform provides extensive features for app integration, multi-step workflows, conditional logic, and scheduled automation while offering advanced capabilities like data filtering, custom fields, and webhook support. Automate.io's strength lies in its simplicity and pricing model, offering complete automation solution that focuses on ease of use through intuitive interfaces and proven adoption among budget-conscious small businesses. The platform excels at serving small businesses, startups, and individual users requiring affordable automation with features like drag-and-drop builder, pre-built templates, and straightforward pricing that enable everything from lead management to data synchronization with cost-effective automation, simple setup, and essential workflow capabilities while providing users with affordable automation platform, user-friendly workflows, and proven methodology for streamlining business processes through accessible automation tools and straightforward integration solutions.
+Automate.io makes app integration simple and affordable for small businesses. Connect your favorite apps in minutes with drag-and-drop workflows that require zero coding experience.
+
+## Key Features
+
+- **Easy Setup**: Drag-and-drop workflow builder with pre-built templates
+- **Multi-Step Automation**: Create complex workflows with conditional logic
+- **200+ App Integrations**: Connect popular business apps seamlessly
+- **Affordable Pricing**: Budget-friendly plans perfect for small teams
+- **Advanced Features**: Data filtering, custom fields, and webhook support
+
+## Perfect For
+
+Small businesses, startups, and entrepreneurs who need reliable automation without the enterprise price tag. Whether you're syncing leads between your CRM and email platform or automating data entry tasks, Automate.io handles the technical complexity so you can focus on growing your business.
+
+## Get Started with Automate.io
+
+Ready to automate your workflows? Visit [Automate.io](https://automate.io) to start your free trial and connect your first apps in under 5 minutes.

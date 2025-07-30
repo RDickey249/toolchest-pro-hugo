@@ -1,3 +1,8 @@
+---
+title: "Toggl Track"
+external_link: "https://toggl.com"
+---
+
 # Toggl Track
 
 Toggl Track is the simple, elegant time tracking tool that helps teams understand where their time actually goes. With one-click timers, visual reporting, and seamless calendar integration, it makes time tracking effortless and insightful.

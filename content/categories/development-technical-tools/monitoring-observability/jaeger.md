@@ -10,4 +10,24 @@ image: "/images/tools/jaeger-placeholder.jpg"
 
 # Jaeger
 
-Jaeger revolutionizes distributed systems observability through its comprehensive distributed tracing platform that provides deep insights into request flows across microservices architectures, enabling development and operations teams to understand system performance, identify bottlenecks, and troubleshoot complex interactions in distributed applications with unprecedented visibility and precision. This powerful tracing system excels at capturing and analyzing trace data that shows how requests propagate through multiple services, while its sophisticated sampling strategies and low-overhead instrumentation ensure that performance monitoring doesn't negatively impact application performance, complemented by advanced features like dependency analysis, service maps, and performance trend analysis that help teams understand system behavior patterns. Jaeger's strength lies in its cloud-native design and comprehensive ecosystem integration, offering seamless integration with popular frameworks, service meshes like Istio, and observability platforms while supporting multiple storage backends including Elasticsearch, Cassandra, and cloud-native solutions that enable scalable trace storage and analysis for high-volume distributed systems. The platform dominates microservices monitoring environments where its ability to trace requests across service boundaries makes it essential for maintaining performance and reliability in complex distributed architectures, while its open-source nature, CNCF graduation status, and extensive community support ensure continuous innovation and compatibility with modern cloud-native technologies, making Jaeger an indispensable tool for organizations operating sophisticated distributed systems that require detailed performance insights and effective troubleshooting capabilities.
+Jaeger is an open-source distributed tracing system that helps you monitor and troubleshoot complex microservices architectures. See exactly how requests flow through your services, identify performance bottlenecks, and debug issues across distributed systems.
+
+## Key Features
+
+**Distributed Tracing**: Track requests as they travel through multiple microservices, showing timing, dependencies, and error paths.
+
+**Service Maps**: Visualize your entire service architecture and understand how components interact.
+
+**Performance Analysis**: Identify slow services, optimize response times, and monitor system health over time.
+
+**Low Overhead**: Efficient instrumentation with configurable sampling rates that won't impact your application performance.
+
+**Cloud-Native**: Kubernetes-ready with support for service meshes like Istio and integration with popular observability platforms.
+
+## Perfect For
+
+DevOps teams running microservices who need visibility into complex distributed systems. Whether you're debugging intermittent issues, optimizing performance, or understanding service dependencies, Jaeger provides the insights you need.
+
+## Get Started with Jaeger
+
+Ready to gain visibility into your distributed systems? Visit [jaegertracing.io](https://www.jaegertracing.io) to download Jaeger, explore the documentation, and start tracing your microservices today.

@@ -29,3 +29,10 @@ Teamwork revolutionizes client project time tracking through comprehensive billa
 • Learning curve for maximizing client project features and professional services capabilities
 • Advanced functionality may be overwhelming for organizations seeking simple time tracking solutions
 • Client focus may limit flexibility for internal projects and non-client operational requirements
+
+## Get Started with Teamwork
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://teamwork.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Teamwork →</a>
+  <a href="https://teamwork.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

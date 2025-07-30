@@ -1,3 +1,8 @@
+---
+title: "Teramind"
+external_link: "https://www.teramind.co"
+---
+
 # Teramind
 
 Teramind is the enterprise employee monitoring and insider threat detection platform that uses AI to identify security risks and policy violations in real-time. With behavioral analytics, screen recording, and activity tracking, it protects against both internal and external threats.
@@ -31,3 +36,10 @@ Used by Fortune 500 companies, government agencies, and financial institutions, 
 • Advanced monitoring features may raise employee privacy concerns requiring careful policy communication
 • Learning curve exists for maximizing sophisticated threat detection and analytics capabilities
 • Feature complexity may be overwhelming for organizations with basic security monitoring needs
+
+## Get Started with Teramind
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.teramind.co" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Teramind →</a>
+  <a href="https://www.teramind.co/start-free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

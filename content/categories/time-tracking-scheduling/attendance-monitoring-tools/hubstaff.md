@@ -1,3 +1,8 @@
+---
+title: "Hubstaff"
+external_link: "https://hubstaff.com"
+---
+
 # Hubstaff
 
 Hubstaff is the time tracking platform that monitors remote teams and field workers with GPS location tracking, screenshots, and productivity scoring. See exactly where your team is working and how productive they are in real-time.

@@ -1,3 +1,8 @@
+---
+title: "Sling"
+external_link: "https://getsling.com"
+---
+
 # Sling
 
 Sling enhances shift scheduling through intelligent labor cost optimization and comprehensive workforce coordination that provides businesses with sophisticated scheduling capabilities while maintaining focus on operational efficiency, budget management, and team communication that drives both productivity improvements and cost control across diverse service industries and operational environments. This intelligent platform addresses the challenge of balancing effective scheduling with cost management by providing optimization tools that help businesses create efficient schedules while controlling labor expenses and maintaining service quality through data-driven scheduling decisions and comprehensive workforce coordination capabilities. Sling's strength lies in its focus on labor cost optimization combined with comprehensive scheduling features, offering businesses intelligent scheduling tools that balance operational needs with financial constraints while providing the team coordination and communication features needed for effective workforce management and operational success. The platform excels at serving restaurants optimizing service coverage and labor costs, retail businesses managing customer service schedules, hospitality operations coordinating guest services, and service businesses requiring efficient scheduling that balances quality service delivery with budget management and operational profitability. Its strategically designed feature set includes intelligent shift scheduling, labor cost optimization, team communication tools, schedule automation, workforce analytics, and operational coordination features that transform shift management from manual scheduling into strategic workforce optimization that drives both operational efficiency and financial performance through data-driven decision making and comprehensive team coordination. Whether you're managing restaurant operations, optimizing retail coverage, or coordinating service teams, Sling provides the intelligent platform that ensures efficient scheduling while maintaining the cost control and team coordination needed for successful service operations and business profitability.
@@ -29,3 +34,10 @@ Sling enhances shift scheduling through intelligent labor cost optimization and 
 • Advanced analytics may require premium subscriptions increasing costs for comprehensive functionality
 • Integration ecosystem could be more extensive for complex business workflow requirements
 • Some advanced features may be overwhelming for organizations seeking simple scheduling solutions
+
+## Get Started with Sling
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://getsling.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Sling →</a>
+  <a href="https://getsling.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

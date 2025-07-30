@@ -6,6 +6,7 @@ subcategory: "Shift Scheduling"
 tool_name: "When I Work"
 deployment_status: "deployed"
 image: "/images/tools/when-i-work-placeholder.jpg"
+external_link: "https://wheniwork.com"
 tags: ["time-tracking-scheduling", "shift-scheduling"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Shift Scheduling"]

@@ -1,3 +1,8 @@
+---
+title: "Harvest"
+external_link: "https://getharvest.com"
+---
+
 # Harvest
 
 Harvest is a professional time tracking and invoicing platform that seamlessly integrates with calendar applications to streamline project management and client billing. The system combines sophisticated time capture with comprehensive business management features, making it easy to track work and generate accurate invoices.
@@ -33,3 +38,10 @@ Harvest works best for consulting firms, creative agencies, and professional ser
 • Learning curve exists for maximizing integrated calendar and business management capabilities
 • Advanced calendar features may require premium subscriptions increasing costs for comprehensive functionality
 • Calendar integration complexity may be overwhelming for teams seeking straightforward schedule synchronization
+
+## Get Started with Harvest
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://getharvest.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Harvest →</a>
+  <a href="https://getharvest.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

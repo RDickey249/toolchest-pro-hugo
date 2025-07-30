@@ -33,3 +33,10 @@ The platform is ideal for freelancers managing multiple client projects, small a
 • Scalability constraints for rapidly growing businesses with complex project portfolio requirements
 • Integration ecosystem could be more extensive for complex business workflow connectivity
 • Advanced customization options may be limited compared to enterprise project management solutions
+
+## Get Started with Paymo
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://paymoapp.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Paymo →</a>
+  <a href="https://paymoapp.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
