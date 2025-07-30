@@ -41,30 +41,3 @@ n8n eliminates the restrictions of cloud automation platforms. Instead of paying
   <a href="https://n8n.io/cloud" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Try n8n Cloud →</a>
 </div>
 
-## Key Features
-
-• **Open-source workflow automation** - Complete source code access with community-driven development and customization freedom
-• **Self-hosted infrastructure control** - On-premises or cloud deployment with complete data privacy and security control
-• **Extensive customization capabilities** - Custom node development and workflow modification for unique business requirements
-• **Comprehensive integration ecosystem** - Growing library of time tracking and business application connections
-• **Visual workflow design interface** - User-friendly automation creation with drag-and-drop workflow development
-• **Advanced data processing** - Sophisticated data manipulation and transformation capabilities for complex workflows
-• **Community-driven development** - Active community contributing integrations, features, and automation improvements
-• **Enterprise deployment options** - Professional hosting and support options for organizational automation requirements
-
-## Pros and Cons
-
-### Pros
-• Complete automation control and customization freedom through open-source architecture and community development
-• Cost-effective solution without usage limitations or vendor lock-in for sustainable automation infrastructure
-• Strong data privacy and security control through self-hosted deployment and infrastructure management
-• Extensive customization capabilities supporting unique business requirements and specialized workflows
-• Active community development ensuring continuous platform improvement and integration expansion
-• Professional deployment options available for organizations requiring enterprise support and hosting
-
-### Cons
-• Technical expertise required for self-hosting, customization, and optimal workflow development
-• Implementation complexity may be overwhelming for organizations seeking simple plug-and-play automation
-• Community-driven development may result in variable integration quality and feature consistency
-• Self-hosting requires infrastructure management and technical maintenance overhead
-• Learning curve exists for maximizing open-source capabilities and advanced workflow customization
