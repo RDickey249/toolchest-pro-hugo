@@ -17,5 +17,6 @@ Used by Fortune 500 companies and government agencies, NiFi handles everything f
 ## Get Started with Apache NiFi
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://nifi.apache.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Apache NiFi →</a>
+  <a href="https://nifi.apache.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Apache NiFi →</a>
+  <a href="https://nifi.apache.org/download.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
 </div>
