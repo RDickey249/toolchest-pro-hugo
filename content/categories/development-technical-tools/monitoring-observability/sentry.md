@@ -6,8 +6,29 @@ subcategory: "Monitoring & Observability"
 tool_name: "Sentry"
 deployment_status: "deployed"
 image: "/images/tools/sentry-placeholder.jpg"
+tags: ["development-technical-tools", "monitoring-observability"]
+categories: ["Development & Technical Tools"]
+subcategories: ["Monitoring & Observability"]
 ---
 
 # Sentry
 
-Sentry revolutionizes error tracking through real-time error monitoring and performance insights that enable development teams to identify, diagnose, and resolve application issues with comprehensive stack traces, release tracking, and intelligent alerting while maintaining seamless integration across programming languages and deployment environments. This monitoring platform provides extensive features for error aggregation, performance monitoring, release health tracking, and team collaboration while offering advanced capabilities like error clustering, custom alerting rules, and comprehensive debugging workflows. Sentry's strength lies in its developer-focused design and diagnostic depth, offering contextual error reporting with actionable insights that accelerate issue resolution from detection to deployment with comprehensive release tracking and performance correlation. The platform excels at serving development teams, DevOps engineers, and product managers requiring proactive error management with features like real-time notifications, custom dashboards, and detailed error analytics that enable everything from bug tracking to performance optimization with user impact analysis, code-level insights, and deployment correlation while providing developers with intuitive error exploration, comprehensive integration support, and proven reliability that makes application monitoring accessible and effective across diverse technology stacks and development workflows.
+Sentry helps developers ship better software faster by tracking errors and performance issues in real-time. When your application crashes or slows down, Sentry tells you exactly what went wrong, where it happened, and who was affected.
+
+## Key Features
+- **Real-time Error Tracking**: Catch errors as they happen with full stack traces
+- **Performance Monitoring**: Track slow transactions and identify bottlenecks
+- **Release Tracking**: See which deployment introduced issues
+- **Smart Alerts**: Get notified about critical errors, not noise
+- **User Impact**: Know exactly how many users are affected
+- **Multi-platform**: Supports 100+ languages and frameworks
+
+## Why Teams Choose Sentry
+Sentry provides context that logs can't - showing the exact line of code, user actions, and environment that led to each error. The platform automatically groups similar errors, prioritizes by impact, and integrates with your existing workflow tools.
+
+## Get Started with Sentry
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://sentry.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Sentry →</a>
+  <a href="https://sentry.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
