@@ -1,6 +1,19 @@
 # Claude Code
 
-Claude Code revolutionizes command-line development by bringing Anthropic's advanced AI capabilities directly into terminal environments, transforming the traditional CLI experience into an intelligent, collaborative workspace where developers can write, debug, analyze, and deploy code through natural conversation with one of the world's most sophisticated AI assistants. This groundbreaking platform combines the power of Claude's reasoning abilities with comprehensive development tools, file system access, and execution capabilities, enabling developers to accomplish complex coding tasks through intuitive dialogue rather than memorizing countless commands and syntax patterns. Claude Code's terminal-native design makes it uniquely valuable for developers who prefer command-line workflows, system administrators managing complex infrastructure, and teams building applications that require both AI assistance and direct system integration. The platform excels at understanding project context, maintaining conversation history across sessions, and providing detailed explanations of code changes and system modifications, making it an educational tool as much as a productivity enhancer. Its sophisticated understanding of programming languages, frameworks, and development best practices allows it to serve as both a coding assistant and a knowledgeable pair programming partner. Whether you're debugging complex issues, learning new technologies, automating repetitive tasks, or building applications from scratch, Claude Code provides the intelligent assistance that transforms terminal work from a purely technical challenge into a collaborative, conversational experience that enhances both productivity and understanding.
+Claude Code brings AI pair programming directly to your terminal. Built by Anthropic, it's a powerful CLI tool that lets developers write, debug, and analyze code through natural conversation.
+
+Unlike traditional IDEs or web-based AI tools, Claude Code lives in your terminal where real development happens. It can read your files, understand your project structure, run commands, and help you solve complex coding problems - all without leaving the command line.
+
+## What Makes Claude Code Different
+
+Claude Code isn't just another chatbot. It's a full-featured development assistant that:
+- Works directly with your local files and codebase
+- Executes commands and analyzes output in real-time
+- Maintains context across long development sessions
+- Understands dozens of programming languages and frameworks
+- Provides intelligent debugging and error resolution
+
+Developers love it because it feels like having an expert programmer looking over your shoulder, ready to help with everything from quick syntax questions to complex architectural decisions.
 
 ## Key Features
 
@@ -32,4 +45,7 @@ Claude Code revolutionizes command-line development by bringing Anthropic's adva
 
 ## Get Started with Claude Code
 
-Experience AI-powered development in your terminal. Visit [claude.ai/code](https://claude.ai/code) to install Claude Code and start transforming your command-line workflow with intelligent AI assistance.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://claude.ai/code" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Claude Code →</a>
+  <a href="https://claude.ai/code/quickstart" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Quick Start Guide →</a>
+</div>

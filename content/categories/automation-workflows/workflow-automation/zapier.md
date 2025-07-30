@@ -42,4 +42,7 @@ Over 2 million businesses use Zapier to save time and reduce human error in thei
 
 ## Get Started with Zapier
 
-Automate your work today. Visit [zapier.com](https://zapier.com) to start connecting your apps and create your first automation workflow for free.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://zapier.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zapier →</a>
+  <a href="https://zapier.com/sign-up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
