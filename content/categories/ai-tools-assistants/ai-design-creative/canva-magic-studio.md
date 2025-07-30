@@ -1,6 +1,8 @@
 # Canva Magic Studio
 
-Canva Magic Studio revolutionizes design accessibility by integrating powerful AI tools directly into the world's most popular design platform, enabling millions of users to create professional-quality graphics, presentations, and marketing materials through intelligent assistance that understands design principles and brand consistency. This comprehensive AI-powered design suite transforms Canva from a template-based design tool into an intelligent creative partner that can generate images, remove backgrounds, create presentations, and suggest design improvements while maintaining the simplicity and ease of use that made Canva beloved by non-designers worldwide. Magic Studio's strength lies in its seamless integration with Canva's vast ecosystem of templates, fonts, and design elements, providing AI assistance that feels natural and contextually appropriate for each project type and creative goal. The platform excels at democratizing advanced design capabilities, enabling small businesses, marketers, educators, and content creators to produce professional-quality visuals without requiring design expertise or expensive software subscriptions. Whether you're creating social media content, designing marketing materials, building presentations, or developing brand assets, Canva Magic Studio provides the AI-powered design assistance that transforms amateur efforts into professional results. Its combination of powerful AI tools with familiar, user-friendly interfaces makes it invaluable for anyone who needs quality design work without the complexity or cost of professional design software.
+Canva Magic Studio brings powerful AI tools directly into the world's most popular design platform. With features like AI image generation, instant background removal, and Magic Write for copywriting, it transforms Canva into an intelligent design partner.
+
+Used by millions of businesses, marketers, and creators worldwide, Magic Studio makes professional design accessible to everyone. Instead of spending hours on complex design tasks, simply describe what you want and let AI handle the heavy lifting while you focus on creativity.
 
 ## Key Features
 
@@ -30,7 +32,12 @@ Canva Magic Studio revolutionizes design accessibility by integrating powerful A
 • Not suitable for highly specialized or artistic projects
 • Generated content may lack uniqueness
 
-[Design Smarter with Canva Magic Studio →](https://www.canva.com/magic-studio)
+## Get Started with Canva Magic Studio
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.canva.com/magic-studio" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Canva Magic Studio →</a>
+  <a href="https://www.canva.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Account →</a>
+</div>
 
 ## How It Compares
 
