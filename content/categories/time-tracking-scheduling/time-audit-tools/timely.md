@@ -33,3 +33,10 @@ Ideal for knowledge workers, creative professionals, and consulting firms who ne
 • Privacy considerations with comprehensive activity monitoring and AI-driven data analysis requirements
 • AI accuracy dependent on consistent application usage patterns and proper workflow configuration
 • Advanced features may be overwhelming for users seeking simple time tracking without intelligent automation
+
+## Get Started with Timely
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://timelyapp.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Timely →</a>
+  <a href="https://timelyapp.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
