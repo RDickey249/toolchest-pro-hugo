@@ -17,6 +17,10 @@ Ideal for content marketers, business professionals, students, and anyone who wa
 • **Export capabilities** - Publish directly to WordPress or export to various formats
 • **Real-time editing** - Instant feedback as you write and revise content
 
+## Get Started with Hemingway Editor
+
+Ready to write with clarity and impact? Visit [Hemingway Editor](https://hemingwayapp.com) to transform complex writing into bold, clear prose that readers love.
+
 ## Pros and Cons
 
 ### Pros

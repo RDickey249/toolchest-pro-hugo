@@ -30,7 +30,9 @@ Notion AI revolutionizes workplace productivity by seamlessly integrating powerf
 • Learning curve for new users
 • Internet connection dependent
 
-[Enhance Your Workspace with Notion AI →](https://www.notion.so/product/ai)
+## Get Started with Notion AI
+
+Ready to enhance your workspace with AI writing assistance? Visit [Notion AI](https://www.notion.so/product/ai) to add intelligent writing tools directly to your existing Notion workspace and documents.
 
 ## How It Compares
 

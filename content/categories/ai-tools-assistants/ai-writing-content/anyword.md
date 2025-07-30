@@ -30,7 +30,9 @@ Anyword transforms marketing copy creation through data-driven AI that predicts 
 • Steep learning curve
 • Requires understanding of metrics
 
-[Optimize Your Marketing with Anyword →](https://anyword.com)
+## Get Started with Anyword
+
+Ready to optimize your marketing copy with data-driven AI? Visit [Anyword](https://anyword.com) to create high-converting marketing content with performance prediction and analytics.
 
 ## How It Compares
 

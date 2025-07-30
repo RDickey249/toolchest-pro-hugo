@@ -13,6 +13,10 @@ INK revolutionizes content marketing by combining AI-powered writing assistance 
 • **SERP analysis** - Analyze top-ranking pages for optimization insights
 • **Team collaboration** - Shared workspaces for content teams
 
+## Get Started with INK
+
+Ready to create content that ranks and converts? Visit [INK](https://inkforall.com) to combine AI writing assistance with powerful SEO optimization tools.
+
 ## Pros and Cons
 
 ### Pros
