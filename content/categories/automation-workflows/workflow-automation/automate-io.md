@@ -26,4 +26,7 @@ Small businesses, startups, and entrepreneurs who need reliable automation witho
 
 ## Get Started with Automate.io
 
-Ready to automate your workflows? Visit [Automate.io](https://automate.io) to start your free trial and connect your first apps in under 5 minutes.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://automate.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Automate.io →</a>
+  <a href="https://automate.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>

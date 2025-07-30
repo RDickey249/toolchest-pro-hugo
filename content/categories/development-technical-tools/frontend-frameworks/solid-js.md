@@ -42,4 +42,7 @@ Used by developers seeking performance and React familiarity, SolidJS offers sig
 
 ## Get Started with SolidJS
 
-Ready to build high-performance web applications? Visit [SolidJS.com](https://solidjs.com) to explore the documentation, try interactive examples, and start your first project with superior reactive performance.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://solidjs.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit SolidJS →</a>
+  <a href="https://solidjs.com/tutorial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Tutorial →</a>
+</div>

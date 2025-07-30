@@ -17,5 +17,6 @@ Used by companies like Lyft, IBM, and Zendesk, Tray.io offers 600+ pre-built con
 ## Get Started with Tray.io
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://tray.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Tray.io →</a>
+  <a href="https://tray.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Tray.io →</a>
+  <a href="https://tray.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
 </div>
