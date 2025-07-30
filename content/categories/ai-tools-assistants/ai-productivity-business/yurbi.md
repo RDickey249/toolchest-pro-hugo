@@ -1,6 +1,20 @@
+---
+title: "Yurbi"
+tagline: "Self-service business intelligence for non-technical users"
+category: "AI Tools & Assistants"
+subcategory: "AI Productivity & Business"
+tool_name: "Yurbi"
+deployment_status: "deployed"
+image: "/images/tools/yurbi-placeholder.jpg"
+---
+
 # Yurbi
 
-Yurbi empowers organizations with self-service business intelligence that transforms complex data into clear, actionable insights through an intuitive platform designed for business users who need answers quickly without depending on IT or data specialists. This comprehensive BI solution specializes in making enterprise data accessible and understandable, providing drag-and-drop report building, interactive dashboards, and automated data visualization that enables every team member to become data-driven. Yurbi's strength lies in its ability to connect to virtually any data source while maintaining simplicity in the user experience, ensuring that financial analysts, operations managers, and executives can all create meaningful reports and discover insights independently. The platform excels at eliminating the traditional bottlenecks in data analysis, where business questions would require technical resources and weeks of development time to answer. Whether you're analyzing sales performance, tracking operational metrics, or monitoring financial KPIs, Yurbi provides the tools and flexibility to create custom dashboards and reports that drive informed decision-making. Its focus on user empowerment and data democratization has made it the preferred choice for organizations seeking to scale their analytics capabilities without expanding technical teams or increasing complexity.
+Yurbi is a self-service business intelligence platform that makes data analysis accessible to business users without requiring technical expertise.
+
+Designed for organizations that need quick answers from their data, Yurbi provides drag-and-drop report building, interactive dashboards, and automated visualizations. The platform connects to virtually any data source while maintaining a simple user experience that lets analysts, managers, and executives create reports independently.
+
+Yurbi eliminates traditional data analysis bottlenecks by enabling business users to answer their own questions instantly. Whether analyzing sales performance, tracking operational metrics, or monitoring KPIs, users can create custom dashboards without depending on IT teams.
 
 ## Key Features
 
@@ -30,7 +44,11 @@ Yurbi empowers organizations with self-service business intelligence that transf
 • Less innovative than newer platforms
 • Customization requires technical knowledge
 
-[Empower Your Team with Yurbi →](https://www.yurbi.com)
+## Get Started with Yurbi
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.yurbi.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Yurbi →</a>
+</div>
 
 ## How It Compares
 

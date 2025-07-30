@@ -10,4 +10,14 @@ image: "/images/tools/logseq-placeholder.jpg"
 
 # LogSeq
 
-LogSeq revolutionizes privacy-first knowledge management through open-source architecture that enables users to maintain local control over interconnected notes while providing powerful outlining and graph features with proven effectiveness across privacy-conscious knowledge workers. This platform provides extensive features for block-based editing, bidirectional linking, daily journals, and plugin support while offering advanced capabilities like PDF annotation, flashcards, and custom queries. LogSeq's strength lies in its privacy focus and local-first approach, offering unified knowledge tool that works entirely offline with optional encryption and proven reliability without cloud dependencies. The platform excels at serving researchers, students, and professionals requiring data sovereignty with features like Git integration, markdown support, and extensible architecture that enable everything from academic note-taking to personal knowledge gardens with task management, spaced repetition, and graph visualization while providing users with open-source transparency, community-driven development, and proven alternative to cloud-based tools without sacrificing modern knowledge management capabilities.
+LogSeq is an open-source knowledge management tool that provides privacy-first note-taking with local data control and powerful graph-based organization.
+
+The platform offers block-based editing, bidirectional linking, daily journals, and plugin support. Advanced features include PDF annotation, flashcards, custom queries, Git integration, and graph visualization for interconnected note networks.
+
+Perfect for researchers, students, and professionals who prioritize data sovereignty and offline functionality. LogSeq provides modern knowledge management capabilities without cloud dependencies, offering open-source transparency and community-driven development.
+
+## Get Started with LogSeq
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://logseq.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit LogSeq →</a>
+</div>

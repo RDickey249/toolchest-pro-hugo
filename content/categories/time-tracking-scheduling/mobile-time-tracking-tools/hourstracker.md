@@ -1,6 +1,20 @@
+---
+title: "HoursTracker"
+tagline: "Simple mobile time tracking with automatic earnings calculation"
+category: "Time Tracking & Scheduling"
+subcategory: "Mobile Time Tracking Tools"
+tool_name: "HoursTracker"
+deployment_status: "deployed"
+image: "/images/tools/hourstracker-placeholder.jpg"
+---
+
 # HoursTracker
 
-HoursTracker simplifies mobile work hour tracking through an intuitive application designed specifically for individuals and freelancers who need accurate earnings calculation and comprehensive work time documentation while maintaining the simplicity and accessibility that makes professional time tracking effortless for on-the-go work management and personal productivity optimization across diverse work environments and project types. This focused platform addresses the unique needs of mobile workers by providing straightforward time tracking that automatically calculates earnings while maintaining detailed work records and project organization through user-friendly mobile interfaces that encourage consistent usage and accurate documentation without overwhelming complexity or administrative overhead. HoursTracker's strength lies in its specialization in individual work tracking combined with earnings calculation functionality, offering mobile workers comprehensive time management that focuses on personal productivity and financial tracking while providing the project organization and reporting features needed for effective freelance and independent work management. The platform excels at serving freelancers tracking billable hours across multiple projects, independent contractors managing diverse client work, consultants documenting time for accurate billing, and mobile professionals seeking straightforward work hour tracking that includes earnings calculation and project organization for personal productivity optimization. Its thoughtfully designed feature set includes intuitive mobile time tracking, automatic earnings calculation, comprehensive project organization, detailed work analytics, expense tracking capabilities, and professional reporting that transforms mobile work tracking from manual logging into automated productivity management that drives both accurate billing and strategic work optimization through focused mobile technology and personal productivity features. Whether you're managing freelance projects, tracking consulting work, or optimizing personal productivity, HoursTracker provides the focused platform that ensures accurate mobile time tracking while maintaining the earnings calculation and simplicity needed for effective individual work management and financial planning.
+HoursTracker is a mobile time tracking app designed for freelancers and independent contractors who need simple, accurate work hour tracking with automatic earnings calculations.
+
+Built specifically for individual users, HoursTracker focuses on simplicity while providing the essential features needed for effective time management and billing. The app automatically calculates earnings based on your hourly rates and provides detailed work records across multiple projects.
+
+Perfect for freelancers, consultants, and mobile professionals who need straightforward time tracking without overwhelming complexity. HoursTracker transforms manual time logging into effortless productivity management with intuitive mobile interfaces and comprehensive project organization.
 
 ## Key Features
 
@@ -29,3 +43,9 @@ HoursTracker simplifies mobile work hour tracking through an intuitive applicati
 • Fewer advanced analytics compared to specialized business intelligence and productivity platforms
 • Individual focus may not scale effectively for growing businesses with team coordination needs
 • Limited customization options compared to more comprehensive time tracking and business management solutions
+
+## Get Started with HoursTracker
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.hourstrackerapp.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit HoursTracker →</a>
+</div>
