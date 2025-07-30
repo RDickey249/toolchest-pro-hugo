@@ -16,4 +16,6 @@ Used by millions worldwide, Google Tasks integrates seamlessly with Gmail for em
 
 ## Get Started with Google Tasks
 
-Ready to integrate task management with Google Workspace? Visit [Google Tasks](https://tasks.google.com) or access it directly from Gmail and Google Calendar to start creating tasks from emails and organizing with subtasks.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://tasks.google.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Google Tasks →</a>
+</div>

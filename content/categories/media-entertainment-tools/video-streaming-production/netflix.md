@@ -14,4 +14,6 @@ Netflix is the world's leading streaming entertainment service, fundamentally tr
 
 ## Get Started with Netflix
 
-Ready to stream unlimited entertainment? Visit [Netflix](https://www.netflix.com) to explore thousands of movies, TV shows, and award-winning originals with personalized recommendations.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.netflix.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Netflix →</a>
+</div>

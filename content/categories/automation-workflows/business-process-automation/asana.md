@@ -16,4 +16,6 @@ Used by marketing teams, creative agencies, and project managers worldwide, Asan
 
 ## Get Started with Asana
 
-Ready to balance powerful features with intuitive design? Visit [Asana](https://asana.com) to explore comprehensive team project management with flexible project views and automated workflows.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://asana.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Asana →</a>
+</div>

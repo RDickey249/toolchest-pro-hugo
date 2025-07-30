@@ -16,4 +16,6 @@ Used by millions of Apple users worldwide, Apple Reminders offers natural Siri i
 
 ## Get Started with Apple Reminders
 
-Ready to integrate task management with Apple's ecosystem? Apple Reminders comes pre-installed on all Apple devices - simply open it on your iPhone, iPad, Mac, or Apple Watch to start creating tasks with Siri and location alerts.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://support.apple.com/en-us/HT205890" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Learn More About Apple Reminders →</a>
+</div>

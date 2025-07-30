@@ -14,4 +14,6 @@ vMix is a comprehensive live video production software that combines mixing, swi
 
 ## Get Started with vMix
 
-Ready for comprehensive live video production? Visit [vMix](https://www.vmix.com) to explore professional mixing, switching, recording, and streaming capabilities in one powerful application.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.vmix.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit vMix →</a>
+</div>

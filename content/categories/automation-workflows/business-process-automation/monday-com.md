@@ -16,4 +16,6 @@ Used by project managers, marketing teams, and operations worldwide, Monday.com 
 
 ## Get Started with Monday.com
 
-Ready to revolutionize work management? Visit [Monday.com](https://monday.com) to explore visual project boards with comprehensive team coordination and customizable workflow automation.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://monday.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Monday.com →</a>
+</div>

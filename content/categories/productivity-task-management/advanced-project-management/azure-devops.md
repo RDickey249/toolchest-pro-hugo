@@ -16,4 +16,6 @@ Used by organizations invested in the Microsoft ecosystem worldwide, Azure DevOp
 
 ## Get Started with Azure DevOps
 
-Ready to integrate development and project management? Visit [Azure DevOps](https://azure.microsoft.com/en-us/services/devops) to explore comprehensive Microsoft development suite with source control, build automation, and deployment tools.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://azure.microsoft.com/en-us/services/devops" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Azure DevOps →</a>
+</div>

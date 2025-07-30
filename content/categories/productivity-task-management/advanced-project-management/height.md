@@ -16,4 +16,6 @@ Used by development and creative teams worldwide, Height offers advanced visuali
 
 ## Get Started with Height
 
-Ready to enhance visual project management? Visit [Height](https://height.app) to explore intuitive workflow management with kanban boards, timeline views, and smart automation for development teams.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://height.app" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Height →</a>
+</div>

@@ -16,4 +16,6 @@ Used by large enterprises and PMOs worldwide, Clarizen offers capacity planning,
 
 ## Get Started with Clarizen
 
-Ready for enterprise project portfolio management? Visit [Clarizen](https://www.clarizen.com) to explore comprehensive resource management, strategic alignment, and portfolio planning for multiple complex projects.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.clarizen.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Clarizen →</a>
+</div>

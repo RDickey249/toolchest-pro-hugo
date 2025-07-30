@@ -16,4 +16,6 @@ Used by over 5 million users worldwide, Power Automate integrates seamlessly wit
 
 ## Get Started with Microsoft Power Automate
 
-Ready to automate Microsoft 365 workflows? Visit [Microsoft Power Automate](https://powerautomate.microsoft.com) to connect your apps and services with cloud-based automation and pre-built templates.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://powerautomate.microsoft.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Microsoft Power Automate →</a>
+</div>

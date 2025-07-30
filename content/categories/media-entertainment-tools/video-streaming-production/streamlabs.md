@@ -14,4 +14,6 @@ Streamlabs provides a comprehensive streaming ecosystem that combines broadcasti
 
 ## Get Started with Streamlabs
 
-Ready to elevate your streaming experience? Visit [Streamlabs](https://streamlabs.com) to access the all-in-one streaming platform with integrated alerts, widgets, and monetization tools.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://streamlabs.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Streamlabs →</a>
+</div>

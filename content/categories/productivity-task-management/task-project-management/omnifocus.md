@@ -16,4 +16,6 @@ Used by knowledge workers and GTD practitioners worldwide, OmniFocus offers hier
 
 ## Get Started with OmniFocus
 
-Ready for advanced GTD methodology? Visit [OmniFocus](https://www.omnigroup.com/omnifocus) to explore premium task management for Mac and iOS with sophisticated project organization and context-based filtering.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.omnigroup.com/omnifocus" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit OmniFocus →</a>
+</div>

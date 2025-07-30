@@ -14,4 +14,6 @@ Vimeo positions itself as the premium alternative to YouTube, focusing on high-q
 
 ## Get Started with Vimeo
 
-Ready for professional video hosting? Visit [Vimeo](https://vimeo.com) to explore high-quality video hosting with customizable players, privacy controls, and ad-free viewing experiences.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://vimeo.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Vimeo →</a>
+</div>

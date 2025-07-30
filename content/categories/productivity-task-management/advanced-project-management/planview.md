@@ -16,4 +16,6 @@ Trusted by companies like Nokia, Lenovo, and Western Union, Planview handles com
 
 ## Get Started with Planview
 
-Ready to connect strategy to execution at enterprise scale? Visit [Planview](https://www.planview.com) to explore portfolio and resource management that prioritizes investments and optimizes resources across your entire organization.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.planview.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Planview →</a>
+</div>

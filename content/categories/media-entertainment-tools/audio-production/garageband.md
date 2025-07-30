@@ -11,3 +11,9 @@ image: "/images/tools/garageband-placeholder.jpg"
 # GarageBand
 
 GarageBand is Apple's free music creation software that makes music production accessible to everyone, regardless of musical experience or technical knowledge. Pre-installed on every Mac and available for iOS devices, GarageBand provides a comprehensive set of virtual instruments, loops, and recording tools that enable users to create professional-sounding music. The software's interface is designed for simplicity, with drag-and-drop loop creation, intuitive virtual instruments, and automatic timing correction that helps beginners create polished recordings. GarageBand includes an extensive library of high-quality loops, software instruments, and guitar amp simulations that cover virtually every musical genre. The platform's Smart Instruments feature allows users to create chord progressions and melodies with simple gestures, while more advanced features like multi-track recording and MIDI editing accommodate growing skills. GarageBand projects can be seamlessly upgraded to Logic Pro, providing a natural progression path for users who outgrow the software's capabilities. The iOS version of GarageBand transforms iPhones and iPads into portable recording studios, with touch-optimized instruments and the ability to record anywhere. As an entry point into music creation, GarageBand has inspired countless musicians and producers, proving that powerful creative tools don't need to be expensive or complicated.
+
+## Get Started with GarageBand
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://apps.apple.com/us/app/garageband/id408709785" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit GarageBand →</a>
+</div>

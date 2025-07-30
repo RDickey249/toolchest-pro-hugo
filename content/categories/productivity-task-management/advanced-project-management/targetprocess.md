@@ -16,4 +16,6 @@ Used by companies like Samsung, BMW, and MetLife, Targetprocess handles complex 
 
 ## Get Started with Targetprocess
 
-Ready to scale agile beyond individual teams? Visit [Targetprocess](https://www.targetprocess.com) to explore visual agile management for coordinating multiple squads and tracking dependencies at enterprise scale.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.targetprocess.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Targetprocess →</a>
+</div>

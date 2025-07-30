@@ -16,4 +16,6 @@ Used by content teams, project managers, and data-driven organizations worldwide
 
 ## Get Started with Airtable
 
-Ready to revolutionize database management? Visit [Airtable](https://airtable.com) to explore spreadsheet-like interfaces with powerful database capabilities and workflow automation.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://airtable.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Airtable →</a>
+</div>

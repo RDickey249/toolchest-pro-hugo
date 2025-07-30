@@ -16,4 +16,6 @@ Used by 7,000+ enterprises including Slack, Box, and Intuit, Workato offers reci
 
 ## Get Started with Workato
 
-Ready for enterprise-grade automation? Visit [Workato](https://www.workato.com) to explore AI-powered workflow orchestration that connects and automates complex business processes for Fortune 500 companies.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.workato.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Workato →</a>
+</div>

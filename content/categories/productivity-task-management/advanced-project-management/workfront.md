@@ -16,4 +16,6 @@ Used by major enterprises including Cisco, T-Mobile, and REI, Workfront handles 
 
 ## Get Started with Workfront
 
-Ready to connect strategy to execution? Visit [Workfront](https://www.workfront.com) to explore Adobe's enterprise work management platform with automated approval workflows and executive visibility.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.workfront.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Workfront →</a>
+</div>

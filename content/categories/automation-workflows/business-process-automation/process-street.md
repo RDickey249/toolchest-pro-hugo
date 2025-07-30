@@ -16,4 +16,6 @@ Used by operations teams and compliance organizations worldwide, Process Street 
 
 ## Get Started with Process Street
 
-Ready to ensure consistent procedure execution? Visit [Process Street](https://www.process.st) to explore checklist-based workflow automation with standardized templates, conditional logic, and audit trails.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.process.st" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Process Street →</a>
+</div>

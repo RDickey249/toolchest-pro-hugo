@@ -16,4 +16,6 @@ Used by creative agencies, design studios, and marketing teams worldwide, Functi
 
 ## Get Started with Function Point
 
-Ready to revolutionize creative agency management? Visit [Function Point](https://www.functionpoint.com) to explore specialized project coordination with integrated budgeting, scheduling, and creative asset management.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.functionpoint.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Function Point →</a>
+</div>

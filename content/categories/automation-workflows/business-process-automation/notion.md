@@ -16,4 +16,6 @@ Used by companies like Nike, Pixar, and Uber, Notion replaces dozens of separate
 
 ## Get Started with Notion
 
-Ready to create your all-in-one workspace? Visit [Notion](https://www.notion.so) to combine notes, databases, project management, and team collaboration in a single, highly customizable platform.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.notion.so" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Notion →</a>
+</div>

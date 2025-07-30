@@ -16,4 +16,6 @@ Used by companies like DocuSign, Square, and Lime, Fivetran offers 500+ pre-buil
 
 ## Get Started with Fivetran
 
-Ready to automate data integration? Visit [Fivetran](https://www.fivetran.com) to sync data from applications and databases to your data warehouse with zero-maintenance connectors.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.fivetran.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Fivetran →</a>
+</div>

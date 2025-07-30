@@ -16,4 +16,6 @@ Used by agencies, consultancies, and professional services firms worldwide, Team
 
 ## Get Started with Teamwork
 
-Ready to streamline client project management? Visit [Teamwork](https://www.teamwork.com) to explore comprehensive business project management with time tracking, resource management, and client collaboration tools.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.teamwork.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Teamwork →</a>
+</div>

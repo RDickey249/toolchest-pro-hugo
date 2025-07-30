@@ -14,4 +14,6 @@ Twitch is the world's leading live streaming platform, primarily focused on gami
 
 ## Get Started with Twitch
 
-Ready to join the world's leading live streaming community? Visit [Twitch](https://www.twitch.tv) to watch live gaming, creative content, and interactive streams or start broadcasting your own content.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.twitch.tv" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Twitch →</a>
+</div>

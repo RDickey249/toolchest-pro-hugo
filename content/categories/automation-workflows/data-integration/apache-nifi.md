@@ -16,4 +16,6 @@ Used by Fortune 500 companies and government agencies, NiFi handles everything f
 
 ## Get Started with Apache NiFi
 
-Ready to automate data flows visually? Visit [Apache NiFi](https://nifi.apache.org) to design complex data integration using drag-and-drop interface that routes, transforms, and processes data from any source.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://nifi.apache.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Apache NiFi →</a>
+</div>

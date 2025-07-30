@@ -16,4 +16,6 @@ Used by Python developers, data scientists, and teams requiring Python-native wo
 
 ## Get Started with Luigi
 
-Ready for Python-native workflow management? Visit [Luigi](https://luigi.readthedocs.io) to explore task dependency orchestration with reliable batch processing and comprehensive dependency management.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://luigi.readthedocs.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Luigi →</a>
+</div>

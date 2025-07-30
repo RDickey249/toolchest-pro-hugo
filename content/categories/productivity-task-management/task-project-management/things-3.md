@@ -16,4 +16,6 @@ Used by Apple users, creative professionals, and productivity enthusiasts worldw
 
 ## Get Started with Things 3
 
-Ready to experience elegant task management? Visit [Things 3](https://culturedcode.com/things) to explore award-winning design with sophisticated project organization exclusively for Mac and iOS users.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://culturedcode.com/things" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Things 3 →</a>
+</div>

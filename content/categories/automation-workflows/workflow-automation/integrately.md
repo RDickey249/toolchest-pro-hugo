@@ -16,4 +16,6 @@ Used by small businesses, non-technical users, and teams worldwide, Integrately 
 
 ## Get Started with Integrately
 
-Ready for instant automation deployment? Visit [Integrately](https://integrately.com) to explore one-click integrations with pre-built workflows and smart mapping for immediate results.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://integrately.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Integrately →</a>
+</div>

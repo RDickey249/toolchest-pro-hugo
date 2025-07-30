@@ -16,4 +16,6 @@ Used by project managers, resource planners, and organizations requiring sophist
 
 ## Get Started with LiquidPlanner
 
-Ready to revolutionize predictive planning? Visit [LiquidPlanner](https://www.liquidplanner.com) to explore intelligent scheduling with uncertainty management, resource optimization, and smart prioritization.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.liquidplanner.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit LiquidPlanner →</a>
+</div>

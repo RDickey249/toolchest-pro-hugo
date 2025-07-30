@@ -14,4 +14,6 @@ Lightstream is a cloud-based streaming solution that enables console gamers and 
 
 ## Get Started with Lightstream
 
-Ready to stream from your console like a pro? Visit [Lightstream](https://golightstream.com) to explore cloud-based streaming with professional overlays and alerts for PlayStation, Xbox, and Nintendo Switch.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://golightstream.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Lightstream →</a>
+</div>

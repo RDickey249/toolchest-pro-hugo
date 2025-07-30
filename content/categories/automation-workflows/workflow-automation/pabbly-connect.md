@@ -16,4 +16,6 @@ Used by growing businesses, marketing agencies, and high-volume users worldwide,
 
 ## Get Started with Pabbly Connect
 
-Ready for unlimited automation at affordable pricing? Visit [Pabbly Connect](https://www.pabbly.com/connect) to explore budget-friendly workflows with unlimited operations and comprehensive app integration.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.pabbly.com/connect" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit Pabbly Connect →</a>
+</div>
