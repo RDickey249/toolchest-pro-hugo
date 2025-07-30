@@ -15,5 +15,6 @@ GarageBand is Apple's free music creation software that makes music production a
 ## Get Started with GarageBand
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://apps.apple.com/us/app/garageband/id408709785" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit GarageBand →</a>
+  <a href="https://apps.apple.com/us/app/garageband/id408709785" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit GarageBand →</a>
+  <a href="https://apps.apple.com/us/app/garageband/id408709785" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
 </div>
