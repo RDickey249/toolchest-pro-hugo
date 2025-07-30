@@ -30,7 +30,9 @@ Bard represents Google's initial foray into conversational AI, designed to compe
 • No API access yet
 • Occasional inconsistent responses
 
-[Try Google Bard →](https://bard.google.com)
+## Get Started with Bard
+
+Ready to explore Google's conversational AI? Visit [Bard](https://bard.google.com) to experience AI conversations powered by Google's latest language models and real-time information access.
 
 ## How It Compares
 

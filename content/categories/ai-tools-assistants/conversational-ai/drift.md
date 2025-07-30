@@ -28,9 +28,10 @@ Drift revolutionizes B2B sales and marketing by transforming website visitors in
 • Complex setup and configuration
 • Primarily B2B focused
 • Learning curve for optimization
-• Limited customization options
 
-[Accelerate Revenue with Drift →](https://www.drift.com)
+## Get Started with Drift
+
+Ready to transform website visitors into qualified leads? Visit [Drift](https://www.drift.com) to experience conversational sales automation that connects prospects instantly with your sales team.
 
 ## How It Compares
 

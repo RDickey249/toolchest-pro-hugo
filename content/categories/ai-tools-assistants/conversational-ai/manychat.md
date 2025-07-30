@@ -28,9 +28,10 @@ ManyChat dominates the messenger marketing landscape by providing comprehensive 
 • Higher pricing for advanced features
 • Steep learning curve initially
 • Limited free plan features
-• Compliance considerations for messaging
 
-[Scale Your Conversations with ManyChat →](https://manychat.com)
+## Get Started with ManyChat
+
+Ready to automate your messenger marketing? Visit [ManyChat](https://manychat.com) to build sophisticated chatbot experiences across Facebook, Instagram, SMS, and email channels.
 
 ## How It Compares
 

@@ -27,6 +27,10 @@ Tidio is ideal for e-commerce stores, service businesses, and SaaS companies tha
 • Mobile team management
 • Good integration options
 
+## Get Started with Tidio
+
+Ready to enhance customer communication with live chat and bots? Visit [Tidio](https://www.tidio.com) to combine human agents with AI automation for better customer experiences.
+
 ### Cons
 • Limited advanced AI features
 • Chatbot complexity constraints
