@@ -32,7 +32,10 @@ DALL·E via ChatGPT revolutionizes creative visualization by combining OpenAI's 
 
 ## Get Started with DALL·E (via ChatGPT)
 
-Ready to create images through conversation? Visit [ChatGPT](https://chat.openai.com) with a Plus subscription to access DALL·E's powerful image generation capabilities through natural dialogue.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ChatGPT →</a>
+  <a href="https://openai.com/chatgpt/pricing" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Get Plus →</a>
+</div>
 
 ## How It Compares
 

@@ -32,7 +32,10 @@ Microsoft Designer reimagines graphic design for the AI era, combining intellige
 
 ## Get Started with Microsoft Designer
 
-Ready to create stunning designs with AI assistance? Visit [Microsoft Designer](https://designer.microsoft.com) and sign in with your Microsoft account to start designing for free with DALL·E powered image generation.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://designer.microsoft.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Microsoft Designer →</a>
+  <a href="https://designer.microsoft.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## How It Compares
 

@@ -32,4 +32,7 @@ Windsurf Creative revolutionizes digital design workflows by providing an AI-pow
 
 ## Get Started with Windsurf Creative
 
-Ready to accelerate your design workflow with AI? Visit [Windsurf](https://codeium.com/windsurf) to experience AI-powered creative development that bridges concept and implementation.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://codeium.com/windsurf" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Windsurf →</a>
+  <a href="https://codeium.com/windsurf/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>

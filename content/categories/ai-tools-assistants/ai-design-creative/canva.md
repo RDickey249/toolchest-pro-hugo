@@ -32,7 +32,10 @@ Canva democratizes design by combining intuitive drag-and-drop tools with AI-pow
 
 ## Get Started with Canva
 
-Ready to create professional designs in minutes? Visit [Canva](https://www.canva.com) to access millions of templates, AI-powered tools, and start designing for free with drag-and-drop simplicity.
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.canva.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Canva →</a>
+  <a href="https://www.canva.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
 
 ## How It Compares
 
