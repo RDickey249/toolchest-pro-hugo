@@ -30,4 +30,8 @@ Used by thousands of law firms across all practice areas, MyCase eliminates the 
 • Premium pricing for advanced client features may be expensive for small law firms with basic time tracking requirements
 • Learning curve for maximizing integrated client portal and legal features across diverse practice coordination requirements
 • Client focus may be more extensive than needed for legal professionals requiring only basic time tracking and billing functionality
+
+## Get Started with MyCase
+
+Ready to streamline your law firm operations? Visit [MyCase](https://www.mycase.com) to explore the complete legal practice management platform with integrated time tracking, case management, and client portals.
 • Advanced client features may require significant setup time for optimal legal practice coordination and comprehensive client portal implementation

@@ -31,3 +31,7 @@ Used by law firms across all practice areas, Bill4Time handles the unique requir
 • Learning curve for maximizing integrated trust accounting and compliance features across diverse legal coordination requirements
 • Compliance complexity may be more extensive than needed for legal professionals requiring only basic time tracking and billing functionality
 • Advanced compliance features may require significant setup time for optimal legal practice coordination and comprehensive trust accounting implementation
+
+## Get Started with Bill4Time
+
+Ready to manage legal billing with trust accounting? Visit [Bill4Time](https://www.bill4time.com) to explore legal-specific time tracking with trust account management and compliance reporting.

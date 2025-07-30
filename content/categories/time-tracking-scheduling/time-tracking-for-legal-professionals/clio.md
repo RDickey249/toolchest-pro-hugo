@@ -31,3 +31,7 @@ Used by over 150,000 legal professionals worldwide, Clio transforms how law firm
 • Learning curve for maximizing integrated legal features across case management, billing, and legal coordination requirements
 • Legal complexity may be more extensive than needed for legal professionals requiring only basic time tracking and billing functionality
 • Advanced features may require significant setup time for optimal legal practice coordination and comprehensive case management implementation
+
+## Get Started with Clio
+
+Ready to streamline your legal practice? Visit [Clio](https://www.clio.com) to explore the complete legal practice management platform trusted by over 150,000 legal professionals worldwide.

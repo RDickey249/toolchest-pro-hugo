@@ -31,3 +31,7 @@ Used by attorneys and legal professionals nationwide, TimeSolv provides the spec
 • Learning curve for maximizing integrated budgeting and compliance features across diverse attorney coordination requirements
 • Budget complexity may be more extensive than needed for attorneys requiring only basic time tracking and billing functionality
 • Advanced budgeting features may require significant setup time for optimal attorney practice coordination and comprehensive budget management implementation
+
+## Get Started with TimeSolv
+
+Ready to track legal time with detailed budgeting? Visit [TimeSolv](https://www.timesolv.com) to explore legal-specific time tracking with project budgeting and compliance reporting for attorneys.
