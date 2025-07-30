@@ -1,13 +1,42 @@
 ---
 title: "Soapbox"
-tagline: "Wistia's video messages"
+tagline: "Quick video messages by Wistia"
 category: "Communication & Collaboration"
 subcategory: "Async Communication"
 tool_name: "Soapbox"
 deployment_status: "deployed"
 image: "/images/tools/soapbox-placeholder.jpg"
+tags: ["communication-collaboration", "async-communication"]
+categories: ["Communication & Collaboration"]
+subcategories: ["Async Communication"]
 ---
 
 # Soapbox
 
-Soapbox revolutionizes quick video creation through Wistia's streamlined recording tool that enables professionals to capture screen and webcam videos, share knowledge efficiently, and maintain video quality while leveraging Wistia's video expertise and proven effectiveness in business communication contexts. This platform provides extensive features for split-screen recording, instant sharing, viewer analytics, and password protection while offering advanced capabilities like custom thumbnails, video trimming, and download options. Soapbox's strength lies in its simplicity and Wistia integration, offering unified video messaging that combines recording ease with professional hosting through Wistia's infrastructure and proven reliability in video delivery. The platform excels at serving marketers, educators, and remote teams requiring quick video communication with features like one-take recording, shareable links, and engagement metrics that enable everything from product updates to training videos with viewer insights, team folders, and branding options while providing users with Chrome extension access, mobile-friendly playback, and proven video hosting capabilities that makes asynchronous video communication professional and accessible without complex editing requirements.
+Soapbox by Wistia makes creating quick video messages as easy as taking a screenshot. Record your screen, webcam, or both with a simple Chrome extension, then share instantly with anyone.
+
+Built by the video experts at Wistia, Soapbox combines the simplicity of casual video messaging with the quality and reliability of professional video hosting. It's perfect for when you need to show, not just tell.
+
+## Key Features
+- **One-Click Recording**: Chrome extension makes recording as easy as clicking a button
+- **Split-Screen Mode**: Show your screen and face simultaneously for better connection
+- **Instant Sharing**: Get shareable links immediately after recording
+- **Basic Editing**: Trim videos and add custom thumbnails
+- **Viewer Analytics**: See who watched and how much they viewed
+- **Password Protection**: Keep sensitive videos secure
+
+## Perfect For
+- Support teams demonstrating solutions
+- Sales reps creating personalized pitches
+- Managers giving quick updates and feedback
+- Anyone who needs to explain something visual quickly
+
+## Why Teams Love Soapbox
+Soapbox eliminates the complexity of video creation. Instead of learning complex recording software, you click a button and start talking. The Wistia hosting ensures your videos load quickly and look professional, even when shared with external clients.
+
+## Get Started with Soapbox
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://wistia.com/soapbox" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Soapbox →</a>
+  <a href="https://chrome.google.com/webstore/detail/soapbox-by-wistia/cpjehkhhjdnkpgkbndfhbnibhkjjklhk" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Install Extension →</a>
+</div>
