@@ -23,6 +23,10 @@ Landbot transforms lead generation and customer engagement through visually stun
 • Strong integration capabilities
 • Great for lead generation
 
+## Get Started with Landbot
+
+Ready to transform your lead generation with conversational experiences? Visit [Landbot](https://landbot.io) to create engaging chat-like interfaces that dramatically increase conversion rates over traditional forms.
+
 ### Cons
 • Limited AI conversation capabilities
 • Primarily form replacement focus

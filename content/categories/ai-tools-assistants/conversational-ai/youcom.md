@@ -19,6 +19,12 @@ breadcrumbs:
 
 # You.com
 
+You.com reimagines search by combining AI-powered responses with real-time web results, delivering instant answers while maintaining privacy and providing transparent source citations. This innovative search platform goes beyond traditional search engines by understanding natural language queries and generating comprehensive responses that synthesize information from multiple sources.
+
+## Get Started with You.com
+
+Ready to experience AI-powered search with privacy? Visit [You.com](https://you.com) to get instant answers with real-time information and transparent source citations in a privacy-focused search platform.
+
 You.com combines AI-powered search with real-time web access to deliver direct answers instead of endless link lists. Rather than keyword matching, it understands natural language queries and synthesizes information from multiple sources into coherent, cited responses.
 
 The key differentiator is its privacy-first approach and transparent sourcing. Every answer includes verifiable references, there's no tracking or ads cluttering results, and you get intelligent responses to complex queries that would typically require multiple searches.

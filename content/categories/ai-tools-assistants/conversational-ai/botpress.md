@@ -18,6 +18,10 @@ Botpress empowers developers and enterprises to build sophisticated, customizabl
 ### Pros
 • Complete customization freedom
 • No vendor lock-in
+
+## Get Started with Botpress
+
+Ready to build sophisticated, customizable chatbots? Visit [Botpress](https://botpress.com) to explore the open-source platform that gives you complete control over your conversational AI infrastructure.
 • Enterprise-grade capabilities
 • Strong developer community
 • Advanced AI features

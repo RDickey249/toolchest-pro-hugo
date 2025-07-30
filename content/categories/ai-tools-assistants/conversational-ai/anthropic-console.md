@@ -13,6 +13,10 @@ Anthropic Console provides developers and businesses with direct API access to C
 • **Team management** - Collaborative features for development teams
 • **Comprehensive documentation** - Extensive guides and code examples
 
+## Get Started with Anthropic Console
+
+Ready to integrate Claude's powerful AI into your applications? Visit [Anthropic Console](https://console.anthropic.com) to access Claude's API with professional developer tools and enterprise-grade infrastructure.
+
 ## Pros and Cons
 
 ### Pros

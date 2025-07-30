@@ -13,6 +13,10 @@ Mistral AI champions the open-source AI movement, delivering powerful language m
 • **European data sovereignty** - GDPR-compliant infrastructure
 • **Developer-friendly** - Extensive documentation and community support
 
+## Get Started with Mistral
+
+Ready to explore open-source AI models? Visit [Mistral AI](https://mistral.ai) to access powerful language models with full transparency, customization options, and flexible deployment choices.
+
 ## Pros and Cons
 
 ### Pros

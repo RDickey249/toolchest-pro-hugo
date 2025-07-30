@@ -33,6 +33,10 @@ It's ideal for AI power users, researchers, and developers who regularly work wi
 - **Cross-platform sync** - Seamless experience across web and mobile apps
 - **Conversation history** - Access all your chats across different models
 - **Model marketplace** - Discover community-created specialized bots
+
+## Get Started with Poe
+
+Ready to access multiple AI models in one platform? Visit [Poe](https://poe.com) to chat with ChatGPT, Claude, GPT-4, and more specialized AI assistants in one unified interface.
 - **Single subscription** - One payment for multiple premium AI models
 - **Fast response times** - Optimized infrastructure for quick AI interactions
 

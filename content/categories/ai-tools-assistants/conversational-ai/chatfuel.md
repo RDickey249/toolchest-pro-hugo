@@ -34,7 +34,9 @@ Chatfuel is perfect for small businesses, e-commerce stores, and marketers focus
 • Limited customization options
 • Broadcast messaging restrictions
 
-[Build Your Bot with Chatfuel →](https://chatfuel.com)
+## Get Started with Chatfuel
+
+Ready to automate your Facebook and Instagram engagement? Visit [Chatfuel](https://chatfuel.com) to create visual chatbots that drive sales and engage customers on Meta platforms.
 
 ## How It Compares
 
