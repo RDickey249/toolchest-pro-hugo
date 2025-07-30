@@ -1,6 +1,8 @@
 # Mem
 
-Mem transforms knowledge management by using AI to automatically organize, connect, and surface your notes, ideas, and information when you need them most, eliminating the traditional folder structures and tagging systems that often become barriers to accessing your own knowledge. This intelligent platform functions as a personal knowledge assistant that understands context and relationships between your thoughts, automatically linking related concepts and surfacing relevant information as you work, think, and create. Mem's strength lies in its ability to make knowledge management effortless by removing the organizational overhead that typically prevents people from capturing and utilizing their ideas effectively, instead focusing on intelligent retrieval and contextual connections. The platform excels at serving knowledge workers, researchers, writers, and professionals who accumulate vast amounts of information but struggle to find and leverage their insights when making decisions, solving problems, or developing new ideas. Whether you're conducting research, managing projects, or building a personal knowledge base, Mem provides the AI-powered organization that transforms scattered thoughts into a coherent, accessible intelligence system. Its combination of frictionless capture and intelligent retrieval makes it indispensable for anyone who recognizes that their accumulated knowledge should be their competitive advantage rather than a disorganized liability.
+Mem is the AI-powered knowledge management platform that automatically organizes, connects, and surfaces your notes and ideas without manual filing systems or traditional folder structures.
+
+Used by knowledge workers, researchers, and writers, Mem offers smart search, contextual connections, frictionless capture, and collaborative features. Transform scattered thoughts into accessible intelligence with AI organization and intelligent retrieval capabilities.
 
 ## Key Features
 
