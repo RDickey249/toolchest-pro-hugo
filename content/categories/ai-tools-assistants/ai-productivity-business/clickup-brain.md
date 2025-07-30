@@ -30,7 +30,9 @@ ClickUp Brain transforms project management by integrating artificial intelligen
 • Complex interface may intimidate some users
 • Most valuable for teams already using ClickUp
 
-[Supercharge Projects with ClickUp Brain →](https://clickup.com/brain)
+## Get Started with ClickUp Brain
+
+Ready to add AI to your project management workflow? Visit [ClickUp Brain](https://clickup.com/ai) to explore AI-powered project assistance within ClickUp's comprehensive workspace platform.
 
 ## How It Compares
 

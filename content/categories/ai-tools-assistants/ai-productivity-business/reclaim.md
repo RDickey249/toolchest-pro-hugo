@@ -30,7 +30,9 @@ Reclaim revolutionizes work-life balance by intelligently defending your calenda
 • May not suit all work environments
 • Subscription required for full features
 
-[Defend Your Calendar with Reclaim →](https://reclaim.ai)
+## Get Started with Reclaim
+
+Ready to protect your focus time and build better work habits? Visit [Reclaim.ai](https://reclaim.ai) to connect your Google Calendar and let AI automatically defend your time for what matters most.
 
 ## How It Compares
 

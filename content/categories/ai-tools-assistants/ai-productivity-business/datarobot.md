@@ -34,7 +34,9 @@ Perfect for large enterprises, government agencies, and organizations deploying 
 • Best suited for organizations with substantial data volumes
 • Requires commitment to enterprise AI strategy
 
-[Deploy Enterprise AI with DataRobot →](https://www.datarobot.com)
+## Get Started with DataRobot
+
+Ready to deploy enterprise-grade AI at scale? Visit [DataRobot](https://www.datarobot.com) to explore automated machine learning solutions designed for large organizations with governance and compliance requirements.
 
 ## How It Compares
 

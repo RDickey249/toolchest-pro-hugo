@@ -13,6 +13,10 @@ Beautiful.ai transforms presentation creation from a time-consuming design chall
 • **Advanced animation and transitions** - Subtle, professional motion effects that enhance rather than distract from content
 • **Seamless sharing and analytics** - Easy distribution with viewer engagement tracking and presentation performance insights
 
+## Get Started with Beautiful.ai
+
+Ready to create stunning presentations with AI design assistance? Visit [Beautiful.AI](https://www.beautiful.ai) to transform your content into professionally designed presentations that maintain brand consistency automatically.
+
 ## Pros and Cons
 
 ### Pros

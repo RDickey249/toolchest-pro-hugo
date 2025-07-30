@@ -30,7 +30,9 @@ IFTTT (If This Then That) simplifies automation for everyday users by connecting
 • Limited customization options
 • Can be slow to execute some automations
 
-[Simplify Automation with IFTTT →](https://ifttt.com)
+## Get Started with IFTTT
+
+Ready to automate your digital life? Visit [IFTTT](https://ifttt.com) to create simple "if this, then that" automations that connect your apps, devices, and online services effortlessly.
 
 ## How It Compares
 

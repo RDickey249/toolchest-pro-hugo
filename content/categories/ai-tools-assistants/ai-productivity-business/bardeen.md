@@ -30,7 +30,9 @@ Bardeen revolutionizes browser-based productivity by enabling users to automate 
 • May break with major website redesigns
 • Less suitable for server-side automation
 
-[Automate Your Browser with Bardeen →](https://bardeen.ai)
+## Get Started with Bardeen
+
+Ready to automate your browser tasks with AI? Visit [Bardeen](https://www.bardeen.ai) to install the browser extension and start creating intelligent workflows using natural language commands.
 
 ## How It Compares
 

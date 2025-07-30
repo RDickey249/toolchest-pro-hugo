@@ -13,6 +13,10 @@ Obviously AI democratizes machine learning by enabling business users to build s
 • **Collaboration features** - Share models and insights across teams
 • **API access** - Integrate predictions into existing applications and workflows
 
+## Get Started with Obviously AI
+
+Ready to build predictive models without coding? Visit [Obviously AI](https://www.obviously.ai) to create sophisticated machine learning models using simple drag-and-drop tools and natural language queries.
+
 ## Pros and Cons
 
 ### Pros
