@@ -33,3 +33,10 @@ The platform is ideal for small businesses establishing basic automation workflo
 • Basic customization capabilities may not meet complex workflow requirements and specialized needs
 • Scalability may be constrained for rapidly growing businesses with evolving automation requirements
 • Advanced features and sophisticated workflows may require migration to more comprehensive platforms
+
+## Get Started with Automate.io
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://automate.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Automate.io →</a>
+  <a href="https://automate.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

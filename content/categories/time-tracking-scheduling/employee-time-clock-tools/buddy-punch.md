@@ -33,3 +33,10 @@ Buddy Punch works best for construction companies, field service teams, and busi
 • Technology requirements for biometric verification may limit accessibility for some employee demographics
 • Learning curve for implementing comprehensive security features and verification system optimization
 • Potential technical issues with facial recognition accuracy requiring proper setup and environmental considerations
+
+## Get Started with Buddy Punch
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://buddypunch.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Buddy Punch →</a>
+  <a href="https://buddypunch.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

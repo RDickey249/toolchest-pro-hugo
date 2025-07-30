@@ -31,3 +31,10 @@ Used by over 9,500 organizations including Thermo Fisher and Old Dominion, Activ
 • Premium pricing for advanced analytics features may be expensive for small organizations with basic monitoring needs
 • Potential employee resistance to comprehensive monitoring requiring change management and transparent communication strategies
 • Advanced customization may require significant time investment for optimal workforce analytics configuration and implementation
+
+## Get Started with ActivTrak
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.activtrak.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ActivTrak →</a>
+  <a href="https://www.activtrak.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

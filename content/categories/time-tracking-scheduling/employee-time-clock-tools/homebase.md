@@ -31,3 +31,10 @@ Used by over 100,000 small businesses including restaurants, retail stores, and 
 • Integration ecosystem could be more extensive for complex business workflow connectivity and automation
 • Advanced features may require premium subscriptions increasing costs for comprehensive workforce management functionality
 • Learning curve for maximizing integrated features across time tracking, scheduling, and payroll coordination
+
+## Get Started with Homebase
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://joinhomebase.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Homebase →</a>
+  <a href="https://joinhomebase.com/get-started" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

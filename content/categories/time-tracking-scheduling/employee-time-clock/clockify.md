@@ -33,3 +33,10 @@ The platform is ideal for small businesses requiring affordable time tracking so
 • Free tier limitations may restrict access to advanced reporting and comprehensive analytics for complex organizational needs
 • Learning curve for maximizing timesheet management and team coordination across diverse project and workforce requirements
 • Integration ecosystem could be more extensive for complex business workflow connectivity and advanced automation needs
+
+## Get Started with Clockify
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://clockify.me" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Clockify →</a>
+  <a href="https://clockify.me/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

@@ -31,3 +31,10 @@ Used by businesses from small retailers to large manufacturers, uAttend provides
 • Limited advanced workforce analytics compared to specialized human resource management platforms
 • Setup and configuration may require technical expertise for optimal hardware and software integration
 • Advanced features may require higher-tier subscriptions increasing costs for larger organizations
+
+## Get Started with uAttend
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.uattend.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit uAttend →</a>
+  <a href="https://www.uattend.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

@@ -33,3 +33,10 @@ The platform is ideal for teams using multiple productivity tools that need unif
 • Learning curve for optimizing cross-platform workflows and maximizing integration capabilities across diverse tool environments
 • Platform dependency may create workflow disruptions if connected productivity tools experience issues or configuration changes
 • Advanced integration features may require significant setup time for optimal productivity workflow coordination and management
+
+## Get Started with Toggl Track
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://toggl.com/track" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Toggl Track →</a>
+  <a href="https://toggl.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

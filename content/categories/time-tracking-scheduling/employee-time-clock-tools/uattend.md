@@ -33,3 +33,10 @@ uAttend serves manufacturing facilities, healthcare organizations, and businesse
 • Technology requirements for biometric systems may limit accessibility and require employee training for optimization
 • Learning curve for implementing dual-mode verification systems and maximizing workforce management capabilities
 • Maintenance requirements for biometric hardware may increase operational complexity and ongoing support needs
+
+## Get Started with uAttend
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.uattend.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit uAttend →</a>
+  <a href="https://www.uattend.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

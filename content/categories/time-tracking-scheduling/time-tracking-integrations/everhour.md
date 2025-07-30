@@ -31,3 +31,10 @@ Used by 8,000+ agencies and consulting firms, Everhour offers seamless integrati
 • Learning curve for maximizing budgeting and task management integration across diverse project and financial workflow environments
 • Integration complexity may require significant configuration time for optimal project financial coordination and budget management
 • Advanced features may require premium subscriptions increasing costs for comprehensive budgeting integration and project functionality
+
+## Get Started with Everhour
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://everhour.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Everhour →</a>
+  <a href="https://everhour.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

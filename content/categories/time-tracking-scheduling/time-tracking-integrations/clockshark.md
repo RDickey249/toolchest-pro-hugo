@@ -31,3 +31,10 @@ Used by construction companies, contractors, and field service teams nationwide,
 • Learning curve for maximizing industry integrations and construction field service workflow optimization capabilities
 • Limited applicability outside construction and field service industries compared to general-purpose time tracking platforms
 • Advanced features may require premium subscriptions increasing costs for comprehensive industry integration and specialized functionality
+
+## Get Started with ClockShark
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.clockshark.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ClockShark →</a>
+  <a href="https://www.clockshark.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
