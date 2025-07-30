@@ -33,3 +33,10 @@ The platform is ideal for project teams that need detailed task-level time track
 • Advanced features may require premium subscriptions increasing costs for comprehensive functionality
 • Customization flexibility may require significant time investment for optimal workflow configuration
 • Feature richness may be unnecessary for teams with basic time tracking requirements without project management needs
+
+## Get Started with ClickUp
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://clickup.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ClickUp →</a>
+  <a href="https://clickup.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>

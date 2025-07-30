@@ -29,3 +29,10 @@ Replicon delivers enterprise-grade timesheet and billing software through compre
 • Feature complexity may be overwhelming for organizations with basic timesheet tracking requirements
 • Advanced functionality may require dedicated administrative resources for ongoing system management
 • Learning curve exists for maximizing comprehensive enterprise features and billing capabilities
+
+## Get Started with Replicon
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.replicon.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Replicon →</a>
+  <a href="https://www.replicon.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
