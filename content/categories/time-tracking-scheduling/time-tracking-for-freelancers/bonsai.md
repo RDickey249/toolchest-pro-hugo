@@ -6,28 +6,35 @@ Used by over 500,000 freelancers and agencies worldwide, Bonsai combines profess
 
 ## Key Features
 
-• **Time tracking with workflow integration** - Comprehensive time capture connected with proposal development and comprehensive freelance business coordination
-• **Proposal creation and management** - Professional proposal development with template systems and comprehensive client presentation automation
-• **Integrated payment processing** - Seamless payment automation with multiple payment methods and comprehensive financial transaction coordination
-• **Client onboarding and management** - Professional client acquisition with comprehensive relationship management and strategic coordination capabilities
-• **Contract generation and administration** - Automated contract creation with legal templates and comprehensive client agreement management
-• **Team collaboration for freelancers** - Collaborative features supporting freelance team coordination and comprehensive project management capabilities
-• **Advanced business analytics** - Strategic insights combining time data with business metrics and comprehensive freelance performance intelligence
-• **Comprehensive financial management** - Professional financial tracking with expense management and comprehensive business financial coordination
+• **Professional proposals** - Create stunning proposals with templates and e-signature integration
+• **Smart contracts** - Generate legally-sound contracts with automated terms and conditions
+• **Time tracking** - Track billable hours with automatic invoicing and project allocation
+• **Payment processing** - Accept payments online with automatic late payment reminders
+• **Client management** - Organize client information, communications, and project history
+• **Expense tracking** - Track business expenses and automatically include in client invoices
+• **Accounting integration** - Connect with QuickBooks, Xero, and other accounting tools
+• **Team collaboration** - Add team members and manage client work together
 
 ## Pros and Cons
 
 ### Pros
-• Excellent end-to-end functionality providing comprehensive freelance business management from proposals to payments and business coordination
-• Strong proposal and payment integration ensuring professional client acquisition and streamlined financial transaction automation
-• Good client management features supporting comprehensive relationship development and strategic freelance business growth
-• User-friendly interface encouraging adoption while providing sophisticated business automation and client coordination capabilities
-• Comprehensive financial features improving freelance professionalism and strategic business financial management optimization
-• Regular platform updates with focus on freelance business needs and comprehensive workflow automation for operational excellence
+• Complete freelance business solution eliminates need for multiple separate tools
+• Professional proposals and contracts help win more clients and protect your work
+• Automated invoicing and payment reminders reduce administrative overhead
+• Clean, intuitive interface makes complex business tasks simple
+• Strong integration with popular accounting and project management tools
+• Excellent customer support with helpful onboarding resources
 
 ### Cons
-• Comprehensive functionality may overwhelm freelancers seeking simple time tracking without extensive business management and automation features
-• Premium pricing for advanced business features may be expensive for new freelancers with limited revenue and budget constraints
-• Learning curve for maximizing integrated business features across time tracking, proposals, and payment processing coordination
-• Business complexity may be more extensive than needed for freelancers requiring only basic time tracking and billing functionality
-• Advanced automation features may require significant setup time for optimal freelance business coordination and client management implementation
+• Monthly subscription cost may be high for very new freelancers
+• Full feature set has learning curve to maximize effectiveness
+• Some advanced features may be overkill for simple freelance work
+• Limited customization options for proposals and contracts
+• Payment processing fees add to overall cost of the platform
+
+## Get Started with Bonsai
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.hellobonsai.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Bonsai →</a>
+  <a href="https://www.hellobonsai.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
+</div>
