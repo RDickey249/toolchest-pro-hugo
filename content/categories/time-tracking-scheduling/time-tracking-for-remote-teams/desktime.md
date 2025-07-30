@@ -36,14 +36,14 @@ DeskTime eliminates the friction of time tracking by working automatically. Inst
 
 ## Key Features
 
-• **Automatic time tracking for remote teams** - Intelligent time capture with remote workforce monitoring and comprehensive automatic productivity coordination
-• **Efficiency reports and analysis** - Detailed productivity reporting with remote team efficiency insights and comprehensive performance optimization
-• **Workforce productivity insights** - Advanced analytics combining automatic tracking with remote team performance assessment and strategic optimization
-• **Team coordination with automation** - Remote team oversight with automated monitoring and comprehensive workforce coordination capabilities
-• **Advanced analytics with optimization** - Strategic insights supporting remote team efficiency improvement and comprehensive productivity enhancement
-• **Performance tracking with verification** - Remote work verification with automatic performance monitoring and comprehensive accountability coordination
-• **Mobile automatic tracking** - Field-friendly apps with automatic remote monitoring and comprehensive workforce coordination from any location
-• **Strategic efficiency intelligence** - Performance insights supporting remote team optimization and strategic workforce development through automatic analytics
+• **Automatic time tracking** - Runs silently in background without manual timers or input
+• **Productivity analysis** - Categorizes applications and websites as productive or unproductive
+• **Team dashboards** - Manager views with productivity insights and efficiency trends
+• **Offline tracking** - Continues monitoring even without internet connection
+• **Privacy controls** - Users control what data to share and when to pause tracking
+• **Detailed reporting** - Time breakdowns by project, application, and productivity level
+• **Mobile apps** - Track time across devices with seamless synchronization
+• **Efficiency insights** - Identify time drains and optimization opportunities
 
 ## Pros and Cons
 
