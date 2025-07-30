@@ -13,3 +13,7 @@ image: "/images/tools/any-do-placeholder.jpg"
 Any.do is the simple task manager that combines to-do lists, calendar, and reminders with voice input for hands-free task creation. Organize your day with elegant lists, smart scheduling, and seamless synchronization.
 
 Used by millions worldwide, Any.do offers voice task creation, location-based reminders, and shared lists for family and teams. Plan your day, set recurring reminders, collaborate on projects, and stay organized with clean, intuitive design across all devices.
+
+## Get Started with Any.do
+
+Ready to simplify task management? Visit [Any.do](https://www.any.do) to explore simple task lists with calendar integration, voice input, and hands-free task creation.

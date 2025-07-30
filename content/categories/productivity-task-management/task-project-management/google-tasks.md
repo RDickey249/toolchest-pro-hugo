@@ -13,3 +13,7 @@ image: "/images/tools/google-tasks-placeholder.jpg"
 Google Tasks is the simple task manager built into Gmail and Google Calendar that lets you create tasks from emails, organize with subtasks, and sync across all devices. Perfect for Google Workspace users.
 
 Used by millions worldwide, Google Tasks integrates seamlessly with Gmail for email-to-task conversion and Calendar for scheduling. Create tasks with Google Assistant, organize with due dates and subtasks, and access from any device with automatic synchronization.
+
+## Get Started with Google Tasks
+
+Ready to integrate task management with Google Workspace? Visit [Google Tasks](https://tasks.google.com) or access it directly from Gmail and Google Calendar to start creating tasks from emails and organizing with subtasks.

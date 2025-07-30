@@ -13,4 +13,10 @@ subcategories: ["Note-Taking & Knowledge Management"]
 
 # Obsidian
 
-Obsidian revolutionizes personal knowledge management through powerful linking capabilities that enable users to create interconnected thought networks visualizing relationships between ideas while maintaining complete data ownership and proven effectiveness across research and creative workflows. This platform provides extensive features for bidirectional linking, graph visualization, markdown editing, and plugin ecosystem while offering advanced capabilities like custom CSS, community plugins, and mobile sync. Obsidian's strength lies in its local-first philosophy and extensibility, offering future-proof note-taking that stores everything in plain text files with powerful knowledge graph visualization and proven longevity without vendor lock-in. The platform excels at serving researchers, writers, and knowledge workers requiring interconnected notes with features like daily notes, templates, and canvas view that enable everything from Zettelkasten systems to personal wikis with tag hierarchies, embedded searches, and workflow automation while providing users with keyboard-centric interfaces, end-to-end encryption options, and proven methodology for building enduring personal knowledge management systems.
+Obsidian is the linked note-taking platform that revolutionizes personal knowledge management through powerful linking capabilities. Create interconnected thought networks that visualize relationships between ideas while maintaining complete data ownership and local file control.
+
+Used by researchers, writers, and knowledge workers worldwide, Obsidian provides bidirectional linking, graph visualization, markdown editing, and an extensive plugin ecosystem. Build everything from Zettelkasten systems to personal wikis with daily notes, templates, and canvas view.
+
+## Get Started with Obsidian
+
+Ready to revolutionize your knowledge management? Visit [Obsidian](https://obsidian.md) to explore linked note-taking with powerful connections, graph visualization, and complete data ownership.

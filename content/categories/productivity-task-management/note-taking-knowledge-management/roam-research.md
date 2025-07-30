@@ -13,4 +13,10 @@ subcategories: ["Note-Taking & Knowledge Management"]
 
 # Roam Research
 
-Roam Research revolutionizes thought capture through block-reference architecture that enables researchers to create fluid, non-linear knowledge graphs where every piece of information becomes reusable and interconnected while maintaining context and proven effectiveness across academic and creative research. This platform provides extensive features for daily notes, block embedding, bidirectional links, and queries while offering advanced capabilities like version history, multiplayer collaboration, and custom JavaScript. Roam's strength lies in its temporal organization and block references, offering revolutionary note-taking that treats thoughts as building blocks with powerful query language and proven adoption among researchers and thinkers. The platform excels at serving academics, writers, and systems thinkers requiring non-hierarchical organization with features like sidebar workflows, filtered references, and delta exports that enable everything from research synthesis to creative exploration with citation management, collaborative graphs, and temporal navigation while providing users with keyboard shortcuts, advanced queries, and proven methodology for capturing thoughts in ways that reveal emergent patterns and unexpected connections.
+Roam Research revolutionizes thought capture through block-reference architecture that enables researchers to create fluid, non-linear knowledge graphs where every piece of information becomes reusable and interconnected. This platform treats thoughts as building blocks with temporal organization and powerful query capabilities.
+
+Used by academics, writers, and systems thinkers worldwide, Roam Research provides daily notes, block embedding, bidirectional links, and advanced queries. Create research synthesis and creative exploration with collaborative graphs, citation management, and temporal navigation.
+
+## Get Started with Roam Research
+
+Ready to transform thought capture? Visit [Roam Research](https://roamresearch.com) to explore network thinking with block-reference architecture and fluid, non-linear knowledge graphs.
