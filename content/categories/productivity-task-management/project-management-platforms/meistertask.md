@@ -6,6 +6,10 @@ The platform's strength lies in its perfect balance of simplicity and functional
 
 MeisterTask is ideal for creative teams, marketing departments, and small businesses where user adoption and team engagement are critical. Its visually appealing interface and intuitive design make it perfect for organizations that want project management tools their teams will actually enjoy using.
 
+## Get Started with MeisterTask
+
+Ready to make project management beautiful? Visit [MeisterTask](https://www.meistertask.com) to explore Kanban-style project management with visual workflow organization and seamless team collaboration.
+
 ## Key Features
 
 • **Beautiful Kanban-style boards** - Visually appealing project organization with customizable columns and card layouts

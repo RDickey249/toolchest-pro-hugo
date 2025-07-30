@@ -6,6 +6,10 @@ The platform stands out for its excellent value proposition, offering Gantt char
 
 Perfect for startups, small businesses, and growing organizations establishing project management practices. If you need professional project coordination capabilities but can't justify expensive enterprise software costs, nTask provides comprehensive functionality without breaking the budget.
 
+## Get Started with nTask
+
+Ready to access professional project management at budget-friendly pricing? Visit [nTask](https://www.ntaskmanager.com) to explore comprehensive task management, time tracking, and project planning designed for cost-conscious teams.
+
 ## Key Features
 
 • **Comprehensive task management** - Detailed task organization with assignments, priorities, dependencies, and progress tracking

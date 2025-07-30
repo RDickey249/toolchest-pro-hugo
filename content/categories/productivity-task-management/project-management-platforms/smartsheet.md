@@ -6,6 +6,10 @@ The key advantage is eliminating the typical learning curve of project managemen
 
 Ideal for organizations transitioning from spreadsheet-based tracking, marketing teams managing campaigns, and construction companies coordinating complex projects. If you need sophisticated project management but want to avoid the complexity of traditional PM software, Smartsheet bridges that gap perfectly.
 
+## Get Started with Smartsheet
+
+Ready to transform spreadsheets into project management? Visit [Smartsheet](https://www.smartsheet.com) to combine familiar spreadsheet interfaces with enterprise-grade project coordination capabilities.
+
 ## Key Features
 
 • **Spreadsheet-based interface** - Familiar grid view with advanced project management capabilities and collaborative features

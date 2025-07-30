@@ -4,6 +4,10 @@ Podio is the flexible work platform that lets you build custom applications for 
 
 Used by companies like Sony Music and Mercedes-Benz, Podio replaces multiple business tools with custom-built applications. Drag and drop fields to create workflows, automate processes with conditional logic, and collaborate with built-in chat and file sharing.
 
+## Get Started with Podio
+
+Ready to build custom business applications? Visit [Podio](https://podio.com) to create tailored CRM systems, project trackers, and process management tools without coding.
+
 ## Key Features
 
 • **Custom application builder** - No-code platform for creating tailored business applications and workflow solutions

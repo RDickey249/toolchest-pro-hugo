@@ -4,6 +4,10 @@ Redbooth is the integrated project management platform that combines advanced pl
 
 Used by growing businesses and distributed teams worldwide, Redbooth offers comprehensive project planning, time tracking, workload management, and real-time collaboration. Manage complex projects, coordinate marketing campaigns, and maintain team alignment with advanced project management capabilities.
 
+## Get Started with Redbooth
+
+Ready to integrate project management with team collaboration? Visit [Redbooth](https://redbooth.com) to coordinate projects with Gantt charts, task dependencies, and built-in team communication.
+
 ## Key Features
 
 • **Advanced project management** - Comprehensive planning tools with Gantt charts, task dependencies, and milestone tracking

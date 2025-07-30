@@ -17,6 +17,10 @@ Asana is the comprehensive team project management platform that balances powerf
 
 Used by marketing teams, product teams, and cross-functional organizations worldwide, Asana offers task management, timeline tracking, goal alignment, and portfolio reporting. Coordinate work efficiently with list, board, and calendar views while maintaining accountability and progress visibility.
 
+## Get Started with Asana
+
+Ready to balance powerful features with intuitive design? Visit [Asana](https://asana.com) to explore comprehensive team project management with flexible project views and automated workflows.
+
 ## Key Features
 
 • **Multiple project views** - Flexible visualization with list, board, timeline, and calendar views for diverse work styles

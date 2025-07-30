@@ -19,6 +19,10 @@ What makes Notion unique is its infinite flexibility and powerful database capab
 
 It's perfect for knowledge workers, startup teams, and anyone who wants complete control over their digital workspace. Whether you're building team wikis, managing projects, or organizing personal productivity systems, Notion adapts to your needs rather than forcing you into predetermined templates.
 
+## Get Started with Notion
+
+Ready to create your all-in-one workspace? Visit [Notion](https://www.notion.so) to combine notes, databases, project management, and team collaboration in a single, highly customizable platform.
+
 ## Key Features
 
 • **Block-based flexible architecture** - Modular content blocks that can be arranged and combined to create any type of page or workflow

@@ -4,6 +4,10 @@ Coda is the revolutionary document-database platform that blends documents, spre
 
 Used by product teams, operations teams, and growing companies worldwide, Coda offers dynamic documents with live databases, automation formulas, interactive elements, and real-time collaboration. Build custom business tools while maintaining document simplicity and collaborative accessibility.
 
+## Get Started with Coda
+
+Ready to revolutionize your documents? Visit [Coda](https://coda.io) to blend documents, spreadsheets, and databases into a single collaborative workspace for building custom applications.
+
 ## Key Features
 
 • **Document-database hybrid platform** - Documents that contain live databases, interactive elements, and automated workflows
