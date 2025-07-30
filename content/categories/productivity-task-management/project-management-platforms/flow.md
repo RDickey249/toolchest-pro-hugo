@@ -13,6 +13,10 @@ Perfect for small teams, creative agencies, and distributed teams who want relia
 • **Project organization** - Simple project structure with clear visibility into progress and team responsibilities
 • **Progress tracking and reporting** - Visual progress indicators with basic reporting for project health monitoring
 • **File and document management** - Centralized storage with version control and collaborative document access
+
+## Get Started with Flow
+
+Ready to simplify your team's project coordination? Visit [Flow](https://www.getflow.com) to experience streamlined task management without overwhelming complexity.
 • **Calendar and timeline integration** - Deadline management with calendar views and milestone tracking
 • **Mobile accessibility** - Native mobile apps ensuring task management and communication from any device
 • **Integration capabilities** - Connections with popular business tools and email for workflow enhancement

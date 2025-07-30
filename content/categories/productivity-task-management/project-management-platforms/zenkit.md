@@ -18,6 +18,10 @@ Zenkit revolutionizes project organization through a flexible platform that adap
 ### Pros
 • Exceptional flexibility allowing teams to view and organize projects in their preferred format
 • Strong data consistency across all views ensuring information accuracy and team alignment
+
+## Get Started with Zenkit
+
+Ready to organize projects with complete flexibility? Visit [Zenkit](https://zenkit.com) to manage projects using kanban boards, calendars, lists, mind maps, and tables in one adaptable platform.
 • Affordable pricing with generous feature access suitable for small teams and growing businesses
 • Intuitive interface that reduces learning curve and encourages team adoption
 • Good customization options for adapting to unique organizational needs and workflows
