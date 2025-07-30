@@ -13,3 +13,7 @@ image: "/images/tools/targetprocess-placeholder.jpg"
 Targetprocess is the visual agile management platform for enterprises scaling beyond individual teams. Coordinate multiple squads, track dependencies, and maintain strategic alignment with customizable kanban boards and portfolio views.
 
 Used by companies like Samsung, BMW, and MetLife, Targetprocess handles complex agile scaling challenges with visual workflow management. Create custom entities, track work across multiple teams, and get executive visibility into large agile transformations with built-in reporting and analytics.
+
+## Get Started with Targetprocess
+
+Ready to scale agile beyond individual teams? Visit [Targetprocess](https://www.targetprocess.com) to explore visual agile management for coordinating multiple squads and tracking dependencies at enterprise scale.

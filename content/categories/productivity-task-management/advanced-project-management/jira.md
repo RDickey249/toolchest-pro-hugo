@@ -13,3 +13,7 @@ image: "/images/tools/jira-placeholder.jpg"
 Jira is Atlassian's project management platform that powers agile development for software teams worldwide. Plan sprints, track issues, and ship releases with customizable workflows and comprehensive reporting.
 
 Used by over 65,000 companies including Netflix, Airbnb, and NASA, Jira scales from small development teams to enterprise organizations. Create scrum or kanban boards, automate workflows, and integrate with development tools to keep projects moving from idea to production.
+
+## Get Started with Jira
+
+Ready to power agile development? Visit [Jira](https://www.atlassian.com/software/jira) to plan sprints, track issues, and ship releases with customizable workflows and comprehensive reporting.

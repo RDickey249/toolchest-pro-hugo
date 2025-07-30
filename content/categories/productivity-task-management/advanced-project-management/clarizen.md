@@ -10,4 +10,10 @@ image: "/images/tools/clarizen-placeholder.jpg"
 
 # Clarizen
 
-Clarizen delivers enterprise-grade project portfolio management capabilities designed for organizations managing multiple complex projects simultaneously. This platform provides comprehensive resource management, portfolio planning, and strategic alignment tools that help organizations optimize their project investments. The tool offers advanced features including capacity planning, project prioritization, risk management, and detailed analytics across entire project portfolios. Teams benefit from automated workflow management, custom field configuration, and real-time dashboards that provide executive-level visibility into organizational project health. Clarizen emphasizes strategic project management through its portfolio perspective, enabling organizations to make data-driven decisions about project prioritization and resource allocation. The platform excels at serving large enterprises and PMOs that require sophisticated project governance, detailed reporting capabilities, and the ability to align project execution with strategic business objectives.
+Clarizen delivers enterprise-grade project portfolio management capabilities designed for organizations managing multiple complex projects simultaneously. This platform provides comprehensive resource management, portfolio planning, and strategic alignment tools that help organizations optimize their project investments.
+
+Used by large enterprises and PMOs worldwide, Clarizen offers capacity planning, project prioritization, risk management, and detailed analytics across entire project portfolios. Make data-driven decisions about project prioritization and resource allocation with automated workflow management and real-time dashboards.
+
+## Get Started with Clarizen
+
+Ready for enterprise project portfolio management? Visit [Clarizen](https://www.clarizen.com) to explore comprehensive resource management, strategic alignment, and portfolio planning for multiple complex projects.

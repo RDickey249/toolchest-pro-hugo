@@ -13,3 +13,7 @@ image: "/images/tools/planview-placeholder.jpg"
 Planview is the enterprise portfolio and resource management platform that connects strategy to execution for large organizations. Prioritize investments, optimize resources, and track value delivery across your entire portfolio.
 
 Trusted by companies like Nokia, Lenovo, and Western Union, Planview handles complex portfolio planning at scale. Balance demand with capacity, make strategic investment decisions, and get executive visibility into all work with advanced analytics and scenario planning.
+
+## Get Started with Planview
+
+Ready to connect strategy to execution at enterprise scale? Visit [Planview](https://www.planview.com) to explore portfolio and resource management that prioritizes investments and optimizes resources across your entire organization.
