@@ -6,7 +6,14 @@ Trusted by marketing teams, professional services firms, and mid-market organiza
 
 ## Get Started with Workzone
 
-Ready for enterprise-grade project management? Visit [Workzone](https://www.workzone.com) to explore powerful project coordination with exceptional customer support and reliable performance.
+Ready for enterprise-grade project management? 
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.workzone.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Workzone →</a>
+  <a href="https://www.workzone.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Explore powerful project coordination with exceptional customer support and reliable performance.
 
 ## Key Features
 

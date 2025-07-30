@@ -6,7 +6,14 @@ Used by growing businesses and distributed teams worldwide, Redbooth offers comp
 
 ## Get Started with Redbooth
 
-Ready to integrate project management with team collaboration? Visit [Redbooth](https://redbooth.com) to coordinate projects with Gantt charts, task dependencies, and built-in team communication.
+Ready to integrate project management with team collaboration? 
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://redbooth.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Redbooth →</a>
+  <a href="https://redbooth.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Coordinate projects with Gantt charts, task dependencies, and built-in team communication.
 
 ## Key Features
 

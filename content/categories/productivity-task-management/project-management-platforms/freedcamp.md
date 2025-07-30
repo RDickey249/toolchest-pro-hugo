@@ -6,7 +6,14 @@ Used by nonprofits, startups, and budget-conscious teams worldwide, Freedcamp pr
 
 ## Get Started with Freedcamp
 
-Access professional project management completely free. Visit [freedcamp.com](https://freedcamp.com) to manage unlimited projects and users without cost.
+Ready to access professional project management completely free?
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://freedcamp.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Freedcamp →</a>
+  <a href="https://freedcamp.com/register" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Manage unlimited projects and users without cost.
 
 ## Key Features
 

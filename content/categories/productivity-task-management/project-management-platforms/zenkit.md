@@ -13,15 +13,22 @@ Zenkit revolutionizes project organization through a flexible platform that adap
 • **Data import and export** - Flexible data portability with support for multiple file formats and migration tools
 • **Integration capabilities** - Connections with popular business tools and API access for custom integrations
 
+## Get Started with Zenkit
+
+Ready to organize projects with complete flexibility? 
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://zenkit.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zenkit →</a>
+  <a href="https://zenkit.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Manage projects using kanban boards, calendars, lists, mind maps, and tables in one adaptable platform.
+
 ## Pros and Cons
 
 ### Pros
 • Exceptional flexibility allowing teams to view and organize projects in their preferred format
 • Strong data consistency across all views ensuring information accuracy and team alignment
-
-## Get Started with Zenkit
-
-Ready to organize projects with complete flexibility? Visit [Zenkit](https://zenkit.com) to manage projects using kanban boards, calendars, lists, mind maps, and tables in one adaptable platform.
 • Affordable pricing with generous feature access suitable for small teams and growing businesses
 • Intuitive interface that reduces learning curve and encourages team adoption
 • Good customization options for adapting to unique organizational needs and workflows

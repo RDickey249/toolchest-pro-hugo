@@ -6,7 +6,14 @@ Used by creative professionals, consultants, and service providers worldwide, Pa
 
 ## Get Started with Paymo
 
-Ready to streamline your project management? Visit [Paymo](https://www.paymoapp.com) to combine project coordination with time tracking, invoicing, and client management in one comprehensive platform.
+Ready to streamline your project management?
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.paymoapp.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Paymo →</a>
+  <a href="https://www.paymoapp.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Combine project coordination with time tracking, invoicing, and client management in one comprehensive platform.
 
 ## Key Features
 

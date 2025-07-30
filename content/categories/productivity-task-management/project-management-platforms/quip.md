@@ -6,7 +6,14 @@ Used by sales teams, marketing teams, and remote teams worldwide, Quip integrate
 
 ## Get Started with Quip
 
-Ready to enhance team productivity? Visit [Quip](https://quip.com) to explore collaborative documents, spreadsheets, and chat integrated into a unified workspace for seamless team communication.
+Ready to enhance team productivity?
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://quip.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Quip →</a>
+  <a href="https://quip.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Explore collaborative documents, spreadsheets, and chat integrated into a unified workspace for seamless team communication.
 
 ## Key Features
 

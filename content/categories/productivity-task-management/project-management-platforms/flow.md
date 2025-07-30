@@ -16,7 +16,14 @@ Perfect for small teams, creative agencies, and distributed teams who want relia
 
 ## Get Started with Flow
 
-Ready to simplify your team's project coordination? Visit [Flow](https://www.getflow.com) to experience streamlined task management without overwhelming complexity.
+Ready to simplify your team's project coordination?
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.getflow.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Flow →</a>
+  <a href="https://www.getflow.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Experience streamlined task management without overwhelming complexity.
 • **Calendar and timeline integration** - Deadline management with calendar views and milestone tracking
 • **Mobile accessibility** - Native mobile apps ensuring task management and communication from any device
 • **Integration capabilities** - Connections with popular business tools and email for workflow enhancement

@@ -6,7 +6,14 @@ Used by software development teams, product managers, and startups worldwide, Sp
 
 ## Get Started with Sprintly
 
-Ready to revolutionize your agile workflow? Visit [Sprintly](https://sprint.ly) to explore story-driven project management with seamless user stories, sprint planning, and continuous delivery integration.
+Ready to revolutionize your agile workflow? 
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://sprint.ly" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Sprintly →</a>
+  <a href="https://sprint.ly/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Explore story-driven project management with seamless user stories, sprint planning, and continuous delivery integration.
 
 ## Key Features
 

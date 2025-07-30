@@ -6,7 +6,14 @@ Used by product teams, operations teams, and growing companies worldwide, Coda o
 
 ## Get Started with Coda
 
-Ready to revolutionize your documents? Visit [Coda](https://coda.io) to blend documents, spreadsheets, and databases into a single collaborative workspace for building custom applications.
+Ready to revolutionize your documents?
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://coda.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Coda →</a>
+  <a href="https://coda.io/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Blend documents, spreadsheets, and databases into a single collaborative workspace for building custom applications.
 
 ## Key Features
 

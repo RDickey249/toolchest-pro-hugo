@@ -8,7 +8,14 @@ Perfect for startups, small businesses, and growing organizations establishing p
 
 ## Get Started with nTask
 
-Ready to access professional project management at budget-friendly pricing? Visit [nTask](https://www.ntaskmanager.com) to explore comprehensive task management, time tracking, and project planning designed for cost-conscious teams.
+Ready to access professional project management at budget-friendly pricing?
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://www.ntaskmanager.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit nTask →</a>
+  <a href="https://www.ntaskmanager.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
+</div>
+
+Explore comprehensive task management, time tracking, and project planning designed for cost-conscious teams.
 
 ## Key Features
 
