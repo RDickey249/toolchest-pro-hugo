@@ -1,23 +1,23 @@
 {{ define "main" }}
 {{ if eq .RelPermalink "/categories/" }}
-    <!-- Main categories page - show all categories in weighted order -->
+    <!-- Main categories page - tank-simple grid of all categories -->
+    <div class="breadcrumb">
+        <a href="/">Home</a> > <span>Categories</span>
+    </div>
+    
     <h1>{{ .Title }}</h1>
     {{ if .Description }}
-    <p>{{ .Description }}</p>
+    <p class="page-description">{{ .Description }}</p>
     {{ end }}
     
-    <div class="categories-grid">
-        <!-- Use taxonomy approach for reliable category listing -->
+    <div class="grid grid-3" data-premium-zone="categories-grid">
         {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
         {{ $categoryPage := index $taxonomy 0 }}
-        <div class="category-card">
+        <div class="card category-card" data-premium-zone="category-card">
             <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ $categoryPage.Params.category | default $categoryName }}</a></h2>
             <p class="category-description">{{ $categoryPage.Params.tagline | default $categoryPage.Summary | truncate 120 }}</p>
-            
-            <!-- Count tools -->
             <p class="tool-count">{{ len $taxonomy }} tools</p>
             
-            <!-- Show sample tools -->
             {{ if ge (len $taxonomy) 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
@@ -27,59 +27,77 @@
                 {{ if gt (len $taxonomy) 3 }}...{{ end }}
             </div>
             {{ end }}
+            <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
         </div>
         {{ end }}
     </div>
 {{ else }}
-    <!-- Individual category taxonomy pages - show subcategories -->
-    <h1>{{ .Title }}</h1>
+    <!-- Individual category page - show subcategories and tools -->
+    <div class="breadcrumb">
+        <a href="/">Home</a> > <a href="/categories/">Categories</a> > <span>{{ .Title }}</span>
+    </div>
     
-    <!-- Collect unique subcategories -->
-    {{ $subcategories := slice }}
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+    <p class="page-description">{{ .Description }}</p>
+    {{ end }}
+    
+    <!-- Find all subcategories in this category -->
+    {{ $subcategories := dict }}
     {{ range .Pages }}
-        {{ if .Params.subcategories }}
-            {{ range .Params.subcategories }}
-                {{ if not (in $subcategories .) }}
-                    {{ $subcategories = $subcategories | append . }}
-                {{ end }}
-            {{ end }}
+        {{ if .Params.subcategory }}
+            {{ $subcat := .Params.subcategory }}
+            {{ $tools := index $subcategories $subcat | default slice }}
+            {{ $tools = $tools | append . }}
+            {{ $subcategories = merge $subcategories (dict $subcat $tools) }}
         {{ end }}
     {{ end }}
     
-    <ul class="posts-list">
-        {{ range $subcategories }}
-        <li class="posts-list-item">
-            <h2><a href="#{{ . | urlize }}">{{ . }}</a></h2>
-            <!-- Count tools in this subcategory -->
-            {{ $currentSubcat := . }}
-            {{ $toolCount := 0 }}
-            {{ range $.Pages }}
-                {{ if .Params.subcategories }}
-                    {{ if in .Params.subcategories $currentSubcat }}
-                        {{ $toolCount = add $toolCount 1 }}
-                    {{ end }}
+    <!-- Show subcategories as cards -->
+    {{ if gt (len $subcategories) 0 }}
+    <h2>Subcategories</h2>
+    <div class="grid grid-2" data-premium-zone="subcategories-grid">
+        {{ range $subcatName, $tools := $subcategories }}
+        <div class="card subcategory-card" data-premium-zone="subcategory-card">
+            <h3><a href="#{{ $subcatName | urlize }}">{{ $subcatName }}</a></h3>
+            <p class="tool-count">{{ len $tools }} tools</p>
+            <div class="sample-tools">
+                {{ range first 3 $tools }}
+                {{ .Title }}{{ if not (eq . (index (first 3 $tools) 2)) }}, {{ end }}
                 {{ end }}
-            {{ end }}
-            <p>{{ $toolCount }} tools</p>
-        </li>
+                {{ if gt (len $tools) 3 }}...{{ end }}
+            </div>
+            <span class="premium-subcat-hook" data-premium-zone="subcat-overlay" style="display: none;"></span>
+        </div>
         {{ end }}
-    </ul>
+    </div>
     
     <!-- Show tools grouped by subcategory -->
-    {{ range $subcatName := $subcategories }}
-    <h2 id="{{ $subcatName | urlize }}">{{ $subcatName }}</h2>
-    <ul class="posts-list">
-        {{ range $.Pages }}
-            {{ if .Params.subcategories }}
-                {{ if in .Params.subcategories $subcatName }}
-                <li class="posts-list-item">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                    <p>{{ .Params.tagline | default .Summary | truncate 100 }}</p>
-                </li>
-                {{ end }}
+    {{ range $subcatName, $tools := $subcategories }}
+    <section id="{{ $subcatName | urlize }}" class="subcategory-section">
+        <h2>{{ $subcatName }}</h2>
+        <div class="grid grid-3" data-premium-zone="tools-grid">
+            {{ range $tools }}
+            <div class="card tool-card" data-premium-zone="tool-card">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
+                <span class="premium-tool-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
+            </div>
             {{ end }}
+        </div>
+    </section>
+    {{ end }}
+    {{ else }}
+    <!-- Show all tools if no subcategories -->
+    <div class="grid grid-3" data-premium-zone="tools-grid">
+        {{ range .Pages }}
+        <div class="card tool-card" data-premium-zone="tool-card">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
+            <span class="premium-tool-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
+        </div>
         {{ end }}
-    </ul>
+    </div>
     {{ end }}
 {{ end }}
 {{ end }}

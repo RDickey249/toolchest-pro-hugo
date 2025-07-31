@@ -1,52 +1,59 @@
 {{ define "main" }}
-<article class="tool-page">
-    <div class="container">
-        <header class="tool-header">
-            <nav class="breadcrumb">
-                <a href="/">Home</a> > 
-                <a href="/categories/">Categories</a> > 
-                {{ if .Parent }}
-                    {{ if .Parent.Parent }}
-                    <a href="{{ .Parent.Parent.Permalink }}">{{ .Parent.Parent.Title }}</a> > 
-                    {{ end }}
-                    <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a> > 
-                {{ end }}
-                <span>{{ .Title }}</span>
-            </nav>
-            
-            <div class="tool-meta">
-                {{ if .Params.category }}
-                <span class="category-badge">{{ .Params.category }}</span>
-                {{ end }}
-                {{ if .Params.subcategory }}
-                <span class="subcategory-badge">{{ .Params.subcategory }}</span>
-                {{ end }}
-            </div>
-            
-            <h1>{{ .Title }}</h1>
-            
-            {{ if .Params.tagline }}
-            <p class="tool-tagline">{{ .Params.tagline }}</p>
+<article class="tool-page" data-premium-zone="tool-page">
+    <header class="tool-header">
+        <nav class="breadcrumb">
+            <a href="/">Home</a> > 
+            <a href="/categories/">Categories</a> > 
+            {{ if .Params.category }}
+            {{ $categoryUrl := printf "/categories/%s/" (.Params.category | lower | replaceRE "[^a-z0-9]+" "-" | replaceRE "^-|-$" "") }}
+            <a href="{{ $categoryUrl }}">{{ .Params.category }}</a> > 
             {{ end }}
-        </header>
+            <span>{{ .Title }}</span>
+        </nav>
         
-        <div class="tool-content">
-            {{ .Content }}
+        <div class="tool-meta">
+            {{ if .Params.category }}
+            <span class="category-tag">{{ .Params.category }}</span>
+            {{ end }}
+            {{ if .Params.subcategory }}
+            <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+            {{ end }}
         </div>
         
-        {{ if .Params.related }}
-        <aside class="related-tools">
-            <h3>Related Tools</h3>
-            <div class="related-grid">
-                {{ range .Site.RegularPages.Related . | first 3 }}
-                <div class="related-card">
-                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                    <p>{{ .Params.tagline | default .Summary | truncate 60 }}</p>
-                </div>
-                {{ end }}
-            </div>
-        </aside>
+        <h1>{{ .Title }}</h1>
+        
+        {{ if .Params.tagline }}
+        <p class="tool-tagline">{{ .Params.tagline }}</p>
         {{ end }}
+        
+        <span id="premium-tool-header" data-premium-zone="tool-header" style="display: none;"></span>
+    </header>
+    
+    <div class="tool-content" data-premium-zone="tool-content">
+        {{ .Content }}
+        <span id="premium-content-inject" data-premium-zone="content-inject" style="display: none;"></span>
     </div>
+    
+    <!-- Always show related tools for better navigation -->
+    <aside class="related-tools" data-premium-zone="related">
+        <h3>Related Tools</h3>
+        <div class="grid grid-3">
+            {{ $currentCategory := .Params.category }}
+            {{ $relatedTools := slice }}
+            {{ range .Site.RegularPages }}
+                {{ if and (eq .Params.category $currentCategory) (ne .Title $.Title) }}
+                    {{ $relatedTools = $relatedTools | append . }}
+                {{ end }}
+            {{ end }}
+            {{ range first 3 $relatedTools }}
+            <div class="card tool-card" data-premium-zone="related-card">
+                <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 80 }}</p>
+                <span class="premium-related-hook" data-premium-zone="related-overlay" style="display: none;"></span>
+            </div>
+            {{ end }}
+        </div>
+        <span id="premium-related-inject" data-premium-zone="related-inject" style="display: none;"></span>
+    </aside>
 </article>
 {{ end }}

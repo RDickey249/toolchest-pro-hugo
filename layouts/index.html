@@ -1,39 +1,96 @@
 {{ define "main" }}
-<div class="hero">
-    <div class="container">
-        <div class="hero-content">
-            <h1>{{ .Site.Title }}</h1>
-            <p class="hero-subtitle">{{ .Site.Params.description }}</p>
-            
-            <div class="cta">
-                <a href="/categories/" class="btn-primary">Browse All Categories</a>
-            </div>
+<div class="home-hero" data-premium-zone="hero">
+    <div class="hero-content">
+        <h1>{{ .Site.Title }}</h1>
+        <p class="hero-tagline">{{ .Site.Params.description }}</p>
+        <div class="hero-actions">
+            <a href="/categories/" class="btn btn-primary">Browse All Categories</a>
+            <span id="premium-hero-inject" data-premium-zone="hero-cta" style="display: none;"></span>
         </div>
     </div>
 </div>
 
-<section class="featured-tools">
-    <div class="container">
-        <h2>Featured Tools</h2>
-        <div class="tool-grid">
-            {{ range .Site.Data.affiliate_tools }}
-            {{ $toolName := .name | lower | replaceRE "[^a-z0-9]+" "-" | replaceRE "^-|-$" "" }}
-            {{ $toolPage := index (where $.Site.Pages ".Title" .name | first 1) 0 }}
-            {{ if not $toolPage }}
-                {{ $toolPage = index (where $.Site.Pages "eq" (.name | lower) (.Title | lower) | first 1) 0 }}
-            {{ end }}
-            {{ if $toolPage }}
-            <div class="tool-card">
-                <div class="tool-meta">
-                    <span class="tool-category">{{ .category }}</span>
-                </div>
-                <h3><a href="{{ $toolPage.Permalink }}">{{ .name }}</a></h3>
-                <p class="tool-tagline">{{ $toolPage.Params.tagline | default $toolPage.Summary | truncate 100 }}</p>
-                <a href="{{ $toolPage.Permalink }}" class="tool-link">Learn More →</a>
+<section class="featured-tools" data-premium-zone="featured">
+    <h2>Featured Tools</h2>
+    <div class="grid grid-4">
+        {{ range first 8 (where .Site.RegularPages "Type" "categories") }}
+        {{ if and .Params.featured (eq .Params.featured true) }}
+        <div class="card tool-card" data-premium-zone="tool-card">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="tool-tagline">{{ .Params.tagline }}</p>
+            <div class="tool-meta">
+                <span class="category-tag">{{ .Params.category }}</span>
+                {{ if .Params.subcategory }}
+                <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+                {{ end }}
             </div>
-            {{ end }}
-            {{ end }}
+            <span class="premium-overlay-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+    
+    <!-- Fallback: Show recent tools if no featured tools -->
+    {{ if eq (len (where (where .Site.RegularPages "Type" "categories") "Params.featured" true)) 0 }}
+    <div class="grid grid-4">
+        {{ range first 8 (where .Site.RegularPages "Type" "categories") }}
+        <div class="card tool-card" data-premium-zone="tool-card">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="tool-tagline">{{ .Params.tagline }}</p>
+            <div class="tool-meta">
+                <span class="category-tag">{{ .Params.category }}</span>
+                {{ if .Params.subcategory }}
+                <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+                {{ end }}
+            </div>
+            <span class="premium-overlay-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+</section>
+
+<section class="categories-preview" data-premium-zone="categories">
+    <div class="section-header">
+        <h2>Browse by Category</h2>
+        <a href="/categories/" class="view-all-link">View All Categories →</a>
+    </div>
+    <div class="grid grid-3">
+        {{ $count := 0 }}
+        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
+        {{ if lt $count 6 }}
+        {{ $categoryPage := index $taxonomy 0 }}
+        <div class="card category-card" data-premium-zone="category-card">
+            <h3><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ $categoryPage.Params.category | default $categoryName }}</a></h3>
+            <p class="category-description">{{ $categoryPage.Params.tagline | default $categoryPage.Summary | truncate 80 }}</p>
+            <p class="tool-count">{{ len $taxonomy }} tools</p>
+            <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
+        </div>
+        {{ $count = add $count 1 }}
+        {{ end }}
+        {{ end }}
+    </div>
+</section>
+
+<section class="stats-section" data-premium-zone="stats">
+    <div class="stats-grid">
+        <div class="stat-item">
+            <div class="stat-number">{{ len (where .Site.RegularPages "Type" "categories") }}</div>
+            <div class="stat-label">Curated Tools</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">{{ len .Site.Taxonomies.categories }}</div>
+            <div class="stat-label">Categories</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">Expert</div>
+            <div class="stat-label">Recommendations</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">Zero</div>
+            <div class="stat-label">Overwhelm</div>
         </div>
     </div>
+    <span id="premium-stats-inject" data-premium-zone="stats-overlay" style="display: none;"></span>
 </section>
 {{ end }}
