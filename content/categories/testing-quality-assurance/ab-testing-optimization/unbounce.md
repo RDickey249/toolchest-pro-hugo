@@ -6,6 +6,11 @@ subcategory: "A/B Testing & Optimization"
 tool_name: "Unbounce"
 deployment_status: "deployed"
 image: "/images/tools/unbounce-placeholder.jpg"
+tags: ["testing-quality-assurance", "ab-testing-optimization"]
+categories: ["Testing & Quality Assurance"]
+subcategories: ["A/B Testing & Optimization"]
+affiliate: true
+featured: true
 ---
 Unbounce is the landing page builder that helps you convert more visitors into leads, sales, and customers. Build, test, and optimize landing pages without a developer.
 

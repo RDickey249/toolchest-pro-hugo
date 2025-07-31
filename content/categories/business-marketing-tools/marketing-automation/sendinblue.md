@@ -9,6 +9,8 @@ image: "/images/tools/sendinblue-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
 categories: ["Business Marketing Tools"]
 subcategories: ["Marketing Automation"]
+affiliate: true
+featured: true
 ---
 Sendinblue (now Brevo) is the all-in-one marketing platform that combines email, SMS, chat, and CRM in one affordable solution. Instead of juggling multiple tools, manage all your customer communications from a single dashboard.
 
