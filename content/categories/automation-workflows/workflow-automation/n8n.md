@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/n8n-placeholder.jpg"
 external_link: "https://n8n.io"
 ---
-
-# n8n
-
 n8n is the open-source workflow automation platform that enables self-hosted automation with complete data control, node-based workflows, and custom code execution for privacy-conscious organizations.
 
 Used by developers and security-focused businesses worldwide, n8n offers webhook triggers, API integration, conditional routing, and local deployment. Build secure automations with data sovereignty and open-source flexibility for internal workflows and API orchestration.

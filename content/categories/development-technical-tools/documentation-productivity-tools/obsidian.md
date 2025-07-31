@@ -7,9 +7,6 @@ tool_name: "Obsidian"
 deployment_status: "deployed"
 image: "/images/tools/obsidian-placeholder.jpg"
 ---
-
-# Obsidian
-
 Obsidian is a personal knowledge management app that uses bidirectional linking and graph visualization to connect notes and ideas in a networked knowledge base.
 
 ## Key Features

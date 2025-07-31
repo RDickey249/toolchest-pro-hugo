@@ -7,9 +7,6 @@ tool_name: "Kubernetes"
 deployment_status: "deployed"
 image: "/images/tools/kubernetes-placeholder.jpg"
 ---
-
-# Kubernetes
-
 Kubernetes is the open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. Originally developed by Google, now the industry standard for production container orchestration.
 
 ## Key Features

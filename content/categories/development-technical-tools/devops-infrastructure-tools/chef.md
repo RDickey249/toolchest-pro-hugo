@@ -7,9 +7,6 @@ tool_name: "Chef"
 deployment_status: "deployed"
 image: "/images/tools/chef-placeholder.jpg"
 ---
-
-# Chef
-
 Chef is an infrastructure automation tool that uses Ruby-based DSL to define system configurations as code with cookbooks and recipes.
 
 ## Key Features

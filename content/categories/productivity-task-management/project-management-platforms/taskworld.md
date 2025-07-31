@@ -7,9 +7,6 @@ tool_name: "Taskworld"
 deployment_status: "deployed"
 image: "/images/tools/taskworld-placeholder.jpg"
 ---
-
-# Taskworld
-
 Taskworld enhances team productivity through visual project management that combines intuitive task organization with powerful collaboration features. This comprehensive platform addresses distributed team challenges by providing visual coordination tools that make project status and team contributions transparent.
 
 Used by remote teams, marketing departments, and growing companies worldwide, Taskworld balances visual appeal with functional depth. Coordinate complex projects while maintaining clear visibility into progress, dependencies, and team responsibilities.

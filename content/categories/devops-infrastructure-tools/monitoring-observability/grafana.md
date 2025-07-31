@@ -7,9 +7,6 @@ tool_name: "Grafana"
 deployment_status: "deployed"
 image: "/images/tools/grafana-placeholder.jpg"
 ---
-
-# Grafana
-
 Grafana is an open-source platform for monitoring and observability providing beautiful, flexible dashboards for visualizing metrics, logs, and traces from any data source.
 
 ## Key Features

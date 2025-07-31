@@ -7,9 +7,6 @@ tool_name: "Grafana"
 deployment_status: "deployed"
 image: "/images/tools/grafana-placeholder.jpg"
 ---
-
-# Grafana
-
 Grafana is a visualization dashboard platform that connects to multiple data sources to create interactive, real-time dashboards for monitoring and analytics.
 
 ## Key Features

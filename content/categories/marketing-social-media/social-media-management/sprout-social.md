@@ -7,9 +7,6 @@ tool_name: "Sprout-social"
 deployment_status: "deployed"
 image: "/images/tools/sprout-social-placeholder.jpg"
 ---
-
-# Sprout-social
-
 Sprout Social is a premium social media management platform that combines publishing, analytics, and customer care with advanced social listening capabilities.
 
 ## Key Features

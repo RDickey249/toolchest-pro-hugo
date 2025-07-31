@@ -2,9 +2,6 @@
 title: "ZoomShift"
 external_link: "https://zoomshift.com"
 ---
-
-# ZoomShift
-
 ZoomShift is a specialized employee scheduling platform designed for shift-based teams that need integrated time tracking and payroll coordination. The system combines intuitive scheduling tools with attendance tracking to streamline hourly workforce management for operational environments requiring reliable coverage and accurate compensation.
 
 ZoomShift's strength lies in its focus on hourly workers and shift-based operations, offering scheduling solutions purpose-built for fast-paced environments. The platform seamlessly connects shift planning with time tracking and payroll processing, ensuring accuracy while maintaining simplicity for daily operations.

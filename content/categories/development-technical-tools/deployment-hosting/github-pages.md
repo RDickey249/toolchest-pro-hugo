@@ -7,9 +7,6 @@ tool_name: "GitHub Pages"
 deployment_status: "deployed"
 image: "/images/tools/github-pages-placeholder.jpg"
 ---
-
-# GitHub Pages
-
 GitHub Pages is a free static site hosting service that automatically publishes websites directly from GitHub repositories with zero configuration required.
 
 ## Key Features

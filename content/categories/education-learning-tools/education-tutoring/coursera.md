@@ -7,9 +7,6 @@ tool_name: "Coursera"
 deployment_status: "deployed"
 image: "/images/tools/coursera-placeholder.jpg"
 ---
-
-# Coursera
-
 Coursera is an online learning platform offering courses, certificates, and degrees from top universities and companies worldwide. Access world-class education from institutions like Stanford, Yale, and Google.
 
 ## Key Features

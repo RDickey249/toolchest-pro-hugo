@@ -7,9 +7,6 @@ tool_name: "Sage"
 deployment_status: "deployed"
 image: "/images/tools/sage-placeholder.jpg"
 ---
-
-# Sage
-
 Sage provides comprehensive enterprise accounting and business management solutions designed for growing companies requiring sophisticated financial control and scalability.
 
 ## Key Features

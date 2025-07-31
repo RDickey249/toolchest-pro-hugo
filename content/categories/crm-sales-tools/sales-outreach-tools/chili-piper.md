@@ -7,9 +7,6 @@ tool_name: "Chili Piper"
 deployment_status: "deployed"
 image: "/images/tools/chili-piper-placeholder.jpg"
 ---
-
-# Chili Piper
-
 Chili Piper is a revenue-focused scheduling platform that enables sales teams to capture and convert leads instantly through intelligent meeting routing and qualification.
 
 ## Key Features

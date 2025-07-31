@@ -7,9 +7,6 @@ tool_name: "Monday.com CRM"
 deployment_status: "deployed"
 image: "/images/tools/monday-com-crm-placeholder.jpg"
 ---
-
-# Monday.com CRM
-
 Monday.com CRM combines visual project management methodology with customer relationship management through colorful, customizable boards and workflows.
 
 ## Key Features

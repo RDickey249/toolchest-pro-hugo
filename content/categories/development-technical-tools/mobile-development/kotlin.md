@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/kotlin-placeholder.jpg"
 external_link: "https://kotlinlang.org"
 ---
-
-# Kotlin
-
 Kotlin is Google's preferred language for Android development, offering a modern alternative to Java with null safety, coroutines, and reduced boilerplate code.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "OneNote"
 deployment_status: "deployed"
 image: "/images/tools/onenote-placeholder.jpg"
 ---
-
-# OneNote
-
 OneNote is Microsoft's free digital notebook application that provides flexible, free-form note-taking with seamless integration across the Microsoft Office ecosystem.
 
 ## Key Features

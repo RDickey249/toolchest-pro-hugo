@@ -7,9 +7,6 @@ tool_name: "Obsidian"
 deployment_status: "deployed"
 image: "/images/tools/obsidian-placeholder.jpg"
 ---
-
-# Obsidian
-
 Obsidian is a powerful note-taking app that creates interconnected knowledge networks through linking, with local file storage and extensive customization options.
 
 ## Key Features

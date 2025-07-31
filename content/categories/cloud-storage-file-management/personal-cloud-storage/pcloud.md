@@ -7,9 +7,6 @@ tool_name: "pCloud"
 deployment_status: "deployed"
 image: "/images/tools/pcloud-placeholder.jpg"
 ---
-
-# pCloud
-
 pCloud is a cloud storage service that offers unique lifetime storage plans, allowing users to secure permanent storage without recurring subscriptions while maintaining European privacy standards.
 
 ## Key Features

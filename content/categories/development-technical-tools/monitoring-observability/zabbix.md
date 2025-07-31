@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "monitoring-observability"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Monitoring & Observability"]
 ---
-
-# Zabbix
-
 Zabbix is the open-source enterprise monitoring solution trusted by organizations worldwide to keep their IT infrastructure running smoothly. It monitors everything from servers and networks to applications and services in real-time.
 
 Used by companies like ING Bank, T-Mobile, and SoftBank, Zabbix handles monitoring at massive scale while remaining completely free and open-source. It's the monitoring platform that grows with your infrastructure.

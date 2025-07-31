@@ -7,9 +7,6 @@ tool_name: "Auth0"
 deployment_status: "deployed"
 image: "/images/tools/auth0-placeholder.jpg"
 ---
-
-# Auth0
-
 Auth0 is a comprehensive identity platform providing authentication, single sign-on, and user management with developer-friendly APIs and enterprise-grade security features.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Photoshop"
 deployment_status: "deployed"
 image: "/images/tools/photoshop-placeholder.jpg"
 ---
-
-# Photoshop
-
 Adobe Photoshop is the industry-standard photo editing and digital imaging software that enables photographers and designers to enhance, manipulate, and create visual content.
 
 ## Key Features

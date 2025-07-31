@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "security-compliance-tools"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Security & Compliance Tools"]
 ---
-
-# Qualys
-
 Qualys is the cloud security platform that helps organizations identify, prioritize, and fix security vulnerabilities across their entire IT infrastructure. Trusted by over 19,000 customers worldwide, it's the comprehensive solution for vulnerability management and compliance.
 
 From Fortune 500 enterprises to government agencies, Qualys provides the continuous security monitoring and automated compliance reporting that keep organizations secure and audit-ready.

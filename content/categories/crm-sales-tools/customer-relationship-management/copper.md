@@ -7,9 +7,6 @@ tool_name: "Copper"
 deployment_status: "deployed"
 image: "/images/tools/copper-placeholder.jpg"
 ---
-
-# Copper
-
 Copper is the CRM that works the way you do. Designed specifically for Google Workspace, it automatically captures leads and manages relationships right from Gmail.
 
 ## Key Features

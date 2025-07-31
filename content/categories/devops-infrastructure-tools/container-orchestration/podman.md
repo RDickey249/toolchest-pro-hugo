@@ -7,9 +7,6 @@ tool_name: "Podman"
 deployment_status: "deployed"
 image: "/images/tools/podman-placeholder.jpg"
 ---
-
-# Podman
-
 Podman is a daemonless container engine with Docker-compatible CLI that addresses security concerns of traditional container runtimes. Features rootless containers and Kubernetes-inspired pod management.
 
 ## Key Features

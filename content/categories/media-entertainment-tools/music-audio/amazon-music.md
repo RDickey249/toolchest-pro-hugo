@@ -7,9 +7,6 @@ tool_name: "Amazon Music"
 deployment_status: "deployed"
 image: "/images/tools/amazon-music-placeholder.jpg"
 ---
-
-# Amazon Music
-
 Amazon Music is Amazon's comprehensive streaming service offering multiple tiers from Prime Music (for Prime members) to the full-featured Amazon Music Unlimited with over 100 million songs. The platform provides high-definition and ultra-high-definition audio options for audiophiles seeking premium sound quality.
 
 The service's deep integration with Alexa enables hands-free voice control, making it particularly powerful on Echo devices and throughout Amazon's smart home ecosystem. Features like X-Ray provide detailed song information and lyrics, while 360 Reality Audio offers immersive listening experiences.

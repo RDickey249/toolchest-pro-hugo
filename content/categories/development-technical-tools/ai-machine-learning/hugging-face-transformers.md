@@ -7,9 +7,6 @@ tool_name: "Hugging Face Transformers"
 deployment_status: "deployed"
 image: "/images/tools/hugging-face-transformers-placeholder.jpg"
 ---
-
-# Hugging Face Transformers
-
 Hugging Face Transformers is a comprehensive library providing pre-trained transformer models and tools for natural language processing tasks with minimal code setup.
 
 ## Key Features

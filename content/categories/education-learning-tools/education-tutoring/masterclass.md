@@ -7,9 +7,6 @@ tool_name: "Masterclass"
 deployment_status: "deployed"
 image: "/images/tools/masterclass-placeholder.jpg"
 ---
-
-# Masterclass
-
 MasterClass offers exclusive access to classes taught by world-renowned experts and celebrities. Learn from the masters in fields like cooking, writing, acting, music, sports, and business leadership.
 
 ## Key Features

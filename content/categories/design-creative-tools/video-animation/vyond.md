@@ -7,9 +7,6 @@ tool_name: "Vyond"
 deployment_status: "deployed"
 image: "/images/tools/vyond-placeholder.jpg"
 ---
-
-# Vyond
-
 Vyond is the leading platform for creating professional animated videos for business, education, and marketing. Build engaging animated stories with characters, scenes, and assets that bring your message to life.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Google Workspace"
 deployment_status: "deployed"
 image: "/images/tools/google-workspace-placeholder.jpg"
 ---
-
-# Google Workspace
-
 Google Workspace is a cloud-native business productivity suite that integrates file management with collaborative tools for team-based document creation and sharing.
 
 ## Key Features

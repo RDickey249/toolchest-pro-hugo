@@ -7,9 +7,6 @@ tool_name: "Clockify"
 deployment_status: "deployed"
 image: "/images/tools/clockify-placeholder.jpg"
 ---
-
-# Clockify
-
 Clockify is a comprehensive time tracking platform that combines detailed project logging with sophisticated reporting capabilities, all available free with unlimited users and projects. The system provides teams and individuals with powerful productivity insights while maintaining accessibility for organizations of any size.
 
 Clockify's standout feature is its generous free tier that doesn't compromise on functionality, offering professional-grade time tracking with detailed project categorization and comprehensive analytics. This approach makes advanced time management accessible to startups, freelancers, and established teams alike.

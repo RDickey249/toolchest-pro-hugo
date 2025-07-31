@@ -7,9 +7,6 @@ tool_name: "CircleCI"
 deployment_status: "deployed"
 image: "/images/tools/circleci-placeholder.jpg"
 ---
-
-# CircleCI
-
 CircleCI is a cloud-based CI/CD platform focused on speed and developer productivity. Intelligent parallelization and caching minimize build times while orbs provide reusable best-practice configurations.
 
 ## Key Features

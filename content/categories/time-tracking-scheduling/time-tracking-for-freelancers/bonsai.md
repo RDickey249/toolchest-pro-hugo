@@ -7,9 +7,6 @@ tool_name: "Bonsai"
 deployment_status: "deployed"
 image: "/images/tools/bonsai-placeholder.jpg"
 ---
-
-# Bonsai
-
 Bonsai is the all-in-one business platform built specifically for freelancers. Instead of juggling separate tools for proposals, contracts, time tracking, and payments, Bonsai handles your entire client workflow from first contact to final payment.
 
 Used by over 500,000 freelancers and agencies worldwide, Bonsai combines professional proposal creation, automated contract generation, accurate time tracking, and seamless payment processing in one integrated platform that makes running a freelance business simple and profitable.

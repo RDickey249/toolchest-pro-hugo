@@ -7,9 +7,6 @@ tool_name: "Timeneye"
 deployment_status: "deployed"
 image: "/images/tools/timeneye-placeholder.jpg"
 ---
-
-# Timeneye
-
 Timeneye is the intelligent team time tracking platform with automated time capture and comprehensive project dashboards that provides teams with smart time management and project visibility.
 
 Used by creative agencies and project teams worldwide, Timeneye offers automatic time tracking, project budgeting, team analytics, and client reporting. Streamline team time management with smart automation and visual dashboards for improved project coordination and billing accuracy.

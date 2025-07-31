@@ -10,9 +10,6 @@ tags: ["time-tracking-scheduling", "time-tracking-for-remote-teams"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking for Remote Teams"]
 ---
-
-# DeskTime
-
 DeskTime automatically tracks time and analyzes productivity without any manual input required. Start working, and DeskTime runs quietly in the background, categorizing your activities and providing detailed insights into how time is actually spent.
 
 Used by companies like Samsung, Porsche, and IBM, DeskTime helps teams understand their work patterns and identify opportunities for improved efficiency. It's particularly valuable for remote teams that need visibility into productivity.

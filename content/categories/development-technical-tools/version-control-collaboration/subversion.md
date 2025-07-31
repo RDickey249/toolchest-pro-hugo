@@ -7,9 +7,6 @@ tool_name: "Subversion (SVN)"
 deployment_status: "deployed"
 image: "/images/tools/subversion-placeholder.jpg"
 ---
-
-# Subversion (SVN)
-
 Subversion (SVN) is a centralized version control system providing comprehensive repository management, atomic commits, and enterprise-grade reliability for collaborative development.
 
 ## Key Features

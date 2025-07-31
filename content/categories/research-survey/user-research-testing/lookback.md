@@ -7,9 +7,6 @@ tool_name: "Lookback"
 deployment_status: "deployed"
 image: "/images/tools/lookback-placeholder.jpg"
 ---
-
-# Lookback
-
 Lookback is a comprehensive user research platform that specializes in both live moderated sessions and self-guided research studies. The platform supports various devices with high-quality screen, face, and voice recording capabilities, creating research environments that closely mimic in-person sessions.
 
 The platform excels at collaborative analysis with timestamped notes, highlight reels, and team workspaces for synthesizing insights. Features like automatic transcription, sentiment analysis, and powerful participant management tools streamline the research process from recruitment to final insights.

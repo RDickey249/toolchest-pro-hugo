@@ -7,9 +7,6 @@ tool_name: "Surge"
 deployment_status: "deployed"
 image: "/images/tools/surge-placeholder.jpg"
 ---
-
-# Surge
-
 Surge is a simple static web publishing platform that enables frontend developers to deploy static websites instantly with a single command, custom domains, and CDN distribution.
 
 ## Key Features

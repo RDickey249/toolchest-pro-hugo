@@ -7,9 +7,6 @@ tool_name: "Terraform"
 deployment_status: "deployed"
 image: "/images/tools/terraform-placeholder.jpg"
 ---
-
-# Terraform
-
 Terraform is an infrastructure as code tool that enables organizations to define, provision, and manage cloud resources across multiple providers with declarative configuration.
 
 ## Key Features

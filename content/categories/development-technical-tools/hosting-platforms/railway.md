@@ -7,9 +7,6 @@ tool_name: "Railway"
 deployment_status: "deployed"
 image: "/images/tools/railway-placeholder.jpg"
 ---
-
-# Railway
-
 Railway is an infrastructure platform for rapid application deployment with modern automation, Git-based deployment, automatic scaling, and comprehensive project management capabilities.
 
 ## Key Features

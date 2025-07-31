@@ -7,9 +7,6 @@ tool_name: "LawDepot"
 deployment_status: "deployed"
 image: "/images/tools/lawdepot-placeholder.jpg"
 ---
-
-# LawDepot
-
 LawDepot specializes in legal forms and document creation with comprehensive lawyer-reviewed templates for personal and business legal needs across multiple jurisdictions.
 
 ## Key Features

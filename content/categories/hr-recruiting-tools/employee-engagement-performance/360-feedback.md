@@ -7,9 +7,6 @@ tool_name: "360 Feedback"
 deployment_status: "deployed"
 image: "/images/tools/360-feedback-placeholder.jpg"
 ---
-
-# 360 Feedback
-
 360 feedback tools provide comprehensive multi-rater feedback capabilities that collect input from supervisors, peers, direct reports, and other stakeholders for complete performance insights.
 
 ## Key Features

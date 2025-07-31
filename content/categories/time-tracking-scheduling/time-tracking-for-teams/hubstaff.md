@@ -10,9 +10,6 @@ tags: ["time-tracking-scheduling", "time-tracking-for-teams"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking for Teams"]
 ---
-
-# Hubstaff
-
 Hubstaff is the time tracking platform that provides complete visibility into how your team works. With GPS tracking, screenshot monitoring, and productivity analytics, it's designed for managers who need accountability from remote and field teams.
 
 Used by companies like Groupon, Ring, and Instacart, Hubstaff helps managers verify that remote work is actually happening while providing detailed insights into team productivity and project progress.

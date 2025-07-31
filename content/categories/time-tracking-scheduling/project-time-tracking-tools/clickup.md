@@ -7,9 +7,6 @@ tool_name: "ClickUp"
 deployment_status: "deployed"
 image: "/images/tools/clickup-placeholder.jpg"
 ---
-
-# ClickUp
-
 ClickUp is the all-in-one project management platform with built-in time tracking that eliminates the need for separate tools. Track time directly from tasks, see project profitability, and manage everything from planning to delivery in one place.
 
 Used by over 10 million teams including Google, Nike, and Uber, ClickUp combines powerful project management with accurate time tracking. Start timers from any task, analyze time spent across projects, and get the insights you need to improve team productivity and project profitability.

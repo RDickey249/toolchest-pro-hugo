@@ -7,9 +7,6 @@ tool_name: "You.com"
 deployment_status: "deployed"
 image: "/images/tools/you-com-placeholder.jpg"
 ---
-
-# You.com
-
 You.com reimagines the search experience by seamlessly blending AI chat capabilities with traditional web search, creating a comprehensive platform where users can research, write, code, and create—all in one place. This privacy-focused alternative to mainstream search engines puts users in control with customizable AI modes, personalized results, and an ad-free experience. Unlike conventional search engines that track every click, You.com prioritizes user privacy while delivering AI-powered summaries, real-time information, and multimodal capabilities including image generation. Whether you're a developer leveraging code-writing assistance, a researcher needing cited sources, or a creative professional generating visual content, You.com provides a unified workspace that eliminates the need to juggle multiple tools. Its unique approach to combining search, chat, and creative tools makes it an ideal choice for users seeking a more intelligent, private, and efficient way to navigate the digital world.
 
 ## Key Features

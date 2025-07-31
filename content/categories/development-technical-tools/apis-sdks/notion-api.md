@@ -7,9 +7,6 @@ tool_name: "Notion API"
 deployment_status: "deployed"
 image: "/images/tools/notion-api-placeholder.jpg"
 ---
-
-# Notion API
-
 Notion API provides comprehensive workspace integration and database manipulation, enabling developers to build content management systems and productivity applications.
 
 ## Key Features

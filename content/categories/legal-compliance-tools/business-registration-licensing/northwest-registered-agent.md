@@ -7,9 +7,6 @@ tool_name: "Northwest Registered Agent"
 deployment_status: "deployed"
 image: "/images/tools/northwest-registered-agent-placeholder.jpg"
 ---
-
-# Northwest Registered Agent
-
 Northwest Registered Agent provides specialized registered agent services ensuring businesses maintain proper legal compliance and secure communication with state authorities.
 
 ## Key Features

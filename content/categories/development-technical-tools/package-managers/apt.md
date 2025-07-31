@@ -7,9 +7,6 @@ tool_name: "apt"
 deployment_status: "deployed"
 image: "/images/tools/apt-placeholder.jpg"
 ---
-
-# apt
-
 apt is the advanced package tool for Debian-based Linux systems, providing comprehensive software installation and system management capabilities.
 
 ## Key Features

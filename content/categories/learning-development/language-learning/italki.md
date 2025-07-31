@@ -7,9 +7,6 @@ tool_name: "italki"
 deployment_status: "deployed"
 image: "/images/tools/italki-placeholder.jpg"
 ---
-
-# italki
-
 italki is the personalized language learning platform that connects you with professional tutors for 1-on-1 lessons. Choose from over 20,000 teachers across 150+ languages for customized learning at your own pace.
 
 Used by over 20 million language learners worldwide, italki offers flexible scheduling, personalized curricula, and affordable pricing. Book trial lessons, practice conversation, prepare for exams, and track progress with professional teachers and community tutors.

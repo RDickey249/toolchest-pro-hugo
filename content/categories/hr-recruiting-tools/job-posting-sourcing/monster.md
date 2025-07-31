@@ -7,9 +7,6 @@ tool_name: "Monster"
 deployment_status: "deployed"
 image: "/images/tools/monster-placeholder.jpg"
 ---
-
-# Monster
-
 Monster is one of the original online job platforms with extensive job posting and candidate sourcing functionality. Decades of recruiting experience connect employers with active job seekers across all industries and experience levels.
 
 ## Key Features

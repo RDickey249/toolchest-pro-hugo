@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Dropbox Paper
-
 Dropbox Paper is the minimalist collaborative writing platform that focuses on content over formatting, enabling teams to create beautiful documents with embedded media, tasks, and timelines.
 
 Built with simplicity as a core principle, Paper eliminates formatting distractions while providing powerful collaboration features that make team writing effortless and enjoyable.

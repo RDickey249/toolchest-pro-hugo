@@ -7,9 +7,6 @@ tool_name: "Indeed"
 deployment_status: "deployed"
 image: "/images/tools/indeed-placeholder.jpg"
 ---
-
-# Indeed
-
 Indeed is the world's largest job search engine, connecting millions of job seekers with employers daily. Maximize your job visibility and reach active candidates with powerful job posting and sourcing tools.
 
 ## Key Features

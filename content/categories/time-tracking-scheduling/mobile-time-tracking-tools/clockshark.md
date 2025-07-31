@@ -7,9 +7,6 @@ tool_name: "ClockShark"
 deployment_status: "deployed"
 image: "/images/tools/clockshark-placeholder.jpg"
 ---
-
-# ClockShark
-
 ClockShark is a GPS-enabled mobile time tracking platform designed specifically for field teams and outdoor workers who need accurate location verification and robust workforce coordination.
 
 Built for challenging work environments, ClockShark provides GPS tracking with geofencing capabilities, ensuring accurate location verification while maintaining comprehensive time documentation. The platform's rugged mobile applications are designed for real-world field operations across construction, service, and mobile workforce industries.

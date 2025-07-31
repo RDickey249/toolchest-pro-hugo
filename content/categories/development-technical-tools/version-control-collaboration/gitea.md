@@ -7,9 +7,6 @@ tool_name: "Gitea"
 deployment_status: "deployed"
 image: "/images/tools/gitea-placeholder.jpg"
 ---
-
-# Gitea
-
 Gitea is a lightweight, self-hosted Git service providing comprehensive repository hosting with minimal resource requirements and full control over infrastructure.
 
 ## Key Features

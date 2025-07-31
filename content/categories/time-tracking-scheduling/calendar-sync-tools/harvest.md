@@ -2,9 +2,6 @@
 title: "Harvest"
 external_link: "https://getharvest.com"
 ---
-
-# Harvest
-
 Harvest is a professional time tracking and invoicing platform that seamlessly integrates with calendar applications to streamline project management and client billing. The system combines sophisticated time capture with comprehensive business management features, making it easy to track work and generate accurate invoices.
 
 Harvest's strength lies in its calendar integration and automated workflows, turning scheduled meetings and project time into billable entries with minimal manual input. The platform excels at connecting time tracking with invoicing and expense management for complete project lifecycle management.

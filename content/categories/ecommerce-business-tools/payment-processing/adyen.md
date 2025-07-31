@@ -7,9 +7,6 @@ tool_name: "Adyen"
 deployment_status: "deployed"
 image: "/images/tools/adyen-placeholder.jpg"
 ---
-
-# Adyen
-
 Adyen is a unified commerce platform that provides single-platform payment processing for seamless omnichannel experiences across global enterprise operations.
 
 ## Key Features

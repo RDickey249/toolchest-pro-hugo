@@ -11,9 +11,6 @@ categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
 external_link: "https://www.nintex.com"
 ---
-
-# Nintex
-
 Nintex is the process automation platform that helps enterprises eliminate paper-based processes and manual work. With powerful workflow automation, document generation, and process analytics, it's the complete solution for digital transformation.
 
 Trusted by over 10,000 organizations worldwide, Nintex excels at automating complex processes that span multiple systems and departments. From simple approval workflows to sophisticated document management, Nintex handles it all.

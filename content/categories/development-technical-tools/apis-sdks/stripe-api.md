@@ -7,9 +7,6 @@ tool_name: "Stripe API"
 deployment_status: "deployed"
 image: "/images/tools/stripe-api-placeholder.jpg"
 ---
-
-# Stripe API
-
 Stripe API provides comprehensive payment processing infrastructure, enabling businesses to accept payments, manage subscriptions, and handle financial workflows with developer-friendly tools.
 
 ## Key Features

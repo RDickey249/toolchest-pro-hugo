@@ -7,9 +7,6 @@ tool_name: "Bazaar"
 deployment_status: "deployed"
 image: "/images/tools/bazaar-placeholder.jpg"
 ---
-
-# Bazaar
-
 Bazaar is a decentralized version control system with adaptive workflow support, enabling multiple collaboration models from centralized to fully distributed development.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Worldpay"
 deployment_status: "deployed"
 image: "/images/tools/worldpay-placeholder.jpg"
 ---
-
-# Worldpay
-
 Worldpay is an enterprise-grade payment processing platform that provides comprehensive payment infrastructure for large-scale, mission-critical payment operations.
 
 ## Key Features

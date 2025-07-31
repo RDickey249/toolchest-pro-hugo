@@ -7,9 +7,6 @@ tool_name: "DataRobot"
 deployment_status: "deployed"
 image: "/images/tools/datarobot-placeholder.jpg"
 ---
-
-# DataRobot
-
 DataRobot is an enterprise-grade automated machine learning platform that accelerates AI model development, deployment, and management at organizational scale. It automates the entire ML lifecycle while maintaining the governance, security, and compliance standards that large organizations require.
 
 What sets DataRobot apart is its enterprise focus and comprehensive automation. It democratizes advanced ML capabilities across business units without requiring extensive data science expertise, while providing centralized governance and model interpretability for regulatory compliance.

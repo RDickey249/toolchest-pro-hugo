@@ -7,9 +7,6 @@ tool_name: "Hexo"
 deployment_status: "deployed"
 image: "/images/tools/hexo-placeholder.jpg"
 ---
-
-# Hexo
-
 Hexo is a fast Node.js-powered blog framework with extensive blogging features and a comprehensive theme ecosystem for content creators.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "SharePoint"
 deployment_status: "deployed"
 image: "/images/tools/sharepoint-placeholder.jpg"
 ---
-
-# SharePoint
-
 SharePoint is Microsoft's enterprise collaboration platform that enables organizations to create intranet sites, manage documents, and facilitate team collaboration with integrated content management.
 
 ## Key Features

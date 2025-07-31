@@ -7,9 +7,6 @@ tool_name: "OpenTelemetry"
 deployment_status: "deployed"
 image: "/images/tools/opentelemetry-placeholder.jpg"
 ---
-
-# OpenTelemetry
-
 OpenTelemetry is a vendor-neutral, open-source framework that provides standardized APIs and tools for collecting telemetry data from applications and infrastructure.
 
 ## Key Features

@@ -12,9 +12,6 @@ subcategories: ["E-commerce Platforms"]
 affiliate: true
 featured: true
 ---
-
-# BigCommerce
-
 BigCommerce is the enterprise-grade e-commerce platform built for businesses that need to scale without limits.
 
 Unlike Shopify's transaction fees or WooCommerce's hosting headaches, BigCommerce provides enterprise features at any size with no transaction fees and built-in scalability.

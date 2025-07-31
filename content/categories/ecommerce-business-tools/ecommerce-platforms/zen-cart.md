@@ -7,9 +7,6 @@ tool_name: "Zen Cart"
 deployment_status: "deployed"
 image: "/images/tools/zen-cart-placeholder.jpg"
 ---
-
-# Zen Cart
-
 Zen Cart is a free, open-source shopping cart software with community-driven development that provides comprehensive e-commerce functionality without licensing fees.
 
 ## Key Features

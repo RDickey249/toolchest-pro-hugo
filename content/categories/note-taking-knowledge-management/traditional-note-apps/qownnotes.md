@@ -7,9 +7,6 @@ tool_name: "QOwnNotes"
 deployment_status: "deployed"
 image: "/images/tools/qownnotes-placeholder.jpg"
 ---
-
-# QOwnNotes
-
 QOwnNotes is a desktop note-taking application that works directly with markdown files, providing powerful features while maintaining complete local file control.
 
 ## Key Features

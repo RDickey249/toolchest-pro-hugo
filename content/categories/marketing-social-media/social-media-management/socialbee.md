@@ -7,9 +7,6 @@ tool_name: "Socialbee"
 deployment_status: "deployed"
 image: "/images/tools/socialbee-placeholder.jpg"
 ---
-
-# Socialbee
-
 SocialBee is a comprehensive social media management platform that focuses on content categorization and recycling to maintain consistent social media presence.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "uAttend"
 deployment_status: "deployed"
 image: "/images/tools/uattend-placeholder.jpg"
 ---
-
-# uAttend
-
 uAttend is the cloud-based time clock system that combines physical time clocks with online management for accurate employee attendance tracking. With biometric verification, cloud storage, and seamless payroll integration, it eliminates time theft and simplifies workforce management.
 
 Used by businesses from small retailers to large manufacturers, uAttend provides reliable time tracking with professional-grade hardware and cloud-based administration. Employees clock in with fingerprint or badge readers while managers access real-time data and reports from anywhere.

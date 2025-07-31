@@ -7,9 +7,6 @@ tool_name: "Containerd"
 deployment_status: "deployed"
 image: "/images/tools/containerd-placeholder.jpg"
 ---
-
-# Containerd
-
 Containerd is an industry-standard container runtime that provides core container functionality with high performance and stability for container platforms.
 
 ## Key Features

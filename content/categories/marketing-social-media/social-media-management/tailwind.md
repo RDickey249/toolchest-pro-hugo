@@ -7,9 +7,6 @@ tool_name: "Tailwind"
 deployment_status: "deployed"
 image: "/images/tools/tailwind-placeholder.jpg"
 ---
-
-# Tailwind
-
 Tailwind is a specialized social media management platform designed specifically for Pinterest and Instagram marketing with visual planning and SmartLoop technology.
 
 ## Key Features

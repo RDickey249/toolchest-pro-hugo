@@ -7,9 +7,6 @@ tool_name: "Haskell"
 deployment_status: "deployed"
 image: "/images/tools/haskell-placeholder.jpg"
 ---
-
-# Haskell
-
 Haskell is a purely functional programming language with advanced type system and lazy evaluation that emphasizes mathematical precision, immutability, and compile-time correctness.
 
 ## Key Features

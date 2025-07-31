@@ -7,9 +7,6 @@ tool_name: "CareerBuilder"
 deployment_status: "deployed"
 image: "/images/tools/careerbuilder-placeholder.jpg"
 ---
-
-# CareerBuilder
-
 CareerBuilder is an established talent acquisition platform providing advanced job posting, candidate sourcing, and recruiting analytics. Comprehensive recruiting tools and professional support enhance hiring effectiveness across all industries.
 
 ## Key Features

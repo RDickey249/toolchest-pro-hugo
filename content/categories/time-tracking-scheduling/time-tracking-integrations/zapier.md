@@ -7,9 +7,6 @@ tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"
 ---
-
-# Zapier
-
 Zapier is the automation platform that connects your time tracking apps with thousands of other business tools. Instead of manually copying data between apps, Zapier automatically moves information where it needs to go with simple "if this, then that" workflows.
 
 Used by over 2 million businesses worldwide, Zapier eliminates the tedious data entry that comes with managing multiple apps. Connect your time tracker to your invoicing app, project management tool, or CRM, and watch as data flows seamlessly between them without any manual work.

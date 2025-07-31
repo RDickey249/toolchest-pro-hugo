@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/affinity-designer-placeholder.jpg"
 external_link: "https://affinity.serif.com/designer"
 ---
-
-# Affinity Designer
-
 Affinity Designer is a professional vector and raster design application that offers Adobe-quality tools at a fraction of the cost. One-time purchase with no subscriptions for complete design freedom.
 
 ## Key Features

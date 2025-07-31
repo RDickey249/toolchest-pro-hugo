@@ -7,9 +7,6 @@ tool_name: "Incfile"
 deployment_status: "deployed"
 image: "/images/tools/incfile-placeholder.jpg"
 ---
-
-# Incfile
-
 Incfile provides comprehensive business formation services that simplify establishing legal business entities with affordable packages and fast processing across all US states.
 
 ## Key Features

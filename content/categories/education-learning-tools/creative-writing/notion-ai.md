@@ -7,9 +7,6 @@ tool_name: "Notion-ai"
 deployment_status: "deployed"
 image: "/images/tools/notion-ai-placeholder.jpg"
 ---
-
-# Notion-ai
-
 Notion AI is an integrated writing assistant built into the Notion workspace that helps brainstorm, write, and edit content. AI-powered features enhance productivity within your existing Notion workflows.
 
 ## Key Features

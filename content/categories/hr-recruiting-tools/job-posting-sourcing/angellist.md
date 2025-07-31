@@ -7,9 +7,6 @@ tool_name: "AngelList"
 deployment_status: "deployed"
 image: "/images/tools/angellist-placeholder.jpg"
 ---
-
-# AngelList
-
 AngelList is the premier startup job platform connecting early-stage companies with entrepreneurial talent. Post jobs, offer equity, and attract candidates who want to join high-growth startups and innovative companies.
 
 ## Key Features

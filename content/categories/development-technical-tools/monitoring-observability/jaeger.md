@@ -7,9 +7,6 @@ tool_name: "Jaeger"
 deployment_status: "deployed"
 image: "/images/tools/jaeger-placeholder.jpg"
 ---
-
-# Jaeger
-
 Jaeger is an open-source distributed tracing system that helps you monitor and troubleshoot complex microservices architectures. See exactly how requests flow through your services, identify performance bottlenecks, and debug issues across distributed systems.
 
 ## Key Features

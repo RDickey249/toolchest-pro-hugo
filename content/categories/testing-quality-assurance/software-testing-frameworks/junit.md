@@ -7,9 +7,6 @@ tool_name: "JUnit"
 deployment_status: "deployed"
 image: "/images/tools/junit-placeholder.jpg"
 ---
-
-# JUnit
-
 JUnit is the gold standard for Java unit testing. Used by millions of developers worldwide, it provides a simple yet powerful framework for writing and running repeatable tests.
 
 ## Key Features

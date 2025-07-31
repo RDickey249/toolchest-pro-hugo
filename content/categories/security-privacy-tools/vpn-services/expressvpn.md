@@ -7,9 +7,6 @@ tool_name: "ExpressVPN"
 deployment_status: "deployed"
 image: "/images/tools/expressvpn-placeholder.jpg"
 ---
-
-# ExpressVPN
-
 ExpressVPN is the premium VPN service that delivers blazing-fast speeds without compromising security. Experience the internet without limits while protecting your privacy.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "OpenShift"
 deployment_status: "deployed"
 image: "/images/tools/openshift-placeholder.jpg"
 ---
-
-# OpenShift
-
 OpenShift is Red Hat's enterprise Kubernetes platform that provides developer tools, enhanced security, and integrated CI/CD for production-ready applications.
 
 ## Key Features

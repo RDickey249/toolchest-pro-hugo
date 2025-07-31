@@ -7,9 +7,6 @@ tool_name: "Slick Write"
 deployment_status: "deployed"
 image: "/images/tools/slick-write-placeholder.jpg"
 ---
-
-# Slick Write
-
 Slick Write is a free web-based writing analysis tool that provides comprehensive grammar, style, and structure checking without any registration or subscription requirements. It offers professional-quality writing assistance through a clean, simple interface that anyone can use immediately.
 
 The platform goes beyond basic grammar checking to analyze sentence variety, flow, readability, and paragraph structure. It identifies passive voice, provides detailed explanations for suggested improvements, and lets you customize the analysis based on your writing type. This makes it particularly valuable for students, freelance writers, and professionals who need reliable writing feedback without ongoing costs.

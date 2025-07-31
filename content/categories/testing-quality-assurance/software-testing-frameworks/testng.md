@@ -7,9 +7,6 @@ tool_name: "TestNG"
 deployment_status: "deployed"
 image: "/images/tools/testng-placeholder.jpg"
 ---
-
-# TestNG
-
 TestNG is a testing framework for Java that provides powerful features like parallel execution, data-driven testing, and flexible test configuration. Built with annotations and dependency management, TestNG excels at organizing and running complex test suites.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "ActiveCampaign"
 deployment_status: "deployed"
 image: "/images/tools/activecampaign-placeholder.jpg"
 ---
-
-# ActiveCampaign
-
 ActiveCampaign combines email marketing with CRM capabilities through sophisticated behavioral automation, enabling businesses to nurture leads and manage customer relationships effectively.
 
 ## Key Features

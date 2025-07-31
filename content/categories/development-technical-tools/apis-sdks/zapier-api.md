@@ -7,9 +7,6 @@ tool_name: "Zapier API"
 deployment_status: "deployed"
 image: "/images/tools/zapier-api-placeholder.jpg"
 ---
-
-# Zapier API
-
 Zapier API enables developers to build custom app integrations and automation workflows, connecting applications with Zapier's extensive automation platform.
 
 ## Key Features

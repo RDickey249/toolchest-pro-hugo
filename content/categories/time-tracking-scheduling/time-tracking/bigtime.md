@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/bigtime-placeholder.jpg"
 external_link: "https://www.bigtime.net"
 ---
-
-# BigTime
-
 BigTime is a comprehensive business management platform designed specifically for professional services firms. The software integrates time tracking, project management, billing, and client relationship management into a unified solution for consulting firms, law practices, and accounting businesses.
 
 What sets BigTime apart is its industry-specific focus and end-to-end business management capabilities. Unlike generic time tracking tools, it handles the complete lifecycle of professional services operations, from initial project planning through final billing and payment collection.

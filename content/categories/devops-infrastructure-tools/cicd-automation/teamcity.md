@@ -7,9 +7,6 @@ tool_name: "TeamCity"
 deployment_status: "deployed"
 image: "/images/tools/teamcity-placeholder.jpg"
 ---
-
-# TeamCity
-
 TeamCity is JetBrains' professional CI/CD server providing powerful build automation with an intuitive web interface. Comprehensive features for complex project structures with enterprise-grade reliability and flexibility.
 
 ## Key Features

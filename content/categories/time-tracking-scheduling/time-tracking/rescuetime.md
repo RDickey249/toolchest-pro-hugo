@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/rescuetime-placeholder.jpg"
 external_link: "https://www.rescuetime.com"
 ---
-
-# RescueTime
-
 RescueTime is the automatic time tracking platform that runs quietly in the background to show you exactly how you spend your digital time. Get detailed insights into productivity patterns, set goals, and block distracting websites.
 
 Used by over 2.5 million people worldwide, RescueTime tracks applications and websites automatically without manual timers. Understand your digital habits, identify time drains, improve focus with FocusTime blocking, and build better productivity patterns with data-driven insights.

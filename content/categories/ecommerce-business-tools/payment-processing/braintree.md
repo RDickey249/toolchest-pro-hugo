@@ -7,9 +7,6 @@ tool_name: "Braintree"
 deployment_status: "deployed"
 image: "/images/tools/braintree-placeholder.jpg"
 ---
-
-# Braintree
-
 Braintree is PayPal's modern payment platform that provides sophisticated payment processing with developer-friendly tools and seamless PayPal integration.
 
 ## Key Features

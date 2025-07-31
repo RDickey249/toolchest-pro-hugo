@@ -7,9 +7,6 @@ tool_name: "Chocolatey"
 deployment_status: "deployed"
 image: "/images/tools/chocolatey-placeholder.jpg"
 ---
-
-# Chocolatey
-
 Chocolatey is a package manager for Windows that automates software installation and management with command-line simplicity.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Outreach"
 deployment_status: "deployed"
 image: "/images/tools/outreach-placeholder.jpg"
 ---
-
-# Outreach
-
 Outreach is the leading sales engagement platform that enables teams to scale personalized outreach through comprehensive sequence automation and performance analytics.
 
 ## Key Features

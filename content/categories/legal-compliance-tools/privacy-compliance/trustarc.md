@@ -7,9 +7,6 @@ tool_name: "TrustArc"
 deployment_status: "deployed"
 image: "/images/tools/trustarc-placeholder.jpg"
 ---
-
-# TrustArc
-
 TrustArc is a comprehensive privacy compliance platform that helps organizations build and maintain effective privacy programs with expert guidance and automation tools.
 
 ## Key Features

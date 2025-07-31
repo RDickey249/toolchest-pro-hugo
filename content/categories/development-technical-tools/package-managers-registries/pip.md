@@ -7,9 +7,6 @@ tool_name: "pip"
 deployment_status: "deployed"
 image: "/images/tools/pip-placeholder.jpg"
 ---
-
-# pip
-
 pip is Python's standard package installer that provides seamless access to the Python Package Index (PyPI) with hundreds of thousands of third-party libraries and simple dependency management.
 
 ## Key Features

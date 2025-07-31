@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/ionic-placeholder.jpg"
 external_link: "https://ionicframework.com"
 ---
-
-# Ionic
-
 Ionic is the app development platform for web developers. Build amazing cross-platform mobile, web, and desktop apps all with one shared code base and open web standards.
 
 ## Key Features

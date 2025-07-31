@@ -7,9 +7,6 @@ tool_name: "Usercentrics"
 deployment_status: "deployed"
 image: "/images/tools/usercentrics-placeholder.jpg"
 ---
-
-# Usercentrics
-
 Usercentrics is a consent management platform that helps organizations obtain and manage user consent in compliance with global privacy regulations like GDPR and CCPA.
 
 ## Key Features

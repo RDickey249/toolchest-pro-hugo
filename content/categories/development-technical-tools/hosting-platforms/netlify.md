@@ -7,9 +7,6 @@ tool_name: "Netlify"
 deployment_status: "deployed"
 image: "/images/tools/netlify-placeholder.jpg"
 ---
-
-# Netlify
-
 Netlify is a modern web hosting platform optimized for JAMstack applications with continuous deployment, serverless functions, and global CDN distribution for fast, scalable websites.
 
 ## Key Features

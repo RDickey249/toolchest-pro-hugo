@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/swift-placeholder.jpg"
 external_link: "https://swift.org"
 ---
-
-# Swift
-
 Swift is a powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and apps run lightning-fast.
 
 ## Key Features

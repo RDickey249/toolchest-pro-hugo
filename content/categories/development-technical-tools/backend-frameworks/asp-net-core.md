@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/asp-net-core-placeholder.jpg"
 external_link: "https://dotnet.microsoft.com/apps/aspnet"
 ---
-
-# ASP.NET Core
-
 ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-enabled, internet-connected applications on Windows, Linux, and macOS.
 
 ## Key Features

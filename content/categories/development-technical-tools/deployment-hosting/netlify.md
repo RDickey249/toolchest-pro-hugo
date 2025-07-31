@@ -7,9 +7,6 @@ tool_name: "Netlify"
 deployment_status: "deployed"
 image: "/images/tools/netlify-placeholder.jpg"
 ---
-
-# Netlify
-
 Netlify is a cloud platform that automates the deployment of modern web applications with continuous integration, serverless functions, and global CDN distribution.
 
 ## Key Features

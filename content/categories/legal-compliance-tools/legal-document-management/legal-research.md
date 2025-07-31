@@ -7,9 +7,6 @@ tool_name: "Legal Research"
 deployment_status: "deployed"
 image: "/images/tools/legal-research-placeholder.jpg"
 ---
-
-# Legal Research
-
 Legal Research platforms including Westlaw and LexisNexis provide comprehensive legal database access with case law, statutes, and expert analysis for legal professionals.
 
 ## Key Features

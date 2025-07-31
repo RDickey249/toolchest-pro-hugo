@@ -7,9 +7,6 @@ tool_name: "pip"
 deployment_status: "deployed"
 image: "/images/tools/pip-placeholder.jpg"
 ---
-
-# pip
-
 pip is Python's package installer that provides comprehensive package management and dependency resolution for the Python ecosystem.
 
 ## Key Features

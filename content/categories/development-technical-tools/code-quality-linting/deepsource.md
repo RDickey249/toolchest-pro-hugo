@@ -7,9 +7,6 @@ tool_name: "DeepSource"
 deployment_status: "deployed"
 image: "/images/tools/deepsource-placeholder.jpg"
 ---
-
-# DeepSource
-
 DeepSource provides continuous static analysis with autofix suggestions that automatically improve your code quality. Get intelligent code reviews that catch bugs, security issues, and performance problems with zero configuration.
 
 ## Get Started with DeepSource

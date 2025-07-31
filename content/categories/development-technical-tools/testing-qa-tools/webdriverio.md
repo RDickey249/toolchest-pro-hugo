@@ -7,9 +7,6 @@ tool_name: "WebdriverIO"
 deployment_status: "deployed"
 image: "/images/tools/webdriverio-placeholder.jpg"
 ---
-
-# WebdriverIO
-
 WebdriverIO is a next-generation browser and mobile automation framework with modern JavaScript APIs, supporting WebDriver protocol and Chrome DevTools for comprehensive testing.
 
 ## Key Features

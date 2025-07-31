@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "monitoring-observability"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Monitoring & Observability"]
 ---
-
-# Sentry
-
 Sentry helps developers ship better software faster by tracking errors and performance issues in real-time. When your application crashes or slows down, Sentry tells you exactly what went wrong, where it happened, and who was affected.
 
 ## Key Features

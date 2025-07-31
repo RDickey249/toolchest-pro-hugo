@@ -7,9 +7,6 @@ tool_name: "PyTest"
 deployment_status: "deployed"
 image: "/images/tools/pytest-placeholder.jpg"
 ---
-
-# PyTest
-
 PyTest makes testing fun again. With its simple syntax and powerful features, it's the most popular Python testing framework for good reason - write less boilerplate, get better test reports.
 
 ## Key Features

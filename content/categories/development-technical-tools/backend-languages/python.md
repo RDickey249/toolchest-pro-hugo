@@ -7,9 +7,6 @@ tool_name: "Python"
 deployment_status: "deployed"
 image: "/images/tools/python-placeholder.jpg"
 ---
-
-# Python
-
 Python is a versatile, high-level programming language with clean, readable syntax that powers web development, data science, automation, and artificial intelligence applications worldwide.
 
 ## Key Features

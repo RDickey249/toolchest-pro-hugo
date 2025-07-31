@@ -7,9 +7,6 @@ tool_name: "Sendinblue (Brevo)"
 deployment_status: "deployed"
 image: "/images/tools/sendinblue-placeholder.jpg"
 ---
-
-# Sendinblue (Brevo)
-
 Sendinblue (now Brevo) is a multi-channel marketing platform that unifies email, SMS, and chat communication with affordable pricing and comprehensive automation.
 
 ## Key Features

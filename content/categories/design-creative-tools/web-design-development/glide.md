@@ -7,9 +7,6 @@ tool_name: "Glide"
 deployment_status: "deployed"
 image: "/images/tools/glide-placeholder.jpg"
 ---
-
-# Glide
-
 Glide is a no-code app builder that transforms spreadsheets into mobile and web apps. Turn your Google Sheets or Excel data into professional applications with drag-and-drop simplicity.
 
 ## Key Features

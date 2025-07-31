@@ -7,9 +7,6 @@ tool_name: "Stripe"
 deployment_status: "deployed"
 image: "/images/tools/stripe-placeholder.jpg"
 ---
-
-# Stripe
-
 Stripe is the leading online payment processing platform that provides developer-friendly APIs and comprehensive financial infrastructure for modern businesses.
 
 ## Key Features

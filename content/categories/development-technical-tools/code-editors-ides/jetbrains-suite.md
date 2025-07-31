@@ -7,9 +7,6 @@ tool_name: "JetBrains Suite"
 deployment_status: "deployed"
 image: "/images/tools/jetbrains-suite-placeholder.jpg"
 ---
-
-# JetBrains Suite
-
 JetBrains Suite provides professional integrated development environments with specialized IDEs for different programming languages, featuring intelligent code analysis and advanced debugging capabilities.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Apigee"
 deployment_status: "deployed"
 image: "/images/tools/apigee-placeholder.jpg"
 ---
-
-# Apigee
-
 Apigee is Google's API management platform with analytics and security for enterprise API programs. Design, secure, deploy, and scale APIs with comprehensive management and monitoring capabilities.
 
 ## Get Started with Apigee

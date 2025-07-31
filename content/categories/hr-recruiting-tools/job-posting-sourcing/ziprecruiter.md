@@ -7,9 +7,6 @@ tool_name: "ZipRecruiter"
 deployment_status: "deployed"
 image: "/images/tools/ziprecruiter-placeholder.jpg"
 ---
-
-# ZipRecruiter
-
 ZipRecruiter is a job distribution service that automatically posts your jobs across 100+ job boards with one click. AI-powered matching connects you with qualified candidates quickly and efficiently.
 
 ## Key Features

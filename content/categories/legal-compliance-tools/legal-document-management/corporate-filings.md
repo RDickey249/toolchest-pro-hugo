@@ -7,9 +7,6 @@ tool_name: "Corporate Filings"
 deployment_status: "deployed"
 image: "/images/tools/corporate-filings-placeholder.jpg"
 ---
-
-# Corporate Filings
-
 Corporate Filings services provide comprehensive state filing capabilities for business formation, maintenance, and ongoing compliance with automated tracking and professional preparation.
 
 ## Key Features

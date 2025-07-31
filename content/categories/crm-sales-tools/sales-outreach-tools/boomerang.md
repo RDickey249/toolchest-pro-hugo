@@ -7,9 +7,6 @@ tool_name: "Boomerang"
 deployment_status: "deployed"
 image: "/images/tools/boomerang-placeholder.jpg"
 ---
-
-# Boomerang
-
 Boomerang is an email productivity tool that enables professionals to schedule emails, set reminders, and optimize email timing for better communication outcomes.
 
 ## Key Features

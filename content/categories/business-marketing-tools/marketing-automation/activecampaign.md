@@ -12,9 +12,6 @@ subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true
 ---
-
-# ActiveCampaign
-
 ActiveCampaign is the marketing automation platform that combines email marketing, CRM, and customer experience automation in one powerful system.
 
 Built for growing businesses that want to create personalized customer experiences at scale, ActiveCampaign goes beyond basic email marketing to deliver true 1:1 personalization.

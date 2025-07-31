@@ -7,9 +7,6 @@ tool_name: "JavaScript"
 deployment_status: "deployed"
 image: "/images/tools/javascript-placeholder.jpg"
 ---
-
-# JavaScript
-
 JavaScript is the essential programming language of the web, bringing dynamic functionality and interactivity to websites and powering full-stack development.
 
 ## Key Features

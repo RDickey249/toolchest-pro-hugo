@@ -7,9 +7,6 @@ tool_name: "Optimizely"
 deployment_status: "deployed"
 image: "/images/tools/optimizely-placeholder.jpg"
 ---
-
-# Optimizely
-
 Optimizely is the world's leading experimentation platform. Run A/B tests, feature flags, and personalization campaigns to optimize every digital experience and increase conversions.
 
 ## Key Features

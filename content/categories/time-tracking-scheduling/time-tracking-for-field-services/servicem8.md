@@ -7,9 +7,6 @@ tool_name: "ServiceM8"
 deployment_status: "deployed"
 image: "/images/tools/servicem8-placeholder.jpg"
 ---
-
-# ServiceM8
-
 ServiceM8 is the complete field service management platform that handles everything from job scheduling and dispatch to time tracking and invoicing. Built for mobile service teams, it turns your smartphone into a complete business management system.
 
 Used by thousands of service businesses including HVAC, plumbing, electrical, and maintenance companies, ServiceM8 streamlines field operations from quote to payment. Track time on jobs, dispatch teams efficiently, and get paid faster with automated invoicing.

@@ -7,9 +7,6 @@ tool_name: "TypeScript"
 deployment_status: "deployed"
 image: "/images/tools/typescript-placeholder.jpg"
 ---
-
-# TypeScript
-
 TypeScript is a typed JavaScript superset that adds optional static types, enabling developers to catch errors at compile time and build more maintainable applications.
 
 ## Key Features

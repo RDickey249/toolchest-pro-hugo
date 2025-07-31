@@ -7,9 +7,6 @@ tool_name: "Newman"
 deployment_status: "deployed"
 image: "/images/tools/newman-placeholder.jpg"
 ---
-
-# Newman
-
 Newman is Postman's command-line collection runner that enables automated execution of Postman collections in CI/CD pipelines and testing workflows. Seamless integration between Postman's visual interface and automated deployment processes.
 
 ## Key Features

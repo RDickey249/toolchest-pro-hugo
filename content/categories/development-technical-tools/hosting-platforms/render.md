@@ -7,9 +7,6 @@ tool_name: "Render"
 deployment_status: "deployed"
 image: "/images/tools/render-placeholder.jpg"
 ---
-
-# Render
-
 Render is a modern cloud platform for hosting web services, static sites, databases, and background jobs with automatic scaling, built-in security, and transparent pricing.
 
 ## Key Features

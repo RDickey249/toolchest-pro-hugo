@@ -7,9 +7,6 @@ tool_name: "Microsoft Azure"
 deployment_status: "deployed"
 image: "/images/tools/azure-placeholder.jpg"
 ---
-
-# Microsoft Azure
-
 Microsoft Azure is a comprehensive cloud platform with seamless integration into Microsoft's enterprise ecosystem. Over 200+ services across compute, networking, and AI with global availability in 60+ regions worldwide.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Unsplash API"
 deployment_status: "deployed"
 image: "/images/tools/unsplash-api-placeholder.jpg"
 ---
-
-# Unsplash API
-
 Unsplash API provides access to millions of high-quality, royalty-free stock photos with intelligent search and filtering capabilities for creative projects and applications.
 
 ## Key Features

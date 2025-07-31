@@ -11,9 +11,6 @@ tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
 ---
-
-# Microsoft Teams
-
 Microsoft Teams is the collaboration hub that brings together chat, video meetings, file storage, and Office apps in one integrated platform.
 
 Built for the Microsoft ecosystem, Teams provides enterprise-grade communication and collaboration tools that scale from small teams to global organizations.

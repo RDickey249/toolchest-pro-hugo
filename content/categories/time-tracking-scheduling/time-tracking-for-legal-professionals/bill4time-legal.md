@@ -7,9 +7,6 @@ tool_name: "Bill4Time (Legal)"
 deployment_status: "deployed"
 image: "/images/tools/bill4time-legal-placeholder.jpg"
 ---
-
-# Bill4Time (Legal)
-
 Bill4Time is the legal-specific time tracking and billing platform that includes trust accounting, compliance reporting, and client management tools designed for law firms. With automated billing, expense tracking, and detailed legal reports, it ensures compliance while maximizing profitability.
 
 Used by law firms across all practice areas, Bill4Time handles the unique requirements of legal billing including trust account management, IOLTA compliance, and detailed client reporting. Track billable hours, manage client funds, and generate professional legal invoices all from one platform.

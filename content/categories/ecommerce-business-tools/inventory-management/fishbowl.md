@@ -7,9 +7,6 @@ tool_name: "Fishbowl"
 deployment_status: "deployed"
 image: "/images/tools/fishbowl-placeholder.jpg"
 ---
-
-# Fishbowl
-
 Fishbowl is a manufacturing-focused inventory management system that integrates seamlessly with QuickBooks to provide advanced inventory control for manufacturers.
 
 ## Key Features

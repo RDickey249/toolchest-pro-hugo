@@ -2,9 +2,6 @@
 title: "Jibble"
 external_link: "https://www.jibble.io"
 ---
-
-# Jibble
-
 Jibble is the free attendance tracking platform that combines GPS location verification with facial recognition authentication for accurate workforce monitoring without budget constraints.
 
 Used by organizations seeking advanced attendance verification at no cost, Jibble offers biometric authentication, geofencing, mobile time tracking, and detailed reporting. Track remote teams and field workers with sophisticated verification technology while maintaining complete accessibility.

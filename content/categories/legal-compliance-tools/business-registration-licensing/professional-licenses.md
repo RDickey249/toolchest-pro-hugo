@@ -7,9 +7,6 @@ tool_name: "Professional Licenses"
 deployment_status: "deployed"
 image: "/images/tools/professional-licenses-placeholder.jpg"
 ---
-
-# Professional Licenses
-
 Professional Licenses services provide specialized assistance with industry-specific licensing requirements for regulated professions and specialized business activities.
 
 ## Key Features

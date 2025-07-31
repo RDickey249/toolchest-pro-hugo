@@ -7,9 +7,6 @@ tool_name: "LXC"
 deployment_status: "deployed"
 image: "/images/tools/lxc-placeholder.jpg"
 ---
-
-# LXC
-
 LXC is a Linux container technology that provides system-level virtualization, enabling administrators to run multiple isolated Linux systems on a single host with near-native performance.
 
 ## Key Features

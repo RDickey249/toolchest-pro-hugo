@@ -7,9 +7,6 @@ tool_name: "Workpuls"
 deployment_status: "deployed"
 image: "/images/tools/workpuls-placeholder.jpg"
 ---
-
-# Workpuls
-
 Workpuls is the remote employee monitoring and time tracking platform that provides complete visibility into how distributed teams spend their work time. With automatic time tracking, productivity scoring, and detailed activity monitoring, it helps managers ensure remote work accountability.
 
 Used by companies managing remote and hybrid teams worldwide, Workpuls combines time tracking with productivity insights to help managers understand remote work patterns, identify productivity bottlenecks, and ensure distributed teams stay focused and productive.

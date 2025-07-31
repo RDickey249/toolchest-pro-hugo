@@ -7,9 +7,6 @@ tool_name: "Stack Overflow Jobs"
 deployment_status: "deployed"
 image: "/images/tools/stack-overflow-jobs-placeholder.jpg"
 ---
-
-# Stack Overflow Jobs
-
 Stack Overflow Jobs is a developer-focused jobs platform connecting technology companies with software developers and technical professionals. Recruit from the world's largest developer community with skill-based matching and technical competency focus.
 
 ## Key Features

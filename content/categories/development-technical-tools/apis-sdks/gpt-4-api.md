@@ -7,9 +7,6 @@ tool_name: "GPT-4 API"
 deployment_status: "deployed"
 image: "/images/tools/gpt-4-api-placeholder.jpg"
 ---
-
-# GPT-4 API
-
 GPT-4 API provides access to OpenAI's most advanced language model, enabling developers to integrate sophisticated AI capabilities for text generation, reasoning, and analysis.
 
 ## Key Features

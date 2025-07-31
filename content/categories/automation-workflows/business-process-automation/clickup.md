@@ -11,9 +11,6 @@ categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
 external_link: "https://clickup.com"
 ---
-
-# ClickUp
-
 ClickUp is the Swiss Army knife of productivity tools. It combines project management, docs, goals, and communication in one customizable platform that adapts to how your team works.
 
 The platform's motto "one app to replace them all" isn't just marketing - teams regularly consolidate 5-10 different tools into ClickUp, saving money and reducing context switching.

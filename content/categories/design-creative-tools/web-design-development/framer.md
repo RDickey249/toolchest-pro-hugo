@@ -7,9 +7,6 @@ tool_name: "Framer"
 deployment_status: "deployed"
 image: "/images/tools/framer-placeholder.jpg"
 ---
-
-# Framer
-
 Framer is an advanced interactive design and prototyping platform that creates realistic user experiences with sophisticated animations and interactions. Bridge the gap between design and development with production-ready prototypes.
 
 ## Key Features

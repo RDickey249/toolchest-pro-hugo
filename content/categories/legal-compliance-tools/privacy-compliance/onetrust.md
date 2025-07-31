@@ -7,9 +7,6 @@ tool_name: "OneTrust"
 deployment_status: "deployed"
 image: "/images/tools/onetrust-placeholder.jpg"
 ---
-
-# OneTrust
-
 OneTrust is a comprehensive privacy management platform that helps organizations navigate complex global privacy regulations with automated compliance tools and centralized program management.
 
 ## Key Features

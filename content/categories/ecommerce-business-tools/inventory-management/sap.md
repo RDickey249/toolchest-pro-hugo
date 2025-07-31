@@ -7,9 +7,6 @@ tool_name: "SAP"
 deployment_status: "deployed"
 image: "/images/tools/sap-placeholder.jpg"
 ---
-
-# SAP
-
 SAP is the world's leading enterprise resource planning (ERP) platform that provides comprehensive business management solutions for large corporations and global enterprises.
 
 ## Key Features

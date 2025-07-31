@@ -7,9 +7,6 @@ tool_name: "ADP"
 deployment_status: "deployed"
 image: "/images/tools/adp-placeholder.jpg"
 ---
-
-# ADP
-
 ADP is a comprehensive payroll and HR services platform that integrates applicant tracking with complete payroll processing and human resource management. Professional-grade services combine technology with expert support for reliable HR operations.
 
 ## Key Features

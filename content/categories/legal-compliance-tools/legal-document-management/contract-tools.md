@@ -7,9 +7,6 @@ tool_name: "Contract Tools"
 deployment_status: "deployed"
 image: "/images/tools/contract-tools-placeholder.jpg"
 ---
-
-# Contract Tools
-
 Contract Tools like PandaDoc, DocuSign, and similar platforms provide comprehensive document automation and electronic signature solutions for complete contract lifecycle management.
 
 ## Key Features

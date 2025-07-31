@@ -7,9 +7,6 @@ tool_name: "Neocities"
 deployment_status: "deployed"
 image: "/images/tools/neocities-placeholder.jpg"
 ---
-
-# Neocities
-
 Neocities is a free web hosting platform for creative and personal websites that embraces the spirit of classic GeoCities with modern reliability and community features.
 
 ## Key Features

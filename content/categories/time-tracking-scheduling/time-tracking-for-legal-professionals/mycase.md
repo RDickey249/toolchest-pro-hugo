@@ -7,9 +7,6 @@ tool_name: "MyCase"
 deployment_status: "deployed"
 image: "/images/tools/mycase-placeholder.jpg"
 ---
-
-# MyCase
-
 MyCase is the complete law firm management platform that combines time tracking, case management, and client communication in one system. Built specifically for legal professionals, it streamlines everything from client intake to billing with secure client portals and automated workflows.
 
 Used by thousands of law firms across all practice areas, MyCase eliminates the need for separate legal software tools. Track billable hours, manage cases, communicate securely with clients, and generate professional invoices all from one integrated platform designed for the legal industry.

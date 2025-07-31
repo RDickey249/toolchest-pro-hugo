@@ -7,9 +7,6 @@ tool_name: "Replit Deployment"
 deployment_status: "deployed"
 image: "/images/tools/replit-deployment-placeholder.jpg"
 ---
-
-# Replit Deployment
-
 Replit Deployment provides instant application hosting directly from Replit's browser-based development environment with zero-configuration deployment and automatic scaling.
 
 ## Key Features

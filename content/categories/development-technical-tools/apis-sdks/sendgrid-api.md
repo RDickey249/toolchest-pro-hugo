@@ -7,9 +7,6 @@ tool_name: "SendGrid API"
 deployment_status: "deployed"
 image: "/images/tools/sendgrid-api-placeholder.jpg"
 ---
-
-# SendGrid API
-
 SendGrid API provides cloud-based email delivery infrastructure for transactional and marketing emails, ensuring high deliverability rates and detailed analytics.
 
 ## Key Features

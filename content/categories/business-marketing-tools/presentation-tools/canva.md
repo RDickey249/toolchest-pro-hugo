@@ -7,9 +7,6 @@ tool_name: "Canva"
 deployment_status: "deployed"
 image: "/images/tools/canva-placeholder.jpg"
 ---
-
-# Canva
-
 Canva transforms presentation creation with an intuitive drag-and-drop interface enhanced by powerful AI features, making professional slide design accessible to everyone regardless of experience level. This comprehensive platform combines millions of templates, stock images, and design elements with AI-powered tools like Magic Design and text-to-image generation to streamline the entire presentation workflow. Canva's strength lies in its versatility—whether you're creating business pitches, educational slideshows, or creative presentations, the platform provides templates and tools for every scenario. The collaborative features enable teams to work together in real-time, while brand kits ensure consistency across all company presentations. From automatic resize for different formats to AI background removal and smart animation suggestions, Canva's AI features handle technical tasks while users focus on content and creativity. Whether you're a startup founder crafting investor presentations, a teacher creating engaging lessons, or a marketer building campaign decks, Canva's combination of simplicity and sophistication makes professional presentation design achievable for anyone.
 
 ## Key Features

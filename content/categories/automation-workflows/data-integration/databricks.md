@@ -10,9 +10,6 @@ tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]
 ---
-
-# Databricks
-
 Databricks is the unified platform where data teams collaborate on analytics, AI, and machine learning. Built on Apache Spark, it combines the best of data warehouses and data lakes into a simple, powerful platform.
 
 Founded by the creators of Apache Spark, Databricks has become the go-to platform for organizations building data and AI applications at scale. It eliminates the complexity of managing infrastructure while providing unmatched performance.

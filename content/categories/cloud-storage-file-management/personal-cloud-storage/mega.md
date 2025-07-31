@@ -7,9 +7,6 @@ tool_name: "MEGA"
 deployment_status: "deployed"
 image: "/images/tools/mega-placeholder.jpg"
 ---
-
-# MEGA
-
 MEGA is a secure cloud storage service that provides end-to-end encryption with 50GB of free storage and zero-knowledge architecture for complete user privacy.
 
 ## Key Features

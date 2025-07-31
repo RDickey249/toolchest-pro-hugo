@@ -10,9 +10,6 @@ tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]
 ---
-
-# Midjourney
-
 Midjourney is the leading AI art generator that transforms text descriptions into stunning, professional-quality artwork.
 
 Known for producing the most artistic and stylistically sophisticated AI-generated images, Midjourney has become the go-to platform for creators, designers, and artists worldwide.

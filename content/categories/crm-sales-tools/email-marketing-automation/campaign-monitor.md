@@ -7,9 +7,6 @@ tool_name: "Campaign Monitor"
 deployment_status: "deployed"
 image: "/images/tools/campaign-monitor-placeholder.jpg"
 ---
-
-# Campaign Monitor
-
 Campaign Monitor is an email design platform that enables marketers to craft visually stunning campaigns with sophisticated template creation and brand consistency.
 
 ## Key Features

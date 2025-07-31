@@ -7,9 +7,6 @@ tool_name: "ElevenLabs"
 deployment_status: "deployed"
 image: "/images/tools/elevenlabs-placeholder.jpg"
 ---
-
-# ElevenLabs
-
 ElevenLabs delivers the most realistic AI voice generation available today. Create lifelike synthetic speech that captures natural emotion, accents, and personality from just a few minutes of sample audio.
 
 Transform any text into professional-quality voiceovers for audiobooks, podcasts, videos, and multilingual content. Whether you need consistent brand voices, character voices for games, or instant localization in dozens of languages, ElevenLabs makes it possible with breakthrough voice cloning technology.

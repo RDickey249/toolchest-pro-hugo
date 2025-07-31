@@ -7,9 +7,6 @@ tool_name: "Dropbox"
 deployment_status: "deployed"
 image: "/images/tools/dropbox-placeholder.jpg"
 ---
-
-# Dropbox
-
 Dropbox is the pioneering cloud storage service that established the standard for file synchronization with reliable sync across devices and universal platform compatibility.
 
 ## Key Features

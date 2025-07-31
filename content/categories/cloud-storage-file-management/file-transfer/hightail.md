@@ -7,9 +7,6 @@ tool_name: "Hightail"
 deployment_status: "deployed"
 image: "/images/tools/hightail-placeholder.jpg"
 ---
-
-# Hightail
-
 Hightail is a creative collaboration platform that enables creative teams to organize, review, and approve creative assets with structured workflow management.
 
 ## Key Features

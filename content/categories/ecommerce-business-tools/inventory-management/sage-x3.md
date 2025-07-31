@@ -7,9 +7,6 @@ tool_name: "Sage X3"
 deployment_status: "deployed"
 image: "/images/tools/sage-x3-placeholder.jpg"
 ---
-
-# Sage X3
-
 Sage X3 is a comprehensive enterprise ERP solution that provides sophisticated inventory management and business operations for large organizations with global operations.
 
 ## Key Features

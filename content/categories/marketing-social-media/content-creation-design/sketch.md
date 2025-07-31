@@ -7,9 +7,6 @@ tool_name: "Sketch"
 deployment_status: "deployed"
 image: "/images/tools/sketch-placeholder.jpg"
 ---
-
-# Sketch
-
 Sketch is a digital design platform for Mac that enables designers to create user interfaces, websites, and mobile app designs with vector-based tools and symbols.
 
 ## Key Features

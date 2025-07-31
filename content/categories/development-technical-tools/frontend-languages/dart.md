@@ -7,9 +7,6 @@ tool_name: "Dart"
 deployment_status: "deployed"
 image: "/images/tools/dart-placeholder.jpg"
 ---
-
-# Dart
-
 Dart is Google's client-optimized programming language designed for UI-centric applications, serving as the foundation for Flutter's cross-platform development.
 
 ## Key Features

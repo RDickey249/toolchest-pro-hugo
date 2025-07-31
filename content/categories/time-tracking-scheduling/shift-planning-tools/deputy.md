@@ -2,9 +2,6 @@
 title: "Deputy"
 external_link: "https://deputy.com"
 ---
-
-# Deputy
-
 Deputy is the intelligent shift planning platform that uses automated scheduling algorithms to optimize workforce coordination while maintaining compliance and employee satisfaction for shift-based businesses.
 
 Used by 300,000+ shift workers across retail, healthcare, and hospitality, Deputy offers intelligent scheduling, demand forecasting, compliance monitoring, and real-time shift adjustments. Optimize labor costs and employee preferences with smart algorithms and multi-location coordination.

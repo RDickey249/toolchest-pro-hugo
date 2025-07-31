@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/actitime-placeholder.jpg"
 external_link: "https://www.actitime.com"
 ---
-
-# actiTIME
-
 actiTIME is the enterprise time tracking platform that provides comprehensive workforce analytics, resource planning, and business intelligence for large organizations. Scale time tracking across multiple departments with detailed project management and reporting.
 
 Used by enterprises and consulting firms worldwide, actiTIME offers advanced analytics, resource capacity planning, and professional billing. Track time across complex project portfolios, optimize workforce allocation, and generate executive reports with enterprise-grade security and compliance.

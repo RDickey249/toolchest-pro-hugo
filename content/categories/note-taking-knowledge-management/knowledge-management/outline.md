@@ -7,9 +7,6 @@ tool_name: "Outline"
 deployment_status: "deployed"
 image: "/images/tools/outline-placeholder.jpg"
 ---
-
-# Outline
-
 Outline is a fast, collaborative wiki platform designed for modern teams who need to capture and share knowledge quickly without traditional wiki complexity.
 
 ## Key Features

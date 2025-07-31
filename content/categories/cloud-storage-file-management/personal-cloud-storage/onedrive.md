@@ -7,9 +7,6 @@ tool_name: "OneDrive"
 deployment_status: "deployed"
 image: "/images/tools/onedrive-placeholder.jpg"
 ---
-
-# OneDrive
-
 OneDrive is Microsoft's cloud storage service that provides deep integration with Windows, Office, and Microsoft 365 for seamless file management and collaboration.
 
 ## Key Features

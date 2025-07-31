@@ -7,9 +7,6 @@ tool_name: "ActiveCollab"
 deployment_status: "deployed"
 image: "/images/tools/activecollab-placeholder.jpg"
 ---
-
-# ActiveCollab
-
 ActiveCollab is the project management platform that combines task management, time tracking, and client billing in one integrated system. Perfect for creative agencies and service businesses that need to manage projects from start to payment.
 
 Used by agencies and teams worldwide, ActiveCollab offers project planning, team collaboration, and automatic invoicing. Track time on tasks, collaborate with clients through dedicated portals, and turn tracked hours into professional invoices with built-in billing.

@@ -7,9 +7,6 @@ tool_name: "Pelican"
 deployment_status: "deployed"
 image: "/images/tools/pelican-placeholder.jpg"
 ---
-
-# Pelican
-
 Pelican is a Python-powered static site generator with flexible content processing and comprehensive support for reStructuredText and Markdown.
 
 ## Key Features

@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/sketch-placeholder.jpg"
 external_link: "https://www.sketch.com"
 ---
-
-# Sketch
-
 Sketch is the digital design toolkit built for Mac. Create stunning interfaces, mobile apps, and websites with the tool that defined modern UI design.
 
 ## Key Features

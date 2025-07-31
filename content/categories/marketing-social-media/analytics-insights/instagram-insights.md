@@ -7,9 +7,6 @@ tool_name: "Instagram-insights"
 deployment_status: "deployed"
 image: "/images/tools/instagram-insights-placeholder.jpg"
 ---
-
-# Instagram-insights
-
 Instagram Insights provides comprehensive analytics and performance data for Instagram business accounts and advertising campaigns.
 
 ## Key Features

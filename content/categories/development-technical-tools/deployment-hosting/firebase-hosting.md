@@ -7,9 +7,6 @@ tool_name: "Firebase Hosting"
 deployment_status: "deployed"
 image: "/images/tools/firebase-hosting-placeholder.jpg"
 ---
-
-# Firebase Hosting
-
 Firebase Hosting is Google's web hosting service that provides fast, secure hosting for web applications with seamless integration to the Firebase ecosystem.
 
 ## Key Features

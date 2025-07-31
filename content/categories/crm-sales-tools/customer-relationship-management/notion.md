@@ -7,9 +7,6 @@ tool_name: "Notion"
 deployment_status: "deployed"
 image: "/images/tools/notion-placeholder.jpg"
 ---
-
-# Notion
-
 Notion serves as a DIY CRM solution through its flexible workspace architecture, enabling teams to build custom customer management systems with unlimited customization.
 
 ## Key Features

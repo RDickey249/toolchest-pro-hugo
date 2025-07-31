@@ -7,9 +7,6 @@ tool_name: "Hootsuite"
 deployment_status: "deployed"
 image: "/images/tools/hootsuite-placeholder.jpg"
 ---
-
-# Hootsuite
-
 Hootsuite is the leading social media management platform that enables businesses and organizations to manage multiple social media accounts from one dashboard.
 
 ## Key Features

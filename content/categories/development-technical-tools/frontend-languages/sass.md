@@ -7,9 +7,6 @@ tool_name: "SASS"
 deployment_status: "deployed"
 image: "/images/tools/sass-placeholder.jpg"
 ---
-
-# SASS
-
 Sass is a CSS preprocessor that extends stylesheets with variables, nesting, mixins, and functions to create maintainable, scalable design systems.
 
 ## Key Features

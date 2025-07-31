@@ -7,9 +7,6 @@ tool_name: "ZoomInfo"
 deployment_status: "deployed"
 image: "/images/tools/zoominfo-placeholder.jpg"
 ---
-
-# ZoomInfo
-
 ZoomInfo is a comprehensive B2B sales intelligence platform providing detailed business database and prospect insights to accelerate sales and marketing efforts.
 
 ## Key Features

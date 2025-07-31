@@ -7,9 +7,6 @@ tool_name: "Shoeboxed"
 deployment_status: "deployed"
 image: "/images/tools/shoeboxed-placeholder.jpg"
 ---
-
-# Shoeboxed
-
 Shoeboxed is a receipt management and expense tracking platform that digitizes paper receipts and organizes expense data for businesses and individuals.
 
 ## Key Features

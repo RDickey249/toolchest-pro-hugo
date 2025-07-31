@@ -7,9 +7,6 @@ tool_name: "JMeter"
 deployment_status: "deployed"
 image: "/images/tools/jmeter-placeholder.jpg"
 ---
-
-# JMeter
-
 Apache JMeter is a 100% Java-based open-source tool for load testing and performance measurement. With its intuitive GUI and powerful features, JMeter has become the industry standard for testing web applications, APIs, and services.
 
 ## Key Features

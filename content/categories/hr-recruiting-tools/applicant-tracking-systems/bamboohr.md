@@ -7,9 +7,6 @@ tool_name: "BambooHR"
 deployment_status: "deployed"
 image: "/images/tools/bamboohr-placeholder.jpg"
 ---
-
-# BambooHR
-
 BambooHR is a comprehensive HR software platform that integrates applicant tracking with complete human resource management. Streamline hiring, onboarding, and employee management in one user-friendly system.
 
 ## Key Features

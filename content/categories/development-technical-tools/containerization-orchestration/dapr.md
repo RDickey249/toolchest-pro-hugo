@@ -7,9 +7,6 @@ tool_name: "Dapr"
 deployment_status: "deployed"
 image: "/images/tools/dapr-placeholder.jpg"
 ---
-
-# Dapr
-
 Dapr is a distributed application runtime that provides building blocks for developing resilient microservices with service communication, state management, and event-driven architectures through consistent APIs.
 
 ## Key Features

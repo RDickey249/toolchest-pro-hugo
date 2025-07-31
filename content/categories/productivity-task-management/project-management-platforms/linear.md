@@ -7,9 +7,6 @@ tool_name: "Linear"
 deployment_status: "deployed"
 image: "/images/tools/linear-placeholder.jpg"
 ---
-
-# Linear
-
 Linear provides developer-focused project management capabilities specifically designed for software development teams seeking speed and efficiency. This platform offers lightning-fast issue tracking, sprint planning, and project coordination through a carefully crafted interface that prioritizes performance and usability.
 
 Used by fast-moving development teams, startups, and engineering teams worldwide, Linear features advanced keyboard shortcuts, instant search capabilities, and seamless Git integration. Maintain flow while managing work through minimal context switching and smart automation features.

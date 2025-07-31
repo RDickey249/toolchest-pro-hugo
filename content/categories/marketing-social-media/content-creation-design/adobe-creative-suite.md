@@ -7,9 +7,6 @@ tool_name: "Adobe-creative-suite"
 deployment_status: "deployed"
 image: "/images/tools/adobe-creative-suite-placeholder.jpg"
 ---
-
-# Adobe-creative-suite
-
 Adobe Creative Suite (now Creative Cloud) is a comprehensive collection of professional creative applications for design, video, photography, and web development.
 
 ## Key Features

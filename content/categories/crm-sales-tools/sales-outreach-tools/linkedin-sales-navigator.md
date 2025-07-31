@@ -7,9 +7,6 @@ tool_name: "LinkedIn Sales Navigator"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-sales-navigator-placeholder.jpg"
 ---
-
-# LinkedIn Sales Navigator
-
 LinkedIn Sales Navigator is a premium social selling platform that enables sales professionals to leverage LinkedIn's professional network for B2B prospecting and relationship building.
 
 ## Key Features

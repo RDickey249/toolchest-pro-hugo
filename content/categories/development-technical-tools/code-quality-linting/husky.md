@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "code-quality-linting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Quality & Linting"]
 ---
-
-# Husky
-
 Husky makes Git hooks simple and powerful. Automatically run linting, testing, and formatting on every commit to keep bad code out of your repository. It's the easiest way to enforce code quality standards across your entire team.
 
 Used by projects like Vue.js, Create React App, and thousands of open source repositories, Husky ensures that code quality checks happen automatically - no more "oops, forgot to run the linter" commits.

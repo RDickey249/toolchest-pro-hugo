@@ -7,9 +7,6 @@ tool_name: "Ansible"
 deployment_status: "deployed"
 image: "/images/tools/ansible-placeholder.jpg"
 ---
-
-# Ansible
-
 Ansible is an agentless automation platform that uses simple YAML syntax to automate configuration management, application deployment, and infrastructure orchestration.
 
 ## Key Features

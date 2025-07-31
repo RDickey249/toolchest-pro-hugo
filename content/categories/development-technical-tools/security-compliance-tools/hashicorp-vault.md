@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "security-compliance-tools"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Security & Compliance Tools"]
 ---
-
-# HashiCorp Vault
-
 HashiCorp Vault secures, stores, and tightly controls access to tokens, passwords, certificates, and encryption keys. It's the secrets management solution trusted by enterprises to protect their most sensitive data.
 
 From startups to Fortune 500 companies, Vault eliminates secrets sprawl by centralizing all sensitive data in a single, secure location with fine-grained access controls and comprehensive audit trails.

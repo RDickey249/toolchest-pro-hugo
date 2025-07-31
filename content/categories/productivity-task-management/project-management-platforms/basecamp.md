@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "project-management", "team-collaboration
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management"]
 ---
-
-# Basecamp
-
 Basecamp transforms team collaboration through a refreshingly simple approach that prioritizes human communication and project clarity over feature complexity.
 
 ## Get Started with Basecamp

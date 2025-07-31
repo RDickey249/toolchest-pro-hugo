@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/gravit-designer-placeholder.jpg"
 external_link: "https://www.gravit.io"
 ---
-
-# Gravit Designer
-
 Gravit Designer is a cross-platform vector design tool that works in your browser or as a desktop app. Create professional graphics, logos, and illustrations with powerful vector tools accessible from any device.
 
 ## Key Features

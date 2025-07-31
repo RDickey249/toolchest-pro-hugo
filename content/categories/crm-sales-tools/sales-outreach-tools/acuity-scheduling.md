@@ -7,9 +7,6 @@ tool_name: "Acuity Scheduling"
 deployment_status: "deployed"
 image: "/images/tools/acuity-scheduling-placeholder.jpg"
 ---
-
-# Acuity Scheduling
-
 Acuity Scheduling is an advanced appointment booking platform that enables service-based businesses to automate complex scheduling with sophisticated customization options.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Accurate Background"
 deployment_status: "deployed"
 image: "/images/tools/accurate-background-placeholder.jpg"
 ---
-
-# Accurate Background
-
 Accurate Background is a comprehensive screening services platform delivering thorough employment verification and background checking. Established screening expertise and industry-specific packages support informed hiring decisions across all sectors.
 
 ## Key Features

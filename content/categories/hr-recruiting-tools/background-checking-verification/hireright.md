@@ -7,9 +7,6 @@ tool_name: "HireRight"
 deployment_status: "deployed"
 image: "/images/tools/hireright-placeholder.jpg"
 ---
-
-# HireRight
-
 HireRight is a comprehensive employment screening platform that provides thorough background verification services for organizations of all sizes. Global verification capabilities and expert compliance guidance ensure confident hiring decisions.
 
 ## Key Features

@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
 ---
-
-# Express.js
-
 Express.js is a fast, unopinionated web framework for Node.js that provides a robust set of features for web and mobile applications with middleware architecture.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Karma"
 deployment_status: "deployed"
 image: "/images/tools/karma-placeholder.jpg"
 ---
-
-# Karma
-
 Karma is a test runner that executes JavaScript tests in real browsers, enabling developers to test code across multiple browsers with continuous integration support.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Writingassistant"
 deployment_status: "deployed"
 image: "/images/tools/writingassistant-placeholder.jpg"
 ---
-
-# Writingassistant
-
 Writing Assistant is a comprehensive writing tool that provides grammar checking, style suggestions, and writing guidance. Improve writing quality with intelligent feedback and editing recommendations.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"
 ---
-
-# Zapier
-
 Zapier is the leading automation platform that connects over 5,000 apps to eliminate repetitive tasks and manual data entry. It lets you create "Zaps" - automated workflows that trigger actions between different applications based on specific events or conditions.
 
 The platform's strength is making complex automation accessible to non-technical users. You can build workflows that automatically sync data between apps, send notifications, update records, and handle routine tasks without any coding. Common uses include adding new leads to your CRM, creating tasks from emails, or syncing calendars with project management tools.

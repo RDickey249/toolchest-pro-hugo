@@ -7,9 +7,6 @@ tool_name: "Box Enterprise"
 deployment_status: "deployed"
 image: "/images/tools/box-enterprise-placeholder.jpg"
 ---
-
-# Box Enterprise
-
 Box Enterprise is an advanced content management platform designed for large organizations requiring sophisticated security, compliance, and governance features for sensitive content.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Airtable API"
 deployment_status: "deployed"
 image: "/images/tools/airtable-api-placeholder.jpg"
 ---
-
-# Airtable API
-
 Airtable API provides programmatic access to Airtable's spreadsheet-database hybrid, enabling developers to build applications with structured data and collaboration features.
 
 ## Key Features

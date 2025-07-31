@@ -7,9 +7,6 @@ tool_name: "Adobe Audition"
 deployment_status: "deployed"
 image: "/images/tools/adobe-audition-placeholder.jpg"
 ---
-
-# Adobe Audition
-
 Adobe Audition is the professional audio editing and mixing software in Creative Cloud that combines advanced waveform editing with multi-track recording for audio post-production, podcasts, and music production.
 
 Used by audio professionals worldwide, Adobe Audition offers spectral frequency display, industry-leading noise reduction, comprehensive effects library, and seamless integration with Premiere Pro and After Effects. Edit audio with surgical precision, restore damaged recordings, and create professional mixes with advanced automation.

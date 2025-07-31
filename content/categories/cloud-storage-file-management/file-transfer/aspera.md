@@ -7,9 +7,6 @@ tool_name: "Aspera"
 deployment_status: "deployed"
 image: "/images/tools/aspera-placeholder.jpg"
 ---
-
-# Aspera
-
 Aspera is an enterprise high-speed file transfer solution that uses patented FASP technology to achieve maximum bandwidth utilization regardless of distance or network conditions.
 
 ## Key Features

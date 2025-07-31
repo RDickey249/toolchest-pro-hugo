@@ -7,9 +7,6 @@ tool_name: "Lever"
 deployment_status: "deployed"
 image: "/images/tools/lever-placeholder.jpg"
 ---
-
-# Lever
-
 Lever is a comprehensive talent acquisition suite that combines applicant tracking with advanced sourcing and relationship management. Transform hiring with proactive recruiting strategies and long-term candidate relationship building.
 
 ## Key Features

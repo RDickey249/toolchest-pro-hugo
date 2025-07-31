@@ -7,9 +7,6 @@ tool_name: "Coda"
 deployment_status: "deployed"
 image: "/images/tools/coda-placeholder.jpg"
 ---
-
-# Coda
-
 Coda is the revolutionary document-database platform that blends documents, spreadsheets, and databases into a single collaborative workspace for building custom applications and workflows.
 
 Used by product teams, operations teams, and growing companies worldwide, Coda offers dynamic documents with live databases, automation formulas, interactive elements, and real-time collaboration. Build custom business tools while maintaining document simplicity and collaborative accessibility.

@@ -7,9 +7,6 @@ tool_name: "OmniFocus"
 deployment_status: "deployed"
 image: "/images/tools/omnifocus-placeholder.jpg"
 ---
-
-# OmniFocus
-
 OmniFocus is the premium task management app for Mac and iOS that implements Getting Things Done (GTD) methodology with sophisticated project organization and context-based filtering. Perfect for professionals who need advanced task management.
 
 Used by knowledge workers and GTD practitioners worldwide, OmniFocus offers hierarchical projects, custom perspectives, and comprehensive review systems. Organize tasks by context, automate workflows with AppleScript, and maintain focus with forecast views and systematic productivity workflows.

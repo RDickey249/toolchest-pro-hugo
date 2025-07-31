@@ -7,9 +7,6 @@ tool_name: "RSpec"
 deployment_status: "deployed"
 image: "/images/tools/rspec-placeholder.jpg"
 ---
-
-# RSpec
-
 RSpec is a behavior-driven development (BDD) framework for Ruby that makes tests readable and expressive. Write tests that describe behavior in natural language using RSpec's intuitive syntax and comprehensive matcher system.
 
 ## Key Features

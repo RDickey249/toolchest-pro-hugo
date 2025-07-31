@@ -7,9 +7,6 @@ tool_name: "Authorize.Net"
 deployment_status: "deployed"
 image: "/images/tools/authorize-net-placeholder.jpg"
 ---
-
-# Authorize.Net
-
 Authorize.Net is an established payment gateway that provides reliable transaction processing and comprehensive fraud protection for businesses of all sizes.
 
 ## Key Features

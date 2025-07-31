@@ -7,9 +7,6 @@ tool_name: "OpenAI API"
 deployment_status: "deployed"
 image: "/images/tools/openai-api-placeholder.jpg"
 ---
-
-# OpenAI API
-
 OpenAI API provides access to advanced AI models including GPT-4 and GPT-3.5, enabling developers to integrate intelligent text generation, conversation, and analysis capabilities.
 
 ## Key Features

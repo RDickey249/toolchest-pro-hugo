@@ -7,9 +7,6 @@ tool_name: "Go"
 deployment_status: "deployed"
 image: "/images/tools/go-placeholder.jpg"
 ---
-
-# Go
-
 Go is Google's compiled programming language designed for simplicity and concurrency, combining the ease of scripting languages with the performance of compiled languages.
 
 ## Key Features

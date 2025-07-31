@@ -7,9 +7,6 @@ tool_name: "Novelcrafter"
 deployment_status: "deployed"
 image: "/images/tools/novelcrafter-placeholder.jpg"
 ---
-
-# Novelcrafter
-
 Novelcrafter is the specialized project management platform for novel writing that combines advanced plotting tools, character development, and timeline management to organize complex narratives throughout the creative process.
 
 Used by serious fiction writers and established authors, Novelcrafter offers scene organization, character relationship mapping, research integration, and revision tracking. Transform chaotic creative ideas into well-organized manuscripts with novel-specific workflows and project management tools.

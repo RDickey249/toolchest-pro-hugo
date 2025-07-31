@@ -7,9 +7,6 @@ tool_name: "CoffeeScript"
 deployment_status: "deployed"
 image: "/images/tools/coffeescript-placeholder.jpg"
 ---
-
-# CoffeeScript
-
 CoffeeScript is a language that compiles to JavaScript, offering cleaner syntax and enhanced readability while maintaining full JavaScript compatibility.
 
 ## Key Features

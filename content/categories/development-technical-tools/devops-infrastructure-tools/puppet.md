@@ -7,9 +7,6 @@ tool_name: "Puppet"
 deployment_status: "deployed"
 image: "/images/tools/puppet-placeholder.jpg"
 ---
-
-# Puppet
-
 Puppet is a declarative configuration management platform that automatically enforces desired system states using a domain-specific language and agent-based architecture.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Wave"
 deployment_status: "deployed"
 image: "/images/tools/wave-placeholder.jpg"
 ---
-
-# Wave
-
 Wave provides completely free accounting software for small businesses, offering professional bookkeeping tools without subscription fees or hidden costs.
 
 ## Key Features

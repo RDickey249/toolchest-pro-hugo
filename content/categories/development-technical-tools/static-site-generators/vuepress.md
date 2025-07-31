@@ -7,9 +7,6 @@ tool_name: "VuePress"
 deployment_status: "deployed"
 image: "/images/tools/vuepress-placeholder.jpg"
 ---
-
-# VuePress
-
 VuePress is a Vue-powered static site generator optimized for creating technical documentation with markdown-centric authoring and Vue component enhancement.
 
 ## Key Features

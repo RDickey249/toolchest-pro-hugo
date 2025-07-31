@@ -7,9 +7,6 @@ tool_name: "Automate.io"
 deployment_status: "deployed"
 image: "/images/tools/automate-io-placeholder.jpg"
 ---
-
-# Automate.io
-
 Automate.io is a straightforward automation platform that simplifies time tracking integration through accessible app connectivity and essential workflow automation. The software provides businesses with basic automation capabilities while maintaining the simplicity and affordability that makes workflow automation accessible to small teams and growing organizations.
 
 What makes Automate.io appealing is its focus on simplicity and essential functionality rather than complex automation features. The platform addresses automation complexity by providing simple, effective integration tools that connect time tracking applications with business systems through user-friendly interfaces and quick implementation.

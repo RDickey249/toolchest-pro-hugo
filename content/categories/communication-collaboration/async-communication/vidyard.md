@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# Vidyard
-
 Vidyard is the AI-powered video messaging platform that empowers sales teams to create personalized video content, track detailed engagement analytics, and accelerate deal velocity.
 
 Built specifically for modern sales environments, Vidyard transforms how B2B teams connect with prospects through scalable, data-driven video communication.

@@ -7,9 +7,6 @@ tool_name: "Bazel"
 deployment_status: "deployed"
 image: "/images/tools/bazel-placeholder.jpg"
 ---
-
-# Bazel
-
 Bazel is Google's scalable build system designed for large, multi-language codebases with advanced caching, parallelization, and hermetic builds.
 
 ## Key Features

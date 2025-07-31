@@ -7,9 +7,6 @@ tool_name: "AWeber"
 deployment_status: "deployed"
 image: "/images/tools/aweber-placeholder.jpg"
 ---
-
-# AWeber
-
 AWeber is a reliable email marketing automation platform that enables small businesses and entrepreneurs to build subscriber relationships with dependable deliverability and proven results.
 
 ## Key Features

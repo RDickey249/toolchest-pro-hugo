@@ -7,9 +7,6 @@ tool_name: "Helpjuice"
 deployment_status: "deployed"
 image: "/images/tools/helpjuice-placeholder.jpg"
 ---
-
-# Helpjuice
-
 Helpjuice is a customer-focused knowledge base platform designed to reduce support tickets while improving customer satisfaction through comprehensive self-service documentation.
 
 ## Key Features

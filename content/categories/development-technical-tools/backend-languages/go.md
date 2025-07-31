@@ -7,9 +7,6 @@ tool_name: "Go"
 deployment_status: "deployed"
 image: "/images/tools/go-placeholder.jpg"
 ---
-
-# Go
-
 Go is a statically typed, compiled programming language designed by Google that combines simplicity with performance for building scalable, concurrent systems and cloud infrastructure.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Prometheus"
 deployment_status: "deployed"
 image: "/images/tools/prometheus-placeholder.jpg"
 ---
-
-# Prometheus
-
 Prometheus is a time-series database and monitoring system that collects metrics via HTTP endpoints with powerful querying capabilities through PromQL.
 
 ## Key Features

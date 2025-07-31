@@ -7,9 +7,6 @@ tool_name: "Sync.com"
 deployment_status: "deployed"
 image: "/images/tools/sync-com-placeholder.jpg"
 ---
-
-# Sync.com
-
 Sync.com is a Canadian-hosted cloud storage service that provides zero-knowledge encryption with privacy-first architecture and transparent security practices.
 
 ## Key Features

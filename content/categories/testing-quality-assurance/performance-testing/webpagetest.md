@@ -7,9 +7,6 @@ tool_name: "WebPageTest"
 deployment_status: "deployed"
 image: "/images/tools/webpagetest-placeholder.jpg"
 ---
-
-# WebPageTest
-
 WebPageTest is an open-source tool for measuring and analyzing web page performance. Test your site from real browsers at locations worldwide and get detailed insights into loading behavior and optimization opportunities.
 
 ## Key Features

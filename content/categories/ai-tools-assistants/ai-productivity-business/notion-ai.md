@@ -10,9 +10,6 @@ tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]
 ---
-
-# Notion AI
-
 Notion AI brings powerful artificial intelligence directly into your Notion workspace, supercharging the productivity platform millions already love.
 
 Instead of switching between apps, you get AI assistance right where you work—helping with writing, research, analysis, and creative tasks without breaking your flow.

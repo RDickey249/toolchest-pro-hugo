@@ -7,9 +7,6 @@ tool_name: "Spotify API"
 deployment_status: "deployed"
 image: "/images/tools/spotify-api-placeholder.jpg"
 ---
-
-# Spotify API
-
 Spotify API provides access to Spotify's music streaming platform, enabling developers to search tracks, manage playlists, and integrate music functionality into applications.
 
 ## Key Features

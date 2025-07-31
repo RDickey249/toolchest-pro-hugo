@@ -7,9 +7,6 @@ tool_name: "CloudFormation"
 deployment_status: "deployed"
 image: "/images/tools/cloudformation-placeholder.jpg"
 ---
-
-# CloudFormation
-
 CloudFormation is AWS's native infrastructure as code service that enables organizations to define, provision, and manage AWS resources using JSON or YAML templates.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Landbot"
 deployment_status: "deployed"
 image: "/images/tools/landbot-placeholder.jpg"
 ---
-
-# Landbot
-
 Landbot transforms lead generation and customer engagement through visually stunning conversational interfaces that replace traditional forms with interactive, chat-like experiences that dramatically increase completion rates and user satisfaction. This innovative platform specializes in creating conversational landing pages, surveys, and lead qualification flows that feel more like friendly conversations than boring questionnaires. Landbot's unique visual approach captures attention and maintains engagement throughout the entire customer journey, resulting in significantly higher conversion rates compared to static forms. The platform excels at creating personalized experiences that adapt based on user responses, guiding prospects through customized paths that maximize relevance and conversion potential. Whether you're generating leads for real estate, collecting feedback through engaging surveys, or qualifying prospects for B2B sales, Landbot makes data collection feel natural and enjoyable. Its no-code builder enables marketers to create sophisticated conversation flows without technical expertise, while powerful integrations connect seamlessly with CRM systems and marketing automation tools. For businesses seeking to modernize their lead generation and improve user experience, Landbot offers the conversational revolution that turns prospects into engaged customers.
 
 ## Key Features

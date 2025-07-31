@@ -7,9 +7,6 @@ tool_name: "Craft"
 deployment_status: "deployed"
 image: "/images/tools/craft-placeholder.jpg"
 ---
-
-# Craft
-
 Craft is a beautifully designed block-based note-taking app that enables users to create stunning documents with rich media and exceptional user experience.
 
 ## Key Features

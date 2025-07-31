@@ -12,9 +12,6 @@ subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true
 ---
-
-# Mailchimp
-
 Mailchimp is the world's leading email marketing platform for small businesses, trusted by millions of entrepreneurs and growing companies.
 
 Built specifically for businesses without big marketing teams, Mailchimp makes professional email marketing simple and effective.

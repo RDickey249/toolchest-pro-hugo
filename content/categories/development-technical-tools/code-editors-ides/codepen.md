@@ -7,9 +7,6 @@ tool_name: "CodePen"
 deployment_status: "deployed"
 image: "/images/tools/codepen-placeholder.jpg"
 ---
-
-# CodePen
-
 CodePen is a social development environment and online code editor for frontend web development, providing instant HTML, CSS, and JavaScript experimentation with community sharing features.
 
 ## Key Features

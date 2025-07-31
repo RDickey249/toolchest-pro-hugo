@@ -7,9 +7,6 @@ tool_name: "Prowritingaid"
 deployment_status: "deployed"
 image: "/images/tools/prowritingaid-placeholder.jpg"
 ---
-
-# Prowritingaid
-
 ProWritingAid is a comprehensive writing analysis tool that provides in-depth reports on grammar, style, readability, and more. Advanced editing features help writers improve their craft through detailed feedback.
 
 ## Key Features

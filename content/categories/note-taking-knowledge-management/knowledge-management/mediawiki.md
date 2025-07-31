@@ -7,9 +7,6 @@ tool_name: "MediaWiki"
 deployment_status: "deployed"
 image: "/images/tools/mediawiki-placeholder.jpg"
 ---
-
-# MediaWiki
-
 MediaWiki is the battle-tested wiki software that powers Wikipedia, enabling organizations to create comprehensive knowledge bases for large-scale collaborative documentation.
 
 ## Key Features

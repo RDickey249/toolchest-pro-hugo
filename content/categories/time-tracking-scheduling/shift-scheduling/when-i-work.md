@@ -11,9 +11,6 @@ tags: ["time-tracking-scheduling", "shift-scheduling"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Shift Scheduling"]
 ---
-
-# When I Work
-
 When I Work makes employee scheduling simple for shift-based businesses. Create schedules in minutes, communicate changes instantly, and let employees manage their own availability - all from one easy-to-use platform.
 
 Used by over 200,000 workplaces, When I Work eliminates the chaos of shift scheduling. No more phone calls about schedule changes, forgotten shifts, or last-minute coverage scrambles.

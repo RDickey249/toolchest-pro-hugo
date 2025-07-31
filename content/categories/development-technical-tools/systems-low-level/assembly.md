@@ -7,9 +7,6 @@ tool_name: "Assembly"
 deployment_status: "deployed"
 image: "/images/tools/assembly-placeholder.jpg"
 ---
-
-# Assembly
-
 Assembly language provides the closest programming interface to computer hardware with direct control over CPU instructions, memory, and processor registers.
 
 ## Key Features

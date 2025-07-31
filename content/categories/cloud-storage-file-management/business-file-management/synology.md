@@ -7,9 +7,6 @@ tool_name: "Synology"
 deployment_status: "deployed"
 image: "/images/tools/synology-placeholder.jpg"
 ---
-
-# Synology
-
 Synology is a network attached storage (NAS) manufacturer that provides comprehensive storage solutions for businesses to create private cloud infrastructure with local control.
 
 ## Key Features

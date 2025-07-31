@@ -7,9 +7,6 @@ tool_name: "Aqua Security"
 deployment_status: "deployed"
 image: "/images/tools/aqua-security-placeholder.jpg"
 ---
-
-# Aqua Security
-
 Aqua Security is a container-native security platform that provides comprehensive protection for containerized applications throughout their entire lifecycle.
 
 ## Key Features

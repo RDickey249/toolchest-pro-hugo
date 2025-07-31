@@ -7,9 +7,6 @@ tool_name: "Guru"
 deployment_status: "deployed"
 image: "/images/tools/guru-placeholder.jpg"
 ---
-
-# Guru
-
 Guru is a real-time knowledge management platform that maintains trusted, verified information through continuous accuracy tracking and contextual delivery when teams need it most.
 
 ## Key Features

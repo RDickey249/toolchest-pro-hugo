@@ -7,9 +7,6 @@ tool_name: "Final Cut Pro"
 deployment_status: "deployed"
 image: "/images/tools/final-cut-pro-placeholder.jpg"
 ---
-
-# Final Cut Pro
-
 Final Cut Pro is Apple's professional video editing software designed exclusively for Mac with optimized performance and innovative features. Magnetic timeline and machine learning acceleration make complex editing intuitive and fast.
 
 ## Key Features

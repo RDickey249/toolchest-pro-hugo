@@ -7,9 +7,6 @@ tool_name: "Hemingway"
 deployment_status: "deployed"
 image: "/images/tools/hemingway-placeholder.jpg"
 ---
-
-# Hemingway
-
 Hemingway Editor is a writing tool that makes your writing bold and clear by highlighting complex sentences, passive voice, and readability issues. Improve writing clarity with simple, actionable feedback.
 
 ## Key Features

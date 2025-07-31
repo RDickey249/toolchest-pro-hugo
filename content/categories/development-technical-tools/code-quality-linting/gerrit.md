@@ -7,9 +7,6 @@ tool_name: "Gerrit"
 deployment_status: "deployed"
 image: "/images/tools/gerrit-placeholder.jpg"
 ---
-
-# Gerrit
-
 Gerrit is a web-based code review system for Git repositories with built-in access control and workflow management. Enforce code quality gates and collaborative reviews before code reaches your main branches.
 
 ## Get Started with Gerrit

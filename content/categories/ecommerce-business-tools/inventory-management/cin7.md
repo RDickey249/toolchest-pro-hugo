@@ -7,9 +7,6 @@ tool_name: "Cin7"
 deployment_status: "deployed"
 image: "/images/tools/cin7-placeholder.jpg"
 ---
-
-# Cin7
-
 Cin7 is a comprehensive inventory management platform that provides end-to-end inventory control with extensive integrations for growing businesses and complex operations.
 
 ## Key Features

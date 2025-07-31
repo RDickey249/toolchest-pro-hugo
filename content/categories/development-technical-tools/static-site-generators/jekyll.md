@@ -7,9 +7,6 @@ tool_name: "Jekyll"
 deployment_status: "deployed"
 image: "/images/tools/jekyll-placeholder.jpg"
 ---
-
-# Jekyll
-
 Jekyll is a Ruby-powered static site generator with built-in blogging features and seamless GitHub Pages integration for simple website publishing.
 
 ## Key Features

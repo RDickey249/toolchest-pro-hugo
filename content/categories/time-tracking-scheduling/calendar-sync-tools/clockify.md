@@ -2,9 +2,6 @@
 title: "Clockify"
 external_link: "https://clockify.me"
 ---
-
-# Clockify
-
 Clockify is the free time tracking app that syncs with your calendar to make time tracking automatic and visual. With Google Calendar and Outlook integration, automatic time entries, and detailed reporting, it eliminates the hassle of manual time logging.
 
 Used by millions of teams worldwide, Clockify offers professional time tracking features at no cost. Sync with your calendar, track time automatically from meetings and events, organize projects, and generate detailed reports - all completely free with unlimited users.

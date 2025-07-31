@@ -7,9 +7,6 @@ tool_name: "Productive"
 deployment_status: "deployed"
 image: "/images/tools/productive-placeholder.jpg"
 ---
-
-# Productive
-
 Productive is the agency management platform that combines time tracking, project budgeting, and profitability insights in one powerful system. Built specifically for creative agencies, it helps you understand which projects make money and which ones don't.
 
 Used by agencies like AKQA, DDB, and hundreds of creative studios worldwide, Productive turns time tracking data into business intelligence. See project profitability in real-time, manage budgets effectively, and make data-driven decisions about your agency's future.

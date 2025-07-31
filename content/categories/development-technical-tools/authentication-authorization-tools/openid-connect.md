@@ -7,9 +7,6 @@ tool_name: "OpenID Connect"
 deployment_status: "deployed"
 image: "/images/tools/openid-connect-placeholder.jpg"
 ---
-
-# OpenID Connect
-
 OpenID Connect is a standardized identity layer built on OAuth 2.0, enabling applications to verify user identity with secure ID tokens and standardized user claims.
 
 ## Key Features

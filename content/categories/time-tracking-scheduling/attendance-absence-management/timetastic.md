@@ -7,9 +7,6 @@ tool_name: "Timetastic"
 deployment_status: "deployed"
 image: "/images/tools/timetastic-placeholder.jpg"
 ---
-
-# Timetastic
-
 Timetastic is a beautifully simple leave management platform designed specifically for small teams who need professional absence tracking without enterprise complexity. The platform transforms tedious manual vacation tracking into an effortless process with intuitive leave requests, visual calendars, and automated approval workflows.
 
 Unlike bloated HR systems, Timetastic focuses on what small teams actually need: clear visibility of who's off when, simple request processes, and basic reporting. Its clean interface encourages team adoption while reducing administrative overhead for managers.

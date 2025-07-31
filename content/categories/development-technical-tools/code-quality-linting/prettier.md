@@ -7,9 +7,6 @@ tool_name: "Prettier"
 deployment_status: "deployed"
 image: "/images/tools/prettier-placeholder.jpg"
 ---
-
-# Prettier
-
 Prettier is an opinionated code formatter that automatically formats your code according to consistent rules across multiple languages including JavaScript, TypeScript, CSS, and HTML. It eliminates debates about code style by enforcing a standard format with minimal configuration required.
 
 What makes Prettier powerful is its zero-configuration philosophy and seamless integration into development workflows. It works through editor plugins, pre-commit hooks, and CI/CD pipelines to ensure consistent formatting without manual intervention or complex style guide maintenance.

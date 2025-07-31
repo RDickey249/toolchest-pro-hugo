@@ -7,9 +7,6 @@ tool_name: "Chrome-river"
 deployment_status: "deployed"
 image: "/images/tools/chrome-river-placeholder.jpg"
 ---
-
-# Chrome-river
-
 Chrome River is an enterprise expense management platform that provides comprehensive expense reporting, travel management, and procurement solutions.
 
 ## Key Features

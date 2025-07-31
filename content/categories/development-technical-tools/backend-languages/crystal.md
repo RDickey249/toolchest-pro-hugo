@@ -7,9 +7,6 @@ tool_name: "Crystal"
 deployment_status: "deployed"
 image: "/images/tools/crystal-placeholder.jpg"
 ---
-
-# Crystal
-
 Crystal is a statically typed, compiled programming language with Ruby-like syntax that combines familiar expressiveness with C-level performance and compile-time safety.
 
 ## Key Features

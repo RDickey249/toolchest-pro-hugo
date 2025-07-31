@@ -7,9 +7,6 @@ tool_name: "Jupyter"
 deployment_status: "deployed"
 image: "/images/tools/jupyter-placeholder.jpg"
 ---
-
-# Jupyter
-
 Jupyter is an interactive computing environment that combines executable code, visualizations, and narrative text in shareable notebook documents for data science and research.
 
 ## Key Features

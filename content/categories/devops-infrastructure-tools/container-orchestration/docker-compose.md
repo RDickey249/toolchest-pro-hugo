@@ -7,9 +7,6 @@ tool_name: "Docker Compose"
 deployment_status: "deployed"
 image: "/images/tools/docker-compose-placeholder.jpg"
 ---
-
-# Docker Compose
-
 Docker Compose is a tool for defining and running multi-container Docker applications using simple YAML files that describe the entire application stack.
 
 ## Key Features

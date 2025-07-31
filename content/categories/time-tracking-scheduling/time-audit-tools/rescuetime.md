@@ -7,9 +7,6 @@ tool_name: "RescueTime"
 deployment_status: "deployed"
 image: "/images/tools/rescuetime-placeholder.jpg"
 ---
-
-# RescueTime
-
 RescueTime is an automatic productivity tracking tool that provides deep insights into digital behavior patterns without manual input. The platform runs in the background, capturing detailed information about application usage and website activity to deliver comprehensive productivity analytics.
 
 RescueTime's key advantage is its effortless approach to time awareness, automatically categorizing activities and providing productivity scores without disrupting workflow. The system transforms subjective time perception into objective data, helping users identify productivity patterns and optimization opportunities.

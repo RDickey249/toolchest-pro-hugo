@@ -7,9 +7,6 @@ tool_name: "GoodHire"
 deployment_status: "deployed"
 image: "/images/tools/goodhire-placeholder.jpg"
 ---
-
-# GoodHire
-
 GoodHire is an online background check platform that provides fast, affordable, and accurate employment screening for small to medium-sized businesses. User-friendly technology makes professional screening accessible and simple.
 
 ## Key Features

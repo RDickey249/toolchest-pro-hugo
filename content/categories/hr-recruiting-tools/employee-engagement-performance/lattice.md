@@ -7,9 +7,6 @@ tool_name: "Lattice"
 deployment_status: "deployed"
 image: "/images/tools/lattice-placeholder.jpg"
 ---
-
-# Lattice
-
 Lattice is a comprehensive people management platform that integrates performance management, employee engagement, and career development. Data-driven insights and employee development focus enhance organizational performance and employee success.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Powtoon"
 deployment_status: "deployed"
 image: "/images/tools/powtoon-placeholder.jpg"
 ---
-
-# Powtoon
-
 Powtoon is a visual communication platform that helps you create engaging animated videos and presentations. Transform boring content into captivating visual stories that grab attention and boost engagement.
 
 ## Key Features

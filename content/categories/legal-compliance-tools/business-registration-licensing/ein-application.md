@@ -7,9 +7,6 @@ tool_name: "EIN Application"
 deployment_status: "deployed"
 image: "/images/tools/ein-application-placeholder.jpg"
 ---
-
-# EIN Application
-
 EIN Application services provide comprehensive assistance with obtaining Employer Identification Numbers from the IRS for business tax identification and compliance.
 
 ## Key Features

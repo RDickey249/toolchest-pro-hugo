@@ -7,9 +7,6 @@ tool_name: "Yarn"
 deployment_status: "deployed"
 image: "/images/tools/yarn-placeholder.jpg"
 ---
-
-# Yarn
-
 Yarn is a fast, reliable, and secure package manager for JavaScript that provides performance optimization and deterministic installations.
 
 ## Key Features

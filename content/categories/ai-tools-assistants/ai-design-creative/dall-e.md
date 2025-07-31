@@ -10,9 +10,6 @@ tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]
 ---
-
-# DALL·E
-
 DALL·E is the AI image generator that started the visual AI revolution, turning simple text descriptions into stunning, original artwork.
 
 Created by OpenAI (makers of ChatGPT), DALL·E democratizes image creation by making professional-quality visuals accessible to anyone with an idea.

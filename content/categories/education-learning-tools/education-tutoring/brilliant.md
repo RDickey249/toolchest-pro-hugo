@@ -7,9 +7,6 @@ tool_name: "Brilliant"
 deployment_status: "deployed"
 image: "/images/tools/brilliant-placeholder.jpg"
 ---
-
-# Brilliant
-
 Brilliant is an interactive learning platform that makes math, science, and computer science engaging through problem-solving and visual learning. Build quantitative skills with bite-sized interactive lessons.
 
 ## Key Features

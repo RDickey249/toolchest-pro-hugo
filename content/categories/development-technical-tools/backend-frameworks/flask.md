@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
 ---
-
-# Flask
-
 Flask is a lightweight Python web framework with a simple, extensible core that gives developers flexibility to build web applications and APIs.
 
 ## Key Features

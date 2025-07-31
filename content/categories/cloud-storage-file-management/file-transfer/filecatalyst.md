@@ -7,9 +7,6 @@ tool_name: "FileCatalyst"
 deployment_status: "deployed"
 image: "/images/tools/filecatalyst-placeholder.jpg"
 ---
-
-# FileCatalyst
-
 FileCatalyst is an enterprise file transfer platform that uses UDP-based acceleration technology to deliver high-speed file transfers over challenging network conditions.
 
 ## Key Features

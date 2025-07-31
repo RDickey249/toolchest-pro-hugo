@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]
 ---
-
-# Visual Studio Code
-
 Visual Studio Code is the world's most popular code editor, trusted by over 20 million developers for its perfect balance of simplicity and power.
 
 Built by Microsoft and open-source, VS Code has become the go-to editor for developers across all languages and platforms.

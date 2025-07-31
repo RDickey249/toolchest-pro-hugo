@@ -7,9 +7,6 @@ tool_name: "Descript"
 deployment_status: "deployed"
 image: "/images/tools/descript-placeholder.jpg"
 ---
-
-# Descript
-
 Descript revolutionizes audio editing by transforming the traditional timeline-based approach into an intuitive text-editing experience, making professional podcast and audio production accessible to creators of all skill levels. This groundbreaking platform treats audio like a word document—simply edit the automatically generated transcript and watch your audio magically update in real-time. Descript's innovative Overdub feature creates an AI clone of your voice, allowing seamless corrections and additions without re-recording sessions. The platform excels at eliminating the tedious aspects of audio production with features like automatic filler word removal, silence trimming, and Studio Sound that transforms amateur recordings into broadcast-quality audio. Whether you're a podcaster streamlining your workflow, a content creator repurposing long-form audio into clips, or a team collaborating on audio projects, Descript eliminates hours of traditional editing work. Its collaborative features mirror Google Docs, enabling real-time teamwork and feedback. For creators who want to focus on content rather than technical editing complexity, Descript represents the future of audio production.
 
 ## Key Features

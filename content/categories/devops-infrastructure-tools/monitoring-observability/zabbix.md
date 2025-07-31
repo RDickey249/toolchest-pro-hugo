@@ -7,9 +7,6 @@ tool_name: "Zabbix"
 deployment_status: "deployed"
 image: "/images/tools/zabbix-placeholder.jpg"
 ---
-
-# Zabbix
-
 Zabbix is an enterprise-class open-source monitoring solution providing comprehensive monitoring of networks, servers, cloud services, applications, and business metrics.
 
 ## Key Features

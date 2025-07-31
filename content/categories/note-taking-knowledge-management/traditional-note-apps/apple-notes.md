@@ -7,9 +7,6 @@ tool_name: "Apple Notes"
 deployment_status: "deployed"
 image: "/images/tools/apple-notes-placeholder.jpg"
 ---
-
-# Apple Notes
-
 Apple Notes is the native note-taking app that provides seamless integration across all Apple devices with instant synchronization through iCloud.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Glitch"
 deployment_status: "deployed"
 image: "/images/tools/glitch-placeholder.jpg"
 ---
-
-# Glitch
-
 Glitch is a collaborative coding platform with instant deployment that enables developers to create, edit, and share applications directly in the browser with real-time collaboration and automatic hosting.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "RemNote"
 deployment_status: "deployed"
 image: "/images/tools/remnote-placeholder.jpg"
 ---
-
-# RemNote
-
 RemNote is a note-taking app that integrates spaced repetition learning by automatically transforming notes into flashcards for enhanced memory retention.
 
 ## Key Features

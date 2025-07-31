@@ -7,9 +7,6 @@ tool_name: "TiddlyWiki"
 deployment_status: "deployed"
 image: "/images/tools/tiddlywiki-placeholder.jpg"
 ---
-
-# TiddlyWiki
-
 TiddlyWiki is a unique single-file wiki that enables users to create interconnected knowledge networks that run entirely in browsers with complete portability.
 
 ## Key Features

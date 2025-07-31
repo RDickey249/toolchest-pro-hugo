@@ -7,9 +7,6 @@ tool_name: "NordVPN"
 deployment_status: "deployed"
 image: "/images/tools/nordvpn-placeholder.jpg"
 ---
-
-# NordVPN
-
 NordVPN is one of the world's most trusted VPN services, protecting your online privacy with military-grade encryption and a strict no-logs policy. Access the internet safely from anywhere.
 
 ## Key Features

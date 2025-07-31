@@ -7,9 +7,6 @@ tool_name: "GoodDay"
 deployment_status: "deployed"
 image: "/images/tools/goodday-placeholder.jpg"
 ---
-
-# GoodDay
-
 GoodDay is the comprehensive work management platform that aligns daily activities with strategic objectives through integrated project management, OKR tracking, and team collaboration. Connect strategic goals to daily execution with hierarchical work organization.
 
 Used by growing businesses and cross-departmental teams, GoodDay offers goal cascading, resource planning, time tracking, and advanced analytics. Manage strategic initiatives, coordinate projects, and maintain organizational alignment with real-time visibility into progress and performance.

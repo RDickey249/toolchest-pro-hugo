@@ -7,9 +7,6 @@ tool_name: "Zoho-invoice"
 deployment_status: "deployed"
 image: "/images/tools/zoho-invoice-placeholder.jpg"
 ---
-
-# Zoho-invoice
-
 Zoho Invoice is a comprehensive invoicing and billing software that helps businesses create professional invoices and manage payments efficiently.
 
 ## Key Features

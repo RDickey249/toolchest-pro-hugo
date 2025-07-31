@@ -7,9 +7,6 @@ tool_name: "nTask"
 deployment_status: "deployed"
 image: "/images/tools/ntask-placeholder.jpg"
 ---
-
-# nTask
-
 nTask is a comprehensive project management platform designed for budget-conscious teams who need professional features without premium pricing. It combines task management, time tracking, team collaboration, and project planning in an intuitive, affordable package.
 
 The platform stands out for its excellent value proposition, offering Gantt charts, budget tracking, risk management, and detailed reporting at accessible price points. Unlike expensive enterprise solutions, nTask focuses on delivering essential features that small teams actually use.

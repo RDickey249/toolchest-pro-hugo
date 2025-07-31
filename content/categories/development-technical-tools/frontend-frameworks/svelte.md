@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
 ---
-
-# Svelte
-
 Svelte is the framework that compiles away. Instead of shipping a framework to your users, Svelte compiles your components into highly optimized vanilla JavaScript that runs incredibly fast.
 
 Created by Rich Harris, Svelte has gained massive popularity for its simplicity and performance. Write less code, ship smaller bundles, and build faster apps - that's the Svelte promise.

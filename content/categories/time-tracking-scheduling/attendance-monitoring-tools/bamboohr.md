@@ -2,9 +2,6 @@
 title: "BambooHR"
 external_link: "https://www.bamboohr.com"
 ---
-
-# BambooHR
-
 BambooHR is the complete HR platform that includes attendance tracking, employee records, and workforce management in one integrated system. Instead of juggling separate HR tools, businesses get everything they need to manage their people in one place.
 
 Used by over 25,000 companies worldwide, BambooHR makes HR simple for growing businesses. Track employee attendance, manage time off requests, store personnel records, and handle performance reviews all from one user-friendly platform.

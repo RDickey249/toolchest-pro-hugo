@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]
 ---
-
-# Vercel
-
 Vercel is a frontend deployment platform optimized for Next.js and React applications with zero-configuration workflows and global edge distribution.
 
 ## Key Features

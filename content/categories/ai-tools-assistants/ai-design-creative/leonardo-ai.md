@@ -7,9 +7,6 @@ tool_name: "Leonardo AI"
 deployment_status: "deployed"
 image: "/images/tools/leonardo-ai-placeholder.jpg"
 ---
-
-# Leonardo AI
-
 Leonardo AI is a comprehensive AI image generation platform designed for artists, designers, and content creators. It offers multiple specialized models and fine-grained controls that let you produce professional-quality visuals for various creative needs.
 
 The platform stands out for its balance of power and accessibility. You can create game assets, marketing materials, concept art, and design elements using specialized AI models trained for different artistic styles. Unlike many AI art tools, Leonardo AI provides extensive customization options while keeping the interface intuitive enough for beginners.

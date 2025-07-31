@@ -7,9 +7,6 @@ tool_name: "Carrd"
 deployment_status: "deployed"
 image: "/images/tools/carrd-placeholder.jpg"
 ---
-
-# Carrd
-
 Carrd is a simple website builder focused on creating beautiful one-page sites. Build landing pages, portfolios, and personal sites quickly with minimal complexity and affordable pricing.
 
 ## Key Features

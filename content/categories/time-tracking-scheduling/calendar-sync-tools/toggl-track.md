@@ -2,9 +2,6 @@
 title: "Toggl Track"
 external_link: "https://toggl.com"
 ---
-
-# Toggl Track
-
 Toggl Track is the simple, elegant time tracking tool that helps teams understand where their time actually goes. With one-click timers, visual reporting, and seamless calendar integration, it makes time tracking effortless and insightful.
 
 Used by over 5 million people worldwide including companies like Netflix, Spotify, and Airbnb, Toggl Track turns time tracking from a chore into a productivity superpower. See exactly where your time goes, identify productivity patterns, and make better decisions about how you work.

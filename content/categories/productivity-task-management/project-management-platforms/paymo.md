@@ -7,9 +7,6 @@ tool_name: "Paymo"
 deployment_status: "deployed"
 image: "/images/tools/paymo-placeholder.jpg"
 ---
-
-# Paymo
-
 Paymo is the comprehensive project management platform designed for small teams and freelancers who need professional coordination capabilities combined with time tracking, invoicing, and client management. This streamlined solution addresses unique challenges faced by small agencies and growing teams through essential project management features alongside business tools.
 
 Used by creative professionals, consultants, and service providers worldwide, Paymo balances project functionality with practical business tools. Manage projects while handling client relationships, time billing, and business administration all from one accessible platform.

@@ -7,9 +7,6 @@ tool_name: "Facebook-insights"
 deployment_status: "deployed"
 image: "/images/tools/facebook-insights-placeholder.jpg"
 ---
-
-# Facebook-insights
-
 Facebook Insights (now Meta Business Suite Insights) provides comprehensive analytics and performance data for Facebook pages and advertising campaigns.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Mailchimp"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-placeholder.jpg"
 ---
-
-# Mailchimp
-
 Mailchimp is the world's leading small business email marketing platform that enables entrepreneurs to create professional campaigns with user-friendly automation and comprehensive features.
 
 ## Key Features

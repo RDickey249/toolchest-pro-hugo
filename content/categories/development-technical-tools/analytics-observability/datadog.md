@@ -7,9 +7,6 @@ tool_name: "Datadog"
 deployment_status: "deployed"
 image: "/images/tools/datadog-placeholder.jpg"
 ---
-
-# Datadog
-
 Datadog is a cloud-scale observability platform that integrates infrastructure monitoring, APM, log management, and security monitoring into a unified platform.
 
 ## Key Features

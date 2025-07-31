@@ -7,9 +7,6 @@ tool_name: "Android Studio"
 deployment_status: "deployed"
 image: "/images/tools/android-studio-placeholder.jpg"
 ---
-
-# Android Studio
-
 Android Studio is Google's official integrated development environment for Android application development, providing comprehensive tools for mobile app creation with Kotlin and Java support.
 
 ## Key Features

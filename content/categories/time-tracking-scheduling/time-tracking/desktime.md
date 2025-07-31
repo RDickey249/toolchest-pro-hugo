@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/desktime-placeholder.jpg"
 external_link: "https://desktime.com"
 ---
-
-# DeskTime
-
 DeskTime is the automatic time tracking platform that runs quietly in the background to show you exactly how you spend your time. Get detailed productivity insights, track projects automatically, and analyze work patterns without manual timers.
 
 Used by companies like Samsung, Porsche, and IBM, DeskTime offers automatic tracking with productivity scoring and detailed analytics. Understand work patterns, identify productivity opportunities, and optimize time allocation with privacy-focused monitoring that respects user autonomy.

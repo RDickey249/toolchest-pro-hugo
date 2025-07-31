@@ -7,9 +7,6 @@ tool_name: "TSheets by QuickBooks"
 deployment_status: "deployed"
 image: "/images/tools/tsheets-by-quickbooks-placeholder.jpg"
 ---
-
-# TSheets by QuickBooks
-
 TSheets by QuickBooks is the leading mobile time tracking solution for field teams and distributed workforces. With GPS tracking, scheduling tools, and seamless QuickBooks integration, it eliminates timesheet headaches while ensuring accurate payroll.
 
 Used by over 40,000 businesses including construction companies, service providers, and consulting firms, TSheets turns any smartphone into a powerful time clock with location verification and automated payroll processing.

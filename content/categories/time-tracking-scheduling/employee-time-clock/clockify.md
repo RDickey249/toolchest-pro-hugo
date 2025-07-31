@@ -7,9 +7,6 @@ tool_name: "Clockify"
 deployment_status: "deployed"
 image: "/images/tools/clockify-placeholder.jpg"
 ---
-
-# Clockify
-
 Clockify is a comprehensive employee time clock platform that offers professional time tracking capabilities at no cost, providing teams with unlimited users and robust timesheet functionality without subscription fees. The software enables organizations to maintain accurate employee time records while coordinating team productivity and project management through accessible infrastructure.
 
 What makes Clockify unique is its combination of free accessibility with comprehensive team functionality and professional features. The platform addresses the challenge of affordable team time tracking by providing sophisticated time clock capabilities, detailed reporting, and project coordination tools that typically require paid subscriptions.

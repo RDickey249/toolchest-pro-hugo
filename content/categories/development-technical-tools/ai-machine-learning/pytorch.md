@@ -7,9 +7,6 @@ tool_name: "PyTorch"
 deployment_status: "deployed"
 image: "/images/tools/pytorch-placeholder.jpg"
 ---
-
-# PyTorch
-
 PyTorch is Facebook's dynamic machine learning framework that emphasizes flexibility and ease of use with Python-first design and dynamic computation graphs.
 
 ## Key Features

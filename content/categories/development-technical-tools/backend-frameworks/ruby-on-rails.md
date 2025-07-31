@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/ruby-on-rails-placeholder.jpg"
 external_link: "https://rubyonrails.org"
 ---
-
-# Ruby on Rails
-
 Ruby on Rails is a server-side web application framework written in Ruby that follows convention-over-configuration and don't-repeat-yourself principles.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Receipt-bank"
 deployment_status: "deployed"
 image: "/images/tools/receipt-bank-placeholder.jpg"
 ---
-
-# Receipt-bank
-
 Receipt-bank is an expense management solution that automates receipt processing and expense tracking for businesses and accountants.
 
 ## Key Features

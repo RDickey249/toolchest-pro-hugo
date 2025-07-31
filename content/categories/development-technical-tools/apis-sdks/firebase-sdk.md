@@ -7,9 +7,6 @@ tool_name: "Firebase SDK"
 deployment_status: "deployed"
 image: "/images/tools/firebase-sdk-placeholder.jpg"
 ---
-
-# Firebase SDK
-
 Firebase SDK provides comprehensive backend-as-a-service infrastructure with real-time databases, authentication, hosting, and analytics for mobile and web applications.
 
 ## Key Features

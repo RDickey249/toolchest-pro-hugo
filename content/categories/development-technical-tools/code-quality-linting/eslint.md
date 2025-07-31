@@ -7,9 +7,6 @@ tool_name: "ESLint"
 deployment_status: "deployed"
 image: "/images/tools/eslint-placeholder.jpg"
 ---
-
-# ESLint
-
 ESLint is the essential JavaScript linter that catches errors, enforces consistent style, and maintains code quality across your entire codebase. With over 300 built-in rules and thousands of community plugins, it's the industry standard for JavaScript code analysis.
 
 ## Key Benefits

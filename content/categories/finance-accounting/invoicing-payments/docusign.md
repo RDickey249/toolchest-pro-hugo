@@ -7,9 +7,6 @@ tool_name: "Docusign"
 deployment_status: "deployed"
 image: "/images/tools/docusign-placeholder.jpg"
 ---
-
-# Docusign
-
 DocuSign is the leading electronic signature platform that enables secure, legally binding digital document signing and workflow automation for businesses worldwide.
 
 ## Key Features

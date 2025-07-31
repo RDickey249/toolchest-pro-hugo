@@ -7,9 +7,6 @@ tool_name: "Greenhouse"
 deployment_status: "deployed"
 image: "/images/tools/greenhouse-placeholder.jpg"
 ---
-
-# Greenhouse
-
 Greenhouse is a comprehensive hiring platform designed to help organizations build effective recruitment processes. Advanced applicant tracking, structured interviews, and data-driven insights optimize hiring quality and speed.
 
 ## Key Features

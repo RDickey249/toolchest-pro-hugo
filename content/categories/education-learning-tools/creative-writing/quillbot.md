@@ -7,9 +7,6 @@ tool_name: "Quillbot"
 deployment_status: "deployed"
 image: "/images/tools/quillbot-placeholder.jpg"
 ---
-
-# Quillbot
-
 QuillBot is an AI-powered paraphrasing and writing tool that helps rephrase, summarize, and improve text. Advanced algorithms enhance writing quality while maintaining original meaning and context.
 
 ## Key Features

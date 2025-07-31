@@ -7,9 +7,6 @@ tool_name: "Listnr"
 deployment_status: "deployed"
 image: "/images/tools/listnr-placeholder.jpg"
 ---
-
-# Listnr
-
 Listnr empowers content creators with AI-powered text-to-speech technology that transforms written content into engaging audio, making it simple to create podcasts, audiobooks, and voice content without recording equipment or voice talent. This comprehensive platform offers over 900 realistic AI voices across 142+ languages, enabling creators to produce professional-quality audio content at scale. Listnr's strength lies in its content creation focus—users can input blog posts, articles, or scripts and receive polished audio complete with music, sound effects, and professional pacing. The platform excels at helping content creators expand their reach by repurposing written content into audio formats, opening new distribution channels and accessibility options. Whether you're a blogger wanting to offer podcast versions of your posts, an educator creating audio lessons, or a marketer producing voice content for campaigns, Listnr streamlines the entire audio creation process. Its embedding capabilities allow seamless integration into websites and platforms, while analytics provide insights into listener engagement. For creators seeking to leverage the growing audio content market without traditional production barriers, Listnr offers the tools and technology to transform any text into compelling audio experiences.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Sunsama"
 deployment_status: "deployed"
 image: "/images/tools/sunsama-placeholder.jpg"
 ---
-
-# Sunsama
-
 Sunsama is the mindful daily planning platform that combines task management with work-life balance principles to help busy professionals create realistic, sustainable schedules and prevent burnout.
 
 Used by professionals and entrepreneurs seeking intentional productivity, Sunsama offers daily planning rituals, time blocking, work-life balance tracking, and reflection analytics. Transform reactive scheduling into purposeful daily design with structured planning that prioritizes well-being.

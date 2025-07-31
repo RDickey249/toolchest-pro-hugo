@@ -7,9 +7,6 @@ tool_name: "Todoist"
 deployment_status: "deployed"
 image: "/images/tools/todoist-placeholder.jpg"
 ---
-
-# Todoist
-
 Todoist makes task management effortless with natural language processing that understands how you think. Just type "Call mom tomorrow at 2pm" and Todoist automatically creates the task with the right date and time.
 
 Used by over 25 million people worldwide, Todoist transforms chaotic to-do lists into organized, actionable workflows. Whether you're managing personal goals, team projects, or complex business initiatives, Todoist adapts to your style.

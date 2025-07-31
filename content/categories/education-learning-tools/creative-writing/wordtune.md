@@ -7,9 +7,6 @@ tool_name: "Wordtune"
 deployment_status: "deployed"
 image: "/images/tools/wordtune-placeholder.jpg"
 ---
-
-# Wordtune
-
 Wordtune is an AI-powered writing tool that helps rewrite and improve sentences for better clarity and impact. Transform your writing with intelligent suggestions that maintain your original meaning.
 
 ## Key Features

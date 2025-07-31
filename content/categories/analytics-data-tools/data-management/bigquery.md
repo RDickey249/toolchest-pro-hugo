@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
 ---
-
-# BigQuery
-
 BigQuery is Google's fully-managed, serverless data warehouse that enables super-fast SQL queries using Google's processing power.
 
 Designed for massive datasets, BigQuery lets you analyze petabytes of data in seconds without managing any infrastructure.

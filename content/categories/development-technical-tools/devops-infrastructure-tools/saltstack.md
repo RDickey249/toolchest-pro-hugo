@@ -7,9 +7,6 @@ tool_name: "SaltStack"
 deployment_status: "deployed"
 image: "/images/tools/saltstack-placeholder.jpg"
 ---
-
-# SaltStack
-
 SaltStack is an event-driven automation and configuration management platform that provides high-speed infrastructure automation with remote execution capabilities.
 
 ## Key Features

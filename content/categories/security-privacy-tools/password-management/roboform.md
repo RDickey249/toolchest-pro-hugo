@@ -7,9 +7,6 @@ tool_name: "RoboForm"
 deployment_status: "deployed"
 image: "/images/tools/roboform-placeholder.jpg"
 ---
-
-# RoboForm
-
 RoboForm is the password manager that excels at automatically filling complex forms and login credentials. Store passwords securely and let RoboForm handle tedious form filling with intelligent automation and high accuracy.
 
 Trusted by users for over 20 years, RoboForm offers superior form-filling technology with multiple identity support. Handle complex e-commerce forms, manage business credentials, and sync across devices with reliable offline access and strong encryption.

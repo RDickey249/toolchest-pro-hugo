@@ -7,9 +7,6 @@ tool_name: "ActiveCampaign"
 deployment_status: "deployed"
 image: "/images/tools/activecampaign-placeholder.jpg"
 ---
-
-# ActiveCampaign
-
 ActiveCampaign is an advanced marketing automation platform that enables businesses to create sophisticated customer journeys with behavioral triggers and personalization.
 
 ## Key Features

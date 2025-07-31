@@ -7,9 +7,6 @@ tool_name: "FunctionFox"
 deployment_status: "deployed"
 image: "/images/tools/functionfox-placeholder.jpg"
 ---
-
-# FunctionFox
-
 FunctionFox is the time tracking and project management solution built for creative consultants and small agencies. With visual project dashboards, client reporting, and integrated billing, it helps creative professionals stay organized and profitable.
 
 Used by creative consultants, designers, and freelancers worldwide, FunctionFox provides the project visibility and business intelligence needed to run a successful creative practice. Track time accurately, monitor project profitability, and deliver professional reports to clients.

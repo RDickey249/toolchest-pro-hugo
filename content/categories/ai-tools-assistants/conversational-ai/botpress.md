@@ -7,9 +7,6 @@ tool_name: "Botpress"
 deployment_status: "deployed"
 image: "/images/tools/botpress-placeholder.jpg"
 ---
-
-# Botpress
-
 Botpress empowers developers and enterprises to build sophisticated, customizable chatbots through its open-source platform that combines the flexibility of custom development with the convenience of visual bot building tools. This powerful framework stands out by offering complete control over bot logic, data handling, and user experience while maintaining the accessibility needed for rapid development and deployment. Botpress excels at creating complex conversational AI systems that can handle intricate business logic, integrate with existing infrastructure, and scale to meet enterprise demands. The platform's unique strength lies in its ability to serve both technical and non-technical team members, providing visual flow builders for marketers while offering deep customization options for developers. Whether you're building customer service bots for large-scale operations, creating specialized workflow automation, or developing AI assistants for specific industry needs, Botpress provides the foundation for truly custom solutions. Its open-source nature means no vendor lock-in, complete data ownership, and the ability to modify every aspect of the platform to meet specific requirements. For organizations that need chatbot solutions tailored to their exact specifications while maintaining full control over their conversational AI infrastructure, Botpress offers unparalleled flexibility and power.
 
 ## Key Features

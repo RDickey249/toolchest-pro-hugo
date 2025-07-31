@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
 ---
-
-# FastAPI
-
 FastAPI is a modern Python web framework for building APIs with automatic interactive documentation, based on standard Python type hints.
 
 ## Key Features

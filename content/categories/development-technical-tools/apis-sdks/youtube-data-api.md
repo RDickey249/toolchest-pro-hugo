@@ -7,9 +7,6 @@ tool_name: "YouTube Data API"
 deployment_status: "deployed"
 image: "/images/tools/youtube-data-api-placeholder.jpg"
 ---
-
-# YouTube Data API
-
 YouTube Data API provides access to YouTube's video platform, enabling developers to search content, manage channels, and integrate video functionality into applications.
 
 ## Key Features

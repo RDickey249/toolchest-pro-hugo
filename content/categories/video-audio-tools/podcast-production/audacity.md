@@ -7,9 +7,6 @@ tool_name: "Audacity"
 deployment_status: "deployed"
 image: "/images/tools/audacity-placeholder.jpg"
 ---
-
-# Audacity
-
 Audacity is free, open-source audio editing software used by millions worldwide. Record, edit, and produce professional-quality audio without spending a dime.
 
 ## Key Features

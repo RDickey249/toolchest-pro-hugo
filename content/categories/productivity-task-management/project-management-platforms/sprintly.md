@@ -7,9 +7,6 @@ tool_name: "Sprintly"
 deployment_status: "deployed"
 image: "/images/tools/sprintly-placeholder.jpg"
 ---
-
-# Sprintly
-
 Sprintly revolutionizes agile project management by providing development teams with an intuitive, story-driven platform that seamlessly integrates user stories, sprint planning, and continuous delivery workflows. This specialized platform addresses software development challenges by combining agile methodology best practices with modern collaboration tools.
 
 Used by software development teams, product managers, and startups worldwide, Sprintly emphasizes user story management and sprint-based workflows. Maintain focus on delivering value while providing stakeholders with real-time visibility into development progress.

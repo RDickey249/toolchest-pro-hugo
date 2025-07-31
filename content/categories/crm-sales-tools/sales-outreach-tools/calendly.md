@@ -7,9 +7,6 @@ tool_name: "Calendly"
 deployment_status: "deployed"
 image: "/images/tools/calendly-placeholder.jpg"
 ---
-
-# Calendly
-
 Calendly eliminates the back-and-forth emails of scheduling. Share your availability, let people book time with you, and get back to what matters most.
 
 ## Key Features

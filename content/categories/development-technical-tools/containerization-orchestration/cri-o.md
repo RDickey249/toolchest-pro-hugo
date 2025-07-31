@@ -7,9 +7,6 @@ tool_name: "CRI-O"
 deployment_status: "deployed"
 image: "/images/tools/cri-o-placeholder.jpg"
 ---
-
-# CRI-O
-
 CRI-O is a lightweight container runtime specifically designed for Kubernetes that implements the Container Runtime Interface (CRI) with OCI compliance and minimal overhead.
 
 ## Key Features

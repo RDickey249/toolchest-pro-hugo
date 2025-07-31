@@ -7,9 +7,6 @@ tool_name: "Phabricator"
 deployment_status: "deployed"
 image: "/images/tools/phabricator-placeholder.jpg"
 ---
-
-# Phabricator
-
 Phabricator is a comprehensive suite of integrated development tools combining code review, project management, and team communication in a self-hosted platform.
 
 ## Key Features

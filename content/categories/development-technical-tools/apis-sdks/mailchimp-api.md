@@ -7,9 +7,6 @@ tool_name: "Mailchimp API"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-api-placeholder.jpg"
 ---
-
-# Mailchimp API
-
 Mailchimp API provides email marketing and audience management capabilities, enabling developers to integrate campaign management, automation, and analytics features.
 
 ## Key Features

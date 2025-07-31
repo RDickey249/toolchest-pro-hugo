@@ -7,9 +7,6 @@ tool_name: "Luma Fusion"
 deployment_status: "deployed"
 image: "/images/tools/luma-fusion-placeholder.jpg"
 ---
-
-# Luma Fusion
-
 Luma Fusion is a professional mobile video editing app that brings desktop-class capabilities to iOS and Android devices. Multi-track editing, color correction, and advanced effects make it the go-to choice for mobile video production.
 
 ## Key Features

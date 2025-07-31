@@ -7,9 +7,6 @@ tool_name: "Helm"
 deployment_status: "deployed"
 image: "/images/tools/helm-placeholder.jpg"
 ---
-
-# Helm
-
 Helm is the package manager for Kubernetes that simplifies application deployment with reusable charts, templating, and release management.
 
 ## Key Features

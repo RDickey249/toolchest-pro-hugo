@@ -12,9 +12,6 @@ subcategories: ["Web Design & Development"]
 affiliate: true
 featured: true
 ---
-
-# Webflow
-
 Webflow is the leading visual web development platform that lets designers create professional, responsive websites without writing code.
 
 Built for designers who want pixel-perfect control and developers who need clean, semantic code, Webflow bridges the gap between design and development.

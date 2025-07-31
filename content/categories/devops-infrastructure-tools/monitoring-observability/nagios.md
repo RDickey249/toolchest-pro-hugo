@@ -7,9 +7,6 @@ tool_name: "Nagios"
 deployment_status: "deployed"
 image: "/images/tools/nagios-placeholder.jpg"
 ---
-
-# Nagios
-
 Nagios is a proven, enterprise-grade monitoring system providing comprehensive monitoring of IT infrastructure including servers, networks, applications, and services.
 
 ## Key Features

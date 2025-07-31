@@ -7,9 +7,6 @@ tool_name: "SendAnywhere"
 deployment_status: "deployed"
 image: "/images/tools/sendanywhere-placeholder.jpg"
 ---
-
-# SendAnywhere
-
 SendAnywhere is a cross-platform file transfer service that enables seamless file sharing between any devices and operating systems with universal compatibility.
 
 ## Key Features

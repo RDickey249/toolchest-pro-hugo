@@ -7,9 +7,6 @@ tool_name: "Youtube-analytics"
 deployment_status: "deployed"
 image: "/images/tools/youtube-analytics-placeholder.jpg"
 ---
-
-# Youtube-analytics
-
 YouTube Analytics provides comprehensive insights and performance data for YouTube channels and video content.
 
 ## Key Features

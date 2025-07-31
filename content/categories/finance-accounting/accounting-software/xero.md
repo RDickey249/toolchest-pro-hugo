@@ -7,9 +7,6 @@ tool_name: "Xero"
 deployment_status: "deployed"
 image: "/images/tools/xero-placeholder.jpg"
 ---
-
-# Xero
-
 Xero is a cloud-based accounting platform designed for modern small to medium businesses, providing real-time financial insights with collaborative features and extensive integrations.
 
 ## Key Features

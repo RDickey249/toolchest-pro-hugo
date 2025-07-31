@@ -7,9 +7,6 @@ tool_name: "Genesys Cloud"
 deployment_status: "deployed"
 image: "/images/tools/genesys-cloud-placeholder.jpg"
 ---
-
-# Genesys Cloud
-
 Genesys Cloud is an enterprise-grade customer experience platform that orchestrates seamless customer journeys across voice, digital, and self-service channels. As a cloud-native solution, it combines the scalability of public cloud with enterprise security and compliance requirements.
 
 The platform's AI-powered predictive engagement allows businesses to proactively reach customers at optimal moments, while its workforce engagement suite handles forecasting, scheduling, and quality management in one integrated solution. The visual journey architect tool makes designing complex customer experiences intuitive.

@@ -7,9 +7,6 @@ tool_name: "OpenCart"
 deployment_status: "deployed"
 image: "/images/tools/opencart-placeholder.jpg"
 ---
-
-# OpenCart
-
 OpenCart is a lightweight, PHP-based e-commerce platform that provides efficient online store solutions with clean architecture and optimal performance.
 
 ## Key Features

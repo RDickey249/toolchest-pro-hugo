@@ -7,9 +7,6 @@ tool_name: "Adobe After Effects"
 deployment_status: "deployed"
 image: "/images/tools/adobe-after-effects-placeholder.jpg"
 ---
-
-# Adobe After Effects
-
 Adobe After Effects is the industry-standard motion graphics and visual effects software used by professionals worldwide. Create stunning animations, compositing, and visual effects with advanced keyframe animation and an extensive plugin ecosystem.
 
 ## Key Features

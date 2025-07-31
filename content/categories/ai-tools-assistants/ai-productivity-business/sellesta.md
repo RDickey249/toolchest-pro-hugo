@@ -7,9 +7,6 @@ tool_name: "Sellesta"
 deployment_status: "deployed"
 image: "/images/tools/sellesta-placeholder.jpg"
 ---
-
-# Sellesta
-
 Sellesta is the AI-powered Amazon optimization platform that automatically improves product listings, monitors competitor pricing, and enhances search visibility to maximize sales performance for marketplace sellers.
 
 Used by Amazon sellers, private label brands, and marketplace agencies, Sellesta offers automated keyword research, price monitoring, listing enhancement, and performance tracking. Scale Amazon operations efficiently with data-driven insights and competitive intelligence for profitable growth.

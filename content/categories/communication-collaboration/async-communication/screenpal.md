@@ -7,9 +7,6 @@ tool_name: "ScreenPal"
 deployment_status: "deployed"
 image: "/images/tools/screenpal-placeholder.jpg"
 ---
-
-# ScreenPal
-
 ScreenPal is a screen recording tool designed for educators, trainers, and professionals who need to create instructional videos and tutorials.
 
 The platform combines screen recording with video editing, cloud hosting, and interactive elements. Features include drawing tools, video trimming, closed captions, quizzing capabilities, and video analytics to create engaging educational content.

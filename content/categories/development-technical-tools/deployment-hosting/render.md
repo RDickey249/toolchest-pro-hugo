@@ -7,9 +7,6 @@ tool_name: "Render"
 deployment_status: "deployed"
 image: "/images/tools/render-placeholder.jpg"
 ---
-
-# Render
-
 Render is a unified cloud platform that simplifies deploying and scaling web services, static sites, and databases with automatic infrastructure management.
 
 ## Key Features

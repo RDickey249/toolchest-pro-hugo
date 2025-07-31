@@ -7,9 +7,6 @@ tool_name: "GrammarlyGO"
 deployment_status: "deployed"
 image: "/images/tools/grammarlygo-placeholder.jpg"
 ---
-
-# GrammarlyGO
-
 GrammarlyGO elevates writing assistance beyond grammar checking by integrating generative AI directly into your workflow, creating a comprehensive writing partner that helps you communicate with impact and clarity. This AI-powered enhancement to Grammarly's trusted platform understands context, tone, and intent, offering intelligent suggestions that go far beyond fixing typos. Whether you're crafting professional emails, academic papers, or creative content, GrammarlyGO provides on-demand assistance for rewriting, ideation, and tone adjustment. It seamlessly works across your favorite platforms—from Gmail to Google Docs to social media—ensuring consistent, polished communication everywhere you write. The AI learns your writing style and preferences, making increasingly personalized suggestions that maintain your unique voice while enhancing clarity and professionalism. For anyone who writes regularly, from students polishing essays to executives crafting strategic communications, GrammarlyGO transforms the often challenging task of writing into a collaborative, confidence-building experience.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Trilium"
 deployment_status: "deployed"
 image: "/images/tools/trilium-placeholder.jpg"
 ---
-
-# Trilium
-
 Trilium is a self-hosted personal knowledge management system that uses hierarchical tree structures to organize complex information with infinite nesting capabilities.
 
 ## Key Features

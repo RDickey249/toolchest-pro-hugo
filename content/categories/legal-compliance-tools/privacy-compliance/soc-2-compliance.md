@@ -7,9 +7,6 @@ tool_name: "SOC 2 Compliance"
 deployment_status: "deployed"
 image: "/images/tools/soc-2-compliance-placeholder.jpg"
 ---
-
-# SOC 2 Compliance
-
 SOC 2 Compliance tools including Vanta, SecureFrame, and similar platforms provide comprehensive security and compliance automation for organizations seeking SOC 2 certification.
 
 ## Key Features

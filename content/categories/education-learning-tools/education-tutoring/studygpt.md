@@ -7,9 +7,6 @@ tool_name: "StudyGPT"
 deployment_status: "deployed"
 image: "/images/tools/studygpt-placeholder.jpg"
 ---
-
-# StudyGPT
-
 StudyGPT is the AI-powered study assistant that provides personalized tutoring, practice problem generation, and learning strategies across all academic subjects.
 
 Used by students at all educational levels, StudyGPT offers multi-subject tutoring, custom study plan creation, essay writing assistance, and concept explanations. Get 24/7 academic support with exam preparation tools and learning style adaptation for improved study effectiveness.

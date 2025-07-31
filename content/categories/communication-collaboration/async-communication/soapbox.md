@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# Soapbox
-
 Soapbox by Wistia makes creating quick video messages as easy as taking a screenshot. Record your screen, webcam, or both with a simple Chrome extension, then share instantly with anyone.
 
 Built by the video experts at Wistia, Soapbox combines the simplicity of casual video messaging with the quality and reliability of professional video hosting. It's perfect for when you need to show, not just tell.

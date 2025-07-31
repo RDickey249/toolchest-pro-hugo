@@ -7,9 +7,6 @@ tool_name: "Codewars"
 deployment_status: "deployed"
 image: "/images/tools/codewars-placeholder.jpg"
 ---
-
-# Codewars
-
 Codewars is the martial arts-inspired coding practice platform where programmers improve their skills through kata challenges with community-driven learning and ranking progression.
 
 Used by 3+ million developers worldwide, Codewars offers coding challenges across 55+ programming languages, solution sharing, and peer feedback. Master programming concepts from basic syntax to advanced algorithms with gamified progression and community learning.

@@ -7,9 +7,6 @@ tool_name: "Rancher"
 deployment_status: "deployed"
 image: "/images/tools/rancher-placeholder.jpg"
 ---
-
-# Rancher
-
 Rancher is a complete container management platform that simplifies Kubernetes deployment and operation across any infrastructure with centralized multi-cluster management.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
 ---
-
-# Redis
-
 Redis is the world's most popular in-memory data store, delivering sub-millisecond response times for millions of requests per second.
 
 Standing for "Remote Dictionary Server," Redis is much more than a cache—it's a versatile data platform supporting multiple data structures and use cases.

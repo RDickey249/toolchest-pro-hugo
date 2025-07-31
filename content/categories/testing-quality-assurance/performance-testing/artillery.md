@@ -7,9 +7,6 @@ tool_name: "Artillery"
 deployment_status: "deployed"
 image: "/images/tools/artillery-placeholder.jpg"
 ---
-
-# Artillery
-
 Artillery is a modern, lightweight load testing toolkit for developers and SREs. Write tests in YAML, run them from your CI/CD pipeline, and ensure your APIs and microservices can handle production traffic.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Microsoft 365
-
 Microsoft 365 brings the power of Word, Excel, PowerPoint, and more to the cloud, enabling real-time collaboration while maintaining the familiar Office experience that businesses depend on.
 
 The world's most widely used productivity suite, now enhanced with cloud-based collaboration, AI assistance, and seamless integration across all devices.

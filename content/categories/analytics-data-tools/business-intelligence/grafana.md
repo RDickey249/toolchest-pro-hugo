@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Grafana
-
 Grafana is the leading open-source platform for monitoring and observability, transforming time-series data into beautiful, actionable dashboards.
 
 Used by millions of users worldwide, Grafana helps teams visualize metrics, logs, and traces from any data source to understand system performance and health.

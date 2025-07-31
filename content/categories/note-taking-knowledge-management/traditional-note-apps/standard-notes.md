@@ -7,9 +7,6 @@ tool_name: "Standard Notes"
 deployment_status: "deployed"
 image: "/images/tools/standard-notes-placeholder.jpg"
 ---
-
-# Standard Notes
-
 Standard Notes is a privacy-focused note-taking app that provides end-to-end encryption to ensure complete control over personal information and data.
 
 ## Key Features

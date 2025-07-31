@@ -7,9 +7,6 @@ tool_name: "Gridsome"
 deployment_status: "deployed"
 image: "/images/tools/gridsome-placeholder.jpg"
 ---
-
-# Gridsome
-
 Gridsome is a Vue.js-powered static site generator that uses GraphQL to unify data from multiple sources with modern development practices.
 
 ## Key Features

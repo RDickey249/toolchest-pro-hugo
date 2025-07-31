@@ -7,9 +7,6 @@ tool_name: "Employment Verification"
 deployment_status: "deployed"
 image: "/images/tools/employment-verification-placeholder.jpg"
 ---
-
-# Employment Verification
-
 Employment verification services provide comprehensive employment history validation and work experience verification for hiring organizations.
 
 ## Key Features

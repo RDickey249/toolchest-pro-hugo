@@ -7,9 +7,6 @@ tool_name: "Mercurial"
 deployment_status: "deployed"
 image: "/images/tools/mercurial-placeholder.jpg"
 ---
-
-# Mercurial
-
 Mercurial is a distributed version control system with intuitive commands and robust branching, designed for simplified workflows and cross-platform compatibility.
 
 ## Key Features

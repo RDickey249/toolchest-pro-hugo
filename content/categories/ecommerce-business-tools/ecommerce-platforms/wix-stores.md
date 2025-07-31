@@ -7,9 +7,6 @@ tool_name: "Wix Stores"
 deployment_status: "deployed"
 image: "/images/tools/wix-stores-placeholder.jpg"
 ---
-
-# Wix Stores
-
 Wix Stores is a drag-and-drop e-commerce solution that enables quick online store creation with visual design tools and comprehensive retail features.
 
 ## Key Features

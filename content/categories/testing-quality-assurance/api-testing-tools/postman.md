@@ -7,9 +7,6 @@ tool_name: "Postman"
 deployment_status: "deployed"
 image: "/images/tools/postman-placeholder.jpg"
 ---
-
-# Postman
-
 Postman is the world's leading API platform used by 25+ million developers. Build, test, document, and monitor APIs faster with the most comprehensive API development environment.
 
 ## Key Features

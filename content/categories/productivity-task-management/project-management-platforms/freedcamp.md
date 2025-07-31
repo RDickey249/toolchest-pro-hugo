@@ -7,9 +7,6 @@ tool_name: "Freedcamp"
 deployment_status: "deployed"
 image: "/images/tools/freedcamp-placeholder.jpg"
 ---
-
-# Freedcamp
-
 Freedcamp is the comprehensive project management platform offering enterprise-level features completely free for unlimited users, making professional project coordination accessible to any organization regardless of budget.
 
 Used by nonprofits, startups, and budget-conscious teams worldwide, Freedcamp provides task management, time tracking, project templates, team collaboration, and milestone tracking. Access sophisticated project management capabilities without licensing costs or user limits.

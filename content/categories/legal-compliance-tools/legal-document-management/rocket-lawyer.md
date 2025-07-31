@@ -7,9 +7,6 @@ tool_name: "Rocket Lawyer"
 deployment_status: "deployed"
 image: "/images/tools/rocket-lawyer-placeholder.jpg"
 ---
-
-# Rocket Lawyer
-
 Rocket Lawyer delivers comprehensive legal document creation and management with extensive form libraries, attorney access, and affordable subscription-based legal services.
 
 ## Key Features

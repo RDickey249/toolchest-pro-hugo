@@ -7,9 +7,6 @@ tool_name: "Docker"
 deployment_status: "deployed"
 image: "/images/tools/docker-placeholder.jpg"
 ---
-
-# Docker
-
 Docker revolutionized application deployment by popularizing containerization technology that packages applications with dependencies into lightweight, portable containers. The industry standard for containerization.
 
 ## Key Features

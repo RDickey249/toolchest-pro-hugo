@@ -7,9 +7,6 @@ tool_name: "Agorapulse"
 deployment_status: "deployed"
 image: "/images/tools/agorapulse-placeholder.jpg"
 ---
-
-# Agorapulse
-
 Agorapulse is a comprehensive social media management platform that combines publishing, monitoring, and analytics with advanced team collaboration features.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
 ---
-
-# MySQL
-
 MySQL is the world's most popular open-source relational database, powering millions of applications from small websites to massive enterprise systems.
 
 Known for its speed, reliability, and ease of use, MySQL has been the go-to database choice for developers for over 25 years.

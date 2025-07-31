@@ -7,9 +7,6 @@ tool_name: "Microsoft To Do"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-to-do-placeholder.jpg"
 ---
-
-# Microsoft To Do
-
 Microsoft To Do is the task manager that just makes sense if you're already using Microsoft 365. Instead of juggling separate apps, everything syncs perfectly with Outlook, Teams, and your entire Microsoft workflow.
 
 Built as the modern replacement for Wunderlist, Microsoft To Do brings clean design and powerful collaboration to the Microsoft ecosystem. Your Outlook tasks automatically appear in To Do, and tasks created in To Do sync back to Outlook - it's seamless integration done right.

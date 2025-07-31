@@ -7,9 +7,6 @@ tool_name: "Cargo"
 deployment_status: "deployed"
 image: "/images/tools/cargo-placeholder.jpg"
 ---
-
-# Cargo
-
 Cargo is Rust's integrated package manager and build system that combines dependency management, compilation, testing, and documentation generation into a unified development tool.
 
 ## Key Features

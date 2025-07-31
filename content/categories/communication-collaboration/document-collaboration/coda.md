@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Coda
-
 Coda transforms traditional documents into powerful, interactive applications that combine the familiarity of docs with the functionality of databases and the intelligence of spreadsheets.
 
 Built for teams who need living documents that do more than just store information, Coda enables you to create custom solutions without coding expertise.

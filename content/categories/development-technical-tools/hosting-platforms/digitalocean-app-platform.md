@@ -7,9 +7,6 @@ tool_name: "DigitalOcean App Platform"
 deployment_status: "deployed"
 image: "/images/tools/digitalocean-app-platform-placeholder.jpg"
 ---
-
-# DigitalOcean App Platform
-
 DigitalOcean App Platform is a platform-as-a-service that enables developers to build, deploy, and scale applications with managed services, transparent pricing, and DigitalOcean's reliable cloud infrastructure.
 
 ## Key Features

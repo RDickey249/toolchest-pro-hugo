@@ -7,9 +7,6 @@ tool_name: "Evernote"
 deployment_status: "deployed"
 image: "/images/tools/evernote-placeholder.jpg"
 ---
-
-# Evernote
-
 Evernote is a comprehensive digital notebook that provides powerful capture, organization, and search capabilities for personal and professional information management.
 
 ## Key Features

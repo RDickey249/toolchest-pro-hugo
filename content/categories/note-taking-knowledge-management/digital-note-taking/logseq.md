@@ -7,9 +7,6 @@ tool_name: "Logseq"
 deployment_status: "deployed"
 image: "/images/tools/logseq-placeholder.jpg"
 ---
-
-# Logseq
-
 Logseq is an open-source knowledge graph tool that enables privacy-focused note-taking with complete data control and local-first architecture.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Google Optimize"
 deployment_status: "deployed"
 image: "/images/tools/google-optimize-placeholder.jpg"
 ---
-
-# Google Optimize
-
 Google Optimize is a free A/B testing and website personalization platform that integrates with Google Analytics. Test different versions of your website to see what works best for your visitors and business goals.
 
 ## Key Features

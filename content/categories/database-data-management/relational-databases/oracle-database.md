@@ -7,9 +7,6 @@ tool_name: "Oracle Database"
 deployment_status: "deployed"
 image: "/images/tools/oracle-database-placeholder.jpg"
 ---
-
-# Oracle Database
-
 Oracle Database is the enterprise-grade relational database trusted by Fortune 500 companies for mission-critical applications. Handle massive workloads with advanced optimization, clustering, and automatic performance tuning.
 
 Used by organizations like FedEx, Samsung, and Mazda, Oracle Database provides unmatched reliability and security for business-critical data. Get automatic failover, advanced encryption, and self-tuning performance with built-in machine learning and cloud-native autonomous features.

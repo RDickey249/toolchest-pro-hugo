@@ -7,9 +7,6 @@ tool_name: "Figma"
 deployment_status: "deployed"
 image: "/images/tools/figma-placeholder.jpg"
 ---
-
-# Figma
-
 Figma is a collaborative design platform that enables teams to create user interfaces, prototypes, and digital designs with real-time collaboration and cloud-based workflows.
 
 ## Key Features

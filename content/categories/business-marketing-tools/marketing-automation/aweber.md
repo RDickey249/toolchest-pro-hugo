@@ -12,9 +12,6 @@ subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true
 ---
-
-# AWeber
-
 AWeber is the email marketing platform trusted by over 120,000 small businesses and entrepreneurs for reliable email automation. Build your list, create beautiful emails, and nurture customers with proven automation workflows.
 
 With 25+ years in email marketing, AWeber offers industry-leading deliverability and customer support. Create automated email sequences, segment subscribers with tags, and track performance with detailed analytics to grow your business through email.

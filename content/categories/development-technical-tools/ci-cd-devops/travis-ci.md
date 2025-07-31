@@ -7,9 +7,6 @@ tool_name: "Travis CI"
 deployment_status: "deployed"
 image: "/images/tools/travis-ci-placeholder.jpg"
 ---
-
-# Travis CI
-
 Travis CI is a pioneering cloud-based CI platform for GitHub projects with simple YAML configuration and extensive language support for open-source development.
 
 ## Key Features

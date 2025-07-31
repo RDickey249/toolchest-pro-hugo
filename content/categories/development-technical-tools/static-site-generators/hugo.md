@@ -7,9 +7,6 @@ tool_name: "Hugo"
 deployment_status: "deployed"
 image: "/images/tools/hugo-placeholder.jpg"
 ---
-
-# Hugo
-
 Hugo is a fast and flexible static site generator built with Go that provides lightning-fast build speeds and powerful content management capabilities.
 
 ## Key Features

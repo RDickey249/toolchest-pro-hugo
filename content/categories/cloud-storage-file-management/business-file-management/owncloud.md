@@ -7,9 +7,6 @@ tool_name: "ownCloud"
 deployment_status: "deployed"
 image: "/images/tools/owncloud-placeholder.jpg"
 ---
-
-# ownCloud
-
 ownCloud is an enterprise-focused private cloud platform that enables organizations to create secure, self-hosted cloud environments with commercial support and compliance features.
 
 ## Key Features

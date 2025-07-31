@@ -7,9 +7,6 @@ tool_name: "Jasmine"
 deployment_status: "deployed"
 image: "/images/tools/jasmine-placeholder.jpg"
 ---
-
-# Jasmine
-
 Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks or DOM, making it ideal for websites, Node.js projects, or anywhere JavaScript runs.
 
 ## Key Features

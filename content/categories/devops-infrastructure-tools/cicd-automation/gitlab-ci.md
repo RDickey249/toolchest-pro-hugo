@@ -7,9 +7,6 @@ tool_name: "GitLab CI"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-ci-placeholder.jpg"
 ---
-
-# GitLab CI
-
 GitLab CI/CD is a fully integrated continuous integration and deployment platform built directly into GitLab. Complete DevOps automation from code to production without external tool integration.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Airtable"
 deployment_status: "deployed"
 image: "/images/tools/airtable-placeholder.jpg"
 ---
-
-# Airtable
-
 Airtable is a flexible database platform that combines spreadsheet simplicity with database power, enabling teams to create custom CRM solutions and manage customer data relationships.
 
 ## Key Features

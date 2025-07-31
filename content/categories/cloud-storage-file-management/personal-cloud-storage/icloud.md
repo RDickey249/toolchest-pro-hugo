@@ -7,9 +7,6 @@ tool_name: "iCloud"
 deployment_status: "deployed"
 image: "/images/tools/icloud-placeholder.jpg"
 ---
-
-# iCloud
-
 iCloud is Apple's cloud storage service that provides seamless automatic backup, sync, and access across all Apple devices with transparent integration and privacy protection.
 
 ## Key Features

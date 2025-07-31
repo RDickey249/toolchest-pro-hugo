@@ -7,9 +7,6 @@ tool_name: "GitLab Pages"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-pages-placeholder.jpg"
 ---
-
-# GitLab Pages
-
 GitLab Pages is a static site hosting service integrated with GitLab repositories that enables automated deployment through CI/CD pipelines with custom domains and SSL certificates.
 
 ## Key Features

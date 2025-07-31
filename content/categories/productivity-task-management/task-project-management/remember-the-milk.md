@@ -7,9 +7,6 @@ tool_name: "Remember The Milk"
 deployment_status: "deployed"
 image: "/images/tools/remember-the-milk-placeholder.jpg"
 ---
-
-# Remember The Milk
-
 Remember The Milk is the veteran task manager that's been helping people get organized since 2005. While other apps chase trends, RTM focuses on rock-solid reliability and the powerful features that productivity enthusiasts actually need.
 
 What sets Remember The Milk apart is its incredible Smart Lists feature - create dynamic task lists that automatically update based on your criteria. Need to see all tasks due this week with high priority? There's a Smart List for that. Tasks near your current location? Another Smart List handles it.

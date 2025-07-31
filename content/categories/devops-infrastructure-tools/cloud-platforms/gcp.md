@@ -7,9 +7,6 @@ tool_name: "Google Cloud Platform"
 deployment_status: "deployed"
 image: "/images/tools/gcp-placeholder.jpg"
 ---
-
-# Google Cloud Platform
-
 Google Cloud Platform (GCP) leverages Google's global infrastructure to provide enterprise-grade cloud services with strengths in AI, data analytics, and container technologies. Runs on the same infrastructure powering Google Search, Gmail, and YouTube.
 
 ## Key Features

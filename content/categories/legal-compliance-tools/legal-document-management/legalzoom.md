@@ -7,9 +7,6 @@ tool_name: "LegalZoom"
 deployment_status: "deployed"
 image: "/images/tools/legalzoom-placeholder.jpg"
 ---
-
-# LegalZoom
-
 LegalZoom provides comprehensive DIY legal services enabling individuals and businesses to handle legal matters with professional document preparation and attorney access.
 
 ## Key Features

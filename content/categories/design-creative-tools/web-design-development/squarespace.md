@@ -12,9 +12,6 @@ subcategories: ["Web Design & Development"]
 affiliate: true
 featured: true
 ---
-
-# Squarespace
-
 Squarespace is the all-in-one website builder that creates beautiful, professional websites with award-winning templates and integrated hosting, commerce, and marketing tools.
 
 Used by millions of creative professionals and businesses, Squarespace offers designer templates, drag-and-drop editing, e-commerce functionality, and built-in SEO tools. Build stunning portfolios, online stores, and business websites with premium aesthetics and comprehensive functionality without coding knowledge.

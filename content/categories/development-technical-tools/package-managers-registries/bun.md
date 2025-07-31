@@ -7,9 +7,6 @@ tool_name: "Bun"
 deployment_status: "deployed"
 image: "/images/tools/bun-placeholder.jpg"
 ---
-
-# Bun
-
 Bun is a fast all-in-one JavaScript runtime, bundler, and package manager that delivers significantly improved performance with built-in TypeScript support and extensive Node.js compatibility.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Canva Magic Studio"
 deployment_status: "deployed"
 image: "/images/tools/canva-magic-studio-placeholder.jpg"
 ---
-
-# Canva Magic Studio
-
 Canva Magic Studio brings powerful AI tools directly into the world's most popular design platform. With features like AI image generation, instant background removal, and Magic Write for copywriting, it transforms Canva into an intelligent design partner.
 
 Used by millions of businesses, marketers, and creators worldwide, Magic Studio makes professional design accessible to everyone. Instead of spending hours on complex design tasks, simply describe what you want and let AI handle the heavy lifting while you focus on creativity.

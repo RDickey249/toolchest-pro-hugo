@@ -7,9 +7,6 @@ tool_name: "Tidio"
 deployment_status: "deployed"
 image: "/images/tools/tidio-placeholder.jpg"
 ---
-
-# Tidio
-
 Tidio is an all-in-one customer communication platform that combines live chat, chatbots, and email marketing in a single solution. The platform seamlessly blends human agents with AI automation, ensuring customers receive immediate responses while complex issues get escalated to skilled support teams.
 
 The platform excels at website conversion optimization through proactive chat invitations, abandoned cart recovery, and lead qualification workflows. Its visual chatbot builder allows businesses to create sophisticated conversation flows without coding, while maintaining the option for human takeover when needed.

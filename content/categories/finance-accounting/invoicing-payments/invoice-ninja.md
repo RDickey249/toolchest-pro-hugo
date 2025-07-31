@@ -7,9 +7,6 @@ tool_name: "Invoice-ninja"
 deployment_status: "deployed"
 image: "/images/tools/invoice-ninja-placeholder.jpg"
 ---
-
-# Invoice-ninja
-
 Invoice Ninja is an open-source invoicing platform that provides professional invoice creation, payment processing, and client management for freelancers and small businesses.
 
 ## Key Features

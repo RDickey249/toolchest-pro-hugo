@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
 ---
-
-# Next.js
-
 Next.js is the React framework of choice for production applications. Created by Vercel, it provides everything you need to build fast, SEO-friendly web applications with React.
 
 What sets Next.js apart is its hybrid approach - you can use server-side rendering (SSR), static site generation (SSG), or client-side rendering all in the same app. This flexibility, combined with automatic optimizations, makes it perfect for everything from marketing sites to complex web applications.

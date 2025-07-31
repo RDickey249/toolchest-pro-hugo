@@ -7,9 +7,6 @@ tool_name: "Expensify"
 deployment_status: "deployed"
 image: "/images/tools/expensify-placeholder.jpg"
 ---
-
-# Expensify
-
 Expensify is an automated expense management platform that streamlines receipt tracking, expense reporting, and reimbursement processes for businesses and individuals.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Elastic Stack"
 deployment_status: "deployed"
 image: "/images/tools/elastic-stack-placeholder.jpg"
 ---
-
-# Elastic Stack
-
 The Elastic Stack (formerly ELK Stack) combines Elasticsearch, Logstash, Kibana, and Beats for search, logging, and analytics from simple log analysis to enterprise observability.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "GTmetrix"
 deployment_status: "deployed"
 image: "/images/tools/gtmetrix-placeholder.jpg"
 ---
-
-# GTmetrix
-
 GTmetrix analyzes your website's speed and provides actionable recommendations to optimize performance. Get detailed insights using Google Lighthouse and see exactly how to make your pages load faster.
 
 ## Key Features

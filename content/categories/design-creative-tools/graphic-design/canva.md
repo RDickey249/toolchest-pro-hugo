@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/canva-placeholder.jpg"
 external_link: "https://www.canva.com"
 ---
-
-# Canva
-
 Canva is a user-friendly graphic design platform that makes professional design accessible to everyone. Choose from millions of templates to create everything from social media posts to presentations with drag-and-drop simplicity.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Indesign"
 deployment_status: "deployed"
 image: "/images/tools/indesign-placeholder.jpg"
 ---
-
-# Indesign
-
 Adobe InDesign is a professional desktop publishing software that enables designers to create sophisticated layouts for print and digital publications.
 
 ## Key Features

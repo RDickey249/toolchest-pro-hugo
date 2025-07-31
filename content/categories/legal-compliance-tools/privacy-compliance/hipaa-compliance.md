@@ -7,9 +7,6 @@ tool_name: "HIPAA Compliance"
 deployment_status: "deployed"
 image: "/images/tools/hipaa-compliance-placeholder.jpg"
 ---
-
-# HIPAA Compliance
-
 HIPAA Compliance tools provide specialized healthcare-specific compliance capabilities for organizations handling protected health information (PHI) with automated monitoring and controls.
 
 ## Key Features

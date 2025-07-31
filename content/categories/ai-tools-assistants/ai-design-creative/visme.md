@@ -7,9 +7,6 @@ tool_name: "Visme"
 deployment_status: "deployed"
 image: "/images/tools/visme-placeholder.jpg"
 ---
-
-# Visme
-
 Visme is the all-in-one design platform that combines presentations, infographics, and interactive content creation with AI-powered assistance. Create professional visual communications, data visualizations, and engaging content without design experience.
 
 Used by businesses, educators, and content creators worldwide, Visme offers thousands of templates, smart design suggestions, and interactive features. Build presentations, infographics, reports, and animated content with drag-and-drop simplicity and professional results.

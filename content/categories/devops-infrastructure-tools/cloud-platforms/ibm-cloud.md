@@ -7,9 +7,6 @@ tool_name: "IBM Cloud"
 deployment_status: "deployed"
 image: "/images/tools/ibm-cloud-placeholder.jpg"
 ---
-
-# IBM Cloud
-
 IBM Cloud is an enterprise-focused cloud platform combining public cloud services with IBM's expertise in AI, hybrid cloud, and enterprise applications. Features Watson AI services and Red Hat OpenShift integration.
 
 ## Key Features

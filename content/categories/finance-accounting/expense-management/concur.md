@@ -7,9 +7,6 @@ tool_name: "Concur"
 deployment_status: "deployed"
 image: "/images/tools/concur-placeholder.jpg"
 ---
-
-# Concur
-
 SAP Concur is an enterprise expense management platform that automates travel booking, expense reporting, and invoice processing for large organizations worldwide.
 
 ## Key Features

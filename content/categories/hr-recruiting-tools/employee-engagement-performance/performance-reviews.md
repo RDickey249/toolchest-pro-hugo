@@ -7,9 +7,6 @@ tool_name: "Performance Reviews"
 deployment_status: "deployed"
 image: "/images/tools/performance-reviews-placeholder.jpg"
 ---
-
-# Performance Reviews
-
 Performance review platforms provide comprehensive performance evaluation and review management capabilities for organizations seeking structured performance assessment processes.
 
 ## Key Features

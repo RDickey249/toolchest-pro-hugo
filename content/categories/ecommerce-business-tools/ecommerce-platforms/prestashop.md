@@ -7,9 +7,6 @@ tool_name: "PrestaShop"
 deployment_status: "deployed"
 image: "/images/tools/prestashop-placeholder.jpg"
 ---
-
-# PrestaShop
-
 PrestaShop is a comprehensive open-source e-commerce platform that provides professional retail features without licensing costs, ideal for startups and international businesses.
 
 ## Key Features

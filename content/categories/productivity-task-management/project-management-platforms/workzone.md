@@ -7,9 +7,6 @@ tool_name: "Workzone"
 deployment_status: "deployed"
 image: "/images/tools/workzone-placeholder.jpg"
 ---
-
-# Workzone
-
 Workzone is the enterprise-grade project management platform designed for organizations that need powerful features with exceptional customer support. Get comprehensive project coordination, resource management, and team collaboration with reliable performance.
 
 Trusted by marketing teams, professional services firms, and mid-market organizations, Workzone offers robust project planning, document collaboration, and detailed reporting. Benefit from dedicated implementation support, custom workflows, and enterprise security features.

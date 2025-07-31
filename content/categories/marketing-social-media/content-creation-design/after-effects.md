@@ -7,9 +7,6 @@ tool_name: "After-effects"
 deployment_status: "deployed"
 image: "/images/tools/after-effects-placeholder.jpg"
 ---
-
-# After-effects
-
 Adobe After Effects is a professional motion graphics and visual effects software that enables creators to animate, composite, and create stunning visual effects.
 
 ## Key Features

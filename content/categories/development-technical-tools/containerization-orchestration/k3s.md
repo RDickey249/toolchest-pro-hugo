@@ -7,9 +7,6 @@ tool_name: "K3s"
 deployment_status: "deployed"
 image: "/images/tools/k3s-placeholder.jpg"
 ---
-
-# K3s
-
 K3s is a lightweight Kubernetes distribution designed for edge computing, IoT deployments, and resource-constrained environments with minimal operational overhead.
 
 ## Key Features

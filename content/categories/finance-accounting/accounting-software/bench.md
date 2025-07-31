@@ -7,9 +7,6 @@ tool_name: "Bench"
 deployment_status: "deployed"
 image: "/images/tools/bench-placeholder.jpg"
 ---
-
-# Bench
-
 Bench is a professional bookkeeping service that provides dedicated bookkeepers and financial management for small businesses and entrepreneurs.
 
 ## Key Features

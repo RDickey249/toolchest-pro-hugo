@@ -7,9 +7,6 @@ tool_name: "IP Management"
 deployment_status: "deployed"
 image: "/images/tools/ip-management-placeholder.jpg"
 ---
-
-# IP Management
-
 IP Management tools provide comprehensive trademark and patent management capabilities for protecting intellectual property with search, filing, and portfolio management features.
 
 ## Key Features

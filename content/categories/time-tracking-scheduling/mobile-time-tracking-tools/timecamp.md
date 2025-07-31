@@ -7,9 +7,6 @@ tool_name: "TimeCamp"
 deployment_status: "deployed"
 image: "/images/tools/timecamp-placeholder.jpg"
 ---
-
-# TimeCamp
-
 TimeCamp is a comprehensive time tracking platform that combines automatic monitoring with detailed productivity insights for mobile workers and distributed teams.
 
 Designed for businesses that need advanced time tracking capabilities, TimeCamp offers sophisticated mobile applications with automatic activity monitoring, productivity analytics, and seamless business integration. The platform provides intelligent insights that help teams optimize their mobile workforce performance.

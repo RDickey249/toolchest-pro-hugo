@@ -7,9 +7,6 @@ tool_name: "Zola"
 deployment_status: "deployed"
 image: "/images/tools/zola-placeholder.jpg"
 ---
-
-# Zola
-
 Zola is a Rust-powered static site generator that provides extremely fast build times with zero dependencies and simple configuration.
 
 ## Key Features

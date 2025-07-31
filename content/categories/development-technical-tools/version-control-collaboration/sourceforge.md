@@ -7,9 +7,6 @@ tool_name: "SourceForge"
 deployment_status: "deployed"
 image: "/images/tools/sourceforge-placeholder.jpg"
 ---
-
-# SourceForge
-
 SourceForge is a veteran open-source hosting platform that pioneered collaborative software development, continuing to serve projects with reliable hosting and distribution.
 
 ## Key Features

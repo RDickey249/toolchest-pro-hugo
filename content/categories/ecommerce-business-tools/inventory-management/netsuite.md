@@ -7,9 +7,6 @@ tool_name: "NetSuite"
 deployment_status: "deployed"
 image: "/images/tools/netsuite-placeholder.jpg"
 ---
-
-# NetSuite
-
 NetSuite is a comprehensive cloud-based ERP platform that integrates inventory management, financials, CRM, and e-commerce in one unified business system.
 
 ## Key Features

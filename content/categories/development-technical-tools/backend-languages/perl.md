@@ -7,9 +7,6 @@ tool_name: "Perl"
 deployment_status: "deployed"
 image: "/images/tools/perl-placeholder.jpg"
 ---
-
-# Perl
-
 Perl is a dynamic, interpreted programming language renowned for powerful text processing, regular expressions, and system administration with a vast CPAN library ecosystem.
 
 ## Key Features

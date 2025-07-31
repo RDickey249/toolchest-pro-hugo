@@ -7,9 +7,6 @@ tool_name: "Firebase Authentication"
 deployment_status: "deployed"
 image: "/images/tools/firebase-authentication-placeholder.jpg"
 ---
-
-# Firebase Authentication
-
 Firebase Authentication is Google's comprehensive identity platform enabling secure user authentication with social login providers and seamless Firebase ecosystem integration.
 
 ## Key Features

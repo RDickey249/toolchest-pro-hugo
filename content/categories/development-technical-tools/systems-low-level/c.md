@@ -7,9 +7,6 @@ tool_name: "C"
 deployment_status: "deployed"
 image: "/images/tools/c-placeholder.jpg"
 ---
-
-# C
-
 C is the foundational systems programming language that provides minimal runtime overhead, direct hardware access, and serves as the foundation for operating systems and embedded systems.
 
 ## Key Features

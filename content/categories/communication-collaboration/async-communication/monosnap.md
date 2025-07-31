@@ -7,9 +7,6 @@ tool_name: "Monosnap"
 deployment_status: "deployed"
 image: "/images/tools/monosnap-placeholder.jpg"
 ---
-
-# Monosnap
-
 Monosnap is a powerful screenshot and annotation tool that enables teams to capture screens, add detailed markup, and share visual feedback for efficient communication.
 
 ## Key Features

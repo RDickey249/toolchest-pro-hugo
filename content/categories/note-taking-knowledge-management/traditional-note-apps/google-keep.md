@@ -7,9 +7,6 @@ tool_name: "Google Keep"
 deployment_status: "deployed"
 image: "/images/tools/google-keep-placeholder.jpg"
 ---
-
-# Google Keep
-
 Google Keep is a simple note-taking app that uses a visual sticky-note interface for quick thought capture, checklists, and reminders with Google ecosystem integration.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Postman"
 deployment_status: "deployed"
 image: "/images/tools/postman-placeholder.jpg"
 ---
-
-# Postman
-
 Postman is a comprehensive API testing and development platform with request building, automated testing, collaboration features, and extensive API lifecycle management.
 
 ## Key Features

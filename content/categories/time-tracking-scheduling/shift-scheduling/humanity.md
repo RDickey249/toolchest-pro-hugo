@@ -2,9 +2,6 @@
 title: "Humanity"
 external_link: "https://humanity.com"
 ---
-
-# Humanity
-
 Humanity is the AI-powered employee scheduling platform that automatically creates optimal schedules based on your business needs, employee preferences, and historical data. Instead of spending hours on manual scheduling, let artificial intelligence do the work.
 
 Used by companies like McDonald's, Subway, and thousands of retail and healthcare organizations, Humanity predicts staffing needs and creates fair, efficient schedules automatically. Reduce labor costs, improve employee satisfaction, and eliminate scheduling conflicts.

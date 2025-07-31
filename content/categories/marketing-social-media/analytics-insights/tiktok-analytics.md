@@ -7,9 +7,6 @@ tool_name: "Tiktok-analytics"
 deployment_status: "deployed"
 image: "/images/tools/tiktok-analytics-placeholder.jpg"
 ---
-
-# Tiktok-analytics
-
 TikTok Analytics provides comprehensive insights and performance data for TikTok business accounts and advertising campaigns.
 
 ## Key Features

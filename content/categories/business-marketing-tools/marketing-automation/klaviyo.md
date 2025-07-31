@@ -7,9 +7,6 @@ tool_name: "Klaviyo"
 deployment_status: "deployed"
 image: "/images/tools/klaviyo-placeholder.jpg"
 ---
-
-# Klaviyo
-
 Klaviyo is the marketing automation platform built for ecommerce. Turn your customer data into personalized experiences across email and SMS that drive more sales.
 
 ## Key Features

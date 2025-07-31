@@ -7,9 +7,6 @@ tool_name: "Bamboo"
 deployment_status: "deployed"
 image: "/images/tools/bamboo-placeholder.jpg"
 ---
-
-# Bamboo
-
 Bamboo is Atlassian's continuous integration and deployment server with deep integration across the Atlassian ecosystem. Perfect for teams using Jira, Bitbucket, and Confluence together.
 
 ## Key Features

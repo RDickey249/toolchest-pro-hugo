@@ -7,9 +7,6 @@ tool_name: "GDPR Compliance Tools"
 deployment_status: "deployed"
 image: "/images/tools/gdpr-compliance-tools-placeholder.jpg"
 ---
-
-# GDPR Compliance Tools
-
 GDPR Compliance Tools encompass various specialized platforms designed to help organizations achieve and maintain compliance with the General Data Protection Regulation across European operations.
 
 ## Key Features

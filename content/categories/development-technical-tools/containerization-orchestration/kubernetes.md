@@ -7,9 +7,6 @@ tool_name: "Kubernetes"
 deployment_status: "deployed"
 image: "/images/tools/kubernetes-placeholder.jpg"
 ---
-
-# Kubernetes
-
 Kubernetes is a container orchestration platform that automates deployment, scaling, and management of containerized applications across clusters of machines.
 
 ## Key Features

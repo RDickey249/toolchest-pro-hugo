@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]
 ---
-
-# Amplitude
-
 Amplitude is the leading product analytics platform that helps teams understand user behavior and build better digital products.
 
 Focused on answering the "why" behind user actions, Amplitude provides deep behavioral insights that drive product growth and user engagement.

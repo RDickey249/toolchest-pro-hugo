@@ -7,9 +7,6 @@ tool_name: "Pulumi"
 deployment_status: "deployed"
 image: "/images/tools/pulumi-placeholder.jpg"
 ---
-
-# Pulumi
-
 Pulumi is a modern infrastructure as code platform that enables developers to define cloud infrastructure using familiar programming languages like Python, TypeScript, Go, and C#.
 
 ## Key Features

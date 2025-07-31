@@ -7,9 +7,6 @@ tool_name: "Rollup"
 deployment_status: "deployed"
 image: "/images/tools/rollup-placeholder.jpg"
 ---
-
-# Rollup
-
 Rollup is an ES module-focused JavaScript bundler that specializes in tree-shaking optimization to produce lean, efficient bundles by eliminating unused code at the module level.
 
 ## Key Features

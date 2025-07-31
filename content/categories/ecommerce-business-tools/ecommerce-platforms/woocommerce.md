@@ -7,9 +7,6 @@ tool_name: "WooCommerce"
 deployment_status: "deployed"
 image: "/images/tools/woocommerce-placeholder.jpg"
 ---
-
-# WooCommerce
-
 WooCommerce is the world's most popular e-commerce platform that seamlessly integrates with WordPress to create flexible, content-rich online stores.
 
 ## Key Features

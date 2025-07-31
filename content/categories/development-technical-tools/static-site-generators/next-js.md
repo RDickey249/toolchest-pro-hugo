@@ -7,9 +7,6 @@ tool_name: "Next.js"
 deployment_status: "deployed"
 image: "/images/tools/next-js-placeholder.jpg"
 ---
-
-# Next.js
-
 Next.js is a React framework that provides hybrid static generation and server-side rendering with automatic optimization and full-stack capabilities.
 
 ## Key Features

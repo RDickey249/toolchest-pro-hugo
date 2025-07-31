@@ -7,9 +7,6 @@ tool_name: "Brackets"
 deployment_status: "deployed"
 image: "/images/tools/brackets-placeholder.jpg"
 ---
-
-# Brackets
-
 Brackets is a web-focused code editor that provides live preview functionality, inline editing, and visual design tools specifically optimized for frontend development workflows.
 
 ## Key Features

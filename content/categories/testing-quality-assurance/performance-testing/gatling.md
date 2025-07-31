@@ -7,9 +7,6 @@ tool_name: "Gatling"
 deployment_status: "deployed"
 image: "/images/tools/gatling-placeholder.jpg"
 ---
-
-# Gatling
-
 Gatling is a powerful open-source load testing framework designed for continuous load testing and DevOps integration. Built on Scala, Akka, and Netty, it delivers exceptional performance for simulating thousands of concurrent users.
 
 ## Key Features

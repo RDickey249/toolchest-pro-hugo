@@ -11,9 +11,6 @@ categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
 external_link: "https://react.dev"
 ---
-
-# React
-
 React is the most popular JavaScript library for building user interfaces, powering millions of websites including Facebook, Netflix, Uber, and countless others.
 
 Created by Facebook and now maintained by Meta and the open-source community, React revolutionized frontend development with its component-based architecture.

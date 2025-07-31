@@ -7,9 +7,6 @@ tool_name: "Fossil"
 deployment_status: "deployed"
 image: "/images/tools/fossil-placeholder.jpg"
 ---
-
-# Fossil
-
 Fossil is a distributed version control system with integrated bug tracking, wiki, and web interface, providing complete project management in a single tool.
 
 ## Key Features

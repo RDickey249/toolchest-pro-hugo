@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/figma-placeholder.jpg"
 external_link: "https://www.figma.com"
 ---
-
-# Figma
-
 Figma is the collaborative interface design tool that runs in the browser. Design, prototype, and build design systems together with your team in real-time.
 
 ## Key Features

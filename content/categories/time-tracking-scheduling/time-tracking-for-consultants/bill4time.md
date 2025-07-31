@@ -7,9 +7,6 @@ tool_name: "Bill4Time"
 deployment_status: "deployed"
 image: "/images/tools/bill4time-placeholder.jpg"
 ---
-
-# Bill4Time
-
 Bill4Time is the time tracking and billing platform designed for consultants, attorneys, and professional service providers. With automated invoicing, expense tracking, and detailed reporting, it handles the unique billing requirements of professional services firms.
 
 Used by consultants, attorneys, and professional services firms worldwide, Bill4Time provides the specialized features needed for accurate billing and client management. Track billable hours, generate professional invoices, manage client relationships, and ensure you get paid for every minute of work.

@@ -7,9 +7,6 @@ tool_name: "SoapUI"
 deployment_status: "deployed"
 image: "/images/tools/soapui-placeholder.jpg"
 ---
-
-# SoapUI
-
 SoapUI is the world's most widely used automated testing tool for SOAP and REST APIs. Test, mock, and virtualize web services with comprehensive functionality for functional, security, and load testing.
 
 ## Key Features

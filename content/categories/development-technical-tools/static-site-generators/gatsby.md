@@ -7,9 +7,6 @@ tool_name: "Gatsby"
 deployment_status: "deployed"
 image: "/images/tools/gatsby-placeholder.jpg"
 ---
-
-# Gatsby
-
 Gatsby is a React-based static site generator that uses GraphQL to unify data from multiple sources with automatic performance optimization.
 
 ## Key Features

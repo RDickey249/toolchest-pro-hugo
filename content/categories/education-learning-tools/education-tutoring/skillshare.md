@@ -7,9 +7,6 @@ tool_name: "Skillshare"
 deployment_status: "deployed"
 image: "/images/tools/skillshare-placeholder.jpg"
 ---
-
-# Skillshare
-
 Skillshare is a creative learning community offering thousands of classes in design, business, technology, and lifestyle. Learn practical skills through project-based courses taught by industry professionals.
 
 ## Key Features

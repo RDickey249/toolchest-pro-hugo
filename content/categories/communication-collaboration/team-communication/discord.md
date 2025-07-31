@@ -11,9 +11,6 @@ tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
 ---
-
-# Discord
-
 Discord has evolved from gaming communities to become a powerful platform for team communication, offering persistent voice channels and rich community features that make remote collaboration feel natural.
 
 Originally built for gamers, Discord's voice-first approach and casual atmosphere now attracts businesses, educational institutions, and communities seeking more engaging communication.

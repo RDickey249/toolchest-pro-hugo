@@ -7,9 +7,6 @@ tool_name: "Snapchat-insights"
 deployment_status: "deployed"
 image: "/images/tools/snapchat-insights-placeholder.jpg"
 ---
-
-# Snapchat-insights
-
 Snapchat Insights provides comprehensive analytics and performance data for Snapchat business accounts and advertising campaigns.
 
 ## Key Features

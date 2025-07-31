@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/xamarin-placeholder.jpg"
 external_link: "https://dotnet.microsoft.com/apps/xamarin"
 ---
-
-# Xamarin
-
 Xamarin empowers C# developers to build native mobile applications for iOS, Android, and Windows using a single shared codebase with Microsoft's development ecosystem.
 
 ## Key Features

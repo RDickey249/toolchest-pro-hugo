@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/gotomeeting-placeholder.jpg"
 external_link: "https://www.gotomeeting.com"
 ---
-
-# GoToMeeting
-
 GoToMeeting is a professional-grade video conferencing platform designed for businesses requiring reliable online meetings, screen sharing, and collaboration tools.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Glassdoor"
 deployment_status: "deployed"
 image: "/images/tools/glassdoor-placeholder.jpg"
 ---
-
-# Glassdoor
-
 Glassdoor is a company reviews and job posting platform where employees share salaries, reviews, and interview experiences. Attract engaged candidates who research company culture and compensation before applying.
 
 ## Key Features

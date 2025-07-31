@@ -7,9 +7,6 @@ tool_name: "GitHub Actions"
 deployment_status: "deployed"
 image: "/images/tools/github-actions-placeholder.jpg"
 ---
-
-# GitHub Actions
-
 GitHub Actions is GitHub's native CI/CD platform that automates workflows directly within repositories using YAML-based configuration and marketplace actions.
 
 ## Key Features

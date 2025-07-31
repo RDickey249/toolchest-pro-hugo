@@ -7,9 +7,6 @@ tool_name: "Minikube"
 deployment_status: "deployed"
 image: "/images/tools/minikube-placeholder.jpg"
 ---
-
-# Minikube
-
 Minikube is a local Kubernetes development environment that enables developers to run Kubernetes clusters locally for testing, learning, and development.
 
 ## Key Features

@@ -12,9 +12,6 @@ subcategories: ["E-commerce Platforms"]
 affiliate: true
 featured: true
 ---
-
-# Shopify
-
 Shopify is the world's leading e-commerce platform, powering over 1.7 million businesses worldwide.
 
 From startup entrepreneurs to enterprise brands, Shopify provides everything needed to build, manage, and scale an online store.

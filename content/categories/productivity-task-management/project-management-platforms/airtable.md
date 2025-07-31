@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]
 ---
-
-# Airtable
-
 Airtable combines the simplicity of spreadsheets with the power of databases. If you've ever wished Excel could do more, or databases were less intimidating, Airtable is your answer.
 
 Teams use Airtable to manage everything from content calendars to product roadmaps, customer CRMs to event planning. Its flexibility means you can start simple and scale up as your needs grow, without migrating to a new platform.

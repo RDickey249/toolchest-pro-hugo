@@ -7,9 +7,6 @@ tool_name: "CodeWhisperer"
 deployment_status: "deployed"
 image: "/images/tools/codewhisperer-placeholder.jpg"
 ---
-
-# CodeWhisperer
-
 CodeWhisperer transforms development productivity by providing AWS-native AI code generation that specializes in cloud-aware coding suggestions, security scanning, and AWS service integration, enabling developers to build cloud applications faster while maintaining security best practices and optimal AWS resource utilization. This intelligent platform combines code completion with real-time security vulnerability detection, offering developers not just faster coding but safer, more secure applications that follow AWS Well-Architected Framework principles and industry security standards. CodeWhisperer's strength lies in its deep understanding of AWS services and cloud development patterns, providing contextual suggestions that help developers leverage AWS capabilities effectively while avoiding common security pitfalls and architecture mistakes that can lead to costly vulnerabilities. The platform excels at serving cloud developers, DevOps engineers, and organizations building AWS-native applications who need both coding acceleration and built-in security guidance to maintain velocity without compromising application security or cloud cost optimization. Whether you're developing serverless functions, containerized applications, or complex cloud architectures, CodeWhisperer provides the AWS-optimized coding assistance that transforms cloud development from a complex, error-prone process into streamlined, secure application delivery. Its combination of coding intelligence and security awareness makes it indispensable for teams who recognize that cloud development requires specialized knowledge and security consciousness that generic coding assistants cannot provide.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Premiere-pro"
 deployment_status: "deployed"
 image: "/images/tools/premiere-pro-placeholder.jpg"
 ---
-
-# Premiere-pro
-
 Adobe Premiere Pro is a professional video editing software that enables creators to produce high-quality video content for marketing, entertainment, and social media.
 
 ## Key Features

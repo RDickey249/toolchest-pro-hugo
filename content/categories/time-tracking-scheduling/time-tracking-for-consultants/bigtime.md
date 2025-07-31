@@ -7,9 +7,6 @@ tool_name: "BigTime"
 deployment_status: "deployed"
 image: "/images/tools/bigtime-placeholder.jpg"
 ---
-
-# BigTime
-
 BigTime is the time tracking and billing platform built specifically for consultants and professional service firms. With integrated project management, expense tracking, and automated invoicing, it handles the business side so you can focus on delivering great work.
 
 Used by consulting firms like Deloitte, PwC, and thousands of independent consultants, BigTime transforms time tracking from a chore into a profit center. Track billable hours accurately, generate professional invoices instantly, and get the insights you need to grow your consulting business.

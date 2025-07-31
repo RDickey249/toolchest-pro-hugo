@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
 ---
-
-# Astro
-
 Astro is the web framework that lets you use React, Vue, Svelte, and others together while shipping zero JavaScript by default. It's the perfect solution for content sites that need maximum performance without framework lock-in.
 
 Built around the "islands architecture," Astro generates static HTML and only adds JavaScript where you specifically need interactivity. This results in sites that load instantly and score perfect performance audits.

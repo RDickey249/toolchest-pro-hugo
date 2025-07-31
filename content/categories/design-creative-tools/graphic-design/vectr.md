@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/vectr-placeholder.jpg"
 external_link: "https://vectr.com"
 ---
-
-# Vectr
-
 Vectr is a free vector graphics editor that runs in your browser with real-time collaboration. Create scalable graphics, logos, and illustrations without downloads or subscriptions.
 
 ## Key Features

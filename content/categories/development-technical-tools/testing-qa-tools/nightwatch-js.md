@@ -7,9 +7,6 @@ tool_name: "Nightwatch.js"
 deployment_status: "deployed"
 image: "/images/tools/nightwatch-js-placeholder.jpg"
 ---
-
-# Nightwatch.js
-
 Nightwatch.js is an end-to-end testing framework with built-in test runner, WebDriver management, and clean syntax for writing browser automation tests.
 
 ## Key Features

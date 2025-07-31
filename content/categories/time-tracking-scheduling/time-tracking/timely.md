@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/timely-placeholder.jpg"
 external_link: "https://timelyapp.com"
 ---
-
-# Timely
-
 Timely is the AI-powered time tracking platform that automatically captures and categorizes your work activities without manual timers. Get accurate insights into productivity patterns, project allocation, and team performance with intelligent automation.
 
 Used by agencies and knowledge workers worldwide, Timely's AI learns your work patterns and eliminates time tracking admin. See visual timelines of your day, track project profitability automatically, and generate detailed reports with privacy-focused design that respects user control.

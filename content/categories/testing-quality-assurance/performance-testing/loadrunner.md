@@ -7,9 +7,6 @@ tool_name: "LoadRunner"
 deployment_status: "deployed"
 image: "/images/tools/loadrunner-placeholder.jpg"
 ---
-
-# LoadRunner
-
 LoadRunner is the industry-leading enterprise performance testing solution from Micro Focus. Trusted by Fortune 500 companies, it provides comprehensive testing capabilities for complex applications at massive scale.
 
 ## Key Features

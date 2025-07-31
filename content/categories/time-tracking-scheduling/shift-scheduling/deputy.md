@@ -2,9 +2,6 @@
 title: "Deputy"
 external_link: "https://deputy.com"
 ---
-
-# Deputy
-
 Deputy is the workforce management platform that simplifies employee scheduling, time tracking, and compliance for businesses with hourly workers. Create optimized schedules, track labor costs, and stay compliant with labor laws automatically.
 
 Used by over 320,000 workplaces including McDonald's, Nike, and Subway, Deputy handles complex scheduling across multiple locations. Forecast demand, auto-schedule staff, manage time-off requests, and sync with payroll systems with built-in compliance monitoring.

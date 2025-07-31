@@ -7,9 +7,6 @@ tool_name: "FreshBooks"
 deployment_status: "deployed"
 image: "/images/tools/freshbooks-placeholder.jpg"
 ---
-
-# FreshBooks
-
 FreshBooks is accounting software designed specifically for freelancers and service-based businesses, combining time tracking, project management, and client-focused financial tools.
 
 ## Key Features

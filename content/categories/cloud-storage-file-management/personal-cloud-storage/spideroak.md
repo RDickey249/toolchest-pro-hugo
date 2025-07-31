@@ -7,9 +7,6 @@ tool_name: "SpiderOak"
 deployment_status: "deployed"
 image: "/images/tools/spideroak-placeholder.jpg"
 ---
-
-# SpiderOak
-
 SpiderOak is a zero-knowledge cloud storage service that provides military-grade encryption for users requiring maximum security and complete privacy protection.
 
 ## Key Features

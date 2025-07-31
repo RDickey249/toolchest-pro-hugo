@@ -10,9 +10,6 @@ tags: ["ai-tools-assistants", "ai-code-development"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Code Development"]
 ---
-
-# GitHub Copilot
-
 GitHub Copilot is the AI coding assistant that acts like a pair programming partner, helping you write code faster and with fewer errors.
 
 Built by GitHub and OpenAI, Copilot has been trained on billions of lines of public code to understand programming patterns, best practices, and common solutions.

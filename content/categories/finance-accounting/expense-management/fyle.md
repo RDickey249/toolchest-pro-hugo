@@ -7,9 +7,6 @@ tool_name: "Fyle"
 deployment_status: "deployed"
 image: "/images/tools/fyle-placeholder.jpg"
 ---
-
-# Fyle
-
 Fyle is an intelligent expense management platform that automates expense reporting with real-time card transaction feeds and AI-powered receipt matching.
 
 ## Key Features

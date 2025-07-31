@@ -7,9 +7,6 @@ tool_name: "Crowdfire"
 deployment_status: "deployed"
 image: "/images/tools/crowdfire-placeholder.jpg"
 ---
-
-# Crowdfire
-
 Crowdfire is a social media management platform that streamlines content scheduling, audience growth, and social media analytics across multiple platforms.
 
 ## Key Features

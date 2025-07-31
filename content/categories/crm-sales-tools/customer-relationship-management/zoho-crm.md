@@ -7,9 +7,6 @@ tool_name: "Zoho CRM"
 deployment_status: "deployed"
 image: "/images/tools/zoho-crm-placeholder.jpg"
 ---
-
-# Zoho CRM
-
 Zoho CRM is an affordable, comprehensive customer relationship management platform that integrates seamlessly with the broader Zoho business suite for small to medium businesses.
 
 ## Key Features

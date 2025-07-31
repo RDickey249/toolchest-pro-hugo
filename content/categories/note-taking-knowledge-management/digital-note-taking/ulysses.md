@@ -7,9 +7,6 @@ tool_name: "Ulysses"
 deployment_status: "deployed"
 image: "/images/tools/ulysses-placeholder.jpg"
 ---
-
-# Ulysses
-
 Ulysses is a professional writing app that provides a distraction-free environment for authors, journalists, and bloggers to manage complex writing projects from notes to publication.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "DokuWiki"
 deployment_status: "deployed"
 image: "/images/tools/dokuwiki-placeholder.jpg"
 ---
-
-# DokuWiki
-
 DokuWiki is a file-based wiki that requires no database, enabling organizations to maintain wikis using plain text files for simple, reliable knowledge management.
 
 ## Key Features

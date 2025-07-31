@@ -7,9 +7,6 @@ tool_name: "Sterling"
 deployment_status: "deployed"
 image: "/images/tools/sterling-placeholder.jpg"
 ---
-
-# Sterling
-
 Sterling is a comprehensive background verification platform that provides employment screening and identity verification services for confident hiring decisions. Advanced technology and expert compliance support ensure thorough candidate evaluation.
 
 ## Key Features

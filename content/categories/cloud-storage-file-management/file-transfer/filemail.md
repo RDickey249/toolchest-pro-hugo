@@ -7,9 +7,6 @@ tool_name: "Filemail"
 deployment_status: "deployed"
 image: "/images/tools/filemail-placeholder.jpg"
 ---
-
-# Filemail
-
 Filemail is an email-based file sharing service that allows users to send large files that exceed standard email attachment limits while maintaining familiar email workflows.
 
 ## Key Features

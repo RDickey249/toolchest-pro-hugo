@@ -7,9 +7,6 @@ tool_name: "Reclaim"
 deployment_status: "deployed"
 image: "/images/tools/reclaim-placeholder.jpg"
 ---
-
-# Reclaim
-
 Reclaim revolutionizes work-life balance by intelligently defending your calendar against meeting overload, automatically scheduling time for important tasks, habits, and personal priorities while ensuring you maintain the focus time necessary for high-quality work and sustainable productivity. This smart calendar management platform specializes in solving the modern professional's biggest challenge: finding time for meaningful work in a world of endless meetings and interruptions. Reclaim's AI analyzes your calendar patterns, work habits, and priorities to automatically block time for deep work, personal activities, and important tasks, while intelligently rescheduling these blocks when urgent meetings arise. The platform excels at helping busy professionals, executives, and teams establish sustainable work routines that protect both productivity and well-being, ensuring that important but non-urgent activities don't get squeezed out by the demands of reactive scheduling. Whether you're trying to maintain regular exercise habits, block time for strategic thinking, or ensure you have space for focused project work between meetings, Reclaim provides the intelligent calendar defense that transforms chaotic schedules into balanced, productive days. Its ability to adapt to changing circumstances while maintaining your priorities makes it invaluable for anyone who wants to regain control over their time and ensure work supports rather than undermines their life goals.
 
 ## Key Features

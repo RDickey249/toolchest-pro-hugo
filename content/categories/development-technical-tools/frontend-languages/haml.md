@@ -7,9 +7,6 @@ tool_name: "HAML"
 deployment_status: "deployed"
 image: "/images/tools/haml-placeholder.jpg"
 ---
-
-# HAML
-
 HAML is an HTML abstraction markup language that uses indentation-based syntax to create clean, readable templates with reduced verbosity and visual clutter.
 
 ## Key Features

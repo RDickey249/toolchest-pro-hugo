@@ -7,9 +7,6 @@ tool_name: "Harvest"
 deployment_status: "deployed"
 image: "/images/tools/harvest-placeholder.jpg"
 ---
-
-# Harvest
-
 Harvest is the simple time tracking and invoicing platform that helps businesses turn tracked time into professional invoices. Used by companies like Buffer, WeWork, and Dell, it's designed for teams that bill clients by the hour.
 
 What makes Harvest special is its simplicity - track time from anywhere, see project budgets in real-time, and create invoices with just a few clicks. It integrates with tools you already use like Asana, Basecamp, and Slack, keeping time tracking in your natural workflow.

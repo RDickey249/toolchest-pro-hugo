@@ -7,9 +7,6 @@ tool_name: "TestCafe"
 deployment_status: "deployed"
 image: "/images/tools/testcafe-placeholder.jpg"
 ---
-
-# TestCafe
-
 TestCafe is a WebDriver-free end-to-end testing framework that enables developers to write and run tests across browsers without complex setup or configuration.
 
 ## Key Features

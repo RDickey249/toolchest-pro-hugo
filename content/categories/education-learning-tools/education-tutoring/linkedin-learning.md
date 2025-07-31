@@ -7,9 +7,6 @@ tool_name: "Linkedin-learning"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-learning-placeholder.jpg"
 ---
-
-# Linkedin-learning
-
 LinkedIn Learning is a professional development platform offering courses taught by industry experts. Build in-demand skills with personalized recommendations and certificates that showcase achievements on your LinkedIn profile.
 
 ## Key Features

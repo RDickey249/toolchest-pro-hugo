@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/harvest-placeholder.jpg"
 external_link: "https://www.getharvest.com"
 ---
-
-# Harvest
-
 Harvest is the time tracking platform that makes it simple to track time, manage expenses, and invoice clients. Turn tracked time into professional invoices with one click and see which projects are profitable.
 
 Used by companies like Lululemon, Yale University, and Amnesty International, Harvest integrates with tools you already use. Track time from anywhere, sync expenses automatically, and create beautiful invoices that get paid faster with integrated payment processing.

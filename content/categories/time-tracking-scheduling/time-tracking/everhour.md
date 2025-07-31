@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/everhour-placeholder.jpg"
 external_link: "https://everhour.com"
 ---
-
-# Everhour
-
 Everhour is the time tracking platform that integrates directly with your existing project management tools. Track time within Asana, Trello, Monday.com, and other platforms without disrupting your workflow.
 
 Used by teams at companies like Typeform, Buffer, and Pipedrive, Everhour adds time tracking to your current project management setup. Track billable hours, manage budgets, generate invoices, and analyze project profitability—all within the tools you already use.

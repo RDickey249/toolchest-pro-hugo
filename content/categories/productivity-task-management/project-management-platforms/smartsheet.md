@@ -7,9 +7,6 @@ tool_name: "Smartsheet"
 deployment_status: "deployed"
 image: "/images/tools/smartsheet-placeholder.jpg"
 ---
-
-# Smartsheet
-
 Smartsheet combines the familiar interface of spreadsheets with enterprise-grade project management capabilities. It transforms static spreadsheets into dynamic project coordination tools with automated workflows, real-time collaboration, and advanced reporting.
 
 The key advantage is eliminating the typical learning curve of project management software by building on spreadsheet familiarity. Teams get powerful features like Gantt charts, automated approvals, and resource management without abandoning workflows they already understand.

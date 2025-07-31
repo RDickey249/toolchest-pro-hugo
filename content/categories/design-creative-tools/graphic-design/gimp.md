@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/gimp-placeholder.jpg"
 external_link: "https://www.gimp.org"
 ---
-
-# GIMP
-
 GIMP is a free, open-source image editor that provides professional-quality photo editing and digital art capabilities. Comprehensive toolset rivals expensive commercial software with community-driven development.
 
 ## Key Features

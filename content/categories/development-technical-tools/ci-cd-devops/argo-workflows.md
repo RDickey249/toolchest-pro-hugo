@@ -7,9 +7,6 @@ tool_name: "Argo Workflows"
 deployment_status: "deployed"
 image: "/images/tools/argo-workflows-placeholder.jpg"
 ---
-
-# Argo Workflows
-
 Argo Workflows is a Kubernetes-native workflow engine for orchestrating parallel jobs, supporting complex pipeline execution with directed acyclic graphs.
 
 ## Key Features

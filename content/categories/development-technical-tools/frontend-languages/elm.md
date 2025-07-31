@@ -7,9 +7,6 @@ tool_name: "Elm"
 deployment_status: "deployed"
 image: "/images/tools/elm-placeholder.jpg"
 ---
-
-# Elm
-
 Elm is a purely functional programming language for reliable web applications that guarantees no runtime exceptions through its strong type system and functional programming principles.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Masv"
 deployment_status: "deployed"
 image: "/images/tools/masv-placeholder.jpg"
 ---
-
-# Masv
-
 Masv is a professional large file transfer service designed for media and post-production industries, enabling reliable delivery of massive files with pay-as-you-go pricing.
 
 ## Key Features

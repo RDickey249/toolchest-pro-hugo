@@ -7,9 +7,6 @@ tool_name: "MyCorporation"
 deployment_status: "deployed"
 image: "/images/tools/mycorporation-placeholder.jpg"
 ---
-
-# MyCorporation
-
 MyCorporation delivers comprehensive business formation services helping entrepreneurs establish and maintain proper business entities with expert guidance across all US jurisdictions.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
 ---
-
-# Hadoop
-
 Hadoop provides the foundational infrastructure for big data storage and processing, enabling organizations to manage petabyte-scale datasets across clusters of commodity hardware. Its distributed architecture ensures data reliability through automatic replication and fault tolerance.
 
 The Hadoop Distributed File System (HDFS) stores massive datasets across multiple nodes, while YARN manages cluster resources and job scheduling. The extensive ecosystem includes tools for every aspect of big data processing, from ingestion to analytics.

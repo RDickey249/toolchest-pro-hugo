@@ -7,9 +7,6 @@ tool_name: "Signiant"
 deployment_status: "deployed"
 image: "/images/tools/signiant-placeholder.jpg"
 ---
-
-# Signiant
-
 Signiant is a cloud-native media file transfer platform designed specifically for broadcast and media organizations to efficiently move large video and audio content.
 
 ## Key Features

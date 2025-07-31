@@ -7,9 +7,6 @@ tool_name: "MkDocs"
 deployment_status: "deployed"
 image: "/images/tools/mkdocs-placeholder.jpg"
 ---
-
-# MkDocs
-
 MkDocs is a fast, simple static site generator that builds beautiful documentation websites from Markdown files with minimal configuration.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Jasper"
 deployment_status: "deployed"
 image: "/images/tools/jasper-placeholder.jpg"
 ---
-
-# Jasper
-
 Jasper is an AI writing platform that helps create high-quality content for marketing, blogging, and business communications. Advanced AI models generate original content that matches your brand voice and style.
 
 ## Key Features

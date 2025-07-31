@@ -7,9 +7,6 @@ tool_name: "Travis CI"
 deployment_status: "deployed"
 image: "/images/tools/travis-ci-placeholder.jpg"
 ---
-
-# Travis CI
-
 Travis CI is a continuous integration service providing automated testing and deployment for GitHub projects through simple YAML configuration. Pioneered CI-as-a-service, making automated testing accessible to open-source and development teams.
 
 ## Key Features

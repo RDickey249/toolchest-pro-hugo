@@ -10,9 +10,6 @@ tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]
 ---
-
-# Octane AI
-
 Octane AI helps e-commerce brands create personalized shopping experiences through AI-powered quizzes and chatbots. Instead of letting customers browse through hundreds of products, Octane AI guides them to exactly what they need.
 
 Used by brands like Kosas, Native, and Judy, Octane AI has helped businesses increase conversion rates by up to 40% by making product discovery personal and interactive.

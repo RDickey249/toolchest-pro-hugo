@@ -7,9 +7,6 @@ tool_name: "Fly.io"
 deployment_status: "deployed"
 image: "/images/tools/fly-io-placeholder.jpg"
 ---
-
-# Fly.io
-
 Fly.io is an edge computing platform that enables global application deployment with low-latency infrastructure, running applications close to users worldwide with automatic scaling and geographic distribution.
 
 ## Key Features

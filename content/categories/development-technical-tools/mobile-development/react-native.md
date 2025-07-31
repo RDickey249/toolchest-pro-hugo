@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/react-native-placeholder.jpg"
 external_link: "https://reactnative.dev"
 ---
-
-# React Native
-
 React Native lets you build mobile apps using only JavaScript and React. Use the same design as React, letting you compose a rich mobile UI from declarative components.
 
 ## Key Features

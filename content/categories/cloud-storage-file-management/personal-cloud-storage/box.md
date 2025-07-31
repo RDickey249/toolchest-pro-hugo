@@ -7,9 +7,6 @@ tool_name: "Box"
 deployment_status: "deployed"
 image: "/images/tools/box-placeholder.jpg"
 ---
-
-# Box
-
 Box is an enterprise cloud storage platform that provides business-grade security, collaboration tools, and compliance features for organizations managing sensitive content.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Teamwork"
 deployment_status: "deployed"
 image: "/images/tools/teamwork-placeholder.jpg"
 ---
-
-# Teamwork
-
 Teamwork is the project management platform built specifically for client-serving teams like agencies, consultancies, and creative studios. With integrated time tracking, task management, and client billing, it keeps projects organized and profitable.
 
 Used by agencies like Havas, McCann, and thousands of creative teams worldwide, Teamwork combines powerful project management with accurate time tracking and automated invoicing. Everything you need to deliver client work on time and on budget.

@@ -7,9 +7,6 @@ tool_name: "Document360"
 deployment_status: "deployed"
 image: "/images/tools/document360-placeholder.jpg"
 ---
-
-# Document360
-
 Document360 is a comprehensive knowledge management platform that enables businesses to create both public customer-facing help centers and private internal wikis. It combines professional design capabilities with powerful analytics to track content performance and user engagement.
 
 What distinguishes Document360 is its dual-purpose approach, supporting both external customer documentation and internal team knowledge sharing within the same platform. It offers advanced features like API documentation tools, approval workflows, and detailed analytics that many basic wiki solutions lack.

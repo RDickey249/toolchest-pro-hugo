@@ -7,9 +7,6 @@ tool_name: "Mocha"
 deployment_status: "deployed"
 image: "/images/tools/mocha-placeholder.jpg"
 ---
-
-# Mocha
-
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser. Simple, flexible, and fun - Mocha tests run serially, allowing for flexible and accurate reporting.
 
 ## Key Features

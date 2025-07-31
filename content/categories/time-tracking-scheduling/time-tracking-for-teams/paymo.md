@@ -7,9 +7,6 @@ tool_name: "Paymo"
 deployment_status: "deployed"
 image: "/images/tools/paymo-placeholder.jpg"
 ---
-
-# Paymo
-
 Paymo combines time tracking, task management, and invoicing in one integrated platform designed for project-based teams. Used by over 100,000 businesses worldwide, it eliminates the need to juggle separate tools for tracking work and billing clients.
 
 What sets Paymo apart is its project-centric approach - every minute tracked is connected to specific tasks and projects, making invoicing automatic and accurate. Creative agencies, consultants, and service-based businesses rely on Paymo to turn tracked time into professional invoices with just a few clicks.

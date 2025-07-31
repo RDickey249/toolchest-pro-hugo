@@ -7,9 +7,6 @@ tool_name: "Tresorit"
 deployment_status: "deployed"
 image: "/images/tools/tresorit-placeholder.jpg"
 ---
-
-# Tresorit
-
 Tresorit is an encrypted cloud storage platform designed for businesses requiring zero-knowledge security with team collaboration features and Swiss-hosted infrastructure.
 
 ## Key Features

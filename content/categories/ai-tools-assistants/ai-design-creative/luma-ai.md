@@ -7,9 +7,6 @@ tool_name: "Luma AI"
 deployment_status: "deployed"
 image: "/images/tools/luma-ai-placeholder.jpg"
 ---
-
-# Luma AI
-
 Luma AI transforms the creation of three-dimensional content by making professional-quality 3D capture, modeling, and generation accessible to creators without specialized hardware or extensive technical expertise, democratizing 3D content creation for everything from e-commerce product visualization to immersive storytelling and virtual experiences. This groundbreaking platform combines advanced neural radiance field technology with intuitive mobile capture capabilities, enabling users to create photorealistic 3D models and scenes using nothing more than a smartphone camera and AI processing power. Luma AI's sophisticated algorithms reconstruct detailed 3D environments and objects from standard 2D video footage, complete with accurate lighting, materials, and spatial relationships that rival professional 3D scanning equipment costing thousands of dollars. The platform excels at serving e-commerce businesses creating product visualizations, content creators developing immersive experiences, real estate professionals showcasing properties, educators building interactive learning materials, and artists exploring new dimensions of creative expression. Its seamless integration with popular 3D software and web platforms makes it easy to incorporate AI-generated 3D content into existing workflows, while its cloud-based processing ensures high-quality results without requiring powerful local hardware. Whether you're capturing treasured memories in three dimensions, creating product demonstrations that customers can explore from every angle, or building immersive worlds for entertainment and education, Luma AI provides the accessible technology that brings professional 3D content creation within reach of anyone with a creative vision.
 
 ## Key Features

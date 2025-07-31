@@ -12,9 +12,6 @@ subcategories: ["Customer Relationship Management"]
 affiliate: true
 featured: true
 ---
-
-# HubSpot
-
 HubSpot is the leading inbound marketing and CRM platform for growing businesses.
 
 Built around the proven inbound methodology, HubSpot helps companies attract, engage, and delight customers through integrated marketing, sales, and service tools.

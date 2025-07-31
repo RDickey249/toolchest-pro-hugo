@@ -7,9 +7,6 @@ tool_name: "Simplenote"
 deployment_status: "deployed"
 image: "/images/tools/simplenote-placeholder.jpg"
 ---
-
-# Simplenote
-
 Simplenote is a minimalist note-taking app focused on distraction-free writing and seamless synchronization across all devices.
 
 ## Key Features

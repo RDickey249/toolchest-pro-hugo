@@ -7,9 +7,6 @@ tool_name: "Illustrator"
 deployment_status: "deployed"
 image: "/images/tools/illustrator-placeholder.jpg"
 ---
-
-# Illustrator
-
 Adobe Illustrator is a professional vector graphics software that enables designers to create scalable artwork, logos, and illustrations for print and digital media.
 
 ## Key Features

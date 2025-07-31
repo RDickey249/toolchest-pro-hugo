@@ -7,9 +7,6 @@ tool_name: "HTML"
 deployment_status: "deployed"
 image: "/images/tools/html-placeholder.jpg"
 ---
-
-# HTML
-
 HTML is the foundational markup language of the web, providing structure and semantic meaning to web pages and applications through elements and tags.
 
 ## Key Features

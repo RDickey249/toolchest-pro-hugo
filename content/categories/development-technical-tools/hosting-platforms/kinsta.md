@@ -7,9 +7,6 @@ tool_name: "Kinsta"
 deployment_status: "deployed"
 image: "/images/tools/kinsta-placeholder.jpg"
 ---
-
-# Kinsta
-
 Kinsta is a premium managed WordPress hosting platform powered by Google Cloud infrastructure, offering high-performance hosting with automatic scaling, advanced security, and expert support.
 
 ## Key Features

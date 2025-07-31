@@ -7,9 +7,6 @@ tool_name: "Docsify"
 deployment_status: "deployed"
 image: "/images/tools/docsify-placeholder.jpg"
 ---
-
-# Docsify
-
 Docsify is a documentation site generator that renders Markdown files at runtime without requiring a build step or complex setup process.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Squarespace Commerce"
 deployment_status: "deployed"
 image: "/images/tools/squarespace-commerce-placeholder.jpg"
 ---
-
-# Squarespace Commerce
-
 Squarespace Commerce is a design-first e-commerce platform that enables creative professionals and brands to create visually stunning online stores with premium templates.
 
 ## Key Features

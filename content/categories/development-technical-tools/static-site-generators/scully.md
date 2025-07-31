@@ -7,9 +7,6 @@ tool_name: "Scully"
 deployment_status: "deployed"
 image: "/images/tools/scully-placeholder.jpg"
 ---
-
-# Scully
-
 Scully is an Angular-powered static site generator that adds JAMstack capabilities to Angular applications with pre-rendering and performance optimization.
 
 ## Key Features

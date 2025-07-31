@@ -7,9 +7,6 @@ tool_name: "Review Board"
 deployment_status: "deployed"
 image: "/images/tools/review-board-placeholder.jpg"
 ---
-
-# Review Board
-
 Review Board is a web-based code review tool supporting Git, SVN, and Perforce repositories. Streamline your code review process with inline comments, approval workflows, and comprehensive version control integration.
 
 ## Get Started with Review Board

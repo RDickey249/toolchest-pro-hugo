@@ -7,9 +7,6 @@ tool_name: "Twilio API"
 deployment_status: "deployed"
 image: "/images/tools/twilio-api-placeholder.jpg"
 ---
-
-# Twilio API
-
 Twilio API provides cloud communications infrastructure for voice, messaging, and video, enabling developers to integrate communication features into applications at scale.
 
 ## Key Features

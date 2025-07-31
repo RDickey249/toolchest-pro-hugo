@@ -7,9 +7,6 @@ tool_name: "Storybook"
 deployment_status: "deployed"
 image: "/images/tools/storybook-placeholder.jpg"
 ---
-
-# Storybook
-
 Storybook is a tool for building UI components in isolation with interactive documentation, visual testing, and an extensive addon ecosystem for modern frontend development.
 
 ## Key Features

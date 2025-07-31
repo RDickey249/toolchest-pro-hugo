@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "containerization-orchestration"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Containerization & Orchestration"]
 ---
-
-# Docker
-
 Docker is the containerization platform that revolutionized how applications are built, shipped, and deployed by packaging software and its dependencies into portable containers.
 
 By solving the "it works on my machine" problem, Docker has become essential infrastructure for modern software development and deployment.

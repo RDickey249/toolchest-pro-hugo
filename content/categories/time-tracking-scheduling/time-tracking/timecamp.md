@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/timecamp-placeholder.jpg"
 external_link: "https://www.timecamp.com"
 ---
-
-# TimeCamp
-
 TimeCamp is the automatic time tracking platform that monitors how you and your team spend work time without manual input. With desktop apps, project management integration, and detailed reporting, it provides accurate insights into productivity and project profitability.
 
 Used by over 18,000 businesses worldwide, TimeCamp eliminates the hassle of manual time tracking while providing the business intelligence needed to optimize operations. Track time automatically, analyze productivity patterns, generate invoices from logged hours, and make data-driven decisions about resource allocation.

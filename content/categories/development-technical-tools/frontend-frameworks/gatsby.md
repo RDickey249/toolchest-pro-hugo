@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
 ---
-
-# Gatsby
-
 Gatsby is the React framework that builds blazing-fast websites and apps. By pre-rendering everything at build time, Gatsby sites load instantly and score perfect performance audits.
 
 Used by companies like Airbnb, Nike, and IBM, Gatsby has become the go-to solution for marketing sites, blogs, and e-commerce stores that need exceptional performance. It combines React development with static site benefits.

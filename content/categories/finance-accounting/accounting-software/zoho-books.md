@@ -7,9 +7,6 @@ tool_name: "Zoho Books"
 deployment_status: "deployed"
 image: "/images/tools/zoho-books-placeholder.jpg"
 ---
-
-# Zoho Books
-
 Zoho Books is an online accounting software that integrates seamlessly with the Zoho business suite, providing comprehensive financial management for small to medium businesses.
 
 ## Key Features

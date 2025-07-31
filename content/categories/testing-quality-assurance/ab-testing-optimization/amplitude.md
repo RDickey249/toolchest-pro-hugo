@@ -7,9 +7,6 @@ tool_name: "Amplitude"
 deployment_status: "deployed"
 image: "/images/tools/amplitude-placeholder.jpg"
 ---
-
-# Amplitude
-
 Amplitude is a product analytics platform that helps teams understand user behavior and optimize digital experiences through data-driven insights. Event-based tracking captures detailed user interactions for deep analysis of journeys and usage patterns.
 
 ## Key Features

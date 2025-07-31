@@ -7,9 +7,6 @@ tool_name: "Java"
 deployment_status: "deployed"
 image: "/images/tools/java-placeholder.jpg"
 ---
-
-# Java
-
 Java is a robust, object-oriented programming language with platform independence that powers enterprise computing worldwide through its "write once, run anywhere" philosophy on the Java Virtual Machine (JVM).
 
 ## Key Features

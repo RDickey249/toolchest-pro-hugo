@@ -7,9 +7,6 @@ tool_name: "Edx"
 deployment_status: "deployed"
 image: "/images/tools/edx-placeholder.jpg"
 ---
-
-# Edx
-
 edX is a nonprofit online learning platform founded by Harvard and MIT, offering university-level courses from top institutions worldwide. Access high-quality education and earn verified certificates from leading universities.
 
 ## Key Features

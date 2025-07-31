@@ -7,9 +7,6 @@ tool_name: "CSS"
 deployment_status: "deployed"
 image: "/images/tools/css-placeholder.jpg"
 ---
-
-# CSS
-
 CSS is the styling language that controls the visual presentation of web pages, enabling developers to create beautiful, responsive designs with layouts, colors, and animations.
 
 ## Key Features

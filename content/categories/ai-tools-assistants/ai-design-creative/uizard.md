@@ -7,9 +7,6 @@ tool_name: "Uizard"
 deployment_status: "deployed"
 image: "/images/tools/uizard-placeholder.jpg"
 ---
-
-# Uizard
-
 Uizard is the AI-powered design platform that transforms hand-drawn sketches, screenshots, and text descriptions into professional UI mockups and interactive prototypes for non-designers.
 
 Used by startup founders, product managers, and entrepreneurs, Uizard offers sketch-to-design conversion, text-to-UI generation, interactive prototyping, and team collaboration. Create professional app and website designs without learning complex design software.

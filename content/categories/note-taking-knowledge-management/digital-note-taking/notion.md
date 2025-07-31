@@ -7,9 +7,6 @@ tool_name: "Notion"
 deployment_status: "deployed"
 image: "/images/tools/notion-placeholder.jpg"
 ---
-
-# Notion
-
 Notion is an all-in-one workspace that combines notes, databases, wikis, and project management in a flexible, block-based interface for individuals and teams.
 
 ## Key Features

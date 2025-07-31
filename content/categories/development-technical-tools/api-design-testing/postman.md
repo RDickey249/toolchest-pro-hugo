@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "api-design-testing"]
 categories: ["Development & Technical Tools"]
 subcategories: ["API Design & Testing"]
 ---
-
-# Postman
-
 Postman is the world's leading API platform, used by over 25 million developers to design, test, and document APIs more efficiently.
 
 What started as a simple Chrome extension has evolved into the complete platform for API development, making it easier to build and consume APIs at every stage of the development lifecycle.

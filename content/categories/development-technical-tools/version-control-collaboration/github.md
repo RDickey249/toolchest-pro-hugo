@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "version-control-collaboration"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Version Control & Collaboration"]
 ---
-
-# GitHub
-
 GitHub is the world's largest code hosting platform and the social network for developers, home to over 100 million repositories and 83 million developers.
 
 More than just Git hosting, GitHub has become the central hub for open-source development, team collaboration, and modern DevOps workflows.

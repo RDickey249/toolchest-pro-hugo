@@ -7,9 +7,6 @@ tool_name: "Lua"
 deployment_status: "deployed"
 image: "/images/tools/lua-placeholder.jpg"
 ---
-
-# Lua
-
 Lua is a lightweight, embeddable scripting language designed for extending applications and systems with minimal memory footprint and simple C API integration.
 
 ## Key Features

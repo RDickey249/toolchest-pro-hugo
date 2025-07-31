@@ -7,9 +7,6 @@ tool_name: "REST Assured"
 deployment_status: "deployed"
 image: "/images/tools/rest-assured-placeholder.jpg"
 ---
-
-# REST Assured
-
 REST Assured is a Java library that simplifies REST API testing with a fluent, readable syntax. Write API tests that read like English with powerful assertions and comprehensive authentication support.
 
 ## Key Features

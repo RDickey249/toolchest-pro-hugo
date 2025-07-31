@@ -7,9 +7,6 @@ tool_name: "JSFiddle"
 deployment_status: "deployed"
 image: "/images/tools/jsfiddle-placeholder.jpg"
 ---
-
-# JSFiddle
-
 JSFiddle is an online JavaScript testing and experimentation playground that provides multi-panel code editing with instant preview and framework integration for rapid prototyping.
 
 ## Key Features

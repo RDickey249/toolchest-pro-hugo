@@ -7,9 +7,6 @@ tool_name: "ProProfs Knowledge Base"
 deployment_status: "deployed"
 image: "/images/tools/proprofs-knowledge-base-placeholder.jpg"
 ---
-
-# ProProfs Knowledge Base
-
 ProProfs Knowledge Base is an intuitive documentation platform that makes creating and maintaining self-service resources simple for any business. Built with non-technical users in mind, it features drag-and-drop editing, pre-designed templates, and built-in analytics that show which content actually helps customers.
 
 What sets ProProfs apart is its unique ability to embed quizzes and assessments within articles, plus conditional branching that creates dynamic help content adapting to user responses. This makes it particularly valuable for training documentation and complex support scenarios.

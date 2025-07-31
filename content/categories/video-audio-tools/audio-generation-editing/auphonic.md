@@ -7,9 +7,6 @@ tool_name: "Auphonic"
 deployment_status: "deployed"
 image: "/images/tools/auphonic-placeholder.jpg"
 ---
-
-# Auphonic
-
 Auphonic is an intelligent audio post-production platform that automatically transforms raw recordings into broadcast-quality content. Advanced algorithms handle leveling, noise reduction, and audio optimization for professional results.
 
 ---

@@ -7,9 +7,6 @@ tool_name: "Statiq"
 deployment_status: "deployed"
 image: "/images/tools/statiq-placeholder.jpg"
 ---
-
-# Statiq
-
 Statiq is a .NET-based static site generator with powerful content processing pipelines and flexible architecture for sophisticated website development.
 
 ## Key Features

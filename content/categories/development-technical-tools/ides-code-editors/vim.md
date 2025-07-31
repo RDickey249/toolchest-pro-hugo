@@ -7,9 +7,6 @@ tool_name: "Vim"
 deployment_status: "deployed"
 image: "/images/tools/vim-placeholder.jpg"
 ---
-
-# Vim
-
 Vim is a highly configurable modal text editor that separates navigation, editing, and command execution into distinct modes for efficient text manipulation.
 
 ## Key Features

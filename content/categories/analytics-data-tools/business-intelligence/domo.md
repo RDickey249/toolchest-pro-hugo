@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Domo
-
 Domo is the cloud-native business intelligence platform that puts data to work for everyone in your organization, not just analysts.
 
 Designed for the modern, mobile workforce, Domo connects all your data sources and makes insights accessible to every team member through beautiful, interactive dashboards.

@@ -7,9 +7,6 @@ tool_name: "SoapUI"
 deployment_status: "deployed"
 image: "/images/tools/soapui-placeholder.jpg"
 ---
-
-# SoapUI
-
 SoapUI is the functional testing tool for SOAP and REST APIs with comprehensive testing capabilities. Create, execute, and automate API tests with support for complex scenarios and data-driven testing.
 
 ## Get Started with SoapUI

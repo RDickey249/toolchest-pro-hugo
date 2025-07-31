@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Power BI
-
 Power BI is Microsoft's business intelligence platform that makes data analytics accessible to everyone, from individual users to large enterprises.
 
 Seamlessly integrated with the Microsoft ecosystem, Power BI transforms your organization's data into rich, interactive reports and dashboards that drive informed decision-making.

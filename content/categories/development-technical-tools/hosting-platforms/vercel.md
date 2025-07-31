@@ -7,9 +7,6 @@ tool_name: "Vercel"
 deployment_status: "deployed"
 image: "/images/tools/vercel-placeholder.jpg"
 ---
-
-# Vercel
-
 Vercel is a frontend deployment platform optimized for modern frameworks like React, Next.js, and Vue with automatic performance optimization, edge computing, and global content delivery.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Datadog"
 deployment_status: "deployed"
 image: "/images/tools/datadog-placeholder.jpg"
 ---
-
-# Datadog
-
 Datadog is a comprehensive monitoring and analytics platform providing unified visibility across applications, infrastructure, and logs through a single dashboard.
 
 ## Key Features

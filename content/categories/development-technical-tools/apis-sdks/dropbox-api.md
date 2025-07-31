@@ -7,9 +7,6 @@ tool_name: "Dropbox API"
 deployment_status: "deployed"
 image: "/images/tools/dropbox-api-placeholder.jpg"
 ---
-
-# Dropbox API
-
 Dropbox API provides cloud storage integration with file management, synchronization, and collaboration features across multiple devices and platforms.
 
 ## Key Features

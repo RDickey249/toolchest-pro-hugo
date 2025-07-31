@@ -7,9 +7,6 @@ tool_name: "Rydoo"
 deployment_status: "deployed"
 image: "/images/tools/rydoo-placeholder.jpg"
 ---
-
-# Rydoo
-
 Rydoo is a comprehensive expense management platform that combines travel booking with expense tracking and reporting for complete business travel management.
 
 ## Key Features

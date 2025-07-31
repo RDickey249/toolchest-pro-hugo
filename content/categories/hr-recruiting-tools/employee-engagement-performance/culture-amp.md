@@ -7,9 +7,6 @@ tool_name: "Culture Amp"
 deployment_status: "deployed"
 image: "/images/tools/culture-amp-placeholder.jpg"
 ---
-
-# Culture Amp
-
 Culture Amp is an employee feedback platform that helps organizations measure, understand, and improve employee engagement and culture. Research-backed surveys and analytics provide deep insights into organizational culture and employee experience.
 
 ## Key Features

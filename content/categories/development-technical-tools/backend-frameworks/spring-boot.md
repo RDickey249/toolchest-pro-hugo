@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
 ---
-
-# Spring Boot
-
 Spring Boot is a Java framework that simplifies Spring application development with auto-configuration, embedded servers, and production-ready features.
 
 ## Key Features

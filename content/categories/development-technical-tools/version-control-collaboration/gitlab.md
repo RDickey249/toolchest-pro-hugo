@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "version-control-collaboration"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Version Control & Collaboration"]
 ---
-
-# GitLab
-
 GitLab is a comprehensive DevOps platform that integrates Git repository management, CI/CD pipelines, security scanning, and project management in a single application.
 
 ## Key Features

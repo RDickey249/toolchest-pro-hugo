@@ -7,9 +7,6 @@ tool_name: "Drip"
 deployment_status: "deployed"
 image: "/images/tools/drip-placeholder.jpg"
 ---
-
-# Drip
-
 Drip is the ecommerce revenue engine. Build personalized customer journeys that convert one-time buyers into loyal customers with powerful marketing automation.
 
 ## Key Features

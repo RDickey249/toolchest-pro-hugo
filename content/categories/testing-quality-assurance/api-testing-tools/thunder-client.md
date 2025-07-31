@@ -7,9 +7,6 @@ tool_name: "Thunder Client"
 deployment_status: "deployed"
 image: "/images/tools/thunder-client-placeholder.jpg"
 ---
-
-# Thunder Client
-
 Thunder Client is a lightweight REST API client extension for Visual Studio Code that brings API testing directly into your editor. Test APIs without leaving VS Code with a clean, simple interface.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Workday"
 deployment_status: "deployed"
 image: "/images/tools/workday-placeholder.jpg"
 ---
-
-# Workday
-
 Workday is an enterprise HR platform providing comprehensive talent acquisition and human capital management for large organizations. Advanced recruiting, workforce planning, and HR analytics support complex organizational needs and strategic decision-making.
 
 ## Key Features

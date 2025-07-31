@@ -7,9 +7,6 @@ tool_name: "UltiPro"
 deployment_status: "deployed"
 image: "/images/tools/ultipro-placeholder.jpg"
 ---
-
-# UltiPro
-
 UltiPro is a comprehensive HR management system that integrates applicant tracking with complete human capital management functionality. Advanced recruiting, payroll, and talent management support comprehensive HR operations for organizations of all sizes.
 
 ## Key Features

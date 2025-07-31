@@ -7,9 +7,6 @@ tool_name: "GetResponse"
 deployment_status: "deployed"
 image: "/images/tools/getresponse-placeholder.jpg"
 ---
-
-# GetResponse
-
 GetResponse is a comprehensive all-in-one marketing platform that combines email marketing, automation, landing pages, and webinar hosting for complete marketing operations.
 
 ## Key Features

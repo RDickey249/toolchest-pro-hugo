@@ -7,9 +7,6 @@ tool_name: "Scala"
 deployment_status: "deployed"
 image: "/images/tools/scala-placeholder.jpg"
 ---
-
-# Scala
-
 Scala is a hybrid programming language that combines functional and object-oriented paradigms on the JVM, powering big data frameworks like Apache Spark and Kafka with expressive, high-performance code.
 
 ## Key Features

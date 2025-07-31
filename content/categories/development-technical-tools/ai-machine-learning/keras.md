@@ -7,9 +7,6 @@ tool_name: "Keras"
 deployment_status: "deployed"
 image: "/images/tools/keras-placeholder.jpg"
 ---
-
-# Keras
-
 Keras is a high-level neural networks API that simplifies deep learning development with user-friendly interfaces and modular design, running on TensorFlow.
 
 ## Key Features

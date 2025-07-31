@@ -7,9 +7,6 @@ tool_name: "npm"
 deployment_status: "deployed"
 image: "/images/tools/npm-placeholder.jpg"
 ---
-
-# npm
-
 npm is Node.js' package manager that provides access to the world's largest software registry with over 2 million packages for JavaScript development and dependency management.
 
 ## Key Features

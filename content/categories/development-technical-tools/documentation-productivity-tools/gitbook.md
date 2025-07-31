@@ -7,9 +7,6 @@ tool_name: "GitBook"
 deployment_status: "deployed"
 image: "/images/tools/gitbook-placeholder.jpg"
 ---
-
-# GitBook
-
 GitBook is a modern documentation platform that combines intuitive editing with powerful collaboration features for creating and maintaining knowledge bases.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Pinterest-analytics"
 deployment_status: "deployed"
 image: "/images/tools/pinterest-analytics-placeholder.jpg"
 ---
-
-# Pinterest-analytics
-
 Pinterest Analytics provides comprehensive insights and performance data for Pinterest business accounts and advertising campaigns.
 
 ## Key Features

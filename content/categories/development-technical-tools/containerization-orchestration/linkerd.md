@@ -7,9 +7,6 @@ tool_name: "Linkerd"
 deployment_status: "deployed"
 image: "/images/tools/linkerd-placeholder.jpg"
 ---
-
-# Linkerd
-
 Linkerd is a lightweight service mesh for Kubernetes that provides security, observability, and reliability for microservices with minimal operational overhead and automatic mTLS encryption.
 
 ## Key Features

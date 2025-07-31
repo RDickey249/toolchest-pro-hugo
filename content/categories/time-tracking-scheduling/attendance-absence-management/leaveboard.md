@@ -10,9 +10,6 @@ tags: ["time-tracking-scheduling", "attendance-absence-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Attendance & Absence Management"]
 ---
-
-# LeaveBoard
-
 LeaveBoard makes employee leave management simple and stress-free. No more spreadsheets, email chains, or confused managers - just a clean, modern platform that handles all your absence tracking automatically.
 
 Built for growing teams who've outgrown basic vacation tracking, LeaveBoard brings professional HR capabilities without the enterprise complexity. Employees can request time off in seconds, managers approve with one click, and HR stays compliant effortlessly.

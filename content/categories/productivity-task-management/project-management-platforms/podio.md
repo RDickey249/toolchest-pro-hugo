@@ -7,9 +7,6 @@ tool_name: "Podio"
 deployment_status: "deployed"
 image: "/images/tools/podio-placeholder.jpg"
 ---
-
-# Podio
-
 Podio is the flexible work platform that lets you build custom applications for your business without coding. Create CRM systems, project trackers, and process management tools that fit exactly how your team works.
 
 Used by companies like Sony Music and Mercedes-Benz, Podio replaces multiple business tools with custom-built applications. Drag and drop fields to create workflows, automate processes with conditional logic, and collaborate with built-in chat and file sharing.

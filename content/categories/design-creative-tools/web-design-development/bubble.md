@@ -7,9 +7,6 @@ tool_name: "Bubble"
 deployment_status: "deployed"
 image: "/images/tools/bubble-placeholder.jpg"
 ---
-
-# Bubble
-
 Bubble is a no-code platform that lets you build complex web applications without writing code. Visual programming interface handles both frontend and backend development for full-stack applications.
 
 ## Key Features

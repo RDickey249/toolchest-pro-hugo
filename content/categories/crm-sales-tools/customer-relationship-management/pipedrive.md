@@ -12,9 +12,6 @@ subcategories: ["Customer Relationship Management"]
 affiliate: true
 featured: true
 ---
-
-# Pipedrive
-
 Pipedrive is the visual CRM built for sales teams who want to see their deals progress clearly and close more business.
 
 With its intuitive drag-and-drop pipeline interface, Pipedrive makes it easy to track where every deal stands and what actions are needed to move them forward.

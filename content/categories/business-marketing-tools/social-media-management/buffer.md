@@ -7,9 +7,6 @@ tool_name: "Buffer"
 deployment_status: "deployed"
 image: "/images/tools/buffer-placeholder.jpg"
 ---
-
-# Buffer
-
 Buffer is the simplest way to schedule posts, analyze performance, and manage all your social media accounts in one place. No confusing features, just social media management that works.
 
 ## Key Features

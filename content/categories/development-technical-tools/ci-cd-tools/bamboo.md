@@ -7,9 +7,6 @@ tool_name: "Bamboo"
 deployment_status: "deployed"
 image: "/images/tools/bamboo-placeholder.jpg"
 ---
-
-# Bamboo
-
 Bamboo is Atlassian's CI/CD server that provides continuous integration and deployment with deep integration into the Atlassian ecosystem.
 
 ## Key Features

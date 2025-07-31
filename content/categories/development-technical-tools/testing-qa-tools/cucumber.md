@@ -7,9 +7,6 @@ tool_name: "Cucumber"
 deployment_status: "deployed"
 image: "/images/tools/cucumber-placeholder.jpg"
 ---
-
-# Cucumber
-
 Cucumber is a behavior-driven development tool that enables teams to write executable specifications in plain English using Gherkin syntax for better collaboration.
 
 ## Key Features

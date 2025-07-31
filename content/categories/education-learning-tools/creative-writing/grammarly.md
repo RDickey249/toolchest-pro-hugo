@@ -7,9 +7,6 @@ tool_name: "Grammarly"
 deployment_status: "deployed"
 image: "/images/tools/grammarly-placeholder.jpg"
 ---
-
-# Grammarly
-
 Grammarly is an AI-powered writing assistant that helps improve grammar, clarity, and style in real-time. Advanced suggestions enhance writing quality across emails, documents, and web content.
 
 ## Key Features

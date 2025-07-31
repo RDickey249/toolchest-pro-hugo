@@ -7,9 +7,6 @@ tool_name: "ActivTrak"
 deployment_status: "deployed"
 image: "/images/tools/activtrak-placeholder.jpg"
 ---
-
-# ActivTrak
-
 ActivTrak is the workforce analytics platform that shows how employees spend their time across applications and websites. Get productivity insights without invasive monitoring to help teams work better together.
 
 Used by over 9,500 organizations including Thermo Fisher and Old Dominion, ActivTrak provides behavioral analytics that identify productivity patterns and optimization opportunities. Track application usage, measure focus time, and understand workflow efficiency with privacy-first employee monitoring.

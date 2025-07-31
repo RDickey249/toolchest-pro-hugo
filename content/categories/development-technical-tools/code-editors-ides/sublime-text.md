@@ -7,9 +7,6 @@ tool_name: "Sublime Text"
 deployment_status: "deployed"
 image: "/images/tools/sublime-text-placeholder.jpg"
 ---
-
-# Sublime Text
-
 Sublime Text is a fast and sophisticated text editor that provides lightning-fast performance, multi-cursor editing, and extensive customization options with minimal resource usage.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Pug"
 deployment_status: "deployed"
 image: "/images/tools/pug-placeholder.jpg"
 ---
-
-# Pug
-
 Pug is a clean, whitespace-sensitive HTML template engine that eliminates closing tags and angle brackets for faster, more readable markup development.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Housecall Pro"
 deployment_status: "deployed"
 image: "/images/tools/housecall-pro-placeholder.jpg"
 ---
-
-# Housecall Pro
-
 Housecall Pro is the all-in-one business platform for home service professionals. From scheduling and dispatching to time tracking and payment processing, it handles every aspect of running a field service business from your phone.
 
 Used by over 25,000 service pros including plumbers, electricians, HVAC technicians, and cleaning services, Housecall Pro turns your smartphone into a complete business management system. Track time on jobs, collect payments instantly, and keep customers happy with real-time updates.

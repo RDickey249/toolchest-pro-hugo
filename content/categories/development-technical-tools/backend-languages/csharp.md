@@ -7,9 +7,6 @@ tool_name: "C#"
 deployment_status: "deployed"
 image: "/images/tools/csharp-placeholder.jpg"
 ---
-
-# C#
-
 C# is Microsoft's flagship object-oriented programming language that powers the .NET ecosystem, enabling cross-platform development for web, desktop, mobile, and cloud applications.
 
 ## Key Features

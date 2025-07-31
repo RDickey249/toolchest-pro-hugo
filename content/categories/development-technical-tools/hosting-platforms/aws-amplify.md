@@ -7,9 +7,6 @@ tool_name: "AWS Amplify"
 deployment_status: "deployed"
 image: "/images/tools/aws-amplify-placeholder.jpg"
 ---
-
-# AWS Amplify
-
 AWS Amplify is a full-stack development platform that enables developers to build, deploy, and scale web and mobile applications with integrated AWS backend services and hosting.
 
 ## Key Features

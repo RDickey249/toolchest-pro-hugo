@@ -7,9 +7,6 @@ tool_name: "osCommerce"
 deployment_status: "deployed"
 image: "/images/tools/oscommerce-placeholder.jpg"
 ---
-
-# osCommerce
-
 osCommerce is one of the pioneering open-source e-commerce platforms that provides established, time-tested online retail solutions with extensive community support.
 
 ## Key Features

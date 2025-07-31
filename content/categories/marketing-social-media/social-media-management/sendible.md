@@ -7,9 +7,6 @@ tool_name: "Sendible"
 deployment_status: "deployed"
 image: "/images/tools/sendible-placeholder.jpg"
 ---
-
-# Sendible
-
 Sendible is a powerful social media management platform designed for agencies and businesses that need advanced features and white-label solutions.
 
 ## Key Features

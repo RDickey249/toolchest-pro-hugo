@@ -7,9 +7,6 @@ tool_name: "Drip"
 deployment_status: "deployed"
 image: "/images/tools/drip-placeholder.jpg"
 ---
-
-# Drip
-
 Drip is an ecommerce marketing automation platform that enables online retailers to create sophisticated behavioral targeting and personalized customer experiences.
 
 ## Key Features

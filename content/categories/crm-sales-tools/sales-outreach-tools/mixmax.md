@@ -7,9 +7,6 @@ tool_name: "Mixmax"
 deployment_status: "deployed"
 image: "/images/tools/mixmax-placeholder.jpg"
 ---
-
-# Mixmax
-
 Mixmax is a Gmail productivity platform that enhances email capabilities with tracking, scheduling, and automation tools for sales professionals and teams.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Xcode"
 deployment_status: "deployed"
 image: "/images/tools/xcode-placeholder.jpg"
 ---
-
-# Xcode
-
 Xcode is Apple's integrated development environment that provides complete toolchains for developing iOS, macOS, watchOS, and tvOS applications with native Apple ecosystem integration.
 
 ## Key Features

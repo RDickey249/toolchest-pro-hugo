@@ -7,9 +7,6 @@ tool_name: "Postly"
 deployment_status: "deployed"
 image: "/images/tools/postly-placeholder.jpg"
 ---
-
-# Postly
-
 Postly is an AI-powered social media management platform that automates content scheduling and optimization across major platforms. It uses machine learning to analyze your audience behavior and automatically schedule posts at peak engagement times.
 
 Unlike basic scheduling tools, Postly learns from your posting history and audience interactions to continuously improve performance. The platform operates autonomously, making data-driven decisions about timing, frequency, and content recycling without constant manual oversight.

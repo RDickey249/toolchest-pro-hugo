@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "monitoring-observability"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Monitoring & Observability"]
 ---
-
-# Splunk
-
 Splunk turns machine data into insights. Whether it's server logs, security events, or IoT sensors, Splunk ingests any data and makes it searchable, analyzable, and actionable at enterprise scale.
 
 Used by 92 of the Fortune 100 companies, Splunk is the platform that IT operations, security teams, and business analysts rely on to understand what's happening across their entire technology stack.

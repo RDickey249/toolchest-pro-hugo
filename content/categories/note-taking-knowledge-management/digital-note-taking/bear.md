@@ -7,9 +7,6 @@ tool_name: "Bear"
 deployment_status: "deployed"
 image: "/images/tools/bear-placeholder.jpg"
 ---
-
-# Bear
-
 Bear is an elegant markdown note-taking app designed for Apple devices that combines beautiful design with powerful writing and organization features.
 
 ## Key Features

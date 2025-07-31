@@ -7,9 +7,6 @@ tool_name: "Emacs"
 deployment_status: "deployed"
 image: "/images/tools/emacs-placeholder.jpg"
 ---
-
-# Emacs
-
 Emacs is an extensible, customizable computing environment built around a Lisp interpreter, enabling infinite customization and automation of text editing workflows.
 
 ## Key Features

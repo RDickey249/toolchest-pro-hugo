@@ -7,9 +7,6 @@ tool_name: "Visual Studio Code"
 deployment_status: "deployed"
 image: "/images/tools/visual-studio-code-placeholder.jpg"
 ---
-
-# Visual Studio Code
-
 Visual Studio Code is a free, lightweight code editor that combines the simplicity of a text editor with powerful IDE features and extensive customization.
 
 ## Key Features

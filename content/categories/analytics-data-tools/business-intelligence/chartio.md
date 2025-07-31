@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Chartio
-
 Chartio empowers teams to explore data through intuitive visual queries, transforming complex databases into accessible insights without requiring SQL expertise. Business users can drag and drop to build sophisticated analytics, while data teams maintain governance and security.
 
 The platform connects to virtually any data source - from cloud databases like Snowflake and BigQuery to business applications like Salesforce and HubSpot. Smart suggestions help users discover relevant data relationships, while automatic joins eliminate technical barriers to cross-functional analysis.

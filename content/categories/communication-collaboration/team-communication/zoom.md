@@ -11,9 +11,6 @@ tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
 ---
-
-# Zoom
-
 Zoom is the video conferencing platform that became synonymous with remote work, trusted by millions for reliable, high-quality video meetings.
 
 From small team meetings to massive webinars, Zoom provides the tools organizations need to stay connected and productive from anywhere.

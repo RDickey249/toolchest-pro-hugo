@@ -7,9 +7,6 @@ tool_name: "Adalo"
 deployment_status: "deployed"
 image: "/images/tools/adalo-placeholder.jpg"
 ---
-
-# Adalo
-
 Adalo is a no-code platform for building native mobile apps with visual drag-and-drop design. Create professional iOS and Android apps and publish them to app stores without coding.
 
 ## Key Features

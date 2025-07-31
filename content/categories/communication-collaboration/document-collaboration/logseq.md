@@ -7,9 +7,6 @@ tool_name: "LogSeq"
 deployment_status: "deployed"
 image: "/images/tools/logseq-placeholder.jpg"
 ---
-
-# LogSeq
-
 LogSeq is an open-source knowledge management tool that provides privacy-first note-taking with local data control and powerful graph-based organization.
 
 The platform offers block-based editing, bidirectional linking, daily journals, and plugin support. Advanced features include PDF annotation, flashcards, custom queries, Git integration, and graph visualization for interconnected note networks.

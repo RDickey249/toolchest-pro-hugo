@@ -7,9 +7,6 @@ tool_name: "Selenium"
 deployment_status: "deployed"
 image: "/images/tools/selenium-placeholder.jpg"
 ---
-
-# Selenium
-
 Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily used for testing web applications, Selenium has become the de facto standard for browser automation.
 
 ## Key Features

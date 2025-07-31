@@ -7,9 +7,6 @@ tool_name: "Twitter-analytics"
 deployment_status: "deployed"
 image: "/images/tools/twitter-analytics-placeholder.jpg"
 ---
-
-# Twitter-analytics
-
 Twitter Analytics (now X Analytics) provides comprehensive insights and performance data for Twitter/X accounts and advertising campaigns.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Lottie"
 deployment_status: "deployed"
 image: "/images/tools/lottie-placeholder.jpg"
 ---
-
-# Lottie
-
 Lottie is a library that renders After Effects animations in real-time on web and mobile platforms. Vector-based animations maintain scalability and performance while enabling complex motion graphics with tiny file sizes.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Certify"
 deployment_status: "deployed"
 image: "/images/tools/certify-placeholder.jpg"
 ---
-
-# Certify
-
 Certify is an expense management platform that automates expense reporting, approval workflows, and reimbursement processes for businesses.
 
 ## Key Features

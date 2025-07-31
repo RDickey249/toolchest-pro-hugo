@@ -7,9 +7,6 @@ tool_name: "HTTPie"
 deployment_status: "deployed"
 image: "/images/tools/httpie-placeholder.jpg"
 ---
-
-# HTTPie
-
 HTTPie is a command-line HTTP client that makes CLI interaction with web services as human-friendly as possible. It's designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 ## Key Features

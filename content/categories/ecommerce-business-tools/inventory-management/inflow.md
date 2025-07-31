@@ -7,9 +7,6 @@ tool_name: "inFlow"
 deployment_status: "deployed"
 image: "/images/tools/inflow-placeholder.jpg"
 ---
-
-# inFlow
-
 inFlow is a comprehensive inventory management software designed for small to medium businesses that need professional stock control with affordability and ease of use.
 
 ## Key Features

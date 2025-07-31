@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]
 ---
-
-# FullStory
-
 FullStory is the digital experience intelligence platform that captures every user interaction to help you understand exactly how people use your website or app.
 
 Going beyond traditional analytics, FullStory records actual user sessions so you can see what really happens when people visit your site.

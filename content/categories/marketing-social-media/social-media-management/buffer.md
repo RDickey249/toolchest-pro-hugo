@@ -7,9 +7,6 @@ tool_name: "Buffer"
 deployment_status: "deployed"
 image: "/images/tools/buffer-placeholder.jpg"
 ---
-
-# Buffer
-
 Buffer is a streamlined social media management platform that simplifies content scheduling and publishing across multiple social networks with analytics and team collaboration.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Tableau
-
 Tableau is the world's leading data visualization platform, making it easy for anyone to see and understand their data through interactive dashboards and stunning visualizations.
 
 Trusted by over 90,000 organizations worldwide, Tableau transforms raw data into actionable insights that drive better business decisions.

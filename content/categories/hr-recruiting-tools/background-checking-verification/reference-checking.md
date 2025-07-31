@@ -7,9 +7,6 @@ tool_name: "Reference Checking"
 deployment_status: "deployed"
 image: "/images/tools/reference-checking-placeholder.jpg"
 ---
-
-# Reference Checking
-
 Reference checking tools provide automated reference verification capabilities that streamline the process of collecting and verifying professional references for hiring decisions.
 
 ## Key Features

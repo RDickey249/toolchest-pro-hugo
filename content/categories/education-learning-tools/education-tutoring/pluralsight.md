@@ -7,9 +7,6 @@ tool_name: "Pluralsight"
 deployment_status: "deployed"
 image: "/images/tools/pluralsight-placeholder.jpg"
 ---
-
-# Pluralsight
-
 Pluralsight is a technology learning platform providing comprehensive courses and skill assessments for software development, IT, and creative skills. Data-driven learning paths help professionals advance their technical careers.
 
 ## Key Features

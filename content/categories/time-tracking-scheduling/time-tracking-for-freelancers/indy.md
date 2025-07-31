@@ -7,9 +7,6 @@ tool_name: "Indy"
 deployment_status: "deployed"
 image: "/images/tools/indy-placeholder.jpg"
 ---
-
-# Indy
-
 Indy is the comprehensive business management platform for freelancers that combines time tracking, contract management, invoicing, and task organization in one place. From project planning to payment collection, it handles the entire freelance business lifecycle.
 
 Used by over 50,000 freelancers and agencies worldwide, Indy eliminates the complexity of managing multiple business tools. Create professional contracts, track time on projects, generate invoices automatically, and manage client relationships all from one integrated platform designed for independent professionals.

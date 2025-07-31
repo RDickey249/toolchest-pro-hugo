@@ -7,9 +7,6 @@ tool_name: "Klarna"
 deployment_status: "deployed"
 image: "/images/tools/klarna-placeholder.jpg"
 ---
-
-# Klarna
-
 Klarna is a leading buy-now-pay-later platform that provides flexible payment options to enhance consumer purchasing power and merchant conversion rates.
 
 ## Key Features

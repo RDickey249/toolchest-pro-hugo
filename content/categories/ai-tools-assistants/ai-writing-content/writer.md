@@ -7,9 +7,6 @@ tool_name: "Writer"
 deployment_status: "deployed"
 image: "/images/tools/writer-placeholder.jpg"
 ---
-
-# Writer
-
 Writer is the enterprise AI writing platform that ensures consistent brand voice, compliance standards, and professional quality across all company communications for business teams and organizations.
 
 Used by large organizations and marketing teams, Writer offers brand voice consistency, team collaboration, compliance checking, and custom terminology training. Scale quality writing across diverse teams while maintaining messaging consistency and professional standards.

@@ -7,9 +7,6 @@ tool_name: "Eclipse"
 deployment_status: "deployed"
 image: "/images/tools/eclipse-placeholder.jpg"
 ---
-
-# Eclipse
-
 Eclipse is a mature, open-source IDE platform with extensive plugin architecture, primarily known for Java enterprise development and multi-language support.
 
 ## Key Features

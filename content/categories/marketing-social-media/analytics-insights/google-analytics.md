@@ -7,9 +7,6 @@ tool_name: "Google-analytics"
 deployment_status: "deployed"
 image: "/images/tools/google-analytics-placeholder.jpg"
 ---
-
-# Google-analytics
-
 Google Analytics is the world's leading web analytics platform that provides comprehensive insights into website traffic, user behavior, and marketing performance.
 
 ## Key Features

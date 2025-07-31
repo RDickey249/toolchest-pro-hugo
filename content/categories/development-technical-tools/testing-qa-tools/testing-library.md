@@ -7,9 +7,6 @@ tool_name: "Testing Library"
 deployment_status: "deployed"
 image: "/images/tools/testing-library-placeholder.jpg"
 ---
-
-# Testing Library
-
 Testing Library is a family of testing utilities that encourages good testing practices by focusing on testing components the way users interact with them.
 
 ## Key Features

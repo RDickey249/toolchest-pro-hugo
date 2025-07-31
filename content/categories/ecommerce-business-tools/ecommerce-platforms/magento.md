@@ -7,9 +7,6 @@ tool_name: "Magento"
 deployment_status: "deployed"
 image: "/images/tools/magento-placeholder.jpg"
 ---
-
-# Magento
-
 Magento is a powerful open-source e-commerce platform that provides flexible, highly customizable online retail solutions for developers and complex business requirements.
 
 ## Key Features

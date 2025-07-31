@@ -7,9 +7,6 @@ tool_name: "uAttend"
 deployment_status: "deployed"
 image: "/images/tools/uattend-placeholder.jpg"
 ---
-
-# uAttend
-
 uAttend is a comprehensive time tracking system that combines biometric authentication with web-based accessibility for secure workforce management. The platform offers fingerprint recognition, facial verification, and cloud-based time tracking to prevent fraud while maintaining flexible access options.
 
 What distinguishes uAttend is its dual-mode approach, allowing employees to clock in through biometric terminals or web browsers depending on their location and role. This flexibility ensures security without sacrificing convenience for legitimate users.

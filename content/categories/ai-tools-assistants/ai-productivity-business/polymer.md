@@ -7,9 +7,6 @@ tool_name: "Polymer"
 deployment_status: "deployed"
 image: "/images/tools/polymer-placeholder.jpg"
 ---
-
-# Polymer
-
 Polymer makes data exploration accessible through natural language queries, allowing users to ask questions about their data in plain English and receive instant insights.
 
 The platform uses AI to automatically generate visualizations, identify correlations, and surface relevant insights without requiring SQL knowledge or technical expertise. Polymer connects to various data sources and transforms complex databases into searchable knowledge bases.

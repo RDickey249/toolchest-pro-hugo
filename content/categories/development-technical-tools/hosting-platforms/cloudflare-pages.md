@@ -7,9 +7,6 @@ tool_name: "Cloudflare Pages"
 deployment_status: "deployed"
 image: "/images/tools/cloudflare-pages-placeholder.jpg"
 ---
-
-# Cloudflare Pages
-
 Cloudflare Pages is a JAMstack platform that deploys static sites and serverless functions to Cloudflare's global edge network with lightning-fast performance and enterprise-grade security.
 
 ## Key Features

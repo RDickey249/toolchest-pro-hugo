@@ -7,9 +7,6 @@ tool_name: "Firefox Send"
 deployment_status: "deployed"
 image: "/images/tools/firefox-send-placeholder.jpg"
 ---
-
-# Firefox Send
-
 Firefox Send (discontinued) was Mozilla's encrypted file sharing service that provided privacy-focused file transfer with automatic expiration and end-to-end encryption.
 
 ## Key Features (Historical)

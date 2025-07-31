@@ -7,9 +7,6 @@ tool_name: "Google Drive"
 deployment_status: "deployed"
 image: "/images/tools/google-drive-placeholder.jpg"
 ---
-
-# Google Drive
-
 Google Drive is Google's cloud storage service that provides 15GB of free storage with seamless integration across Google's ecosystem and collaborative productivity tools.
 
 ## Key Features

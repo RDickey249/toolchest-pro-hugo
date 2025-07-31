@@ -7,9 +7,6 @@ tool_name: "Business Licenses"
 deployment_status: "deployed"
 image: "/images/tools/business-licenses-placeholder.jpg"
 ---
-
-# Business Licenses
-
 Business Licenses services provide comprehensive assistance with obtaining and maintaining local and state business licenses required for legal business operation.
 
 ## Key Features

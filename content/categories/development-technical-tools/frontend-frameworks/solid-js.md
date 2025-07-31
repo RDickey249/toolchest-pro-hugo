@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
 ---
-
-# SolidJS
-
 SolidJS is the fast, reactive JavaScript library that delivers React-like developer experience with superior performance through fine-grained reactivity and no virtual DOM. Build efficient web applications with familiar JSX syntax and compile-time optimizations.
 
 Used by developers seeking performance and React familiarity, SolidJS offers signals-based reactivity, TypeScript support, server-side rendering, and minimal bundle sizes. Get React-like development patterns with better runtime performance and automatic dependency tracking.

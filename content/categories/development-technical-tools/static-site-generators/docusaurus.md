@@ -7,9 +7,6 @@ tool_name: "Docusaurus"
 deployment_status: "deployed"
 image: "/images/tools/docusaurus-placeholder.jpg"
 ---
-
-# Docusaurus
-
 Docusaurus is a React-based documentation platform from Facebook that enables teams to build modern documentation websites with versioning, internationalization, and powerful developer experience features.
 
 ## Key Features

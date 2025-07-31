@@ -7,9 +7,6 @@ tool_name: "Crucible"
 deployment_status: "deployed"
 image: "/images/tools/crucible-placeholder.jpg"
 ---
-
-# Crucible
-
 Crucible is Atlassian's peer code review tool with inline comments and Jira integration. Collaborate on code quality with threaded discussions, approval workflows, and seamless Atlassian ecosystem integration.
 
 ## Get Started with Crucible

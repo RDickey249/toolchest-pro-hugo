@@ -10,9 +10,6 @@ tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]
 ---
-
-# Prefect
-
 Prefect is the modern workflow orchestration platform that makes data pipelines reliable, observable, and enjoyable to build. With its Python-first approach and intelligent state management, it's the workflow engine that data engineers actually want to use.
 
 Built by the creators of the original Airflow concept, Prefect fixes everything that's frustrating about traditional workflow tools. It handles failures gracefully, provides rich observability, and scales from local development to enterprise deployments.

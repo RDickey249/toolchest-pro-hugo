@@ -7,9 +7,6 @@ tool_name: "Gusto"
 deployment_status: "deployed"
 image: "/images/tools/gusto-placeholder.jpg"
 ---
-
-# Gusto
-
 Gusto is a comprehensive small business HR platform that integrates hiring, payroll, benefits, and compliance management. User-friendly design and affordable pricing make professional HR functionality accessible to growing businesses.
 
 ## Key Features

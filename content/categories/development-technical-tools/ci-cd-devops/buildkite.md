@@ -7,9 +7,6 @@ tool_name: "Buildkite"
 deployment_status: "deployed"
 image: "/images/tools/buildkite-placeholder.jpg"
 ---
-
-# Buildkite
-
 Buildkite is a scalable CI/CD platform with hybrid agent architecture, enabling teams to run pipelines on their own infrastructure while managing orchestration in the cloud.
 
 ## Key Features

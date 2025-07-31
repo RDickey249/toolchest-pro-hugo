@@ -7,9 +7,6 @@ tool_name: "Adobe Premiere Pro"
 deployment_status: "deployed"
 image: "/images/tools/adobe-premiere-pro-placeholder.jpg"
 ---
-
-# Adobe Premiere Pro
-
 Adobe Premiere Pro is the industry-standard video editing software used by professionals for film, TV, and digital content. Advanced timeline-based editing with multi-track support, color correction, and seamless Creative Suite integration.
 
 ## Key Features

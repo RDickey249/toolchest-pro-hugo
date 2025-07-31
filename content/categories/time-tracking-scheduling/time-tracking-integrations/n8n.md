@@ -10,9 +10,6 @@ tags: ["time-tracking-scheduling", "time-tracking-integrations"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking Integrations"]
 ---
-
-# n8n
-
 n8n is the open-source workflow automation platform that lets you connect any app to any other app. Unlike cloud automation tools that charge per workflow, n8n gives you complete control over your automation infrastructure.
 
 Used by companies like Lattice, Phantom, and thousands of developers, n8n offers the power of enterprise automation tools without the enterprise price tag or vendor lock-in.

@@ -7,9 +7,6 @@ tool_name: "Hellosign"
 deployment_status: "deployed"
 image: "/images/tools/hellosign-placeholder.jpg"
 ---
-
-# Hellosign
-
 HelloSign (now Dropbox Sign) is a user-friendly electronic signature platform that simplifies document signing and workflow automation for businesses of all sizes.
 
 ## Key Features

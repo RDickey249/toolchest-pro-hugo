@@ -7,9 +7,6 @@ tool_name: "Pandadoc"
 deployment_status: "deployed"
 image: "/images/tools/pandadoc-placeholder.jpg"
 ---
-
-# Pandadoc
-
 PandaDoc is an all-in-one document automation platform that streamlines document creation, e-signatures, and payment collection for sales and business teams.
 
 ## Key Features

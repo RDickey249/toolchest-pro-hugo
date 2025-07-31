@@ -7,9 +7,6 @@ tool_name: "Officevibe"
 deployment_status: "deployed"
 image: "/images/tools/officevibe-placeholder.jpg"
 ---
-
-# Officevibe
-
 Officevibe is an employee engagement platform providing regular pulse surveys, feedback collection, and engagement analytics. Continuous monitoring and actionable insights help managers and HR teams improve workplace satisfaction.
 
 ## Key Features

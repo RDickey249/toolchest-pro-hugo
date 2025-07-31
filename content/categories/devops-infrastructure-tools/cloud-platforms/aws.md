@@ -7,9 +7,6 @@ tool_name: "AWS"
 deployment_status: "deployed"
 image: "/images/tools/aws-placeholder.jpg"
 ---
-
-# Amazon Web Services (AWS)
-
 Amazon Web Services (AWS) is the world's most comprehensive cloud platform, offering 200+ services from data centers globally. Market leader with the largest ecosystem and most extensive service portfolio for any cloud computing need.
 
 ## Key Features

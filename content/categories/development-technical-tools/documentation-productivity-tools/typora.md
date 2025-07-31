@@ -7,9 +7,6 @@ tool_name: "Typora"
 deployment_status: "deployed"
 image: "/images/tools/typora-placeholder.jpg"
 ---
-
-# Typora
-
 Typora is a minimalist markdown editor that provides a seamless WYSIWYG writing experience with real-time preview and distraction-free interface.
 
 ## Key Features

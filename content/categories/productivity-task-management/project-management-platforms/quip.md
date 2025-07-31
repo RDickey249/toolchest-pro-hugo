@@ -7,9 +7,6 @@ tool_name: "Quip"
 deployment_status: "deployed"
 image: "/images/tools/quip-placeholder.jpg"
 ---
-
-# Quip
-
 Quip enhances team productivity through a collaborative platform that seamlessly integrates documents, spreadsheets, and chat into a unified workspace designed to streamline communication and eliminate traditional document collaboration inefficiencies. This integrated platform addresses fragmented team communication by providing a single space where teams can create documents, discuss ideas, and make decisions together.
 
 Used by sales teams, marketing teams, and remote teams worldwide, Quip integrates communication and content creation seamlessly. Have conversations directly within documents and spreadsheets while maintaining version control and ensuring all team members stay informed.

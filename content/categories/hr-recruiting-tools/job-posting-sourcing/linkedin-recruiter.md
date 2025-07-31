@@ -7,9 +7,6 @@ tool_name: "LinkedIn Recruiter"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-recruiter-placeholder.jpg"
 ---
-
-# LinkedIn Recruiter
-
 LinkedIn Recruiter is the premium recruiting platform that leverages the world's largest professional network for talent acquisition. Advanced search and outreach tools help find and engage top professional talent and passive candidates.
 
 ## Key Features

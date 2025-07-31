@@ -7,9 +7,6 @@ tool_name: "Replit"
 deployment_status: "deployed"
 image: "/images/tools/replit-placeholder.jpg"
 ---
-
-# Replit
-
 Replit is a cloud-based collaborative coding platform that provides instant development environments with multi-language support, real-time collaboration, and integrated deployment capabilities.
 
 ## Key Features

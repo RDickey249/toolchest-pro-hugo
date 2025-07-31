@@ -11,9 +11,6 @@ tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
 ---
-
-# Google Meet
-
 Google Meet is the streamlined video conferencing platform that integrates seamlessly with Google Workspace, offering reliable, high-quality meetings accessible from any browser or device.
 
 Built for simplicity and security, Google Meet eliminates the friction of video calls while providing enterprise-grade features that scale from small team meetings to large organizational events.

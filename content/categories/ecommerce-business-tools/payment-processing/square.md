@@ -7,9 +7,6 @@ tool_name: "Square"
 deployment_status: "deployed"
 image: "/images/tools/square-placeholder.jpg"
 ---
-
-# Square
-
 Square is a comprehensive commerce platform that unifies in-person and online payments with integrated business management tools for small businesses and retailers.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Jest"
 deployment_status: "deployed"
 image: "/images/tools/jest-placeholder.jpg"
 ---
-
-# Jest
-
 Jest is delightful JavaScript testing with zero config. Created by Facebook, it works out of the box for most JavaScript projects and has become the go-to testing framework for React applications.
 
 ## Key Features

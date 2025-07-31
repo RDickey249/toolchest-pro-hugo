@@ -7,9 +7,6 @@ tool_name: "New Relic"
 deployment_status: "deployed"
 image: "/images/tools/new-relic-placeholder.jpg"
 ---
-
-# New Relic
-
 New Relic is a comprehensive observability platform providing full-stack monitoring and analytics for applications, infrastructure, and digital customer experiences.
 
 ## Key Features

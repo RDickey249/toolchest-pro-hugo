@@ -7,9 +7,6 @@ tool_name: "Hostinger"
 deployment_status: "deployed"
 image: "/images/tools/hostinger-placeholder.jpg"
 ---
-
-# Hostinger
-
 Hostinger is an affordable web hosting provider offering reliable hosting solutions with global infrastructure, competitive pricing, and comprehensive features for websites and applications.
 
 ## Key Features

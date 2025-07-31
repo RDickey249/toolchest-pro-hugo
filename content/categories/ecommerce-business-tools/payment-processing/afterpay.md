@@ -7,9 +7,6 @@ tool_name: "Afterpay"
 deployment_status: "deployed"
 image: "/images/tools/afterpay-placeholder.jpg"
 ---
-
-# Afterpay
-
 Afterpay is a buy-now-pay-later platform that enables consumers to split purchases into interest-free installments while providing merchants with increased conversion rates.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "time-tracking-productivity", "automatic-
 categories: ["Productivity & Task Management"]
 subcategories: ["Time Tracking & Productivity"]
 ---
-
-# RescueTime
-
 RescueTime provides automatic time tracking and detailed analytics to help individuals and teams understand and optimize their digital habits and productivity patterns.
 
 ## Get Started with RescueTime

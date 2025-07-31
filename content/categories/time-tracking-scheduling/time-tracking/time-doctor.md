@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/time-doctor-placeholder.jpg"
 external_link: "https://www.timedoctor.com"
 ---
-
-# Time Doctor
-
 Time Doctor is a comprehensive time tracking and productivity monitoring platform designed for remote team management. The software combines detailed time tracking with activity monitoring, screenshot capture, and productivity analytics to provide complete visibility into distributed workforce performance.
 
 What distinguishes Time Doctor is its focus on accountability and transparency through detailed monitoring capabilities. The platform goes beyond basic time tracking to include website and application monitoring, productivity scoring, and automated reporting that helps managers understand work patterns and optimize team performance.

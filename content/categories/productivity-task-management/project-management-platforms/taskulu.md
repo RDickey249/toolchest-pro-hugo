@@ -7,9 +7,6 @@ tool_name: "Taskulu"
 deployment_status: "deployed"
 image: "/images/tools/taskulu-placeholder.jpg"
 ---
-
-# Taskulu
-
 Taskulu enhances team productivity through a collaborative platform that combines intuitive task management with effective team communication. This unified workspace allows teams to organize projects, coordinate activities, and maintain clear visibility into progress while fostering collaboration and accountability.
 
 Used by small teams, remote teams, and project teams worldwide, Taskulu focuses on team dynamics and collaborative work. Enhance team coordination and communication through integrated tools that keep project work and team communication connected.

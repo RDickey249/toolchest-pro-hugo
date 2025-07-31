@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Looker
-
 Looker is the modern business intelligence platform that treats data as a platform, enabling organizations to build consistent, governed data experiences at scale.
 
 Now part of Google Cloud, Looker goes beyond traditional BI tools by creating a unified semantic layer that ensures everyone in your organization speaks the same data language.

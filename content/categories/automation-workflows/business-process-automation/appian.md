@@ -11,9 +11,6 @@ categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
 external_link: "https://appian.com"
 ---
-
-# Appian
-
 Appian is the low-code platform trusted by Fortune 500 companies and government agencies to build powerful applications fast. It combines visual development, workflow automation, and AI capabilities in a unified platform.
 
 Unlike basic low-code tools, Appian is built for enterprise complexity. Teams can create sophisticated applications that integrate with legacy systems, handle millions of transactions, and meet strict security requirements - all without extensive coding.

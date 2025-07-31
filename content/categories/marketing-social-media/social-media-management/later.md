@@ -7,9 +7,6 @@ tool_name: "Later"
 deployment_status: "deployed"
 image: "/images/tools/later-placeholder.jpg"
 ---
-
-# Later
-
 Later is a visual social media scheduling platform that specializes in Instagram marketing with drag-and-drop content planning and automation.
 
 ## Key Features

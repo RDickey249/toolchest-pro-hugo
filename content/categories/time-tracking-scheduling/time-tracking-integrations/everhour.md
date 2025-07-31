@@ -7,9 +7,6 @@ tool_name: "Everhour"
 deployment_status: "deployed"
 image: "/images/tools/everhour-placeholder.jpg"
 ---
-
-# Everhour
-
 Everhour is the project-focused time tracking platform that integrates with budgeting and task management tools to provide unified project intelligence with financial oversight and profitability tracking.
 
 Used by 8,000+ agencies and consulting firms, Everhour offers seamless integration with Asana, Trello, and Basecamp, plus budget tracking, invoicing, and profitability reports. Track time accurately while maintaining project budgets and client billing with comprehensive financial coordination.

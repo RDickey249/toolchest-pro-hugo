@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "note-taking-knowledge-management", "link
 categories: ["Productivity & Task Management"]
 subcategories: ["Note-Taking & Knowledge Management"]
 ---
-
-# Obsidian
-
 Obsidian is the linked note-taking platform that revolutionizes personal knowledge management through powerful linking capabilities. Create interconnected thought networks that visualize relationships between ideas while maintaining complete data ownership and local file control.
 
 Used by researchers, writers, and knowledge workers worldwide, Obsidian provides bidirectional linking, graph visualization, markdown editing, and an extensive plugin ecosystem. Build everything from Zettelkasten systems to personal wikis with daily notes, templates, and canvas view.

@@ -7,9 +7,6 @@ tool_name: "Nuxt.js"
 deployment_status: "deployed"
 image: "/images/tools/nuxt-js-placeholder.jpg"
 ---
-
-# Nuxt.js
-
 Nuxt.js is a Vue.js framework that provides universal rendering and static generation capabilities with automatic routing and SEO optimization.
 
 ## Key Features

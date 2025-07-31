@@ -7,9 +7,6 @@ tool_name: "Rust"
 deployment_status: "deployed"
 image: "/images/tools/rust-placeholder.jpg"
 ---
-
-# Rust
-
 Rust is a modern systems programming language that emphasizes memory safety, zero-cost abstractions, and fearless concurrency without sacrificing performance.
 
 ## Key Features

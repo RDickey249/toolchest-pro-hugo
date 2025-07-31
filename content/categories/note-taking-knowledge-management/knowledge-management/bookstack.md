@@ -7,9 +7,6 @@ tool_name: "BookStack"
 deployment_status: "deployed"
 image: "/images/tools/bookstack-placeholder.jpg"
 ---
-
-# BookStack
-
 BookStack is a self-hosted wiki platform that provides intuitive knowledge management for organizations requiring complete control over their documentation.
 
 ## Key Features

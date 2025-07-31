@@ -7,9 +7,6 @@ tool_name: "Citrix ShareFile"
 deployment_status: "deployed"
 image: "/images/tools/citrix-sharefile-placeholder.jpg"
 ---
-
-# Citrix ShareFile
-
 Citrix ShareFile is an enterprise-grade secure file sharing platform designed for professional services and businesses requiring secure client communication and document exchange.
 
 ## Key Features

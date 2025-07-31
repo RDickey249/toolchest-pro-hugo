@@ -7,9 +7,6 @@ tool_name: "TensorFlow"
 deployment_status: "deployed"
 image: "/images/tools/tensorflow-placeholder.jpg"
 ---
-
-# TensorFlow
-
 TensorFlow is Google's open-source machine learning platform that provides a comprehensive ecosystem for building and deploying AI applications at scale.
 
 ## Key Features

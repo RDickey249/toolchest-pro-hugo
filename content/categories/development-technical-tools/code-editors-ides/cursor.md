@@ -7,9 +7,6 @@ tool_name: "Cursor"
 deployment_status: "deployed"
 image: "/images/tools/cursor-placeholder.jpg"
 ---
-
-# Cursor
-
 Cursor is an AI-powered code editor with integrated GPT-4 that enables faster development through intelligent suggestions, automated refactoring, and conversational programming with VS Code compatibility.
 
 ## Key Features

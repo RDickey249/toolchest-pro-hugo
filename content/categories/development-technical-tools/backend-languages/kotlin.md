@@ -7,9 +7,6 @@ tool_name: "Kotlin"
 deployment_status: "deployed"
 image: "/images/tools/kotlin-placeholder.jpg"
 ---
-
-# Kotlin
-
 Kotlin is a modern, statically typed programming language that runs on the JVM with 100% Java interoperability, serving as Google's preferred language for Android development and growing backend applications.
 
 ## Key Features

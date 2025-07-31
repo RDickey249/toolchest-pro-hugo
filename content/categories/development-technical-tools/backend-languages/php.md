@@ -7,9 +7,6 @@ tool_name: "PHP"
 deployment_status: "deployed"
 image: "/images/tools/php-placeholder.jpg"
 ---
-
-# PHP
-
 PHP is a server-side scripting language designed for web development, powering over 77% of websites through its pragmatic approach to building dynamic, database-driven applications.
 
 ## Key Features

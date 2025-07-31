@@ -11,9 +11,6 @@ tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
 ---
-
-# Webex
-
 Webex is Cisco's comprehensive collaboration platform that delivers enterprise-grade video meetings, team messaging, and calling solutions designed for large organizations with demanding security and compliance requirements.
 
 Built for the enterprise from the ground up, Webex provides the advanced features, security certifications, and administrative controls that large organizations need for mission-critical communication.

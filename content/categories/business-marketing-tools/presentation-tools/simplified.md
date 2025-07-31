@@ -7,9 +7,6 @@ tool_name: "Simplified"
 deployment_status: "deployed"
 image: "/images/tools/simplified-placeholder.jpg"
 ---
-
-# Simplified
-
 Simplified revolutionizes content creation by combining presentation tools with a comprehensive suite of design, video, and marketing features, making it the ultimate all-in-one platform for modern teams. This versatile workspace integrates AI-powered presentation creation with social media design, video editing, copywriting assistance, and team collaboration tools. Simplified's presentation features include smart templates, AI content generation, and automated design suggestions that work seamlessly with its broader creative ecosystem. Whether you're building investor pitch decks, creating social media presentations, or developing educational content, Simplified ensures consistent branding and messaging across all formats. The platform's AI writing assistant can generate presentation content, while its design tools create supporting graphics and social media posts to amplify your message. Teams particularly benefit from Simplified's unified approach—create a presentation, then instantly adapt it for social media, email campaigns, or video content. For businesses seeking to streamline their entire content workflow rather than just presentations, Simplified offers unmatched integration and efficiency.
 
 ## Key Features

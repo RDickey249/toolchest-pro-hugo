@@ -7,9 +7,6 @@ tool_name: "Keycloak"
 deployment_status: "deployed"
 image: "/images/tools/keycloak-placeholder.jpg"
 ---
-
-# Keycloak
-
 Keycloak is an open-source identity and access management solution providing single sign-on, user federation, and identity brokering with complete control over infrastructure.
 
 ## Key Features

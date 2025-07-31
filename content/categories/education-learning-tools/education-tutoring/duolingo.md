@@ -7,9 +7,6 @@ tool_name: "Duolingo"
 deployment_status: "deployed"
 image: "/images/tools/duolingo-placeholder.jpg"
 ---
-
-# Duolingo
-
 Duolingo is a gamified language learning platform that makes learning new languages fun and addictive. Practice speaking, listening, reading, and writing with bite-sized lessons and personalized learning paths.
 
 ## Key Features

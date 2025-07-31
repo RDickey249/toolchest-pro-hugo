@@ -7,9 +7,6 @@ tool_name: "Loomly"
 deployment_status: "deployed"
 image: "/images/tools/loomly-placeholder.jpg"
 ---
-
-# Loomly
-
 Loomly is a social media management platform that simplifies content creation, scheduling, and collaboration for brands and agencies.
 
 ## Key Features

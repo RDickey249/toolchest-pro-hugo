@@ -7,9 +7,6 @@ tool_name: "Homebrew"
 deployment_status: "deployed"
 image: "/images/tools/homebrew-placeholder.jpg"
 ---
-
-# Homebrew
-
 Homebrew is the package manager for macOS and Linux that simplifies software installation with command-line tools and applications.
 
 ## Key Features

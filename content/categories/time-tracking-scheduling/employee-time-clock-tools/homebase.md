@@ -7,9 +7,6 @@ tool_name: "Homebase"
 deployment_status: "deployed"
 image: "/images/tools/homebase-placeholder.jpg"
 ---
-
-# Homebase
-
 Homebase is the free employee scheduling and time clock platform designed for small businesses. With shift scheduling, time tracking, team messaging, and payroll integration, it handles all your workforce management needs without the enterprise price tag.
 
 Used by over 100,000 small businesses including restaurants, retail stores, and service companies, Homebase makes employee management effortless and affordable. Create schedules in minutes, track hours automatically, communicate with your team, and integrate seamlessly with payroll providers.

@@ -7,9 +7,6 @@ tool_name: "Constant Contact"
 deployment_status: "deployed"
 image: "/images/tools/constant-contact-placeholder.jpg"
 ---
-
-# Constant Contact
-
 Constant Contact is an email marketing platform designed for small businesses and nonprofits, providing comprehensive support and guidance for professional email campaigns.
 
 ## Key Features

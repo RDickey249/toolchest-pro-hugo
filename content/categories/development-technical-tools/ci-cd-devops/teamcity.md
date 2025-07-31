@@ -7,9 +7,6 @@ tool_name: "TeamCity"
 deployment_status: "deployed"
 image: "/images/tools/teamcity-placeholder.jpg"
 ---
-
-# TeamCity
-
 TeamCity is JetBrains' intelligent CI/CD server with advanced build chains, comprehensive test history, and powerful failure analysis for enterprise development teams.
 
 ## Key Features

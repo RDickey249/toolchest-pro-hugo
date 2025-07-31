@@ -7,9 +7,6 @@ tool_name: "Oracle Cloud"
 deployment_status: "deployed"
 image: "/images/tools/oracle-cloud-placeholder.jpg"
 ---
-
-# Oracle Cloud
-
 Oracle Cloud Infrastructure (OCI) is an enterprise-grade cloud platform optimized for database workloads and Oracle software environments. Features autonomous database services and performance-based pricing.
 
 ## Key Features

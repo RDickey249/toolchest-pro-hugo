@@ -7,9 +7,6 @@ tool_name: "Roam Research"
 deployment_status: "deployed"
 image: "/images/tools/roam-research-placeholder.jpg"
 ---
-
-# Roam Research
-
 Roam Research is a networked thought tool that enables non-linear knowledge creation through block references and bidirectional linking for research and creative exploration.
 
 ## Key Features

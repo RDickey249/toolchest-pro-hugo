@@ -7,9 +7,6 @@ tool_name: "Webpack"
 deployment_status: "deployed"
 image: "/images/tools/webpack-placeholder.jpg"
 ---
-
-# Webpack
-
 Webpack is a module bundler for JavaScript applications that transforms and optimizes assets for production deployment with extensive configuration options.
 
 ## Key Features

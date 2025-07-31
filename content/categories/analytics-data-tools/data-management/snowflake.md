@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
 ---
-
-# Snowflake
-
 Snowflake is the cloud data platform that's revolutionizing how organizations store, process, and analyze data at scale.
 
 Built from the ground up for the cloud, Snowflake separates compute from storage, allowing you to scale each independently and pay only for what you use.

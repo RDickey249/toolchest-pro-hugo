@@ -7,9 +7,6 @@ tool_name: "Docusaurus"
 deployment_status: "deployed"
 image: "/images/tools/docusaurus-placeholder.jpg"
 ---
-
-# Docusaurus
-
 Docusaurus is Facebook's modern static site generator built with React, optimized for creating beautiful documentation websites with advanced features.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Heroku"
 deployment_status: "deployed"
 image: "/images/tools/heroku-placeholder.jpg"
 ---
-
-# Heroku
-
 Heroku is a cloud platform-as-a-service that enables developers to build, run, and scale applications with simplified deployment workflows, automatic infrastructure management, and Git-based deployment.
 
 ## Key Features

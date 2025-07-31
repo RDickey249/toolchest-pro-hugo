@@ -7,9 +7,6 @@ tool_name: "Microsoft Dynamics"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-dynamics-placeholder.jpg"
 ---
-
-# Microsoft Dynamics
-
 Microsoft Dynamics is a comprehensive suite of business applications that integrates inventory management, ERP, and CRM within the Microsoft ecosystem.
 
 ## Key Features

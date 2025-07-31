@@ -7,9 +7,6 @@ tool_name: "Bitbucket"
 deployment_status: "deployed"
 image: "/images/tools/bitbucket-placeholder.jpg"
 ---
-
-# Bitbucket
-
 Bitbucket is a Git-based repository hosting platform with deep Atlassian integration, providing enterprise-focused version control with CI/CD capabilities.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Argo CD"
 deployment_status: "deployed"
 image: "/images/tools/argo-cd-placeholder.jpg"
 ---
-
-# Argo CD
-
 Argo CD is a Kubernetes-native GitOps continuous delivery tool that uses Git repositories as the single source of truth for declarative application deployments.
 
 ## Key Features

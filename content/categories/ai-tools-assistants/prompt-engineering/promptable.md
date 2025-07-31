@@ -7,9 +7,6 @@ tool_name: "Promptable"
 deployment_status: "deployed"
 image: "/images/tools/promptable-placeholder.jpg"
 ---
-
-# Promptable
-
 Promptable creates an integrated workspace for prompt engineering that combines the creativity of a design studio with the precision of a development environment, enabling users to craft, test, and refine prompts through an intuitive interface that makes advanced prompt engineering accessible to both technical and non-technical professionals. This comprehensive platform addresses the complexity of modern prompt engineering by providing visual tools, collaborative features, and systematic optimization workflows that transform prompt creation from a purely text-based process into a rich, interactive experience with immediate feedback and validation. Promptable's sophisticated workspace includes drag-and-drop prompt builders, real-time testing environments, version control for prompt iterations, and analytics dashboards that track performance across different AI models and use cases. The platform excels at serving creative professionals seeking intuitive prompt tools, business teams needing collaborative prompt development, educators teaching prompt engineering concepts, and organizations building AI-powered products that require reliable, well-documented prompts. Its unique approach combines visual prompt construction with traditional text editing, making it possible for users to understand prompt structure and optimization principles while building effective prompts for their specific needs. Whether you're new to prompt engineering and need guided assistance or you're an experienced practitioner seeking better collaboration tools, Promptable provides the workspace infrastructure that supports both learning and professional prompt development.
 
 ## Key Features

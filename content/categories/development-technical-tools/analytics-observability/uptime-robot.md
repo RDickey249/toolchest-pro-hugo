@@ -7,9 +7,6 @@ tool_name: "Uptime Robot"
 deployment_status: "deployed"
 image: "/images/tools/uptime-robot-placeholder.jpg"
 ---
-
-# Uptime Robot
-
 Uptime Robot is a website monitoring service that tracks uptime and provides instant alerts when websites or services go down.
 
 ## Key Features

@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/my-hours-placeholder.jpg"
 external_link: "https://www.myhours.com"
 ---
-
-# My Hours
-
 My Hours is the comprehensive time tracking platform that balances powerful features with user-friendly design. Track time on projects, manage teams, generate reports, and create invoices with an interface that's easy for everyone to use.
 
 Used by teams across diverse industries, My Hours offers professional time tracking without overwhelming complexity. Organize projects, track billable hours, analyze productivity patterns, and turn tracked time into professional invoices with built-in client billing.

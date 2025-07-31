@@ -7,9 +7,6 @@ tool_name: "Timely"
 deployment_status: "deployed"
 image: "/images/tools/timely-placeholder.jpg"
 ---
-
-# Timely
-
 Timely uses AI-powered memory tracking to automatically capture and categorize your work activities across all applications and projects. Instead of manual time logging, it reconstructs detailed timelines of what you actually worked on, providing accurate time audits without any effort.
 
 The AI learns your work patterns and intelligently categorizes activities by project, giving you detailed insights into productivity patterns and accurate billing records. This "memory" approach eliminates the guesswork and gaps common in traditional time tracking.

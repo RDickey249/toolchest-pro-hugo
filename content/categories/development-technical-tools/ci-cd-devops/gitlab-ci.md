@@ -7,9 +7,6 @@ tool_name: "GitLab CI"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-ci-placeholder.jpg"
 ---
-
-# GitLab CI
-
 GitLab CI is an integrated DevOps platform that combines source code management, CI/CD pipelines, and project tracking in a single application.
 
 ## Key Features

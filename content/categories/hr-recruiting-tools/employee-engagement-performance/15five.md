@@ -7,9 +7,6 @@ tool_name: "15Five"
 deployment_status: "deployed"
 image: "/images/tools/15five-placeholder.jpg"
 ---
-
-# 15Five
-
 15Five is a performance management platform that combines regular check-ins, goal tracking, and performance reviews. Replace traditional annual reviews with continuous feedback loops and data-driven performance insights for employee development.
 
 ## Key Features

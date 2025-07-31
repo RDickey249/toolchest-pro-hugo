@@ -7,9 +7,6 @@ tool_name: "Zoho-expense"
 deployment_status: "deployed"
 image: "/images/tools/zoho-expense-placeholder.jpg"
 ---
-
-# Zoho-expense
-
 Zoho Expense is a comprehensive expense management solution that automates expense reporting, approval workflows, and reimbursement processes.
 
 ## Key Features

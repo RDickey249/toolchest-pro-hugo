@@ -7,9 +7,6 @@ tool_name: "Confluence"
 deployment_status: "deployed"
 image: "/images/tools/confluence-placeholder.jpg"
 ---
-
-# Confluence
-
 Confluence is Atlassian's enterprise wiki platform that enables organizations to create, organize, and maintain collaborative documentation and knowledge sharing at scale.
 
 ## Key Features

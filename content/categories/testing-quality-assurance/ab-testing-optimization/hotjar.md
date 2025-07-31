@@ -7,9 +7,6 @@ tool_name: "Hotjar"
 deployment_status: "deployed"
 image: "/images/tools/hotjar-placeholder.jpg"
 ---
-
-# Hotjar
-
 Hotjar is a user behavior analytics platform that shows how visitors actually use your website. See what users click, where they scroll, and watch session recordings to understand user experience and optimize conversions.
 
 ## Key Features

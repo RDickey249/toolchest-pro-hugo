@@ -13,9 +13,6 @@ affiliate: true
 featured: true
 external_link: "https://zapier.com"
 ---
-
-# Zapier
-
 Zapier connects your apps and automates your workflows without any coding required.
 
 With over 6,000 app integrations, Zapier lets you create automated workflows (called "Zaps") that handle repetitive tasks so you can focus on what matters most.

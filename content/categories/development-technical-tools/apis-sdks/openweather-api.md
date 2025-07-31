@@ -7,9 +7,6 @@ tool_name: "OpenWeather API"
 deployment_status: "deployed"
 image: "/images/tools/openweather-api-placeholder.jpg"
 ---
-
-# OpenWeather API
-
 OpenWeather API provides comprehensive weather data and forecasting services with global coverage, enabling developers to integrate weather intelligence into applications.
 
 ## Key Features

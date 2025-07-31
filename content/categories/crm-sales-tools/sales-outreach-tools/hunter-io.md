@@ -12,9 +12,6 @@ subcategories: ["Sales Outreach Tools"]
 affiliate: true
 featured: true
 ---
-
-# Hunter.io
-
 Hunter.io helps sales teams find and verify professional email addresses with remarkable accuracy. Used by over 4 million professionals, it's the go-to tool for building qualified prospect lists without the guesswork.
 
 ## Key Features

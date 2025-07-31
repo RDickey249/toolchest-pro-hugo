@@ -7,9 +7,6 @@ tool_name: "Insomnia"
 deployment_status: "deployed"
 image: "/images/tools/insomnia-placeholder.jpg"
 ---
-
-# Insomnia
-
 Insomnia is the open-source API client for REST and GraphQL. Design and test APIs with a beautiful interface that developers love.
 
 ## Key Features

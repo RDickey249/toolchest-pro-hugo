@@ -7,9 +7,6 @@ tool_name: "TradeGecko"
 deployment_status: "deployed"
 image: "/images/tools/tradegecko-placeholder.jpg"
 ---
-
-# TradeGecko
-
 TradeGecko (now part of QuickBooks Commerce) is a cloud-based inventory and order management platform designed for wholesale businesses and multi-channel retailers.
 
 ## Key Features

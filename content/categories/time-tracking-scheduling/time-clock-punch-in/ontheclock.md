@@ -7,9 +7,6 @@ tool_name: "OnTheClock"
 deployment_status: "deployed"
 image: "/images/tools/ontheclock-placeholder.jpg"
 ---
-
-# OnTheClock
-
 OnTheClock is a straightforward time clock system designed specifically for small businesses seeking reliable employee attendance tracking without enterprise complexity. The platform provides essential time tracking functionality through user-friendly interfaces that enable accurate payroll processing and basic workforce management.
 
 The system's strength is its focus on simplicity and affordability, offering professional features through clean, intuitive design. OnTheClock eliminates common barriers to adoption by providing essential functionality without overwhelming small business owners with unnecessary complexity.

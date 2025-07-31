@@ -7,9 +7,6 @@ tool_name: "Google Maps API"
 deployment_status: "deployed"
 image: "/images/tools/google-maps-api-placeholder.jpg"
 ---
-
-# Google Maps API
-
 Google Maps API provides comprehensive mapping and location services, enabling developers to integrate interactive maps, navigation, and geospatial intelligence into applications.
 
 ## Key Features

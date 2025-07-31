@@ -7,9 +7,6 @@ tool_name: "Linkedin-analytics"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-analytics-placeholder.jpg"
 ---
-
-# Linkedin-analytics
-
 LinkedIn Analytics provides comprehensive insights and performance data for LinkedIn business pages and advertising campaigns.
 
 ## Key Features

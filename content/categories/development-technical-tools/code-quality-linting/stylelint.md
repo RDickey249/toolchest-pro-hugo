@@ -7,9 +7,6 @@ tool_name: "Stylelint"
 deployment_status: "deployed"
 image: "/images/tools/stylelint-placeholder.jpg"
 ---
-
-# Stylelint
-
 Stylelint is the essential CSS linter that catches errors, enforces consistent styling conventions, and maintains code quality across your stylesheets. With support for CSS, SCSS, Sass, and CSS-in-JS, it's the industry standard for stylesheet analysis.
 
 ## Key Benefits

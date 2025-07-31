@@ -7,9 +7,6 @@ tool_name: "Nolo"
 deployment_status: "deployed"
 image: "/images/tools/nolo-placeholder.jpg"
 ---
-
-# Nolo
-
 Nolo provides comprehensive legal information and forms combining extensive legal resources with practical document creation tools and expert guidance for DIY legal matters.
 
 ## Key Features

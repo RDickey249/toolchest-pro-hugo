@@ -7,9 +7,6 @@ tool_name: "Timely"
 deployment_status: "deployed"
 image: "/images/tools/timely-placeholder.jpg"
 ---
-
-# Timely
-
 Timely combines AI-powered automatic time tracking with sophisticated analytics to provide deep insights into productivity patterns and project allocation. The platform captures work activities automatically and transforms them into actionable intelligence about how time is actually spent.
 
 Beyond basic time tracking, it offers advanced analytics including productivity trends, workflow optimization recommendations, and strategic reporting. Real-time insights help teams identify bottlenecks, optimize processes, and make data-driven decisions about resource allocation.

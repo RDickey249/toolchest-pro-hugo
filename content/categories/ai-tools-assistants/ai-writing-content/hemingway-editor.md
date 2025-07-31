@@ -7,9 +7,6 @@ tool_name: "Hemingway Editor"
 deployment_status: "deployed"
 image: "/images/tools/hemingway-editor-placeholder.jpg"
 ---
-
-# Hemingway Editor
-
 Hemingway Editor is a writing tool that makes your prose bold and clear by highlighting complex sentences, passive voice, and dense paragraphs that confuse readers. Named after the famous author's direct style, it uses color-coded feedback to show exactly where your writing needs simplification.
 
 The tool excels at transforming academic jargon, corporate speak, and unnecessarily complex writing into engaging, readable content. Its visual approach makes editing intuitive—you instantly see problem areas and can fix them on the spot.

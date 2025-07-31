@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# Yac
-
 Yac transforms team communication through asynchronous voice messaging, enabling teams to share voice notes that capture tone, emotion, and context while eliminating meeting fatigue and timezone conflicts.
 
 Built for distributed teams who want to maintain human connection without constant meetings, Yac makes voice communication as easy as sending a text message.

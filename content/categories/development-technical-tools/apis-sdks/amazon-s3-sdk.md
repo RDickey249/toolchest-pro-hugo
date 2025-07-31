@@ -7,9 +7,6 @@ tool_name: "Amazon S3 SDK"
 deployment_status: "deployed"
 image: "/images/tools/amazon-s3-sdk-placeholder.jpg"
 ---
-
-# Amazon S3 SDK
-
 Amazon S3 SDK provides scalable cloud object storage with enterprise-grade durability, security, and global content delivery for applications of any size.
 
 ## Key Features

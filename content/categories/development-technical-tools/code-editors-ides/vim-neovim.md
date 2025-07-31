@@ -7,9 +7,6 @@ tool_name: "Vim/Neovim"
 deployment_status: "deployed"
 image: "/images/tools/vim-neovim-placeholder.jpg"
 ---
-
-# Vim/Neovim
-
 Vim/Neovim is a powerful terminal-based text editor that uses modal editing paradigms and keyboard-driven workflows for efficient text manipulation with minimal resource usage.
 
 ## Key Features

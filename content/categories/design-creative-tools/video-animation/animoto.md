@@ -7,9 +7,6 @@ tool_name: "Animoto"
 deployment_status: "deployed"
 image: "/images/tools/animoto-placeholder.jpg"
 ---
-
-# Animoto
-
 Animoto is an automated video creation platform that turns photos and video clips into professional marketing videos using templates and AI. Create engaging social media and marketing content in minutes without editing experience.
 
 ## Key Features

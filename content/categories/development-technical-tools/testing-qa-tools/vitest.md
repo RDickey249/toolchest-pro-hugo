@@ -7,9 +7,6 @@ tool_name: "Vitest"
 deployment_status: "deployed"
 image: "/images/tools/vitest-placeholder.jpg"
 ---
-
-# Vitest
-
 Vitest is a fast unit testing framework powered by Vite with native ES modules support, instant hot reload, and Jest-compatible APIs for modern development.
 
 ## Key Features

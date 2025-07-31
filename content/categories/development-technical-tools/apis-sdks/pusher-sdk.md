@@ -7,9 +7,6 @@ tool_name: "Pusher SDK"
 deployment_status: "deployed"
 image: "/images/tools/pusher-sdk-placeholder.jpg"
 ---
-
-# Pusher SDK
-
 Pusher SDK provides real-time messaging infrastructure through managed WebSocket services, enabling developers to add live updates, chat, and collaboration features to applications.
 
 ## Key Features

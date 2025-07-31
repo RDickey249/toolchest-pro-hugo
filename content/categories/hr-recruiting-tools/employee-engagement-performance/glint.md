@@ -7,9 +7,6 @@ tool_name: "Glint"
 deployment_status: "deployed"
 image: "/images/tools/glint-placeholder.jpg"
 ---
-
-# Glint
-
 Glint is an advanced employee engagement analytics platform providing deep insights into employee experience through sophisticated survey analytics and predictive insights. Enterprise-grade measurement tools support strategic engagement management and proactive improvements.
 
 ## Key Features

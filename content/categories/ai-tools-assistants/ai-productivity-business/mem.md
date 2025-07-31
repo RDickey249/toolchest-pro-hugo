@@ -7,9 +7,6 @@ tool_name: "Mem"
 deployment_status: "deployed"
 image: "/images/tools/mem-placeholder.jpg"
 ---
-
-# Mem
-
 Mem is the AI-powered knowledge management platform that automatically organizes, connects, and surfaces your notes and ideas without manual filing systems or traditional folder structures.
 
 Used by knowledge workers, researchers, and writers, Mem offers smart search, contextual connections, frictionless capture, and collaborative features. Transform scattered thoughts into accessible intelligence with AI organization and intelligent retrieval capabilities.

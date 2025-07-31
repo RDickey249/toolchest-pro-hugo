@@ -7,9 +7,6 @@ tool_name: "Algolia API"
 deployment_status: "deployed"
 image: "/images/tools/algolia-api-placeholder.jpg"
 ---
-
-# Algolia API
-
 Algolia API provides lightning-fast search infrastructure with intelligent ranking algorithms, enabling instant search experiences with typo tolerance and personalized results.
 
 ## Key Features

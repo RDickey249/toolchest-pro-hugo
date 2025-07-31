@@ -7,9 +7,6 @@ tool_name: "SQLite"
 deployment_status: "deployed"
 image: "/images/tools/sqlite-placeholder.jpg"
 ---
-
-# SQLite
-
 SQLite is the world's most deployed database engine—a lightweight, serverless SQL database that requires zero configuration. Store your entire database in a single file, perfect for mobile apps, desktop software, and embedded systems.
 
 ## Key Benefits

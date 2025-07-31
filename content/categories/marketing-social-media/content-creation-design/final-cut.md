@@ -7,9 +7,6 @@ tool_name: "Final-cut"
 deployment_status: "deployed"
 image: "/images/tools/final-cut-placeholder.jpg"
 ---
-
-# Final-cut
-
 Final Cut Pro is Apple's professional video editing software that enables filmmakers and content creators to edit, color grade, and finish high-quality video projects.
 
 ## Key Features

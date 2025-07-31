@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/adobe-creative-suite-placeholder.jpg"
 external_link: "https://www.adobe.com/creativecloud.html"
 ---
-
-# Adobe Creative Suite
-
 Adobe Creative Suite is the industry-standard collection of professional design applications used by creative professionals worldwide. Comprehensive tools for graphic design, photo editing, video production, and digital publishing.
 
 ## Key Features

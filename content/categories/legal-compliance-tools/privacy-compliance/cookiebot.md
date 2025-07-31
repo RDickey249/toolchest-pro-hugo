@@ -7,9 +7,6 @@ tool_name: "Cookiebot"
 deployment_status: "deployed"
 image: "/images/tools/cookiebot-placeholder.jpg"
 ---
-
-# Cookiebot
-
 Cookiebot specializes in cookie consent management and website privacy compliance with automated scanning and GDPR-compliant consent collection for European regulations.
 
 ## Key Features

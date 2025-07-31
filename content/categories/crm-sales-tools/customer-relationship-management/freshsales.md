@@ -7,9 +7,6 @@ tool_name: "Freshsales"
 deployment_status: "deployed"
 image: "/images/tools/freshsales-placeholder.jpg"
 ---
-
-# Freshsales
-
 Freshsales is a modern, intuitive CRM platform that enables sales teams to manage leads and deals efficiently with user-friendly design and comprehensive features.
 
 ## Key Features

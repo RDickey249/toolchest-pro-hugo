@@ -7,9 +7,6 @@ tool_name: "Vite"
 deployment_status: "deployed"
 image: "/images/tools/vite-placeholder.jpg"
 ---
-
-# Vite
-
 Vite is a next-generation frontend build tool that provides lightning-fast development server performance with native ES modules and optimized production builds.
 
 ## Key Features

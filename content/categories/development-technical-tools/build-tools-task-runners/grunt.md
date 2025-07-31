@@ -7,9 +7,6 @@ tool_name: "Grunt"
 deployment_status: "deployed"
 image: "/images/tools/grunt-placeholder.jpg"
 ---
-
-# Grunt
-
 Grunt is a JavaScript task runner that uses configuration-based workflows to automate repetitive development tasks with an extensive plugin ecosystem.
 
 ## Key Features

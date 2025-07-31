@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Metabase
-
 Metabase delivers enterprise-grade business intelligence as an open-source platform, eliminating licensing costs while providing powerful analytics capabilities. Teams can quickly deploy comprehensive BI solutions without vendor lock-in or subscription fees.
 
 The platform excels at making data accessible to non-technical users through its intuitive question-building interface. Users can create complex queries using natural language or visual builders, while power users can leverage SQL for advanced analysis. Interactive dashboards update in real-time and can be easily shared across teams.

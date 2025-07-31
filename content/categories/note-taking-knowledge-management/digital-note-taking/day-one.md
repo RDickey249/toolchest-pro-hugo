@@ -7,9 +7,6 @@ tool_name: "Day One"
 deployment_status: "deployed"
 image: "/images/tools/day-one-placeholder.jpg"
 ---
-
-# Day One
-
 Day One is a digital journaling app that encourages consistent reflection and memory preservation with privacy-focused features and beautiful design.
 
 ## Key Features

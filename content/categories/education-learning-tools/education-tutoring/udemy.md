@@ -7,9 +7,6 @@ tool_name: "Udemy"
 deployment_status: "deployed"
 image: "/images/tools/udemy-placeholder.jpg"
 ---
-
-# Udemy
-
 Udemy is a global marketplace for online learning with over 150,000 courses taught by expert instructors. Learn at your own pace with lifetime access to courses on business, technology, design, and personal development.
 
 ## Key Features

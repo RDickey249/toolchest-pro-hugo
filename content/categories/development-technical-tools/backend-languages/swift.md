@@ -7,9 +7,6 @@ tool_name: "Swift"
 deployment_status: "deployed"
 image: "/images/tools/swift-placeholder.jpg"
 ---
-
-# Swift
-
 Swift is a powerful, modern programming language developed by Apple for iOS, macOS, and server-side development, featuring memory safety, performance, and expressive syntax.
 
 ## Key Features

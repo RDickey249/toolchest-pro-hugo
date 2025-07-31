@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/laravel-placeholder.jpg"
 external_link: "https://laravel.com"
 ---
-
-# Laravel
-
 Laravel is a PHP web application framework with expressive, elegant syntax designed to make web development enjoyable and creative for developers.
 
 ## Key Features

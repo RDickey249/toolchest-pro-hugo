@@ -7,9 +7,6 @@ tool_name: "Copyai"
 deployment_status: "deployed"
 image: "/images/tools/copyai-placeholder.jpg"
 ---
-
-# Copyai
-
 Copy.ai is an AI-powered copywriting tool that generates marketing copy, blog content, and creative text. Transform ideas into compelling content with AI assistance for various writing needs.
 
 ## Key Features

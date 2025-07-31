@@ -7,9 +7,6 @@ tool_name: "MYOB"
 deployment_status: "deployed"
 image: "/images/tools/myob-placeholder.jpg"
 ---
-
-# MYOB
-
 MYOB is a leading accounting software designed specifically for Australian and New Zealand businesses, providing localized financial management and compliance features.
 
 ## Key Features

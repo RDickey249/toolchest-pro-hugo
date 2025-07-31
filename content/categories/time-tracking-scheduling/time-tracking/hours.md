@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/hours-placeholder.jpg"
 external_link: "https://www.hourstimetracking.com"
 ---
-
-# Hours
-
 Hours is the beautifully designed time tracking app that makes logging time feel natural and effortless. Track time on projects with elegant visual organization, comprehensive reporting, and seamless team collaboration.
 
 Used by creative professionals and consulting teams worldwide, Hours combines outstanding user experience with professional time management features. Organize projects visually, generate detailed reports, manage client billing, and sync across all devices with intuitive design.

@@ -7,9 +7,6 @@ tool_name: "Jenkins"
 deployment_status: "deployed"
 image: "/images/tools/jenkins-placeholder.jpg"
 ---
-
-# Jenkins
-
 Jenkins is the world's leading open-source automation server enabling continuous integration and deployment. Extensible architecture with 1,800+ plugins integrates with virtually every DevOps tool for flexible automation workflows.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Cloudinary API"
 deployment_status: "deployed"
 image: "/images/tools/cloudinary-api-placeholder.jpg"
 ---
-
-# Cloudinary API
-
 Cloudinary API provides cloud-based image and video management with automatic optimization, transformation, and delivery across global content delivery networks.
 
 ## Key Features

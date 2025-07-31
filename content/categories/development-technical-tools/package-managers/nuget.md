@@ -7,9 +7,6 @@ tool_name: "NuGet"
 deployment_status: "deployed"
 image: "/images/tools/nuget-placeholder.jpg"
 ---
-
-# NuGet
-
 NuGet is the package manager for .NET that provides comprehensive library distribution and dependency management for the .NET ecosystem.
 
 ## Key Features

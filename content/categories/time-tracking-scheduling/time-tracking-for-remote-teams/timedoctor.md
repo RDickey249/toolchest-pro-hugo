@@ -7,9 +7,6 @@ tool_name: "Timedoctor"
 deployment_status: "deployed"
 image: "/images/tools/timedoctor-placeholder.jpg"
 ---
-
-# Timedoctor
-
 Time Doctor is the remote team monitoring platform that combines time tracking with screenshot verification and distraction alerts to ensure productivity and accountability for distributed teams.
 
 Used by 83,000+ businesses managing remote workers, Time Doctor offers automatic screenshot capture, website/app monitoring, productivity scoring, and detailed reporting. Monitor remote team performance with visual verification and focus management tools for enhanced productivity oversight.

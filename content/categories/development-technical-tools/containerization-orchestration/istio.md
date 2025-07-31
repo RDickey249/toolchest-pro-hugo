@@ -7,9 +7,6 @@ tool_name: "Istio"
 deployment_status: "deployed"
 image: "/images/tools/istio-placeholder.jpg"
 ---
-
-# Istio
-
 Istio is a service mesh platform that provides security, observability, and traffic management for microservices with zero-trust architecture.
 
 ## Key Features

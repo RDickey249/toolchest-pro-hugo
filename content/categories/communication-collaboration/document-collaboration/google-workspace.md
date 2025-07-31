@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Google Workspace
-
 Google Workspace is the cloud-based productivity suite that transformed how teams collaborate on documents, spreadsheets, and presentations in real-time.
 
 Formerly G Suite, Google Workspace combines the power of Gmail, Drive, Docs, Sheets, Slides, and Meet into an integrated platform for modern work.

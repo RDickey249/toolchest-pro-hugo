@@ -7,9 +7,6 @@ tool_name: "VWO"
 deployment_status: "deployed"
 image: "/images/tools/vwo-placeholder.jpg"
 ---
-
-# VWO
-
 VWO is an all-in-one platform for website optimization. Run A/B tests, analyze user behavior, and personalize experiences to increase conversions and revenue.
 
 ## Key Features

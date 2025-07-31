@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/pixlr-placeholder.jpg"
 external_link: "https://pixlr.com"
 ---
-
-# Pixlr
-
 Pixlr is a browser-based photo editor that provides powerful image editing tools accessible instantly online. Edit photos, apply filters, and create graphics without downloading software.
 
 ## Key Features

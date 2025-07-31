@@ -7,9 +7,6 @@ tool_name: "RubyGems"
 deployment_status: "deployed"
 image: "/images/tools/rubygems-placeholder.jpg"
 ---
-
-# RubyGems
-
 RubyGems is Ruby's package manager that provides comprehensive gem distribution and dependency management for the Ruby ecosystem.
 
 ## Key Features

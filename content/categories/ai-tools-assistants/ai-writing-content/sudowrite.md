@@ -7,9 +7,6 @@ tool_name: "Sudowrite"
 deployment_status: "deployed"
 image: "/images/tools/sudowrite-placeholder.jpg"
 ---
-
-# Sudowrite
-
 Sudowrite transforms creative writing by providing AI assistance specifically designed for novelists, screenwriters, and storytellers who want to enhance their craft without losing their unique voice. This specialized platform understands the nuances of narrative structure, character development, and creative expression, offering intelligent suggestions that inspire rather than replace human creativity. Sudowrite's unique approach treats AI as a creative collaborator rather than a content generator, helping writers overcome blocks, explore new directions, and refine their prose while maintaining complete creative control. The platform excels at understanding story context, offering relevant suggestions for plot development, character motivations, and descriptive language that fits naturally within existing narratives. Whether you're struggling with writer's block, seeking fresh perspectives on character development, or wanting to polish your prose style, Sudowrite provides the creative partnership that helps stories reach their full potential. Its focus on long-form fiction and creative writing makes it invaluable for authors working on novels, short stories, and scripts. For writers who want to leverage AI technology while preserving their artistic integrity and creative vision, Sudowrite offers the perfect balance of assistance and autonomy.
 
 ## Key Features

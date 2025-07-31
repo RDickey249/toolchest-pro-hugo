@@ -7,9 +7,6 @@ tool_name: "Tabnine"
 deployment_status: "deployed"
 image: "/images/tools/tabnine-placeholder.jpg"
 ---
-
-# Tabnine
-
 Tabnine is an AI-powered code completion tool that learns from your coding patterns and team practices. It offers flexible deployment options including cloud, on-premises, and hybrid solutions, making it ideal for organizations with strict data protection requirements.
 
 The platform adapts to your specific coding style and project conventions, delivering context-aware suggestions that feel natural rather than generic. Unlike many AI coding tools, Tabnine prioritizes privacy and security, allowing enterprises to keep sensitive code within their infrastructure while still benefiting from AI assistance.

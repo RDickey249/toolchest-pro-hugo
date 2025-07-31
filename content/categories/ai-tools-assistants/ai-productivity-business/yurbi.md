@@ -7,9 +7,6 @@ tool_name: "Yurbi"
 deployment_status: "deployed"
 image: "/images/tools/yurbi-placeholder.jpg"
 ---
-
-# Yurbi
-
 Yurbi is a self-service business intelligence platform that makes data analysis accessible to business users without requiring technical expertise.
 
 Designed for organizations that need quick answers from their data, Yurbi provides drag-and-drop report building, interactive dashboards, and automated visualizations. The platform connects to virtually any data source while maintaining a simple user experience that lets analysts, managers, and executives create reports independently.

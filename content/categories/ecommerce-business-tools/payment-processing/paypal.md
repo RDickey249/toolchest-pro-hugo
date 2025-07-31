@@ -7,9 +7,6 @@ tool_name: "PayPal"
 deployment_status: "deployed"
 image: "/images/tools/paypal-placeholder.jpg"
 ---
-
-# PayPal
-
 PayPal is the world's leading digital payment platform that enables secure global transactions with comprehensive buyer and seller protection.
 
 ## Key Features

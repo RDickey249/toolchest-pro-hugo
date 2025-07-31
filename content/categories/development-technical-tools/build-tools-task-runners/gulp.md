@@ -7,9 +7,6 @@ tool_name: "Gulp"
 deployment_status: "deployed"
 image: "/images/tools/gulp-placeholder.jpg"
 ---
-
-# Gulp
-
 Gulp is a streaming build system and task runner that automates development tasks using JavaScript code with efficient pipe-based processing.
 
 ## Key Features

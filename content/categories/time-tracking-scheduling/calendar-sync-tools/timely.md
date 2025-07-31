@@ -2,9 +2,6 @@
 title: "Timely"
 external_link: "https://timelyapp.com"
 ---
-
-# Timely
-
 Timely's calendar sync feature automatically converts calendar events into accurate time entries using AI-powered analysis. Instead of manually tracking time, it intelligently categorizes scheduled meetings, calls, and work blocks into proper project time allocation.
 
 The AI learns from your calendar patterns to automatically assign events to the correct projects and categories. This creates seamless coordination between your planned schedule and actual time tracking without any manual intervention.

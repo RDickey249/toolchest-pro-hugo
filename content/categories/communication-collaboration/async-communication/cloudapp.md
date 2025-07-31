@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# CloudApp
-
 CloudApp is a visual communication platform that transforms how teams share information by enabling instant capture and sharing of screenshots, GIFs, and screen recordings. The tool eliminates the friction of explaining complex issues by letting you show exactly what you mean in seconds.
 
 Built for remote teams, customer support, and anyone who needs to communicate visually, CloudApp automatically uploads your captures and generates shareable links instantly. Its drag-and-drop simplicity makes visual communication as easy as taking a screenshot.

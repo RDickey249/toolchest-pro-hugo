@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Obsidian
-
 Obsidian transforms note-taking into knowledge building through bidirectional linking, allowing you to create an interconnected web of thoughts that reveals hidden connections and insights.
 
 Built for researchers, writers, and knowledge workers who want to build a "second brain," Obsidian stores everything locally while providing powerful tools for connecting ideas.

@@ -7,9 +7,6 @@ tool_name: "2Checkout"
 deployment_status: "deployed"
 image: "/images/tools/2checkout-placeholder.jpg"
 ---
-
-# 2Checkout
-
 2Checkout (now Verifone) is a global payment processing platform that enables worldwide commerce with comprehensive international payment methods and local market expertise.
 
 ## Key Features

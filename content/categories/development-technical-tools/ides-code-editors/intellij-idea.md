@@ -7,9 +7,6 @@ tool_name: "IntelliJ IDEA"
 deployment_status: "deployed"
 image: "/images/tools/intellij-idea-placeholder.jpg"
 ---
-
-# IntelliJ IDEA
-
 IntelliJ IDEA is JetBrains' flagship IDE for Java and JVM languages, offering intelligent code assistance, powerful refactoring, and comprehensive enterprise development tools.
 
 ## Key Features

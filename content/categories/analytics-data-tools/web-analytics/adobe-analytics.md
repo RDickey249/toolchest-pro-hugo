@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]
 ---
-
-# Adobe Analytics
-
 Adobe Analytics powers enterprise digital intelligence through sophisticated segmentation and real-time analysis capabilities that reveal complex customer journeys across all touchpoints. The platform handles massive data volumes while providing granular insights for large-scale digital properties.
 
 Advanced features include predictive analytics, anomaly detection, and attribution modeling that help enterprises understand customer behavior across channels. The workspace environment enables analysts to build custom reports and dashboards that adapt to specific business needs.

@@ -7,9 +7,6 @@ tool_name: "Paw"
 deployment_status: "deployed"
 image: "/images/tools/paw-placeholder.jpg"
 ---
-
-# Paw
-
 Paw is a sophisticated API testing tool designed exclusively for macOS with native Mac design and powerful functionality. Dynamic request chaining and beautiful interface make API testing intuitive and efficient.
 
 ## Key Features

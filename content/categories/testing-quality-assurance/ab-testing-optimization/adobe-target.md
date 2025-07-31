@@ -7,9 +7,6 @@ tool_name: "Adobe Target"
 deployment_status: "deployed"
 image: "/images/tools/adobe-target-placeholder.jpg"
 ---
-
-# Adobe Target
-
 Adobe Target is an enterprise personalization and A/B testing platform that uses AI to deliver individualized experiences at scale. Auto-targeting automatically identifies the best experiences for each visitor using machine learning and behavior analysis.
 
 ## Key Features

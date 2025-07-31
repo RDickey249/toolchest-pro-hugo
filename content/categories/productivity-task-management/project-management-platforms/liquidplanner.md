@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]
 ---
-
-# LiquidPlanner
-
 LiquidPlanner is the project management tool that finally makes project schedules realistic. Instead of fixed deadlines that everyone knows are wrong, LiquidPlanner uses intelligent scheduling that adapts to reality - accounting for priorities, interruptions, and resource constraints.
 
 Trusted by companies like Fitbit, Zynga, and Plantronics, LiquidPlanner solves the biggest problem in project management: schedules that break the moment something changes. Its priority-driven approach means projects get done in the right order, on time.

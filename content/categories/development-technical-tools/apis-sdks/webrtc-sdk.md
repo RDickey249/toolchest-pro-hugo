@@ -7,9 +7,6 @@ tool_name: "WebRTC SDK"
 deployment_status: "deployed"
 image: "/images/tools/webrtc-sdk-placeholder.jpg"
 ---
-
-# WebRTC SDK
-
 WebRTC SDK enables real-time peer-to-peer communication for audio, video, and data transmission directly between browsers without plugins or additional software.
 
 ## Key Features

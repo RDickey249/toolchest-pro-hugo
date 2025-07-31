@@ -11,9 +11,6 @@ categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
 external_link: "https://www.outsystems.com"
 ---
-
-# OutSystems
-
 OutSystems is the high-performance low-code platform that lets you build enterprise-grade applications incredibly fast. Unlike other low-code tools, OutSystems generates standard, optimized code that runs anywhere.
 
 Developers love OutSystems because it doesn't box them in. You can extend anything with custom code, integrate with any system, and deploy to any cloud or on-premises infrastructure. It's low-code without the limitations.

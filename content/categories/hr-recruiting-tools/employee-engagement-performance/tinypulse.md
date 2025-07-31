@@ -7,9 +7,6 @@ tool_name: "TINYpulse"
 deployment_status: "deployed"
 image: "/images/tools/tinypulse-placeholder.jpg"
 ---
-
-# TINYpulse
-
 TINYpulse is a simple employee feedback tool that enables organizations to collect regular employee feedback and measure engagement. Weekly pulse surveys and anonymous feedback provide continuous insights into employee satisfaction.
 
 ## Key Features

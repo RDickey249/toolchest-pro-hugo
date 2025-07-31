@@ -7,9 +7,6 @@ tool_name: "MonkeyLearn"
 deployment_status: "deployed"
 image: "/images/tools/monkeylearn-placeholder.jpg"
 ---
-
-# MonkeyLearn
-
 MonkeyLearn is a text analysis platform that uses machine learning to analyze sentiment, extract topics, and classify content from unstructured text data.
 
 Designed for business users who need to understand customer feedback, social media mentions, and survey responses, MonkeyLearn provides pre-trained models and custom AI solutions. The platform processes thousands of text samples instantly, providing real-time analytics dashboards that track sentiment changes and identify emerging topics.

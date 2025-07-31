@@ -7,9 +7,6 @@ tool_name: "Adobe Photoshop (AI Features)"
 deployment_status: "deployed"
 image: "/images/tools/adobe-photoshop-ai-placeholder.jpg"
 ---
-
-# Adobe Photoshop (AI Features)
-
 Adobe Photoshop's AI features revolutionize professional image editing by integrating cutting-edge artificial intelligence directly into the world's most powerful creative software, enabling designers and photographers to accomplish complex tasks through simple commands while maintaining the precision and control that creative professionals demand. These intelligent capabilities, powered by Adobe's Sensei AI platform, transform time-consuming manual processes like subject selection, sky replacement, and content-aware fill into instant, professional-quality results that seamlessly integrate with traditional Photoshop workflows. Photoshop's AI strength lies in its ability to enhance rather than replace human creativity, providing intelligent assistance for technical tasks while preserving the artistic control and sophisticated tools that have made it the industry standard for over three decades. The platform excels at serving professional photographers, graphic designers, digital artists, and creative agencies who need the most advanced editing capabilities available, combining AI automation with unparalleled manual control for workflows that demand both efficiency and perfection. Whether you're retouching portraits, compositing complex scenes, or creating digital art, Photoshop's AI features provide the intelligent assistance that accelerates professional workflows while maintaining the creative flexibility that defines industry-leading visual content. Its integration of AI innovation with traditional editing mastery makes it indispensable for creative professionals who refuse to compromise between cutting-edge technology and artistic control.
 
 ## Key Features

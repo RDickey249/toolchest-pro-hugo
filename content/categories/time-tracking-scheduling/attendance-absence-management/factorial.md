@@ -10,9 +10,6 @@ tags: ["time-tracking-scheduling", "attendance-absence-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Attendance & Absence Management"]
 ---
-
-# Factorial
-
 Factorial is the all-in-one HR platform that helps growing businesses manage their entire employee lifecycle. From onboarding to performance reviews, time tracking to payroll, Factorial centralizes everything HR teams need in one intuitive platform.
 
 Used by over 10,000 companies across Europe and Latin America, Factorial eliminates the need for multiple HR tools by providing a comprehensive solution that scales with your business.

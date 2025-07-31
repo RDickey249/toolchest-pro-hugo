@@ -7,9 +7,6 @@ tool_name: "Figma API"
 deployment_status: "deployed"
 image: "/images/tools/figma-api-placeholder.jpg"
 ---
-
-# Figma API
-
 Figma API provides programmatic access to design files, enabling developers to extract assets, retrieve specifications, and automate design-to-development workflows.
 
 ## Key Features

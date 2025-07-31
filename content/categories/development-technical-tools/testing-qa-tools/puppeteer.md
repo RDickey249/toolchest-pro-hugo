@@ -7,9 +7,6 @@ tool_name: "Puppeteer"
 deployment_status: "deployed"
 image: "/images/tools/puppeteer-placeholder.jpg"
 ---
-
-# Puppeteer
-
 Puppeteer is a Node.js library that provides a high-level API to control headless Chrome or Chromium for browser automation, testing, and web scraping.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Stylus"
 deployment_status: "deployed"
 image: "/images/tools/stylus-placeholder.jpg"
 ---
-
-# Stylus
-
 Stylus is an expressive CSS preprocessor with flexible syntax options, offering optional punctuation and powerful programming features for dynamic stylesheet development.
 
 ## Key Features

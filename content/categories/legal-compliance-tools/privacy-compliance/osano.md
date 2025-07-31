@@ -7,9 +7,6 @@ tool_name: "Osano"
 deployment_status: "deployed"
 image: "/images/tools/osano-placeholder.jpg"
 ---
-
-# Osano
-
 Osano is a data privacy platform that helps organizations manage privacy compliance across multiple regulations with automated monitoring and practical management tools.
 
 ## Key Features

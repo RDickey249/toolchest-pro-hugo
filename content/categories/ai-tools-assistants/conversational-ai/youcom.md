@@ -16,9 +16,6 @@ breadcrumbs:
     url: "/categories/ai-tools-assistants/conversational-ai/"
   - name: "You.com"
 ---
-
-# You.com
-
 You.com reimagines search by combining AI-powered responses with real-time web results, delivering instant answers while maintaining privacy and providing transparent source citations. This innovative search platform goes beyond traditional search engines by understanding natural language queries and generating comprehensive responses that synthesize information from multiple sources.
 
 ## Get Started with You.com

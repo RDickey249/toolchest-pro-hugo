@@ -7,9 +7,6 @@ tool_name: "Vultr"
 deployment_status: "deployed"
 image: "/images/tools/vultr-placeholder.jpg"
 ---
-
-# Vultr
-
 Vultr is a performance-focused cloud computing platform with high-frequency compute instances, NVMe SSD storage, and global network optimized for speed and reliability.
 
 ## Key Features

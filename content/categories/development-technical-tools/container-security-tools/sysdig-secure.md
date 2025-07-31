@@ -7,9 +7,6 @@ tool_name: "Sysdig Secure"
 deployment_status: "deployed"
 image: "/images/tools/sysdig-secure-placeholder.jpg"
 ---
-
-# Sysdig Secure
-
 Sysdig Secure is a container security platform that provides runtime threat detection, vulnerability management, and behavioral analysis for cloud-native environments.
 
 ## Key Features

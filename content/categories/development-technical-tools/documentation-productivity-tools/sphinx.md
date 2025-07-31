@@ -7,9 +7,6 @@ tool_name: "Sphinx"
 deployment_status: "deployed"
 image: "/images/tools/sphinx-placeholder.jpg"
 ---
-
-# Sphinx
-
 Sphinx is a powerful documentation generator that creates professional technical documentation from reStructuredText files with automatic API documentation and multiple output formats.
 
 ## Key Features

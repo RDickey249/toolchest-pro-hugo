@@ -7,9 +7,6 @@ tool_name: "Writesonic"
 deployment_status: "deployed"
 image: "/images/tools/writesonic-placeholder.jpg"
 ---
-
-# Writesonic
-
 Writesonic is the AI-powered content creation platform that combines GPT-4 writing capabilities with SEO optimization, fact-checking, and collaborative editing tools for businesses scaling their content operations.
 
 Used by growing businesses and marketing teams worldwide, Writesonic offers Sonic Editor collaboration, 100+ templates, brand voice training, and analytics dashboard. Create high-quality content at scale with built-in SEO tools and performance tracking.

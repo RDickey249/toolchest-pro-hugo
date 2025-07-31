@@ -7,9 +7,6 @@ tool_name: "Resilio Sync"
 deployment_status: "deployed"
 image: "/images/tools/resilio-sync-placeholder.jpg"
 ---
-
-# Resilio Sync
-
 Resilio Sync is a peer-to-peer file synchronization tool that syncs files directly between devices without using cloud storage or third-party servers.
 
 ## Key Features

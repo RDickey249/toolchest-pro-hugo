@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# Vimeo Record
-
 Vimeo Record makes it easy to create professional video messages directly from your browser. Capture your screen, webcam, or both to communicate more effectively than text or static images ever could.
 
 Built on Vimeo's world-class video infrastructure, Vimeo Record ensures your videos look professional and load quickly for viewers anywhere. It's the upgrade from amateur screen recordings to polished video communication.

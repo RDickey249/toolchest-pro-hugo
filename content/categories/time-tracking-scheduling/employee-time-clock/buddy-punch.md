@@ -7,9 +7,6 @@ tool_name: "Buddy Punch"
 deployment_status: "deployed"
 image: "/images/tools/buddy-punch-placeholder.jpg"
 ---
-
-# Buddy Punch
-
 Buddy Punch is the employee time clock system that prevents time theft with GPS tracking and photo verification. Instead of trusting employees to clock in honestly, Buddy Punch verifies their location and identity with every punch.
 
 Used by thousands of businesses with remote and field workers, Buddy Punch eliminates buddy punching, fake clock-ins, and time theft. Employees can't cheat the system when GPS and photos verify every time entry.

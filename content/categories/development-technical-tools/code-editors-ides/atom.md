@@ -7,9 +7,6 @@ tool_name: "Atom"
 deployment_status: "deployed"
 image: "/images/tools/atom-placeholder.jpg"
 ---
-
-# Atom
-
 Atom is a hackable text editor with extensive customization capabilities, built-in Git integration, and a community-driven package ecosystem for personalized development environments.
 
 ## Key Features

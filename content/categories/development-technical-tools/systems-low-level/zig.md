@@ -7,9 +7,6 @@ tool_name: "Zig"
 deployment_status: "deployed"
 image: "/images/tools/zig-placeholder.jpg"
 ---
-
-# Zig
-
 Zig is a next-generation systems programming language that addresses C's shortcomings while maintaining simplicity and performance with improved safety and debugging.
 
 ## Key Features

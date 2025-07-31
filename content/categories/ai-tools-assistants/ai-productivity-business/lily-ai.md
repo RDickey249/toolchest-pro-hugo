@@ -7,9 +7,6 @@ tool_name: "Lily AI"
 deployment_status: "deployed"
 image: "/images/tools/lily-ai-placeholder.jpg"
 ---
-
-# Lily AI
-
 Lily AI is the e-commerce product intelligence platform that automatically generates detailed product attributes and tags from images and descriptions to improve search accuracy and personalization for fashion and lifestyle retailers.
 
 Used by fashion retailers and home goods stores with large catalogs, Lily AI offers automated product tagging, visual AI analysis, semantic search enhancement, and personalization data. Transform basic product listings into rich, searchable inventory with hundreds of detailed attributes.

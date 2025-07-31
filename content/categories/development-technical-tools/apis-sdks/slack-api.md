@@ -7,9 +7,6 @@ tool_name: "Slack API"
 deployment_status: "deployed"
 image: "/images/tools/slack-api-placeholder.jpg"
 ---
-
-# Slack API
-
 Slack API provides comprehensive workplace automation and integration capabilities, enabling developers to build sophisticated bots, workflows, and productivity tools for team collaboration.
 
 ## Key Features

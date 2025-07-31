@@ -11,9 +11,6 @@ tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
 ---
-
-# Slack
-
 Slack is the leading team communication platform that has revolutionized how modern workplaces collaborate and stay connected.
 
 Used by over 18 million people worldwide, Slack transforms chaotic email chains into organized, searchable conversations that keep teams aligned and productive.

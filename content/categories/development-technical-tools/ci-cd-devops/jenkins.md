@@ -7,9 +7,6 @@ tool_name: "Jenkins"
 deployment_status: "deployed"
 image: "/images/tools/jenkins-placeholder.jpg"
 ---
-
-# Jenkins
-
 Jenkins is a popular open-source automation server for building, testing, and deploying applications with extensive plugin ecosystem and pipeline-as-code capabilities.
 
 ## Key Features

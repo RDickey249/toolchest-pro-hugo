@@ -7,9 +7,6 @@ tool_name: "Firebase Hosting"
 deployment_status: "deployed"
 image: "/images/tools/firebase-hosting-placeholder.jpg"
 ---
-
-# Firebase Hosting
-
 Firebase Hosting is Google's fast and secure web hosting platform with global CDN distribution, automatic SSL, and seamless integration with the Firebase ecosystem.
 
 ## Key Features

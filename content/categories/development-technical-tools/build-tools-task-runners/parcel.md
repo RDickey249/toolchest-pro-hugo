@@ -7,9 +7,6 @@ tool_name: "Parcel"
 deployment_status: "deployed"
 image: "/images/tools/parcel-placeholder.jpg"
 ---
-
-# Parcel
-
 Parcel is a zero-configuration web application bundler that automatically handles JavaScript transpilation, CSS preprocessing, and asset optimization with fast performance and hot module replacement.
 
 ## Key Features

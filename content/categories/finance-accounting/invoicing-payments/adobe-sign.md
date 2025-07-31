@@ -7,9 +7,6 @@ tool_name: "Adobe-sign"
 deployment_status: "deployed"
 image: "/images/tools/adobe-sign-placeholder.jpg"
 ---
-
-# Adobe-sign
-
 Adobe Sign is a comprehensive electronic signature solution that enables secure, legally binding digital document signing integrated with Adobe's document workflow ecosystem.
 
 ## Key Features

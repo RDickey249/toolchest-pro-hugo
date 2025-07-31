@@ -7,9 +7,6 @@ tool_name: "Krisp"
 deployment_status: "deployed"
 image: "/images/tools/krisp-placeholder.jpg"
 ---
-
-# Krisp
-
 Krisp is an AI-powered noise cancellation tool that eliminates background noise, echo, and distractions in real-time during calls and recordings. It works with any communication app including Zoom, Teams, Discord, and recording software to deliver crystal-clear audio regardless of your environment.
 
 What makes Krisp powerful is its real-time processing that distinguishes between human voice and environmental noise, preserving natural speech while removing everything from barking dogs to construction sounds. Unlike post-production tools, Krisp works invisibly in the background without requiring location changes or setup.

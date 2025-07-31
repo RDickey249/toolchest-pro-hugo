@@ -7,9 +7,6 @@ tool_name: "Prosewriting"
 deployment_status: "deployed"
 image: "/images/tools/prosewriting-placeholder.jpg"
 ---
-
-# Prosewriting
-
 Prose Writing is a specialized writing tool focused on improving prose style and narrative quality. Advanced analysis helps writers develop better storytelling techniques and engaging prose.
 
 ## Key Features

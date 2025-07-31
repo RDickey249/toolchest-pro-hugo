@@ -7,9 +7,6 @@ tool_name: "C++"
 deployment_status: "deployed"
 image: "/images/tools/cpp-placeholder.jpg"
 ---
-
-# C++
-
 C++ is a multi-paradigm programming language that extends C with object-oriented features, templates, and modern constructs for high-performance applications.
 
 ## Key Features

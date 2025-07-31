@@ -7,9 +7,6 @@ tool_name: "Spinnaker"
 deployment_status: "deployed"
 image: "/images/tools/spinnaker-placeholder.jpg"
 ---
-
-# Spinnaker
-
 Spinnaker is a multi-cloud continuous delivery platform that provides advanced deployment orchestration with sophisticated deployment strategies and safety mechanisms.
 
 ## Key Features

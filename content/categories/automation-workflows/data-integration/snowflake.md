@@ -10,9 +10,6 @@ tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]
 ---
-
-# Snowflake
-
 Snowflake is the cloud data platform that's built for the cloud from the ground up. Unlike traditional data warehouses that were retrofitted for the cloud, Snowflake separates compute from storage, enabling instant scaling and pay-per-use pricing.
 
 Used by companies like Capital One, Adobe, and DoorDash, Snowflake has become the data platform of choice for organizations that need to scale their analytics without the complexity of traditional database management.

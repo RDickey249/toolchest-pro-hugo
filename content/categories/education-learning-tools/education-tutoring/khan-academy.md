@@ -7,9 +7,6 @@ tool_name: "Khan-academy"
 deployment_status: "deployed"
 image: "/images/tools/khan-academy-placeholder.jpg"
 ---
-
-# Khan-academy
-
 Khan Academy is a free online educational platform providing comprehensive learning resources across math, science, arts, and more. Personalized learning and practice exercises help students master subjects at their own pace.
 
 ## Key Features

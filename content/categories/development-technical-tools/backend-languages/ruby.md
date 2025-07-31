@@ -7,9 +7,6 @@ tool_name: "Ruby"
 deployment_status: "deployed"
 image: "/images/tools/ruby-placeholder.jpg"
 ---
-
-# Ruby
-
 Ruby is a dynamic, object-oriented programming language focused on programmer happiness through elegant, expressive syntax that reads like natural language and emphasizes developer productivity.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Egnyte"
 deployment_status: "deployed"
 image: "/images/tools/egnyte-placeholder.jpg"
 ---
-
-# Egnyte
-
 Egnyte is a hybrid cloud storage platform that combines on-premises and cloud storage capabilities with intelligent caching for optimized performance across distributed organizations.
 
 ## Key Features

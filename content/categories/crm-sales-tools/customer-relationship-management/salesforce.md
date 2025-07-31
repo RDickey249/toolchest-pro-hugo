@@ -7,9 +7,6 @@ tool_name: "Salesforce"
 deployment_status: "deployed"
 image: "/images/tools/salesforce-placeholder.jpg"
 ---
-
-# Salesforce
-
 Salesforce is the world's leading CRM platform, providing comprehensive cloud-based solutions for sales, service, marketing, and commerce with enterprise-grade scalability and customization.
 
 ## Key Features

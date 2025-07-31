@@ -7,9 +7,6 @@ tool_name: "Namely"
 deployment_status: "deployed"
 image: "/images/tools/namely-placeholder.jpg"
 ---
-
-# Namely
-
 Namely is a mid-market HR platform providing integrated hiring, payroll, and employee management for growing organizations. Balanced functionality bridges the gap between small business simplicity and enterprise complexity.
 
 ## Key Features

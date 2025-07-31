@@ -7,9 +7,6 @@ tool_name: "Paypal"
 deployment_status: "deployed"
 image: "/images/tools/paypal-placeholder.jpg"
 ---
-
-# Paypal
-
 PayPal is a global payment platform that enables individuals and businesses to send, receive, and manage money online with trusted security and worldwide acceptance.
 
 ## Key Features

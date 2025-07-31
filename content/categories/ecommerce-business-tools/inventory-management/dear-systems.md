@@ -7,9 +7,6 @@ tool_name: "DEAR Systems"
 deployment_status: "deployed"
 image: "/images/tools/dear-systems-placeholder.jpg"
 ---
-
-# DEAR Systems
-
 DEAR Systems is a comprehensive cloud-based inventory management platform that integrates manufacturing, purchasing, and sales operations for product-based businesses.
 
 ## Key Features

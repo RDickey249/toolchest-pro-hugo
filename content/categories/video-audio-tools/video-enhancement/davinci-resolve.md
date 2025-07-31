@@ -7,9 +7,6 @@ tool_name: "DaVinci Resolve"
 deployment_status: "deployed"
 image: "/images/tools/davinci-resolve-placeholder.jpg"
 ---
-
-# DaVinci Resolve
-
 DaVinci Resolve is the world's only solution that combines editing, color correction, visual effects, motion graphics, and audio post production all in one software tool. Hollywood uses it for blockbuster films, and it's free.
 
 ## Key Features

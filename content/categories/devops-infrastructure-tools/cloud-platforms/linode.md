@@ -7,9 +7,6 @@ tool_name: "Linode"
 deployment_status: "deployed"
 image: "/images/tools/linode-placeholder.jpg"
 ---
-
-# Linode
-
 Linode is a Linux-focused cloud hosting provider known for high-performance infrastructure, competitive pricing, and exceptional customer support. Now part of Akamai's global network.
 
 ## Key Features

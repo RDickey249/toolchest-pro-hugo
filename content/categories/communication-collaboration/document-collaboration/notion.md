@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Notion
-
 Notion is the all-in-one workspace that combines notes, documents, databases, and project management in a single, flexible platform.
 
 With its modular block-based approach, Notion adapts to any workflow—from personal note-taking to enterprise knowledge management.

@@ -7,9 +7,6 @@ tool_name: "Scikit-learn"
 deployment_status: "deployed"
 image: "/images/tools/scikit-learn-placeholder.jpg"
 ---
-
-# Scikit-learn
-
 Scikit-learn is Python's premier machine learning library, providing simple and efficient algorithms for classification, regression, clustering, and dimensionality reduction.
 
 ## Key Features

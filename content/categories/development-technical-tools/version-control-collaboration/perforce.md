@@ -7,9 +7,6 @@ tool_name: "Perforce"
 deployment_status: "deployed"
 image: "/images/tools/perforce-placeholder.jpg"
 ---
-
-# Perforce
-
 Perforce is an enterprise-grade version control system designed for large-scale development teams, offering high-performance architecture and comprehensive asset management.
 
 ## Key Features

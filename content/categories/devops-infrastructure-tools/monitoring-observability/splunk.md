@@ -7,9 +7,6 @@ tool_name: "Splunk"
 deployment_status: "deployed"
 image: "/images/tools/splunk-placeholder.jpg"
 ---
-
-# Splunk
-
 Splunk is a comprehensive platform for searching, monitoring, and analyzing machine-generated data to deliver operational intelligence and security insights.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "First Advantage"
 deployment_status: "deployed"
 image: "/images/tools/first-advantage-placeholder.jpg"
 ---
-
-# First Advantage
-
 First Advantage is a comprehensive background screening platform providing thorough employment verification and risk management. Advanced screening technology and expert services support safe hiring decisions across all industries.
 
 ## Key Features

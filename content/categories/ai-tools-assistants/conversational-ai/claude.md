@@ -10,9 +10,6 @@ tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]
 ---
-
-# Claude
-
 Claude is Anthropic's AI assistant built on principles of being helpful, harmless, and honest—delivering powerful AI capabilities with thoughtful safety measures.
 
 Developed by former OpenAI researchers, Claude offers a more nuanced, context-aware conversational experience that excels at complex reasoning and analysis.

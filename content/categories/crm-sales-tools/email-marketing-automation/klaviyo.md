@@ -7,9 +7,6 @@ tool_name: "Klaviyo"
 deployment_status: "deployed"
 image: "/images/tools/klaviyo-placeholder.jpg"
 ---
-
-# Klaviyo
-
 Klaviyo is an ecommerce email marketing platform that enables online retailers to deliver data-driven, personalized campaigns based on customer purchase behavior.
 
 ## Key Features

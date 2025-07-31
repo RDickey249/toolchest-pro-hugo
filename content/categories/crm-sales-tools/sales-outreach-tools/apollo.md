@@ -7,9 +7,6 @@ tool_name: "Apollo"
 deployment_status: "deployed"
 image: "/images/tools/apollo-placeholder.jpg"
 ---
-
-# Apollo
-
 Apollo is your end-to-end sales platform. Find, engage, and close your ideal buyers with the most accurate B2B database and powerful sales engagement tools.
 
 ## Key Features

@@ -12,9 +12,6 @@ subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true
 ---
-
-# ConvertKit
-
 ConvertKit is the email marketing platform built specifically for creators who want to turn their audience into a sustainable business.
 
 Unlike generic email tools, ConvertKit understands the unique needs of bloggers, podcasters, YouTubers, and online course creators.

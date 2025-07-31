@@ -7,9 +7,6 @@ tool_name: "Datacamp"
 deployment_status: "deployed"
 image: "/images/tools/datacamp-placeholder.jpg"
 ---
-
-# Datacamp
-
 DataCamp is an interactive learning platform specializing in data science and analytics education. Learn Python, R, SQL, and data skills through hands-on coding exercises and real-world projects.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Clojure"
 deployment_status: "deployed"
 image: "/images/tools/clojure-placeholder.jpg"
 ---
-
-# Clojure
-
 Clojure is a dynamic, functional Lisp language that runs on the JVM, emphasizing immutable data structures, powerful concurrency primitives, and elegant solutions to parallel programming challenges.
 
 ## Key Features

@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/hubstaff-placeholder.jpg"
 external_link: "https://hubstaff.com"
 ---
-
-# Hubstaff
-
 Hubstaff is the time tracking and employee monitoring platform that provides complete visibility into how remote and field teams spend their work time. With GPS tracking, screenshot monitoring, and productivity analytics, it helps managers ensure accountability while teams stay productive.
 
 Used by companies like Groupon, Ring, and Instacart, Hubstaff combines time tracking with workforce monitoring to give managers the insights they need to optimize team performance. Track time automatically, monitor productivity, and get detailed reports on team activity and project progress.

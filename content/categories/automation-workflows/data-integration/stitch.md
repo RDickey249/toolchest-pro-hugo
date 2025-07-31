@@ -10,9 +10,6 @@ tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]
 ---
-
-# Stitch
-
 Stitch makes data integration simple for growing businesses. Connect all your data sources to your warehouse in minutes, not months - no engineering team required.
 
 While enterprise ETL tools require teams of specialists, Stitch is designed for everyone. Marketing teams use it to centralize campaign data, sales teams to unify CRM insights, and analysts to build comprehensive reporting dashboards.

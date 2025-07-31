@@ -7,9 +7,6 @@ tool_name: "Treehouse"
 deployment_status: "deployed"
 image: "/images/tools/treehouse-placeholder.jpg"
 ---
-
-# Treehouse
-
 Treehouse is the tech career platform that teaches web development, design, and business skills through structured learning tracks. Build a portfolio of projects while learning HTML, CSS, JavaScript, Python, and more.
 
 Used by aspiring developers and career changers worldwide, Treehouse offers beginner-friendly courses with interactive coding challenges. Follow curated learning tracks, build real projects, and get career guidance to land your first tech job with job-ready skills.

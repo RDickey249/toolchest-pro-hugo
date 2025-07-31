@@ -11,9 +11,6 @@ tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
 ---
-
-# NestJS
-
 NestJS is a progressive Node.js framework that uses TypeScript by default and combines object-oriented, functional, and reactive programming paradigms with Angular-inspired architecture.
 
 ## Key Features

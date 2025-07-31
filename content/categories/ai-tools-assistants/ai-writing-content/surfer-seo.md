@@ -7,9 +7,6 @@ tool_name: "Surfer SEO"
 deployment_status: "deployed"
 image: "/images/tools/surfer-seo-placeholder.jpg"
 ---
-
-# Surfer SEO
-
 Surfer SEO is the data-driven content optimization platform that combines real-time SERP analysis with AI-powered writing assistance to help content creators consistently outrank competitors in search results.
 
 Used by content marketers and SEO professionals worldwide, Surfer SEO offers content editor scoring, competitor analysis, keyword research, and AI writing assistance. Transform content into ranking powerhouses with data-driven recommendations and competitive intelligence.

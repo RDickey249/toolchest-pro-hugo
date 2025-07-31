@@ -7,9 +7,6 @@ tool_name: "Microsoft Graph API"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-graph-api-placeholder.jpg"
 ---
-
-# Microsoft Graph API
-
 Microsoft Graph API provides unified access to Microsoft 365 and Azure services, enabling developers to integrate users, email, calendar, files, and organizational data.
 
 ## Key Features

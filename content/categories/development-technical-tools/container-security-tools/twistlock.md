@@ -7,9 +7,6 @@ tool_name: "Twistlock (Prisma Cloud)"
 deployment_status: "deployed"
 image: "/images/tools/twistlock-placeholder.jpg"
 ---
-
-# Twistlock (Prisma Cloud)
-
 Twistlock (now Prisma Cloud) is a comprehensive container security platform that provides full lifecycle protection from build to runtime with cloud-native integration.
 
 ## Key Features

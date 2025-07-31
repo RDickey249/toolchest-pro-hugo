@@ -7,9 +7,6 @@ tool_name: "Cloudflare"
 deployment_status: "deployed"
 image: "/images/tools/cloudflare-placeholder.jpg"
 ---
-
-# Cloudflare
-
 Cloudflare is a global CDN and security platform that provides web performance optimization, DDoS protection, and edge computing services.
 
 ## Key Features

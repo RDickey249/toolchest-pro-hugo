@@ -7,9 +7,6 @@ tool_name: "Performance Testing"
 deployment_status: "deployed"
 image: "/images/tools/performance-testing-placeholder.jpg"
 ---
-
-# Performance Testing
-
 Performance testing validates application behavior under various load conditions to ensure systems meet performance requirements and provide acceptable user experiences.
 
 ## Key Features

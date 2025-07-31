@@ -7,9 +7,6 @@ tool_name: "pnpm"
 deployment_status: "deployed"
 image: "/images/tools/pnpm-placeholder.jpg"
 ---
-
-# pnpm
-
 pnpm is an efficient JavaScript package manager that uses symlinks and hard links to create a content-addressable storage system, dramatically reducing disk space usage and installation times.
 
 ## Key Features

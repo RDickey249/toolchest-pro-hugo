@@ -7,9 +7,6 @@ tool_name: "1Password"
 deployment_status: "deployed"
 image: "/images/tools/1password-placeholder.jpg"
 ---
-
-# 1Password
-
 1Password is the password manager trusted by over 100,000 businesses and millions of individuals to secure their digital lives. Generate strong passwords, store them safely, and autofill them across all your devices with zero-knowledge encryption.
 
 Used by companies like Slack, PagerDuty, and Under Armour, 1Password eliminates password reuse with unique passwords for every account. Share logins securely with family or teams, monitor for data breaches, and protect sensitive documents with military-grade security.

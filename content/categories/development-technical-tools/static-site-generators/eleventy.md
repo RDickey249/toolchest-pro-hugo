@@ -7,9 +7,6 @@ tool_name: "Eleventy"
 deployment_status: "deployed"
 image: "/images/tools/eleventy-placeholder.jpg"
 ---
-
-# Eleventy
-
 Eleventy is a simple yet powerful static site generator that supports multiple templating languages with zero-configuration setup and maximum flexibility.
 
 ## Key Features

@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]
 ---
-
-# Crazy Egg
-
 Crazy Egg specializes in visual website analytics through comprehensive heatmap analysis that reveals exactly how users interact with web pages. The platform transforms complex user behavior data into intuitive visual representations that anyone can understand.
 
 Key features include click heatmaps showing where users click most, scroll maps revealing how far visitors scroll, and overlay reports displaying click percentages on specific elements. A/B testing capabilities help validate optimization decisions with statistical confidence.

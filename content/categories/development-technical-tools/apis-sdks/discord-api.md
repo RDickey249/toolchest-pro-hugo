@@ -7,9 +7,6 @@ tool_name: "Discord API"
 deployment_status: "deployed"
 image: "/images/tools/discord-api-placeholder.jpg"
 ---
-
-# Discord API
-
 Discord API enables developers to build Discord bots and integrations with real-time messaging, voice features, and community management capabilities.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Nextcloud"
 deployment_status: "deployed"
 image: "/images/tools/nextcloud-placeholder.jpg"
 ---
-
-# Nextcloud
-
 Nextcloud is an open-source self-hosted cloud collaboration platform that enables organizations to maintain complete control over their data while providing comprehensive collaboration features.
 
 ## Key Features

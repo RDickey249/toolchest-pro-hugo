@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
 ---
-
-# MongoDB
-
 MongoDB is the world's most popular NoSQL database, designed for modern applications that need flexible, scalable data storage.
 
 Unlike traditional relational databases, MongoDB stores data in flexible documents, making it perfect for applications with evolving requirements.

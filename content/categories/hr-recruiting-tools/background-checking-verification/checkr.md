@@ -7,9 +7,6 @@ tool_name: "Checkr"
 deployment_status: "deployed"
 image: "/images/tools/checkr-placeholder.jpg"
 ---
-
-# Checkr
-
 Checkr is a modern background check platform that streamlines employment screening with fast, accurate, and technology-driven verification services. API integration and real-time updates improve hiring efficiency.
 
 ## Key Features

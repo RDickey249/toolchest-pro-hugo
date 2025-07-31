@@ -7,9 +7,6 @@ tool_name: "DaVinci Resolve"
 deployment_status: "deployed"
 image: "/images/tools/davinci-resolve-placeholder.jpg"
 ---
-
-# DaVinci Resolve
-
 DaVinci Resolve is a professional all-in-one post-production suite that combines video editing, color grading, visual effects, and audio post-production. Industry-leading color science and comprehensive tools used by Hollywood professionals.
 
 ## Key Features

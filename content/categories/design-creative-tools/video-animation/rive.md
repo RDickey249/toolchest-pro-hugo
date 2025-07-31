@@ -7,9 +7,6 @@ tool_name: "Rive"
 deployment_status: "deployed"
 image: "/images/tools/rive-placeholder.jpg"
 ---
-
-# Rive
-
 Rive is an interactive animation platform that creates responsive graphics using state-based animation systems. Build animations that respond to user input and application state changes with real-time interactivity.
 
 ## Key Features

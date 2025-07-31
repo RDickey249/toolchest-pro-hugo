@@ -7,9 +7,6 @@ tool_name: "ConvertKit"
 deployment_status: "deployed"
 image: "/images/tools/convertkit-placeholder.jpg"
 ---
-
-# ConvertKit
-
 ConvertKit is a creator-focused email marketing platform that enables bloggers, podcasters, and online creators to grow engaged audiences with sophisticated automation.
 
 ## Key Features

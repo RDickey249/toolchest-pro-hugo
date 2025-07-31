@@ -7,9 +7,6 @@ tool_name: "SalesLoft"
 deployment_status: "deployed"
 image: "/images/tools/salesloft-placeholder.jpg"
 ---
-
-# SalesLoft
-
 SalesLoft is a comprehensive sales development platform that combines intelligent cadence automation with conversation insights to accelerate pipeline growth and sales performance.
 
 ## Key Features

@@ -7,9 +7,6 @@ tool_name: "Pingdom"
 deployment_status: "deployed"
 image: "/images/tools/pingdom-placeholder.jpg"
 ---
-
-# Pingdom
-
 Pingdom is a leading website monitoring service that helps you ensure your sites and applications are always available and performing well. Monitor uptime, page speed, and user interactions from over 100 global locations.
 
 ## Key Features

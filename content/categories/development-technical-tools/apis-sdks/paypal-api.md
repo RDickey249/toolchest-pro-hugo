@@ -7,9 +7,6 @@ tool_name: "PayPal API"
 deployment_status: "deployed"
 image: "/images/tools/paypal-api-placeholder.jpg"
 ---
-
-# PayPal API
-
 PayPal API provides global payment processing infrastructure, enabling businesses to accept payments, manage transactions, and handle financial operations across 200+ markets.
 
 ## Key Features

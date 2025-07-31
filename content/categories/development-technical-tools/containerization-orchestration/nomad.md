@@ -7,9 +7,6 @@ tool_name: "Nomad"
 deployment_status: "deployed"
 image: "/images/tools/nomad-placeholder.jpg"
 ---
-
-# Nomad
-
 Nomad is a simple and flexible workload orchestrator that schedules containers, virtual machines, and standalone applications across clusters with minimal operational overhead.
 
 ## Key Features

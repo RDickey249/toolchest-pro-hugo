@@ -7,9 +7,6 @@ tool_name: "Azure DevOps"
 deployment_status: "deployed"
 image: "/images/tools/azure-devops-placeholder.jpg"
 ---
-
-# Azure DevOps
-
 Azure DevOps is Microsoft's comprehensive DevOps platform providing end-to-end application lifecycle management. Complete toolchain including version control, agile planning, CI/CD, and release management.
 
 ## Key Features

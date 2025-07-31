@@ -7,9 +7,6 @@ tool_name: "Prometheus"
 deployment_status: "deployed"
 image: "/images/tools/prometheus-placeholder.jpg"
 ---
-
-# Prometheus
-
 Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability in dynamic cloud environments. The foundation of modern cloud-native monitoring.
 
 ## Key Features

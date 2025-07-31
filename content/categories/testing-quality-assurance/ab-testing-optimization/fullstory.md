@@ -7,9 +7,6 @@ tool_name: "FullStory"
 deployment_status: "deployed"
 image: "/images/tools/fullstory-placeholder.jpg"
 ---
-
-# FullStory
-
 FullStory is a digital experience intelligence platform that captures every user interaction to provide insights into customer behavior and optimization opportunities. Complete data capture enables retroactive analysis without predefined tracking.
 
 ## Key Features

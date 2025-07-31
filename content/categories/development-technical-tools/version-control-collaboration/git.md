@@ -7,9 +7,6 @@ tool_name: "Git"
 deployment_status: "deployed"
 image: "/images/tools/git-placeholder.jpg"
 ---
-
-# Git
-
 Git is the world's most popular distributed version control system, enabling developers to track changes, collaborate on code, and manage project history with unparalleled flexibility.
 
 ## Key Features

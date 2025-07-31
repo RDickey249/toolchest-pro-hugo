@@ -7,9 +7,6 @@ tool_name: "Flow"
 deployment_status: "deployed"
 image: "/images/tools/flow-placeholder.jpg"
 ---
-
-# Flow
-
 Flow is a streamlined task management platform that focuses on essential project coordination without overwhelming complexity. It provides clean, intuitive interfaces for organizing tasks, tracking progress, and collaborating effectively without feature overload.
 
 The platform's strength lies in elegant simplicity—delivering exactly what teams need for project coordination while avoiding the configuration complexity that hinders adoption. It emphasizes usability over feature breadth, making it accessible to all team members.

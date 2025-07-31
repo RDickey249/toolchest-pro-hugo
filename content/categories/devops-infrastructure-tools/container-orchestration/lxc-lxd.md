@@ -7,9 +7,6 @@ tool_name: "LXC/LXD"
 deployment_status: "deployed"
 image: "/images/tools/lxc-lxd-placeholder.jpg"
 ---
-
-# LXC/LXD
-
 LXC (Linux Containers) and LXD provide system containerization that creates lightweight virtual machines with near-native performance, ideal for running complete Linux distributions.
 
 ## Key Features

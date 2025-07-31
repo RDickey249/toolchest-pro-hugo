@@ -7,9 +7,6 @@ tool_name: "KashFlow"
 deployment_status: "deployed"
 image: "/images/tools/kashflow-placeholder.jpg"
 ---
-
-# KashFlow
-
 KashFlow is accounting software designed specifically for UK small businesses, providing localized financial management and compliance features.
 
 ## Key Features

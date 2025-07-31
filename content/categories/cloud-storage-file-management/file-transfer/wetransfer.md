@@ -7,9 +7,6 @@ tool_name: "WeTransfer"
 deployment_status: "deployed"
 image: "/images/tools/wetransfer-placeholder.jpg"
 ---
-
-# WeTransfer
-
 WeTransfer is a simple file sharing service that allows users to send large files up to 2GB for free without registration through an elegant web interface.
 
 ## Key Features

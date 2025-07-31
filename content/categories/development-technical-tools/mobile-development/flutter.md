@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/flutter-placeholder.jpg"
 external_link: "https://flutter.dev"
 ---
-
-# Flutter
-
 Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Write once in Dart, deploy everywhere with true native performance.
 
 ## Key Features

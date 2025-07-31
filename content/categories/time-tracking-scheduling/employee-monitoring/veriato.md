@@ -2,9 +2,6 @@
 title: "Veriato"
 external_link: "https://veriato.com"
 ---
-
-# Veriato
-
 Veriato is the employee monitoring platform that provides detailed insights into workforce productivity and user behavior. Track application usage, monitor productivity patterns, and identify security risks with comprehensive activity monitoring.
 
 Used by organizations across healthcare, finance, and government sectors, Veriato offers advanced analytics that help optimize workforce performance while maintaining compliance requirements. Monitor screen activity, track productivity scores, and detect policy violations with configurable alerts and reporting.

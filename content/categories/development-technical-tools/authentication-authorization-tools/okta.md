@@ -7,9 +7,6 @@ tool_name: "Okta"
 deployment_status: "deployed"
 image: "/images/tools/okta-placeholder.jpg"
 ---
-
-# Okta
-
 Okta is an enterprise identity management platform providing single sign-on, multi-factor authentication, and user lifecycle management with extensive application integration.
 
 ## Key Features

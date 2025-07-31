@@ -7,9 +7,6 @@ tool_name: "OAuth 2.0"
 deployment_status: "deployed"
 image: "/images/tools/oauth-2-0-placeholder.jpg"
 ---
-
-# OAuth 2.0
-
 OAuth 2.0 is the industry-standard authorization framework enabling applications to obtain limited access to user accounts with secure token-based authentication and flexible grant types.
 
 ## Key Features

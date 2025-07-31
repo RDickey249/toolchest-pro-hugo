@@ -7,9 +7,6 @@ tool_name: "Seafile"
 deployment_status: "deployed"
 image: "/images/tools/seafile-placeholder.jpg"
 ---
-
-# Seafile
-
 Seafile is an open-source file synchronization platform that provides high-performance sync across devices with block-level synchronization and enterprise features.
 
 ## Key Features

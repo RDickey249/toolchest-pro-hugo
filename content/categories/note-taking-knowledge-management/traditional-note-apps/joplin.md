@@ -7,9 +7,6 @@ tool_name: "Joplin"
 deployment_status: "deployed"
 image: "/images/tools/joplin-placeholder.jpg"
 ---
-
-# Joplin
-
 Joplin is an open-source note-taking application that provides comprehensive features while ensuring complete data ownership and freedom from vendor lock-in.
 
 ## Key Features

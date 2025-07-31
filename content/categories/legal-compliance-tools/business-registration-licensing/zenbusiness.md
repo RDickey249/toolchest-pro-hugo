@@ -7,9 +7,6 @@ tool_name: "ZenBusiness"
 deployment_status: "deployed"
 image: "/images/tools/zenbusiness-placeholder.jpg"
 ---
-
-# ZenBusiness
-
 ZenBusiness specializes in LLC formation and business management services with transparent pricing and ongoing support for entrepreneurs throughout their business journey.
 
 ## Key Features

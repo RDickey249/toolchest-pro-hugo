@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/microsoft-power-automate-placeholder.jpg"
 external_link: "https://powerautomate.microsoft.com"
 ---
-
-# Microsoft Power Automate
-
 Microsoft Power Automate is the cloud-based automation platform that connects your Microsoft 365 apps with hundreds of other services. Create workflows without coding to automate repetitive tasks across your business.
 
 Used by over 5 million users worldwide, Power Automate integrates seamlessly with Excel, SharePoint, Teams, and Outlook. Build approval workflows, sync data between apps, and automate document processing with pre-built templates and AI-powered features.

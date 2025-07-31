@@ -7,9 +7,6 @@ tool_name: "Abukai"
 deployment_status: "deployed"
 image: "/images/tools/abukai-placeholder.jpg"
 ---
-
-# Abukai
-
 Abukai is an AI-powered expense management platform that automates receipt processing and expense reporting for businesses and individuals.
 
 ## Key Features

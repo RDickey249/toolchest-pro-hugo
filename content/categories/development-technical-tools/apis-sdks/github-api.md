@@ -7,9 +7,6 @@ tool_name: "GitHub API"
 deployment_status: "deployed"
 image: "/images/tools/github-api-placeholder.jpg"
 ---
-
-# GitHub API
-
 GitHub API provides comprehensive version control and collaboration capabilities, enabling developers to automate workflows, manage repositories, and integrate GitHub functionality.
 
 ## Key Features

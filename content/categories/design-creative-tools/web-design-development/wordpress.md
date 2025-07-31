@@ -7,9 +7,6 @@ tool_name: "WordPress.com"
 deployment_status: "deployed"
 image: "/images/tools/wordpress-placeholder.jpg"
 ---
-
-# WordPress.com
-
 WordPress.com is a hosted WordPress platform that provides powerful website creation and content management without the complexity of self-hosting. Get all the benefits of WordPress with managed hosting and support.
 
 ## Key Features

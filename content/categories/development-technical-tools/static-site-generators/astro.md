@@ -7,9 +7,6 @@ tool_name: "Astro"
 deployment_status: "deployed"
 image: "/images/tools/astro-placeholder.jpg"
 ---
-
-# Astro
-
 Astro is a modern static site builder that uses islands architecture and partial hydration to deliver ultra-fast websites with minimal JavaScript.
 
 ## Key Features

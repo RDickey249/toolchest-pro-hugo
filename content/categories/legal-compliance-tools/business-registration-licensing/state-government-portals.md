@@ -7,9 +7,6 @@ tool_name: "State Government Portals"
 deployment_status: "deployed"
 image: "/images/tools/state-government-portals-placeholder.jpg"
 ---
-
-# State Government Portals
-
 State Government Portals provide direct filing options for business registration and compliance through official state websites offering authoritative business formation services.
 
 ## Key Features

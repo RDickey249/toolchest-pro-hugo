@@ -7,9 +7,6 @@ tool_name: "Signnow"
 deployment_status: "deployed"
 image: "/images/tools/signnow-placeholder.jpg"
 ---
-
-# Signnow
-
 SignNow is a digital signature and document workflow platform that streamlines contract signing and business document processes.
 
 ## Key Features

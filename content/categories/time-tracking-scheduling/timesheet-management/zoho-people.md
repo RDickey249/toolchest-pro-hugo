@@ -10,9 +10,6 @@ tags: ["time-tracking-scheduling", "timesheet-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Timesheet Management"]
 ---
-
-# Zoho People
-
 Zoho People is the complete HR platform that includes powerful time tracking and timesheet management. Instead of juggling separate HR and time tracking tools, manage everything from employee records to project timesheets in one integrated system.
 
 Used by over 30,000 companies worldwide, Zoho People connects time tracking with the full employee lifecycle - from onboarding to performance reviews. This integration provides better insights and eliminates data silos.

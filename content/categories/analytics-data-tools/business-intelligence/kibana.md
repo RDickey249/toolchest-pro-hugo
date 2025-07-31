@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Kibana
-
 Kibana transforms Elasticsearch data into powerful visualizations and interactive dashboards, making complex search and analytics accessible to technical and business teams alike. As the native visualization layer for the Elastic Stack, it excels at real-time data exploration and monitoring.
 
 The platform shines for log analysis, application monitoring, and security investigations. DevOps teams use Kibana to track system performance, identify bottlenecks, and troubleshoot issues across distributed infrastructure. Security analysts leverage its search capabilities to investigate threats and monitor compliance.

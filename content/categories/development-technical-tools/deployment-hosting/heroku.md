@@ -10,9 +10,6 @@ tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]
 ---
-
-# Heroku
-
 Heroku is a cloud platform that enables developers to deploy, manage, and scale applications with Git-based workflows and zero server administration.
 
 ## Key Features

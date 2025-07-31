@@ -7,9 +7,6 @@ tool_name: "Tome"
 deployment_status: "deployed"
 image: "/images/tools/tome-placeholder.jpg"
 ---
-
-# Tome
-
 Tome revolutionizes storytelling by using AI to generate complete presentations from simple prompts, transforming how professionals create compelling narratives and visual content. This cutting-edge platform goes beyond traditional slide creation, generating coherent storylines, relevant images, and polished layouts that tell your story effectively. Tome's AI understands context and creates presentations that flow naturally, whether you're pitching a startup idea, presenting research findings, or creating educational content. The platform's unique approach combines text generation, image creation, and design automation to produce presentations that feel crafted by a professional team. Users simply describe their topic, and Tome generates a complete presentation with narrative structure, supporting visuals, and professional formatting. Whether you're an entrepreneur preparing investor pitches, a consultant building client presentations, or an educator creating course materials, Tome eliminates the blank page problem while maintaining creative control. Its ability to generate presentations in minutes rather than hours has made it indispensable for professionals who need to move at the speed of business.
 
 ## Key Features

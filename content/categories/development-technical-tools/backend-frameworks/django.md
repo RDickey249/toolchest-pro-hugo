@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/django-placeholder.jpg"
 external_link: "https://www.djangoproject.com"
 ---
-
-# Django
-
 Django is a high-level Python web framework that encourages rapid development with clean, pragmatic design and a "batteries-included" philosophy.
 
 ## Key Features

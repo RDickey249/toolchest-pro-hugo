@@ -7,9 +7,6 @@ tool_name: "TMetric"
 deployment_status: "deployed"
 image: "/images/tools/tmetric-placeholder.jpg"
 ---
-
-# TMetric
-
 TMetric is the intelligent time tracking platform that balances comprehensive monitoring with user privacy and control. Track time automatically, manage projects, and generate detailed insights without invasive surveillance.
 
 Used by remote teams and agencies worldwide, TMetric offers smart time tracking with user autonomy over data visibility. Monitor productivity patterns, coordinate projects, create client invoices, and optimize workflows while maintaining privacy and team trust.

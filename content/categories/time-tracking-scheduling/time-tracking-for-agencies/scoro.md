@@ -7,9 +7,6 @@ tool_name: "Scoro"
 deployment_status: "deployed"
 image: "/images/tools/scoro-placeholder.jpg"
 ---
-
-# Scoro
-
 Scoro is the all-in-one business management platform for agencies that combines CRM, project management, time tracking, and billing in one system. Instead of juggling multiple tools, agencies get everything they need to manage clients and projects efficiently.
 
 Used by creative agencies, consultancies, and service businesses worldwide, Scoro eliminates the complexity of managing separate systems for different business functions. Track time on projects, manage client relationships, monitor budgets, and generate invoices all from one integrated platform.

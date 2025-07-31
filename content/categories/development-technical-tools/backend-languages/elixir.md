@@ -7,9 +7,6 @@ tool_name: "Elixir"
 deployment_status: "deployed"
 image: "/images/tools/elixir-placeholder.jpg"
 ---
-
-# Elixir
-
 Elixir is a dynamic, functional programming language built on the Erlang Virtual Machine (BEAM) that enables fault-tolerant, distributed systems with massive concurrency and automatic recovery capabilities.
 
 ## Key Features

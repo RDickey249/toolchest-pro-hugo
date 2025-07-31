@@ -7,9 +7,6 @@ tool_name: "Forethought"
 deployment_status: "deployed"
 image: "/images/tools/forethought-placeholder.jpg"
 ---
-
-# Forethought
-
 Forethought is the AI-powered customer support automation platform that handles routine inquiries, predicts customer needs, and empowers human agents with intelligent assistance for scalable service operations.
 
 Used by customer support teams and contact centers, Forethought offers automated ticket deflection, intent prediction, agent assistance, and workflow automation. Reduce resolution times and improve first-contact resolution with natural language processing and continuous learning capabilities.

@@ -7,9 +7,6 @@ tool_name: "Slab"
 deployment_status: "deployed"
 image: "/images/tools/slab-placeholder.jpg"
 ---
-
-# Slab
-
 Slab is a modern team wiki platform that combines beautiful design with powerful knowledge management features to help teams create, organize, and discover information effectively.
 
 ## Key Features

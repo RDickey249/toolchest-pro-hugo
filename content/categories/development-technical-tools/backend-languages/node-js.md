@@ -7,9 +7,6 @@ tool_name: "Node.js"
 deployment_status: "deployed"
 image: "/images/tools/node-js-placeholder.jpg"
 ---
-
-# Node.js
-
 Node.js is a JavaScript runtime built on Chrome's V8 engine that enables server-side development with JavaScript, featuring event-driven, non-blocking I/O for scalable network applications.
 
 ## Key Features

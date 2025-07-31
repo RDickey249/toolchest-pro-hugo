@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# Snagit
-
 Snagit is the professional screen capture and recording software that transforms how teams create visual documentation and communicate complex ideas through polished screenshots and videos.
 
 Built by TechSmith for over 30 years, Snagit combines powerful capture capabilities with comprehensive editing tools to create professional-quality visual content.

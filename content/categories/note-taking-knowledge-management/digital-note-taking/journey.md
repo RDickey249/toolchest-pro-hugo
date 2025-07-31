@@ -7,9 +7,6 @@ tool_name: "Journey"
 deployment_status: "deployed"
 image: "/images/tools/journey-placeholder.jpg"
 ---
-
-# Journey
-
 Journey is a cross-platform journaling app that enables users to maintain consistent reflection habits across all devices with rich multimedia features.
 
 ## Key Features

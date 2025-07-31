@@ -7,9 +7,6 @@ tool_name: "Ghost"
 deployment_status: "deployed"
 image: "/images/tools/ghost-placeholder.jpg"
 ---
-
-# Ghost
-
 Ghost is a modern publishing platform designed for professional content creators and publishers. Clean, fast, and focused on delivering exceptional writing and reading experiences with built-in membership and newsletter tools.
 
 ## Key Features

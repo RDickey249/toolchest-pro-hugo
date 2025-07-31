@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
 ---
-
-# Sisense
-
 Sisense combines powerful analytics with artificial intelligence to automate insight discovery and simplify complex data analysis. The platform uses machine learning to surface meaningful patterns and predictions without requiring data science expertise.
 
 AI-powered features include automated anomaly detection, smart recommendations, and natural language queries that make analytics accessible to any business user. The platform proactively identifies trends, outliers, and opportunities while providing contextual explanations for its findings.

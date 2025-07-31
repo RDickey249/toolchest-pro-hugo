@@ -7,9 +7,6 @@ tool_name: "Rust"
 deployment_status: "deployed"
 image: "/images/tools/rust-placeholder.jpg"
 ---
-
-# Rust
-
 Rust is a systems programming language that delivers memory safety without garbage collection through its ownership system, achieving safety, speed, and concurrency without compromising performance.
 
 ## Key Features

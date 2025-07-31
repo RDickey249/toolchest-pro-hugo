@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "project-management", "all-in-one-workspa
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management"]
 ---
-
-# ClickUp
-
 ClickUp is an all-in-one productivity workspace that combines project management, task tracking, docs, goals, and team collaboration. Replace multiple tools with one customizable platform that adapts to any workflow.
 
 ## Key Features

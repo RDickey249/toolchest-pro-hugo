@@ -7,9 +7,6 @@ tool_name: "QUnit"
 deployment_status: "deployed"
 image: "/images/tools/qunit-placeholder.jpg"
 ---
-
-# QUnit
-
 QUnit is a lightweight JavaScript unit testing framework with simple API, minimal setup, and excellent browser support originally developed for jQuery.
 
 ## Key Features

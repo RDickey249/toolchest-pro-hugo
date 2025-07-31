@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
 ---
-
-# Loom
-
 Loom is the instant video messaging platform that lets you record your screen and voice to communicate more effectively than text or email.
 
 Perfect for asynchronous work, Loom enables teams to share context quickly without scheduling meetings or dealing with time zone conflicts.

@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/clockify-placeholder.jpg"
 external_link: "https://clockify.me"
 ---
-
-# Clockify
-
 Clockify is the completely free time tracking platform for unlimited users and projects. Track time, manage projects, and analyze productivity without budget constraints while maintaining professional features that rival premium solutions.
 
 Used by teams at companies like Sony and L'Oreal, Clockify offers comprehensive time tracking with project management, team collaboration, and detailed reporting. Generate invoices, track billable hours, and integrate with popular tools—all completely free.

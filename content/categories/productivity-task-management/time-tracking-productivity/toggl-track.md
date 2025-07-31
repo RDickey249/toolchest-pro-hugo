@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "time-tracking-productivity", "project-tr
 categories: ["Productivity & Task Management"]
 subcategories: ["Time Tracking & Productivity"]
 ---
-
-# Toggl Track
-
 Toggl Track is an intuitive time tracking platform that makes accurate time logging effortless for individuals and teams while providing powerful analytics and project insights.
 
 ## Get Started with Toggl Track

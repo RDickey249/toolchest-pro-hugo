@@ -10,9 +10,6 @@ tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]
 ---
-
-# Mixpanel
-
 Mixpanel is the leading event-based analytics platform that helps product teams understand exactly how users interact with their applications.
 
 Unlike traditional web analytics that focus on page views, Mixpanel tracks individual user actions (events) to provide deeper insights into user behavior and product performance.

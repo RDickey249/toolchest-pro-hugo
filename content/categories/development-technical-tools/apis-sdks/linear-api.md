@@ -7,9 +7,6 @@ tool_name: "Linear API"
 deployment_status: "deployed"
 image: "/images/tools/linear-api-placeholder.jpg"
 ---
-
-# Linear API
-
 Linear API provides GraphQL access to Linear's modern issue tracking and project management platform, enabling custom workflows and development tool integration.
 
 ## Key Features

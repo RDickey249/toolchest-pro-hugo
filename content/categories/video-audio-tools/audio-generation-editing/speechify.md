@@ -7,9 +7,6 @@ tool_name: "Speechify"
 deployment_status: "deployed"
 image: "/images/tools/speechify-placeholder.jpg"
 ---
-
-# Speechify
-
 Speechify is a text-to-speech platform that converts any written content into natural-sounding audio, allowing you to listen to websites, PDFs, emails, and documents. It uses advanced AI voices with customizable playback speeds up to 9x faster than average reading.
 
 What makes Speechify stand out is its focus on productivity and accessibility, offering high-quality voices including celebrity options and cross-device synchronization. Unlike basic text-to-speech tools, it provides an enjoyable listening experience that turns reading time into multitasking opportunities.

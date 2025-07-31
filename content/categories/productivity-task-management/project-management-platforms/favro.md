@@ -7,9 +7,6 @@ tool_name: "Favro"
 deployment_status: "deployed"
 image: "/images/tools/favro-placeholder.jpg"
 ---
-
-# Favro
-
 Favro is the flexible project management platform built for agile teams who need more than rigid templates. Whether you work in Kanban, Scrum, or your own hybrid methodology, Favro adapts to your team's workflow instead of forcing you into a predetermined structure.
 
 Used by companies like Mojang (Minecraft), King, and DICE, Favro combines the flexibility of sticky notes with the power of digital collaboration. It's designed for teams who outgrow basic project management tools but don't want the complexity of enterprise software.

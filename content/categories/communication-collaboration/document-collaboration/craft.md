@@ -10,9 +10,6 @@ tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
 ---
-
-# Craft
-
 Craft is the beautifully designed writing and note-taking app that combines the flexibility of blocks with the elegance of native design, creating documents that are as pleasant to write as they are to read.
 
 Built with meticulous attention to detail, Craft transforms document creation into a delightful experience while providing powerful features for both personal writing and team collaboration.

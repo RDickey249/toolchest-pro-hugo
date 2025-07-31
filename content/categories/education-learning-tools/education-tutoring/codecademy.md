@@ -7,9 +7,6 @@ tool_name: "Codecademy"
 deployment_status: "deployed"
 image: "/images/tools/codecademy-placeholder.jpg"
 ---
-
-# Codecademy
-
 Codecademy is an interactive coding platform that teaches programming through hands-on practice and real projects. Learn to code with interactive lessons, instant feedback, and portfolio-building projects.
 
 ## Key Features

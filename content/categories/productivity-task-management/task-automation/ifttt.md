@@ -10,9 +10,6 @@ tags: ["productivity-task-management", "task-automation", "workflow-automation",
 categories: ["Productivity & Task Management"]
 subcategories: ["Task Automation"]
 ---
-
-# IFTTT
-
 IFTTT (If This Then That) is a simple automation platform that connects your favorite apps, devices, and services through trigger-based workflows, making automation accessible to everyone.
 
 ## Key Features

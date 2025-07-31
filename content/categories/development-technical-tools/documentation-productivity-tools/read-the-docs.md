@@ -7,9 +7,6 @@ tool_name: "Read the Docs"
 deployment_status: "deployed"
 image: "/images/tools/read-the-docs-placeholder.jpg"
 ---
-
-# Read the Docs
-
 Read the Docs is a documentation hosting platform that automatically builds and deploys documentation from Sphinx, MkDocs, and other generators with Git integration.
 
 ## Key Features

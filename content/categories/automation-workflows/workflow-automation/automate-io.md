@@ -8,9 +8,6 @@ deployment_status: "deployed"
 image: "/images/tools/automate-io-placeholder.jpg"
 external_link: "https://automate.io"
 ---
-
-# Automate.io
-
 Automate.io makes app integration simple and affordable for small businesses. Connect your favorite apps in minutes with drag-and-drop workflows that require zero coding experience.
 
 ## Key Features

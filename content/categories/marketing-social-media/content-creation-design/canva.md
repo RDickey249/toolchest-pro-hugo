@@ -7,9 +7,6 @@ tool_name: "Canva"
 deployment_status: "deployed"
 image: "/images/tools/canva-placeholder.jpg"
 ---
-
-# Canva
-
 Canva is a user-friendly design platform that enables anyone to create professional-quality graphics, presentations, and marketing materials with drag-and-drop simplicity.
 
 ## Key Features
