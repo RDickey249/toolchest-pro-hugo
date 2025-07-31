@@ -1,8 +1,8 @@
 ---
 title: "Timetastic"
 tagline: "Ready to get started? Visit [Timetastic](https://timetastic.co.uk) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Attendance Absence Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Timetastic"
 deployment_status: "deployed"
 image: "/images/tools/timetastic-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Drift"
 tagline: "Conversational marketing and sales platform"
-category: "Customer Support"
-subcategory: "Live Chat & Messaging"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Drift"
 deployment_status: "deployed"
 image: "/images/tools/drift-placeholder.jpg"

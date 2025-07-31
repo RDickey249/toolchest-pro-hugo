@@ -1,7 +1,7 @@
 ---
 title: "Promptmetheus"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Ai Tools Assistants"
+category: "🤖 AI Tools & Assistants"
 subcategory: "Prompt Engineering"
 tool_name: "Promptmetheus"
 deployment_status: "deployed"

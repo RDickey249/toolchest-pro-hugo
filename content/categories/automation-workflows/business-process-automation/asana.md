@@ -1,8 +1,8 @@
 ---
 title: "Asana"
 tagline: "Project automation"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Asana"
 deployment_status: "deployed"
 image: "/images/tools/asana-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "ServiceM8"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Field Services"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ServiceM8"
 deployment_status: "deployed"
 image: "/images/tools/servicem8-placeholder.jpg"

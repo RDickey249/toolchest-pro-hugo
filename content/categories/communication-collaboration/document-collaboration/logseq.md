@@ -1,8 +1,8 @@
 ---
 title: "LogSeq"
 tagline: "Open-source knowledge management"
-category: "Communication & Collaboration"
-subcategory: "Document Collaboration"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "LogSeq"
 deployment_status: "deployed"
 image: "/images/tools/logseq-placeholder.jpg"

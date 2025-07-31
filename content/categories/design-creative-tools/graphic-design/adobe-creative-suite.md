@@ -1,8 +1,8 @@
 ---
 title: "Adobe Creative Suite"
 tagline: "Professional standard"
-category: "Design & Creative Tools"
-subcategory: "Graphic Design"
+category: "📱 Marketing & Social Media"
+subcategory: "📱 Marketing & Social Media"
 tool_name: "Adobe Creative Suite"
 deployment_status: "deployed"
 image: "/images/tools/adobe-creative-suite-placeholder.jpg"

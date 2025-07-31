@@ -1,8 +1,8 @@
 ---
 title: "Square"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Square"
 deployment_status: "deployed"
 image: "/images/tools/square-placeholder.jpg"

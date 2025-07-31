@@ -1,8 +1,8 @@
 ---
 title: "Sendinblue (Brevo)"
 tagline: "Multi-channel marketing"
-category: "CRM & Sales Tools"
-subcategory: "Email Marketing & Automation"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Sendinblue (Brevo)"
 deployment_status: "deployed"
 image: "/images/tools/sendinblue-placeholder.jpg"

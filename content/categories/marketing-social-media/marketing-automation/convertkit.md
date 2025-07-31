@@ -1,8 +1,8 @@
 ---
 title: "ConvertKit"
 tagline: "Creator-focused email marketing"
-category: "Business Marketing Tools"
-subcategory: "Marketing Automation"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "ConvertKit"
 deployment_status: "deployed"
 image: "/images/tools/convertkit-placeholder.jpg"

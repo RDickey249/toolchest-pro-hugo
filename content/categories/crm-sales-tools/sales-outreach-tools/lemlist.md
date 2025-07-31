@@ -1,8 +1,8 @@
 ---
 title: "Lemlist"
 tagline: "Personalized cold outreach"
-category: "CRM & Sales Tools"
-subcategory: "Sales Outreach Tools"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Lemlist"
 deployment_status: "deployed"
 image: "/images/tools/lemlist-placeholder.jpg"

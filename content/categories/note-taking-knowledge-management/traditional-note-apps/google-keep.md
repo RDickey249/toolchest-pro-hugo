@@ -1,8 +1,8 @@
 ---
 title: "Google Keep"
 tagline: "Simple note-taking"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Traditional Note Apps"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Google Keep"
 deployment_status: "deployed"
 image: "/images/tools/google-keep-placeholder.jpg"

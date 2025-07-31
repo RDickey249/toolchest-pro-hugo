@@ -1,8 +1,8 @@
 ---
 title: "DaVinci Resolve"
 tagline: "Professional color grading"
-category: "Video & Audio Tools"
-subcategory: "Video Enhancement"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "DaVinci Resolve"
 deployment_status: "deployed"
 image: "/images/tools/davinci-resolve-placeholder.jpg"

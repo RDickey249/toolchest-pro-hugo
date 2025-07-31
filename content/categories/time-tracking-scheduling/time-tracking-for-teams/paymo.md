@@ -1,7 +1,7 @@
 ---
 title: "Paymo"
 tagline: "Ready to get started? Visit [Paymo](https://www.paymoapp.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
+category: "⏰ Time Tracking & Scheduling"
 subcategory: "Time Tracking For Teams"
 tool_name: "Paymo"
 deployment_status: "deployed"

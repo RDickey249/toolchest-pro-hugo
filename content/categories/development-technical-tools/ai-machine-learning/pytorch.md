@@ -1,8 +1,8 @@
 ---
 title: "PyTorch"
 tagline: "Facebook-developed ML framework with dynamic computation graphs and strong Python integration"
-category: "Development & Technical Tools"
-subcategory: "AI & Machine Learning Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "PyTorch"
 deployment_status: "deployed"
 image: "/images/tools/pytorch-placeholder.jpg"

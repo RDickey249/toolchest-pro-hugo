@@ -1,8 +1,8 @@
 ---
 title: "Pitch"
 tagline: "Transform team presentation workflows with beautiful collaboration. Visit [pitch.com](https://pitch.com) to create stunning presentations together...."
-category: "Business Marketing Tools"
-subcategory: "Presentation Tools"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Pitch"
 deployment_status: "deployed"
 image: "/images/tools/pitch-placeholder.jpg"

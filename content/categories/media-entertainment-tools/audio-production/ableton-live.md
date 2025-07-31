@@ -1,8 +1,8 @@
 ---
 title: "Ableton Live"
 tagline: "Innovative DAW designed for electronic music and live performance"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Ableton Live"
 deployment_status: "deployed"
 image: "/images/tools/ableton-live-placeholder.jpg"

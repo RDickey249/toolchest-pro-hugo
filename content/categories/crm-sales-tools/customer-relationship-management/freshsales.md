@@ -1,8 +1,8 @@
 ---
 title: "Freshsales"
 tagline: "Freshworks CRM solution"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Freshsales"
 deployment_status: "deployed"
 image: "/images/tools/freshsales-placeholder.jpg"

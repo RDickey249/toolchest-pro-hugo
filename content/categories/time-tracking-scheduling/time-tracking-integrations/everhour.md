@@ -1,8 +1,8 @@
 ---
 title: "Everhour"
 tagline: "Ready to get started? Visit [Everhour](https://everhour.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking Integrations"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Everhour"
 deployment_status: "deployed"
 image: "/images/tools/everhour-placeholder.jpg"

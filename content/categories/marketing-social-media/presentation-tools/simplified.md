@@ -1,8 +1,8 @@
 ---
 title: "Simplified"
 tagline: "[Streamline Creation with Simplified →](https://simplified.com)..."
-category: "Business Marketing Tools"
-subcategory: "Presentation Tools"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Simplified"
 deployment_status: "deployed"
 image: "/images/tools/simplified-placeholder.jpg"

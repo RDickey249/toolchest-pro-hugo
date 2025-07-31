@@ -1,8 +1,8 @@
 ---
 title: "SoapUI"
 tagline: "Functional testing tool for SOAP and REST APIs"
-category: "Development & Technical Tools"
-subcategory: "API Design & Testing"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "SoapUI"
 deployment_status: "deployed"
 image: "/images/tools/soapui-placeholder.jpg"

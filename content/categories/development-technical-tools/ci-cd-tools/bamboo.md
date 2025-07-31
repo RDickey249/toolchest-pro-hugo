@@ -1,8 +1,8 @@
 ---
 title: "Bamboo"
 tagline: "CI/CD server from Atlassian with deep Jira integration"
-category: "Development & Technical Tools"
-subcategory: "CI/CD Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Bamboo"
 deployment_status: "deployed"
 image: "/images/tools/bamboo-placeholder.jpg"

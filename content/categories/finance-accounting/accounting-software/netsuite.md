@@ -1,8 +1,8 @@
 ---
 title: "NetSuite"
 tagline: "ERP solution"
-category: "Finance & Accounting"
-subcategory: "Accounting Software"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "NetSuite"
 deployment_status: "deployed"
 image: "/images/tools/netsuite-placeholder.jpg"

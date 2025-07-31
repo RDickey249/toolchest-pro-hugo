@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Copilot"
 tagline: "Ready to get started? Visit [Microsoft Copilot](https://copilot.microsoft.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "♿ Accessibility & Inclusion Tools"
+subcategory: "♿ Accessibility & Inclusion Tools"
 tool_name: "Microsoft Copilot"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-copilot-placeholder.jpg"

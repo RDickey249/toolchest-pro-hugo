@@ -1,8 +1,8 @@
 ---
 title: "Integrately"
 tagline: "One-click integrations"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Integrately"
 deployment_status: "deployed"
 image: "/images/tools/integrately-placeholder.jpg"

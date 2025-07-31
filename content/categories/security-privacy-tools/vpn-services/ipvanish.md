@@ -1,8 +1,8 @@
 ---
 title: "IPVanish"
 tagline: "Fast VPN with unlimited connections"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "IPVanish"
 deployment_status: "deployed"
 image: "/images/tools/ipvanish-placeholder.jpg"

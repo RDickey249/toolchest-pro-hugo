@@ -1,7 +1,7 @@
 ---
 title: "Gitea"
 tagline: "Lightweight self-hosted Git service"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Version Control & Collaboration"
 tool_name: "Gitea"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Looka"
 tagline: "AI-powered complete brand identity creation"
-category: "Business & Marketing Tools"
-subcategory: "Branding & Identity"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Looka"
 deployment_status: "deployed"
 image: "/images/tools/looka-placeholder.jpg"

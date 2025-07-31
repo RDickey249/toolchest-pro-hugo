@@ -1,8 +1,8 @@
 ---
 title: "Adobe Podcast"
 tagline: "Transform your audio with AI-powered enhancement. Visit [podcast.adobe.com](https://podcast.adobe.com) to start cleaning up your recordings and create..."
-category: "Video Audio Tools"
-subcategory: "Audio Generation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Adobe Podcast"
 deployment_status: "deployed"
 image: "/images/tools/adobe-podcast-placeholder.jpg"
@@ -12,8 +12,8 @@ Adobe Podcast is an AI-powered audio enhancement platform that transforms amateu
 ---
 title: "Adobe Podcast"
 tagline: "AI-powered audio enhancement for professional sound quality"
-category: "Video & Audio Tools"
-subcategory: "Audio Generation & Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Adobe Podcast"
 deployment_status: "deployed"
 image: "/images/tools/adobe-podcast-placeholder.jpg"

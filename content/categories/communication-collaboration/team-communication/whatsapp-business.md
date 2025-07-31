@@ -1,8 +1,8 @@
 ---
 title: "WhatsApp Business"
 tagline: "Business messaging"
-category: "Communication & Collaboration"
-subcategory: "Team Communication"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "WhatsApp Business"
 deployment_status: "deployed"
 image: "/images/tools/whatsapp-business-placeholder.jpg"

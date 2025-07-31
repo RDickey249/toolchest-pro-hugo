@@ -1,8 +1,8 @@
 ---
 title: "JMeter"
 tagline: "Open-source load testing tool for performance testing"
-category: "Testing & Quality Assurance"
-subcategory: "Performance Testing"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "JMeter"
 deployment_status: "deployed"
 image: "/images/tools/jmeter-placeholder.jpg"

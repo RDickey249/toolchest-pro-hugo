@@ -1,8 +1,8 @@
 ---
 title: "BigQuery"
 tagline: "Google's serverless data warehouse for massive-scale analytics"
-category: "Database & Data Management"
-subcategory: "Data Warehousing & Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "BigQuery"
 deployment_status: "deployed"
 image: "/images/tools/bigquery-placeholder.jpg"

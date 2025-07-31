@@ -1,8 +1,8 @@
 ---
 title: "Bardeen"
 tagline: "Ready to get started? Visit [Bardeen](https://www.bardeen.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Bardeen"
 deployment_status: "deployed"
 image: "/images/tools/bardeen-placeholder.jpg"

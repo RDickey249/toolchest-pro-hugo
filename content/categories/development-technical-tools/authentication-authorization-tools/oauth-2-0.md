@@ -1,7 +1,7 @@
 ---
 title: "OAuth 2.0"
 tagline: "Industry-standard authorization framework for secure API access"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Authentication & Authorization Tools"
 tool_name: "OAuth 2.0"
 deployment_status: "deployed"

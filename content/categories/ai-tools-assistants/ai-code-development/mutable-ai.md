@@ -1,8 +1,8 @@
 ---
 title: "Mutable.ai"
 tagline: "Ready to get started? Visit [Mutable.ai](https://www.mutable.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Code Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Mutable.ai"
 deployment_status: "deployed"
 image: "/images/tools/mutable-ai-placeholder.jpg"

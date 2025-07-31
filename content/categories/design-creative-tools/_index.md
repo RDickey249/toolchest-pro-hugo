@@ -1,5 +1,5 @@
 ---
-title: "Design & Creative Tools"
+title: "🎨 Design & Creative Tools"
 description: "Graphic design, web development, and creative production tools"
 weight: 5
 ---

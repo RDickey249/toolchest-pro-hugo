@@ -1,8 +1,8 @@
 ---
 title: "Adobe-sign"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Adobe-sign"
 deployment_status: "deployed"
 image: "/images/tools/adobe-sign-placeholder.jpg"

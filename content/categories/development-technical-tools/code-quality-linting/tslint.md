@@ -1,8 +1,8 @@
 ---
 title: "TSLint"
 tagline: "Deprecated TypeScript linter (historical reference)"
-category: "Development & Technical Tools"
-subcategory: "Code Quality & Linting"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "TSLint"
 deployment_status: "deployed"
 image: "/images/tools/tslint-placeholder.jpg"

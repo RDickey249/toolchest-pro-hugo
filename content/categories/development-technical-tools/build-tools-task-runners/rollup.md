@@ -1,8 +1,8 @@
 ---
 title: "Rollup"
 tagline: "ES module bundler optimized for libraries and tree-shaking"
-category: "Development & Technical Tools"
-subcategory: "Build Tools & Task Runners"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Rollup"
 deployment_status: "deployed"
 image: "/images/tools/rollup-placeholder.jpg"

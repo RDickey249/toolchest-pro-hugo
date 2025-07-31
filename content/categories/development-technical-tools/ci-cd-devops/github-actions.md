@@ -1,8 +1,8 @@
 ---
 title: "GitHub Actions"
 tagline: "Native CI/CD solution built into GitHub; supports workflows as code"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "GitHub Actions"
 deployment_status: "deployed"
 image: "/images/tools/github-actions-placeholder.jpg"

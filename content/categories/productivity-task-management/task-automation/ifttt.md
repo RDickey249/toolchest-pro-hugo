@@ -1,8 +1,8 @@
 ---
 title: "IFTTT"
 tagline: "Simple automation for productivity workflows"
-category: "Productivity & Task Management"
-subcategory: "Task Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "IFTTT"
 deployment_status: "deployed"
 image: "/images/tools/ifttt-placeholder.jpg"

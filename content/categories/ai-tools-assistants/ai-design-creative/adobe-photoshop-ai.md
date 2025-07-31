@@ -1,8 +1,8 @@
 ---
 title: "Adobe Photoshop (AI Features)"
 tagline: "Ready to get started? Visit [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "📱 Marketing & Social Media"
+subcategory: "📱 Marketing & Social Media"
 tool_name: "Adobe Photoshop (AI Features)"
 deployment_status: "deployed"
 image: "/images/tools/adobe-photoshop-ai-placeholder.jpg"

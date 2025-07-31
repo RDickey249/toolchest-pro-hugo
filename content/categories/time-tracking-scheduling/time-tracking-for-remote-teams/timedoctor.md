@@ -1,8 +1,8 @@
 ---
 title: "Timedoctor"
 tagline: "Time Doctor is the remote team monitoring platform that combines time tracking with screenshot verification and distraction alerts to ensure productiv..."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Remote Teams"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Timedoctor"
 deployment_status: "deployed"
 image: "/images/tools/timedoctor-placeholder.jpg"

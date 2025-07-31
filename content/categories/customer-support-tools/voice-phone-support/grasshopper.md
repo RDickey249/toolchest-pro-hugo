@@ -1,8 +1,8 @@
 ---
 title: "Grasshopper"
 tagline: "Virtual phone system for entrepreneurs and small businesses"
-category: "Customer Support"
-subcategory: "Voice & Phone Support"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Grasshopper"
 deployment_status: "deployed"
 image: "/images/tools/grasshopper-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Bill4Time"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Consultants"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Bill4Time"
 deployment_status: "deployed"
 image: "/images/tools/bill4time-placeholder.jpg"

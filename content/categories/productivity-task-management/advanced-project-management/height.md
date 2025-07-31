@@ -1,8 +1,8 @@
 ---
 title: "Height"
 tagline: "Visual project management"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Height"
 deployment_status: "deployed"
 image: "/images/tools/height-placeholder.jpg"

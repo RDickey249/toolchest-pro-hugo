@@ -1,5 +1,5 @@
 ---
-title: "Accessibility & Inclusion Tools"
+title: "♿ Accessibility & Inclusion Tools"
 description: "Tools for web accessibility, design inclusion, and workplace accessibility"
 weight: 32
 ---

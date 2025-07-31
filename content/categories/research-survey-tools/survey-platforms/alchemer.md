@@ -1,8 +1,8 @@
 ---
 title: "Alchemer"
 tagline: "Flexible survey platform for customer and market insights"
-category: "Research & Survey"
-subcategory: "Survey Platforms"
+category: "📊 Research & Survey Tools"
+subcategory: "📊 Research & Survey Tools"
 tool_name: "Alchemer"
 deployment_status: "deployed"
 image: "/images/tools/alchemer-placeholder.jpg"

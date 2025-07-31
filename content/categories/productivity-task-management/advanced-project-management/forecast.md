@@ -1,7 +1,7 @@
 ---
 title: "Forecast"
 tagline: "AI-powered resource and project planning"
-category: "Productivity & Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Advanced Project Management"
 tool_name: "Forecast"
 deployment_status: "deployed"

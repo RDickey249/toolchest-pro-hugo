@@ -1,8 +1,8 @@
 ---
 title: "ActivTrak"
 tagline: "Ready to get started? Visit [ActivTrak](https://www.activtrak.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking Analytics"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ActivTrak"
 deployment_status: "deployed"
 image: "/images/tools/activtrak-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "ClickUp"
 tagline: "One app to replace them all"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ClickUp"
 deployment_status: "deployed"
 image: "/images/tools/clickup-placeholder.jpg"

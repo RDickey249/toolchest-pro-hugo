@@ -1,8 +1,8 @@
 ---
 title: "Node.js"
 tagline: "JavaScript runtime for backend development"
-category: "Development & Technical Tools"
-subcategory: "Backend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Node.js"
 deployment_status: "deployed"
 image: "/images/tools/node-js-placeholder.jpg"

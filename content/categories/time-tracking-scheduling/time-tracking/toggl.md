@@ -1,8 +1,8 @@
 ---
 title: "Toggl"
 tagline: "Simple time tracking"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Toggl"
 deployment_status: "deployed"
 image: "/images/tools/toggl-placeholder.jpg"

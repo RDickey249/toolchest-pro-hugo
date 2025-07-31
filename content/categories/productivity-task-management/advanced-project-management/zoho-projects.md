@@ -1,8 +1,8 @@
 ---
 title: "Zoho Projects"
 tagline: "Scalable platform with blueprints and dependency management"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Zoho Projects"
 deployment_status: "deployed"
 image: "/images/tools/zoho-projects-placeholder.jpg"

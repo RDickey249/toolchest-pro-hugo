@@ -1,8 +1,8 @@
 ---
 title: "LinkedIn Sales Navigator"
 tagline: "Professional networking for sales"
-category: "CRM & Sales Tools"
-subcategory: "Sales & Outreach Tools"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "LinkedIn Sales Navigator"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-sales-navigator-placeholder.jpg"

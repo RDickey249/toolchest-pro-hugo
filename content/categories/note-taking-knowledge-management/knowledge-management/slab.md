@@ -1,8 +1,8 @@
 ---
 title: "Slab"
 tagline: "Modern team wiki"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Knowledge Management"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Slab"
 deployment_status: "deployed"
 image: "/images/tools/slab-placeholder.jpg"

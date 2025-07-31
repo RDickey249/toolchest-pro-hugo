@@ -1,8 +1,8 @@
 ---
 title: "Clockify"
 tagline: "Free time tracking for unlimited users and projects"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Clockify"
 deployment_status: "deployed"
 image: "/images/tools/clockify-placeholder.jpg"

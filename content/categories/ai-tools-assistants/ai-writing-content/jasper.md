@@ -1,8 +1,8 @@
 ---
 title: "Jasper.ai"
 tagline: "AI writing platform for enterprise teams"
-category: "AI Tools & Assistants"
-subcategory: "AI Writing & Content"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Jasper"
 deployment_status: "deployed"
 image: "/images/tools/jasper-placeholder.jpg"

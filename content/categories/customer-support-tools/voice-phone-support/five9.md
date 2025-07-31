@@ -1,8 +1,8 @@
 ---
 title: "Five9"
 tagline: "Intelligent cloud contact center for customer experience"
-category: "Customer Support"
-subcategory: "Voice & Phone Support"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Five9"
 deployment_status: "deployed"
 image: "/images/tools/five9-placeholder.jpg"

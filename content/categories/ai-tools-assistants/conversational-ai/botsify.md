@@ -1,8 +1,8 @@
 ---
 title: "Botsify"
 tagline: "[Build Your Bot with Botsify →](https://botsify.com)..."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Botsify"
 deployment_status: "deployed"
 image: "/images/tools/botsify-placeholder.jpg"

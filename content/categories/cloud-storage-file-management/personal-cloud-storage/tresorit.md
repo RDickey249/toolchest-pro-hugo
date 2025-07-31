@@ -1,8 +1,8 @@
 ---
 title: "Tresorit"
 tagline: "Encrypted cloud storage"
-category: "Cloud Storage & File Management"
-subcategory: "Personal Cloud Storage"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Tresorit"
 deployment_status: "deployed"
 image: "/images/tools/tresorit-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "SolidJS"
 tagline: "Fast and reactive JavaScript library with fine-grained reactivity system"
-category: "Development & Technical Tools"
-subcategory: "Frontend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "SolidJS"
 deployment_status: "deployed"
 image: "/images/tools/solidjs-placeholder.jpg"

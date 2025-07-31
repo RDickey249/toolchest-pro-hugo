@@ -1,8 +1,8 @@
 ---
 title: "Surfer SEO"
 tagline: "Ready to get started? Visit [Surfer SEO](https://surferseo.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Surfer SEO"
 deployment_status: "deployed"
 image: "/images/tools/surfer-seo-placeholder.jpg"

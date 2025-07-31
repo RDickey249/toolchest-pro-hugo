@@ -1,8 +1,8 @@
 ---
 title: "Render"
 tagline: "Unified cloud platform for web services, static sites, and databases"
-category: "Development & Technical Tools"
-subcategory: "Deployment & Hosting"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "Render"
 deployment_status: "deployed"
 image: "/images/tools/render-placeholder.jpg"

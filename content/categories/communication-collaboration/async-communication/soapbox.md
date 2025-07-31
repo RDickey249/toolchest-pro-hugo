@@ -1,8 +1,8 @@
 ---
 title: "Soapbox"
 tagline: "Quick video messages by Wistia"
-category: "Communication & Collaboration"
-subcategory: "Async Communication"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Soapbox"
 deployment_status: "deployed"
 image: "/images/tools/soapbox-placeholder.jpg"

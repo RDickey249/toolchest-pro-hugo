@@ -1,8 +1,8 @@
 ---
 title: "Luigi"
 tagline: "Python workflow management"
-category: "Automation & Workflows"
-subcategory: "Data Integration"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Luigi"
 deployment_status: "deployed"
 image: "/images/tools/luigi-placeholder.jpg"

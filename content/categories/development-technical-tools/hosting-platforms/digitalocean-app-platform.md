@@ -1,8 +1,8 @@
 ---
 title: "DigitalOcean App Platform"
 tagline: "Platform-as-a-service for building and deploying applications"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "DigitalOcean App Platform"
 deployment_status: "deployed"
 image: "/images/tools/digitalocean-app-platform-placeholder.jpg"

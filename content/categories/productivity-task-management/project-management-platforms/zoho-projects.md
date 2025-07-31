@@ -1,8 +1,8 @@
 ---
 title: "Zoho Projects"
 tagline: "Ready to integrate project management with your business ecosystem?..."
-category: "Productivity Task Management"
-subcategory: "Project Management Platforms"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Zoho Projects"
 deployment_status: "deployed"
 image: "/images/tools/zoho-projects-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Vim"
 tagline: "Highly configurable modal editor beloved by power users"
-category: "Development & Technical Tools"
-subcategory: "IDEs & Code Editors"
+category: "🖥️ Hardware & Equipment Tools"
+subcategory: "🖥️ Hardware & Equipment Tools"
 tool_name: "Vim"
 deployment_status: "deployed"
 image: "/images/tools/vim-placeholder.jpg"

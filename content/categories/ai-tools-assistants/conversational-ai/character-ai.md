@@ -1,8 +1,8 @@
 ---
 title: "Character.AI"
 tagline: "Ready to get started? Visit [Character.AI](https://character.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Character.AI"
 deployment_status: "deployed"
 image: "/images/tools/character-ai-placeholder.jpg"

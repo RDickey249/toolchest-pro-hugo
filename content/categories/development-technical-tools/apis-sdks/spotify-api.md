@@ -1,8 +1,8 @@
 ---
 title: "Spotify API"
 tagline: "Music streaming and playlist management platform"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Spotify API"
 deployment_status: "deployed"
 image: "/images/tools/spotify-api-placeholder.jpg"

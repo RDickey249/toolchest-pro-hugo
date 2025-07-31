@@ -1,8 +1,8 @@
 ---
 title: "Scully"
 tagline: "Angular-powered static site generator with JAMstack capabilities"
-category: "Development & Technical Tools"
-subcategory: "Static Site Generators"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Scully"
 deployment_status: "deployed"
 image: "/images/tools/scully-placeholder.jpg"

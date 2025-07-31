@@ -1,8 +1,8 @@
 ---
 title: "Glint"
 tagline: "Employee engagement analytics"
-category: "HR & Recruiting Tools"
-subcategory: "Employee Engagement & Performance"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Glint"
 deployment_status: "deployed"
 image: "/images/tools/glint-placeholder.jpg"

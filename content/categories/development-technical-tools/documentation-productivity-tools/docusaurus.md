@@ -1,8 +1,8 @@
 ---
 title: "Docusaurus"
 tagline: "Static site generator optimized for technical documentation"
-category: "Development & Technical Tools"
-subcategory: "Documentation & Productivity Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Docusaurus"
 deployment_status: "deployed"
 image: "/images/tools/docusaurus-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "You.com"
 tagline: "Ready to get started? Visit [You.com](https://you.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "You.com"
 deployment_status: "deployed"
 image: "/images/tools/you-com-placeholder.jpg"

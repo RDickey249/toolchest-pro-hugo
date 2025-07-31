@@ -1,8 +1,8 @@
 ---
 title: "PostgreSQL"
 tagline: "Advanced open-source SQL database with strong ACID compliance and extensibility"
-category: "Development & Technical Tools"
-subcategory: "Databases & Data Handling"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "PostgreSQL"
 deployment_status: "deployed"
 image: "/images/tools/postgresql-placeholder.jpg"

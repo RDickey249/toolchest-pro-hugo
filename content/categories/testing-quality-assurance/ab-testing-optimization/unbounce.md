@@ -1,8 +1,8 @@
 ---
 title: "Unbounce"
 tagline: "Landing page builder with A/B testing and optimization"
-category: "Testing & Quality Assurance"
-subcategory: "A/B Testing & Optimization"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Unbounce"
 deployment_status: "deployed"
 image: "/images/tools/unbounce-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "GitLab CI"
 tagline: "Integrated CI/CD platform built into GitLab"
-category: "DevOps & Infrastructure"
-subcategory: "CI/CD & Automation"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "GitLab CI"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-ci-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Rocket Lawyer"
 tagline: "Legal document creation"
-category: "Legal & Compliance Tools"
-subcategory: "Legal Document Management"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Rocket Lawyer"
 deployment_status: "deployed"
 image: "/images/tools/rocket-lawyer-placeholder.jpg"

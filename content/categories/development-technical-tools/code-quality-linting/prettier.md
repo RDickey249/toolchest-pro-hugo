@@ -1,8 +1,8 @@
 ---
 title: "Prettier"
 tagline: "Opinionated code formatter for consistent styling"
-category: "Development & Technical Tools"
-subcategory: "Code Quality & Linting"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Prettier"
 deployment_status: "deployed"
 image: "/images/tools/prettier-placeholder.jpg"

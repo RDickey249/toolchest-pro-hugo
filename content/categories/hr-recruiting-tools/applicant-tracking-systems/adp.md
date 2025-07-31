@@ -1,8 +1,8 @@
 ---
 title: "ADP"
 tagline: "Payroll and HR services"
-category: "HR & Recruiting Tools"
-subcategory: "Applicant Tracking Systems"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "ADP"
 deployment_status: "deployed"
 image: "/images/tools/adp-placeholder.jpg"

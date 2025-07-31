@@ -1,8 +1,8 @@
 ---
 title: "Tableau"
 tagline: "Data visualization leader"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Tableau"
 deployment_status: "deployed"
 image: "/images/tools/tableau-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "LegalZoom"
 tagline: "DIY legal services"
-category: "Legal & Compliance Tools"
-subcategory: "Legal Document Management"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "LegalZoom"
 deployment_status: "deployed"
 image: "/images/tools/legalzoom-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Grok"
 tagline: "Ready to get started? Visit [Grok](https://x.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Grok"
 deployment_status: "deployed"
 image: "/images/tools/grok-placeholder.jpg"

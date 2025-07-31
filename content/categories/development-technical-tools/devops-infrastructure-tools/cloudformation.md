@@ -1,8 +1,8 @@
 ---
 title: "CloudFormation"
 tagline: "AWS-native infrastructure as code service for resource provisioning"
-category: "Development & Technical Tools"
-subcategory: "DevOps & Infrastructure Tools"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "CloudFormation"
 deployment_status: "deployed"
 image: "/images/tools/cloudformation-placeholder.jpg"

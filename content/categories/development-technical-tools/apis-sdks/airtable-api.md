@@ -1,8 +1,8 @@
 ---
 title: "Airtable API"
 tagline: "API for accessing and manipulating Airtable databases programmatically"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Airtable API"
 deployment_status: "deployed"
 image: "/images/tools/airtable-api-placeholder.jpg"

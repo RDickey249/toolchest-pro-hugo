@@ -1,8 +1,8 @@
 ---
 title: "TopTracker"
 tagline: "Free time tracking with screenshots for freelancers"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking for Freelancers"
+category: "🖥️ Hardware & Equipment Tools"
+subcategory: "🖥️ Hardware & Equipment Tools"
 tool_name: "TopTracker"
 deployment_status: "deployed"
 image: "/images/tools/toptracker-placeholder.jpg"

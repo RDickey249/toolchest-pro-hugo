@@ -1,8 +1,8 @@
 ---
 title: "ReferralCandy"
 tagline: "E-commerce referral marketing"
-category: "E-commerce & Business Tools"
-subcategory: "E-commerce Platforms"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "ReferralCandy"
 deployment_status: "deployed"
 image: "/images/tools/referralcandy-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Gridsome"
 tagline: "Vue.js-powered static site generator with GraphQL data layer"
-category: "Development & Technical Tools"
-subcategory: "Static Site Generators"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Gridsome"
 deployment_status: "deployed"
 image: "/images/tools/gridsome-placeholder.jpg"

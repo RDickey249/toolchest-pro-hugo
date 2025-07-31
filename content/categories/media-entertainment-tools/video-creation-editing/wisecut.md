@@ -1,8 +1,8 @@
 ---
 title: "Wisecut"
 tagline: "Transform long videos into engaging content with AI. Visit [wisecut.video](https://www.wisecut.video) to start automatically editing your videos and c..."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Wisecut"
 deployment_status: "deployed"
 image: "/images/tools/wisecut-placeholder.jpg"
@@ -12,8 +12,8 @@ Wisecut is an AI-powered video editing platform that automatically transforms lo
 ---
 title: "Wisecut"
 tagline: "AI-powered video editing for engaging content"
-category: "Video & Audio Tools"
-subcategory: "Video Creation & Editing"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Wisecut"
 deployment_status: "deployed"
 image: "/images/tools/wisecut-placeholder.jpg"

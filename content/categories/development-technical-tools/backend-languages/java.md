@@ -1,8 +1,8 @@
 ---
 title: "Java"
 tagline: "Enterprise programming language with platform independence and robust ecosystem"
-category: "Development & Technical Tools"
-subcategory: "Backend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Java"
 deployment_status: "deployed"
 image: "/images/tools/java-placeholder.jpg"

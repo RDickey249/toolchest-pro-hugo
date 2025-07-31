@@ -1,8 +1,8 @@
 ---
 title: "Midjourney"
 tagline: "AI art generation master"
-category: "AI Tools & Assistants"
-subcategory: "AI Design & Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Midjourney"
 deployment_status: "deployed"
 image: "/images/tools/midjourney-placeholder.jpg"

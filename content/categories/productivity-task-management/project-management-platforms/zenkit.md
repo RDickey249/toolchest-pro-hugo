@@ -1,8 +1,8 @@
 ---
 title: "Zenkit"
 tagline: "Ready to organize projects with complete flexibility?..."
-category: "Productivity Task Management"
-subcategory: "Project Management Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Zenkit"
 deployment_status: "deployed"
 image: "/images/tools/zenkit-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Nuxt.js"
 tagline: "Vue.js framework with static generation and universal rendering"
-category: "Development & Technical Tools"
-subcategory: "Static Site Generators"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Nuxt.js"
 deployment_status: "deployed"
 image: "/images/tools/nuxt-js-placeholder.jpg"

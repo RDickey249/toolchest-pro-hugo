@@ -1,8 +1,8 @@
 ---
 title: "Redis"
 tagline: "High-performance in-memory data structure store"
-category: "Database & Data Management"
-subcategory: "NoSQL Databases"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "Redis"
 deployment_status: "deployed"
 image: "/images/tools/redis-placeholder.jpg"

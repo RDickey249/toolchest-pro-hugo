@@ -1,8 +1,8 @@
 ---
 title: "Adobe Target"
 tagline: "AI-powered personalization and testing platform"
-category: "Testing & Quality Assurance"
-subcategory: "A/B Testing & Optimization"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Adobe Target"
 deployment_status: "deployed"
 image: "/images/tools/adobe-target-placeholder.jpg"

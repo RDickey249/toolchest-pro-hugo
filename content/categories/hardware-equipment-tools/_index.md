@@ -1,5 +1,5 @@
 ---
-title: "Hardware & Equipment Tools"
+title: "🖥️ Hardware & Equipment Tools"
 description: "Hardware recommendations and equipment for productivity, audio, video, and office setups"
 weight: 22
 ---

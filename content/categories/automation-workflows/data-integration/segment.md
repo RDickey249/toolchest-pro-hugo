@@ -1,8 +1,8 @@
 ---
 title: "Segment"
 tagline: "Customer data platform"
-category: "Automation & Workflows"
-subcategory: "Data Integration"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Segment"
 deployment_status: "deployed"
 image: "/images/tools/segment-placeholder.jpg"

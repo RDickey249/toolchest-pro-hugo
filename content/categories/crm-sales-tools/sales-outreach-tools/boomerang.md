@@ -1,8 +1,8 @@
 ---
 title: "Boomerang"
 tagline: "Email scheduling and tracking"
-category: "CRM & Sales Tools"
-subcategory: "Sales & Outreach Tools"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Boomerang"
 deployment_status: "deployed"
 image: "/images/tools/boomerang-placeholder.jpg"

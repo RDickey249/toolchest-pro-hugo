@@ -1,8 +1,8 @@
 ---
 title: "Sterling"
 tagline: "Background verification"
-category: "HR & Recruiting Tools"
-subcategory: "Background Checks & Verification"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Sterling"
 deployment_status: "deployed"
 image: "/images/tools/sterling-placeholder.jpg"

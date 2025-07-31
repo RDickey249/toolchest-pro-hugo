@@ -1,8 +1,8 @@
 ---
 title: "Logic Pro"
 tagline: "Apple's professional music production software for Mac"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Logic Pro"
 deployment_status: "deployed"
 image: "/images/tools/logic-pro-placeholder.jpg"

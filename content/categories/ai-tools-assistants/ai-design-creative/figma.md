@@ -1,8 +1,8 @@
 ---
 title: "Figma"
 tagline: "Ready to get started? Visit [Figma](https://www.figma.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Figma"
 deployment_status: "deployed"
 image: "/images/tools/figma-placeholder.jpg"

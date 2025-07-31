@@ -1,8 +1,8 @@
 ---
 title: "UserVoice"
 tagline: "Product feedback management and roadmap planning"
-category: "Research & Survey"
-subcategory: "User Research & Testing"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "UserVoice"
 deployment_status: "deployed"
 image: "/images/tools/uservoice-placeholder.jpg"

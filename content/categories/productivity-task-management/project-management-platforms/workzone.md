@@ -1,7 +1,7 @@
 ---
 title: "Workzone"
 tagline: "Ready to get started? Visit [this tool](https://www.workzone.com) to explore the platform and begin using this tool...."
-category: "Productivity Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Project Management Platforms"
 tool_name: "Workzone"
 deployment_status: "deployed"

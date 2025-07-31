@@ -1,8 +1,8 @@
 ---
 title: "Invoice-ninja"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Invoice-ninja"
 deployment_status: "deployed"
 image: "/images/tools/invoice-ninja-placeholder.jpg"

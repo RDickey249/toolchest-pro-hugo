@@ -1,8 +1,8 @@
 ---
 title: "CoffeeScript"
 tagline: "JavaScript that compiles to clean, readable JavaScript code"
-category: "Development & Technical Tools"
-subcategory: "Frontend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "CoffeeScript"
 deployment_status: "deployed"
 image: "/images/tools/coffeescript-placeholder.jpg"

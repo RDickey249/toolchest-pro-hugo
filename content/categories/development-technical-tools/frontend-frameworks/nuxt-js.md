@@ -1,8 +1,8 @@
 ---
 title: "Nuxt.js"
 tagline: "Vue.js meta-framework with universal rendering and automatic routing"
-category: "Development & Technical Tools"
-subcategory: "Frontend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Nuxt.js"
 deployment_status: "deployed"
 image: "/images/tools/nuxt-js-placeholder.jpg"

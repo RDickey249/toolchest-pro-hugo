@@ -1,8 +1,8 @@
 ---
 title: "JetBrains Suite"
 tagline: "Professional IDEs for every programming language and framework"
-category: "Development & Technical Tools"
-subcategory: "Code Editors & IDEs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "JetBrains Suite"
 deployment_status: "deployed"
 image: "/images/tools/jetbrains-suite-placeholder.jpg"

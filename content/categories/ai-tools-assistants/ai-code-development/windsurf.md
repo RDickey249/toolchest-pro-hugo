@@ -1,8 +1,8 @@
 ---
 title: "Windsurf"
 tagline: "Transform your development workflow with AI-native coding. Visit [windsurf.ai](https://windsurf.ai) to download the IDE and experience the future of i..."
-category: "Ai Tools Assistants"
-subcategory: "Ai Code Development"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Windsurf"
 deployment_status: "deployed"
 image: "/images/tools/windsurf-placeholder.jpg"

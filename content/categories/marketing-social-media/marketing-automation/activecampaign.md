@@ -1,8 +1,8 @@
 ---
 title: "ActiveCampaign"
 tagline: "Marketing automation"
-category: "Business Marketing Tools"
-subcategory: "Marketing Automation"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ActiveCampaign"
 deployment_status: "deployed"
 image: "/images/tools/activecampaign-placeholder.jpg"

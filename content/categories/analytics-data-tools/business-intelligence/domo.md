@@ -1,8 +1,8 @@
 ---
 title: "Domo"
 tagline: "Cloud-based BI"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Domo"
 deployment_status: "deployed"
 image: "/images/tools/domo-placeholder.jpg"

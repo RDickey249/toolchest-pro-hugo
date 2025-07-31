@@ -1,8 +1,8 @@
 ---
 title: "ClockShark"
 tagline: "Ready to get started? Visit [ClockShark](https://www.clockshark.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking Integrations"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ClockShark"
 deployment_status: "deployed"
 image: "/images/tools/clockshark-placeholder.jpg"

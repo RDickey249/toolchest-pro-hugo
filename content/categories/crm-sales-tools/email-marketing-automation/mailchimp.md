@@ -1,8 +1,8 @@
 ---
 title: "Mailchimp"
 tagline: "Small business email marketing"
-category: "CRM & Sales Tools"
-subcategory: "Email Marketing & Automation"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Mailchimp"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-placeholder.jpg"

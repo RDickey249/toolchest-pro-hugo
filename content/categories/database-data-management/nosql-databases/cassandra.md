@@ -1,8 +1,8 @@
 ---
 title: "Cassandra"
 tagline: "Highly scalable wide-column distributed database"
-category: "Database & Data Management"
-subcategory: "NoSQL Databases"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "Cassandra"
 deployment_status: "deployed"
 image: "/images/tools/cassandra-placeholder.jpg"  

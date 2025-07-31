@@ -1,8 +1,8 @@
 ---
 title: "Elastic Stack (ELK)"
 tagline: "Suite for log analytics including Elasticsearch, Logstash, and Kibana"
-category: "Development & Technical Tools"
-subcategory: "Analytics & Observability Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Elastic Stack (ELK)"
 deployment_status: "deployed"
 image: "/images/tools/elastic-stack-elk-placeholder.jpg"

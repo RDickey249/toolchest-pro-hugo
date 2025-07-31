@@ -1,8 +1,8 @@
 ---
 title: "Qualtrics"
 tagline: "Enterprise experience management platform"
-category: "Research & Survey"
-subcategory: "Survey Platforms"
+category: "📊 Research & Survey Tools"
+subcategory: "📊 Research & Survey Tools"
 tool_name: "Qualtrics"
 deployment_status: "deployed"
 image: "/images/tools/qualtrics-placeholder.jpg"

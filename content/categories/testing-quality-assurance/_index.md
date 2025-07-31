@@ -1,5 +1,5 @@
 ---
-title: "Testing & Quality Assurance"
+title: "🧪 Testing & Quality Assurance"
 tagline: "Software testing frameworks and quality assurance tools"
 category: "Testing & Quality Assurance"
 description: "Testing and quality assurance tools ensure software reliability, performance, and user satisfaction through comprehensive testing methodologies. From unit testing frameworks to performance testing platforms and A/B testing tools, these solutions help teams identify issues early, validate functionality, and optimize user experiences. Whether you're implementing automated testing pipelines, conducting load testing, or running conversion experiments, these tools provide the insights and automation needed for quality software delivery."

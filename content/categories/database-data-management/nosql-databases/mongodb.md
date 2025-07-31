@@ -1,8 +1,8 @@
 ---
 title: "MongoDB"
 tagline: "Leading document database with flexible schema"
-category: "Database & Data Management"
-subcategory: "NoSQL Databases"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "MongoDB"
 deployment_status: "deployed"
 image: "/images/tools/mongodb-placeholder.jpg"

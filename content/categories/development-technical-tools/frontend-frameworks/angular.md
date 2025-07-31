@@ -1,8 +1,8 @@
 ---
 title: "Angular"
 tagline: "Comprehensive TypeScript framework for building scalable web applications"
-category: "Development & Technical Tools"
-subcategory: "Frontend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Angular"
 deployment_status: "deployed"
 image: "/images/tools/angular-placeholder.jpg"

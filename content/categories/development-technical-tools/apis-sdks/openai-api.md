@@ -1,8 +1,8 @@
 ---
 title: "OpenAI API"
 tagline: "AI API platform for integrating GPT models and advanced AI capabilities"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "OpenAI API"
 deployment_status: "deployed"
 image: "/images/tools/openai-api-placeholder.jpg"

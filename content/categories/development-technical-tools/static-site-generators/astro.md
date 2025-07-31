@@ -1,8 +1,8 @@
 ---
 title: "Astro"
 tagline: "Modern static site builder focused on performance and partial hydration"
-category: "Development & Technical Tools"
-subcategory: "Static Site Generators"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Astro"
 deployment_status: "deployed"
 image: "/images/tools/astro-placeholder.jpg"

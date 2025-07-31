@@ -1,8 +1,8 @@
 ---
 title: "GitHub Projects"
 tagline: "Code-integrated planning"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "GitHub Projects"
 deployment_status: "deployed"
 image: "/images/tools/github-projects-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Basecamp"
 tagline: "Simple project management and team collaboration"
-category: "Productivity & Task Management"
-subcategory: "Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Basecamp"
 deployment_status: "deployed"
 image: "/images/tools/basecamp-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Automate.io"
 tagline: "Ready to get started? Visit [Automate.io](https://automate.io) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking Integrations"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Automate.io"
 deployment_status: "deployed"
 image: "/images/tools/automate-io-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Pure Chat"
 tagline: "Live chat software designed for small businesses"
-category: "Customer Support"
-subcategory: "Live Chat & Messaging"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Pure Chat"
 deployment_status: "deployed"
 image: "/images/tools/pure-chat-placeholder.jpg"

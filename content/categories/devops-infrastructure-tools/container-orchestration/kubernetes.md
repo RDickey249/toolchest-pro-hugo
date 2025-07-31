@@ -1,8 +1,8 @@
 ---
 title: "Kubernetes"
 tagline: "Container orchestration platform for automating deployment and scaling"
-category: "DevOps & Infrastructure"
-subcategory: "Container & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Kubernetes"
 deployment_status: "deployed"
 image: "/images/tools/kubernetes-placeholder.jpg"

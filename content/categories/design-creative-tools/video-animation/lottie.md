@@ -1,8 +1,8 @@
 ---
 title: "Lottie"
 tagline: "Web animations"
-category: "Design & Creative Tools"
-subcategory: "Video & Animation"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Lottie"
 deployment_status: "deployed"
 image: "/images/tools/lottie-placeholder.jpg"

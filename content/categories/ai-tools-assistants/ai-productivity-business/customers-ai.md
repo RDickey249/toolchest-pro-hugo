@@ -1,8 +1,8 @@
 ---
 title: "Customers.ai"
 tagline: "AI-powered customer intelligence"
-category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Customers.ai"
 deployment_status: "deployed"
 image: "/images/tools/customers-ai-placeholder.jpg"

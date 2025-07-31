@@ -1,8 +1,8 @@
 ---
 title: "Penpot"
 tagline: "Ready to get started? Visit [Penpot](https://penpot.app) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Penpot"
 deployment_status: "deployed"
 image: "/images/tools/penpot-placeholder.jpg"

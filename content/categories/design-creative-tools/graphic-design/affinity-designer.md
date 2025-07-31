@@ -1,8 +1,8 @@
 ---
 title: "Affinity Designer"
 tagline: "Affordable alternative"
-category: "Design & Creative Tools"
-subcategory: "Graphic Design"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Affinity Designer"
 deployment_status: "deployed"
 image: "/images/tools/affinity-designer-placeholder.jpg"

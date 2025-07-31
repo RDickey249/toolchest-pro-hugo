@@ -1,7 +1,7 @@
 ---
 title: "ClickTime"
 tagline: "Comprehensive workforce management with time tracking"
-category: "Time Tracking & Scheduling"
+category: "⏰ Time Tracking & Scheduling"
 subcategory: "Time Tracking"
 tool_name: "ClickTime"
 deployment_status: "deployed"

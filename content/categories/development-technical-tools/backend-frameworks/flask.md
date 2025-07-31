@@ -1,8 +1,8 @@
 ---
 title: "Flask"
 tagline: "Lightweight Python web framework for building web applications"
-category: "Development & Technical Tools"
-subcategory: "Backend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Flask"
 deployment_status: "deployed"
 image: "/images/tools/flask-placeholder.jpg"

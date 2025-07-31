@@ -1,8 +1,8 @@
 ---
 title: "DeskTime"
 tagline: "Automatic time tracking with productivity insights"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "DeskTime"
 deployment_status: "deployed"
 image: "/images/tools/desktime-placeholder.jpg"

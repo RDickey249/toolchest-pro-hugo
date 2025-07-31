@@ -1,8 +1,8 @@
 ---
 title: "Microsoft SQL Server"
 tagline: "Enterprise Windows database with comprehensive business intelligence"
-category: "Database & Data Management"
-subcategory: "Relational Databases"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "Microsoft SQL Server"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-sql-server-placeholder.jpg"

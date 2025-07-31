@@ -1,7 +1,7 @@
 ---
 title: "ClickFunnels"
 tagline: "Sales funnel builder"
-category: "Business Marketing Tools"
+category: "📱 Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "ClickFunnels"
 deployment_status: "deployed"

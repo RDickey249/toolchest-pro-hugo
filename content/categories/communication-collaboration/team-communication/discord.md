@@ -1,8 +1,8 @@
 ---
 title: "Discord"
 tagline: "Gaming-turned-business chat"
-category: "Communication & Collaboration"
-subcategory: "Team Communication"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Discord"
 deployment_status: "deployed"
 image: "/images/tools/discord-placeholder.jpg"

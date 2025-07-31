@@ -1,8 +1,8 @@
 ---
 title: "Linode"
 tagline: "High-performance Linux cloud hosting with excellent support"
-category: "DevOps & Infrastructure"
-subcategory: "Cloud Platforms"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Linode"
 deployment_status: "deployed"
 image: "/images/tools/linode-placeholder.jpg"

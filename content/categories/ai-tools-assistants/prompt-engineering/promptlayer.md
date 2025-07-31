@@ -1,7 +1,7 @@
 ---
 title: "PromptLayer"
 tagline: "Prompt engineering platform with analytics and optimization"
-category: "AI Tools & Assistants"
+category: "🤖 AI Tools & Assistants"
 subcategory: "Prompt Engineering"
 tool_name: "PromptLayer"
 deployment_status: "deployed"

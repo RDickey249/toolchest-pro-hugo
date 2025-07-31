@@ -1,8 +1,8 @@
 ---
 title: "Redis"
 tagline: "In-memory key-value store; ideal for caching and real-time analytics"
-category: "Development & Technical Tools"
-subcategory: "Databases & Data Handling"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "Redis"
 deployment_status: "deployed"
 image: "/images/tools/redis-placeholder.jpg"

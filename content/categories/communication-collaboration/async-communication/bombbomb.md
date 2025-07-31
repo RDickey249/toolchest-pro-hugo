@@ -1,8 +1,8 @@
 ---
 title: "BombBomb"
 tagline: "Video email platform"
-category: "Communication & Collaboration"
-subcategory: "Async Communication"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "BombBomb"
 deployment_status: "deployed"
 image: "/images/tools/bombbomb-placeholder.jpg"

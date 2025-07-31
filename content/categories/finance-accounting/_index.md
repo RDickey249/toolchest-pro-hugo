@@ -1,5 +1,5 @@
 ---
-title: "Finance & Accounting"
+title: "💰 Finance & Accounting"
 description: "Professional financial management, accounting software, and business finance tools"
 ---
 

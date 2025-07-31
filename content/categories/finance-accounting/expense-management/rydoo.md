@@ -1,8 +1,8 @@
 ---
 title: "Rydoo"
 tagline: "Expense management"
-category: "Finance & Accounting"
-subcategory: "Expense Management"
+category: "✈️ Travel & Expense Management"
+subcategory: "✈️ Travel & Expense Management"
 tool_name: "Rydoo"
 deployment_status: "deployed"
 image: "/images/tools/rydoo-placeholder.jpg"

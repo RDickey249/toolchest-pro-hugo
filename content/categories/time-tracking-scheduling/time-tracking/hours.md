@@ -1,8 +1,8 @@
 ---
 title: "Hours"
 tagline: "Beautifully designed time tracking app"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Hours"
 deployment_status: "deployed"
 image: "/images/tools/hours-placeholder.jpg"

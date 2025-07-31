@@ -1,8 +1,8 @@
 ---
 title: "ZipRecruiter"
 tagline: "Job distribution service"
-category: "HR & Recruiting Tools"
-subcategory: "Job Posting & Sourcing"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "ZipRecruiter"
 deployment_status: "deployed"
 image: "/images/tools/ziprecruiter-placeholder.jpg"

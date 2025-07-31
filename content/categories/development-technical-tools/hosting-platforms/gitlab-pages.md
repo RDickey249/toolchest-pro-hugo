@@ -1,8 +1,8 @@
 ---
 title: "GitLab Pages"
 tagline: "Static site hosting integrated with GitLab repositories"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "GitLab Pages"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-pages-placeholder.jpg"

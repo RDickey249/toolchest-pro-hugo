@@ -1,7 +1,7 @@
 ---
 title: "SimilarWeb"
 tagline: "Digital market intelligence and website analytics platform"
-category: "Research & Survey"
+category: "📊 Research & Survey Tools"
 subcategory: "Market Research Tools"
 tool_name: "SimilarWeb"
 deployment_status: "deployed"

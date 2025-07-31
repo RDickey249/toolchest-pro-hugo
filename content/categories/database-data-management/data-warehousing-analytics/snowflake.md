@@ -1,8 +1,8 @@
 ---
 title: "Snowflake"
 tagline: "Cloud-native data platform with automatic scaling"
-category: "Database & Data Management"
-subcategory: "Data Warehousing & Analytics"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Snowflake"
 deployment_status: "deployed"
 image: "/images/tools/snowflake-placeholder.jpg"

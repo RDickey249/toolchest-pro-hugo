@@ -1,5 +1,5 @@
 ---
-title: "Legal & Compliance Tools"
+title: "⚖️ Legal & Compliance Tools"
 description: "Essential legal and compliance tools for businesses"
 category_emoji: "⚖️"
 layout: "category"

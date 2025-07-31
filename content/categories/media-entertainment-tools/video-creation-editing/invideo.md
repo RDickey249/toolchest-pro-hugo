@@ -1,8 +1,8 @@
 ---
 title: "InVideo"
 tagline: "Create professional videos with templates and AI. Visit [invideo.io](https://invideo.io) to start making stunning videos and see why millions choose I..."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "InVideo"
 deployment_status: "deployed"
 image: "/images/tools/invideo-placeholder.jpg"
@@ -12,8 +12,8 @@ InVideo is a comprehensive video creation platform that combines 5000+ professio
 ---
 title: "InVideo"
 tagline: "Professional video creation with templates and AI tools"
-category: "Video & Audio Tools"
-subcategory: "Video Creation & Editing"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "InVideo"
 deployment_status: "deployed"
 image: "/images/tools/invideo-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Uizard"
 tagline: "Uizard is the AI-powered design platform that transforms hand-drawn sketches, screenshots, and text descriptions into professional UI mockups and inte..."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Uizard"
 deployment_status: "deployed"
 image: "/images/tools/uizard-placeholder.jpg"

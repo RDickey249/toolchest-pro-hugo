@@ -1,7 +1,7 @@
 ---
 title: "ProWorkflow"
 tagline: "Time tracking and task collaboration for teams"
-category: "Productivity & Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Advanced Project Management"
 tool_name: "ProWorkflow"
 deployment_status: "deployed"

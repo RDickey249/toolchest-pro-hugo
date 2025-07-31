@@ -1,8 +1,8 @@
 ---
 title: "Sisense"
 tagline: "AI-driven analytics"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Sisense"
 deployment_status: "deployed"
 image: "/images/tools/sisense-placeholder.jpg"

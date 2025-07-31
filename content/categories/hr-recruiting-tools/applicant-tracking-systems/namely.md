@@ -1,8 +1,8 @@
 ---
 title: "Namely"
 tagline: "Mid-market HR platform"
-category: "HR & Recruiting Tools"
-subcategory: "Applicant Tracking Systems"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Namely"
 deployment_status: "deployed"
 image: "/images/tools/namely-placeholder.jpg"

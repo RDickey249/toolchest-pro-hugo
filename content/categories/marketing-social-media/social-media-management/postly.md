@@ -1,8 +1,8 @@
 ---
 title: "Postly"
 tagline: "Ready to get started? Visit [Postly](https://www.postly.ai) to explore the platform and begin using this tool...."
-category: "Business Marketing Tools"
-subcategory: "Social Media Management"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Postly"
 deployment_status: "deployed"
 image: "/images/tools/postly-placeholder.jpg"

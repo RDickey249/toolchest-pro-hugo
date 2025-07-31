@@ -1,8 +1,8 @@
 ---
 title: "Omnisend"
 tagline: "E-commerce email & SMS marketing"
-category: "Business Marketing Tools"
-subcategory: "Marketing Automation"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Omnisend"
 deployment_status: "deployed"
 image: "/images/tools/omnisend-placeholder.jpg"

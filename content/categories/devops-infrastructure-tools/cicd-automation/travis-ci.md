@@ -1,8 +1,8 @@
 ---
 title: "Travis CI"
 tagline: "Continuous integration service for GitHub projects"
-category: "DevOps & Infrastructure"
-subcategory: "CI/CD & Automation"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Travis CI"
 deployment_status: "deployed"
 image: "/images/tools/travis-ci-placeholder.jpg"

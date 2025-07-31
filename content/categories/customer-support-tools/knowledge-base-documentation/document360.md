@@ -1,8 +1,8 @@
 ---
 title: "Document360"
 tagline: "AI-powered knowledge base platform for growing companies"
-category: "Customer Support"
-subcategory: "Knowledge Base & Documentation"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Document360"
 deployment_status: "deployed"
 image: "/images/tools/document360-placeholder.jpg"

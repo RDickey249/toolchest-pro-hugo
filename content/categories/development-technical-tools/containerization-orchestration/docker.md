@@ -1,8 +1,8 @@
 ---
 title: "Docker"
 tagline: "Containerization platform that changed software deployment"
-category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Docker"
 deployment_status: "deployed"
 image: "/images/tools/docker-placeholder.jpg"

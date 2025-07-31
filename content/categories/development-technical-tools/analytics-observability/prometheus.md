@@ -1,8 +1,8 @@
 ---
 title: "Prometheus"
 tagline: "Time-series database and monitoring system with strong alerting capabilities"
-category: "Development & Technical Tools"
-subcategory: "Analytics & Observability Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Prometheus"
 deployment_status: "deployed"
 image: "/images/tools/prometheus-placeholder.jpg"

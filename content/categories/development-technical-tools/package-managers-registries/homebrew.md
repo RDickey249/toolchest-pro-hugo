@@ -1,8 +1,8 @@
 ---
 title: "Homebrew"
 tagline: "macOS package manager for installing CLI tools and apps"
-category: "Development & Technical Tools"
-subcategory: "Package Managers & Registries"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Homebrew"
 deployment_status: "deployed"
 image: "/images/tools/homebrew-placeholder.jpg"

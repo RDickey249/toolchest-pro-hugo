@@ -1,8 +1,8 @@
 ---
 title: "Amplitude"
 tagline: "Product analytics and user behavior analysis platform"
-category: "Testing & Quality Assurance"
-subcategory: "A/B Testing & Optimization"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Amplitude"
 deployment_status: "deployed"
 image: "/images/tools/amplitude-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "DEAR Systems"
 tagline: "Cloud inventory management"
-category: "E-commerce & Business Tools"
-subcategory: "Inventory Management"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "DEAR Systems"
 deployment_status: "deployed"
 image: "/images/tools/dear-systems-placeholder.jpg"

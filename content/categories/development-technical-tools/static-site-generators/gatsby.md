@@ -1,8 +1,8 @@
 ---
 title: "Gatsby"
 tagline: "React-based static site generator with GraphQL data layer"
-category: "Development & Technical Tools"
-subcategory: "Static Site Generators"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Gatsby"
 deployment_status: "deployed"
 image: "/images/tools/gatsby-placeholder.jpg"

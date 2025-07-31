@@ -1,8 +1,8 @@
 ---
 title: "Claude"
 tagline: "Anthropic's thoughtful AI"
-category: "AI Tools & Assistants"
-subcategory: "Conversational AI"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Claude"
 deployment_status: "deployed"
 image: "/images/tools/claude-placeholder.jpg"

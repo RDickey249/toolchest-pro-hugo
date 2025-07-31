@@ -1,8 +1,8 @@
 ---
 title: "Framer"
 tagline: "Ready to get started? Visit [Framer](https://www.framer.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Framer"
 deployment_status: "deployed"
 image: "/images/tools/framer-placeholder.jpg"

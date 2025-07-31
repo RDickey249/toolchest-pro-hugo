@@ -1,5 +1,5 @@
 ---
-title: "Analytics & Data Tools"
+title: "📊 Analytics & Data Tools"
 description: "Web analytics, business intelligence, and data management platforms"
 ---
 

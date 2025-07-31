@@ -1,8 +1,8 @@
 ---
 title: "Timeneye"
 tagline: "Timeneye is the intelligent team time tracking platform with automated time capture and comprehensive project dashboards that provides teams with smar..."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Teams"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Timeneye"
 deployment_status: "deployed"
 image: "/images/tools/timeneye-placeholder.jpg"

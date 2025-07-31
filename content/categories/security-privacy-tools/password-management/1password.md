@@ -1,8 +1,8 @@
 ---
 title: "1Password"
 tagline: "Family and business passwords"
-category: "Security & Privacy Tools"
-subcategory: "Password Management"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "1Password"
 deployment_status: "deployed"
 image: "/images/tools/1password-placeholder.jpg"

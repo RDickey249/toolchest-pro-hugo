@@ -1,8 +1,8 @@
 ---
 title: "Gatling"
 tagline: "High-performance load testing framework with detailed metrics"
-category: "Testing & Quality Assurance"
-subcategory: "Performance Testing"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Gatling"
 deployment_status: "deployed"
 image: "/images/tools/gatling-placeholder.jpg"

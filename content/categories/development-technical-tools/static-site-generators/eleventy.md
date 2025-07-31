@@ -1,7 +1,7 @@
 ---
 title: "Eleventy"
 tagline: "Simple yet powerful static site generator with flexible templating"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Static Site Generators"
 tool_name: "Eleventy"
 deployment_status: "deployed"

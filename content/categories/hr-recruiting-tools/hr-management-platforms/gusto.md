@@ -1,8 +1,8 @@
 ---
 title: "Gusto"
 tagline: "Full-service payroll, benefits, and HR platform"
-category: "HR & Recruiting Tools"
-subcategory: "HR Management Platforms"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Gusto"
 deployment_status: "deployed"
 image: "/images/tools/gusto-placeholder.jpg"

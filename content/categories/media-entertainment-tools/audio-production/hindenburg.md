@@ -1,8 +1,8 @@
 ---
 title: "Hindenburg"
 tagline: "Specialized audio editor designed for journalism and storytelling"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Hindenburg"
 deployment_status: "deployed"
 image: "/images/tools/hindenburg-placeholder.jpg"

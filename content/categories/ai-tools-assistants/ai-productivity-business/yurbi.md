@@ -1,8 +1,8 @@
 ---
 title: "Yurbi"
 tagline: "Self-service business intelligence for non-technical users"
-category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Yurbi"
 deployment_status: "deployed"
 image: "/images/tools/yurbi-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Taskade"
 tagline: "AI-powered team collaboration and task management"
-category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Taskade"
 deployment_status: "deployed"
 image: "/images/tools/taskade-placeholder.jpg"

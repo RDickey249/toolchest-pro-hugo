@@ -1,8 +1,8 @@
 ---
 title: "Glassdoor"
 tagline: "Company reviews and jobs"
-category: "HR & Recruiting Tools"
-subcategory: "Job Posting & Sourcing"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Glassdoor"
 deployment_status: "deployed"
 image: "/images/tools/glassdoor-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Glide"
 tagline: "No-code app builder"
-category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Glide"
 deployment_status: "deployed"
 image: "/images/tools/glide-placeholder.jpg"

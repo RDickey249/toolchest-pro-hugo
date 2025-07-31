@@ -1,8 +1,8 @@
 ---
 title: "Figma API"
 tagline: "RESTful API for accessing Figma design files and collaboration features"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "📱 Marketing & Social Media"
+subcategory: "📱 Marketing & Social Media"
 tool_name: "Figma API"
 deployment_status: "deployed"
 image: "/images/tools/figma-api-placeholder.jpg"

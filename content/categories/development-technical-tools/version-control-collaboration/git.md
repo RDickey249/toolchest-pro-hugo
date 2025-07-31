@@ -1,8 +1,8 @@
 ---
 title: "Git"
 tagline: "Distributed version control system for tracking changes"
-category: "Development & Technical Tools"
-subcategory: "Version Control & Collaboration"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Git"
 deployment_status: "deployed"
 image: "/images/tools/git-placeholder.jpg"

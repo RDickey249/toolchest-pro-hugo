@@ -1,7 +1,7 @@
 ---
 title: "Scoro"
 tagline: "Business management software with projects, billing, and CRM"
-category: "Productivity & Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Advanced Project Management"
 tool_name: "Scoro"
 deployment_status: "deployed"

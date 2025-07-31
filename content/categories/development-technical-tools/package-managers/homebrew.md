@@ -1,7 +1,7 @@
 ---
 title: "Homebrew"
 tagline: "Package manager for macOS and Linux systems"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Package Managers"
 tool_name: "Homebrew"
 deployment_status: "deployed"

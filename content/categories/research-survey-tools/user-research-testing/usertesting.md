@@ -1,8 +1,8 @@
 ---
 title: "UserTesting"
 tagline: "Human insight platform for customer experience research"
-category: "Research & Survey"
-subcategory: "User Research & Testing"
+category: "📊 Research & Survey Tools"
+subcategory: "📊 Research & Survey Tools"
 tool_name: "UserTesting"
 deployment_status: "deployed"
 image: "/images/tools/usertesting-placeholder.jpg"

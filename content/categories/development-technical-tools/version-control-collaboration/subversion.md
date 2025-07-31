@@ -1,8 +1,8 @@
 ---
 title: "Subversion (SVN)"
 tagline: "Centralized version control system for collaborative development"
-category: "Development & Technical Tools"
-subcategory: "Version Control & Collaboration"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Subversion (SVN)"
 deployment_status: "deployed"
 image: "/images/tools/subversion-placeholder.jpg"

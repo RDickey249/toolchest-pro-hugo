@@ -1,8 +1,8 @@
 ---
 title: "Aspera"
 tagline: "High-speed transfer"
-category: "Cloud Storage & File Management"
-subcategory: "File Transfer"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Aspera"
 deployment_status: "deployed"
 image: "/images/tools/aspera-placeholder.jpg"

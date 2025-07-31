@@ -1,8 +1,8 @@
 ---
 title: "Visme"
 tagline: "Ready to get started? Visit [Visme](https://www.visme.co) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Visme"
 deployment_status: "deployed"
 image: "/images/tools/visme-placeholder.jpg"

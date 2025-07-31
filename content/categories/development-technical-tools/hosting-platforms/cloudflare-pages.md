@@ -1,8 +1,8 @@
 ---
 title: "Cloudflare Pages"
 tagline: "JAMstack platform with global edge network deployment"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Cloudflare Pages"
 deployment_status: "deployed"
 image: "/images/tools/cloudflare-pages-placeholder.jpg"

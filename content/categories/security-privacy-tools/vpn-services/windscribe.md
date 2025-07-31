@@ -1,8 +1,8 @@
 ---
 title: "Windscribe"
 tagline: "Free tier VPN"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Windscribe"
 deployment_status: "deployed"
 image: "/images/tools/windscribe-placeholder.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Research & Survey Tools"
+title: "📊 Research & Survey Tools"
 tagline: "Data collection and research platforms"
 category: "Research & Survey"
 description: "Research and survey tools empower organizations to gather insights, understand their audience, and make data-driven decisions. From simple feedback forms to comprehensive market research platforms, these tools help collect quantitative and qualitative data through surveys, polls, user testing, and behavioral analytics. Whether you're conducting customer satisfaction surveys, market research, academic studies, or user experience testing, these platforms provide the methodology and analytics needed to transform raw data into actionable insights."

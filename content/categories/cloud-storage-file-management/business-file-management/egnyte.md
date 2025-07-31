@@ -1,8 +1,8 @@
 ---
 title: "Egnyte"
 tagline: "Hybrid cloud storage"
-category: "Cloud Storage & File Management"
-subcategory: "Business File Management"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Egnyte"
 deployment_status: "deployed"
 image: "/images/tools/egnyte-placeholder.jpg"

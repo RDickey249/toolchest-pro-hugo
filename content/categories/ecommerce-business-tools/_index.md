@@ -1,5 +1,5 @@
 ---
-title: "E-commerce & Business Tools"
+title: "🛍️ E-commerce & Business Tools"
 description: "Online store platforms, payment processing, and inventory management solutions"
 weight: 1
 ---

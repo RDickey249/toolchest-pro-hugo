@@ -1,8 +1,8 @@
 ---
 title: "Stripe"
 tagline: "Online payment processing"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Stripe"
 deployment_status: "deployed"
 image: "/images/tools/stripe-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Postman"
 tagline: "The world's leading API platform"
-category: "Development & Technical Tools"
-subcategory: "API Design & Testing"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Postman"
 deployment_status: "deployed"
 image: "/images/tools/postman-placeholder.jpg"

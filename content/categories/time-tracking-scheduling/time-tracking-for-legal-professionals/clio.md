@@ -1,8 +1,8 @@
 ---
 title: "Clio"
 tagline: "Ready to streamline your legal practice? Visit [Clio](https://www.clio.com) to explore the complete legal practice management platform trusted by over..."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Legal Professionals"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Clio"
 deployment_status: "deployed"
 image: "/images/tools/clio-placeholder.jpg"

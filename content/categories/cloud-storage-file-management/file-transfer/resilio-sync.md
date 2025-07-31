@@ -1,8 +1,8 @@
 ---
 title: "Resilio Sync"
 tagline: "P2P file sync"
-category: "Cloud Storage & File Management"
-subcategory: "File Transfer"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Resilio Sync"
 deployment_status: "deployed"
 image: "/images/tools/resilio-sync-placeholder.jpg"

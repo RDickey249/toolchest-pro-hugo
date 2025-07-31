@@ -1,8 +1,8 @@
 ---
 title: "Emacs"
 tagline: "Extensible editor with Lisp-based customization and strong community-driven workflows"
-category: "Development & Technical Tools"
-subcategory: "IDEs & Code Editors"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Emacs"
 deployment_status: "deployed"
 image: "/images/tools/emacs-placeholder.jpg"

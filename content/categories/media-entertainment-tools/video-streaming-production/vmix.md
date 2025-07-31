@@ -1,8 +1,8 @@
 ---
 title: "vMix"
 tagline: "Comprehensive live video production and streaming software"
-category: "Media & Entertainment"
-subcategory: "Video Streaming & Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "vMix"
 deployment_status: "deployed"
 image: "/images/tools/vmix-placeholder.jpg"

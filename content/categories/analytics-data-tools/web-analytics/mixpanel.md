@@ -1,8 +1,8 @@
 ---
 title: "Mixpanel"
 tagline: "Event tracking analytics"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Mixpanel"
 deployment_status: "deployed"
 image: "/images/tools/mixpanel-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Beautiful.ai"
 tagline: "Create stunning presentations in minutes. Visit [beautiful.ai](https://www.beautiful.ai) to start your free trial and let AI handle the design while y..."
-category: "Business Marketing Tools"
-subcategory: "Presentation Tools"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Beautiful.ai"
 deployment_status: "deployed"
 image: "/images/tools/beautiful-ai-placeholder.jpg"

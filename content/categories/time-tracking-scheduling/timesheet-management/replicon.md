@@ -1,7 +1,7 @@
 ---
 title: "Replicon"
 tagline: "Ready to get started? Visit [Replicon](https://www.replicon.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
+category: "⏰ Time Tracking & Scheduling"
 subcategory: "Timesheet Management"
 tool_name: "Replicon"
 deployment_status: "deployed"

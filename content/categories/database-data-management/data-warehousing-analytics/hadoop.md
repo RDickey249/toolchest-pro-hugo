@@ -1,8 +1,8 @@
 ---
 title: "Hadoop"
 tagline: "Distributed storage and processing framework for big data"
-category: "Database & Data Management"
-subcategory: "Data Warehousing & Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Hadoop"
 deployment_status: "deployed"
 image: "/images/tools/hadoop-placeholder.jpg"

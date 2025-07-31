@@ -1,8 +1,8 @@
 ---
 title: "BambooHR"
 tagline: "HR software platform"
-category: "HR & Recruiting Tools"
-subcategory: "Applicant Tracking Systems"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "BambooHR"
 deployment_status: "deployed"
 image: "/images/tools/bamboohr-placeholder.jpg"

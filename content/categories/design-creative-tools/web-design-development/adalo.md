@@ -1,8 +1,8 @@
 ---
 title: "Adalo"
 tagline: "Mobile app builder"
-category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Adalo"
 deployment_status: "deployed"
 image: "/images/tools/adalo-placeholder.jpg"

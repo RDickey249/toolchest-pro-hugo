@@ -1,8 +1,8 @@
 ---
 title: "Podman"
 tagline: "Daemonless container engine for secure and rootless container management"
-category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Podman"
 deployment_status: "deployed"
 image: "/images/tools/podman-placeholder.jpg"

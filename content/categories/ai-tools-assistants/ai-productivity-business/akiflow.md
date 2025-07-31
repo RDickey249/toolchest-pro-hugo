@@ -1,8 +1,8 @@
 ---
 title: "Akiflow"
 tagline: "Ready to get started? Visit [Akiflow](https://akiflow.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "🖥️ Hardware & Equipment Tools"
+subcategory: "🖥️ Hardware & Equipment Tools"
 tool_name: "Akiflow"
 deployment_status: "deployed"
 image: "/images/tools/akiflow-placeholder.jpg"

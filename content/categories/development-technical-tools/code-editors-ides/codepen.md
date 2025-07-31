@@ -1,8 +1,8 @@
 ---
 title: "CodePen"
 tagline: "Online code editor and social development environment for frontend"
-category: "Development & Technical Tools"
-subcategory: "Code Editors & IDEs"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "CodePen"
 deployment_status: "deployed"
 image: "/images/tools/codepen-placeholder.jpg"

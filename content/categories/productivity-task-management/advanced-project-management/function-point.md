@@ -1,7 +1,7 @@
 ---
 title: "Function Point"
 tagline: "Creative agency project software with budgeting and scheduling"
-category: "Productivity & Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Advanced Project Management"
 tool_name: "Function Point"
 deployment_status: "deployed"

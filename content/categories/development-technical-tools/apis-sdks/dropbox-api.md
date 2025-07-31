@@ -1,8 +1,8 @@
 ---
 title: "Dropbox API"
 tagline: "Cloud storage and file synchronization platform"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Dropbox API"
 deployment_status: "deployed"
 image: "/images/tools/dropbox-api-placeholder.jpg"

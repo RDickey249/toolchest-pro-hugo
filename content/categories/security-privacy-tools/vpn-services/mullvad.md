@@ -1,8 +1,8 @@
 ---
 title: "Mullvad"
 tagline: "Privacy-first VPN with anonymous accounts"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Mullvad"
 deployment_status: "deployed"
 image: "/images/tools/mullvad-placeholder.jpg"

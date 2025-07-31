@@ -1,8 +1,8 @@
 ---
 title: "Zoho CRM"
 tagline: "Affordable business suite"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Zoho CRM"
 deployment_status: "deployed"
 image: "/images/tools/zoho-crm-placeholder.jpg"

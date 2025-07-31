@@ -1,8 +1,8 @@
 ---
 title: "WordPress.com"
 tagline: "Hosted WordPress"
-category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "WordPress.com"
 deployment_status: "deployed"
 image: "/images/tools/wordpress-placeholder.jpg"

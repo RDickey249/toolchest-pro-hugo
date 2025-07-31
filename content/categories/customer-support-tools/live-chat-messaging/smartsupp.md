@@ -1,8 +1,8 @@
 ---
 title: "Smartsupp"
 tagline: "Live chat with video recording and chatbots"
-category: "Customer Support"
-subcategory: "Live Chat & Messaging"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Smartsupp"
 deployment_status: "deployed"
 image: "/images/tools/smartsupp-placeholder.jpg"

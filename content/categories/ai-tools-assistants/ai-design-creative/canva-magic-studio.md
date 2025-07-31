@@ -1,8 +1,8 @@
 ---
 title: "Canva Magic Studio"
 tagline: "Ready to get started? Visit [Canva Magic Studio](https://www.canva.com/magic-studio) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Canva Magic Studio"
 deployment_status: "deployed"
 image: "/images/tools/canva-magic-studio-placeholder.jpg"

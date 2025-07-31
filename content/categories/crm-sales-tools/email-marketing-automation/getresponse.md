@@ -1,8 +1,8 @@
 ---
 title: "GetResponse"
 tagline: "All-in-one marketing"
-category: "CRM & Sales Tools"
-subcategory: "Email Marketing & Automation"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "GetResponse"
 deployment_status: "deployed"
 image: "/images/tools/getresponse-placeholder.jpg"

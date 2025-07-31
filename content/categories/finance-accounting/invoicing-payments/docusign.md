@@ -1,8 +1,8 @@
 ---
 title: "Docusign"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Docusign"
 deployment_status: "deployed"
 image: "/images/tools/docusign-placeholder.jpg"

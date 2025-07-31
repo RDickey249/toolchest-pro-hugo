@@ -1,7 +1,7 @@
 ---
 title: "Read the Docs"
 tagline: "Hosting platform for documentation built from Sphinx and MkDocs projects"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Documentation & Productivity Tools"
 tool_name: "Read the Docs"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Sticky Password"
 tagline: "Biometric authentication"
-category: "Security & Privacy Tools"
-subcategory: "Password Management"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Sticky Password"
 deployment_status: "deployed"
 image: "/images/tools/sticky-password-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Jest"
 tagline: "Delightful JavaScript testing framework with zero configuration"
-category: "Testing & Quality Assurance"
-subcategory: "Software Testing Frameworks"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Jest"
 deployment_status: "deployed"
 image: "/images/tools/jest-placeholder.jpg"

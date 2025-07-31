@@ -1,8 +1,8 @@
 ---
 title: "Adobe Premiere Pro"
 tagline: "Video editing"
-category: "Design & Creative Tools"
-subcategory: "Video & Animation"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Adobe Premiere Pro"
 deployment_status: "deployed"
 image: "/images/tools/adobe-premiere-pro-placeholder.jpg"

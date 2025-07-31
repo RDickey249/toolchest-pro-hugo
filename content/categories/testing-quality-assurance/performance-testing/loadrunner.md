@@ -1,8 +1,8 @@
 ---
 title: "LoadRunner"
 tagline: "Enterprise performance testing platform by Micro Focus"
-category: "Testing & Quality Assurance"
-subcategory: "Performance Testing"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "LoadRunner"
 deployment_status: "deployed"
 image: "/images/tools/loadrunner-placeholder.jpg"

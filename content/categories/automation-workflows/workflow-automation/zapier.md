@@ -1,8 +1,8 @@
 ---
 title: "Zapier"
 tagline: "Connect apps without code"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Obsidian"
 tagline: "Markdown-based personal knowledge management app with graph view"
-category: "Development & Technical Tools"
-subcategory: "Documentation & Productivity Tools"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Obsidian"
 deployment_status: "deployed"
 image: "/images/tools/obsidian-placeholder.jpg"

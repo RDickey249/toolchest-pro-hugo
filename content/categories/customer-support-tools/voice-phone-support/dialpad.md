@@ -1,8 +1,8 @@
 ---
 title: "Dialpad"
 tagline: "AI-powered business communications platform"
-category: "Customer Support"
-subcategory: "Voice & Phone Support"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Dialpad"
 deployment_status: "deployed"
 image: "/images/tools/dialpad-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "SQLite"
 tagline: "Lightweight, embedded database perfect for applications"
-category: "Database & Data Management"
-subcategory: "Relational Databases"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "SQLite"
 deployment_status: "deployed"
 image: "/images/tools/sqlite-placeholder.jpg"

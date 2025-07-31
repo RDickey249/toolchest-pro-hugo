@@ -1,8 +1,8 @@
 ---
 title: "HTTPie"
 tagline: "Human-friendly command-line HTTP client"
-category: "Testing & Quality Assurance"
-subcategory: "API Testing Tools"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "HTTPie"
 deployment_status: "deployed"
 image: "/images/tools/httpie-placeholder.jpg"

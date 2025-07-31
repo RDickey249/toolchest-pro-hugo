@@ -1,8 +1,8 @@
 ---
 title: "Promptitude"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Ai Tools Assistants"
-subcategory: "Prompt Engineering"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Promptitude"
 deployment_status: "deployed"
 image: "/images/tools/promptitude-placeholder.jpg"

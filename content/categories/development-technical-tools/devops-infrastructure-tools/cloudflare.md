@@ -1,8 +1,8 @@
 ---
 title: "Cloudflare"
 tagline: "Global CDN and security platform for web performance and protection"
-category: "Development & Technical Tools"
-subcategory: "DevOps & Infrastructure Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Cloudflare"
 deployment_status: "deployed"
 image: "/images/tools/cloudflare-placeholder.jpg"

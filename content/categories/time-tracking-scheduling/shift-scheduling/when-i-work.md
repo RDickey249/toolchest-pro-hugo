@@ -1,8 +1,8 @@
 ---
 title: "When I Work"
 tagline: "Simple employee scheduling and team communication"
-category: "Time Tracking & Scheduling"
-subcategory: "Shift Scheduling"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "When I Work"
 deployment_status: "deployed"
 image: "/images/tools/when-i-work-placeholder.jpg"

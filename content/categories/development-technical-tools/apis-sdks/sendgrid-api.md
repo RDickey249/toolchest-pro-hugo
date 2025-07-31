@@ -1,7 +1,7 @@
 ---
 title: "SendGrid API"
 tagline: "Cloud-based email delivery and marketing platform"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "APIs & SDKs"
 tool_name: "SendGrid API"
 deployment_status: "deployed"

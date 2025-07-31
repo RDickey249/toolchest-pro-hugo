@@ -1,8 +1,8 @@
 ---
 title: "Klaviyo"
 tagline: "Ecommerce email marketing"
-category: "Business Marketing Tools"
-subcategory: "Marketing Automation"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Klaviyo"
 deployment_status: "deployed"
 image: "/images/tools/klaviyo-placeholder.jpg"

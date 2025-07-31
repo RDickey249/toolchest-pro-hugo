@@ -1,8 +1,8 @@
 ---
 title: "Splunk"
 tagline: "Platform for searching, monitoring and analyzing machine data"
-category: "Database & Data Management"
-subcategory: "Data Warehousing & Analytics"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Splunk"
 deployment_status: "deployed"
 image: "/images/tools/splunk-placeholder.jpg"

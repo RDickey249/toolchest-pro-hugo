@@ -1,8 +1,8 @@
 ---
 title: "Synthesia"
 tagline: "Create AI videos without cameras or actors. Visit [synthesia.io](https://www.synthesia.io) to start your free trial and transform text into profession..."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Synthesia"
 deployment_status: "deployed"
 image: "/images/tools/synthesia-placeholder.jpg"

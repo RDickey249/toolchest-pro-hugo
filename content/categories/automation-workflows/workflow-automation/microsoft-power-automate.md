@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Power Automate"
 tagline: "Microsoft's automation"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Microsoft Power Automate"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-power-automate-placeholder.jpg"

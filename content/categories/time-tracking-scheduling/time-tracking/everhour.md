@@ -1,8 +1,8 @@
 ---
 title: "Everhour"
 tagline: "Time tracking that integrates with your project tools"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Everhour"
 deployment_status: "deployed"
 image: "/images/tools/everhour-placeholder.jpg"

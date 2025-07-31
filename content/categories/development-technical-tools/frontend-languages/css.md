@@ -1,8 +1,8 @@
 ---
 title: "CSS"
 tagline: "Styling language used alongside HTML"
-category: "Development & Technical Tools"
-subcategory: "Frontend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "CSS"
 deployment_status: "deployed"
 image: "/images/tools/css-placeholder.jpg"

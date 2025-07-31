@@ -1,8 +1,8 @@
 ---
 title: "Time Doctor"
 tagline: "Remote team monitoring with time tracking"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Time Doctor"
 deployment_status: "deployed"
 image: "/images/tools/time-doctor-placeholder.jpg"

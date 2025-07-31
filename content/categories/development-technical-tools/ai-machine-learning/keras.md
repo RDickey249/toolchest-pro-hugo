@@ -1,7 +1,7 @@
 ---
 title: "Keras"
 tagline: "High-level neural networks API, user-friendly and modular; runs on top of TensorFlow"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "AI & Machine Learning Tools"
 tool_name: "Keras"
 deployment_status: "deployed"

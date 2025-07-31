@@ -1,8 +1,8 @@
 ---
 title: "FlowGPT"
 tagline: "Discover and share the best AI prompts. Visit [flowgpt.com](https://flowgpt.com) to explore millions of community-tested prompts and accelerate your A..."
-category: "Ai Tools Assistants"
-subcategory: "Prompt Engineering"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "FlowGPT"
 deployment_status: "deployed"
 image: "/images/tools/flowgpt-placeholder.jpg"

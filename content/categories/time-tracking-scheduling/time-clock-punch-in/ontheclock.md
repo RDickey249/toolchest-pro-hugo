@@ -1,8 +1,8 @@
 ---
 title: "OnTheClock"
 tagline: "Ready to get started? Visit [OnTheClock](https://www.ontheclock.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Clock Punch In"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "OnTheClock"
 deployment_status: "deployed"
 image: "/images/tools/ontheclock-placeholder.jpg"

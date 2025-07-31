@@ -1,8 +1,8 @@
 ---
 title: "Outline"
 tagline: "Team knowledge base"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Knowledge Management"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Outline"
 deployment_status: "deployed"
 image: "/images/tools/outline-placeholder.jpg"

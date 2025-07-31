@@ -1,8 +1,8 @@
 ---
 title: "Zabbix"
 tagline: "Enterprise-grade monitoring solution for networks, servers, and applications"
-category: "Development & Technical Tools"
-subcategory: "Monitoring & Observability"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Zabbix"
 deployment_status: "deployed"
 image: "/images/tools/zabbix-placeholder.jpg"

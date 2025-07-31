@@ -1,8 +1,8 @@
 ---
 title: "Go"
 tagline: "Compiled language by Google, designed for simplicity and concurrency, often used in cloud infrastructure"
-category: "Development & Technical Tools"
-subcategory: "Systems & Low-Level"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Go"
 deployment_status: "deployed"
 image: "/images/tools/go-placeholder.jpg"

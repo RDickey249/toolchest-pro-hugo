@@ -1,7 +1,7 @@
 ---
 title: "Employment Verification"
 tagline: "Various services"
-category: "HR & Recruiting Tools"
+category: "👥 HR & Recruiting Tools"
 subcategory: "Background Checks & Verification"
 tool_name: "Employment Verification"
 deployment_status: "deployed"

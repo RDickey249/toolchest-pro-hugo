@@ -1,7 +1,7 @@
 ---
 title: "Booking.com"
 tagline: "Leading online travel platform"
-category: "Business Marketing Tools"
+category: "📱 Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "Booking.com"
 deployment_status: "deployed"

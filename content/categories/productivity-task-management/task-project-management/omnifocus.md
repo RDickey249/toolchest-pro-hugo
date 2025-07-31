@@ -1,8 +1,8 @@
 ---
 title: "OmniFocus"
 tagline: "GTD methodology implementation for Mac/iOS with advanced features"
-category: "Productivity & Task Management"
-subcategory: "Task & Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "OmniFocus"
 deployment_status: "deployed"
 image: "/images/tools/omnifocus-placeholder.jpg"

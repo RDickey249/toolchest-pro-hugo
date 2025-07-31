@@ -1,8 +1,8 @@
 ---
 title: "Crazy Egg"
 tagline: "Heatmap analytics"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Crazy Egg"
 deployment_status: "deployed"
 image: "/images/tools/crazy-egg-placeholder.jpg"

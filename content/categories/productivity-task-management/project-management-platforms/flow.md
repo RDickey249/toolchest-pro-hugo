@@ -1,8 +1,8 @@
 ---
 title: "Flow"
 tagline: "Ready to simplify your team's project coordination?..."
-category: "Productivity Task Management"
-subcategory: "Project Management Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Flow"
 deployment_status: "deployed"
 image: "/images/tools/flow-placeholder.jpg"

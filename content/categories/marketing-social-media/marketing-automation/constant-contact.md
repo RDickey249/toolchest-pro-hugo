@@ -1,8 +1,8 @@
 ---
 title: "Constant Contact"
 tagline: "Small business email"
-category: "Business Marketing Tools"
-subcategory: "Marketing Automation"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Constant Contact"
 deployment_status: "deployed"
 image: "/images/tools/constant-contact-placeholder.jpg"

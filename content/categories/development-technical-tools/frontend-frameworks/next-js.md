@@ -1,8 +1,8 @@
 ---
 title: "Next.js"
 tagline: "React framework for production with server-side rendering and static generation"
-category: "Development & Technical Tools"
-subcategory: "Frontend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Next.js"
 deployment_status: "deployed"
 image: "/images/tools/next-js-placeholder.jpg"

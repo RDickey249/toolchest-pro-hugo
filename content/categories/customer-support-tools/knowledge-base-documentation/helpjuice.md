@@ -1,8 +1,8 @@
 ---
 title: "Helpjuice"
 tagline: "Knowledge base software designed for customer support"
-category: "Customer Support"
-subcategory: "Knowledge Base & Documentation"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Helpjuice"
 deployment_status: "deployed"
 image: "/images/tools/helpjuice-placeholder.jpg"

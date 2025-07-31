@@ -1,8 +1,8 @@
 ---
 title: "Datadog"
 tagline: "Cloud-scale observability platform with integrated metrics, traces, and logs"
-category: "Development & Technical Tools"
-subcategory: "Analytics & Observability Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Datadog"
 deployment_status: "deployed"
 image: "/images/tools/datadog-placeholder.jpg"

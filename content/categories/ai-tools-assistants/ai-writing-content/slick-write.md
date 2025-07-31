@@ -1,8 +1,8 @@
 ---
 title: "Slick Write"
 tagline: "Ready to get started? Visit [Slick Write](https://www.slickwrite.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "♿ Accessibility & Inclusion Tools"
+subcategory: "♿ Accessibility & Inclusion Tools"
 tool_name: "Slick Write"
 deployment_status: "deployed"
 image: "/images/tools/slick-write-placeholder.jpg"

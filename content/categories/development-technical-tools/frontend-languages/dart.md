@@ -1,8 +1,8 @@
 ---
 title: "Dart"
 tagline: "Client-optimized programming language for modern app development"
-category: "Development & Technical Tools"
-subcategory: "Frontend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Dart"
 deployment_status: "deployed"
 image: "/images/tools/dart-placeholder.jpg"

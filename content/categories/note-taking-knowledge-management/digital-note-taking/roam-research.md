@@ -1,8 +1,8 @@
 ---
 title: "Roam Research"
 tagline: "Networked thought"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Digital Note-Taking"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Roam Research"
 deployment_status: "deployed"
 image: "/images/tools/roam-research-placeholder.jpg"

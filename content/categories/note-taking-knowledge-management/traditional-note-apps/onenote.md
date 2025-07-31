@@ -1,8 +1,8 @@
 ---
 title: "OneNote"
 tagline: "Microsoft's note-taking"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Traditional Note Apps"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "OneNote"
 deployment_status: "deployed"
 image: "/images/tools/onenote-placeholder.jpg"

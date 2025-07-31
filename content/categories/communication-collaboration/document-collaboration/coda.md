@@ -1,8 +1,8 @@
 ---
 title: "Coda"
 tagline: "Documents that act like databases"
-category: "Communication & Collaboration"
-subcategory: "Document Collaboration"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Coda"
 deployment_status: "deployed"
 image: "/images/tools/coda-placeholder.jpg"

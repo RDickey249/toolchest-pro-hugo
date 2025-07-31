@@ -1,8 +1,8 @@
 ---
 title: "Nightwatch.js"
 tagline: "End-to-end testing framework with built-in test runner and assertions"
-category: "Development & Technical Tools"
-subcategory: "Testing & QA Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Nightwatch.js"
 deployment_status: "deployed"
 image: "/images/tools/nightwatch-js-placeholder.jpg"

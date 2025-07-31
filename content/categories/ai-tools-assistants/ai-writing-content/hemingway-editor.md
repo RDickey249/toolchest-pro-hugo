@@ -1,8 +1,8 @@
 ---
 title: "Hemingway Editor"
 tagline: "Ready to write with clarity and impact? Visit [Hemingway Editor](https://hemingwayapp.com) to transform complex writing into bold, clear prose that re..."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Hemingway Editor"
 deployment_status: "deployed"
 image: "/images/tools/hemingway-editor-placeholder.jpg"

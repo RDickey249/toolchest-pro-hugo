@@ -1,8 +1,8 @@
 ---
 title: "NetSuite"
 tagline: "ERP with inventory"
-category: "E-commerce & Business Tools"
-subcategory: "Inventory Management"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "NetSuite"
 deployment_status: "deployed"
 image: "/images/tools/netsuite-placeholder.jpg"

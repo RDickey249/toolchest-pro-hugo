@@ -1,8 +1,8 @@
 ---
 title: "Zendesk"
 tagline: "Leading customer service software and support ticketing system"
-category: "Customer Support"
-subcategory: "Help Desk Platforms"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Zendesk"
 deployment_status: "deployed"
 image: "/images/tools/zendesk-placeholder.jpg"

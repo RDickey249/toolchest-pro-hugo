@@ -1,7 +1,7 @@
 ---
 title: "DeepSource"
 tagline: "Continuous static analysis with autofix suggestions"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Code Quality & Linting"
 tool_name: "DeepSource"
 deployment_status: "deployed"

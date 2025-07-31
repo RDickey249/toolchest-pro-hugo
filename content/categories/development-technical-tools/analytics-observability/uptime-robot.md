@@ -1,8 +1,8 @@
 ---
 title: "Uptime Robot"
 tagline: "Website monitoring service for uptime tracking and downtime alerts"
-category: "Development & Technical Tools"
-subcategory: "Analytics & Observability"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Uptime Robot"
 deployment_status: "deployed"
 image: "/images/tools/uptime-robot-placeholder.jpg"

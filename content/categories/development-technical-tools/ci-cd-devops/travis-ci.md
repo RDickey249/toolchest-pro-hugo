@@ -1,8 +1,8 @@
 ---
 title: "Travis CI"
 tagline: "CI platform for GitHub projects with extensive language support and simple configuration"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Travis CI"
 deployment_status: "deployed"
 image: "/images/tools/travis-ci-placeholder.jpg"

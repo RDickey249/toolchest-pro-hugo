@@ -1,8 +1,8 @@
 ---
 title: "Pictory"
 tagline: "Turn your blog posts into videos instantly. Visit [pictory.ai](https://pictory.ai) to start your free trial and transform text into compelling video c..."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Pictory"
 deployment_status: "deployed"
 image: "/images/tools/pictory-placeholder.jpg"

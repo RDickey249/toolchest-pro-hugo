@@ -1,8 +1,8 @@
 ---
 title: "Auphonic"
 tagline: "Automate professional audio post-production. Visit [auphonic.com](https://auphonic.com) to start optimizing your recordings and achieve broadcast-qual..."
-category: "Video Audio Tools"
-subcategory: "Audio Generation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Auphonic"
 deployment_status: "deployed"
 image: "/images/tools/auphonic-placeholder.jpg"
@@ -12,8 +12,8 @@ Auphonic is an intelligent audio post-production platform that automatically tra
 ---
 title: "Auphonic"
 tagline: "Intelligent audio post-production and optimization platform"
-category: "Video & Audio Tools"
-subcategory: "Audio Generation & Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Auphonic"
 deployment_status: "deployed"
 image: "/images/tools/auphonic-placeholder.jpg"

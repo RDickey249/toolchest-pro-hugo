@@ -1,8 +1,8 @@
 ---
 title: "pCloud"
 tagline: "Lifetime storage plans"
-category: "Cloud Storage & File Management"
-subcategory: "Personal Cloud Storage"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "pCloud"
 deployment_status: "deployed"
 image: "/images/tools/pcloud-placeholder.jpg"

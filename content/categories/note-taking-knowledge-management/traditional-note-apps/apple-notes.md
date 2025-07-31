@@ -1,8 +1,8 @@
 ---
 title: "Apple Notes"
 tagline: "Built-in iOS/Mac notes"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Traditional Note Apps"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Apple Notes"
 deployment_status: "deployed"
 image: "/images/tools/apple-notes-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Apache Spark"
 tagline: "Big data processing"
-category: "Analytics & Data Tools"
-subcategory: "Data Management"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Apache Spark"
 deployment_status: "deployed"
 image: "/images/tools/apache-spark-placeholder.jpg"

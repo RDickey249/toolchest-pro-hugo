@@ -1,8 +1,8 @@
 ---
 title: "ProWorkflow"
 tagline: "Ready to get started? Visit [this tool](https://www.proworkflow.com) to explore the platform and begin using this tool...."
-category: "Productivity Task Management"
-subcategory: "Project Management Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ProWorkflow"
 deployment_status: "deployed"
 image: "/images/tools/proworkflow-placeholder.jpg"

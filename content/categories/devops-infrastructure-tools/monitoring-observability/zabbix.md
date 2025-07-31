@@ -1,8 +1,8 @@
 ---
 title: "Zabbix"
 tagline: "Enterprise-class open source monitoring solution"
-category: "DevOps & Infrastructure"
-subcategory: "Monitoring & Observability"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "Zabbix"
 deployment_status: "deployed"
 image: "/images/tools/zabbix-placeholder.jpg"

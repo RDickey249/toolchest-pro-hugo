@@ -1,8 +1,8 @@
 ---
 title: "Typora"
 tagline: "Minimalist markdown editor with real-time preview"
-category: "Development & Technical Tools"
-subcategory: "Documentation & Productivity Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Typora"
 deployment_status: "deployed"
 image: "/images/tools/typora-placeholder.jpg"

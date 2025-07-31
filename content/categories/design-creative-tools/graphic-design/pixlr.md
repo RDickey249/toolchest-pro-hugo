@@ -1,8 +1,8 @@
 ---
 title: "Pixlr"
 tagline: "Online photo editor"
-category: "Design & Creative Tools"
-subcategory: "Graphic Design"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Pixlr"
 deployment_status: "deployed"
 image: "/images/tools/pixlr-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Grafana"
 tagline: "Visualization dashboard supporting data from Prometheus, InfluxDB, and other sources"
-category: "Development & Technical Tools"
-subcategory: "Analytics & Observability Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Grafana"
 deployment_status: "deployed"
 image: "/images/tools/grafana-placeholder.jpg"

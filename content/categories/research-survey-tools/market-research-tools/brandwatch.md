@@ -1,7 +1,7 @@
 ---
 title: "Brandwatch"
 tagline: "Digital consumer intelligence and social listening platform"
-category: "Research & Survey"
+category: "📊 Research & Survey Tools"
 subcategory: "Market Research Tools"
 tool_name: "Brandwatch"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Lucky Orange"
 tagline: "Real-time analytics"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Lucky Orange"
 deployment_status: "deployed"
 image: "/images/tools/lucky-orange-placeholder.jpg"

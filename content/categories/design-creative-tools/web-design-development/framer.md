@@ -1,8 +1,8 @@
 ---
 title: "Framer"
 tagline: "Interactive design"
-category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Framer"
 deployment_status: "deployed"
 image: "/images/tools/framer-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "ActiveCampaign"
 tagline: "Email marketing + CRM"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "ActiveCampaign"
 deployment_status: "deployed"
 image: "/images/tools/activecampaign-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "SAP"
 tagline: "Enterprise resource planning"
-category: "E-commerce & Business Tools"
-subcategory: "Inventory Management"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "SAP"
 deployment_status: "deployed"
 image: "/images/tools/sap-placeholder.jpg"

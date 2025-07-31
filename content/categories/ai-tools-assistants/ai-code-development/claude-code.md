@@ -1,8 +1,8 @@
 ---
 title: "Claude Code"
 tagline: "Claude Code brings AI pair programming directly to your terminal. Built by Anthropic, it's a powerful CLI tool that lets developers write, debug, and ..."
-category: "Ai Tools Assistants"
-subcategory: "Ai Code Development"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Claude Code"
 deployment_status: "deployed"
 image: "/images/tools/claude-code-placeholder.jpg"

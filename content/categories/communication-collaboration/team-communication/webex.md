@@ -1,8 +1,8 @@
 ---
 title: "Webex"
 tagline: "Enterprise video conferencing"
-category: "Communication & Collaboration"
-subcategory: "Team Communication"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Webex"
 deployment_status: "deployed"
 image: "/images/tools/webex-placeholder.jpg"

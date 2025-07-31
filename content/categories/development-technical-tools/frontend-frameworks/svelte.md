@@ -1,8 +1,8 @@
 ---
 title: "Svelte"
 tagline: "Compile-time optimized framework with reactive programming"
-category: "Development & Technical Tools"
-subcategory: "Frontend Frameworks"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Svelte"
 deployment_status: "deployed"
 image: "/images/tools/svelte-placeholder.jpg"

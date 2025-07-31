@@ -1,8 +1,8 @@
 ---
 title: "Hotjar"
 tagline: "Website heatmaps and user behavior analytics platform"
-category: "Testing & Quality Assurance"
-subcategory: "A/B Testing & Optimization"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Hotjar"
 deployment_status: "deployed"
 image: "/images/tools/hotjar-placeholder.jpg"

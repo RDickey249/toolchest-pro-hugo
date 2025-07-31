@@ -12,9 +12,10 @@
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
         {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
-        {{ $categoryPage := index $taxonomy 0 }}
+        {{ $categoryPath := printf "categories/%s" $categoryName }}
+        {{ $categoryPage := $.Site.GetPage $categoryPath }}
         <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ $categoryPage.Params.category | default $categoryName }}</a></h2>
+            <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ if $categoryPage }}{{ $categoryPage.Title }}{{ else }}{{ $categoryName }}{{ end }}</a></h2>
             <p class="category-description">{{ $categoryPage.Params.tagline | default $categoryPage.Summary | truncate 120 }}</p>
             <p class="tool-count">{{ len $taxonomy }} tools</p>
             

@@ -1,8 +1,8 @@
 ---
 title: "Make (Integromat)"
 tagline: "Visual automation"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Make (Integromat)"
 deployment_status: "deployed"
 image: "/images/tools/make-placeholder.jpg"

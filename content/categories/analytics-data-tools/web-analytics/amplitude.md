@@ -1,8 +1,8 @@
 ---
 title: "Amplitude"
 tagline: "Product analytics"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Amplitude"
 deployment_status: "deployed"
 image: "/images/tools/amplitude-placeholder.jpg"

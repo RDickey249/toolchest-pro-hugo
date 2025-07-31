@@ -1,8 +1,8 @@
 ---
 title: "OpenShift"
 tagline: "Red Hat's enterprise Kubernetes platform with developer tools"
-category: "DevOps & Infrastructure"
-subcategory: "Container & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "OpenShift"
 deployment_status: "deployed"
 image: "/images/tools/openshift-placeholder.jpg"

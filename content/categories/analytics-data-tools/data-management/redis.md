@@ -1,8 +1,8 @@
 ---
 title: "Redis"
 tagline: "In-memory database"
-category: "Analytics & Data Tools"
-subcategory: "Data Management"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "Redis"
 deployment_status: "deployed"
 image: "/images/tools/redis-placeholder.jpg"

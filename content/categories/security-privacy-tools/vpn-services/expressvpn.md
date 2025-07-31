@@ -1,8 +1,8 @@
 ---
 title: "ExpressVPN"
 tagline: "Fast VPN service"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "ExpressVPN"
 deployment_status: "deployed"
 image: "/images/tools/expressvpn-placeholder.jpg"

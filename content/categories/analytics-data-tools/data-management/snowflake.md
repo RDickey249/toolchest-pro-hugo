@@ -1,8 +1,8 @@
 ---
 title: "Snowflake"
 tagline: "Cloud data platform"
-category: "Analytics & Data Tools"
-subcategory: "Data Management"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Snowflake"
 deployment_status: "deployed"
 image: "/images/tools/snowflake-placeholder.jpg"

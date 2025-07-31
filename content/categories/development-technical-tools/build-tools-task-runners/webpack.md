@@ -1,8 +1,8 @@
 ---
 title: "Webpack"
 tagline: "Module bundler for JavaScript with plugin-based architecture"
-category: "Development & Technical Tools"
-subcategory: "Build Tools & Task Runners"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Webpack"
 deployment_status: "deployed"
 image: "/images/tools/webpack-placeholder.jpg"

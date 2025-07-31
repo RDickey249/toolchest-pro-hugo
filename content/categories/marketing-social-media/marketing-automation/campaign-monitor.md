@@ -1,8 +1,8 @@
 ---
 title: "Campaign Monitor"
 tagline: "Email design platform"
-category: "Business Marketing Tools"
-subcategory: "Marketing Automation"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Campaign Monitor"
 deployment_status: "deployed"
 image: "/images/tools/campaign-monitor-placeholder.jpg"

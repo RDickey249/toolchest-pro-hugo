@@ -1,8 +1,8 @@
 ---
 title: "SaltStack"
 tagline: "Event-driven automation and configuration management platform"
-category: "Development & Technical Tools"
-subcategory: "DevOps & Infrastructure Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "SaltStack"
 deployment_status: "deployed"
 image: "/images/tools/saltstack-placeholder.jpg"

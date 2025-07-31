@@ -1,8 +1,8 @@
 ---
 title: "Day One"
 tagline: "Digital journaling"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Digital Note-Taking"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Day One"
 deployment_status: "deployed"
 image: "/images/tools/day-one-placeholder.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Productivity & Task Management"
+title: "📋 Productivity & Task Management"
 description: "Comprehensive task management and productivity tools for individuals and teams"
 weight: 2
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Google Cloud SQL"
 tagline: "Fully managed database service on Google Cloud Platform"
-category: "Database & Data Management"
-subcategory: "Relational Databases"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Google Cloud SQL"
 deployment_status: "deployed"
 image: "/images/tools/google-cloud-sql-placeholder.jpg"

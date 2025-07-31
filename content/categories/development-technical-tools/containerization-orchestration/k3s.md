@@ -1,8 +1,8 @@
 ---
 title: "K3s"
 tagline: "Lightweight Kubernetes distribution designed for edge and IoT deployments"
-category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "K3s"
 deployment_status: "deployed"
 image: "/images/tools/k3s-placeholder.jpg"

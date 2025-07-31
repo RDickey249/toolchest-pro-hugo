@@ -1,8 +1,8 @@
 ---
 title: "Hightail"
 tagline: "Creative collaboration"
-category: "Cloud Storage & File Management"
-subcategory: "File Transfer"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Hightail"
 deployment_status: "deployed"
 image: "/images/tools/hightail-placeholder.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "NuGet"
 tagline: "Package manager for .NET development and library distribution"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Package Managers"
 tool_name: "NuGet"
 deployment_status: "deployed"

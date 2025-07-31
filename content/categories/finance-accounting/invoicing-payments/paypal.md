@@ -1,8 +1,8 @@
 ---
 title: "Paypal"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Paypal"
 deployment_status: "deployed"
 image: "/images/tools/paypal-placeholder.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Travel & Expense Management"
+title: "✈️ Travel & Expense Management"
 description: "Corporate travel booking, expense management, and corporate card solutions"
 weight: 29
 ---

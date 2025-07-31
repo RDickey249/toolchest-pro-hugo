@@ -1,8 +1,8 @@
 ---
 title: "Pandadoc"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Pandadoc"
 deployment_status: "deployed"
 image: "/images/tools/pandadoc-placeholder.jpg"

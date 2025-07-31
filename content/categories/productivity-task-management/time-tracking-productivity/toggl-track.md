@@ -1,8 +1,8 @@
 ---
 title: "Toggl Track"
 tagline: "Simple time tracking for teams and freelancers"
-category: "Productivity & Task Management"
-subcategory: "Time Tracking & Productivity"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Toggl Track"
 deployment_status: "deployed"
 image: "/images/tools/toggl-placeholder.jpg"

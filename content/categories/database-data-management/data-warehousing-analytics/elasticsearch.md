@@ -1,8 +1,8 @@
 ---
 title: "Elasticsearch"
 tagline: "Distributed search and analytics engine built on Apache Lucene"
-category: "Database & Data Management"
-subcategory: "Data Warehousing & Analytics"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "Elasticsearch"
 deployment_status: "deployed"
 image: "/images/tools/elasticsearch-placeholder.jpg"

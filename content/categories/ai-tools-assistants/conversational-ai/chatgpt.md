@@ -1,8 +1,8 @@
 ---
 title: "ChatGPT"
 tagline: "The AI that started it all"
-category: "AI Tools & Assistants"
-subcategory: "Conversational AI"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ChatGPT"
 deployment_status: "deployed"
 image: "/images/tools/chatgpt-placeholder.jpg"

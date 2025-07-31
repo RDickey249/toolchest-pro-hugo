@@ -1,8 +1,8 @@
 ---
 title: "Confluence"
 tagline: "Team collaboration and knowledge management platform"
-category: "Customer Support"
-subcategory: "Knowledge Base & Documentation"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Confluence"
 deployment_status: "deployed"
 image: "/images/tools/confluence-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "MySQL"
 tagline: "Popular database"
-category: "Analytics & Data Tools"
-subcategory: "Data Management"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "MySQL"
 deployment_status: "deployed"
 image: "/images/tools/mysql-placeholder.jpg"

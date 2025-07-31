@@ -1,8 +1,8 @@
 ---
 title: "npm"
 tagline: "Node.js package manager for JavaScript and web development"
-category: "Development & Technical Tools"
-subcategory: "Package Managers"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "npm"
 deployment_status: "deployed"
 image: "/images/tools/npm-placeholder.jpg"

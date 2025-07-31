@@ -1,8 +1,8 @@
 ---
 title: "Istio"
 tagline: "Service mesh platform for microservices with security, observability, and traffic management"
-category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Istio"
 deployment_status: "deployed"
 image: "/images/tools/istio-placeholder.jpg"

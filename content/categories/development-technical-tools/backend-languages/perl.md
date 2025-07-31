@@ -1,7 +1,7 @@
 ---
 title: "Perl"
 tagline: "Flexible scripting language renowned for text processing and system administration"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Backend Languages"
 tool_name: "Perl"
 deployment_status: "deployed"

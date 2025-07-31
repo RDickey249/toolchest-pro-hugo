@@ -1,8 +1,8 @@
 ---
 title: "Journey"
 tagline: "Cross-platform journaling"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Digital Note-Taking"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Journey"
 deployment_status: "deployed"
 image: "/images/tools/journey-placeholder.jpg"

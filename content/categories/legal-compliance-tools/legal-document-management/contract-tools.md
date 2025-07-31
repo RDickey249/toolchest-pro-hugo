@@ -1,8 +1,8 @@
 ---
 title: "Contract Tools"
 tagline: "PandaDoc, DocuSign, etc."
-category: "Legal & Compliance Tools"
-subcategory: "Legal Document Management"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Contract Tools"
 deployment_status: "deployed"
 image: "/images/tools/contract-tools-placeholder.jpg"

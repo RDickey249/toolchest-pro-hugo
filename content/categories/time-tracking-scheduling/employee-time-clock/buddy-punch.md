@@ -1,8 +1,8 @@
 ---
 title: "Buddy Punch"
 tagline: "Ready to get started? Visit [Buddy Punch](https://buddypunch.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Employee Time Clock"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Buddy Punch"
 deployment_status: "deployed"
 image: "/images/tools/buddy-punch-placeholder.jpg"

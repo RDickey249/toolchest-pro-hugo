@@ -1,8 +1,8 @@
 ---
 title: "Grafana"
 tagline: "Open-source platform for monitoring and observability visualization"
-category: "DevOps & Infrastructure"
-subcategory: "Monitoring & Observability"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Grafana"
 deployment_status: "deployed"
 image: "/images/tools/grafana-placeholder.jpg"

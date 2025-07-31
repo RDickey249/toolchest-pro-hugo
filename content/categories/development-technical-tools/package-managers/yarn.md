@@ -1,8 +1,8 @@
 ---
 title: "Yarn"
 tagline: "Fast, reliable, and secure package manager for JavaScript projects"
-category: "Development & Technical Tools"
-subcategory: "Package Managers"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Yarn"
 deployment_status: "deployed"
 image: "/images/tools/yarn-placeholder.jpg"

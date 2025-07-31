@@ -1,8 +1,8 @@
 ---
 title: "LinkedIn Recruiter"
 tagline: "Professional network recruiting"
-category: "HR & Recruiting Tools"
-subcategory: "Job Posting & Sourcing"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "LinkedIn Recruiter"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-recruiter-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Newman"
 tagline: "Command-line collection runner for Postman"
-category: "Testing & Quality Assurance"
-subcategory: "API Testing Tools"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Newman"
 deployment_status: "deployed"
 image: "/images/tools/newman-placeholder.jpg"

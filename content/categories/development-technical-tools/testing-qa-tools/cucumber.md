@@ -1,8 +1,8 @@
 ---
 title: "Cucumber"
 tagline: "Behavior-driven development tool for executable specifications and testing"
-category: "Development & Technical Tools"
-subcategory: "Testing & QA Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Cucumber"
 deployment_status: "deployed"
 image: "/images/tools/cucumber-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Google Forms"
 tagline: "Free, easy-to-use form builder integrated with Google Workspace"
-category: "Research & Survey"
-subcategory: "Survey Platforms"
+category: "📊 Research & Survey Tools"
+subcategory: "📊 Research & Survey Tools"
 tool_name: "Google Forms"
 deployment_status: "deployed"
 image: "/images/tools/google-forms-placeholder.jpg"

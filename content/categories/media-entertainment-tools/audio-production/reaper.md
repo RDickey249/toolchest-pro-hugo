@@ -1,8 +1,8 @@
 ---
 title: "Reaper"
 tagline: "Affordable and highly customizable digital audio workstation"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Reaper"
 deployment_status: "deployed"
 image: "/images/tools/reaper-placeholder.jpg"

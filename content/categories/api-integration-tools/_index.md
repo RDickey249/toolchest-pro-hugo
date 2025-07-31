@@ -1,5 +1,5 @@
 ---
-title: "API & Integration Tools"
+title: "🔗 API & Integration Tools"
 description: "Tools for API management, integration platforms, and webhook services"
 weight: 21
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Zig"
 tagline: "Emerging low-level language with manual memory management and cross-compilation capabilities"
-category: "Development & Technical Tools"
-subcategory: "Systems & Low-Level"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Zig"
 deployment_status: "deployed"
 image: "/images/tools/zig-placeholder.jpg"

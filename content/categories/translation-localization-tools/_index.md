@@ -1,5 +1,5 @@
 ---
-title: "Translation & Localization Tools"
+title: "🌍 Translation & Localization Tools"
 description: "Translation platforms, localization management, and language learning tools"
 weight: 31
 ---

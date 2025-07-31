@@ -1,8 +1,8 @@
 ---
 title: "Landbot"
 tagline: "[Create Engaging Conversations with Landbot →](https://landbot.io)..."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Landbot"
 deployment_status: "deployed"
 image: "/images/tools/landbot-placeholder.jpg"

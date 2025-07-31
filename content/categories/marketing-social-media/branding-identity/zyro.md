@@ -1,8 +1,8 @@
 ---
 title: "Zyro"
 tagline: "Simple AI-powered logo creation"
-category: "Business & Marketing Tools"
-subcategory: "Branding & Identity"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Zyro"
 deployment_status: "deployed"
 image: "/images/tools/zyro-placeholder.jpg"

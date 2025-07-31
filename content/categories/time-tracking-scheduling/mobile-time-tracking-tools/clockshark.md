@@ -1,8 +1,8 @@
 ---
 title: "ClockShark"
 tagline: "GPS-enabled time tracking for field teams and outdoor workers"
-category: "Time Tracking & Scheduling"
-subcategory: "Mobile Time Tracking Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ClockShark"
 deployment_status: "deployed"
 image: "/images/tools/clockshark-placeholder.jpg"

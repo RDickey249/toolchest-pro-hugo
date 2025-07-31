@@ -1,8 +1,8 @@
 ---
 title: "Linear API"
 tagline: "GraphQL API for Linear's modern issue tracking and project management"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Linear API"
 deployment_status: "deployed"
 image: "/images/tools/linear-api-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Sublime Text"
 tagline: "Fast, minimal code editor with Python-based plugin system"
-category: "Development & Technical Tools"
-subcategory: "IDEs & Code Editors"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Sublime Text"
 deployment_status: "deployed"
 image: "/images/tools/sublime-text-placeholder.jpg"

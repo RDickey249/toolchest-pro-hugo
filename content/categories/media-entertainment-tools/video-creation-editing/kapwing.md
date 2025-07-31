@@ -1,8 +1,8 @@
 ---
 title: "Kapwing"
 tagline: "Ready to get started? Visit [Kapwing](https://www.kapwing.com) to explore the platform and begin using this tool...."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Kapwing"
 deployment_status: "deployed"
 image: "/images/tools/kapwing-placeholder.jpg"

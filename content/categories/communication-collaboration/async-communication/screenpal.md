@@ -1,8 +1,8 @@
 ---
 title: "ScreenPal"
 tagline: "Screen recording tool"
-category: "Communication & Collaboration"
-subcategory: "Async Communication"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "ScreenPal"
 deployment_status: "deployed"
 image: "/images/tools/screenpal-placeholder.jpg"

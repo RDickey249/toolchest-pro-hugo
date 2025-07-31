@@ -1,8 +1,8 @@
 ---
 title: "CareerBuilder"
 tagline: "Talent acquisition platform"
-category: "HR & Recruiting Tools"
-subcategory: "Job Posting & Sourcing"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "CareerBuilder"
 deployment_status: "deployed"
 image: "/images/tools/careerbuilder-placeholder.jpg"

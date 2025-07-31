@@ -1,8 +1,8 @@
 ---
 title: "NestJS"
 tagline: "Progressive Node.js framework with TypeScript and dependency injection"
-category: "Development & Technical Tools"
-subcategory: "Backend Frameworks"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "NestJS"
 deployment_status: "deployed"
 image: "/images/tools/nestjs-placeholder.jpg"

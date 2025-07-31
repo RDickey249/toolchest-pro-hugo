@@ -1,8 +1,8 @@
 ---
 title: "Adyen"
 tagline: "Unified commerce platform"
-category: "E-commerce & Business Tools"
-subcategory: "Payment Processing"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Adyen"
 deployment_status: "deployed"
 image: "/images/tools/adyen-placeholder.jpg"

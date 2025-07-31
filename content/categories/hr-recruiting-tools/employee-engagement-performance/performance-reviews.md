@@ -1,8 +1,8 @@
 ---
 title: "Performance Reviews"
 tagline: "Various review platforms"
-category: "HR & Recruiting Tools"
-subcategory: "Employee Engagement & Performance"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Performance Reviews"
 deployment_status: "deployed"
 image: "/images/tools/performance-reviews-placeholder.jpg"

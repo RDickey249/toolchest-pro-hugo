@@ -1,8 +1,8 @@
 ---
 title: "Grafana"
 tagline: "Monitoring and observability"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Grafana"
 deployment_status: "deployed"
 image: "/images/tools/grafana-placeholder.jpg"

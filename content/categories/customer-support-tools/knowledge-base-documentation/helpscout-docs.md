@@ -1,8 +1,8 @@
 ---
 title: "Help Scout Docs"
 tagline: "Knowledge base software that's delightfully simple"
-category: "Customer Support"
-subcategory: "Knowledge Base & Documentation"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Help Scout Docs"
 deployment_status: "deployed"
 image: "/images/tools/helpscout-docs-placeholder.jpg"

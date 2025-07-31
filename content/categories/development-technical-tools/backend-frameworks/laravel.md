@@ -1,8 +1,8 @@
 ---
 title: "Laravel"
 tagline: "PHP web framework for web artisans"
-category: "Development & Technical Tools"
-subcategory: "Backend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Laravel"
 deployment_status: "deployed"
 image: "/images/tools/laravel-placeholder.jpg"

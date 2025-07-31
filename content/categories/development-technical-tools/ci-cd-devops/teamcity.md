@@ -1,8 +1,8 @@
 ---
 title: "TeamCity"
 tagline: "JetBrains CI server with build chains and test history"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "TeamCity"
 deployment_status: "deployed"
 image: "/images/tools/teamcity-placeholder.jpg"

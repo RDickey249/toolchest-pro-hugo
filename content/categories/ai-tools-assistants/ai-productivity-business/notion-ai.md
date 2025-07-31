@@ -1,8 +1,8 @@
 ---
 title: "Notion AI"
 tagline: "AI-powered workspace enhancement"
-category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Notion AI"
 deployment_status: "deployed"
 image: "/images/tools/notion-ai-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Assembly"
 tagline: "Low-level language offering direct hardware control; valuable for embedded development and reverse engineering"
-category: "Development & Technical Tools"
-subcategory: "Systems & Low-Level"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Assembly"
 deployment_status: "deployed"
 image: "/images/tools/assembly-placeholder.jpg"

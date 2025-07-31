@@ -1,8 +1,8 @@
 ---
 title: "Microsoft 365"
 tagline: "Word, Excel, PowerPoint online"
-category: "Communication & Collaboration"
-subcategory: "Document Collaboration"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Microsoft 365"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-365-placeholder.jpg"

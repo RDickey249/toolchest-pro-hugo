@@ -1,8 +1,8 @@
 ---
 title: "Anyword"
 tagline: "Ready to optimize your marketing copy with data-driven AI? Visit [Anyword](https://anyword.com) to create high-converting marketing content with perfo..."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Anyword"
 deployment_status: "deployed"
 image: "/images/tools/anyword-placeholder.jpg"

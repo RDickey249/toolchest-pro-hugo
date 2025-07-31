@@ -1,8 +1,8 @@
 ---
 title: "TypeScript"
 tagline: "Typed superset of JavaScript for scalable development"
-category: "Development & Technical Tools"
-subcategory: "Frontend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "TypeScript"
 deployment_status: "deployed"
 image: "/images/tools/typescript-placeholder.jpg"

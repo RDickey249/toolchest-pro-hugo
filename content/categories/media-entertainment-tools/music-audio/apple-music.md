@@ -1,8 +1,8 @@
 ---
 title: "Apple Music"
 tagline: "Apple's premium music streaming service with high-quality audio"
-category: "Media & Entertainment"
-subcategory: "Music & Audio"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Apple Music"
 deployment_status: "deployed"
 image: "/images/tools/apple-music-placeholder.jpg"

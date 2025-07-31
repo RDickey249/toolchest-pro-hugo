@@ -1,8 +1,8 @@
 ---
 title: "TimeCamp"
 tagline: "Automatic time tracking with project management"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "TimeCamp"
 deployment_status: "deployed"
 image: "/images/tools/timecamp-placeholder.jpg"

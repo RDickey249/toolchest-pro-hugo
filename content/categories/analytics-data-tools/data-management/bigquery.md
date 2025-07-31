@@ -1,8 +1,8 @@
 ---
 title: "BigQuery"
 tagline: "Google's data warehouse"
-category: "Analytics & Data Tools"
-subcategory: "Data Management"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "BigQuery"
 deployment_status: "deployed"
 image: "/images/tools/bigquery-placeholder.jpg"

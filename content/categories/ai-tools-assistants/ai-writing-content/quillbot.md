@@ -1,8 +1,8 @@
 ---
 title: "Quillbot"
 tagline: "QuillBot is the AI-powered paraphrasing and rewriting tool that transforms existing text into fresh, original content while preserving meaning and enh..."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Quillbot"
 deployment_status: "deployed"
 image: "/images/tools/quillbot-placeholder.jpg"

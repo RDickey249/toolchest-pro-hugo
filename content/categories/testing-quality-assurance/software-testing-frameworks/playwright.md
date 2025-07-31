@@ -1,8 +1,8 @@
 ---
 title: "Playwright"
 tagline: "Cross-browser automation framework by Microsoft"
-category: "Testing & Quality Assurance"
-subcategory: "Software Testing Frameworks"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Playwright"
 deployment_status: "deployed"
 image: "/images/tools/playwright-placeholder.jpg"

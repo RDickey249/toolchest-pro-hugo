@@ -1,8 +1,8 @@
 ---
 title: "Canva"
 tagline: "Templates for everyone"
-category: "Design & Creative Tools"
-subcategory: "Graphic Design"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Canva"
 deployment_status: "deployed"
 image: "/images/tools/canva-placeholder.jpg"

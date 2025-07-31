@@ -1,8 +1,8 @@
 ---
 title: "Reclaim"
 tagline: "Ready to get started? Visit [Reclaim.ai](https://reclaim.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Reclaim"
 deployment_status: "deployed"
 image: "/images/tools/reclaim-placeholder.jpg"

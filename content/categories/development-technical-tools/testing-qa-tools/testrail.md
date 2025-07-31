@@ -1,7 +1,7 @@
 ---
 title: "TestRail"
 tagline: "Test case management and reporting tool"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Testing & QA Tools"
 tool_name: "TestRail"
 deployment_status: "deployed"

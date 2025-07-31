@@ -1,8 +1,8 @@
 ---
 title: "Harvest"
 tagline: "Ready to get started? Visit [Harvest](https://www.getharvest.com) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking Integrations"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Harvest"
 deployment_status: "deployed"
 image: "/images/tools/harvest-placeholder.jpg"

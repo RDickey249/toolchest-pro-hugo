@@ -1,8 +1,8 @@
 ---
 title: "Dropbox"
 tagline: "File sync pioneer"
-category: "Cloud Storage & File Management"
-subcategory: "Personal Cloud Storage"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Dropbox"
 deployment_status: "deployed"
 image: "/images/tools/dropbox-placeholder.jpg"

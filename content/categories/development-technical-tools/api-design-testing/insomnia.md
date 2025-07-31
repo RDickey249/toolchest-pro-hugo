@@ -1,8 +1,8 @@
 ---
 title: "Insomnia"
 tagline: "REST and GraphQL client with environment support and testing features"
-category: "Development & Technical Tools"
-subcategory: "API Design & Testing"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Insomnia"
 deployment_status: "deployed"
 image: "/images/tools/insomnia-placeholder.jpg"

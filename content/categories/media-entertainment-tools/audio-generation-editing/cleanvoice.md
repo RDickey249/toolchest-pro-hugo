@@ -1,8 +1,8 @@
 ---
 title: "Cleanvoice"
 tagline: "Clean your audio automatically. Visit [cleanvoice.ai](https://cleanvoice.ai) to upload your first file free and see how Cleanvoice transforms your pod..."
-category: "Video Audio Tools"
-subcategory: "Audio Generation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Cleanvoice"
 deployment_status: "deployed"
 image: "/images/tools/cleanvoice-placeholder.jpg"

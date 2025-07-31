@@ -1,8 +1,8 @@
 ---
 title: "Document360"
 tagline: "Customer knowledge base"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Knowledge Management"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Document360"
 deployment_status: "deployed"
 image: "/images/tools/document360-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Emacs"
 tagline: "Extensible text editor with Lisp-based customization and integration"
-category: "Development & Technical Tools"
-subcategory: "Code Editors & IDEs"
+category: "🖥️ Hardware & Equipment Tools"
+subcategory: "🖥️ Hardware & Equipment Tools"
 tool_name: "Emacs"
 deployment_status: "deployed"
 image: "/images/tools/emacs-placeholder.jpg"

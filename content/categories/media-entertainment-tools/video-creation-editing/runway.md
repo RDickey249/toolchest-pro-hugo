@@ -1,8 +1,8 @@
 ---
 title: "Runway"
 tagline: "Explore the future of video creation with AI. Visit [runwayml.com](https://runwayml.com) to start creating impossible videos with cutting-edge AI tech..."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Runway"
 deployment_status: "deployed"
 image: "/images/tools/runway-placeholder.jpg"

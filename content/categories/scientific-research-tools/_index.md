@@ -1,5 +1,5 @@
 ---
-title: "Scientific & Research Tools"
+title: "🔬 Scientific & Research Tools"
 description: "Laboratory management, statistical analysis, and research collaboration tools"
 weight: 30
 ---

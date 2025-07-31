@@ -1,7 +1,7 @@
 ---
 title: "Zoho People"
 tagline: "Complete HR platform with integrated time tracking"
-category: "Time Tracking & Scheduling"
+category: "⏰ Time Tracking & Scheduling"
 subcategory: "Timesheet Management"
 tool_name: "Zoho People"
 deployment_status: "deployed"

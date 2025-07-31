@@ -1,8 +1,8 @@
 ---
 title: "UltiPro"
 tagline: "HR management system"
-category: "HR & Recruiting Tools"
-subcategory: "Applicant Tracking Systems"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "UltiPro"
 deployment_status: "deployed"
 image: "/images/tools/ultipro-placeholder.jpg"

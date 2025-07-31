@@ -1,8 +1,8 @@
 ---
 title: "Azure DevOps"
 tagline: "Microsoft's comprehensive DevOps platform and services"
-category: "DevOps & Infrastructure"
-subcategory: "CI/CD & Automation"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Azure DevOps"
 deployment_status: "deployed"
 image: "/images/tools/azure-devops-placeholder.jpg"

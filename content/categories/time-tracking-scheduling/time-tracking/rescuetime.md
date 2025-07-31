@@ -1,8 +1,8 @@
 ---
 title: "RescueTime"
 tagline: "Automatic digital time tracking and productivity insights"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "RescueTime"
 deployment_status: "deployed"
 image: "/images/tools/rescuetime-placeholder.jpg"

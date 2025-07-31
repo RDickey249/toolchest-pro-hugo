@@ -1,8 +1,8 @@
 ---
 title: "GarageBand"
 tagline: "Apple's free music creation app for beginners and casual producers"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "GarageBand"
 deployment_status: "deployed"
 image: "/images/tools/garageband-placeholder.jpg"

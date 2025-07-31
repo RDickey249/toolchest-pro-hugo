@@ -1,8 +1,8 @@
 ---
 title: "Cursor"
 tagline: "AI-powered code editor with integrated GPT-4 for intelligent development"
-category: "Development & Technical Tools"
-subcategory: "Code Editors & IDEs"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Cursor"
 deployment_status: "deployed"
 image: "/images/tools/cursor-placeholder.jpg"

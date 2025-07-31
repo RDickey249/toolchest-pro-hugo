@@ -1,8 +1,8 @@
 ---
 title: "Firebase Hosting"
 tagline: "Google's hosting for web apps with CDN and SSL"
-category: "Development & Technical Tools"
-subcategory: "Deployment & Hosting"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Firebase Hosting"
 deployment_status: "deployed"
 image: "/images/tools/firebase-hosting-placeholder.jpg"

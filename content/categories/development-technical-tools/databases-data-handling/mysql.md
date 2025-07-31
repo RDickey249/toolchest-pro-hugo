@@ -1,8 +1,8 @@
 ---
 title: "MySQL"
 tagline: "Widely used open-source relational database; scalable and reliable"
-category: "Development & Technical Tools"
-subcategory: "Databases & Data Handling"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "MySQL"
 deployment_status: "deployed"
 image: "/images/tools/mysql-placeholder.jpg"

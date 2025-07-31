@@ -1,8 +1,8 @@
 ---
 title: "Loom"
 tagline: "Screen recording messages"
-category: "Communication & Collaboration"
-subcategory: "Async Communication"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Loom"
 deployment_status: "deployed"
 image: "/images/tools/loom-placeholder.jpg"

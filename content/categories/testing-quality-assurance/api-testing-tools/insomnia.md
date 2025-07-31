@@ -1,8 +1,8 @@
 ---
 title: "Insomnia"
 tagline: "Powerful REST client with beautiful design and advanced features"
-category: "Testing & Quality Assurance"
-subcategory: "API Testing Tools"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Insomnia"
 deployment_status: "deployed"
 image: "/images/tools/insomnia-placeholder.jpg"

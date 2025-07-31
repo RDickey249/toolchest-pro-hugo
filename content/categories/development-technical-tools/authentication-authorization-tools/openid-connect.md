@@ -1,7 +1,7 @@
 ---
 title: "OpenID Connect"
 tagline: "Identity layer on OAuth 2.0 for user authentication and SSO"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Authentication & Authorization Tools"
 tool_name: "OpenID Connect"
 deployment_status: "deployed"

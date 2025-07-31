@@ -1,8 +1,8 @@
 ---
 title: "Postman"
 tagline: "Leading API development and testing platform"
-category: "Testing & Quality Assurance"
-subcategory: "API Testing Tools"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Postman"
 deployment_status: "deployed"
 image: "/images/tools/postman-placeholder.jpg"

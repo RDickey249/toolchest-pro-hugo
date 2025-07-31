@@ -1,8 +1,8 @@
 ---
 title: "Tray.io"
 tagline: "iPaaS platform"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Tray.io"
 deployment_status: "deployed"
 image: "/images/tools/tray-io-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "DokuWiki"
 tagline: "File-based wiki"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Knowledge Management"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "DokuWiki"
 deployment_status: "deployed"
 image: "/images/tools/dokuwiki-placeholder.jpg"

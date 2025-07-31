@@ -1,8 +1,8 @@
 ---
 title: "ProjectManager.com"
 tagline: "Enterprise project management with real-time visibility"
-category: "Productivity & Task Management"
-subcategory: "Project Management Platforms"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "ProjectManager.com"
 deployment_status: "deployed" 
 image: "/images/tools/projectmanager-placeholder.jpg"

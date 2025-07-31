@@ -1,8 +1,8 @@
 ---
 title: "Google Optimize"
 tagline: "Free A/B testing and personalization platform by Google"
-category: "Testing & Quality Assurance"
-subcategory: "A/B Testing & Optimization"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Google Optimize"
 deployment_status: "deployed"
 image: "/images/tools/google-optimize-placeholder.jpg"

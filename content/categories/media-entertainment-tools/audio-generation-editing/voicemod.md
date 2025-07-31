@@ -1,8 +1,8 @@
 ---
 title: "Voicemod"
 tagline: "Transform your voice in real-time. Visit [voicemod.net](https://www.voicemod.net) to download Voicemod free and become anyone or anything with your vo..."
-category: "Video Audio Tools"
-subcategory: "Audio Generation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Voicemod"
 deployment_status: "deployed"
 image: "/images/tools/voicemod-placeholder.jpg"

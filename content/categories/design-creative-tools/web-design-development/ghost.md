@@ -1,8 +1,8 @@
 ---
 title: "Ghost"
 tagline: "Publishing-focused CMS"
-category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Ghost"
 deployment_status: "deployed"
 image: "/images/tools/ghost-placeholder.jpg"

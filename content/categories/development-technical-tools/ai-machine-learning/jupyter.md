@@ -1,8 +1,8 @@
 ---
 title: "Jupyter"
 tagline: "Interactive computing environment for code, visuals, and narrative text; used for research and prototyping"
-category: "Development & Technical Tools"
-subcategory: "AI & Machine Learning Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Jupyter"
 deployment_status: "deployed"
 image: "/images/tools/jupyter-placeholder.jpg"

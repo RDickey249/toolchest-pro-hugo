@@ -1,8 +1,8 @@
 ---
 title: "Firebase SDK"
 tagline: "Complete app development platform with backend services"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Firebase SDK"
 deployment_status: "deployed"
 image: "/images/tools/firebase-sdk-placeholder.jpg"

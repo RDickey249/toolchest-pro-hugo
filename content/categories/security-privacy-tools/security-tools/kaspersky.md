@@ -1,8 +1,8 @@
 ---
 title: "Kaspersky"
 tagline: "Russian security software"
-category: "Security & Privacy Tools"
-subcategory: "Security Tools"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Kaspersky"
 deployment_status: "deployed"
 image: "/images/tools/kaspersky-placeholder.jpg"

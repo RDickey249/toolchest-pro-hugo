@@ -1,8 +1,8 @@
 ---
 title: "RemNote"
 tagline: "Note-taking with spaced repetition"
-category: "Communication & Collaboration"
-subcategory: "Document Collaboration"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "RemNote"
 deployment_status: "deployed"
 image: "/images/tools/remnote-placeholder.jpg"

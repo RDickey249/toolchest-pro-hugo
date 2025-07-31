@@ -1,7 +1,7 @@
 ---
 title: "Promptable"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Ai Tools Assistants"
+category: "🤖 AI Tools & Assistants"
 subcategory: "Prompt Engineering"
 tool_name: "Promptable"
 deployment_status: "deployed"

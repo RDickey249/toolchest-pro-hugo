@@ -1,7 +1,7 @@
 ---
 title: "Ansible"
 tagline: "Agentless automation platform for configuration management and orchestration"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "DevOps & Infrastructure Tools"
 tool_name: "Ansible"
 deployment_status: "deployed"

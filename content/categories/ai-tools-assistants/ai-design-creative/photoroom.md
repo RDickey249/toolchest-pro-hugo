@@ -1,8 +1,8 @@
 ---
 title: "PhotoRoom"
 tagline: "Ready to get started? Visit [PhotoRoom](https://www.photoroom.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "PhotoRoom"
 deployment_status: "deployed"
 image: "/images/tools/photoroom-placeholder.jpg"

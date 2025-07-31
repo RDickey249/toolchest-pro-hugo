@@ -1,8 +1,8 @@
 ---
 title: "Zoho Vault"
 tagline: "Business password manager"
-category: "Security & Privacy Tools"
-subcategory: "Password Management"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Zoho Vault"
 deployment_status: "deployed"
 image: "/images/tools/zoho-vault-placeholder.jpg"

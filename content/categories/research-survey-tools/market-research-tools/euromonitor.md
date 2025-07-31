@@ -1,8 +1,8 @@
 ---
 title: "Euromonitor"
 tagline: "Strategic market research and business intelligence"
-category: "Research & Survey"
-subcategory: "Market Research Tools"
+category: "📊 Research & Survey Tools"
+subcategory: "📊 Research & Survey Tools"
 tool_name: "Euromonitor"
 deployment_status: "deployed"
 image: "/images/tools/euromonitor-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Lever"
 tagline: "Talent acquisition suite"
-category: "HR & Recruiting Tools"
-subcategory: "Applicant Tracking Systems"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Lever"
 deployment_status: "deployed"
 image: "/images/tools/lever-placeholder.jpg"

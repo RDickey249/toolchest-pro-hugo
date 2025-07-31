@@ -1,8 +1,8 @@
 ---
 title: "C#"
 tagline: "Modern object-oriented language for .NET ecosystem development"
-category: "Development & Technical Tools"
-subcategory: "Backend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "C#"
 deployment_status: "deployed"
 image: "/images/tools/csharp-placeholder.jpg"

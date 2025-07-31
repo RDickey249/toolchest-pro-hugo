@@ -1,8 +1,8 @@
 ---
 title: "Zendesk AI"
 tagline: "Ready to get started? Visit [Zendesk AI](https://www.zendesk.com/solutions/ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Zendesk AI"
 deployment_status: "deployed"
 image: "/images/tools/zendesk-ai-placeholder.jpg"

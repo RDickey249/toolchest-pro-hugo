@@ -1,8 +1,8 @@
 ---
 title: "Teamwork"
 tagline: "Business project management"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Teamwork"
 deployment_status: "deployed"
 image: "/images/tools/teamwork-placeholder.jpg"

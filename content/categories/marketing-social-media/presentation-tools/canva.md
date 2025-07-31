@@ -1,8 +1,8 @@
 ---
 title: "Canva"
 tagline: "Design amazing presentations with ease. Visit [canva.com](https://www.canva.com) to start creating for free with millions of templates and AI-powered ..."
-category: "Business Marketing Tools"
-subcategory: "Presentation Tools"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Canva"
 deployment_status: "deployed"
 image: "/images/tools/canva-placeholder.jpg"

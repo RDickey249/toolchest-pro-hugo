@@ -1,8 +1,8 @@
 ---
 title: "Sophos"
 tagline: "Enterprise security"
-category: "Security & Privacy Tools"
-subcategory: "Security Tools"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Sophos"
 deployment_status: "deployed"
 image: "/images/tools/sophos-placeholder.jpg"

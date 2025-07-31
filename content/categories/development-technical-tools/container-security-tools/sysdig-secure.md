@@ -1,8 +1,8 @@
 ---
 title: "Sysdig Secure"
 tagline: "Runtime threat detection and vulnerability management for containers"
-category: "Development & Technical Tools"
-subcategory: "Container Security Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Sysdig Secure"
 deployment_status: "deployed"
 image: "/images/tools/sysdig-secure-placeholder.jpg"

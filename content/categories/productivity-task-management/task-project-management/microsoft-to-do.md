@@ -1,8 +1,8 @@
 ---
 title: "Microsoft To Do"
 tagline: "Microsoft 365 integrated task management with shared lists"
-category: "Productivity & Task Management"
-subcategory: "Task & Project Management"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Microsoft To Do"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-to-do-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Google Maps API"
 tagline: "Comprehensive mapping and location services platform"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Google Maps API"
 deployment_status: "deployed"
 image: "/images/tools/google-maps-api-placeholder.jpg"

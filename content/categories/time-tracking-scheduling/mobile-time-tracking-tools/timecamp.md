@@ -1,8 +1,8 @@
 ---
 title: "TimeCamp"
 tagline: "Comprehensive mobile time tracking with productivity insights"
-category: "Time Tracking & Scheduling"
-subcategory: "Mobile Time Tracking Tools"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "TimeCamp"
 deployment_status: "deployed"
 image: "/images/tools/timecamp-placeholder.jpg"

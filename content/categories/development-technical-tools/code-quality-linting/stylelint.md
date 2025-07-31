@@ -1,8 +1,8 @@
 ---
 title: "Stylelint"
 tagline: "Linter for CSS and SCSS with customizable rules"
-category: "Development & Technical Tools"
-subcategory: "Code Quality & Linting"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "Stylelint"
 deployment_status: "deployed"
 image: "/images/tools/stylelint-placeholder.jpg"

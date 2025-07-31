@@ -1,8 +1,8 @@
 ---
 title: "Remember The Milk"
 tagline: "Old-school task management with smart lists and locations"
-category: "Productivity & Task Management"
-subcategory: "Task & Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Remember The Milk"
 deployment_status: "deployed"
 image: "/images/tools/remember-the-milk-placeholder.jpg"

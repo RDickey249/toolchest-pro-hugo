@@ -1,8 +1,8 @@
 ---
 title: "Bing Chat"
 tagline: "Ready to get started? Visit [Bing Chat](https://www.bing.com/chat) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Bing Chat"
 deployment_status: "deployed"
 image: "/images/tools/bing-chat-placeholder.jpg"

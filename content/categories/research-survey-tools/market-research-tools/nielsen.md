@@ -1,8 +1,8 @@
 ---
 title: "Nielsen"
 tagline: "Global leader in audience measurement and data analytics"
-category: "Research & Survey"
-subcategory: "Market Research Tools"
+category: "📊 Research & Survey Tools"
+subcategory: "📊 Research & Survey Tools"
 tool_name: "Nielsen"
 deployment_status: "deployed"
 image: "/images/tools/nielsen-placeholder.jpg"

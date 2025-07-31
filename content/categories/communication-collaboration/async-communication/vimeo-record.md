@@ -1,8 +1,8 @@
 ---
 title: "Vimeo Record"
 tagline: "Professional screen and video recording"
-category: "Communication & Collaboration"
-subcategory: "Async Communication"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Vimeo Record"
 deployment_status: "deployed"
 image: "/images/tools/vimeo-record-placeholder.jpg"

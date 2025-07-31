@@ -1,8 +1,8 @@
 ---
 title: "n8n"
 tagline: "Open-source automation"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "n8n"
 deployment_status: "deployed"
 image: "/images/tools/n8n-placeholder.jpg"

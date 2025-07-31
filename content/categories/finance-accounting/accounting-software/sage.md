@@ -1,8 +1,8 @@
 ---
 title: "Sage"
 tagline: "Enterprise accounting"
-category: "Finance & Accounting"
-subcategory: "Accounting Software"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Sage"
 deployment_status: "deployed"
 image: "/images/tools/sage-placeholder.jpg"

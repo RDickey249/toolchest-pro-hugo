@@ -1,7 +1,7 @@
 ---
 title: "BookStack"
 tagline: "Self-hosted wiki"
-category: "Note-Taking & Knowledge Management"
+category: "📝 Note-Taking & Knowledge Management"
 subcategory: "Knowledge Management"
 tool_name: "BookStack"
 deployment_status: "deployed"

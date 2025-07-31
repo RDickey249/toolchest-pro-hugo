@@ -1,8 +1,8 @@
 ---
 title: "Appian"
 tagline: "Enterprise low-code automation platform"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Appian"
 deployment_status: "deployed"
 image: "/images/tools/appian-placeholder.jpg"

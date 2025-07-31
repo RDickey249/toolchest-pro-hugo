@@ -1,8 +1,8 @@
 ---
 title: "Google Analytics"
 tagline: "Free web analytics"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Google Analytics"
 deployment_status: "deployed"
 image: "/images/tools/google-analytics-placeholder.jpg"

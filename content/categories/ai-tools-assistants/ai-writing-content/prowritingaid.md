@@ -1,8 +1,8 @@
 ---
 title: "ProWritingAid"
 tagline: "Ready to get started? Visit [ProWritingAid](https://prowritingaid.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "♿ Accessibility & Inclusion Tools"
+subcategory: "♿ Accessibility & Inclusion Tools"
 tool_name: "ProWritingAid"
 deployment_status: "deployed"
 image: "/images/tools/prowritingaid-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "LogRocket"
 tagline: "Frontend monitoring"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "LogRocket"
 deployment_status: "deployed"
 image: "/images/tools/logrocket-placeholder.jpg"

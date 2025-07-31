@@ -1,8 +1,8 @@
 ---
 title: "Firefox Send"
 tagline: "Encrypted file sharing"
-category: "Cloud Storage & File Management"
-subcategory: "File Transfer"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Firefox Send"
 deployment_status: "deployed"
 image: "/images/tools/firefox-send-placeholder.jpg"

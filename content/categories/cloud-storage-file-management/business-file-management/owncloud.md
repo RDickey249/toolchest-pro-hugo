@@ -1,8 +1,8 @@
 ---
 title: "ownCloud"
 tagline: "Private cloud solution"
-category: "Cloud Storage & File Management"
-subcategory: "Business File Management"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "ownCloud"
 deployment_status: "deployed"
 image: "/images/tools/owncloud-placeholder.jpg"

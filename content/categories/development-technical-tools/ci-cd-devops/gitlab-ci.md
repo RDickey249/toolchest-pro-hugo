@@ -1,8 +1,8 @@
 ---
 title: "GitLab CI"
 tagline: "Integrated DevOps lifecycle tool for code hosting and automation pipelines"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "GitLab CI"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-ci-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "FunctionFox (Agency)"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Agencies"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "FunctionFox (Agency)"
 deployment_status: "deployed"
 image: "/images/tools/functionfox-agency-placeholder.jpg"

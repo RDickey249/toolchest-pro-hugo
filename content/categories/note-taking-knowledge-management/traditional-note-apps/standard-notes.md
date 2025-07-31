@@ -1,8 +1,8 @@
 ---
 title: "Standard Notes"
 tagline: "Privacy-focused notes"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Traditional Note Apps"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Standard Notes"
 deployment_status: "deployed"
 image: "/images/tools/standard-notes-placeholder.jpg"

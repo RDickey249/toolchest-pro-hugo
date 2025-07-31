@@ -1,7 +1,7 @@
 ---
 title: "LiquidPlanner"
 tagline: "Predictive scheduling with smart prioritization"
-category: "Productivity & Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Advanced Project Management"
 tool_name: "LiquidPlanner"
 deployment_status: "deployed"

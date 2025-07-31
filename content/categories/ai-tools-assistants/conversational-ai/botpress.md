@@ -1,8 +1,8 @@
 ---
 title: "Botpress"
 tagline: "[Build Custom Bots with Botpress →](https://botpress.com)..."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Botpress"
 deployment_status: "deployed"
 image: "/images/tools/botpress-placeholder.jpg"

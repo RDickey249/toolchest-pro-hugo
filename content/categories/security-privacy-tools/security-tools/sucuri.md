@@ -1,7 +1,7 @@
 ---
 title: "Sucuri"
 tagline: "Website security platform with malware removal"
-category: "Security & Privacy Tools"
+category: "🔒 Security & Privacy Tools"
 subcategory: "Security Tools"
 tool_name: "Sucuri"
 deployment_status: "deployed"

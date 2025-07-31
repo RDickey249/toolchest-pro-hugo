@@ -1,8 +1,8 @@
 ---
 title: "Xero"
 tagline: "Cloud-based accounting"
-category: "Finance & Accounting"
-subcategory: "Accounting Software"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Xero"
 deployment_status: "deployed"
 image: "/images/tools/xero-placeholder.jpg"

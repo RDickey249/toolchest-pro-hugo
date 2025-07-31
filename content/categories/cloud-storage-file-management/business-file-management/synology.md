@@ -1,8 +1,8 @@
 ---
 title: "Synology"
 tagline: "NAS solutions"
-category: "Cloud Storage & File Management"
-subcategory: "Business File Management"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Synology"
 deployment_status: "deployed"
 image: "/images/tools/synology-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "BigTime"
 tagline: "Ready to get started? Visit [BigTime](https://www.bigtime.net) to explore the platform and begin using this tool...."
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Consultants"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "BigTime"
 deployment_status: "deployed"
 image: "/images/tools/bigtime-placeholder.jpg"

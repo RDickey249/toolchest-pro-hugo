@@ -1,8 +1,8 @@
 ---
 title: "PayPal"
 tagline: "Global payment platform"
-category: "E-commerce & Business Tools"
-subcategory: "Payment Processing"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "PayPal"
 deployment_status: "deployed"
 image: "/images/tools/paypal-placeholder.jpg"

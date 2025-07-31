@@ -1,8 +1,8 @@
 ---
 title: "Spring Boot"
 tagline: "Java framework for creating production-ready applications"
-category: "Development & Technical Tools"
-subcategory: "Backend Frameworks"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Spring Boot"
 deployment_status: "deployed"
 image: "/images/tools/spring-boot-placeholder.jpg"

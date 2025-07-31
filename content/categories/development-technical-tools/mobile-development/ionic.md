@@ -1,8 +1,8 @@
 ---
 title: "Ionic"
 tagline: "Web tech-powered framework for building mobile apps"
-category: "Development & Technical Tools"
-subcategory: "Mobile Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Ionic"
 deployment_status: "deployed"
 image: "/images/tools/ionic-placeholder.jpg"

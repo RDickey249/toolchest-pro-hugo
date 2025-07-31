@@ -1,8 +1,8 @@
 ---
 title: "Mistral"
 tagline: "Ready to explore open-source AI models? Visit [Mistral AI](https://mistral.ai) to access powerful language models with full transparency, customizatio..."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Mistral"
 deployment_status: "deployed"
 image: "/images/tools/mistral-placeholder.jpg"

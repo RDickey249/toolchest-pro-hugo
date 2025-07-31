@@ -1,8 +1,8 @@
 ---
 title: "Craft"
 tagline: "Block-based writing"
-category: "Communication & Collaboration"
-subcategory: "Document Collaboration"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Craft"
 deployment_status: "deployed"
 image: "/images/tools/craft-placeholder.jpg"

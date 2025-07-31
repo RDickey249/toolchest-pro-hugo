@@ -1,8 +1,8 @@
 ---
 title: "Surfshark"
 tagline: "Unlimited device VPN"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Surfshark"
 deployment_status: "deployed"
 image: "/images/tools/surfshark-placeholder.jpg"

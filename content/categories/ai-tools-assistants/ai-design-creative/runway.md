@@ -1,8 +1,8 @@
 ---
 title: "Runway"
 tagline: "Ready to get started? Visit [Runway](https://runwayml.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Runway"
 deployment_status: "deployed"
 image: "/images/tools/runway-placeholder.jpg"

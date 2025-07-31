@@ -1,8 +1,8 @@
 ---
 title: "Octane AI"
 tagline: "AI-powered quizzes and chatbots for e-commerce"
-category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Octane AI"
 deployment_status: "deployed"
 image: "/images/tools/octane-ai-placeholder.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "360 Feedback"
 tagline: "Multi-rater feedback tools"
-category: "HR & Recruiting Tools"
+category: "👥 HR & Recruiting Tools"
 subcategory: "Employee Engagement & Performance"
 tool_name: "360 Feedback"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Heroku"
 tagline: "Cloud platform for building, running, and scaling applications"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Heroku"
 deployment_status: "deployed"
 image: "/images/tools/heroku-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "pnpm"
 tagline: "Efficient package manager using symlinks for disk space savings"
-category: "Development & Technical Tools"
-subcategory: "Package Managers & Registries"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "pnpm"
 deployment_status: "deployed"
 image: "/images/tools/pnpm-placeholder.jpg"

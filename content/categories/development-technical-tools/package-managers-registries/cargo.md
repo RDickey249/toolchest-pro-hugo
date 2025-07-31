@@ -1,8 +1,8 @@
 ---
 title: "Cargo"
 tagline: "Rust's package manager and build system"
-category: "Development & Technical Tools"
-subcategory: "Package Managers & Registries"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Cargo"
 deployment_status: "deployed"
 image: "/images/tools/cargo-placeholder.jpg"

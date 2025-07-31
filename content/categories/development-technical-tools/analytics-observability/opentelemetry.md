@@ -1,8 +1,8 @@
 ---
 title: "OpenTelemetry"
 tagline: "Open-source project for collecting telemetry data across services and platforms"
-category: "Development & Technical Tools"
-subcategory: "Analytics & Observability Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "OpenTelemetry"
 deployment_status: "deployed"
 image: "/images/tools/opentelemetry-placeholder.jpg"

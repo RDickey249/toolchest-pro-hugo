@@ -1,8 +1,8 @@
 ---
 title: "Monday.com"
 tagline: "Work operating system"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Monday.com"
 deployment_status: "deployed"
 image: "/images/tools/monday-com-placeholder.jpg"

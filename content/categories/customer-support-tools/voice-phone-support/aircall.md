@@ -1,8 +1,8 @@
 ---
 title: "Aircall"
 tagline: "Cloud-based phone system for modern businesses"
-category: "Customer Support"
-subcategory: "Voice & Phone Support"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Aircall"
 deployment_status: "deployed"
 image: "/images/tools/aircall-placeholder.jpg"

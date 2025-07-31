@@ -1,8 +1,8 @@
 ---
 title: "Chili Piper"
 tagline: "Revenue scheduling"
-category: "CRM & Sales Tools"
-subcategory: "Sales & Outreach Tools"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Chili Piper"
 deployment_status: "deployed"
 image: "/images/tools/chili-piper-placeholder.jpg"

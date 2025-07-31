@@ -1,8 +1,8 @@
 ---
 title: "SASS"
 tagline: "CSS extension language with variables and nesting"
-category: "Development & Technical Tools"
-subcategory: "Frontend Languages"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "SASS"
 deployment_status: "deployed"
 image: "/images/tools/sass-placeholder.jpg"

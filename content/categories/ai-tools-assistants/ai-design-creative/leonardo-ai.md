@@ -1,8 +1,8 @@
 ---
 title: "Leonardo AI"
 tagline: "Ready to get started? Visit [Leonardo AI](https://leonardo.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Leonardo AI"
 deployment_status: "deployed"
 image: "/images/tools/leonardo-ai-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "DALL·E"
 tagline: "OpenAI's image generator"
-category: "AI Tools & Assistants"
-subcategory: "AI Design & Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "DALL·E"
 deployment_status: "deployed"
 image: "/images/tools/dall-e-placeholder.jpg"

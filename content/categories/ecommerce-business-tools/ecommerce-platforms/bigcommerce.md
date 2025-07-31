@@ -1,8 +1,8 @@
 ---
 title: "BigCommerce"
 tagline: "Enterprise e-commerce"
-category: "E-commerce & Business Tools"
-subcategory: "E-commerce Platforms"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "BigCommerce"
 deployment_status: "deployed"
 image: "/images/tools/bigcommerce-placeholder.jpg"

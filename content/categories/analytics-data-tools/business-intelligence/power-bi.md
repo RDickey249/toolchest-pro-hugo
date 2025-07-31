@@ -1,8 +1,8 @@
 ---
 title: "Power BI"
 tagline: "Microsoft's BI platform"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Power BI"
 deployment_status: "deployed"
 image: "/images/tools/power-bi-placeholder.jpg"

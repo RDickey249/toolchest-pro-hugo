@@ -1,8 +1,8 @@
 ---
 title: "SQLite"
 tagline: "Lightweight, file-based SQL database; great for embedded applications"
-category: "Development & Technical Tools"
-subcategory: "Databases & Data Handling"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "SQLite"
 deployment_status: "deployed"
 image: "/images/tools/sqlite-placeholder.jpg"

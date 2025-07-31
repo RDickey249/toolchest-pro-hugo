@@ -1,8 +1,8 @@
 ---
 title: "Spotify"
 tagline: "Leading music streaming service with personalized discovery"
-category: "Media & Entertainment"
-subcategory: "Music & Audio"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Spotify"
 deployment_status: "deployed"
 image: "/images/tools/spotify-placeholder.jpg"

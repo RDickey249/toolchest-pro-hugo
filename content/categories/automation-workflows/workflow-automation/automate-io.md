@@ -1,8 +1,8 @@
 ---
 title: "Automate.io"
 tagline: "Simple app integration"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Automate.io"
 deployment_status: "deployed"
 image: "/images/tools/automate-io-placeholder.jpg"

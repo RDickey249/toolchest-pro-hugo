@@ -1,8 +1,8 @@
 ---
 title: "pnpm"
 tagline: "Efficient package manager with disk space optimization and performance"
-category: "Development & Technical Tools"
-subcategory: "Package Managers"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "pnpm"
 deployment_status: "deployed"
 image: "/images/tools/pnpm-placeholder.jpg"

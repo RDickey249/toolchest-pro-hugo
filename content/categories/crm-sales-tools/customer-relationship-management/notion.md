@@ -1,8 +1,8 @@
 ---
 title: "Notion"
 tagline: "DIY CRM solution"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Notion"
 deployment_status: "deployed"
 image: "/images/tools/notion-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Pipedrive"
 tagline: "Visual sales pipeline"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Pipedrive"
 deployment_status: "deployed"
 image: "/images/tools/pipedrive-placeholder.jpg"

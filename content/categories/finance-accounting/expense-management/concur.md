@@ -1,8 +1,8 @@
 ---
 title: "Concur"
 tagline: "Expense management"
-category: "Finance & Accounting"
-subcategory: "Expense Management"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Concur"
 deployment_status: "deployed"
 image: "/images/tools/concur-placeholder.jpg"

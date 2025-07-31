@@ -1,8 +1,8 @@
 ---
 title: "CyberGhost"
 tagline: "User-friendly VPN"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "CyberGhost"
 deployment_status: "deployed"
 image: "/images/tools/cyberghost-placeholder.jpg"

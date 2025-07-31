@@ -1,8 +1,8 @@
 ---
 title: "Zoho Books"
 tagline: "Part of Zoho suite"
-category: "Finance & Accounting"
-subcategory: "Accounting Software"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Zoho Books"
 deployment_status: "deployed"
 image: "/images/tools/zoho-books-placeholder.jpg"

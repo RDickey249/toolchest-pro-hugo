@@ -1,8 +1,8 @@
 ---
 title: "Notion"
 tagline: "All-in-one workspace for notes, docs, and projects"
-category: "Productivity & Task Management"
-subcategory: "Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Notion"
 deployment_status: "deployed"
 image: "/images/tools/notion-placeholder.jpg"

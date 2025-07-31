@@ -1,8 +1,8 @@
 ---
 title: "Looker"
 tagline: "Modern BI platform"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Looker"
 deployment_status: "deployed"
 image: "/images/tools/looker-placeholder.jpg"

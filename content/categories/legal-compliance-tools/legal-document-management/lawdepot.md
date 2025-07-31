@@ -1,8 +1,8 @@
 ---
 title: "LawDepot"
 tagline: "Legal forms and documents"
-category: "Legal & Compliance Tools"
-subcategory: "Legal Document Management"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "LawDepot"
 deployment_status: "deployed"
 image: "/images/tools/lawdepot-placeholder.jpg"

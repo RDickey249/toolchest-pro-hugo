@@ -1,8 +1,8 @@
 ---
 title: "Zapier"
 tagline: "Ready to get started? Visit [Zapier](https://zapier.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"

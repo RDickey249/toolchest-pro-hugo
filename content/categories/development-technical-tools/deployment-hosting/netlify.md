@@ -1,8 +1,8 @@
 ---
 title: "Netlify"
 tagline: "Cloud platform for deploying static sites with CI/CD and serverless functions"
-category: "Development & Technical Tools"
-subcategory: "Deployment & Hosting"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Netlify"
 deployment_status: "deployed"
 image: "/images/tools/netlify-placeholder.jpg"

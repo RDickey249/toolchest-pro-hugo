@@ -1,8 +1,8 @@
 ---
 title: "Sphinx"
 tagline: "Python documentation generator supporting reStructuredText and extensive extensions"
-category: "Development & Technical Tools"
-subcategory: "Documentation & Productivity Tools"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "Sphinx"
 deployment_status: "deployed"
 image: "/images/tools/sphinx-placeholder.jpg"

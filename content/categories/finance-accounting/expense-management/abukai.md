@@ -1,7 +1,7 @@
 ---
 title: "Abukai"
 tagline: "Expense management"
-category: "Finance & Accounting"
+category: "💰 Finance & Accounting"
 subcategory: "Expense Management"
 tool_name: "Abukai"
 deployment_status: "deployed"

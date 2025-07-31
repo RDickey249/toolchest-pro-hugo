@@ -1,7 +1,7 @@
 ---
 title: "Cloudinary API"
 tagline: "Cloud-based image and video management platform"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "APIs & SDKs"
 tool_name: "Cloudinary API"
 deployment_status: "deployed"

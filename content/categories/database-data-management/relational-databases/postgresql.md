@@ -1,8 +1,8 @@
 ---
 title: "PostgreSQL"
 tagline: "Advanced open-source relational database with extensive features"  
-category: "Database & Data Management"
-subcategory: "Relational Databases"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "PostgreSQL"
 deployment_status: "deployed"
 image: "/images/tools/postgresql-placeholder.jpg"

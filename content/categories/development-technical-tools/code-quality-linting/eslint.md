@@ -1,8 +1,8 @@
 ---
 title: "ESLint"
 tagline: "Pluggable JavaScript linter for enforcing code standards"
-category: "Development & Technical Tools"
-subcategory: "Code Quality & Linting"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ESLint"
 deployment_status: "deployed"
 image: "/images/tools/eslint-placeholder.jpg"

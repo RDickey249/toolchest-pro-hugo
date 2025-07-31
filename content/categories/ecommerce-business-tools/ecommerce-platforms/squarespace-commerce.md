@@ -1,8 +1,8 @@
 ---
 title: "Squarespace Commerce"
 tagline: "Design-focused stores"
-category: "E-commerce & Business Tools"
-subcategory: "E-commerce Platforms"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Squarespace Commerce"
 deployment_status: "deployed"
 image: "/images/tools/squarespace-commerce-placeholder.jpg"

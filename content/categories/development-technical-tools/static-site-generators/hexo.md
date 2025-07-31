@@ -1,8 +1,8 @@
 ---
 title: "Hexo"
 tagline: "Fast Node.js-powered blog framework with extensive plugin ecosystem"
-category: "Development & Technical Tools"
-subcategory: "Static Site Generators"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Hexo"
 deployment_status: "deployed"
 image: "/images/tools/hexo-placeholder.jpg"

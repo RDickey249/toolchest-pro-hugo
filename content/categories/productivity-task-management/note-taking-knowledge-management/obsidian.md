@@ -1,8 +1,8 @@
 ---
 title: "Obsidian"
 tagline: "Linked note-taking for knowledge workers"
-category: "Productivity & Task Management"
-subcategory: "Note-Taking & Knowledge Management"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Obsidian"
 deployment_status: "deployed"
 image: "/images/tools/obsidian-placeholder.jpg"

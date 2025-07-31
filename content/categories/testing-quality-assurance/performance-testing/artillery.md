@@ -1,8 +1,8 @@
 ---
 title: "Artillery"
 tagline: "Modern load testing toolkit for applications and APIs"
-category: "Testing & Quality Assurance"
-subcategory: "Performance Testing"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Artillery"
 deployment_status: "deployed"
 image: "/images/tools/artillery-placeholder.jpg"

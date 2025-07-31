@@ -1,8 +1,8 @@
 ---
 title: "MediaWiki"
 tagline: "Wikipedia's software"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Knowledge Management"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "MediaWiki"
 deployment_status: "deployed"
 image: "/images/tools/mediawiki-placeholder.jpg"

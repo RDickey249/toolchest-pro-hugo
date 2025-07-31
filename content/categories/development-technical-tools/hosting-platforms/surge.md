@@ -1,8 +1,8 @@
 ---
 title: "Surge"
 tagline: "Simple static web publishing for frontend developers"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Surge"
 deployment_status: "deployed"
 image: "/images/tools/surge-placeholder.jpg"

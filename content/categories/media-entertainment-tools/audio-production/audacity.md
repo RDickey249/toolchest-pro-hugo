@@ -1,8 +1,8 @@
 ---
 title: "Audacity"
 tagline: "Free, open-source audio editing and recording software"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Audacity"
 deployment_status: "deployed"
 image: "/images/tools/audacity-placeholder.jpg"

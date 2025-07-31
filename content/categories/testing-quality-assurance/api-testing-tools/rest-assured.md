@@ -1,8 +1,8 @@
 ---
 title: "REST Assured"
 tagline: "Java library for testing REST services with fluent API"
-category: "Testing & Quality Assurance"
-subcategory: "API Testing Tools"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "REST Assured"
 deployment_status: "deployed"
 image: "/images/tools/rest-assured-placeholder.jpg"

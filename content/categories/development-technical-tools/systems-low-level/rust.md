@@ -1,8 +1,8 @@
 ---
 title: "Rust"
 tagline: "Modern systems programming language emphasizing safety and concurrency"
-category: "Development & Technical Tools"
-subcategory: "Systems & Low-Level"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Rust"
 deployment_status: "deployed"
 image: "/images/tools/rust-placeholder.jpg"

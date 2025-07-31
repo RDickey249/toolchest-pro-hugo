@@ -1,8 +1,8 @@
 ---
 title: "Airtable"
 tagline: "Database-style CRM"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Airtable"
 deployment_status: "deployed"
 image: "/images/tools/airtable-placeholder.jpg"

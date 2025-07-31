@@ -1,7 +1,7 @@
 ---
 title: "Receipt-bank"
 tagline: "Expense management"
-category: "Finance & Accounting"
+category: "💰 Finance & Accounting"
 subcategory: "Expense Management"
 tool_name: "Receipt-bank"
 deployment_status: "deployed"

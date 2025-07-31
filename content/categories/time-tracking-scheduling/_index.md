@@ -1,5 +1,5 @@
 ---
-title: "Time Tracking & Scheduling"
+title: "⏰ Time Tracking & Scheduling"
 description: "Time management, scheduling, and productivity tracking tools"
 ---
 

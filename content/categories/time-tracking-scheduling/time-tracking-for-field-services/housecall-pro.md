@@ -1,8 +1,8 @@
 ---
 title: "Housecall Pro"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Time Tracking Scheduling"
-subcategory: "Time Tracking For Field Services"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Housecall Pro"
 deployment_status: "deployed"
 image: "/images/tools/housecall-pro-placeholder.jpg"

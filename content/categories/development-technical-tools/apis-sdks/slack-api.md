@@ -1,8 +1,8 @@
 ---
 title: "Slack API"
 tagline: "Comprehensive platform API for building workplace integrations and automation"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Slack API"
 deployment_status: "deployed"
 image: "/images/tools/slack-api-placeholder.jpg"

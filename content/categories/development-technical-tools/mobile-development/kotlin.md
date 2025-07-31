@@ -1,8 +1,8 @@
 ---
 title: "Kotlin"
 tagline: "Preferred language for Android development"
-category: "Development & Technical Tools"
-subcategory: "Mobile Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Kotlin"
 deployment_status: "deployed"
 image: "/images/tools/kotlin-placeholder.jpg"

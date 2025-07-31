@@ -1,8 +1,8 @@
 ---
 title: "Linear"
 tagline: "Developer-focused project management"
-category: "Productivity & Task Management"
-subcategory: "Project Management Platforms"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Linear"
 deployment_status: "deployed"
 image: "/images/tools/linear-placeholder.jpg"

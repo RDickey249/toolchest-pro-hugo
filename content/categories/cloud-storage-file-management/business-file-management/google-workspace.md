@@ -1,8 +1,8 @@
 ---
 title: "Google Workspace"
 tagline: "Business file sharing"
-category: "Cloud Storage & File Management"
-subcategory: "Business File Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Google Workspace"
 deployment_status: "deployed"
 image: "/images/tools/google-workspace-placeholder.jpg"

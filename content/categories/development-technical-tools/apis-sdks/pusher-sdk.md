@@ -1,8 +1,8 @@
 ---
 title: "Pusher SDK"
 tagline: "Real-time messaging and live updates platform"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Pusher SDK"
 deployment_status: "deployed"
 image: "/images/tools/pusher-sdk-placeholder.jpg"

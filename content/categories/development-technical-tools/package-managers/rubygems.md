@@ -1,8 +1,8 @@
 ---
 title: "RubyGems"
 tagline: "Ruby package manager for library distribution and dependency management"
-category: "Development & Technical Tools"
-subcategory: "Package Managers"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "RubyGems"
 deployment_status: "deployed"
 image: "/images/tools/rubygems-placeholder.jpg"

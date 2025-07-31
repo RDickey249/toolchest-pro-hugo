@@ -1,8 +1,8 @@
 ---
 title: "Copy.ai"
 tagline: "AI copywriting for everyone"
-category: "AI Tools & Assistants"
-subcategory: "AI Writing & Content"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Copy.ai"
 deployment_status: "deployed"
 image: "/images/tools/copy-ai-placeholder.jpg"

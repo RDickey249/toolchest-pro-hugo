@@ -1,8 +1,8 @@
 ---
 title: "Windsurf Creative"
 tagline: "Ready to get started? Visit [Windsurf](https://codeium.com/windsurf) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Windsurf Creative"
 deployment_status: "deployed"
 image: "/images/tools/windsurf-creative-placeholder.jpg"

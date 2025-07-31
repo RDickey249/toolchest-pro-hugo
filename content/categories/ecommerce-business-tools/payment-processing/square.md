@@ -1,8 +1,8 @@
 ---
 title: "Square"
 tagline: "In-person and online payments"
-category: "E-commerce & Business Tools"
-subcategory: "Payment Processing"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Square"
 deployment_status: "deployed"
 image: "/images/tools/square-placeholder.jpg"

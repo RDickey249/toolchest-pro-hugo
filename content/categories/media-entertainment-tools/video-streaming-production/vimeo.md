@@ -1,8 +1,8 @@
 ---
 title: "Vimeo"
 tagline: "Professional video hosting platform with high-quality focus"
-category: "Media & Entertainment"
-subcategory: "Video Streaming & Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Vimeo"
 deployment_status: "deployed"
 image: "/images/tools/vimeo-placeholder.jpg"

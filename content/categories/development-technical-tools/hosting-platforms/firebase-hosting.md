@@ -1,8 +1,8 @@
 ---
 title: "Firebase Hosting"
 tagline: "Fast and secure web hosting with global CDN from Google"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "🔗 API & Integration Tools"
+subcategory: "🔗 API & Integration Tools"
 tool_name: "Firebase Hosting"
 deployment_status: "deployed"
 image: "/images/tools/firebase-hosting-placeholder.jpg"

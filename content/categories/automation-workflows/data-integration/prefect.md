@@ -1,8 +1,8 @@
 ---
 title: "Prefect"
 tagline: "Modern workflow orchestration for data teams"
-category: "Automation & Workflows"
-subcategory: "Data Integration"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Prefect"
 deployment_status: "deployed"
 image: "/images/tools/prefect-placeholder.jpg"

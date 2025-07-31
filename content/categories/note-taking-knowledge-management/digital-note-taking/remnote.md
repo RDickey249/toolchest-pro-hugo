@@ -1,8 +1,8 @@
 ---
 title: "RemNote"
 tagline: "Spaced repetition notes"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Digital Note-Taking"
+category: "🔬 Scientific & Research Tools"
+subcategory: "🔬 Scientific & Research Tools"
 tool_name: "RemNote"
 deployment_status: "deployed"
 image: "/images/tools/remnote-placeholder.jpg"

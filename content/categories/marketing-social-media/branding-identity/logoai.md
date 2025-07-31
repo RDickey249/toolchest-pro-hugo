@@ -1,8 +1,8 @@
 ---
 title: "LogoAI"
 tagline: "AI-powered strategic logo design"
-category: "Business & Marketing Tools"
-subcategory: "Branding & Identity"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "LogoAI"
 deployment_status: "deployed"
 image: "/images/tools/logoai-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Dynamics"
 tagline: "Business applications"
-category: "E-commerce & Business Tools"
-subcategory: "Inventory Management"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "Microsoft Dynamics"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-dynamics-placeholder.jpg"

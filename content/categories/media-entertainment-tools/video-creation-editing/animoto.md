@@ -1,8 +1,8 @@
 ---
 title: "Animoto"
 tagline: "Create marketing videos that work. Visit [animoto.com](https://animoto.com) to start your free trial and make professional videos in minutes with drag..."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Animoto"
 deployment_status: "deployed"
 image: "/images/tools/animoto-placeholder.jpg"

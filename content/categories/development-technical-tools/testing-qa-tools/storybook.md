@@ -1,8 +1,8 @@
 ---
 title: "Storybook"
 tagline: "Tool for building UI components in isolation with interactive documentation"
-category: "Development & Technical Tools"
-subcategory: "Testing & QA Tools"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Storybook"
 deployment_status: "deployed"
 image: "/images/tools/storybook-placeholder.jpg"

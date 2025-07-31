@@ -1,8 +1,8 @@
 ---
 title: "Airtable"
 tagline: "Database automation"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Airtable"
 deployment_status: "deployed"
 image: "/images/tools/airtable-placeholder.jpg"

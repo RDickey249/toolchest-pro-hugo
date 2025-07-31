@@ -1,8 +1,8 @@
 ---
 title: "GitHub Copilot"
 tagline: "AI code completion"
-category: "AI Tools & Assistants"
-subcategory: "AI Code Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "GitHub Copilot"
 deployment_status: "deployed"
 image: "/images/tools/github-copilot-placeholder.jpg"

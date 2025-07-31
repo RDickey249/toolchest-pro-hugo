@@ -1,8 +1,8 @@
 ---
 title: "Jenkins"
 tagline: "Popular open-source automation server for building, testing, and deploying code"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Jenkins"
 deployment_status: "deployed"
 image: "/images/tools/jenkins-placeholder.jpg"

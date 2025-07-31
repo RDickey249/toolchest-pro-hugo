@@ -1,8 +1,8 @@
 ---
 title: "Checkr"
 tagline: "Background check platform"
-category: "HR & Recruiting Tools"
-subcategory: "Background Checks & Verification"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Checkr"
 deployment_status: "deployed"
 image: "/images/tools/checkr-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Swift"
 tagline: "Powerful programming language for iOS, macOS, and server-side development"
-category: "Development & Technical Tools"
-subcategory: "Backend Languages"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Swift"
 deployment_status: "deployed"
 image: "/images/tools/swift-placeholder.jpg"

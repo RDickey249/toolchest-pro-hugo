@@ -1,8 +1,8 @@
 ---
 title: "Databricks"
 tagline: "Unified analytics platform for big data and machine learning"
-category: "Database & Data Management"
-subcategory: "Data Warehousing & Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Databricks"
 deployment_status: "deployed"
 image: "/images/tools/databricks-placeholder.jpg"

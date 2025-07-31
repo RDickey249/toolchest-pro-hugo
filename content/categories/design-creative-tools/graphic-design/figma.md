@@ -1,8 +1,8 @@
 ---
 title: "Figma"
 tagline: "Collaborative design"
-category: "Design & Creative Tools"
-subcategory: "Graphic Design"
+category: "📱 Marketing & Social Media"
+subcategory: "📱 Marketing & Social Media"
 tool_name: "Figma"
 deployment_status: "deployed"
 image: "/images/tools/figma-placeholder.jpg"

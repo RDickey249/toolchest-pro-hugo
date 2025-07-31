@@ -1,8 +1,8 @@
 ---
 title: "pip"
 tagline: "Python package installer for PyPI libraries"
-category: "Development & Technical Tools"
-subcategory: "Package Managers & Registries"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "pip"
 deployment_status: "deployed"
 image: "/images/tools/pip-placeholder.jpg"

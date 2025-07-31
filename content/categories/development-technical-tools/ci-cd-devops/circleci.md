@@ -1,8 +1,8 @@
 ---
 title: "CircleCI"
 tagline: "Cloud-native CI/CD platform optimized for fast builds and flexible workflows"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "CircleCI"
 deployment_status: "deployed"
 image: "/images/tools/circleci-placeholder.jpg"

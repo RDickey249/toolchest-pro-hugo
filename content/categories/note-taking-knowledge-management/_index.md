@@ -1,5 +1,5 @@
 ---
-title: "Note-Taking & Knowledge Management"
+title: "📝 Note-Taking & Knowledge Management"
 description: "Digital note-taking, knowledge management, and information organization tools"
 ---
 

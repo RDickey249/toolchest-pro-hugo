@@ -1,8 +1,8 @@
 ---
 title: "Grammarly"
 tagline: "Ready to get started? Visit [Grammarly](https://www.grammarly.com) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "♿ Accessibility & Inclusion Tools"
+subcategory: "♿ Accessibility & Inclusion Tools"
 tool_name: "Grammarly"
 deployment_status: "deployed"
 image: "/images/tools/grammarly-placeholder.jpg"

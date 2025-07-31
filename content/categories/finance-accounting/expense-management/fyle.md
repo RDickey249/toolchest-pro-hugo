@@ -1,8 +1,8 @@
 ---
 title: "Fyle"
 tagline: "Expense management"
-category: "Finance & Accounting"
-subcategory: "Expense Management"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Fyle"
 deployment_status: "deployed"
 image: "/images/tools/fyle-placeholder.jpg"

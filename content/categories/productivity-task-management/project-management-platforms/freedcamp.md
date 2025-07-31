@@ -1,7 +1,7 @@
 ---
 title: "Freedcamp"
 tagline: "Ready to access professional project management completely free?..."
-category: "Productivity Task Management"
+category: "📋 Productivity & Task Management"
 subcategory: "Project Management Platforms"
 tool_name: "Freedcamp"
 deployment_status: "deployed"

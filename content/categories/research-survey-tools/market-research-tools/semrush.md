@@ -1,7 +1,7 @@
 ---
 title: "SEMrush"
 tagline: "All-in-one digital marketing and competitive research platform"
-category: "Research & Survey"
+category: "📊 Research & Survey Tools"
 subcategory: "Market Research Tools"
 tool_name: "SEMrush"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Optimizely"
 tagline: "Leading digital experience optimization platform"
-category: "Testing & Quality Assurance"
-subcategory: "A/B Testing & Optimization"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Optimizely"
 deployment_status: "deployed"
 image: "/images/tools/optimizely-placeholder.jpg"

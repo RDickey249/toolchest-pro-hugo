@@ -1,5 +1,5 @@
 ---
-title: "AI Tools & Assistants"
+title: "🤖 AI Tools & Assistants"
 description: "Comprehensive directory of AI-powered tools and assistants for every use case"
 weight: 1
 ---

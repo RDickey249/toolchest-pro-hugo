@@ -1,8 +1,8 @@
 ---
 title: "Snowflake"
 tagline: "Cloud-native data platform with elastic scaling"
-category: "Automation & Workflows"
-subcategory: "Data Integration"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Snowflake"
 deployment_status: "deployed"
 image: "/images/tools/snowflake-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Trilium"
 tagline: "Hierarchical note-taking"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Traditional Note Apps"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Trilium"
 deployment_status: "deployed"
 image: "/images/tools/trilium-placeholder.jpg"

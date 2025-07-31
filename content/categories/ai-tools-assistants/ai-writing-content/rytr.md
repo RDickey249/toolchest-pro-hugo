@@ -1,8 +1,8 @@
 ---
 title: "Rytr"
 tagline: "Ready to get started? Visit [Rytr](https://rytr.me) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Writing Content"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Rytr"
 deployment_status: "deployed"
 image: "/images/tools/rytr-placeholder.jpg"

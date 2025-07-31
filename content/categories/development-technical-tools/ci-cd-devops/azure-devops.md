@@ -1,8 +1,8 @@
 ---
 title: "Azure DevOps"
 tagline: "Microsoft's suite for CI/CD, project tracking, and code repositories"
-category: "Development & Technical Tools"
-subcategory: "CI/CD & DevOps Tools"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Azure DevOps"
 deployment_status: "deployed"
 image: "/images/tools/azure-devops-placeholder.jpg"

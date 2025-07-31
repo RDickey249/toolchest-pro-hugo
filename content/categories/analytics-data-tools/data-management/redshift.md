@@ -1,8 +1,8 @@
 ---
 title: "Redshift"
 tagline: "Amazon's data warehouse"
-category: "Analytics & Data Tools"
-subcategory: "Data Management"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Redshift"
 deployment_status: "deployed"
 image: "/images/tools/redshift-placeholder.jpg"

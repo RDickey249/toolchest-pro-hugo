@@ -1,8 +1,8 @@
 ---
 title: "GitLab"
 tagline: "DevOps platform"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "GitLab"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-placeholder.jpg"

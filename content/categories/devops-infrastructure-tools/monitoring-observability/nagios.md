@@ -1,8 +1,8 @@
 ---
 title: "Nagios"
 tagline: "Proven IT infrastructure monitoring and alerting system"
-category: "DevOps & Infrastructure"
-subcategory: "Monitoring & Observability"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Nagios"
 deployment_status: "deployed"
 image: "/images/tools/nagios-placeholder.jpg"

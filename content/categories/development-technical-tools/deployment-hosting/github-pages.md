@@ -1,8 +1,8 @@
 ---
 title: "GitHub Pages"
 tagline: "Free static site hosting directly from GitHub repositories"
-category: "Development & Technical Tools"
-subcategory: "Deployment & Hosting"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "GitHub Pages"
 deployment_status: "deployed"
 image: "/images/tools/github-pages-placeholder.jpg"

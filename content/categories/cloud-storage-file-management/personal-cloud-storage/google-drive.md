@@ -1,8 +1,8 @@
 ---
 title: "Google Drive"
 tagline: "15GB free storage"
-category: "Cloud Storage & File Management"
-subcategory: "Personal Cloud Storage"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Google Drive"
 deployment_status: "deployed"
 image: "/images/tools/google-drive-placeholder.jpg"

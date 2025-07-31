@@ -1,8 +1,8 @@
 ---
 title: "YouTube"
 tagline: "World's largest video platform for creators and viewers"
-category: "Media & Entertainment"
-subcategory: "Video Streaming & Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "YouTube"
 deployment_status: "deployed"
 image: "/images/tools/youtube-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Beautiful.ai"
 tagline: "Ready to get started? Visit [Beautiful.AI](https://www.beautiful.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Beautiful.ai"
 deployment_status: "deployed"
 image: "/images/tools/beautifulai-placeholder.jpg"

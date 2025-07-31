@@ -1,8 +1,8 @@
 ---
 title: "Selenium"
 tagline: "Leading web application testing automation framework"
-category: "Testing & Quality Assurance"
-subcategory: "Software Testing Frameworks"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Selenium"
 deployment_status: "deployed"
 image: "/images/tools/selenium-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Things 3"
 tagline: "Elegant Mac/iOS task management with award-winning design"
-category: "Productivity & Task Management"
-subcategory: "Task & Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Things 3"
 deployment_status: "deployed"
 image: "/images/tools/things-3-placeholder.jpg"

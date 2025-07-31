@@ -1,8 +1,8 @@
 ---
 title: "React Native"
 tagline: "Cross-platform mobile framework built on React"
-category: "Development & Technical Tools"
-subcategory: "Mobile Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "React Native"
 deployment_status: "deployed"
 image: "/images/tools/react-native-placeholder.jpg"

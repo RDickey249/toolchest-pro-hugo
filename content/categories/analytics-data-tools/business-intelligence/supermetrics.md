@@ -1,8 +1,8 @@
 ---
 title: "Supermetrics"
 tagline: "Marketing data pipeline platform"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Supermetrics"
 deployment_status: "deployed"
 image: "/images/tools/supermetrics-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Mixmax"
 tagline: "Email productivity for sales"
-category: "CRM & Sales Tools"
-subcategory: "Sales & Outreach Tools"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Mixmax"
 deployment_status: "deployed"
 image: "/images/tools/mixmax-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Webflow"
 tagline: "Visual web development"
-category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Webflow"
 deployment_status: "deployed"
 image: "/images/tools/webflow-placeholder.jpg"

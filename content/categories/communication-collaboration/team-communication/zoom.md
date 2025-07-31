@@ -1,8 +1,8 @@
 ---
 title: "Zoom"
 tagline: "Video conferencing standard"
-category: "Communication & Collaboration"
-subcategory: "Team Communication"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Zoom"
 deployment_status: "deployed"
 image: "/images/tools/zoom-placeholder.jpg"

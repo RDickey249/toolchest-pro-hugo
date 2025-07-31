@@ -1,8 +1,8 @@
 ---
 title: "Zingg"
 tagline: "Ready to get started? Visit [Zingg](https://zingg.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Zingg"
 deployment_status: "deployed"
 image: "/images/tools/zingg-placeholder.jpg"

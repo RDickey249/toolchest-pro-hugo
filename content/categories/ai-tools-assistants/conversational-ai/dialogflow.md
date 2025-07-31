@@ -1,8 +1,8 @@
 ---
 title: "Dialogflow"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Dialogflow"
 deployment_status: "deployed"
 image: "/images/tools/dialogflow-placeholder.jpg"

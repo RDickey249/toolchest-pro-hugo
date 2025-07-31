@@ -1,8 +1,8 @@
 ---
 title: "Harvest"
 tagline: "Time tracking, expense management, and invoicing"
-category: "Time Tracking & Scheduling"
-subcategory: "Time Tracking"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Harvest"
 deployment_status: "deployed"
 image: "/images/tools/harvest-placeholder.jpg"

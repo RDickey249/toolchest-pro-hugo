@@ -1,8 +1,8 @@
 ---
 title: "Workato"
 tagline: "Enterprise automation"
-category: "Automation & Workflows"
-subcategory: "Workflow Automation"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Workato"
 deployment_status: "deployed"
 image: "/images/tools/workato-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "PrestaShop"
 tagline: "Free e-commerce software"
-category: "E-commerce & Business Tools"
-subcategory: "E-commerce Platforms"
+category: "🛍️ E-commerce & Business Tools"
+subcategory: "🛍️ E-commerce & Business Tools"
 tool_name: "PrestaShop"
 deployment_status: "deployed"
 image: "/images/tools/prestashop-placeholder.jpg"

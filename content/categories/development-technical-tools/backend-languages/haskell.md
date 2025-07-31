@@ -1,7 +1,7 @@
 ---
 title: "Haskell"
 tagline: "Purely functional language with strong type system"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Backend Languages"
 tool_name: "Haskell"
 deployment_status: "deployed"

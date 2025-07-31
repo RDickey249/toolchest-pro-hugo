@@ -1,8 +1,8 @@
 ---
 title: "Krisp"
 tagline: "Sound professional from anywhere. Visit [krisp.ai](https://krisp.ai) to download Krisp free and eliminate background noise from all your calls and rec..."
-category: "Video Audio Tools"
-subcategory: "Audio Generation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Krisp"
 deployment_status: "deployed"
 image: "/images/tools/krisp-placeholder.jpg"

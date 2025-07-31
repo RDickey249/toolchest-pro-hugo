@@ -1,8 +1,8 @@
 ---
 title: "Favro"
 tagline: "Ready to get started? Visit [Favro](https://www.favro.com) to explore the platform and begin using this tool...."
-category: "Productivity Task Management"
-subcategory: "Project Management Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Favro"
 deployment_status: "deployed"
 image: "/images/tools/favro-placeholder.jpg"

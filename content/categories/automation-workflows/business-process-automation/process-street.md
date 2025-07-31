@@ -1,8 +1,8 @@
 ---
 title: "Process Street"
 tagline: "Workflow checklists"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "🔄 Automation & Workflows"
+subcategory: "🔄 Automation & Workflows"
 tool_name: "Process Street"
 deployment_status: "deployed"
 image: "/images/tools/process-street-placeholder.jpg"

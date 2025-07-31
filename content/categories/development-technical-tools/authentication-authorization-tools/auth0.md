@@ -1,7 +1,7 @@
 ---
 title: "Auth0"
 tagline: "Identity platform offering authentication, SSO, and user management across apps"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "Authentication & Authorization Tools"
 tool_name: "Auth0"
 deployment_status: "deployed"

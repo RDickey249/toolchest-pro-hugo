@@ -1,8 +1,8 @@
 ---
 title: "Clubhouse"
 tagline: "Software team management"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Clubhouse"
 deployment_status: "deployed"
 image: "/images/tools/clubhouse-placeholder.jpg"

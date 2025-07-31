@@ -1,8 +1,8 @@
 ---
 title: "MariaDB"
 tagline: "Enhanced MySQL fork with advanced features and performance"
-category: "Database & Data Management"
-subcategory: "Relational Databases"
+category: "🗄️ Database & Data Management"
+subcategory: "🗄️ Database & Data Management"
 tool_name: "MariaDB"
 deployment_status: "deployed"
 image: "/images/tools/mariadb-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Azure DevOps"
 tagline: "Microsoft development suite"
-category: "Productivity & Task Management"
-subcategory: "Advanced Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Azure DevOps"
 deployment_status: "deployed"
 image: "/images/tools/azure-devops-placeholder.jpg"

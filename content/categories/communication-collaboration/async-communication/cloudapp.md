@@ -1,8 +1,8 @@
 ---
 title: "CloudApp"
 tagline: "Visual communication"
-category: "Communication & Collaboration"
-subcategory: "Async Communication"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "CloudApp"
 deployment_status: "deployed"
 image: "/images/tools/cloudapp-placeholder.jpg"

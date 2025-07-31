@@ -1,8 +1,8 @@
 ---
 title: "Amazon Web Services (AWS)"
 tagline: "The world's most comprehensive cloud computing platform"
-category: "DevOps & Infrastructure"
-subcategory: "Cloud Platforms"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "AWS"
 deployment_status: "deployed"
 image: "/images/tools/aws-placeholder.jpg"

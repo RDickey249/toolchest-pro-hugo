@@ -1,8 +1,8 @@
 ---
 title: "Nintex"
 tagline: "Enterprise process automation platform"
-category: "Automation & Workflows"
-subcategory: "Business Process Automation"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "Nintex"
 deployment_status: "deployed"
 image: "/images/tools/nintex-placeholder.jpg"

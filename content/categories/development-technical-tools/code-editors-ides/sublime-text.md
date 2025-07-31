@@ -1,8 +1,8 @@
 ---
 title: "Sublime Text"
 tagline: "Fast and sophisticated text editor with powerful editing features"
-category: "Development & Technical Tools"
-subcategory: "Code Editors & IDEs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Sublime Text"
 deployment_status: "deployed"
 image: "/images/tools/sublime-text-placeholder.jpg"

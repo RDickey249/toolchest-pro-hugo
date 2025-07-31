@@ -1,8 +1,8 @@
 ---
 title: "Logseq"
 tagline: "Open-source knowledge graph"
-category: "Note-Taking & Knowledge Management"
-subcategory: "Digital Note-Taking"
+category: "📝 Note-Taking & Knowledge Management"
+subcategory: "📝 Note-Taking & Knowledge Management"
 tool_name: "Logseq"
 deployment_status: "deployed"
 image: "/images/tools/logseq-placeholder.jpg"

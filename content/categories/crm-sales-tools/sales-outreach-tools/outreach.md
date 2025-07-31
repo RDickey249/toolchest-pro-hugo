@@ -1,8 +1,8 @@
 ---
 title: "Outreach"
 tagline: "Sales engagement platform"
-category: "CRM & Sales Tools"
-subcategory: "Sales & Outreach Tools"
+category: "🎯 CRM & Sales Tools"
+subcategory: "🎯 CRM & Sales Tools"
 tool_name: "Outreach"
 deployment_status: "deployed"
 image: "/images/tools/outreach-placeholder.jpg"

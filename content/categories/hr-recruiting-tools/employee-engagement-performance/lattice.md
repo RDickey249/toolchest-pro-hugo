@@ -1,8 +1,8 @@
 ---
 title: "Lattice"
 tagline: "People management platform"
-category: "HR & Recruiting Tools"
-subcategory: "Employee Engagement & Performance"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Lattice"
 deployment_status: "deployed"
 image: "/images/tools/lattice-placeholder.jpg"

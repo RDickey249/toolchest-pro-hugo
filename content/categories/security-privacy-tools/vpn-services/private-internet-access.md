@@ -1,8 +1,8 @@
 ---
 title: "Private Internet Access"
 tagline: "No-logs VPN"
-category: "Security & Privacy Tools"
-subcategory: "VPN Services"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Private Internet Access"
 deployment_status: "deployed"
 image: "/images/tools/private-internet-access-placeholder.jpg"

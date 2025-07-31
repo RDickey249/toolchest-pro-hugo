@@ -1,8 +1,8 @@
 ---
 title: "GTmetrix"
 tagline: "Website speed and performance analysis platform"
-category: "Testing & Quality Assurance"
-subcategory: "Performance Testing"
+category: "♿ Accessibility & Inclusion Tools"
+subcategory: "♿ Accessibility & Inclusion Tools"
 tool_name: "GTmetrix"
 deployment_status: "deployed"
 image: "/images/tools/gtmetrix-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "15Five"
 tagline: "Performance management"
-category: "HR & Recruiting Tools"
-subcategory: "Employee Engagement & Performance"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "15Five"
 deployment_status: "deployed"
 image: "/images/tools/15five-placeholder.jpg"

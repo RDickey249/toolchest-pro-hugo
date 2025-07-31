@@ -1,8 +1,8 @@
 ---
 title: "Lily AI"
 tagline: "Ready to get started? Visit [Lily AI](https://www.lily.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Productivity Business"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Lily AI"
 deployment_status: "deployed"
 image: "/images/tools/lily-ai-placeholder.jpg"

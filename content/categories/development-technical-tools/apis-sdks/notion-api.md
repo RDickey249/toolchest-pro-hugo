@@ -1,8 +1,8 @@
 ---
 title: "Notion API"
 tagline: "API for building integrations with Notion's all-in-one workspace platform"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Notion API"
 deployment_status: "deployed"
 image: "/images/tools/notion-api-placeholder.jpg"

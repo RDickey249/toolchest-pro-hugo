@@ -1,8 +1,8 @@
 ---
 title: "Adobe Analytics"
 tagline: "Enterprise web analytics"
-category: "Analytics & Data Tools"
-subcategory: "Web Analytics"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "Adobe Analytics"
 deployment_status: "deployed"
 image: "/images/tools/adobe-analytics-placeholder.jpg"

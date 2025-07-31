@@ -1,8 +1,8 @@
 ---
 title: "ZenBusiness"
 tagline: "LLC formation"
-category: "Legal & Compliance Tools"
-subcategory: "Business Registration & Licensing"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "ZenBusiness"
 deployment_status: "deployed"
 image: "/images/tools/zenbusiness-placeholder.jpg"

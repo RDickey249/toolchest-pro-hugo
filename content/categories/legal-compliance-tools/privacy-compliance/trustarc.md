@@ -1,8 +1,8 @@
 ---
 title: "TrustArc"
 tagline: "Privacy compliance"
-category: "Legal & Compliance Tools"
-subcategory: "Privacy & Compliance"
+category: "⚖️ Legal & Compliance Tools"
+subcategory: "⚖️ Legal & Compliance Tools"
 tool_name: "TrustArc"
 deployment_status: "deployed"
 image: "/images/tools/trustarc-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Cleanvoice"
 tagline: "Ready to get started? Visit [Cleanvoice](https://cleanvoice.ai) to explore the platform and begin using this tool...."
-category: "Video Audio Tools"
-subcategory: "Video Creation Editing"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Cleanvoice"
 deployment_status: "deployed"
 image: "/images/tools/cleanvoice-placeholder.jpg"

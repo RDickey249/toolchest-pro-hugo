@@ -1,8 +1,8 @@
 ---
 title: "Spinnaker"
 tagline: "Multi-cloud continuous delivery platform for fast, safe deployments"
-category: "Development & Technical Tools"
-subcategory: "CI/CD Tools"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Spinnaker"
 deployment_status: "deployed"
 image: "/images/tools/spinnaker-placeholder.jpg"

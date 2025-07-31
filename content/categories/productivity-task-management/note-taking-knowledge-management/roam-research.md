@@ -1,8 +1,8 @@
 ---
 title: "Roam Research"
 tagline: "Network thinking for complex knowledge work"
-category: "Productivity & Task Management"
-subcategory: "Note-Taking & Knowledge Management"
+category: "💬 Communication & Collaboration"
+subcategory: "💬 Communication & Collaboration"
 tool_name: "Roam Research"
 deployment_status: "deployed"
 image: "/images/tools/roam-research-placeholder.jpg"

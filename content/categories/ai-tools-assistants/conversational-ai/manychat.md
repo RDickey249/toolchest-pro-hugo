@@ -1,8 +1,8 @@
 ---
 title: "ManyChat"
 tagline: "Ready to automate your messenger marketing? Visit [ManyChat](https://manychat.com) to build sophisticated chatbot experiences across Facebook, Instagr..."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "ManyChat"
 deployment_status: "deployed"
 image: "/images/tools/manychat-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Perforce"
 tagline: "Enterprise-grade version control for large-scale development"
-category: "Development & Technical Tools"
-subcategory: "Version Control & Collaboration"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Perforce"
 deployment_status: "deployed"
 image: "/images/tools/perforce-placeholder.jpg"

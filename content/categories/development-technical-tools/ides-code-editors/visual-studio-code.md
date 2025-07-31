@@ -1,8 +1,8 @@
 ---
 title: "Visual Studio Code"
 tagline: "Lightweight, extensible editor with rich ecosystem and debugging support"
-category: "Development & Technical Tools"
-subcategory: "IDEs & Code Editors"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Visual Studio Code"
 deployment_status: "deployed"
 image: "/images/tools/visual-studio-code-placeholder.jpg"

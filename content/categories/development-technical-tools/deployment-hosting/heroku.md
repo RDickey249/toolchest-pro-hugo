@@ -1,8 +1,8 @@
 ---
 title: "Heroku"
 tagline: "Cloud platform for deploying apps with Git-based workflows"
-category: "Development & Technical Tools"
-subcategory: "Deployment & Hosting"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Heroku"
 deployment_status: "deployed"
 image: "/images/tools/heroku-placeholder.jpg"

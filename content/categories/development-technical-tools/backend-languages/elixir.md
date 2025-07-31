@@ -1,8 +1,8 @@
 ---
 title: "Elixir"
 tagline: "Functional programming language built on Erlang VM for fault-tolerant systems"
-category: "Development & Technical Tools"
-subcategory: "Backend Languages"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "Elixir"
 deployment_status: "deployed"
 image: "/images/tools/elixir-placeholder.jpg"

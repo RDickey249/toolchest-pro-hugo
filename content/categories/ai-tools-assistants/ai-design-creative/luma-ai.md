@@ -1,8 +1,8 @@
 ---
 title: "Luma AI"
 tagline: "Ready to get started? Visit [Luma AI](https://lumalabs.ai) to explore the platform and begin using this tool...."
-category: "Ai Tools Assistants"
-subcategory: "Ai Design Creative"
+category: "🎪 Event Management Tools"
+subcategory: "🎪 Event Management Tools"
 tool_name: "Luma AI"
 deployment_status: "deployed"
 image: "/images/tools/luma-ai-placeholder.jpg"

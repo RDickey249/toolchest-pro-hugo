@@ -1,8 +1,8 @@
 ---
 title: "Minikube"
 tagline: "Local Kubernetes development environment for testing and learning"
-category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Minikube"
 deployment_status: "deployed"
 image: "/images/tools/minikube-placeholder.jpg"

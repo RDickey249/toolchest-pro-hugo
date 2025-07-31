@@ -1,8 +1,8 @@
 ---
 title: "Google Cloud Platform"
 tagline: "Google's cloud services with AI and data analytics focus"
-category: "DevOps & Infrastructure"
-subcategory: "Cloud Platforms"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Google Cloud Platform"
 deployment_status: "deployed"
 image: "/images/tools/gcp-placeholder.jpg"

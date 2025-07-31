@@ -1,8 +1,8 @@
 ---
 title: "PayPal API"
 tagline: "Global payment processing and digital wallet platform"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "PayPal API"
 deployment_status: "deployed"
 image: "/images/tools/paypal-api-placeholder.jpg"

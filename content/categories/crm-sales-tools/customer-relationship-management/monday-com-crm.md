@@ -1,8 +1,8 @@
 ---
 title: "Monday.com CRM"
 tagline: "Project management meets CRM"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Monday.com CRM"
 deployment_status: "deployed"
 image: "/images/tools/monday-com-crm-placeholder.jpg"

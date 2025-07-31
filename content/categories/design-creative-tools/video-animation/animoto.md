@@ -1,8 +1,8 @@
 ---
 title: "Animoto"
 tagline: "Automated video creation"
-category: "Design & Creative Tools"
-subcategory: "Video & Animation"
+category: "🎨 Design & Creative Tools"
+subcategory: "🎨 Design & Creative Tools"
 tool_name: "Animoto"
 deployment_status: "deployed"
 image: "/images/tools/animoto-placeholder.jpg"

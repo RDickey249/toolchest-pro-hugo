@@ -1,8 +1,8 @@
 ---
 title: "iCloud"
 tagline: "Apple's ecosystem storage"
-category: "Cloud Storage & File Management"
-subcategory: "Personal Cloud Storage"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "iCloud"
 deployment_status: "deployed"
 image: "/images/tools/icloud-placeholder.jpg"

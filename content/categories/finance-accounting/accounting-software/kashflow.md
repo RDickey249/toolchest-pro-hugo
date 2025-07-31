@@ -1,8 +1,8 @@
 ---
 title: "KashFlow"
 tagline: "UK small business"
-category: "Finance & Accounting"
-subcategory: "Accounting Software"
+category: "💰 Finance & Accounting"
+subcategory: "💰 Finance & Accounting"
 tool_name: "KashFlow"
 deployment_status: "deployed"
 image: "/images/tools/kashflow-placeholder.jpg"

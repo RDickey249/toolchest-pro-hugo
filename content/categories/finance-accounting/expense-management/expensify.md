@@ -1,8 +1,8 @@
 ---
 title: "Expensify"
 tagline: "Expense management"
-category: "Finance & Accounting"
-subcategory: "Expense Management"
+category: "✈️ Travel & Expense Management"
+subcategory: "✈️ Travel & Expense Management"
 tool_name: "Expensify"
 deployment_status: "deployed"
 image: "/images/tools/expensify-placeholder.jpg"

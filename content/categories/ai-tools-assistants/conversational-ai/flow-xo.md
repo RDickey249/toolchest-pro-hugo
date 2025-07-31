@@ -1,8 +1,8 @@
 ---
 title: "Flow XO"
 tagline: "[Automate Your Workflows with Flow XO →](https://flowxo.com)..."
-category: "Ai Tools Assistants"
-subcategory: "Conversational Ai"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Flow XO"
 deployment_status: "deployed"
 image: "/images/tools/flow-xo-placeholder.jpg"

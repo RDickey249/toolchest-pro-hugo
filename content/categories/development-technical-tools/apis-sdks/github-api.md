@@ -1,8 +1,8 @@
 ---
 title: "GitHub API"
 tagline: "Comprehensive platform for version control and collaboration"
-category: "Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "GitHub API"
 deployment_status: "deployed"
 image: "/images/tools/github-api-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Predis.ai"
 tagline: "Ready to get started? Visit [Predis.ai](https://predis.ai) to explore the platform and begin using this tool...."
-category: "Business Marketing Tools"
-subcategory: "Social Media Management"
+category: "🤖 AI Tools & Assistants"
+subcategory: "🤖 AI Tools & Assistants"
 tool_name: "Predis.ai"
 deployment_status: "deployed"
 image: "/images/tools/predis-ai-placeholder.jpg"

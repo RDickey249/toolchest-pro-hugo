@@ -1,8 +1,8 @@
 ---
 title: "Review Board"
 tagline: "Web-based code review tool supporting Git, SVN, and Perforce"
-category: "Development & Technical Tools"
-subcategory: "Code Quality & Linting"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Review Board"
 deployment_status: "deployed"
 image: "/images/tools/review-board-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Descript"
 tagline: "Revolutionary text-based audio and video editing platform"
-category: "Media & Entertainment"
-subcategory: "Audio Production"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Descript"
 deployment_status: "deployed"
 image: "/images/tools/descript-placeholder.jpg"

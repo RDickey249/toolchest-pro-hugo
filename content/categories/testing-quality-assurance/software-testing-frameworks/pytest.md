@@ -1,8 +1,8 @@
 ---
 title: "PyTest"
 tagline: "Mature Python testing framework with powerful features"
-category: "Testing & Quality Assurance"
-subcategory: "Software Testing Frameworks"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "PyTest"
 deployment_status: "deployed"
 image: "/images/tools/pytest-placeholder.jpg"

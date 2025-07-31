@@ -1,8 +1,8 @@
 ---
 title: "Vite"
 tagline: "Next-generation frontend build tool with lightning-fast development server"
-category: "Development & Technical Tools"
-subcategory: "Build Tools & Task Runners"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "Vite"
 deployment_status: "deployed"
 image: "/images/tools/vite-placeholder.jpg"

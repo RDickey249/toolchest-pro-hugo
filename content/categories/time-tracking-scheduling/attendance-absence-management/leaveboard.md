@@ -1,8 +1,8 @@
 ---
 title: "LeaveBoard"
 tagline: "Simple leave management for modern teams"
-category: "Time Tracking & Scheduling"
-subcategory: "Attendance & Absence Management"
+category: "👥 HR & Recruiting Tools"
+subcategory: "👥 HR & Recruiting Tools"
 tool_name: "LeaveBoard"
 deployment_status: "deployed"
 image: "/images/tools/leaveboard-placeholder.jpg"

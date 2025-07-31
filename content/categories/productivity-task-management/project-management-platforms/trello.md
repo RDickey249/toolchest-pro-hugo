@@ -1,8 +1,8 @@
 ---
 title: "Trello"
 tagline: "Visual project management with kanban boards"
-category: "Productivity & Task Management"
-subcategory: "Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Trello"
 deployment_status: "deployed"
 image: "/images/tools/trello-placeholder.jpg"

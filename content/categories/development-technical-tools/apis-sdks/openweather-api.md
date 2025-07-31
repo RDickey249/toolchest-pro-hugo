@@ -1,7 +1,7 @@
 ---
 title: "OpenWeather API"
 tagline: "Comprehensive weather data and forecasting services"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "APIs & SDKs"
 tool_name: "OpenWeather API"
 deployment_status: "deployed"

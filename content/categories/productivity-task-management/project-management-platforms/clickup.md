@@ -1,8 +1,8 @@
 ---
 title: "ClickUp"
 tagline: "All-in-one productivity workspace"
-category: "Productivity & Task Management"
-subcategory: "Project Management"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "ClickUp"
 deployment_status: "deployed"
 image: "/images/tools/clickup-placeholder.jpg"

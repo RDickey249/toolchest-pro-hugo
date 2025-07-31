@@ -1,8 +1,8 @@
 ---
 title: "Nextiva"
 tagline: "Complete business communications suite"
-category: "Customer Support"
-subcategory: "Voice & Phone Support"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Nextiva"
 deployment_status: "deployed"
 image: "/images/tools/nextiva-placeholder.jpg"

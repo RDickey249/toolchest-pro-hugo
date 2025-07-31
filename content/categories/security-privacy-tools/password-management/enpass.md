@@ -1,8 +1,8 @@
 ---
 title: "Enpass"
 tagline: "Offline password manager"
-category: "Security & Privacy Tools"
-subcategory: "Password Management"
+category: "🔒 Security & Privacy Tools"
+subcategory: "🔒 Security & Privacy Tools"
 tool_name: "Enpass"
 deployment_status: "deployed"
 image: "/images/tools/enpass-placeholder.jpg"

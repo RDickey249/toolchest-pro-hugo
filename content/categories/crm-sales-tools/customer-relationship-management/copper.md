@@ -1,8 +1,8 @@
 ---
 title: "Copper"
 tagline: "Google Workspace CRM"
-category: "CRM & Sales Tools"
-subcategory: "Customer Relationship Management"
+category: "⏰ Time Tracking & Scheduling"
+subcategory: "⏰ Time Tracking & Scheduling"
 tool_name: "Copper"
 deployment_status: "deployed"
 image: "/images/tools/copper-placeholder.jpg"

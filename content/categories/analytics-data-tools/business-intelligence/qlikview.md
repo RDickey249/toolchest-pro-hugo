@@ -1,8 +1,8 @@
 ---
 title: "QlikView"
 tagline: "Self-service BI"
-category: "Analytics & Data Tools"
-subcategory: "Business Intelligence"
+category: "📊 Analytics & Data Tools"
+subcategory: "📊 Analytics & Data Tools"
 tool_name: "QlikView"
 deployment_status: "deployed"
 image: "/images/tools/qlikview-placeholder.jpg"

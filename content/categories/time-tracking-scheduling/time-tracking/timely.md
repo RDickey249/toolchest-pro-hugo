@@ -1,7 +1,7 @@
 ---
 title: "Timely"
 tagline: "AI-powered automatic time tracking"
-category: "Time Tracking & Scheduling"
+category: "⏰ Time Tracking & Scheduling"
 subcategory: "Time Tracking"
 tool_name: "Timely"
 deployment_status: "deployed"

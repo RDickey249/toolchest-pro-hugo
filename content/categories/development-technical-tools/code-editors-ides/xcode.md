@@ -1,8 +1,8 @@
 ---
 title: "Xcode"
 tagline: "Apple's integrated development environment for iOS, macOS, and more"
-category: "Development & Technical Tools"
-subcategory: "Code Editors & IDEs"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Xcode"
 deployment_status: "deployed"
 image: "/images/tools/xcode-placeholder.jpg"

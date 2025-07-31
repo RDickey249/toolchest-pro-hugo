@@ -1,8 +1,8 @@
 ---
 title: "Vercel"
 tagline: "Frontend deployment platform optimized for modern frameworks"
-category: "Development & Technical Tools"
-subcategory: "Hosting Platforms"
+category: "💻 Development & Technical Tools"
+subcategory: "💻 Development & Technical Tools"
 tool_name: "Vercel"
 deployment_status: "deployed"
 image: "/images/tools/vercel-placeholder.jpg"

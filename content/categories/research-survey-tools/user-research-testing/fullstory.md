@@ -1,8 +1,8 @@
 ---
 title: "FullStory"
 tagline: "Digital experience intelligence platform"
-category: "Research & Survey"
-subcategory: "User Research & Testing"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "FullStory"
 deployment_status: "deployed"
 image: "/images/tools/fullstory-placeholder.jpg"

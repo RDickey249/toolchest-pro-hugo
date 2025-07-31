@@ -1,8 +1,8 @@
 ---
 title: "Sync.com"
 tagline: "Privacy-focused storage"
-category: "Cloud Storage & File Management"
-subcategory: "Personal Cloud Storage"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Sync.com"
 deployment_status: "deployed"
 image: "/images/tools/sync-com-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "React"
 tagline: "The most popular JavaScript frontend library"
-category: "Development & Technical Tools"
-subcategory: "Frontend Frameworks"
+category: "🎵 Media & Entertainment Tools"
+subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "React"
 deployment_status: "deployed"
 image: "/images/tools/react-placeholder.jpg"

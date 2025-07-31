@@ -1,8 +1,8 @@
 ---
 title: "Apple Reminders"
 tagline: "Native iOS/macOS task management with Siri and location alerts"
-category: "Productivity & Task Management"
-subcategory: "Task & Project Management"
+category: "📋 Productivity & Task Management"
+subcategory: "📋 Productivity & Task Management"
 tool_name: "Apple Reminders"
 deployment_status: "deployed"
 image: "/images/tools/apple-reminders-placeholder.jpg"

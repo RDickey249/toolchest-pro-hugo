@@ -1,8 +1,8 @@
 ---
 title: "DigitalOcean"
 tagline: "Simple, developer-friendly cloud hosting platform"
-category: "DevOps & Infrastructure"
-subcategory: "Cloud Platforms"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "DigitalOcean"
 deployment_status: "deployed"
 image: "/images/tools/digitalocean-placeholder.jpg"

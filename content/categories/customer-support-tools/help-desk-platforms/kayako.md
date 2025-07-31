@@ -1,8 +1,8 @@
 ---
 title: "Kayako"
 tagline: "Unified customer service platform for effortless customer experiences"
-category: "Customer Support"
-subcategory: "Help Desk Platforms"
+category: "🎧 Customer Support Tools"
+subcategory: "🎧 Customer Support Tools"
 tool_name: "Kayako"
 deployment_status: "deployed"
 image: "/images/tools/kayako-placeholder.jpg"

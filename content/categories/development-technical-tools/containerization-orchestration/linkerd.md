@@ -1,8 +1,8 @@
 ---
 title: "Linkerd"
 tagline: "Lightweight service mesh for Kubernetes with security and observability"
-category: "Development & Technical Tools"
-subcategory: "Containerization & Orchestration"
+category: "🔧 DevOps & Infrastructure Tools"
+subcategory: "🔧 DevOps & Infrastructure Tools"
 tool_name: "Linkerd"
 deployment_status: "deployed"
 image: "/images/tools/linkerd-placeholder.jpg"

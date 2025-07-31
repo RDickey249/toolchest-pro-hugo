@@ -1,8 +1,8 @@
 ---
 title: "Mocha"
 tagline: "Flexible JavaScript test framework for Node.js and browsers"
-category: "Testing & Quality Assurance"
-subcategory: "Software Testing Frameworks"
+category: "🧪 Testing & Quality Assurance"
+subcategory: "🧪 Testing & Quality Assurance"
 tool_name: "Mocha"
 deployment_status: "deployed"
 image: "/images/tools/mocha-placeholder.jpg"

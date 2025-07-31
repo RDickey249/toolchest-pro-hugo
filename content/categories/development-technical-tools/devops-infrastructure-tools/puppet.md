@@ -1,7 +1,7 @@
 ---
 title: "Puppet"
 tagline: "Declarative configuration management for system state enforcement"
-category: "Development & Technical Tools"
+category: "💻 Development & Technical Tools"
 subcategory: "DevOps & Infrastructure Tools"
 tool_name: "Puppet"
 deployment_status: "deployed"

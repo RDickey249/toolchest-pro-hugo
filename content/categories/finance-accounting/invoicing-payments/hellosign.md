@@ -1,8 +1,8 @@
 ---
 title: "Hellosign"
 tagline: "Payment solution"
-category: "Finance & Accounting"
-subcategory: "Invoicing Payments"
+category: "☁️ Cloud Storage & File Management"
+subcategory: "☁️ Cloud Storage & File Management"
 tool_name: "Hellosign"
 deployment_status: "deployed"
 image: "/images/tools/hellosign-placeholder.jpg"
