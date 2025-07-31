@@ -17,7 +17,7 @@ class ToolSearch {
             const response = await fetch('/search-index.json');
             this.searchIndex = await response.json();
             this.isIndexLoaded = true;
-            console.log(`Search index loaded: ${this.searchIndex.length} tools`);
+            // Search index loaded successfully
         } catch (error) {
             console.error('Failed to load search index:', error);
         }

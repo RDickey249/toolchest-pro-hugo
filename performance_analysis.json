@@ -1,0 +1,58 @@
+{
+  "score": 98,
+  "image_analysis": {
+    "total_images": 4,
+    "large_images": 1,
+    "optimization_needed": true
+  },
+  "css_analysis": {
+    "css_files": 1,
+    "total_size_kb": 4.990234375,
+    "issues": 0
+  },
+  "js_analysis": {
+    "js_files": 1,
+    "total_size_kb": 6.205078125,
+    "issues": 0
+  },
+  "mobile_optimized": true,
+  "viewport_found": true,
+  "recommendations": {
+    "critical": [
+      {
+        "area": "Search",
+        "action": "Optimize search index loading",
+        "implementation": "Consider chunking search index or loading on demand"
+      }
+    ],
+    "important": [
+      {
+        "area": "Images",
+        "action": "Implement lazy loading for tool images",
+        "implementation": "Add loading='lazy' attribute to img tags in Hugo templates"
+      },
+      {
+        "area": "Images",
+        "action": "Use WebP format for better compression",
+        "implementation": "Convert PNG/JPG images to WebP, provide fallbacks"
+      },
+      {
+        "area": "CSS",
+        "action": "Minify CSS files for production",
+        "implementation": "Use Hugo's built-in minification or build process"
+      },
+      {
+        "area": "Mobile",
+        "action": "Improve mobile navigation",
+        "implementation": "Add hamburger menu for mobile category browsing"
+      }
+    ],
+    "nice_to_have": [
+      {
+        "area": "JavaScript",
+        "action": "Remove console.log statements from production",
+        "implementation": "Clean up debug statements in search.js"
+      }
+    ]
+  }
+}

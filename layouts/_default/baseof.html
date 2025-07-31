@@ -476,7 +476,7 @@
                 const response = await fetch('/search-index.json');
                 if (response.ok) {
                     siteIndex = await response.json();
-                    console.log(`Search index loaded: ${siteIndex.length} tools`);
+                    // Search index loaded successfully
                 } else {
                     // Fallback: create basic index from current page
                     createBasicIndex();
