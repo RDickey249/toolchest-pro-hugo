@@ -20,12 +20,31 @@
 </div>
 
 <div class="container">
-    {{ if .Pages }}
+    {{ if eq .RelPermalink "/categories/" }}
+        <!-- Main categories page - show all 27 categories -->
+        <div class="categories">
+            <div class="category-grid">
+                {{ range .Pages }}
+                {{ $totalTools := 0 }}
+                {{ range .Pages }}
+                    {{ $totalTools = add $totalTools (len .Pages) }}
+                {{ end }}
+                <div class="category-card">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ $totalTools }} tools</p>
+                    {{ if .Description }}
+                    <p class="category-desc">{{ .Description | truncate 100 }}</p>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    {{ else if .Pages }}
         {{ if eq .Type "categories" }}
             {{ $isMainCategory := not .Parent }}
             
             {{ if $isMainCategory }}
-                <!-- Main category page - show subcategories only (fast & clean) -->
+                <!-- Individual category page - show subcategories -->
                 {{ $subcategories := where .Pages "Type" "categories" }}
                 {{ if $subcategories }}
                 <div class="subcategories">
@@ -61,21 +80,6 @@
                     </div>
                 </div>
             {{ end }}
-        {{ else }}
-            <!-- Default list view -->
-            <div class="page-list">
-                {{ range .Pages }}
-                <article class="list-item">
-                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                    {{ if .Summary }}
-                    <p>{{ .Summary | truncate 150 }}</p>
-                    {{ end }}
-                    <div class="meta">
-                        <time>{{ .Date.Format "January 2, 2006" }}</time>
-                    </div>
-                </article>
-                {{ end }}
-            </div>
         {{ end }}
     {{ else }}
         <div class="no-content">

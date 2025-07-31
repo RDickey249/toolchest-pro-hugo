@@ -1,14 +1,22 @@
 baseURL: "https://toolchest.pro"
 languageCode: "en-us"
 title: "ToolChest"
-# theme: ""  # Using custom layouts
+theme: "m10c"
 
 # Site parameters
 params:
-  description: "Comprehensive directory of professional tools for productivity, AI, marketing, and development"
-  author: "Ryan Dickey"
-  avatar: "/images/ryan-dickey.jpg"
-  logo: "/images/toolchest-logo-new.png"
+  description: "Anti-overwhelm business tool curation platform with expert-backed recommendations to help you find the right tools without the research fatigue"
+  author: "ToolChest"
+  avatar: "/images/toolchest-logo.svg"
+  background_color_class: "bg-black"
+  
+  # ToolChest Color Scheme
+  style:
+    darkestColor: "#2E3A46"     # Deep iron gray background
+    darkColor: "#444444"        # Card background (slightly lighter)
+    lightColor: "#9EC9FF"       # Pale blue accent text for headings
+    lightestColor: "#FFFFFF"    # Pure white primary text
+    primaryColor: "#E74C3C"     # Bold red for CTA/buttons
 
 # Taxonomies - keep it simple
 taxonomies:
