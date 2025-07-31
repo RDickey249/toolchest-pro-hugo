@@ -1,60 +1,73 @@
 {{ define "main" }}
-<div class="container">
-    {{ if eq .RelPermalink "/categories/" }}
-        <!-- Main categories page - show ONLY 27 categories -->
-        <h1>{{ .Title }}</h1>
-        {{ if .Description }}
-        <p>{{ .Description }}</p>
+{{ if eq .RelPermalink "/categories/" }}
+    <!-- Main categories page - show ONLY main categories -->
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+    <p>{{ .Description }}</p>
+    {{ end }}
+    
+    <ul class="posts-list">
+        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
+        {{ $categoryPage := index $taxonomy 0 }}
+        <li class="posts-list-item">
+            <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ $categoryPage.Params.category | default $categoryName }}</a></h2>
+            <p>{{ len $taxonomy }} tools</p>
+            {{ if $categoryPage.Params.description }}
+            <p>{{ $categoryPage.Params.description | truncate 100 }}</p>
+            {{ end }}
+        </li>
         {{ end }}
-        
-        <div class="categories-grid">
-            {{ range .Pages }}
-            {{ if .IsSection }}
-            {{ $toolCount := 0 }}
-            {{ range .Pages }}
-                {{ $toolCount = add $toolCount (len .Pages) }}
+    </ul>
+{{ else }}
+    <!-- Individual category taxonomy pages - show subcategories -->
+    <h1>{{ .Title }}</h1>
+    
+    <!-- Collect unique subcategories -->
+    {{ $subcategories := slice }}
+    {{ range .Pages }}
+        {{ if .Params.subcategories }}
+            {{ range .Params.subcategories }}
+                {{ if not (in $subcategories .) }}
+                    {{ $subcategories = $subcategories | append . }}
+                {{ end }}
             {{ end }}
-            <div class="category-card">
-                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                <p>{{ $toolCount }} tools</p>
-                {{ if .Description }}
-                <p class="category-desc">{{ .Description | truncate 100 }}</p>
-                {{ end }}
-            </div>
-            {{ end }}
-            {{ end }}
-        </div>
-    {{ else }}
-        <!-- Individual category or subcategory pages -->
-        {{ if not .Parent }}
-            <!-- Main category - show subcategories -->
-            <h1>{{ .Title }}</h1>
-            <div class="subcategories-grid">
-                {{ range .Pages }}
-                {{ if .IsSection }}
-                <div class="subcategory-card">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                    <p>{{ len .Pages }} tools</p>
-                    {{ if .Description }}
-                    <p class="subcategory-desc">{{ .Description | truncate 100 }}</p>
-                    {{ end }}
-                </div>
-                {{ end }}
-                {{ end }}
-            </div>
-        {{ else }}
-            <!-- Subcategory - show tools -->
-            <h1>{{ .Title }}</h1>
-            <div class="tools-grid">
-                {{ range .Pages }}
-                <div class="tool-card">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                    <p>{{ .Params.tagline | default .Summary | truncate 100 }}</p>
-                    <a href="{{ .Permalink }}">Learn More →</a>
-                </div>
-                {{ end }}
-            </div>
         {{ end }}
     {{ end }}
-</div>
+    
+    <ul class="posts-list">
+        {{ range $subcategories }}
+        <li class="posts-list-item">
+            <h2><a href="#{{ . | urlize }}">{{ . }}</a></h2>
+            <!-- Count tools in this subcategory -->
+            {{ $currentSubcat := . }}
+            {{ $toolCount := 0 }}
+            {{ range $.Pages }}
+                {{ if .Params.subcategories }}
+                    {{ if in .Params.subcategories $currentSubcat }}
+                        {{ $toolCount = add $toolCount 1 }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            <p>{{ $toolCount }} tools</p>
+        </li>
+        {{ end }}
+    </ul>
+    
+    <!-- Show tools grouped by subcategory -->
+    {{ range $subcatName := $subcategories }}
+    <h2 id="{{ $subcatName | urlize }}">{{ $subcatName }}</h2>
+    <ul class="posts-list">
+        {{ range $.Pages }}
+            {{ if .Params.subcategories }}
+                {{ if in .Params.subcategories $subcatName }}
+                <li class="posts-list-item">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Params.tagline | default .Summary | truncate 100 }}</p>
+                </li>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </ul>
+    {{ end }}
+{{ end }}
 {{ end }}
