@@ -11,11 +11,10 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ range .Site.Sections }}
-        {{ if eq .Section "categories" }}
-        {{ range .Sections }}
+        {{ $categoriesSection := .Site.GetPage "section" "categories" }}
+        {{ range $categoriesSection.Sections }}
         {{ $categoryPage := . }}
-        {{ $toolCount := len .Pages }}
+        {{ $toolCount := len .RegularPages }}
         <div class="card category-card" data-premium-zone="category-card">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <p class="category-description">{{ .Params.tagline | default .Summary | truncate 120 }}</p>
@@ -24,16 +23,14 @@
             {{ if ge $toolCount 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
-                {{ range first 3 .Pages }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $categoryPage.Pages) 2)) }}, {{ end }}
+                {{ range first 3 .RegularPages }}
+                {{ .Title }}{{ if not (eq . (index (first 3 $categoryPage.RegularPages) 2)) }}, {{ end }}
                 {{ end }}
                 {{ if gt $toolCount 3 }}...{{ end }}
             </div>
             {{ end }}
             <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
         </div>
-        {{ end }}
-        {{ end }}
         {{ end }}
     </div>
 {{ else }}
