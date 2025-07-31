@@ -25,18 +25,11 @@
             {{ $isMainCategory := not .Parent }}
             
             {{ if $isMainCategory }}
-                <!-- Main category page - show subcategories AND all tools -->
+                <!-- Main category page - show subcategories only (fast & clean) -->
                 {{ $subcategories := where .Pages "Type" "categories" }}
-                {{ $allTools := slice }}
-                {{ range $subcategories }}
-                    {{ range .Pages }}
-                        {{ $allTools = $allTools | append . }}
-                    {{ end }}
-                {{ end }}
-                
                 {{ if $subcategories }}
                 <div class="subcategories">
-                    <h2>Subcategories ({{ len $subcategories }})</h2>
+                    <h2>Choose a Subcategory</h2>
                     <div class="subcategory-grid">
                         {{ range $subcategories }}
                         <div class="subcategory-card">
@@ -45,24 +38,6 @@
                             {{ if .Description }}
                             <p class="subcategory-desc">{{ .Description | truncate 100 }}</p>
                             {{ end }}
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-                {{ end }}
-                
-                {{ if $allTools }}
-                <div class="all-tools">
-                    <h2>All Tools in {{ .Title }} ({{ len $allTools }})</h2>
-                    <div class="tool-grid">
-                        {{ range $allTools }}
-                        <div class="tool-card">
-                            <div class="tool-meta">
-                                <span class="tool-category">{{ .Params.subcategory | default .Parent.Title }}</span>
-                            </div>
-                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                            <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
-                            <a href="{{ .Permalink }}" class="tool-link">Learn More →</a>
                         </div>
                         {{ end }}
                     </div>
