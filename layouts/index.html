@@ -5,44 +5,31 @@
             <h1>{{ .Site.Title }}</h1>
             <p class="hero-subtitle">{{ .Site.Params.description }}</p>
             
-            <div class="stats">
-                {{ $totalTools := 0 }}
-                {{ range .Site.Sections }}
-                    {{ if eq .Section "categories" }}
-                        {{ range .Pages }}
-                            {{ $tools := where .Pages "Type" "categories" }}
-                            {{ $totalTools = add $totalTools (len $tools) }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-                <div class="stat">
-                    <span class="number">{{ len (where .Site.Pages "Type" "categories") }}</span>
-                    <span class="label">Professional Tools</span>
-                </div>
-                <div class="stat">
-                    <span class="number">{{ len .Site.Taxonomies.categories }}</span>
-                    <span class="label">Categories</span>
-                </div>
-            </div>
-            
             <div class="cta">
-                <a href="/categories/" class="btn-primary">Browse All Tools</a>
+                <a href="/categories/" class="btn-primary">Browse All Categories</a>
             </div>
         </div>
     </div>
 </div>
 
-<section class="featured-categories">
+<section class="featured-tools">
     <div class="container">
-        <h2>Popular Categories</h2>
-        <div class="category-grid">
-            {{ range first 6 .Site.Taxonomies.categories.ByCount }}
-            {{ $category := .Page }}
-            {{ if $category }}
-            <div class="category-card">
-                <h3><a href="{{ $category.Permalink }}">{{ $category.Title }}</a></h3>
-                <p>{{ .Count }} tools</p>
-                <p class="category-desc">{{ $category.Description | truncate 80 }}</p>
+        <h2>Featured Tools</h2>
+        <div class="tool-grid">
+            {{ range .Site.Data.affiliate_tools }}
+            {{ $toolName := .name | lower | replaceRE "[^a-z0-9]+" "-" | replaceRE "^-|-$" "" }}
+            {{ $toolPage := index (where $.Site.Pages ".Title" .name | first 1) 0 }}
+            {{ if not $toolPage }}
+                {{ $toolPage = index (where $.Site.Pages "eq" (.name | lower) (.Title | lower) | first 1) 0 }}
+            {{ end }}
+            {{ if $toolPage }}
+            <div class="tool-card">
+                <div class="tool-meta">
+                    <span class="tool-category">{{ .category }}</span>
+                </div>
+                <h3><a href="{{ $toolPage.Permalink }}">{{ .name }}</a></h3>
+                <p class="tool-tagline">{{ $toolPage.Params.tagline | default $toolPage.Summary | truncate 100 }}</p>
+                <a href="{{ $toolPage.Permalink }}" class="tool-link">Learn More →</a>
             </div>
             {{ end }}
             {{ end }}
