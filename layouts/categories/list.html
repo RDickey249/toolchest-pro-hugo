@@ -11,25 +11,29 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
-        {{ $categoryPath := printf "categories/%s" $categoryName }}
-        {{ $categoryPage := $.Site.GetPage $categoryPath }}
+        {{ range .Site.Sections }}
+        {{ if eq .Section "categories" }}
+        {{ range .Sections }}
+        {{ $categoryPage := . }}
+        {{ $toolCount := len .Pages }}
         <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ if $categoryPage }}{{ $categoryPage.Title }}{{ else }}{{ $categoryName }}{{ end }}</a></h2>
-            <p class="category-description">{{ $categoryPage.Params.tagline | default $categoryPage.Summary | truncate 120 }}</p>
-            <p class="tool-count">{{ len $taxonomy }} tools</p>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="category-description">{{ .Params.tagline | default .Summary | truncate 120 }}</p>
+            <p class="tool-count">{{ $toolCount }} tools</p>
             
-            {{ if ge (len $taxonomy) 3 }}
+            {{ if ge $toolCount 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
-                {{ range first 3 $taxonomy }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $taxonomy) 2)) }}, {{ end }}
+                {{ range first 3 .Pages }}
+                {{ .Title }}{{ if not (eq . (index (first 3 $categoryPage.Pages) 2)) }}, {{ end }}
                 {{ end }}
-                {{ if gt (len $taxonomy) 3 }}...{{ end }}
+                {{ if gt $toolCount 3 }}...{{ end }}
             </div>
             {{ end }}
             <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
         </div>
+        {{ end }}
+        {{ end }}
         {{ end }}
     </div>
 {{ else }}
