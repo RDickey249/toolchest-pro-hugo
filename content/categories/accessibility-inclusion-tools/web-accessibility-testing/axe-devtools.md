@@ -1,9 +1,9 @@
 ---
 title: "axe DevTools - Accessibility testing"
 tagline: "The industry standard for automated accessibility testing"
-category: "♿ Accessibility & Inclusion Tools"
+category: "Accessibility & Inclusion Tools"
 subcategory: "Web Accessibility Testing"
-tool_name: "axe DevTools"
+tool_name: "axe DevTools - Accessibility testing"
 deployment_status: "deployed"
 image: "/images/tools/axe-devtools-placeholder.jpg"
 external_link: "https://www.deque.com/axe/devtools/"

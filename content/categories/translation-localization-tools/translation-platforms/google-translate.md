@@ -1,9 +1,9 @@
 ---
 title: "Google Translate - Free online translation"
 tagline: "Translate the world's information instantly"
-category: "🌍 Translation & Localization Tools"
+category: "Translation & Localization Tools"
 subcategory: "Translation Platforms"
-tool_name: "Google Translate"
+tool_name: "Google Translate - Free online translation"
 deployment_status: "deployed"
 image: "/images/tools/google-translate-placeholder.jpg"
 external_link: "https://translate.google.com/"

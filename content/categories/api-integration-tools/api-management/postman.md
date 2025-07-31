@@ -1,9 +1,9 @@
 ---
 title: "Postman - API development platform"
 tagline: "The complete platform for API development and testing"
-category: "🔗 API & Integration Tools"
+category: "API & Integration Tools"
 subcategory: "API Management"
-tool_name: "Postman"
+tool_name: "Postman - API development platform"
 deployment_status: "deployed"
 image: "/images/tools/postman-placeholder.jpg"
 external_link: "https://www.postman.com/"

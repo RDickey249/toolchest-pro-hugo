@@ -1,9 +1,9 @@
 ---
 title: "WAVE - Web accessibility evaluation"
 tagline: "Free web accessibility testing for everyone"
-category: "♿ Accessibility & Inclusion Tools"
+category: "Accessibility & Inclusion Tools"
 subcategory: "Web Accessibility Testing"
-tool_name: "WAVE"
+tool_name: "WAVE - Web accessibility evaluation"
 deployment_status: "deployed"
 image: "/images/tools/wave-placeholder.jpg"
 external_link: "https://wave.webaim.org/"
