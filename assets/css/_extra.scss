@@ -106,10 +106,15 @@ p, li, span {
 }
 
 a {
-  color: $light-color;
+  color: #39FF14 !important; /* Neon green color */
   
   &:hover {
-    color: $primary-color;
+    color: #2BFF00 !important; /* Slightly different neon green on hover */
+    text-decoration: underline;
+  }
+  
+  &:visited {
+    color: #39FF14 !important; /* Ensure visited links stay neon green */
   }
 }
 
