@@ -1,3 +1,13 @@
+---
+title: "SlidesAI"
+tagline: "Convert text to presentations automatically. Visit [slidesai.io](https://www.slidesai.io) to transform documents into polished slide decks instantly...."
+category: "Business Marketing Tools"
+subcategory: "Presentation Tools"
+tool_name: "SlidesAI"
+deployment_status: "deployed"
+image: "/images/tools/slidesai-placeholder.jpg"
+---
+
 # SlidesAI
 
 SlidesAI streamlines presentation creation by automatically converting text documents, articles, or ideas into polished slide decks, making it the perfect solution for busy professionals who need presentations fast. This specialized tool excels at transforming existing content—whether it's a research paper, blog post, or meeting notes—into structured presentations with appropriate layouts and design elements. SlidesAI's intelligent parsing understands document structure and creates logical slide breaks, bullet points, and visual hierarchies that make sense for presentation flow. The platform works seamlessly with Google Slides, allowing users to leverage familiar tools while benefiting from AI automation. Whether you're an academic converting research into conference presentations, a consultant transforming reports into client decks, or a content creator repurposing written material for visual formats, SlidesAI eliminates the tedious work of manual conversion. Its focus on content transformation rather than design creation makes it uniquely valuable for users who have great content but need it in presentation format quickly and efficiently.

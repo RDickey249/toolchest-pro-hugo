@@ -1,3 +1,13 @@
+---
+title: "Cleanvoice"
+tagline: "Clean your audio automatically. Visit [cleanvoice.ai](https://cleanvoice.ai) to upload your first file free and see how Cleanvoice transforms your pod..."
+category: "Video Audio Tools"
+subcategory: "Audio Generation Editing"
+tool_name: "Cleanvoice"
+deployment_status: "deployed"
+image: "/images/tools/cleanvoice-placeholder.jpg"
+---
+
 # Cleanvoice
 
 Cleanvoice revolutionizes podcast post-production by automatically detecting and removing filler words, long pauses, mouth sounds, and dead air from your recordings, transforming hours of manual editing into minutes of automated perfection. This specialized AI platform understands the nuances of human speech patterns and conversation flow, intelligently preserving natural pauses while eliminating distracting elements that diminish listening experiences. Cleanvoice's advanced algorithms can distinguish between intentional pauses for emphasis and awkward silences that should be removed, ensuring your content maintains its authentic conversational feel. The platform excels at handling multilingual content and different accents, making it invaluable for global podcasters and content creators. Whether you're producing weekly podcast episodes, conducting remote interviews, or creating educational content, Cleanvoice eliminates the tedious cleanup work that consumes valuable creative time. Its batch processing capabilities mean you can set it and forget it, returning to polished audio ready for publishing. For podcasters and content creators who want to focus on content creation rather than technical editing, Cleanvoice provides professional-grade audio cleanup that elevates content quality effortlessly.

@@ -61,4 +61,6 @@ Known for its speed, reliability, and ease of use, MySQL has been the go-to data
 Used by Facebook, YouTube, Netflix, and millions of developers worldwide for reliable, scalable data storage.
 
 # MySQL
+## Get Started with MySQL
 
+Ready to get started? Visit [MySQL](https://mysql.com) to explore the platform and begin using this tool.

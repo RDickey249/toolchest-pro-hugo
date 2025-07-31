@@ -109,3 +109,6 @@ Built for distributed teams who want to maintain human connection without consta
 - **Builds culture** - Hearing voices strengthens team relationships
 
 Used by distributed teams worldwide to reduce meeting fatigue while maintaining the human connection that makes remote work successful.
+## Get Started with Yac
+
+Ready to get started? Visit [Yac](https://yac.com) to explore the platform and begin using this tool.

@@ -1,3 +1,13 @@
+---
+title: "Wisecut"
+tagline: "Transform long videos into engaging content with AI. Visit [wisecut.video](https://www.wisecut.video) to start automatically editing your videos and c..."
+category: "Video Audio Tools"
+subcategory: "Video Creation Editing"
+tool_name: "Wisecut"
+deployment_status: "deployed"
+image: "/images/tools/wisecut-placeholder.jpg"
+---
+
 # Wisecut
 
 Wisecut is an AI-powered video editing platform that automatically transforms long-form content into engaging, fast-paced videos. The AI analyzes speech patterns to remove dead space, filler words, and boring segments while preserving natural conversation flow.

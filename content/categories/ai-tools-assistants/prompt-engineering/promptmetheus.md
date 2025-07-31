@@ -1,3 +1,13 @@
+---
+title: "Promptmetheus"
+tagline: "Professional tool for enhanced productivity and workflow management"
+category: "Ai Tools Assistants"
+subcategory: "Prompt Engineering"
+tool_name: "Promptmetheus"
+deployment_status: "deployed"
+image: "/images/tools/promptmetheus-placeholder.jpg"
+---
+
 # Promptmetheus
 
 Promptmetheus is a comprehensive platform for testing and evaluating AI prompts with scientific rigor, transforming subjective prompt assessment into objective, data-driven analysis. It provides advanced testing environments that measure prompt performance across accuracy, consistency, creativity, and user satisfaction.
@@ -33,3 +43,6 @@ Perfect for AI product teams, research organizations, and enterprise companies b
 • Learning curve for teams new to systematic prompt testing
 • May be over-engineered for simple prompt evaluation needs
 • Requires significant setup and configuration for optimal use
+## Get Started with Promptmetheus
+
+Ready to get started? Visit [Promptmetheus](https://promptmetheus.com) to explore the platform and begin using this tool.

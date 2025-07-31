@@ -1,3 +1,13 @@
+---
+title: "TeamGantt"
+tagline: "Ready to get started? Visit [this tool](https://www.teamgantt.com) to explore the platform and begin using this tool...."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "TeamGantt"
+deployment_status: "deployed"
+image: "/images/tools/teamgantt-placeholder.jpg"
+---
+
 # TeamGantt
 
 TeamGantt simplifies complex project planning through intuitive, drag-and-drop Gantt chart creation that makes advanced project scheduling accessible to teams without extensive training. This user-friendly platform transforms traditional timeline management into a collaborative planning process that entire teams can participate in and understand.

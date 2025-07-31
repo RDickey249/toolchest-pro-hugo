@@ -1,3 +1,13 @@
+---
+title: "Zapier"
+tagline: "Ready to get started? Visit [Zapier](https://zapier.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Zapier"
+deployment_status: "deployed"
+image: "/images/tools/zapier-placeholder.jpg"
+---
+
 # Zapier
 
 Zapier is the leading automation platform that connects over 5,000 apps to eliminate repetitive tasks and manual data entry. It lets you create "Zaps" - automated workflows that trigger actions between different applications based on specific events or conditions.

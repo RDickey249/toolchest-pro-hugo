@@ -43,3 +43,6 @@ Built from the ground up for the cloud, Snowflake separates compute from storage
 - **Security** - Enterprise-grade encryption and access controls
 
 Trusted by over 9,000 customers including Capital One, Adobe, and DoorDash for mission-critical data workloads.
+## Get Started with Snowflake
+
+Ready to get started? Visit [Snowflake](https://snowflake.com) to explore the platform and begin using this tool.

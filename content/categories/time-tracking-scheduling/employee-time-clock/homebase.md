@@ -1,3 +1,13 @@
+---
+title: "Homebase"
+tagline: "Ready to get started? Visit [Homebase](https://joinhomebase.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Employee Time Clock"
+tool_name: "Homebase"
+deployment_status: "deployed"
+image: "/images/tools/homebase-placeholder.jpg"
+---
+
 # Homebase
 
 Homebase is the free employee scheduling and time clock platform built for small businesses. With shift scheduling, time tracking, team messaging, and payroll integration, it handles all your workforce management needs in one simple app.

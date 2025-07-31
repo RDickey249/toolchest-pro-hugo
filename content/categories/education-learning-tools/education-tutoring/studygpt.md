@@ -1,3 +1,13 @@
+---
+title: "StudyGPT"
+tagline: "StudyGPT is the AI-powered study assistant that provides personalized tutoring, practice problem generation, and learning strategies across all academ..."
+category: "Education Learning Tools"
+subcategory: "Education Tutoring"
+tool_name: "StudyGPT"
+deployment_status: "deployed"
+image: "/images/tools/studygpt-placeholder.jpg"
+---
+
 # StudyGPT
 
 StudyGPT is the AI-powered study assistant that provides personalized tutoring, practice problem generation, and learning strategies across all academic subjects.

@@ -20,3 +20,6 @@ Key features include click heatmaps showing where users click most, scroll maps 
 The platform excels at identifying conversion barriers and optimization opportunities through visual data analysis. Confetti reports break down clicks by traffic source, while mobile heatmaps ensure optimization strategies work across all devices.
 
 Crazy Egg particularly benefits marketers and UX designers focused on conversion rate optimization. Its visual approach makes it easy to identify problem areas and communicate findings to stakeholders who need clear, actionable insights for website improvements.
+## Get Started with Crazy Egg
+
+Ready to get started? Visit [Crazy Egg](https://crazyegg.com) to explore the platform and begin using this tool.

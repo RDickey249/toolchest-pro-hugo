@@ -1,3 +1,13 @@
+---
+title: "ActivTrak"
+tagline: "Ready to get started? Visit [ActivTrak](https://www.activtrak.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking Analytics"
+tool_name: "ActivTrak"
+deployment_status: "deployed"
+image: "/images/tools/activtrak-placeholder.jpg"
+---
+
 # ActivTrak
 
 ActivTrak is the workforce analytics platform that shows how employees spend their time across applications and websites. Get productivity insights without invasive monitoring to help teams work better together.

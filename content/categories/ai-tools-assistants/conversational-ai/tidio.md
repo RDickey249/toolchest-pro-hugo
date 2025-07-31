@@ -1,3 +1,13 @@
+---
+title: "Tidio"
+tagline: "Ready to enhance customer communication with live chat and bots? Visit [Tidio](https://www.tidio.com) to combine human agents with AI automation for b..."
+category: "Ai Tools Assistants"
+subcategory: "Conversational Ai"
+tool_name: "Tidio"
+deployment_status: "deployed"
+image: "/images/tools/tidio-placeholder.jpg"
+---
+
 # Tidio
 
 Tidio is an all-in-one customer communication platform that combines live chat, chatbots, and email marketing in a single solution. The platform seamlessly blends human agents with AI automation, ensuring customers receive immediate responses while complex issues get escalated to skilled support teams.

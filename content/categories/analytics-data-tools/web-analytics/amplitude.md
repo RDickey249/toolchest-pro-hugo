@@ -50,3 +50,6 @@ Focused on answering the "why" behind user actions, Amplitude provides deep beha
 - Growth experiment analysis
 
 Trusted by companies like Shopify, NBCUniversal, and Square to make data-driven product decisions that drive growth.
+## Get Started with Amplitude
+
+Ready to get started? Visit [Amplitude](https://amplitude.com) to explore the platform and begin using this tool.

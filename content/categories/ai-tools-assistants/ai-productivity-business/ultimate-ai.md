@@ -1,3 +1,13 @@
+---
+title: "Ultimate AI"
+tagline: "Ready to get started? Visit [Ultimate AI](https://ultimate.ai) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Ultimate AI"
+deployment_status: "deployed"
+image: "/images/tools/ultimate-ai-placeholder.jpg"
+---
+
 # Ultimate AI
 
 Ultimate AI is a conversational AI platform that automates complex customer service interactions across multiple channels. It combines natural language processing with deep business system integration to handle everything from simple FAQs to multi-step processes like returns and account management.

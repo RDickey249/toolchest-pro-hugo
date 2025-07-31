@@ -1,3 +1,13 @@
+---
+title: "Quip"
+tagline: "Ready to get started? Visit [this tool](https://quip.com) to explore the platform and begin using this tool...."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Quip"
+deployment_status: "deployed"
+image: "/images/tools/quip-placeholder.jpg"
+---
+
 # Quip
 
 Quip enhances team productivity through a collaborative platform that seamlessly integrates documents, spreadsheets, and chat into a unified workspace designed to streamline communication and eliminate traditional document collaboration inefficiencies. This integrated platform addresses fragmented team communication by providing a single space where teams can create documents, discuss ideas, and make decisions together.

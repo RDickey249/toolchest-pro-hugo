@@ -1,3 +1,13 @@
+---
+title: "TimeCamp"
+tagline: "Professional tool for enhanced productivity and workflow management"
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking For Teams"
+tool_name: "TimeCamp"
+deployment_status: "deployed"
+image: "/images/tools/timecamp-placeholder.jpg"
+---
+
 # TimeCamp
 
 TimeCamp is the time tracking platform that combines team productivity monitoring with automated billing and project management. With desktop apps, mobile tracking, and detailed reporting, it helps teams track time accurately and turn that data into actionable insights.
@@ -31,3 +41,6 @@ Used by over 18,000 businesses worldwide, TimeCamp makes time tracking effortles
 • Learning curve for maximizing integrated billing and attendance features across diverse team and project coordination requirements
 • Advanced features may require significant setup time for optimal team billing coordination and attendance management implementation
 • Integration requirements may create workflow dependencies requiring careful configuration and team coordination management
+## Get Started with TimeCamp
+
+Ready to get started? Visit [TimeCamp](https://timecamp.com) to explore the platform and begin using this tool.

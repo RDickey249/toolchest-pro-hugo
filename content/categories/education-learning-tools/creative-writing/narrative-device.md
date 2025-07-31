@@ -1,3 +1,13 @@
+---
+title: "Narrative Device"
+tagline: "Ready to get started? Visit [Narrative Device](https://narrativedevice.com) to explore the platform and begin using this tool...."
+category: "Education Learning Tools"
+subcategory: "Creative Writing"
+tool_name: "Narrative Device"
+deployment_status: "deployed"
+image: "/images/tools/narrative-device-placeholder.jpg"
+---
+
 # Narrative Device
 
 Narrative Device is an AI-powered story analysis platform that provides insights into narrative structure, character development, and storytelling effectiveness. It examines the deeper elements of craft beyond grammar, identifying plot patterns and narrative techniques that create emotional impact.

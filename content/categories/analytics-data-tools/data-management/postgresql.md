@@ -58,3 +58,6 @@ Often called "Postgres," it combines the reliability of traditional SQL database
 - Security features including row-level security
 
 Trusted by Apple, Netflix, Instagram, and thousands of companies for mission-critical applications requiring reliability and performance.
+## Get Started with PostgreSQL
+
+Ready to get started? Visit [PostgreSQL](https://postgresql.com) to explore the platform and begin using this tool.

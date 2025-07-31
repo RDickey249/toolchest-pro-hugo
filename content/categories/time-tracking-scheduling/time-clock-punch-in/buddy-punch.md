@@ -1,3 +1,13 @@
+---
+title: "Buddy Punch"
+tagline: "Ready to get started? Visit [Buddy Punch](https://buddypunch.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Clock Punch In"
+tool_name: "Buddy Punch"
+deployment_status: "deployed"
+image: "/images/tools/buddy-punch-placeholder.jpg"
+---
+
 # Buddy Punch
 
 Buddy Punch is a comprehensive punch-in system that eliminates time theft through GPS verification and webcam authentication. The platform combines advanced anti-fraud technology with user-friendly interfaces to ensure accurate attendance tracking while maintaining simplicity for legitimate users.

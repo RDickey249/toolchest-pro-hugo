@@ -1,3 +1,13 @@
+---
+title: "Veed"
+tagline: "Edit videos like a pro in your browser. Visit [veed.io](https://www.veed.io) to start creating professional videos with AI-powered tools and zero down..."
+category: "Video Audio Tools"
+subcategory: "Video Creation Editing"
+tool_name: "Veed"
+deployment_status: "deployed"
+image: "/images/tools/veed-placeholder.jpg"
+---
+
 # Veed
 
 Veed democratizes professional video editing by providing a comprehensive browser-based platform that combines powerful editing capabilities with AI-enhanced features, making high-quality video production accessible to creators regardless of their technical expertise or budget. This versatile platform eliminates the barriers of expensive software and complex workflows, offering everything from basic cuts and transitions to advanced effects, automatic subtitles, and audio enhancement in an intuitive interface. Veed excels at streamlining the entire video production process, from initial upload to final export, with features like automatic transcription, background removal, and smart cropping that save hours of manual work. The platform's strength lies in its balance of professional capabilities with user-friendly design, enabling content creators, marketers, and businesses to produce polished videos quickly and efficiently. Whether you're editing social media content, creating marketing videos, or producing educational materials, Veed provides the tools and automation that modern video creators need. Its collaborative features and cloud-based architecture ensure teams can work together seamlessly while maintaining project organization and version control. For anyone seeking professional video editing without the complexity and cost of traditional software, Veed offers the perfect solution for modern content creation.

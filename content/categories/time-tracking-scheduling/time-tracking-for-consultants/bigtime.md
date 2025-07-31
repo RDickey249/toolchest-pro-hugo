@@ -1,3 +1,13 @@
+---
+title: "BigTime"
+tagline: "Ready to get started? Visit [BigTime](https://www.bigtime.net) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking For Consultants"
+tool_name: "BigTime"
+deployment_status: "deployed"
+image: "/images/tools/bigtime-placeholder.jpg"
+---
+
 # BigTime
 
 BigTime is the time tracking and billing platform built specifically for consultants and professional service firms. With integrated project management, expense tracking, and automated invoicing, it handles the business side so you can focus on delivering great work.

@@ -36,3 +36,6 @@ Used by companies like Groupon, Instacart, and Ring, Hubstaff provides comprehen
 • GPS and location tracking may raise privacy concerns requiring extensive policy development
 • Advanced features may be overwhelming for organizations seeking straightforward attendance monitoring
 • Learning curve exists for maximizing real-time monitoring and comprehensive tracking capabilities
+## Get Started with Hubstaff
+
+Ready to get started? Visit [Hubstaff](https://hubstaff.com) to explore the platform and begin using this tool.

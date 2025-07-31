@@ -1,3 +1,13 @@
+---
+title: "Ocoya"
+tagline: "Ready to get started? Visit [Ocoya](https://www.ocoya.com) to explore the platform and begin using this tool...."
+category: "Business Marketing Tools"
+subcategory: "Social Media Management"
+tool_name: "Ocoya"
+deployment_status: "deployed"
+image: "/images/tools/ocoya-placeholder.jpg"
+---
+
 # Ocoya
 
 Ocoya transforms social media management by combining AI content creation with advanced social listening and analytics, enabling businesses to create compelling posts while staying ahead of trends and monitoring brand mentions across all major platforms. This intelligent platform goes beyond simple scheduling by analyzing social conversations, competitor activity, and trending topics to inform content strategy, ensuring every post contributes to meaningful engagement and business growth. Ocoya's strength lies in its ability to blend reactive social listening with proactive content creation, allowing brands to respond quickly to opportunities while maintaining consistent, high-quality posting schedules that build audience loyalty. The platform excels at serving marketing teams and agencies who need to manage multiple clients or brands efficiently, providing centralized dashboards that streamline everything from content planning to performance reporting across diverse social media accounts. Whether you're launching product campaigns, managing crisis communications, or building thought leadership, Ocoya provides the comprehensive social intelligence that transforms scattered social media efforts into strategic marketing operations. Its combination of AI writing, visual creation, and social monitoring makes it essential for businesses that want to not just post content, but truly understand and engage with their social media ecosystem.

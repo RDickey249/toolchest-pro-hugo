@@ -1,3 +1,13 @@
+---
+title: "Sellesta"
+tagline: "Ready to get started? Visit [Sellesta](https://www.sellesta.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Sellesta"
+deployment_status: "deployed"
+image: "/images/tools/sellesta-placeholder.jpg"
+---
+
 # Sellesta
 
 Sellesta is the AI-powered Amazon optimization platform that automatically improves product listings, monitors competitor pricing, and enhances search visibility to maximize sales performance for marketplace sellers.

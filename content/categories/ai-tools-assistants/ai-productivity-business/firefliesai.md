@@ -1,3 +1,13 @@
+---
+title: "Fireflies.ai"
+tagline: "Ready to get started? Visit [Fireflies.ai](https://fireflies.ai) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Fireflies.ai"
+deployment_status: "deployed"
+image: "/images/tools/firefliesai-placeholder.jpg"
+---
+
 # Fireflies.ai
 
 Fireflies.ai is the AI-powered meeting assistant that automatically records, transcribes, and analyzes conversations from Zoom, Teams, and phone systems to create searchable meeting summaries and actionable insights.

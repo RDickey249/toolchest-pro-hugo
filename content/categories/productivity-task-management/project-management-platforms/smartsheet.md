@@ -1,3 +1,13 @@
+---
+title: "Smartsheet"
+tagline: "Ready to transform spreadsheets into project management?..."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Smartsheet"
+deployment_status: "deployed"
+image: "/images/tools/smartsheet-placeholder.jpg"
+---
+
 # Smartsheet
 
 Smartsheet combines the familiar interface of spreadsheets with enterprise-grade project management capabilities. It transforms static spreadsheets into dynamic project coordination tools with automated workflows, real-time collaboration, and advanced reporting.

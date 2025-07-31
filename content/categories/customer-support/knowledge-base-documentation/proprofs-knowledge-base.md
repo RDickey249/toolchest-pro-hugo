@@ -15,3 +15,6 @@ ProProfs Knowledge Base is an intuitive documentation platform that makes creati
 What sets ProProfs apart is its unique ability to embed quizzes and assessments within articles, plus conditional branching that creates dynamic help content adapting to user responses. This makes it particularly valuable for training documentation and complex support scenarios.
 
 Perfect for growing businesses who want professional documentation without technical complexity. Ideal for teams needing multilingual support, custom branding, and seamless integration with existing help desk and live chat tools.
+## Get Started with ProProfs Knowledge Base
+
+Ready to get started? Visit [ProProfs Knowledge Base](https://proprofsknowledgebase.com) to explore the platform and begin using this tool.

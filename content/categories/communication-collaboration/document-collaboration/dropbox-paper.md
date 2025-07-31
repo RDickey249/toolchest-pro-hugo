@@ -94,3 +94,6 @@ Built with simplicity as a core principle, Paper eliminates formatting distracti
 - **Fast collaboration** - Real-time editing feels natural and responsive
 
 Used by creative teams and organizations worldwide who value clean, distraction-free collaborative writing that makes teamwork effortless.
+## Get Started with Dropbox Paper
+
+Ready to get started? Visit [Dropbox Paper](https://dropboxpaper.com) to explore the platform and begin using this tool.

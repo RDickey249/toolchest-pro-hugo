@@ -43,3 +43,6 @@ Now part of Google Cloud, Looker goes beyond traditional BI tools by creating a 
 - **Google Cloud integration** - Seamless connection to BigQuery and other GCP services
 
 Chosen by companies like Kickstarter, Warby Parker, and Buzzfeed for modern, scalable business intelligence.
+## Get Started with Looker
+
+Ready to get started? Visit [Looker](https://looker.com) to explore the platform and begin using this tool.

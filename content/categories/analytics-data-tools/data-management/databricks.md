@@ -20,3 +20,6 @@ The platform bridges the gap between data engineers and data scientists through 
 Advanced features include AutoML for automated model development, real-time model serving, and multi-cloud deployment across AWS, Azure, and Google Cloud. The collaborative workspace enables teams to share insights and iterate quickly on data projects.
 
 Databricks excels for organizations building comprehensive data strategies that span engineering, analytics, and machine learning. Its unified approach eliminates tool fragmentation while providing the scalability and performance needed for enterprise data workloads.
+## Get Started with Databricks
+
+Ready to get started? Visit [Databricks](https://databricks.com) to explore the platform and begin using this tool.

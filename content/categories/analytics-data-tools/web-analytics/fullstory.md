@@ -65,3 +65,6 @@ Trusted by companies like Atlassian, IBM, and HelloFresh to understand and impro
 FullStory is the digital experience intelligence platform that captures complete user sessions to show exactly how visitors interact with your website or app. Watch pixel-perfect replays, analyze user journeys, and optimize conversions with comprehensive behavioral insights.
 
 Trusted by companies like Spotify, HelloFresh, and Indeed, FullStory offers session replay, heatmaps, conversion funnels, and advanced search capabilities. Identify pain points, understand user behavior, and improve customer experience with privacy-compliant session capture and analytics.
+## Get Started with FullStory
+
+Ready to get started? Visit [FullStory](https://fullstory.com) to explore the platform and begin using this tool.

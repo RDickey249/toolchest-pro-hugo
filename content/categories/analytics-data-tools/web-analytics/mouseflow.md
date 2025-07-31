@@ -20,3 +20,6 @@ Key features include detailed session recordings that capture mouse movements an
 Advanced capabilities include rage click detection for identifying user frustration, attention maps showing where users focus, and conversion optimization tools that help improve key metrics. The platform offers competitive pricing without sacrificing essential features.
 
 Mouseflow excels for small to medium businesses and UX teams that need comprehensive user analytics at accessible price points. Its combination of multiple analysis methods provides complete visibility into user behavior for data-driven optimization decisions.
+## Get Started with Mouseflow
+
+Ready to get started? Visit [Mouseflow](https://mouseflow.com) to explore the platform and begin using this tool.

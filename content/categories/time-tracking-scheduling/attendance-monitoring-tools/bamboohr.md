@@ -36,3 +36,6 @@ Used by over 25,000 companies worldwide, BambooHR makes HR simple for growing bu
 • Learning curve exists for maximizing integrated HR features and comprehensive attendance management
 • Implementation may require significant time investment for complete HR system setup and policy configuration
 • Advanced HR features may be overwhelming for organizations with basic attendance monitoring requirements
+## Get Started with BambooHR
+
+Ready to get started? Visit [BambooHR](https://bamboohr.com) to explore the platform and begin using this tool.

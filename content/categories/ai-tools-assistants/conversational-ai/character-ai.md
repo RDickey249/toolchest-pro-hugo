@@ -1,3 +1,13 @@
+---
+title: "Character.AI"
+tagline: "Ready to get started? Visit [Character.AI](https://character.ai) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Conversational Ai"
+tool_name: "Character.AI"
+deployment_status: "deployed"
+image: "/images/tools/character-ai-placeholder.jpg"
+---
+
 # Character.AI
 
 Character.AI is a conversational AI platform that lets you chat with millions of AI personalities, from historical figures to fictional characters. Unlike traditional chatbots with single personalities, it offers endless variety through user-generated characters with distinct voices and knowledge bases.

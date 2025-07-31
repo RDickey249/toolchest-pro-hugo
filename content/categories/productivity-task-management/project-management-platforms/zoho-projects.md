@@ -1,3 +1,13 @@
+---
+title: "Zoho Projects"
+tagline: "Ready to integrate project management with your business ecosystem?..."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Zoho Projects"
+deployment_status: "deployed"
+image: "/images/tools/zoho-projects-placeholder.jpg"
+---
+
 # Zoho Projects
 
 Zoho Projects delivers comprehensive project management within the powerful Zoho ecosystem, providing teams with enterprise-grade project planning, collaboration, and tracking capabilities that seamlessly integrate with the full suite of Zoho business applications. This sophisticated platform creates a unified workspace where project management connects naturally with CRM, finance, HR, and other business operations.

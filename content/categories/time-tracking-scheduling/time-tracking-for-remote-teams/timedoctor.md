@@ -1,3 +1,13 @@
+---
+title: "Timedoctor"
+tagline: "Time Doctor is the remote team monitoring platform that combines time tracking with screenshot verification and distraction alerts to ensure productiv..."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking For Remote Teams"
+tool_name: "Timedoctor"
+deployment_status: "deployed"
+image: "/images/tools/timedoctor-placeholder.jpg"
+---
+
 # Timedoctor
 
 Time Doctor is the remote team monitoring platform that combines time tracking with screenshot verification and distraction alerts to ensure productivity and accountability for distributed teams.
@@ -31,3 +41,6 @@ Used by 83,000+ businesses managing remote workers, Time Doctor offers automatic
 • Premium pricing for advanced monitoring features may be expensive for small remote teams with basic productivity tracking needs
 • Distraction alerts may be disruptive requiring careful configuration for optimal remote worker focus enhancement without interference
 • Technology requirements for screenshot and distraction monitoring may limit accessibility for some remote workers and device configurations
+## Get Started with Timedoctor
+
+Ready to get started? Visit [Timedoctor](https://timedoctor.com) to explore the platform and begin using this tool.

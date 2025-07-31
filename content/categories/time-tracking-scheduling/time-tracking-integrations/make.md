@@ -1,3 +1,13 @@
+---
+title: "Make (Integromat)"
+tagline: "Ready to get started? Visit [Make](https://www.make.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking Integrations"
+tool_name: "Make (Integromat)"
+deployment_status: "deployed"
+image: "/images/tools/make-placeholder.jpg"
+---
+
 # Make (Integromat)
 
 Make is a sophisticated visual automation platform that enables organizations to create complex time tracking integrations and data processing workflows using intuitive drag-and-drop interfaces. The software combines visual simplicity with technical depth to make advanced business process automation accessible without extensive coding expertise.

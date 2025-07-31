@@ -13,3 +13,6 @@ image: "/images/tools/datacamp-placeholder.jpg"
 DataCamp is the hands-on data science learning platform trusted by companies like Google, PayPal, and Intel to upskill their teams. Learn Python, R, SQL, and more through interactive coding exercises with real datasets.
 
 With over 13 million learners worldwide, DataCamp offers skill assessments, career tracks, and practice with actual data from companies like Uber and Netflix. Code in your browser, track progress with certifications, and build a portfolio of data science projects.
+## Get Started with DataCamp
+
+Ready to get started? Visit [DataCamp](https://datacamp.com) to explore the platform and begin using this tool.

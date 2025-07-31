@@ -15,3 +15,6 @@ Lookback is a comprehensive user research platform that specializes in both live
 The platform excels at collaborative analysis with timestamped notes, highlight reels, and team workspaces for synthesizing insights. Features like automatic transcription, sentiment analysis, and powerful participant management tools streamline the research process from recruitment to final insights.
 
 Lookback is ideal for UX researchers, product teams, and design agencies conducting frequent user research at scale. Its focus on research operations and integrations with tools like Slack and Calendly make it perfect for teams needing efficient, professional user research workflows.
+## Get Started with Lookback
+
+Ready to get started? Visit [Lookback](https://lookback.com) to explore the platform and begin using this tool.

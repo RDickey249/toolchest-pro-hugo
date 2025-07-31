@@ -1,3 +1,13 @@
+---
+title: "DataRobot"
+tagline: "Ready to get started? Visit [DataRobot](https://www.datarobot.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "DataRobot"
+deployment_status: "deployed"
+image: "/images/tools/datarobot-placeholder.jpg"
+---
+
 # DataRobot
 
 DataRobot is an enterprise-grade automated machine learning platform that accelerates AI model development, deployment, and management at organizational scale. It automates the entire ML lifecycle while maintaining the governance, security, and compliance standards that large organizations require.

@@ -63,4 +63,6 @@ Standing for "Remote Dictionary Server," Redis is much more than a cache—it's 
 Used by Twitter, GitHub, Pinterest, and millions of applications worldwide for blazing-fast data access and real-time functionality.
 
 # Redis
+## Get Started with Redis
 
+Ready to get started? Visit [Redis](https://redis.com) to explore the platform and begin using this tool.

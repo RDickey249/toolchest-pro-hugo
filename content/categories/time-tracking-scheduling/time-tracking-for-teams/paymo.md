@@ -1,3 +1,13 @@
+---
+title: "Paymo"
+tagline: "Ready to get started? Visit [Paymo](https://www.paymoapp.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking For Teams"
+tool_name: "Paymo"
+deployment_status: "deployed"
+image: "/images/tools/paymo-placeholder.jpg"
+---
+
 # Paymo
 
 Paymo combines time tracking, task management, and invoicing in one integrated platform designed for project-based teams. Used by over 100,000 businesses worldwide, it eliminates the need to juggle separate tools for tracking work and billing clients.

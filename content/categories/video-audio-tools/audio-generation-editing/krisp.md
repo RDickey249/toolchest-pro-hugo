@@ -1,3 +1,13 @@
+---
+title: "Krisp"
+tagline: "Sound professional from anywhere. Visit [krisp.ai](https://krisp.ai) to download Krisp free and eliminate background noise from all your calls and rec..."
+category: "Video Audio Tools"
+subcategory: "Audio Generation Editing"
+tool_name: "Krisp"
+deployment_status: "deployed"
+image: "/images/tools/krisp-placeholder.jpg"
+---
+
 # Krisp
 
 Krisp is an AI-powered noise cancellation tool that eliminates background noise, echo, and distractions in real-time during calls and recordings. It works with any communication app including Zoom, Teams, Discord, and recording software to deliver crystal-clear audio regardless of your environment.

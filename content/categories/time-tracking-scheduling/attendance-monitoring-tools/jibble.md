@@ -36,3 +36,6 @@ Used by organizations seeking advanced attendance verification at no cost, Jibbl
 • Limited integration options compared to comprehensive paid attendance management platforms
 • Advanced analytics and reporting may be more basic compared to specialized workforce management solutions
 • Customer support and service levels may be limited compared to premium paid solutions
+## Get Started with Jibble
+
+Ready to get started? Visit [Jibble](https://jibble.com) to explore the platform and begin using this tool.

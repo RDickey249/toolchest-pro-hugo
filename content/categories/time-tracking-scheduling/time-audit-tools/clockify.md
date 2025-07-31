@@ -1,3 +1,13 @@
+---
+title: "Clockify"
+tagline: "Ready to get started? Visit [Clockify](https://clockify.me/) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Audit Tools"
+tool_name: "Clockify"
+deployment_status: "deployed"
+image: "/images/tools/clockify-placeholder.jpg"
+---
+
 # Clockify
 
 Clockify is a comprehensive time tracking platform that combines detailed project logging with sophisticated reporting capabilities, all available free with unlimited users and projects. The system provides teams and individuals with powerful productivity insights while maintaining accessibility for organizations of any size.

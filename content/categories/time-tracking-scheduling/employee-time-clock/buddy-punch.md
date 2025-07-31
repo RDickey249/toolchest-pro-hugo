@@ -1,3 +1,13 @@
+---
+title: "Buddy Punch"
+tagline: "Ready to get started? Visit [Buddy Punch](https://buddypunch.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Employee Time Clock"
+tool_name: "Buddy Punch"
+deployment_status: "deployed"
+image: "/images/tools/buddy-punch-placeholder.jpg"
+---
+
 # Buddy Punch
 
 Buddy Punch is the employee time clock system that prevents time theft with GPS tracking and photo verification. Instead of trusting employees to clock in honestly, Buddy Punch verifies their location and identity with every punch.

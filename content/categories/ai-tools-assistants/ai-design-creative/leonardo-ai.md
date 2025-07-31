@@ -1,3 +1,13 @@
+---
+title: "Leonardo AI"
+tagline: "Ready to get started? Visit [Leonardo AI](https://leonardo.ai) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Design Creative"
+tool_name: "Leonardo AI"
+deployment_status: "deployed"
+image: "/images/tools/leonardo-ai-placeholder.jpg"
+---
+
 # Leonardo AI
 
 Leonardo AI is a comprehensive AI image generation platform designed for artists, designers, and content creators. It offers multiple specialized models and fine-grained controls that let you produce professional-quality visuals for various creative needs.

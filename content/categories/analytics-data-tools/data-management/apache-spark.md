@@ -20,3 +20,6 @@ The platform supports multiple programming languages including Scala, Python, R,
 Key advantages include fault-tolerant distributed computing, automatic memory management, and seamless integration with popular data sources like HDFS, S3, and databases. The unified API simplifies complex data workflows that previously required multiple specialized tools.
 
 Spark excels for organizations processing large datasets that need both batch and real-time analytics. Data engineers use it for ETL pipelines, while data scientists leverage its ML libraries for advanced analytics and model training at scale.
+## Get Started with Apache Spark
+
+Ready to get started? Visit [Apache Spark](https://apachespark.com) to explore the platform and begin using this tool.

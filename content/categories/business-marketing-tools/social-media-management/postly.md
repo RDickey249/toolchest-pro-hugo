@@ -1,3 +1,13 @@
+---
+title: "Postly"
+tagline: "Ready to get started? Visit [Postly](https://www.postly.ai) to explore the platform and begin using this tool...."
+category: "Business Marketing Tools"
+subcategory: "Social Media Management"
+tool_name: "Postly"
+deployment_status: "deployed"
+image: "/images/tools/postly-placeholder.jpg"
+---
+
 # Postly
 
 Postly is an AI-powered social media management platform that automates content scheduling and optimization across major platforms. It uses machine learning to analyze your audience behavior and automatically schedule posts at peak engagement times.

@@ -1,3 +1,13 @@
+---
+title: "ElevenLabs"
+tagline: "Ready to get started? Visit [ElevenLabs](https://elevenlabs.io) to explore the platform and begin using this tool...."
+category: "Video Audio Tools"
+subcategory: "Video Creation Editing"
+tool_name: "ElevenLabs"
+deployment_status: "deployed"
+image: "/images/tools/elevenlabs-placeholder.jpg"
+---
+
 # ElevenLabs
 
 ElevenLabs delivers the most realistic AI voice generation available today. Create lifelike synthetic speech that captures natural emotion, accents, and personality from just a few minutes of sample audio.

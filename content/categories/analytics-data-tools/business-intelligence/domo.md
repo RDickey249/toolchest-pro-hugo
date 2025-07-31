@@ -48,3 +48,6 @@ Chosen by companies like Mastercard, ESPN, and Unilever for making data-driven d
 Domo is the cloud-native business intelligence platform that makes data accessible to everyone in your organization, not just analysts. Connect all your data sources and create interactive dashboards that work on any device.
 
 Used by companies like Mastercard, ESPN, and Unilever, Domo offers 1,000+ data connectors with real-time insights. Build dashboards with drag-and-drop tools, collaborate on data discoveries, and embed analytics into your existing applications.
+## Get Started with Domo
+
+Ready to get started? Visit [Domo](https://domo.com) to explore the platform and begin using this tool.

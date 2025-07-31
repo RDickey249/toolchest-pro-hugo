@@ -1,3 +1,13 @@
+---
+title: "Timely"
+tagline: "Ready to get started? Visit [Timely](https://timelyapp.com/) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Audit Tools"
+tool_name: "Timely"
+deployment_status: "deployed"
+image: "/images/tools/timely-placeholder.jpg"
+---
+
 # Timely
 
 Timely uses AI-powered memory tracking to automatically capture and categorize your work activities across all applications and projects. Instead of manual time logging, it reconstructs detailed timelines of what you actually worked on, providing accurate time audits without any effort.

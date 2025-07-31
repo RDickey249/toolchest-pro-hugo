@@ -1,3 +1,13 @@
+---
+title: "Freedcamp"
+tagline: "Ready to access professional project management completely free?..."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Freedcamp"
+deployment_status: "deployed"
+image: "/images/tools/freedcamp-placeholder.jpg"
+---
+
 # Freedcamp
 
 Freedcamp is the comprehensive project management platform offering enterprise-level features completely free for unlimited users, making professional project coordination accessible to any organization regardless of budget.

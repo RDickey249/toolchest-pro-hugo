@@ -1,3 +1,13 @@
+---
+title: "Zapier"
+tagline: "Ready to get started? Visit [Zapier](https://zapier.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking Integrations"
+tool_name: "Zapier"
+deployment_status: "deployed"
+image: "/images/tools/zapier-placeholder.jpg"
+---
+
 # Zapier
 
 Zapier is the automation platform that connects your time tracking apps with thousands of other business tools. Instead of manually copying data between apps, Zapier automatically moves information where it needs to go with simple "if this, then that" workflows.

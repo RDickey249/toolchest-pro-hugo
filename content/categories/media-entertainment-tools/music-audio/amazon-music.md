@@ -15,3 +15,6 @@ Amazon Music is Amazon's comprehensive streaming service offering multiple tiers
 The service's deep integration with Alexa enables hands-free voice control, making it particularly powerful on Echo devices and throughout Amazon's smart home ecosystem. Features like X-Ray provide detailed song information and lyrics, while 360 Reality Audio offers immersive listening experiences.
 
 Amazon Music is ideal for existing Amazon Prime members and smart home enthusiasts who want seamless integration across their devices. With family plans, offline downloads, and exclusive content, it's particularly appealing to households already invested in Amazon's ecosystem of services.
+## Get Started with Amazon Music
+
+Ready to get started? Visit [Amazon Music](https://amazonmusic.com) to explore the platform and begin using this tool.

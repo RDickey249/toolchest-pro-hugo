@@ -1,3 +1,13 @@
+---
+title: "Runway"
+tagline: "Ready to get started? Visit [Runway](https://runwayml.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Design Creative"
+tool_name: "Runway"
+deployment_status: "deployed"
+image: "/images/tools/runway-placeholder.jpg"
+---
+
 # Runway
 
 Runway is a cutting-edge AI platform that specializes in video generation, animation, and multimedia content creation. It offers breakthrough tools like text-to-video generation, image animation, and advanced editing features that make professional content creation accessible to filmmakers, marketers, and creators.

@@ -1,3 +1,13 @@
+---
+title: "Resemble.ai"
+tagline: "Build enterprise voice AI solutions with custom cloning. Visit [resemble.ai](https://www.resemble.ai) to start creating branded voices and see why ent..."
+category: "Video Audio Tools"
+subcategory: "Audio Generation Editing"
+tool_name: "Resemble.ai"
+deployment_status: "deployed"
+image: "/images/tools/resemble-ai-placeholder.jpg"
+---
+
 # Resemble.ai
 
 Resemble.ai is an enterprise-grade voice AI platform with advanced speech synthesis and real-time voice conversion capabilities. Create custom digital voice personas and maintain brand consistency across customer touchpoints.

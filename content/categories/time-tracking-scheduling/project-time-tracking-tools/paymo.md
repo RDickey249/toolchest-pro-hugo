@@ -1,3 +1,13 @@
+---
+title: "Paymo"
+tagline: "Ready to get started? Visit [Paymo](https://paymoapp.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Project Time Tracking Tools"
+tool_name: "Paymo"
+deployment_status: "deployed"
+image: "/images/tools/paymo-placeholder.jpg"
+---
+
 # Paymo
 
 Paymo is a comprehensive project time tracking platform that integrates time logging with automated invoicing and detailed project reporting. The software is designed for small teams and freelancers who need professional project coordination capabilities with accurate billing and comprehensive business management functionality.

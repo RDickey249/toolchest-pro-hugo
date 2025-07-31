@@ -1,3 +1,13 @@
+---
+title: "Timetastic"
+tagline: "Ready to get started? Visit [Timetastic](https://timetastic.co.uk) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Attendance Absence Management"
+tool_name: "Timetastic"
+deployment_status: "deployed"
+image: "/images/tools/timetastic-placeholder.jpg"
+---
+
 # Timetastic
 
 Timetastic is a beautifully simple leave management platform designed specifically for small teams who need professional absence tracking without enterprise complexity. The platform transforms tedious manual vacation tracking into an effortless process with intuitive leave requests, visual calendars, and automated approval workflows.

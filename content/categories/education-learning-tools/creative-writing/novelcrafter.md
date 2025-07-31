@@ -1,3 +1,13 @@
+---
+title: "Novelcrafter"
+tagline: "Ready to get started? Visit [Novelcrafter](https://novelcrafter.com) to explore the platform and begin using this tool...."
+category: "Education Learning Tools"
+subcategory: "Creative Writing"
+tool_name: "Novelcrafter"
+deployment_status: "deployed"
+image: "/images/tools/novelcrafter-placeholder.jpg"
+---
+
 # Novelcrafter
 
 Novelcrafter is the specialized project management platform for novel writing that combines advanced plotting tools, character development, and timeline management to organize complex narratives throughout the creative process.

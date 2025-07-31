@@ -1,3 +1,13 @@
+---
+title: "nTask"
+tagline: "Ready to access professional project management at budget-friendly pricing?..."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "nTask"
+deployment_status: "deployed"
+image: "/images/tools/ntask-placeholder.jpg"
+---
+
 # nTask
 
 nTask is a comprehensive project management platform designed for budget-conscious teams who need professional features without premium pricing. It combines task management, time tracking, team collaboration, and project planning in an intuitive, affordable package.

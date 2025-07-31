@@ -20,3 +20,6 @@ AI-powered features include automated anomaly detection, smart recommendations, 
 Advanced capabilities include predictive modeling, automated dashboard generation, and conversational analytics that respond to natural language questions. Embedded analytics options allow organizations to integrate intelligent insights directly into their applications and workflows.
 
 Sisense particularly excels for organizations seeking to democratize data insights through automation. Business users can access sophisticated analytics without technical barriers, while AI capabilities ensure important patterns and trends are never missed.
+## Get Started with Sisense
+
+Ready to get started? Visit [Sisense](https://sisense.com) to explore the platform and begin using this tool.

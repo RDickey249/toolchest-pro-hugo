@@ -34,3 +34,6 @@ Time Doctor advances attendance monitoring through comprehensive productivity tr
 • Advanced features may be overwhelming for organizations seeking straightforward attendance monitoring
 • Privacy considerations may require extensive policy development and employee agreement
 • Learning curve exists for maximizing comprehensive monitoring and analytics capabilities
+## Get Started with Time Doctor
+
+Ready to get started? Visit [Time Doctor](https://timedoctor.com) to explore the platform and begin using this tool.

@@ -1,3 +1,13 @@
+---
+title: "Adobe Podcast"
+tagline: "Transform your audio with AI-powered enhancement. Visit [podcast.adobe.com](https://podcast.adobe.com) to start cleaning up your recordings and create..."
+category: "Video Audio Tools"
+subcategory: "Audio Generation Editing"
+tool_name: "Adobe Podcast"
+deployment_status: "deployed"
+image: "/images/tools/adobe-podcast-placeholder.jpg"
+---
+
 # Adobe Podcast
 
 Adobe Podcast is an AI-powered audio enhancement platform that transforms amateur recordings into professional-quality sound. Remove background noise, echo, and room reverb with one-click processing through a simple web interface.

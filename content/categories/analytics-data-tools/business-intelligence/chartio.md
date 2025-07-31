@@ -20,3 +20,6 @@ The platform connects to virtually any data source - from cloud databases like S
 Key capabilities include real-time collaborative dashboards, embedded analytics for customer-facing applications, and advanced features like custom calculations and SQL mode for power users. Teams can share insights through interactive dashboards, scheduled reports, and data stories that drive decision-making across the organization.
 
 Chartio particularly excels for growing companies that need self-service analytics without overwhelming technical overhead. The visual query interface democratizes data access while maintaining the depth needed for complex business analysis.
+## Get Started with Chartio
+
+Ready to get started? Visit [Chartio](https://chartio.com) to explore the platform and begin using this tool.

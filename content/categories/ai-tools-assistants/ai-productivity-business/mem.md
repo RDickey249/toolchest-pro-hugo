@@ -1,3 +1,13 @@
+---
+title: "Mem"
+tagline: "Mem is the AI-powered knowledge management platform that automatically organizes, connects, and surfaces your notes and ideas without manual filing sy..."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Mem"
+deployment_status: "deployed"
+image: "/images/tools/mem-placeholder.jpg"
+---
+
 # Mem
 
 Mem is the AI-powered knowledge management platform that automatically organizes, connects, and surfaces your notes and ideas without manual filing systems or traditional folder structures.

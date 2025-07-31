@@ -1,3 +1,13 @@
+---
+title: "Surfer SEO"
+tagline: "Ready to get started? Visit [Surfer SEO](https://surferseo.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Writing Content"
+tool_name: "Surfer SEO"
+deployment_status: "deployed"
+image: "/images/tools/surfer-seo-placeholder.jpg"
+---
+
 # Surfer SEO
 
 Surfer SEO is the data-driven content optimization platform that combines real-time SERP analysis with AI-powered writing assistance to help content creators consistently outrank competitors in search results.

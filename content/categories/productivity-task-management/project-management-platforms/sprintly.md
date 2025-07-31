@@ -1,3 +1,13 @@
+---
+title: "Sprintly"
+tagline: "Ready to get started? Visit [this tool](https://sprint.ly) to explore the platform and begin using this tool...."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Sprintly"
+deployment_status: "deployed"
+image: "/images/tools/sprintly-placeholder.jpg"
+---
+
 # Sprintly
 
 Sprintly revolutionizes agile project management by providing development teams with an intuitive, story-driven platform that seamlessly integrates user stories, sprint planning, and continuous delivery workflows. This specialized platform addresses software development challenges by combining agile methodology best practices with modern collaboration tools.

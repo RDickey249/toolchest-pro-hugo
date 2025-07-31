@@ -1,3 +1,13 @@
+---
+title: "Taskworld"
+tagline: "Ready to get started? Visit [this tool](https://taskworld.com) to explore the platform and begin using this tool...."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Taskworld"
+deployment_status: "deployed"
+image: "/images/tools/taskworld-placeholder.jpg"
+---
+
 # Taskworld
 
 Taskworld enhances team productivity through visual project management that combines intuitive task organization with powerful collaboration features. This comprehensive platform addresses distributed team challenges by providing visual coordination tools that make project status and team contributions transparent.

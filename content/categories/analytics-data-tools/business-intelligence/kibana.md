@@ -20,3 +20,6 @@ The platform shines for log analysis, application monitoring, and security inves
 Advanced features include machine learning-powered anomaly detection, geospatial analysis through Elastic Maps, and Canvas for creating custom presentations. The platform supports everything from simple metric visualizations to complex analytical workbooks that combine multiple data sources.
 
 Kibana particularly excels in environments where search-driven analytics are crucial. Its real-time capabilities make it ideal for operational dashboards, while its flexible visualization options support both technical monitoring and business reporting needs.
+## Get Started with Kibana
+
+Ready to get started? Visit [Kibana](https://kibana.com) to explore the platform and begin using this tool.

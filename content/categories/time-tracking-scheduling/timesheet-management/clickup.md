@@ -1,3 +1,13 @@
+---
+title: "ClickUp"
+tagline: "Ready to get started? Visit [ClickUp](https://clickup.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Timesheet Management"
+tool_name: "ClickUp"
+deployment_status: "deployed"
+image: "/images/tools/clickup-placeholder.jpg"
+---
+
 # ClickUp
 
 ClickUp is a comprehensive project management platform that includes sophisticated timesheet tracking capabilities integrated directly into task workflows. The software enables teams to log time at granular task levels while maintaining complete visibility into project progress and resource allocation across diverse project types.

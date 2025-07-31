@@ -1,3 +1,13 @@
+---
+title: "Koala Inspector"
+tagline: "Ready to get started? Visit [Koala Inspector](https://koala-app.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Koala Inspector"
+deployment_status: "deployed"
+image: "/images/tools/koala-inspector-placeholder.jpg"
+---
+
 # Koala Inspector
 
 Koala Inspector is the e-commerce competitive intelligence tool that reveals the secrets behind any online store. Analyze competitor websites to discover their products, traffic sources, marketing strategies, and the apps they use.

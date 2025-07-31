@@ -1,3 +1,13 @@
+---
+title: "Writesonic"
+tagline: "Ready to get started? Visit [Writesonic](https://writesonic.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Writing Content"
+tool_name: "Writesonic"
+deployment_status: "deployed"
+image: "/images/tools/writesonic-placeholder.jpg"
+---
+
 # Writesonic
 
 Writesonic is the AI-powered content creation platform that combines GPT-4 writing capabilities with SEO optimization, fact-checking, and collaborative editing tools for businesses scaling their content operations.

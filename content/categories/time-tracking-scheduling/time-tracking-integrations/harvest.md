@@ -1,3 +1,13 @@
+---
+title: "Harvest"
+tagline: "Ready to get started? Visit [Harvest](https://www.getharvest.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking Integrations"
+tool_name: "Harvest"
+deployment_status: "deployed"
+image: "/images/tools/harvest-placeholder.jpg"
+---
+
 # Harvest
 
 Harvest is the simple time tracking and invoicing platform that helps businesses turn tracked time into professional invoices. Used by companies like Buffer, WeWork, and Dell, it's designed for teams that bill clients by the hour.

@@ -1,3 +1,13 @@
+---
+title: "RescueTime"
+tagline: "Ready to get started? Visit [RescueTime](https://www.rescuetime.com/) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Audit Tools"
+tool_name: "RescueTime"
+deployment_status: "deployed"
+image: "/images/tools/rescuetime-placeholder.jpg"
+---
+
 # RescueTime
 
 RescueTime is an automatic productivity tracking tool that provides deep insights into digital behavior patterns without manual input. The platform runs in the background, capturing detailed information about application usage and website activity to deliver comprehensive productivity analytics.

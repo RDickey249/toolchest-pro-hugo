@@ -1,3 +1,13 @@
+---
+title: "SEOWriting.AI"
+tagline: "Ready to get started? Visit [SEOWriting.AI](https://seowriting.ai) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Writing Content"
+tool_name: "SEOWriting.AI"
+deployment_status: "deployed"
+image: "/images/tools/seowriting-ai-placeholder.jpg"
+---
+
 # SEOWriting.AI
 
 SEOWriting.AI is the automated content generator that creates comprehensive, search-optimized blog posts with 1-click article generation, incorporating LSI keywords and semantic optimization for search rankings.

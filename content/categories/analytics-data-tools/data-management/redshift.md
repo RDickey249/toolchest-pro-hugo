@@ -20,3 +20,6 @@ The platform excels at complex analytical queries across petabyte-scale datasets
 Advanced features include automatic workload management, concurrency scaling for handling query spikes, and built-in machine learning capabilities. The platform optimizes itself continuously, adjusting performance based on usage patterns.
 
 Redshift particularly benefits organizations already invested in AWS infrastructure. Its tight integration with services like S3, Glue, and QuickSight creates comprehensive analytics pipelines while maintaining enterprise-grade security and compliance standards.
+## Get Started with Redshift
+
+Ready to get started? Visit [Redshift](https://redshift.com) to explore the platform and begin using this tool.

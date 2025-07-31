@@ -1,3 +1,13 @@
+---
+title: "Tabnine"
+tagline: "Ready to get started? Visit [Tabnine](https://www.tabnine.com) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Code Development"
+tool_name: "Tabnine"
+deployment_status: "deployed"
+image: "/images/tools/tabnine-placeholder.jpg"
+---
+
 # Tabnine
 
 Tabnine is an AI-powered code completion tool that learns from your coding patterns and team practices. It offers flexible deployment options including cloud, on-premises, and hybrid solutions, making it ideal for organizations with strict data protection requirements.

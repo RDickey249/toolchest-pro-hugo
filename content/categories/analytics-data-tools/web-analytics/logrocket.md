@@ -20,3 +20,6 @@ Developers can replay user sessions to see exactly what happened before errors o
 Advanced capabilities include integration with popular development tools, automated error detection, and performance metrics that correlate user experience with technical issues. The platform helps teams prioritize fixes based on user impact.
 
 LogRocket excels for development teams building complex web applications where traditional debugging methods fall short. Its combination of user experience data and technical debugging information accelerates issue resolution and improves product quality.
+## Get Started with LogRocket
+
+Ready to get started? Visit [LogRocket](https://logrocket.com) to explore the platform and begin using this tool.

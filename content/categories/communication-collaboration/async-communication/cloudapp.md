@@ -83,3 +83,6 @@ Perfect for bug reporting, design feedback, training materials, and any situatio
 - **Professional appearance** - Custom branding maintains company image
 
 Used by over 4 million professionals to communicate more effectively through the power of instant visual sharing.
+## Get Started with CloudApp
+
+Ready to get started? Visit [CloudApp](https://cloudapp.com) to explore the platform and begin using this tool.

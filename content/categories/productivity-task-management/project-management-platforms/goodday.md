@@ -1,3 +1,13 @@
+---
+title: "GoodDay"
+tagline: "Ready to get started? Visit [this tool](https://www.goodday.work) to explore the platform and begin using this tool...."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "GoodDay"
+deployment_status: "deployed"
+image: "/images/tools/goodday-placeholder.jpg"
+---
+
 # GoodDay
 
 GoodDay is the comprehensive work management platform that aligns daily activities with strategic objectives through integrated project management, OKR tracking, and team collaboration. Connect strategic goals to daily execution with hierarchical work organization.

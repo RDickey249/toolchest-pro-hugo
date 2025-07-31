@@ -1,3 +1,13 @@
+---
+title: "Zingg"
+tagline: "Ready to get started? Visit [Zingg](https://zingg.ai) to explore the platform and begin using this tool...."
+category: "Ai Tools Assistants"
+subcategory: "Ai Productivity Business"
+tool_name: "Zingg"
+deployment_status: "deployed"
+image: "/images/tools/zingg-placeholder.jpg"
+---
+
 # Zingg
 
 Zingg is an AI-powered data deduplication platform that automatically identifies and resolves duplicate records across databases and systems. Using advanced machine learning algorithms, it detects duplicates even when data contains variations, typos, and formatting differences that traditional tools miss.

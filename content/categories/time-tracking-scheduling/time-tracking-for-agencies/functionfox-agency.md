@@ -1,3 +1,13 @@
+---
+title: "FunctionFox (Agency)"
+tagline: "Professional tool for enhanced productivity and workflow management"
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking For Agencies"
+tool_name: "FunctionFox (Agency)"
+deployment_status: "deployed"
+image: "/images/tools/functionfox-agency-placeholder.jpg"
+---
+
 # FunctionFox (Agency)
 
 FunctionFox is the time tracking and project management platform designed specifically for creative agencies. With visual project dashboards, client management, and integrated billing, it helps agencies stay profitable and organized across all client work.
@@ -31,3 +41,6 @@ Used by creative agencies, design studios, and marketing firms worldwide, Functi
 • Learning curve for maximizing creative agency features and dashboard coordination across diverse creative agency workflow requirements
 • Creative focus may be more specialized than needed for agencies requiring only basic time tracking and billing functionality
 • Advanced creative features may require significant setup time for optimal creative agency coordination and dashboard management implementation
+## Get Started with FunctionFox (Agency)
+
+Ready to get started? Visit [FunctionFox (Agency)](https://functionfox(agency).com) to explore the platform and begin using this tool.

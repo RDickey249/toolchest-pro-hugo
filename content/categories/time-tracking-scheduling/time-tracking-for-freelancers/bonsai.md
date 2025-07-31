@@ -1,3 +1,13 @@
+---
+title: "Bonsai"
+tagline: "Ready to get started? Visit [Bonsai](https://www.hellobonsai.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking For Freelancers"
+tool_name: "Bonsai"
+deployment_status: "deployed"
+image: "/images/tools/bonsai-placeholder.jpg"
+---
+
 # Bonsai
 
 Bonsai is the all-in-one business platform built specifically for freelancers. Instead of juggling separate tools for proposals, contracts, time tracking, and payments, Bonsai handles your entire client workflow from first contact to final payment.

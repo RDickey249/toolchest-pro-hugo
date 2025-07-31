@@ -1,3 +1,13 @@
+---
+title: "Speechify"
+tagline: "Turn any text into audio instantly. Visit [speechify.com](https://speechify.com) to start your free trial and experience the power of listening to eve..."
+category: "Video Audio Tools"
+subcategory: "Audio Generation Editing"
+tool_name: "Speechify"
+deployment_status: "deployed"
+image: "/images/tools/speechify-placeholder.jpg"
+---
+
 # Speechify
 
 Speechify is a text-to-speech platform that converts any written content into natural-sounding audio, allowing you to listen to websites, PDFs, emails, and documents. It uses advanced AI voices with customizable playback speeds up to 9x faster than average reading.

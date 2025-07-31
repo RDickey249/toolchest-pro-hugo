@@ -20,3 +20,6 @@ The platform's strength lies in its associative data model, where every click dy
 Advanced capabilities include set analysis for complex calculations, collaborative annotations, and guided storytelling features. The platform supports both self-service exploration and governed enterprise deployments with robust security and scalability.
 
 QlikView excels for organizations that need flexible, exploratory analytics. Business analysts can uncover insights independently, while the associative approach helps teams discover correlations and patterns that drive strategic decision-making across complex business scenarios.
+## Get Started with QlikView
+
+Ready to get started? Visit [QlikView](https://qlikview.com) to explore the platform and begin using this tool.

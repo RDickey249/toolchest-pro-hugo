@@ -1,3 +1,13 @@
+---
+title: "Podio"
+tagline: "Ready to get started? Visit [this tool](https://podio.com) to explore the platform and begin using this tool...."
+category: "Productivity Task Management"
+subcategory: "Project Management Platforms"
+tool_name: "Podio"
+deployment_status: "deployed"
+image: "/images/tools/podio-placeholder.jpg"
+---
+
 # Podio
 
 Podio is the flexible work platform that lets you build custom applications for your business without coding. Create CRM systems, project trackers, and process management tools that fit exactly how your team works.

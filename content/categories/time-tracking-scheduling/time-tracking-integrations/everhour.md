@@ -1,3 +1,13 @@
+---
+title: "Everhour"
+tagline: "Ready to get started? Visit [Everhour](https://everhour.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Tracking Integrations"
+tool_name: "Everhour"
+deployment_status: "deployed"
+image: "/images/tools/everhour-placeholder.jpg"
+---
+
 # Everhour
 
 Everhour is the project-focused time tracking platform that integrates with budgeting and task management tools to provide unified project intelligence with financial oversight and profitability tracking.

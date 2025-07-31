@@ -1,3 +1,13 @@
+---
+title: "OnTheClock"
+tagline: "Ready to get started? Visit [OnTheClock](https://www.ontheclock.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Time Clock Punch In"
+tool_name: "OnTheClock"
+deployment_status: "deployed"
+image: "/images/tools/ontheclock-placeholder.jpg"
+---
+
 # OnTheClock
 
 OnTheClock is a straightforward time clock system designed specifically for small businesses seeking reliable employee attendance tracking without enterprise complexity. The platform provides essential time tracking functionality through user-friendly interfaces that enable accurate payroll processing and basic workforce management.

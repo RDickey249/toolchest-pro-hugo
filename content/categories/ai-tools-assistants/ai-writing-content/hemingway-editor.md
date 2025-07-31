@@ -1,3 +1,13 @@
+---
+title: "Hemingway Editor"
+tagline: "Ready to write with clarity and impact? Visit [Hemingway Editor](https://hemingwayapp.com) to transform complex writing into bold, clear prose that re..."
+category: "Ai Tools Assistants"
+subcategory: "Ai Writing Content"
+tool_name: "Hemingway Editor"
+deployment_status: "deployed"
+image: "/images/tools/hemingway-editor-placeholder.jpg"
+---
+
 # Hemingway Editor
 
 Hemingway Editor is a writing tool that makes your prose bold and clear by highlighting complex sentences, passive voice, and dense paragraphs that confuse readers. Named after the famous author's direct style, it uses color-coded feedback to show exactly where your writing needs simplification.

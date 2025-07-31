@@ -1,3 +1,13 @@
+---
+title: "Fliki"
+tagline: "Ready to get started? Visit [Fliki](https://fliki.ai) to explore the platform and begin using this tool...."
+category: "Video Audio Tools"
+subcategory: "Video Creation Editing"
+tool_name: "Fliki"
+deployment_status: "deployed"
+image: "/images/tools/fliki-placeholder.jpg"
+---
+
 # Fliki
 
 Fliki transforms written content into engaging videos with lifelike AI voices, revolutionizing how creators produce multimedia content without recording equipment or technical expertise. This innovative platform bridges the gap between text and video, offering over 2000 realistic voices across 75+ languages that sound remarkably human. Fliki's magic lies in its ability to automatically pair your script with relevant stock footage, images, and background music, creating professional videos in minutes rather than hours. Content creators, educators, and marketers leverage Fliki to repurpose blog posts into videos, create educational content at scale, and produce social media videos without appearing on camera. The platform's AI understands context, selecting appropriate visuals and adjusting pacing to match your narrative flow. Whether you're converting articles to YouTube videos, creating multilingual training materials, or producing daily social content, Fliki eliminates traditional video production barriers. Its combination of natural voice synthesis, intelligent visual selection, and user-friendly interface makes professional video creation accessible to anyone who can write.

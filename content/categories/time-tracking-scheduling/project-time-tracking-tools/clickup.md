@@ -1,3 +1,13 @@
+---
+title: "ClickUp"
+tagline: "Ready to get started? Visit [ClickUp](https://clickup.com) to explore the platform and begin using this tool...."
+category: "Time Tracking Scheduling"
+subcategory: "Project Time Tracking Tools"
+tool_name: "ClickUp"
+deployment_status: "deployed"
+image: "/images/tools/clickup-placeholder.jpg"
+---
+
 # ClickUp
 
 ClickUp is the all-in-one project management platform with built-in time tracking that eliminates the need for separate tools. Track time directly from tasks, see project profitability, and manage everything from planning to delivery in one place.
