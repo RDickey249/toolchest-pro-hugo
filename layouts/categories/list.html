@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div class="container">
+    {{ if eq .RelPermalink "/categories/" }}
+        <!-- Main categories page - show ONLY 27 categories -->
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+        <p>{{ .Description }}</p>
+        {{ end }}
+        
+        <div class="categories-grid">
+            {{ range .Pages }}
+            {{ if .IsSection }}
+            {{ $toolCount := 0 }}
+            {{ range .Pages }}
+                {{ $toolCount = add $toolCount (len .Pages) }}
+            {{ end }}
+            <div class="category-card">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <p>{{ $toolCount }} tools</p>
+                {{ if .Description }}
+                <p class="category-desc">{{ .Description | truncate 100 }}</p>
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    {{ else }}
+        <!-- Individual category or subcategory pages -->
+        {{ if not .Parent }}
+            <!-- Main category - show subcategories -->
+            <h1>{{ .Title }}</h1>
+            <div class="subcategories-grid">
+                {{ range .Pages }}
+                {{ if .IsSection }}
+                <div class="subcategory-card">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ len .Pages }} tools</p>
+                    {{ if .Description }}
+                    <p class="subcategory-desc">{{ .Description | truncate 100 }}</p>
+                    {{ end }}
+                </div>
+                {{ end }}
+                {{ end }}
+            </div>
+        {{ else }}
+            <!-- Subcategory - show tools -->
+            <h1>{{ .Title }}</h1>
+            <div class="tools-grid">
+                {{ range .Pages }}
+                <div class="tool-card">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Params.tagline | default .Summary | truncate 100 }}</p>
+                    <a href="{{ .Permalink }}">Learn More →</a>
+                </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+{{ end }}

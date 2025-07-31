@@ -44,12 +44,8 @@
       "author-photo",
       "breadcrumb",
       "btn-primary",
-      "btn-secondary",
-      "categories",
+      "categories-grid",
       "category-badge",
-      "category-card",
-      "category-desc",
-      "category-grid",
       "container",
       "cta",
       "featured-tools",
@@ -62,8 +58,6 @@
       "hero-subtitle",
       "logo",
       "main-nav",
-      "no-content",
-      "page-description",
       "page-header",
       "search-box",
       "search-icon",
@@ -79,7 +73,7 @@
       "tool-meta",
       "tool-page",
       "tool-tagline",
-      "tools"
+      "tools-grid"
     ],
     "ids": [
       "about-ryan-dickey",

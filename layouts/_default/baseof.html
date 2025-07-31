@@ -26,24 +26,6 @@
     
     {{ partial "footer.html" . }}
     
-    <!-- Search -->
-    {{ if .IsHome }}
-    <script>
-        // Simple search functionality
-        function initSearch() {
-            const searchInput = document.getElementById('search');
-            if (!searchInput) return;
-            
-            searchInput.addEventListener('input', function(e) {
-                const query = e.target.value.toLowerCase();
-                if (query.length > 2) {
-                    window.location.href = '/categories/?search=' + encodeURIComponent(query);
-                }
-            });
-        }
-        
-        document.addEventListener('DOMContentLoaded', initSearch);
-    </script>
-    {{ end }}
+    <!-- Search functionality disabled to prevent unwanted redirects -->
 </body>
 </html>
