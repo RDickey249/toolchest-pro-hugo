@@ -1,8 +1,8 @@
 ---
 title: "Papers - Academic reference manager"
 tagline: "Papers is a reference management application designed to help researchers discover, organize, read, and write academic research..."
-category: "Research & Survey Tools"
-subcategory: "Academic Research Tools"
+category: "Scientific & Research Tools"
+subcategory: "Reference Management"
 tool_name: "Papers"
 deployment_status: "deployed"
 image: "/images/tools/papers-placeholder.jpg"
