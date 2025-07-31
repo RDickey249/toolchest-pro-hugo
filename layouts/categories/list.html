@@ -15,7 +15,7 @@
     {{ end }}
     
     <div class="categories-grid">
-        {{ range $categoryPages | sort "Params.weight" }}
+        {{ range sort $categoryPages "Params.weight" "asc" }}
         <div class="category-card">
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <p class="category-description">{{ .Params.description | truncate 120 }}</p>
