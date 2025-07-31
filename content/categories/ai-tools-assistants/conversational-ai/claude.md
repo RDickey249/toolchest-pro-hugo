@@ -1,14 +1,12 @@
 ---
-title: "Claude"
+title: "Claude (Anthropic) - The thoughtful alternative"
 tagline: "Anthropic's thoughtful AI"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
-tool_name: "Claude"
+category: "🤖 AI Tools & Assistants"
+subcategory: "Conversational AI"
+tool_name: "Claude (Anthropic) - The thoughtful alternative"
 deployment_status: "deployed"
 image: "/images/tools/claude-placeholder.jpg"
-tags: ["ai-tools-assistants", "conversational-ai"]
-categories: ["AI Tools & Assistants"]
-subcategories: ["Conversational AI"]
+external_link: "https://claude.ai/"
 ---
 Claude is Anthropic's AI assistant built on principles of being helpful, harmless, and honest—delivering powerful AI capabilities with thoughtful safety measures.
 

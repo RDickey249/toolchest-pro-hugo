@@ -1,14 +1,12 @@
 ---
-title: "ChatGPT"
+title: "ChatGPT (OpenAI) - The one everyone knows"
 tagline: "The AI that started it all"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
-tool_name: "ChatGPT"
+category: "🤖 AI Tools & Assistants"
+subcategory: "Conversational AI"
+tool_name: "ChatGPT (OpenAI) - The one everyone knows"
 deployment_status: "deployed"
 image: "/images/tools/chatgpt-placeholder.jpg"
-tags: ["ai-tools-assistants", "conversational-ai"]
-categories: ["AI Tools & Assistants"]
-subcategories: ["Conversational AI"]
+external_link: "https://chat.openai.com/"
 ---
 ChatGPT is the AI assistant that sparked the global AI revolution, becoming the fastest-growing consumer application in history.
 
