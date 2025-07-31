@@ -1,0 +1,236 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<script>
+// Debug logging to understand page structure
+console.log('Section page:', {
+    title: '{{ .Title }}',
+    section: '{{ .Section }}',
+    kind: '{{ .Kind }}',
+    type: '{{ .Type }}',
+    permalink: '{{ .Permalink }}',
+    pageCount: {{ len .Pages }}
+});
+</script>
+
+{{ if .Content }}
+    {{ .Content }}
+{{ else }}
+    <p>Browse tools and subcategories in {{ .Title }}.</p>
+{{ end }}
+
+<style>
+.subcategory-section {
+    margin: 40px 0;
+}
+
+.subcategory-title {
+    color: #9EC9FF;
+    border-bottom: 2px solid #E74C3C;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.subcategory-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.subcategory-card {
+    background: #444444;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 4px solid #E74C3C;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+}
+
+.subcategory-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+    border-left-color: #9EC9FF;
+}
+
+.subcategory-card h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.subcategory-card h3 a {
+    text-decoration: none;
+    color: #9EC9FF;
+    transition: color 0.3s ease;
+}
+
+.subcategory-card h3 a:hover {
+    color: #FFFFFF;
+}
+
+.subcategory-card .tool-count {
+    color: #39FF14;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.tool-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.tool-card {
+    border: 1px solid #666;
+    padding: 20px;
+    border-radius: 8px;
+    background: #444444;
+    transition: all 0.3s ease;
+    border-left: 3px solid #E74C3C;
+}
+
+.tool-card:hover {
+    border-color: #9EC9FF;
+    border-left-color: #9EC9FF;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+
+.tool-card h3 {
+    margin-top: 0;
+    color: #9EC9FF;
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+}
+
+.tool-card h3 a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease;
+}
+
+.tool-card h3 a:hover {
+    color: #FFFFFF;
+}
+
+.tool-category {
+    color: #E74C3C;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+}
+
+.tool-tagline {
+    color: #FFFFFF;
+    margin-bottom: 15px;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+.tool-link {
+    display: inline-block;
+    background: #39FF14;
+    color: #000000;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.tool-link:hover {
+    background: #2BFF00;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(57, 255, 20, 0.3);
+}
+</style>
+
+{{ $currentSection := .Section }}
+
+<!-- Get all regular pages under this section -->
+{{ $allPages := where .Site.RegularPages "Section" $currentSection }}
+
+<!-- Group by subcategory from directory structure -->
+{{ $subcategories := dict }}
+{{ range $allPages }}
+    {{ $pathParts := split .File.Dir "/" }}
+    {{ if gt (len $pathParts) 2 }}
+        {{ $subcategoryDir := index $pathParts (sub (len $pathParts) 1) }}
+        {{ $subcategoryTitle := $subcategoryDir | title | replaceRE "-" " " }}
+        {{ $pages := index $subcategories $subcategoryTitle | default slice }}
+        {{ $pages = $pages | append . }}
+        {{ $subcategories = merge $subcategories (dict $subcategoryTitle $pages) }}
+    {{ end }}
+{{ end }}
+
+{{ if gt (len $subcategories) 0 }}
+    <!-- Show subcategories with their tools -->
+    {{ range $subcategory, $pages := $subcategories }}
+        <div class="subcategory-section">
+            <h2 class="subcategory-title">{{ $subcategory }} ({{ len $pages }} tools)</h2>
+            <div class="tool-grid">
+                {{ range $pages }}
+                    <div class="tool-card">
+                        <div class="tool-category">{{ .Params.category | default $subcategory }}</div>
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
+                        <a href="{{ .Permalink }}" class="tool-link">Learn More →</a>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    {{ end }}
+{{ else if gt (len .Pages) 0 }}
+    <!-- Fallback: show direct pages -->
+    <div class="subcategory-section">
+        <h2 class="subcategory-title">All Tools ({{ len .Pages }})</h2>
+        <div class="tool-grid">
+            {{ range .Pages }}
+                <div class="tool-card">
+                    <div class="tool-category">{{ .Params.category | default "Tool" }}</div>
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
+                    <a href="{{ .Permalink }}" class="tool-link">Learn More →</a>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+{{ else }}
+    <!-- Show immediate subdirectories as subcategories -->
+    {{ $subdirs := dict }}
+    {{ range $allPages }}
+        {{ $pathParts := split .File.Dir "/" }}
+        {{ if gt (len $pathParts) 2 }}
+            {{ $subcategoryDir := index $pathParts (sub (len $pathParts) 1) }}
+            {{ $subcategoryTitle := $subcategoryDir | title | replaceRE "-" " " }}
+            {{ $count := index $subdirs $subcategoryTitle | default 0 }}
+            {{ $subdirs = merge $subdirs (dict $subcategoryTitle (add $count 1)) }}
+        {{ end }}
+    {{ end }}
+    
+    {{ if gt (len $subdirs) 0 }}
+        <div class="subcategory-section">
+            <h2 class="subcategory-title">Subcategories</h2>
+            <div class="subcategory-grid">
+                {{ range $subdir, $count := $subdirs }}
+                    <div class="subcategory-card">
+                        <h3><a href="{{ $.Permalink }}{{ $subdir | urlize }}/">{{ $subdir }}</a></h3>
+                        <div class="tool-count">{{ $count }} tools</div>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    {{ else }}
+        <div style="text-align: center; margin: 40px 0; color: #9EC9FF;">
+            <h3>No tools found in this category yet.</h3>
+            <p>Check back soon as we're constantly adding new tools!</p>
+            <a href="/categories/" style="color: #39FF14; text-decoration: none;">← Browse All Categories</a>
+        </div>
+    {{ end }}
+{{ end }}
+
+{{ end }}
