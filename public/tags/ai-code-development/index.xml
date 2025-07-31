@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ai-code-development on ToolChest</title>
-    <link>https://toolchest.pro/tags/ai-code-development/</link>
-    <description>Recent content in ai-code-development on ToolChest</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://toolchest.pro/tags/ai-code-development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GitHub Copilot</title>
-      <link>https://toolchest.pro/categories/ai-tools-assistants/ai-code-development/github-copilot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/ai-tools-assistants/ai-code-development/github-copilot/</guid>
-      <description>GitHub Copilot GitHub Copilot is the AI coding assistant that acts like a pair programming partner, helping you write code faster and with fewer errors.&#xA;Built by GitHub and OpenAI, Copilot has been trained on billions of lines of public code to understand programming patterns, best practices, and common solutions.&#xA;How it works:&#xA;Real-time suggestions - Get code completions as you type Natural language to code - Turn comments into working functions Context awareness - Understands your project and coding style Multi-language support - Works with dozens of programming languages Key features:</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ai-code-development on ToolChest Pro</title><link>https://toolchest.pro/tags/ai-code-development/</link><description>Recent content in ai-code-development on ToolChest Pro</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/ai-code-development/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Copilot</title><link>https://toolchest.pro/categories/github-copilot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/github-copilot/</guid><description>GitHub Copilot is the AI coding assistant that acts like a pair programming partner, helping you write code faster and with fewer errors.
+Built by GitHub and OpenAI, Copilot has been trained on billions of lines of public code to understand programming patterns, best practices, and common solutions.
+How it works:
+Real-time suggestions - Get code completions as you type Natural language to code - Turn comments into working functions Context awareness - Understands your project and coding style Multi-language support - Works with dozens of programming languages Key features:</description></item></channel></rss>

@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>password-management on ToolChest</title>
-    <link>https://toolchest.pro/tags/password-management/</link>
-    <description>Recent content in password-management on ToolChest</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://toolchest.pro/tags/password-management/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LastPass</title>
-      <link>https://toolchest.pro/categories/security-privacy-tools/password-management/lastpass/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/security-privacy-tools/password-management/lastpass/</guid>
-      <description>LastPass LastPass is one of the most popular password managers, trusted by millions of users worldwide to secure their digital lives.&#xA;Despite past security incidents, LastPass remains a feature-rich solution for individuals and businesses looking for comprehensive password management.&#xA;Core features:&#xA;Password generation - Create strong, unique passwords automatically Auto-fill - Log into sites with one click across all devices Secure notes - Store sensitive information beyond just passwords Dark web monitoring - Get alerts if your credentials are compromised Emergency access - Trusted contacts can access your vault if needed Business features:</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>password-management on ToolChest Pro</title><link>https://toolchest.pro/tags/password-management/</link><description>Recent content in password-management on ToolChest Pro</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/password-management/index.xml" rel="self" type="application/rss+xml"/><item><title>LastPass</title><link>https://toolchest.pro/categories/lastpass/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/lastpass/</guid><description>LastPass is one of the most popular password managers, trusted by millions of users worldwide to secure their digital lives.
+Despite past security incidents, LastPass remains a feature-rich solution for individuals and businesses looking for comprehensive password management.
+Core features:
+Password generation - Create strong, unique passwords automatically Auto-fill - Log into sites with one click across all devices Secure notes - Store sensitive information beyond just passwords Dark web monitoring - Get alerts if your credentials are compromised Emergency access - Trusted contacts can access your vault if needed Business features:</description></item></channel></rss>

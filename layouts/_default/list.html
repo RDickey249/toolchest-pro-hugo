@@ -1,152 +1,88 @@
 {{ define "main" }}
-{{ partial "breadcrumb.html" . }}
-<h1>{{ .Title }}</h1>
-{{ if .Content }}
-    {{ .Content }}
-{{ else }}
-    <p>Browse tools and subcategories in {{ .Title }}.</p>
-{{ end }}
-
-<style>
-.subcategory-section {
-    margin: 40px 0;
-}
-
-.subcategory-title {
-    color: #9EC9FF;
-    border-bottom: 2px solid #E74C3C;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
-    font-size: 1.5rem;
-}
-
-.tool-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.tool-card {
-    border: 1px solid #666;
-    padding: 20px;
-    border-radius: 8px;
-    background: #444444;
-    transition: all 0.3s ease;
-    border-left: 3px solid #E74C3C;
-}
-
-.tool-card:hover {
-    border-color: #9EC9FF;
-    border-left-color: #9EC9FF;
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
-}
-
-.tool-card h3 {
-    margin-top: 0;
-    color: #9EC9FF;
-    margin-bottom: 8px;
-    font-size: 1.2rem;
-}
-
-.tool-card h3 a {
-    text-decoration: none;
-    color: inherit;
-    transition: color 0.3s ease;
-}
-
-.tool-card h3 a:hover {
-    color: #FFFFFF;
-}
-
-.tool-category {
-    color: #E74C3C;
-    font-size: 0.85rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 10px;
-}
-
-.tool-tagline {
-    color: #FFFFFF;
-    margin-bottom: 15px;
-    font-size: 0.95rem;
-    line-height: 1.4;
-}
-
-.tool-link {
-    display: inline-block;
-    background: #39FF14;
-    color: #000000;
-    padding: 8px 16px;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 600;
-    font-size: 0.9rem;
-    transition: all 0.3s ease;
-}
-
-.tool-link:hover {
-    background: #2BFF00;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(57, 255, 20, 0.3);
-}
-</style>
-
-{{ if .Pages }}
-    <!-- Group pages by subcategory from directory structure -->
-    {{ $subcategories := dict }}
-    {{ range .Pages }}
-        {{ $pathParts := split .File.Dir "/" }}
-        {{ if gt (len $pathParts) 2 }}
-            {{ $subcategoryDir := index $pathParts (sub (len $pathParts) 1) }}
-            {{ $subcategoryTitle := $subcategoryDir | title | replaceRE "-" " " }}
-            {{ $pages := index $subcategories $subcategoryTitle | default slice }}
-            {{ $pages = $pages | append . }}
-            {{ $subcategories = merge $subcategories (dict $subcategoryTitle $pages) }}
+<div class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="page-description">{{ .Description }}</p>
         {{ end }}
-    {{ end }}
+        
+        {{ if .Parent }}
+        <nav class="breadcrumb">
+            <a href="/">Home</a> > 
+            <a href="/categories/">Categories</a> > 
+            {{ if .Parent.Parent }}
+            <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a> > 
+            {{ end }}
+            <span>{{ .Title }}</span>
+        </nav>
+        {{ end }}
+    </div>
+</div>
 
-    {{ if gt (len $subcategories) 0 }}
-        <!-- Show subcategories with their tools -->
-        {{ range $subcategory, $pages := $subcategories }}
-            <div class="subcategory-section">
-                <h2 class="subcategory-title">{{ $subcategory }} ({{ len $pages }} tools)</h2>
-                <div class="tool-grid">
-                    {{ range $pages }}
+<div class="container">
+    {{ if .Pages }}
+        {{ if eq .Type "categories" }}
+            {{ $isMainCategory := not .Parent }}
+            
+            {{ if $isMainCategory }}
+                <!-- Main category page - show subcategories -->
+                {{ $subcategories := where .Pages "Type" "categories" }}
+                {{ if $subcategories }}
+                <div class="subcategories">
+                    <h2>Subcategories</h2>
+                    <div class="subcategory-grid">
+                        {{ range $subcategories }}
+                        <div class="subcategory-card">
+                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                            <p>{{ len .Pages }} tools</p>
+                            {{ if .Description }}
+                            <p class="subcategory-desc">{{ .Description | truncate 100 }}</p>
+                            {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+            {{ else }}
+                <!-- Subcategory page - show tools -->
+                <div class="tools">
+                    <h2>Tools in {{ .Title }}</h2>
+                    <div class="tool-grid">
+                        {{ range .Pages }}
                         <div class="tool-card">
-                            <div class="tool-category">{{ .Params.category | default $subcategory }}</div>
+                            <div class="tool-meta">
+                                <span class="tool-category">{{ .Params.category | default .Parent.Title }}</span>
+                            </div>
                             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                             <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
                             <a href="{{ .Permalink }}" class="tool-link">Learn More →</a>
                         </div>
-                    {{ end }}
+                        {{ end }}
+                    </div>
                 </div>
+            {{ end }}
+        {{ else }}
+            <!-- Default list view -->
+            <div class="page-list">
+                {{ range .Pages }}
+                <article class="list-item">
+                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                    {{ if .Summary }}
+                    <p>{{ .Summary | truncate 150 }}</p>
+                    {{ end }}
+                    <div class="meta">
+                        <time>{{ .Date.Format "January 2, 2006" }}</time>
+                    </div>
+                </article>
+                {{ end }}
             </div>
         {{ end }}
     {{ else }}
-        <!-- Fallback: show all pages in a single grid -->
-        <div class="subcategory-section">
-            <h2 class="subcategory-title">All Tools ({{ len .Pages }})</h2>
-            <div class="tool-grid">
-                {{ range .Pages }}
-                    <div class="tool-card">
-                        <div class="tool-category">{{ .Params.category | default "Tool" }}</div>
-                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
-                        <a href="{{ .Permalink }}" class="tool-link">Learn More →</a>
-                    </div>
-                {{ end }}
-            </div>
+        <div class="no-content">
+            <h3>No content found</h3>
+            <p>This section is currently empty.</p>
+            <a href="/categories/" class="btn-secondary">Browse All Categories</a>
         </div>
     {{ end }}
-{{ else }}
-    <div style="text-align: center; margin: 40px 0; color: #9EC9FF;">
-        <h3>No tools found in this category yet.</h3>
-        <p>Check back soon as we're constantly adding new tools!</p>
-        <a href="/categories/" style="color: #39FF14; text-decoration: none;">← Browse All Categories</a>
-    </div>
-{{ end }}
+</div>
 {{ end }}

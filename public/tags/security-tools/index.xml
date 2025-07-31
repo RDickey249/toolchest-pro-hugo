@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>security-tools on ToolChest</title>
-    <link>https://toolchest.pro/tags/security-tools/</link>
-    <description>Recent content in security-tools on ToolChest</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://toolchest.pro/tags/security-tools/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sucuri</title>
-      <link>https://toolchest.pro/categories/security-privacy-tools/security-tools/sucuri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/security-privacy-tools/security-tools/sucuri/</guid>
-      <description>Sucuri Sucuri protects websites through comprehensive security platform that combines malware detection, removal, and prevention with advanced firewall protection and continuous monitoring for businesses requiring robust web security solutions. This platform provides automated malware scanning, instant malware removal, DDoS protection, and website application firewall alongside performance optimization and detailed security reporting capabilities. Sucuri excels in rapid incident response, global content delivery network integration, and proactive threat prevention that keeps websites secure while maintaining optimal performance and user experience.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>security-tools on ToolChest Pro</title><link>https://toolchest.pro/tags/security-tools/</link><description>Recent content in security-tools on ToolChest Pro</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/security-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Sucuri</title><link>https://toolchest.pro/categories/sucuri/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/sucuri/</guid><description>Sucuri protects websites through comprehensive security platform that combines malware detection, removal, and prevention with advanced firewall protection and continuous monitoring for businesses requiring robust web security solutions. This platform provides automated malware scanning, instant malware removal, DDoS protection, and website application firewall alongside performance optimization and detailed security reporting capabilities. Sucuri excels in rapid incident response, global content delivery network integration, and proactive threat prevention that keeps websites secure while maintaining optimal performance and user experience.</description></item></channel></rss>

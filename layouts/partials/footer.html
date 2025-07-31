@@ -1,0 +1,16 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-info">
+                <p>&copy; {{ now.Year }} {{ .Site.Title }}. Curated by {{ .Site.Params.author }}.</p>
+                <p>Comprehensive directory of professional tools and platforms.</p>
+            </div>
+            
+            <div class="footer-links">
+                <a href="/about/">About</a>
+                <a href="/categories/">Browse Tools</a>
+                <a href="{{ .Site.BaseURL }}index.xml">RSS Feed</a>
+            </div>
+        </div>
+    </div>
+</footer>

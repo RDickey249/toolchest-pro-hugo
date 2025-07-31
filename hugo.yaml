@@ -1,0 +1,72 @@
+baseURL: "https://toolchest.pro"
+languageCode: "en-us"
+title: "ToolChest Pro"
+# theme: ""  # Using custom layouts
+
+# Site parameters
+params:
+  description: "Comprehensive directory of professional tools for productivity, AI, marketing, and development"
+  author: "Ryan Dickey"
+  avatar: "/images/ryan-dickey.jpg"
+  logo: "/images/toolchest-logo-new.png"
+
+# Taxonomies - keep it simple
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+# Permalinks - clean URLs
+permalinks:
+  categories: "/categories/:slug/"
+
+# Markup configuration
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "github"
+    lineNos: false
+
+# Menu configuration
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Categories"
+      url: "/categories/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+
+# Build configuration
+build:
+  writeStats: true
+
+# Asset processing
+assets:
+  minify: true
+
+# Security
+security:
+  exec:
+    allow: ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$"]
+
+# Output formats
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+  page: ["HTML"]
+  section: ["HTML", "RSS"]
+
+# Related content
+related:
+  includeNewer: true
+  indices:
+    - name: "categories"
+      weight: 100
+    - name: "tags"
+      weight: 80
+  threshold: 80
+  toLower: false

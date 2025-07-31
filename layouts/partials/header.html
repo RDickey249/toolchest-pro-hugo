@@ -1,0 +1,28 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <div class="logo">
+                <a href="/">
+                    <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" height="40">
+                    <span>{{ .Site.Title }}</span>
+                </a>
+            </div>
+            
+            <nav class="main-nav">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
+                {{ end }}
+            </nav>
+            
+            {{ if .IsHome }}
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search tools..." autocomplete="off">
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</header>

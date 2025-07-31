@@ -1,3 +1,52 @@
 {{ define "main" }}
-{{ .Content }}
+<div class="hero">
+    <div class="container">
+        <div class="hero-content">
+            <h1>{{ .Site.Title }}</h1>
+            <p class="hero-subtitle">{{ .Site.Params.description }}</p>
+            
+            <div class="stats">
+                {{ $totalTools := 0 }}
+                {{ range .Site.Sections }}
+                    {{ if eq .Section "categories" }}
+                        {{ range .Pages }}
+                            {{ $tools := where .Pages "Type" "categories" }}
+                            {{ $totalTools = add $totalTools (len $tools) }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+                <div class="stat">
+                    <span class="number">{{ len (where .Site.Pages "Type" "categories") }}</span>
+                    <span class="label">Professional Tools</span>
+                </div>
+                <div class="stat">
+                    <span class="number">{{ len .Site.Taxonomies.categories }}</span>
+                    <span class="label">Categories</span>
+                </div>
+            </div>
+            
+            <div class="cta">
+                <a href="/categories/" class="btn-primary">Browse All Tools</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="featured-categories">
+    <div class="container">
+        <h2>Popular Categories</h2>
+        <div class="category-grid">
+            {{ range first 6 .Site.Taxonomies.categories.ByCount }}
+            {{ $category := .Page }}
+            {{ if $category }}
+            <div class="category-card">
+                <h3><a href="{{ $category.Permalink }}">{{ $category.Title }}</a></h3>
+                <p>{{ .Count }} tools</p>
+                <p class="category-desc">{{ $category.Description | truncate 80 }}</p>
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
 {{ end }}

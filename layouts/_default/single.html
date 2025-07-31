@@ -1,11 +1,52 @@
 {{ define "main" }}
-{{ partial "breadcrumb.html" . }}
-<article>
-    <h1>{{ .Title }}</h1>
-    <div class="content">
-        {{ .Content }}
+<article class="tool-page">
+    <div class="container">
+        <header class="tool-header">
+            <nav class="breadcrumb">
+                <a href="/">Home</a> > 
+                <a href="/categories/">Categories</a> > 
+                {{ if .Parent }}
+                    {{ if .Parent.Parent }}
+                    <a href="{{ .Parent.Parent.Permalink }}">{{ .Parent.Parent.Title }}</a> > 
+                    {{ end }}
+                    <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a> > 
+                {{ end }}
+                <span>{{ .Title }}</span>
+            </nav>
+            
+            <div class="tool-meta">
+                {{ if .Params.category }}
+                <span class="category-badge">{{ .Params.category }}</span>
+                {{ end }}
+                {{ if .Params.subcategory }}
+                <span class="subcategory-badge">{{ .Params.subcategory }}</span>
+                {{ end }}
+            </div>
+            
+            <h1>{{ .Title }}</h1>
+            
+            {{ if .Params.tagline }}
+            <p class="tool-tagline">{{ .Params.tagline }}</p>
+            {{ end }}
+        </header>
+        
+        <div class="tool-content">
+            {{ .Content }}
+        </div>
+        
+        {{ if .Params.related }}
+        <aside class="related-tools">
+            <h3>Related Tools</h3>
+            <div class="related-grid">
+                {{ range .Site.RegularPages.Related . | first 3 }}
+                <div class="related-card">
+                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    <p>{{ .Params.tagline | default .Summary | truncate 60 }}</p>
+                </div>
+                {{ end }}
+            </div>
+        </aside>
+        {{ end }}
     </div>
-    
-    {{/* Category tags hidden - breadcrumb navigation provides this info already */}}
 </article>
 {{ end }}
