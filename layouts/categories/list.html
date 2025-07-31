@@ -11,7 +11,9 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ range where .Site.RegularPages "Section" "categories" | group "Params.category" }}
+        {{ $allPages := where .Site.RegularPages "Section" "categories" }}
+        {{ $groupedPages := $allPages | group "Params.category" }}
+        {{ range $groupedPages }}
         {{ $categoryName := .Key }}
         {{ $tools := .Pages }}
         {{ $categorySlug := $categoryName | urlize }}
