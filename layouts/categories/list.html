@@ -11,22 +11,22 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ $categoriesSection := .Site.GetPage "section" "categories" }}
-        {{ range $categoriesSection.Sections }}
-        {{ $categoryPage := . }}
-        {{ $toolCount := len .RegularPages }}
+        {{ range where .Site.RegularPages "Section" "categories" | group "Params.category" }}
+        {{ $categoryName := .Key }}
+        {{ $tools := .Pages }}
+        {{ $categorySlug := $categoryName | urlize }}
         <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p class="category-description">{{ .Params.tagline | default .Summary | truncate 120 }}</p>
-            <p class="tool-count">{{ $toolCount }} tools</p>
+            <h2><a href="{{ "/categories/" | relURL }}{{ $categorySlug }}/">{{ $categoryName }}</a></h2>
+            <p class="category-description">{{ $categoryName }} tools and platforms</p>
+            <p class="tool-count">{{ len $tools }} tools</p>
             
-            {{ if ge $toolCount 3 }}
+            {{ if ge (len $tools) 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
-                {{ range first 3 .RegularPages }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $categoryPage.RegularPages) 2)) }}, {{ end }}
+                {{ range first 3 $tools }}
+                {{ .Title }}{{ if not (eq . (index (first 3 $tools) 2)) }}, {{ end }}
                 {{ end }}
-                {{ if gt $toolCount 3 }}...{{ end }}
+                {{ if gt (len $tools) 3 }}...{{ end }}
             </div>
             {{ end }}
             <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
