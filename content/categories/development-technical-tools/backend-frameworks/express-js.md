@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "Express.js"
 deployment_status: "deployed"
 image: "/images/tools/express-js-placeholder.jpg"
+external_link: "https://expressjs.com"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

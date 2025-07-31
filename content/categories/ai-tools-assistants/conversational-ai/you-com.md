@@ -32,10 +32,7 @@ You.com reimagines the search experience by seamlessly blending AI chat capabili
 
 ## Get Started with You.com
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://you.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit You.com →</a>
-  <a href="https://you.com/search" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Searching →</a>
-</div>
+Ready to get started? Visit [You.com](https://you.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

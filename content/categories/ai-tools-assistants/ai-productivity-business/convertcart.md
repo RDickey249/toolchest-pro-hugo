@@ -32,10 +32,7 @@ ConvertCart transforms abandoned cart recovery by using AI-powered personalizati
 
 ## Get Started with ConvertCart
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.convertcart.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ConvertCart →</a>
-  <a href="https://www.convertcart.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [ConvertCart](https://www.convertcart.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

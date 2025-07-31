@@ -55,7 +55,4 @@ Used by over 3 billion people worldwide, including 9 million paying businesses f
 
 ## Get Started with Google Workspace
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://workspace.google.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Google Workspace →</a>
-  <a href="https://workspace.google.com/pricing.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">View Plans →</a>
-</div>
+Ready to get started? Visit [Google Workspace](https://workspace.google.com) to explore the platform and begin using this tool.

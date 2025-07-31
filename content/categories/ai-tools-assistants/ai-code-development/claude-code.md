@@ -45,7 +45,4 @@ Developers love it because it feels like having an expert programmer looking ove
 
 ## Get Started with Claude Code
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://claude.ai/code" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Claude Code →</a>
-  <a href="https://claude.ai/code/quickstart" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Quick Start Guide →</a>
-</div>
+Ready to get started? Visit [Claude Code](https://claude.ai/code) to explore the platform and begin using this tool.

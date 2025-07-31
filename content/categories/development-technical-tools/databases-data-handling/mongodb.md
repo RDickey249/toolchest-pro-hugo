@@ -29,7 +29,4 @@ Perfect for modern web applications, content management systems, IoT platforms, 
 
 ## Get Started with MongoDB
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit MongoDB →</a>
-  <a href="https://www.mongodb.com/try" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Try Free →</a>
-</div>
+Ready to get started? Visit [MongoDB](https://www.mongodb.com) to explore the platform and begin using this tool.

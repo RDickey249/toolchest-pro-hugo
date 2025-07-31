@@ -1,3 +1,14 @@
+---
+title: "Paydirt"
+tagline: "Simple time tracking and invoicing for freelancers"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Paydirt"
+deployment_status: "deployed"
+image: "/images/tools/paydirt-placeholder.jpg"
+external_link: "https://paydirtapp.com"
+---
+
 # Paydirt
 
 Paydirt is a streamlined time tracking and invoicing platform designed specifically for freelancers and small businesses. The software focuses on essential features like time logging, project organization, and professional billing without the complexity of enterprise-level business management tools.
@@ -36,7 +47,4 @@ The platform is perfect for independent freelancers, small agencies, and consult
 
 ## Get Started with Paydirt
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://paydirtapp.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Paydirt →</a>
-  <a href="https://paydirtapp.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Paydirt](https://paydirtapp.com/) to explore the platform and begin using this tool.

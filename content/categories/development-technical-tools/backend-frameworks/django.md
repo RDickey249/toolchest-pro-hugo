@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "Django"
 deployment_status: "deployed"
 image: "/images/tools/django-placeholder.jpg"
+external_link: "https://www.djangoproject.com"
 ---
 
 # Django

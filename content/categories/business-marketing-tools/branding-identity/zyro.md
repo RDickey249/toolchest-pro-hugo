@@ -1,3 +1,14 @@
+---
+title: "Zyro"
+tagline: "Simple AI-powered logo creation"
+category: "Business & Marketing Tools"
+subcategory: "Branding & Identity"
+tool_name: "Zyro"
+deployment_status: "deployed"
+image: "/images/tools/zyro-placeholder.jpg"
+external_link: "https://zyro.com/tools/logo-maker"
+---
+
 # Zyro
 
 Zyro simplifies logo creation with an intuitive AI-powered tool that generates professional logos in minutes, making quality branding accessible to everyone regardless of design experience. This user-friendly platform focuses on speed and simplicity, asking just a few key questions about your business before generating multiple logo options that capture your brand essence. Zyro's strength lies in its streamlined approach—no complex design decisions or overwhelming customization options, just clean, professional logos that work across all applications. The platform understands that many small businesses and entrepreneurs need effective branding quickly and affordably, delivering exactly that without sacrificing quality. Whether you're launching a local service business, creating an online store, or developing a personal brand, Zyro provides logos that establish credibility and professionalism. Its integration with the broader Zyro website building ecosystem makes it particularly valuable for users creating complete online presences. For users who prioritize simplicity, speed, and affordability over extensive customization, Zyro offers an efficient path to professional branding that gets businesses up and running quickly.
@@ -32,10 +43,7 @@ Zyro simplifies logo creation with an intuitive AI-powered tool that generates p
 
 ## Get Started with Zyro
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://zyro.com/tools/logo-maker" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zyro →</a>
-  <a href="https://zyro.com/tools/logo-maker" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Logo →</a>
-</div>
+Ready to get started? Visit [Zyro](https://zyro.com/tools/logo-maker) to explore the platform and begin using this tool.
 
 ## How It Compares
 

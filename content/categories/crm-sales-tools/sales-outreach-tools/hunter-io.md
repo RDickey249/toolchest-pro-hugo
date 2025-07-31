@@ -31,7 +31,4 @@ The verification feature is particularly valuable - it helps maintain sender rep
 
 ## Get Started with Hunter.io
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://hunter.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Hunter.io →</a>
-  <a href="https://hunter.io/users/sign_up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Hunter.io](https://hunter.io) to explore the platform and begin using this tool.

@@ -6,6 +6,7 @@ subcategory: "Mobile Development"
 tool_name: "Kotlin"
 deployment_status: "deployed"
 image: "/images/tools/kotlin-placeholder.jpg"
+external_link: "https://kotlinlang.org"
 ---
 
 # Kotlin

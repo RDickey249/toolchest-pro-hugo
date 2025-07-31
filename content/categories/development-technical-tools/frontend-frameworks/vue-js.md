@@ -56,7 +56,4 @@ What makes Vue special is its progressive nature - you can adopt it incrementall
 
 ## Get Started with Vue.js
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Vue.js →</a>
-  <a href="https://vuejs.org/guide/quick-start.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Quick Start →</a>
-</div>
+Ready to get started? Visit [Vue.js](https://vuejs.org) to explore the platform and begin using this tool.

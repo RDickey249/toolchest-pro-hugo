@@ -34,7 +34,4 @@ Used by over 2 million businesses worldwide, Zapier eliminates the tedious data 
 
 ## Get Started with Zapier
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://zapier.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zapier →</a>
-  <a href="https://zapier.com/sign-up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Account →</a>
-</div>
+Ready to get started? Visit [Zapier](https://zapier.com) to explore the platform and begin using this tool.

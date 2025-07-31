@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "ASP.NET Core"
 deployment_status: "deployed"
 image: "/images/tools/asp-net-core-placeholder.jpg"
+external_link: "https://dotnet.microsoft.com/apps/aspnet"
 ---
 
 # ASP.NET Core

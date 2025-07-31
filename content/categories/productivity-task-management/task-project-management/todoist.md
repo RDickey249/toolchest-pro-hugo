@@ -58,10 +58,7 @@ The platform's clean design and proven reliability have made it the go-to choice
 
 ## Get Started with Todoist
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://todoist.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Todoist →</a>
-  <a href="https://todoist.com/users/showregister" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [Todoist](https://todoist.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

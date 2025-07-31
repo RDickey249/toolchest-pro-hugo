@@ -32,10 +32,7 @@ Microsoft Copilot represents a paradigm shift in productivity software, embeddin
 
 ## Get Started with Microsoft Copilot
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://copilot.microsoft.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Microsoft Copilot →</a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Get Copilot →</a>
-</div>
+Ready to get started? Visit [Microsoft Copilot](https://copilot.microsoft.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

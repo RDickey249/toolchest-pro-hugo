@@ -55,7 +55,4 @@ What sets Next.js apart is its hybrid approach - you can use server-side renderi
 
 ## Get Started with Next.js
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Next.js →</a>
-  <a href="https://nextjs.org/learn" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Learning →</a>
-</div>
+Ready to get started? Visit [Next.js](https://nextjs.org) to explore the platform and begin using this tool.

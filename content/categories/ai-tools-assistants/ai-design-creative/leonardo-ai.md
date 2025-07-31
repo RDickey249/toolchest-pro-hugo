@@ -36,10 +36,7 @@ Leonardo AI excels at commercial creative work with clear licensing terms and pr
 
 ## Get Started with Leonardo AI
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://leonardo.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Leonardo AI →</a>
-  <a href="https://leonardo.ai/ai-art-generator" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Generate Art →</a>
-</div>
+Ready to get started? Visit [Leonardo AI](https://leonardo.ai) to explore the platform and begin using this tool.
 
 ## How It Compares
 

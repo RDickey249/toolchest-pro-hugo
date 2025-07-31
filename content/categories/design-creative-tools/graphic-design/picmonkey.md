@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "PicMonkey"
 deployment_status: "deployed"
 image: "/images/tools/picmonkey-placeholder.jpg"
+external_link: "https://www.picmonkey.com"
 ---
 
 # PicMonkey

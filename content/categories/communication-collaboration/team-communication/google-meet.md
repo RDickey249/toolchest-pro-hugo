@@ -6,6 +6,7 @@ subcategory: "Team Communication"
 tool_name: "Google Meet"
 deployment_status: "deployed"
 image: "/images/tools/google-meet-placeholder.jpg"
+external_link: "https://meet.google.com"
 tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
@@ -101,7 +102,4 @@ Used by millions of organizations worldwide for secure, simple video conferencin
 
 ## Get Started with Google Meet
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://meet.google.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Google Meet →</a>
-  <a href="https://meet.google.com/new" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Meeting →</a>
-</div>
+Ready to get started? Visit [Google Meet](https://meet.google.com) to explore the platform and begin using this tool.

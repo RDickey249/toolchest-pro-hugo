@@ -16,7 +16,4 @@ Used by millions of Apple users worldwide, Apple Reminders offers natural Siri i
 
 ## Get Started with Apple Reminders
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://support.apple.com/en-us/HT205890" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Learn More About Apple Reminders →</a>
-  <a href="https://support.apple.com/en-us/HT205890" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [Learn More About Apple Reminders](https://support.apple.com/en-us/HT205890) to explore the platform and begin using this tool.

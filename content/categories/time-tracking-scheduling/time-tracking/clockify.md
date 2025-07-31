@@ -1,3 +1,14 @@
+---
+title: "Clockify"
+tagline: "Free time tracking for unlimited users and projects"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Clockify"
+deployment_status: "deployed"
+image: "/images/tools/clockify-placeholder.jpg"
+external_link: "https://clockify.me"
+---
+
 # Clockify
 
 Clockify is the completely free time tracking platform for unlimited users and projects. Track time, manage projects, and analyze productivity without budget constraints while maintaining professional features that rival premium solutions.
@@ -34,7 +45,4 @@ Used by teams at companies like Sony and L'Oreal, Clockify offers comprehensive 
 
 ## Get Started with Clockify
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://clockify.me/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Clockify →</a>
-  <a href="https://clockify.me/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Clockify](https://clockify.me/) to explore the platform and begin using this tool.

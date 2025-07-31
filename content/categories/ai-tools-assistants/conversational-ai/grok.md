@@ -32,10 +32,7 @@ Grok brings a rebellious spirit to the AI landscape, offering unfiltered convers
 
 ## Get Started with Grok
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://x.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Grok →</a>
-  <a href="https://twitter.com/i/premium_plus_sign_up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Get X Premium →</a>
-</div>
+Ready to get started? Visit [Grok](https://x.ai) to explore the platform and begin using this tool.
 
 ## How It Compares
 

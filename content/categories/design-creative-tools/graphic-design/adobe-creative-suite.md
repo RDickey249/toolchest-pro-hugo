@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Adobe Creative Suite"
 deployment_status: "deployed"
 image: "/images/tools/adobe-creative-suite-placeholder.jpg"
+external_link: "https://www.adobe.com/creativecloud.html"
 ---
 
 # Adobe Creative Suite

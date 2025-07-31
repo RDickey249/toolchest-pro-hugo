@@ -65,7 +65,4 @@ Astro solves the "framework wars" by letting you use whatever you want. Need a R
 
 ## Get Started with Astro
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://astro.build" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Astro →</a>
-  <a href="https://docs.astro.build/en/getting-started/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Get Started →</a>
-</div>
+Ready to get started? Visit [Astro](https://astro.build) to explore the platform and begin using this tool.

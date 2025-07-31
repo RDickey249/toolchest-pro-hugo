@@ -36,9 +36,6 @@ Used by growing businesses and cross-departmental teams, GoodDay offers goal cas
 
 Ready to optimize your project workflows?
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.goodday.work" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit GoodDay →</a>
-  <a href="https://www.goodday.work/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [this tool](https://www.goodday.work) to explore the platform and begin using this tool.
 
 Explore comprehensive project management with integrated planning, task tracking, and team collaboration tools.

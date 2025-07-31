@@ -1,3 +1,14 @@
+---
+title: "DeskTime"
+tagline: "Automatic time tracking with productivity insights"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "DeskTime"
+deployment_status: "deployed"
+image: "/images/tools/desktime-placeholder.jpg"
+external_link: "https://desktime.com"
+---
+
 # DeskTime
 
 DeskTime is the automatic time tracking platform that runs quietly in the background to show you exactly how you spend your time. Get detailed productivity insights, track projects automatically, and analyze work patterns without manual timers.
@@ -34,7 +45,4 @@ Used by companies like Samsung, Porsche, and IBM, DeskTime offers automatic trac
 
 ## Get Started with DeskTime
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://desktime.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit DeskTime →</a>
-  <a href="https://desktime.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [DeskTime](https://desktime.com/) to explore the platform and begin using this tool.

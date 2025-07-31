@@ -1,3 +1,14 @@
+---
+title: "BigTime"
+tagline: "Professional services business management platform"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "BigTime"
+deployment_status: "deployed"
+image: "/images/tools/bigtime-placeholder.jpg"
+external_link: "https://www.bigtime.net"
+---
+
 # BigTime
 
 BigTime is a comprehensive business management platform designed specifically for professional services firms. The software integrates time tracking, project management, billing, and client relationship management into a unified solution for consulting firms, law practices, and accounting businesses.
@@ -36,7 +47,4 @@ The platform is ideal for established professional services firms that need soph
 
 ## Get Started with BigTime
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.bigtime.net/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit BigTime →</a>
-  <a href="https://www.bigtime.net/free-trial/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [BigTime](https://www.bigtime.net/) to explore the platform and begin using this tool.

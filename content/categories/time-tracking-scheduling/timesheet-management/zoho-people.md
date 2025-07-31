@@ -37,7 +37,4 @@ Zoho People eliminates the need for separate HR and time tracking systems. When 
 
 ## Get Started with Zoho People
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.zoho.com/people" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zoho People →</a>
-  <a href="https://www.zoho.com/people/signup.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Zoho People](https://www.zoho.com/people) to explore the platform and begin using this tool.

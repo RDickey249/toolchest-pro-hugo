@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Pixlr"
 deployment_status: "deployed"
 image: "/images/tools/pixlr-placeholder.jpg"
+external_link: "https://pixlr.com"
 ---
 
 # Pixlr

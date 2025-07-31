@@ -1,3 +1,14 @@
+---
+title: "Hours"
+tagline: "Beautifully designed time tracking app"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Hours"
+deployment_status: "deployed"
+image: "/images/tools/hours-placeholder.jpg"
+external_link: "https://www.hourstimetracking.com"
+---
+
 # Hours
 
 Hours is the beautifully designed time tracking app that makes logging time feel natural and effortless. Track time on projects with elegant visual organization, comprehensive reporting, and seamless team collaboration.
@@ -34,7 +45,4 @@ Used by creative professionals and consulting teams worldwide, Hours combines ou
 
 ## Get Started with Hours
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.hourstimetracking.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Hours →</a>
-  <a href="https://www.hourstimetracking.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Hours](https://www.hourstimetracking.com/) to explore the platform and begin using this tool.

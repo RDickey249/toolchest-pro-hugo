@@ -1,3 +1,14 @@
+---
+title: "actiTIME"
+tagline: "Enterprise time tracking with workforce analytics"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "actiTIME"
+deployment_status: "deployed"
+image: "/images/tools/actitime-placeholder.jpg"
+external_link: "https://www.actitime.com"
+---
+
 # actiTIME
 
 actiTIME is the enterprise time tracking platform that provides comprehensive workforce analytics, resource planning, and business intelligence for large organizations. Scale time tracking across multiple departments with detailed project management and reporting.
@@ -34,7 +45,4 @@ Used by enterprises and consulting firms worldwide, actiTIME offers advanced ana
 
 ## Get Started with actiTIME
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.actitime.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit actiTIME →</a>
-  <a href="https://www.actitime.com/free-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [actiTIME](https://www.actitime.com/) to explore the platform and begin using this tool.

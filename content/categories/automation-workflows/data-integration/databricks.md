@@ -30,7 +30,4 @@ Databricks delivers 10x better price/performance than traditional data warehouse
 
 ## Get Started with Databricks
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://databricks.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Databricks →</a>
-  <a href="https://databricks.com/try-databricks" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Databricks](https://databricks.com) to explore the platform and begin using this tool.

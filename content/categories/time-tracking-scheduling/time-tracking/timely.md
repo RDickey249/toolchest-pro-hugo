@@ -1,3 +1,14 @@
+---
+title: "Timely"
+tagline: "AI-powered automatic time tracking"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Timely"
+deployment_status: "deployed"
+image: "/images/tools/timely-placeholder.jpg"
+external_link: "https://timelyapp.com"
+---
+
 # Timely
 
 Timely is the AI-powered time tracking platform that automatically captures and categorizes your work activities without manual timers. Get accurate insights into productivity patterns, project allocation, and team performance with intelligent automation.
@@ -34,7 +45,4 @@ Used by agencies and knowledge workers worldwide, Timely's AI learns your work p
 
 ## Get Started with Timely
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://timelyapp.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Timely →</a>
-  <a href="https://timelyapp.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Timely](https://timelyapp.com/) to explore the platform and begin using this tool.

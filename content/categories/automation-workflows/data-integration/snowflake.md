@@ -30,7 +30,4 @@ Snowflake eliminates the traditional trade-offs between performance, scalability
 
 ## Get Started with Snowflake
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.snowflake.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Snowflake →</a>
-  <a href="https://signup.snowflake.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Snowflake](https://www.snowflake.com) to explore the platform and begin using this tool.

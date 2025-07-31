@@ -15,10 +15,7 @@ Obviously AI democratizes machine learning by enabling business users to build s
 
 ## Get Started with Obviously AI
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.obviously.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Obviously AI →</a>
-  <a href="https://www.obviously.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [Obviously AI](https://www.obviously.ai) to explore the platform and begin using this tool.
 
 ## Pros and Cons
 

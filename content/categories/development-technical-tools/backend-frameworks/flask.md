@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "Flask"
 deployment_status: "deployed"
 image: "/images/tools/flask-placeholder.jpg"
+external_link: "https://flask.palletsprojects.com"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

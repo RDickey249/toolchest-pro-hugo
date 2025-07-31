@@ -74,10 +74,7 @@ Used by millions to bring their imagination to life through the power of artific
 
 ## Get Started with DALL·E
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://openai.com/dall-e" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit DALL·E →</a>
-  <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Images →</a>
-</div>
+Ready to get started? Visit [DALL·E](https://openai.com/dall-e) to explore the platform and begin using this tool.
 
 ## How It Compares
 

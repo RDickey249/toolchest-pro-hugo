@@ -6,6 +6,7 @@ subcategory: "Mobile Development"
 tool_name: "React Native"
 deployment_status: "deployed"
 image: "/images/tools/react-native-placeholder.jpg"
+external_link: "https://reactnative.dev"
 ---
 
 # React Native

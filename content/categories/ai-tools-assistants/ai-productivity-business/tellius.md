@@ -32,10 +32,7 @@ Tellius revolutionizes business intelligence by combining advanced analytics wit
 
 ## Get Started with Tellius
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.tellius.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Tellius →</a>
-  <a href="https://www.tellius.com/demo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
-</div>
+Ready to get started? Visit [Tellius](https://www.tellius.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

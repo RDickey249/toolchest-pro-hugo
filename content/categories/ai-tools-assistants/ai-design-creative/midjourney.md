@@ -74,10 +74,7 @@ Used by major brands, indie creators, and artists to push the boundaries of digi
 
 ## Get Started with Midjourney
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.midjourney.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Midjourney →</a>
-  <a href="https://discord.gg/midjourney" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Join Discord →</a>
-</div>
+Ready to get started? Visit [Midjourney](https://www.midjourney.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

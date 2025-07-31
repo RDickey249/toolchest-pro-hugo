@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Figma"
 deployment_status: "deployed"
 image: "/images/tools/figma-placeholder.jpg"
+external_link: "https://www.figma.com"
 ---
 
 # Figma

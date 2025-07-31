@@ -34,10 +34,7 @@ Used by millions of businesses, marketers, and creators worldwide, Magic Studio 
 
 ## Get Started with Canva Magic Studio
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.canva.com/magic-studio" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Canva Magic Studio →</a>
-  <a href="https://www.canva.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Account →</a>
-</div>
+Ready to get started? Visit [Canva Magic Studio](https://www.canva.com/magic-studio) to explore the platform and begin using this tool.
 
 ## How It Compares
 

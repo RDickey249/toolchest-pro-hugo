@@ -21,10 +21,7 @@ Used by marketing teams, product teams, and cross-functional organizations world
 
 Ready to balance powerful features with intuitive design? 
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://asana.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Asana →</a>
-  <a href="https://asana.com/create-account" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [Asana](https://asana.com) to explore the platform and begin using this tool.
 
 Explore comprehensive team project management with flexible project views and automated workflows.
 

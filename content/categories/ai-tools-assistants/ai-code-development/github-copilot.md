@@ -75,10 +75,7 @@ Over 1 million developers use GitHub Copilot to accelerate their development wor
 
 ## Get Started with GitHub Copilot
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit GitHub Copilot →</a>
-  <a href="https://github.com/github-copilot/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [GitHub Copilot](https://github.com/features/copilot) to explore the platform and begin using this tool.
 
 ## How It Compares
 

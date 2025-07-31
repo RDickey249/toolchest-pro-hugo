@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Affinity Designer"
 deployment_status: "deployed"
 image: "/images/tools/affinity-designer-placeholder.jpg"
+external_link: "https://affinity.serif.com/designer"
 ---
 
 # Affinity Designer

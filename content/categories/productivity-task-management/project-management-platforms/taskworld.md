@@ -8,10 +8,7 @@ Used by remote teams, marketing departments, and growing companies worldwide, Ta
 
 Ready to enhance team productivity? 
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://taskworld.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Taskworld →</a>
-  <a href="https://taskworld.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [this tool](https://taskworld.com) to explore the platform and begin using this tool.
 
 Explore visual project management with intuitive task organization and powerful collaboration features.
 

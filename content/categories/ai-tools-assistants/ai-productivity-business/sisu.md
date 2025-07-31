@@ -32,10 +32,7 @@ Sisu transforms business metrics monitoring into intelligent diagnostic insights
 
 ## Get Started with Sisu
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.sisudata.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Sisu →</a>
-  <a href="https://www.sisudata.com/demo" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
-</div>
+Ready to get started? Visit [Sisu](https://www.sisudata.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

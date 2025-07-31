@@ -75,10 +75,7 @@ Backed by Google's massive resources and DeepMind's world-class AI research team
 
 ## Get Started with Gemini
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Gemini →</a>
-  <a href="https://gemini.google.com/app" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Chat →</a>
-</div>
+Ready to get started? Visit [Gemini](https://gemini.google.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

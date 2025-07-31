@@ -1,3 +1,14 @@
+---
+title: "My Hours"
+tagline: "Comprehensive time tracking with user-friendly design"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "My Hours"
+deployment_status: "deployed"
+image: "/images/tools/my-hours-placeholder.jpg"
+external_link: "https://www.myhours.com"
+---
+
 # My Hours
 
 My Hours is the comprehensive time tracking platform that balances powerful features with user-friendly design. Track time on projects, manage teams, generate reports, and create invoices with an interface that's easy for everyone to use.
@@ -34,7 +45,4 @@ Used by teams across diverse industries, My Hours offers professional time track
 
 ## Get Started with My Hours
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.myhours.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit My Hours →</a>
-  <a href="https://www.myhours.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [My Hours](https://www.myhours.com/) to explore the platform and begin using this tool.

@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "Laravel"
 deployment_status: "deployed"
 image: "/images/tools/laravel-placeholder.jpg"
+external_link: "https://laravel.com"
 ---
 
 # Laravel

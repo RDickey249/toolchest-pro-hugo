@@ -37,7 +37,4 @@ ActivTrak enhances organizational performance through intelligent workforce anal
 
 ## Get Started with ActivTrak
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.activtrak.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit ActivTrak →</a>
-  <a href="https://signup.activtrak.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [ActivTrak](https://www.activtrak.com) to explore the platform and begin using this tool.

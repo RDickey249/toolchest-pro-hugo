@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Vectr"
 deployment_status: "deployed"
 image: "/images/tools/vectr-placeholder.jpg"
+external_link: "https://vectr.com"
 ---
 
 # Vectr

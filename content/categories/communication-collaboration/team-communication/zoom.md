@@ -6,6 +6,7 @@ subcategory: "Team Communication"
 tool_name: "Zoom"
 deployment_status: "deployed"
 image: "/images/tools/zoom-placeholder.jpg"
+external_link: "https://zoom.us"
 tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
@@ -48,7 +49,4 @@ The platform that redefined how the world meets and collaborates remotely.
 
 ## Get Started with Zoom
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://zoom.us" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Zoom →</a>
-  <a href="https://zoom.us/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Sign Up Free →</a>
-</div>
+Ready to get started? Visit [Zoom](https://zoom.us) to explore the platform and begin using this tool.

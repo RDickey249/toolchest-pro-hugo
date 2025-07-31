@@ -6,6 +6,7 @@ subcategory: "Mobile Development"
 tool_name: "Xamarin"
 deployment_status: "deployed"
 image: "/images/tools/xamarin-placeholder.jpg"
+external_link: "https://dotnet.microsoft.com/apps/xamarin"
 ---
 
 # Xamarin

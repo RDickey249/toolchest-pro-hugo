@@ -6,6 +6,7 @@ subcategory: "Team Communication"
 tool_name: "Slack"
 deployment_status: "deployed"
 image: "/images/tools/slack-placeholder.jpg"
+external_link: "https://slack.com"
 tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
@@ -52,7 +53,4 @@ Slack has become essential infrastructure for modern teams who value transparenc
 
 ## Get Started with Slack
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://slack.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Slack →</a>
-  <a href="https://slack.com/get-started" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Slack](https://slack.com) to explore the platform and begin using this tool.

@@ -6,6 +6,7 @@ subcategory: "Mobile Development"
 tool_name: "Flutter"
 deployment_status: "deployed"
 image: "/images/tools/flutter-placeholder.jpg"
+external_link: "https://flutter.dev"
 ---
 
 # Flutter

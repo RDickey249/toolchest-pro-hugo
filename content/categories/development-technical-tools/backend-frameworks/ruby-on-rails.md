@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "Ruby on Rails"
 deployment_status: "deployed"
 image: "/images/tools/ruby-on-rails-placeholder.jpg"
+external_link: "https://rubyonrails.org"
 ---
 
 # Ruby on Rails

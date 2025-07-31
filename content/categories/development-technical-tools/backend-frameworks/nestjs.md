@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "NestJS"
 deployment_status: "deployed"
 image: "/images/tools/nestjs-placeholder.jpg"
+external_link: "https://nestjs.com"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

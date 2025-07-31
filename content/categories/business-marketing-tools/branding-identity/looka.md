@@ -1,3 +1,14 @@
+---
+title: "Looka"
+tagline: "AI-powered complete brand identity creation"
+category: "Business & Marketing Tools"
+subcategory: "Branding & Identity"
+tool_name: "Looka"
+deployment_status: "deployed"
+image: "/images/tools/looka-placeholder.jpg"
+external_link: "https://www.looka.com"
+---
+
 # Looka
 
 Looka revolutionizes brand creation by combining artificial intelligence with professional design expertise to generate stunning logos and complete brand identities in minutes, not months. This intelligent platform asks strategic questions about your business and preferences, then creates unique logo concepts tailored specifically to your vision and industry. Beyond logo design, Looka provides comprehensive brand packages including business cards, social media kits, brand guidelines, and marketing materials that ensure consistent brand presentation across all touchpoints. The platform's AI understands design principles, color psychology, and industry trends to create professional-quality brands that compete with expensive design agencies. Whether you're launching a startup, rebranding an existing business, or need quick brand assets for a new project, Looka delivers polished results that establish credibility and recognition. Its user-friendly interface allows anyone to create professional branding without design experience, while customization options ensure your brand feels uniquely yours. For entrepreneurs and businesses seeking professional branding on a budget, Looka offers agency-quality results at a fraction of traditional costs.
@@ -32,10 +43,7 @@ Looka revolutionizes brand creation by combining artificial intelligence with pr
 
 ## Get Started with Looka
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.looka.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Looka →</a>
-  <a href="https://www.looka.com/logo-maker/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Logo →</a>
-</div>
+Ready to get started? Visit [Looka](https://www.looka.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

@@ -6,6 +6,7 @@ subcategory: "Team Communication"
 tool_name: "Discord"
 deployment_status: "deployed"
 image: "/images/tools/discord-placeholder.jpg"
+external_link: "https://discord.com"
 tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]
@@ -100,7 +101,4 @@ Used by millions of teams worldwide to create more engaging, persistent communic
 
 ## Get Started with Discord
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://discord.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Discord →</a>
-  <a href="https://discord.com/register" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Sign Up Free →</a>
-</div>
+Ready to get started? Visit [Discord](https://discord.com) to explore the platform and begin using this tool.

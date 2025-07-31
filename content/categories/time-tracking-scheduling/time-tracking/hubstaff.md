@@ -1,3 +1,14 @@
+---
+title: "Hubstaff"
+tagline: "Time tracking with employee monitoring and GPS"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Hubstaff"
+deployment_status: "deployed"
+image: "/images/tools/hubstaff-placeholder.jpg"
+external_link: "https://hubstaff.com"
+---
+
 # Hubstaff
 
 Hubstaff is the time tracking and employee monitoring platform that provides complete visibility into how remote and field teams spend their work time. With GPS tracking, screenshot monitoring, and productivity analytics, it helps managers ensure accountability while teams stay productive.
@@ -34,7 +45,4 @@ Used by companies like Groupon, Ring, and Instacart, Hubstaff combines time trac
 
 ## Get Started with Hubstaff
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://hubstaff.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Hubstaff →</a>
-  <a href="https://hubstaff.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Hubstaff](https://hubstaff.com/) to explore the platform and begin using this tool.

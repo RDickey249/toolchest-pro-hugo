@@ -59,7 +59,4 @@ Nuxt eliminates the complexity of configuring Vue applications for production. W
 
 ## Get Started with Nuxt.js
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://nuxt.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Nuxt.js →</a>
-  <a href="https://nuxt.com/docs/getting-started" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Get Started →</a>
-</div>
+Ready to get started? Visit [Nuxt.js](https://nuxt.com) to explore the platform and begin using this tool.

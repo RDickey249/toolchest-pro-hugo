@@ -36,7 +36,4 @@ The platform is ideal for businesses requiring complex time tracking automation,
 
 ## Get Started with Make
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.make.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Make →</a>
-  <a href="https://www.make.com/en/register" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Make](https://www.make.com) to explore the platform and begin using this tool.

@@ -6,6 +6,7 @@ subcategory: "Backend Frameworks"
 tool_name: "Spring Boot"
 deployment_status: "deployed"
 image: "/images/tools/spring-boot-placeholder.jpg"
+external_link: "https://spring.io/projects/spring-boot"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

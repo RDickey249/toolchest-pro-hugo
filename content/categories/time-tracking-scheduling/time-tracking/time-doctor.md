@@ -1,3 +1,14 @@
+---
+title: "Time Doctor"
+tagline: "Remote team monitoring with time tracking"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Time Doctor"
+deployment_status: "deployed"
+image: "/images/tools/time-doctor-placeholder.jpg"
+external_link: "https://www.timedoctor.com"
+---
+
 # Time Doctor
 
 Time Doctor is a comprehensive time tracking and productivity monitoring platform designed for remote team management. The software combines detailed time tracking with activity monitoring, screenshot capture, and productivity analytics to provide complete visibility into distributed workforce performance.
@@ -36,7 +47,4 @@ The platform is ideal for remote-first companies, agencies managing billable cli
 
 ## Get Started with Time Doctor
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.timedoctor.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Time Doctor →</a>
-  <a href="https://www.timedoctor.com/sign-up" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Time Doctor](https://www.timedoctor.com/) to explore the platform and begin using this tool.

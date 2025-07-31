@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "GIMP"
 deployment_status: "deployed"
 image: "/images/tools/gimp-placeholder.jpg"
+external_link: "https://www.gimp.org"
 ---
 
 # GIMP

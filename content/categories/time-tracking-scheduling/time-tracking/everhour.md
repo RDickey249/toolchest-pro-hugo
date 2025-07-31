@@ -1,3 +1,14 @@
+---
+title: "Everhour"
+tagline: "Time tracking that integrates with your project tools"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Everhour"
+deployment_status: "deployed"
+image: "/images/tools/everhour-placeholder.jpg"
+external_link: "https://everhour.com"
+---
+
 # Everhour
 
 Everhour is the time tracking platform that integrates directly with your existing project management tools. Track time within Asana, Trello, Monday.com, and other platforms without disrupting your workflow.
@@ -34,7 +45,4 @@ Used by teams at companies like Typeform, Buffer, and Pipedrive, Everhour adds t
 
 ## Get Started with Everhour
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://everhour.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Everhour →</a>
-  <a href="https://everhour.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Everhour](https://everhour.com/) to explore the platform and begin using this tool.

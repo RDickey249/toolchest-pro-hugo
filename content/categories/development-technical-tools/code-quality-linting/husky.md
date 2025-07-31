@@ -64,7 +64,4 @@ Husky eliminates the "it works on my machine" problem by running the same qualit
 
 ## Get Started with Husky
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://typicode.github.io/husky" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Husky →</a>
-  <a href="https://www.npmjs.com/package/husky" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Install via npm →</a>
-</div>
+Ready to get started? Visit [Husky](https://typicode.github.io/husky) to explore the platform and begin using this tool.

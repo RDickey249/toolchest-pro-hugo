@@ -50,7 +50,4 @@ Trusted by brands like Ben & Jerry's, Toyota, and Vodafone to power their online
 
 ## Get Started with BigCommerce
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.bigcommerce.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit BigCommerce →</a>
-  <a href="https://www.bigcommerce.com/start-your-trial" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [BigCommerce](https://www.bigcommerce.com) to explore the platform and begin using this tool.

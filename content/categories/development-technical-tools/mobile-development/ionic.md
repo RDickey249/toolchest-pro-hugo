@@ -6,6 +6,7 @@ subcategory: "Mobile Development"
 tool_name: "Ionic"
 deployment_status: "deployed"
 image: "/images/tools/ionic-placeholder.jpg"
+external_link: "https://ionicframework.com"
 ---
 
 # Ionic

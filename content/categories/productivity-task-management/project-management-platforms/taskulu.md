@@ -8,10 +8,7 @@ Used by small teams, remote teams, and project teams worldwide, Taskulu focuses 
 
 Ready to enhance team productivity? 
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://taskulu.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Taskulu →</a>
-  <a href="https://taskulu.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [this tool](https://taskulu.com) to explore the platform and begin using this tool.
 
 Explore collaborative task management with integrated team communication and unified project coordination.
 

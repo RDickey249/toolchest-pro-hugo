@@ -17,7 +17,4 @@ Redis delivers exceptional performance as an in-memory data structure store that
 
 ## Get Started with Redis
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://redis.io" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Redis →</a>
-  <a href="https://redis.io/try-free/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Try Free →</a>
-</div>
+Ready to get started? Visit [Redis](https://redis.io) to explore the platform and begin using this tool.

@@ -8,10 +8,7 @@ Used by companies like Sony Music and Mercedes-Benz, Podio replaces multiple bus
 
 Ready to build custom business applications?
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://podio.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Podio →</a>
-  <a href="https://podio.com/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [this tool](https://podio.com) to explore the platform and begin using this tool.
 
 Create tailored CRM systems, project trackers, and process management tools without coding.
 

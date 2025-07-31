@@ -6,6 +6,7 @@ subcategory: "Mobile Development"
 tool_name: "Swift"
 deployment_status: "deployed"
 image: "/images/tools/swift-placeholder.jpg"
+external_link: "https://swift.org"
 ---
 
 # Swift

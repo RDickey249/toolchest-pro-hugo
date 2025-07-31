@@ -107,7 +107,4 @@ Used by millions of researchers, writers, and thinkers to build comprehensive, i
 
 ## Get Started with Obsidian
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://obsidian.md" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Obsidian →</a>
-  <a href="https://obsidian.md/download" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Download Free →</a>
-</div>
+Ready to get started? Visit [Obsidian](https://obsidian.md) to explore the platform and begin using this tool.

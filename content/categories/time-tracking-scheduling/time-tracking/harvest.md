@@ -1,3 +1,14 @@
+---
+title: "Harvest"
+tagline: "Time tracking, expense management, and invoicing"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "Harvest"
+deployment_status: "deployed"
+image: "/images/tools/harvest-placeholder.jpg"
+external_link: "https://www.getharvest.com"
+---
+
 # Harvest
 
 Harvest is the time tracking platform that makes it simple to track time, manage expenses, and invoice clients. Turn tracked time into professional invoices with one click and see which projects are profitable.
@@ -34,7 +45,4 @@ Used by companies like Lululemon, Yale University, and Amnesty International, Ha
 
 ## Get Started with Harvest
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.getharvest.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Harvest →</a>
-  <a href="https://www.getharvest.com/try" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [Harvest](https://www.getharvest.com/) to explore the platform and begin using this tool.

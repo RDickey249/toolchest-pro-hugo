@@ -32,10 +32,7 @@ Listnr empowers content creators with AI-powered text-to-speech technology that 
 
 ## Get Started with Listnr
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.listnr.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Listnr →</a>
-  <a href="https://www.listnr.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [Listnr](https://www.listnr.ai) to explore the platform and begin using this tool.
 
 ## How It Compares
 

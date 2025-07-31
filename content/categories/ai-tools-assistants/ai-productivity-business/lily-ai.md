@@ -34,10 +34,7 @@ Used by fashion retailers and home goods stores with large catalogs, Lily AI off
 
 ## Get Started with Lily AI
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.lily.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Lily AI →</a>
-  <a href="https://www.lily.ai/contact" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Request Demo →</a>
-</div>
+Ready to get started? Visit [Lily AI](https://www.lily.ai) to explore the platform and begin using this tool.
 
 ## How It Compares
 

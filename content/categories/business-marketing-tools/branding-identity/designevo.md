@@ -1,3 +1,14 @@
+---
+title: "DesignEvo"
+tagline: "Professional logo design with 10,000+ templates"
+category: "Business & Marketing Tools"
+subcategory: "Branding & Identity"
+tool_name: "DesignEvo"
+deployment_status: "deployed"
+image: "/images/tools/designevo-placeholder.jpg"
+external_link: "https://www.designevo.com"
+---
+
 # DesignEvo
 
 DesignEvo democratizes professional logo design through an extensive template library combined with intuitive editing tools, making quality branding accessible to businesses of every size and budget. This comprehensive platform offers over 10,000 professionally designed logo templates spanning every industry imaginable, from tech startups to traditional retail businesses. DesignEvo's strength lies in its vast selection and user-friendly customization tools that allow anyone to create polished logos without design experience. The platform understands that not every business needs cutting-edge AI—sometimes the perfect logo already exists and just needs personalization. Whether you're opening a restaurant and need classic elegance, launching a fitness brand requiring energetic appeal, or starting a consulting firm wanting professional sophistication, DesignEvo's template library has options that resonate with your vision. Its drag-and-drop editor makes customization intuitive, while font libraries and icon collections ensure your final logo feels unique. For businesses seeking affordable, template-based logo solutions with extensive variety and easy customization, DesignEvo provides the most comprehensive library and user-friendly experience available.
@@ -32,10 +43,7 @@ DesignEvo democratizes professional logo design through an extensive template li
 
 ## Get Started with DesignEvo
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.designevo.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit DesignEvo →</a>
-  <a href="https://www.designevo.com/logo-maker" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Create Logo →</a>
-</div>
+Ready to get started? Visit [DesignEvo](https://www.designevo.com) to explore the platform and begin using this tool.
 
 ## How It Compares
 

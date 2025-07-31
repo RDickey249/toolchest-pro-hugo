@@ -1,3 +1,14 @@
+---
+title: "RescueTime"
+tagline: "Automatic digital time tracking and productivity insights"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "RescueTime"
+deployment_status: "deployed"
+image: "/images/tools/rescuetime-placeholder.jpg"
+external_link: "https://www.rescuetime.com"
+---
+
 # RescueTime
 
 RescueTime is the automatic time tracking platform that runs quietly in the background to show you exactly how you spend your digital time. Get detailed insights into productivity patterns, set goals, and block distracting websites.
@@ -34,7 +45,4 @@ Used by over 2.5 million people worldwide, RescueTime tracks applications and we
 
 ## Get Started with RescueTime
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.rescuetime.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit RescueTime →</a>
-  <a href="https://www.rescuetime.com/get_rescuetime" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [RescueTime](https://www.rescuetime.com/) to explore the platform and begin using this tool.

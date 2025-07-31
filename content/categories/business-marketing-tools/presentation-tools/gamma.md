@@ -32,10 +32,7 @@ Gamma redefines presentation creation by using advanced AI to generate complete 
 
 ## Get Started with Gamma
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://gamma.app" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Gamma →</a>
-  <a href="https://gamma.app/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free →</a>
-</div>
+Ready to get started? Visit [Gamma](https://gamma.app) to explore the platform and begin using this tool.
 
 ## How It Compares
 

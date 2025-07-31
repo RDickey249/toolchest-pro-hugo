@@ -6,6 +6,7 @@ subcategory: "Team Communication"
 tool_name: "GoToMeeting"
 deployment_status: "deployed"
 image: "/images/tools/gotomeeting-placeholder.jpg"
+external_link: "https://www.gotomeeting.com"
 ---
 
 # GoToMeeting

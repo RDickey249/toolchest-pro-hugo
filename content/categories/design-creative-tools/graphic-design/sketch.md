@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Sketch"
 deployment_status: "deployed"
 image: "/images/tools/sketch-placeholder.jpg"
+external_link: "https://www.sketch.com"
 ---
 
 # Sketch

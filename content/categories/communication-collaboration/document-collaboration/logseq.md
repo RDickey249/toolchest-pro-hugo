@@ -18,6 +18,4 @@ Perfect for researchers, students, and professionals who prioritize data soverei
 
 ## Get Started with LogSeq
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://logseq.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Visit LogSeq →</a>
-</div>
+Ready to get started? Visit [LogSeq](https://logseq.com) to explore the platform and begin using this tool.

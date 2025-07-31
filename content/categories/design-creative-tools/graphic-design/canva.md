@@ -6,6 +6,7 @@ subcategory: "Graphic Design"
 tool_name: "Canva"
 deployment_status: "deployed"
 image: "/images/tools/canva-placeholder.jpg"
+external_link: "https://www.canva.com"
 ---
 
 # Canva

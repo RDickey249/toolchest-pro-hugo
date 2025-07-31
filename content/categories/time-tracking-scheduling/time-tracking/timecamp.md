@@ -1,3 +1,14 @@
+---
+title: "TimeCamp"
+tagline: "Automatic time tracking with project management"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking"
+tool_name: "TimeCamp"
+deployment_status: "deployed"
+image: "/images/tools/timecamp-placeholder.jpg"
+external_link: "https://www.timecamp.com"
+---
+
 # TimeCamp
 
 TimeCamp is the automatic time tracking platform that monitors how you and your team spend work time without manual input. With desktop apps, project management integration, and detailed reporting, it provides accurate insights into productivity and project profitability.
@@ -34,7 +45,4 @@ Used by over 18,000 businesses worldwide, TimeCamp eliminates the hassle of manu
 
 ## Get Started with TimeCamp
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://www.timecamp.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit TimeCamp →</a>
-  <a href="https://www.timecamp.com/register" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Free Trial →</a>
-</div>
+Ready to get started? Visit [TimeCamp](https://www.timecamp.com/) to explore the platform and begin using this tool.

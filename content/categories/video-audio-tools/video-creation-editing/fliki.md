@@ -32,10 +32,7 @@ Fliki transforms written content into engaging videos with lifelike AI voices, r
 
 ## Get Started with Fliki
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://fliki.ai" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #96BF47; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem; margin-right: 1rem;">Visit Fliki →</a>
-  <a href="https://fliki.ai/signup" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #007cba; color: white; padding: 1rem 2rem; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 1.1rem;">Start Creating →</a>
-</div>
+Ready to get started? Visit [Fliki](https://fliki.ai) to explore the platform and begin using this tool.
 
 ## How It Compares
 
