@@ -1,23 +1,61 @@
 {{ define "main" }}
 {{ if eq .RelPermalink "/categories/" }}
-    <!-- Main categories page - show ONLY main categories -->
+    <!-- Main categories page - show all categories in weighted order -->
     <h1>{{ .Title }}</h1>
     {{ if .Description }}
     <p>{{ .Description }}</p>
     {{ end }}
     
-    <ul class="posts-list">
-        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
-        {{ $categoryPage := index $taxonomy 0 }}
-        <li class="posts-list-item">
-            <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ $categoryPage.Params.category | default $categoryName }}</a></h2>
-            <p>{{ len $taxonomy }} tools</p>
-            {{ if $categoryPage.Params.description }}
-            <p>{{ $categoryPage.Params.description | truncate 100 }}</p>
-            {{ end }}
-        </li>
+    <!-- Collect all category pages and sort by weight -->
+    {{ $categoryPages := slice }}
+    {{ range where .Site.Pages "Type" "categories" }}
+        {{ if and .Params.weight (eq (len (split .RelPermalink "/")) 3) }}
+            {{ $categoryPages = $categoryPages | append . }}
         {{ end }}
-    </ul>
+    {{ end }}
+    
+    <div class="categories-grid">
+        {{ range $categoryPages | sort "Params.weight" }}
+        <div class="category-card">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p class="category-description">{{ .Params.description | truncate 120 }}</p>
+            
+            <!-- Show subcategories -->
+            {{ $subcategories := slice }}
+            {{ $toolCount := 0 }}
+            {{ range where $.Site.Pages ".Type" "categories" }}
+                {{ if hasPrefix .RelPermalink (printf "%s" $.RelPermalink) }}
+                    {{ if gt (len (split .RelPermalink "/")) 4 }}
+                        {{ $subcategories = $subcategories | append . }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            
+            <!-- Count tools in this category -->
+            {{ range $.Site.Pages }}
+                {{ if and .Params.category (eq .Params.category $.Title) }}
+                    {{ $toolCount = add $toolCount 1 }}
+                {{ end }}
+            {{ end }}
+            
+            {{ if $subcategories }}
+            <div class="subcategories">
+                <strong>Subcategories:</strong>
+                <ul>
+                    {{ range first 5 ($subcategories | sort "Title") }}
+                    <li>{{ .Title }}</li>
+                    {{ end }}
+                    {{ if gt (len $subcategories) 5 }}
+                    <li>... and {{ sub (len $subcategories) 5 }} more</li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+            
+            <p class="tool-count">{{ $toolCount }} tools</p>
+        </div>
+        {{ end }}
+    </div>
 {{ else }}
     <!-- Individual category taxonomy pages - show subcategories -->
     <h1>{{ .Title }}</h1>
