@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>client-communication on ToolChest</title><link>https://toolchest.pro/tags/client-communication/</link><description>Recent content in client-communication on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/client-communication/index.xml" rel="self" type="application/rss+xml"/><item><title>Basecamp</title><link>https://toolchest.pro/categories/basecamp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/basecamp/</guid><description>Basecamp transforms team collaboration through a refreshingly simple approach that prioritizes human communication and project clarity over feature complexity.
-Get Started with Basecamp Simplify team collaboration with human-centered project management.
-Ready to get started? Visit Basecamp to explore the platform and begin using this tool.
-Organize work and communicate effectively.
-Key Features • Project organization with automatic check-ins - Simple project structure with regular team updates and progress visibility • Message boards and real-time chat - Organized team communication with topic-based discussions and instant messaging • To-do lists and task management - Straightforward task organization with assignments, due dates, and progress tracking • File and document sharing - Centralized storage with version control and collaborative document management • Schedule and milestone tracking - Calendar integration with deadline management and project timeline visibility • Campfire chat integration - Real-time communication embedded within project contexts • Client access and collaboration - External stakeholder participation with controlled access and communication • Mobile accessibility - Full-featured mobile apps ensuring project access and communication from anywhere</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>client-communication on ToolChest</title>
+    <link>https://toolchest.pro/tags/client-communication/</link>
+    <description>Recent content in client-communication on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/client-communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basecamp</title>
+      <link>https://toolchest.pro/categories/basecamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/basecamp/</guid>
+      <description>Basecamp transforms team collaboration through a refreshingly simple approach that prioritizes human communication and project clarity over feature complexity.&#xA;Get Started with Basecamp Simplify team collaboration with human-centered project management.&#xA;Ready to get started? Visit Basecamp to explore the platform and begin using this tool.&#xA;Organize work and communicate effectively.&#xA;Key Features • Project organization with automatic check-ins - Simple project structure with regular team updates and progress visibility • Message boards and real-time chat - Organized team communication with topic-based discussions and instant messaging • To-do lists and task management - Straightforward task organization with assignments, due dates, and progress tracking • File and document sharing - Centralized storage with version control and collaborative document management • Schedule and milestone tracking - Calendar integration with deadline management and project timeline visibility • Campfire chat integration - Real-time communication embedded within project contexts • Client access and collaboration - External stakeholder participation with controlled access and communication • Mobile accessibility - Full-featured mobile apps ensuring project access and communication from anywhere</description>
+    </item>
+  </channel>
+</rss>

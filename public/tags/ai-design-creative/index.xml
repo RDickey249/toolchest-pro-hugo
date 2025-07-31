@@ -1,7 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ai-design-creative on ToolChest</title><link>https://toolchest.pro/tags/ai-design-creative/</link><description>Recent content in ai-design-creative on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/ai-design-creative/index.xml" rel="self" type="application/rss+xml"/><item><title>DALL·E</title><link>https://toolchest.pro/categories/dalle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/dalle/</guid><description>DALL·E is the AI image generator that started the visual AI revolution, turning simple text descriptions into stunning, original artwork.
-Created by OpenAI (makers of ChatGPT), DALL·E democratizes image creation by making professional-quality visuals accessible to anyone with an idea.
-How DALL·E works:
-Text-to-image - Describe what you want in natural language Style flexibility - From photorealistic to abstract, cartoons to technical diagrams Creative interpretation - Goes beyond literal descriptions to create artistic results Safe generation - Built-in safeguards prevent inappropriate content Latest version (DALL·E 3):</description></item><item><title>Midjourney</title><link>https://toolchest.pro/categories/midjourney/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/midjourney/</guid><description>Midjourney is the leading AI art generator that transforms text descriptions into stunning, professional-quality artwork.
-Known for producing the most artistic and stylistically sophisticated AI-generated images, Midjourney has become the go-to platform for creators, designers, and artists worldwide.
-Why Midjourney leads AI art:
-Artistic excellence - Produces gallery-quality artwork with incredible detail Style mastery - Understands artistic movements, techniques, and aesthetics Creative interpretation - Goes beyond literal prompts to create truly artistic results Community-driven - Learn from millions of creations in public galleries How it works:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai-design-creative on ToolChest</title>
+    <link>https://toolchest.pro/tags/ai-design-creative/</link>
+    <description>Recent content in ai-design-creative on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/ai-design-creative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DALL·E</title>
+      <link>https://toolchest.pro/categories/dalle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/dalle/</guid>
+      <description>DALL·E is the AI image generator that started the visual AI revolution, turning simple text descriptions into stunning, original artwork.&#xA;Created by OpenAI (makers of ChatGPT), DALL·E democratizes image creation by making professional-quality visuals accessible to anyone with an idea.&#xA;How DALL·E works:&#xA;Text-to-image - Describe what you want in natural language Style flexibility - From photorealistic to abstract, cartoons to technical diagrams Creative interpretation - Goes beyond literal descriptions to create artistic results Safe generation - Built-in safeguards prevent inappropriate content Latest version (DALL·E 3):</description>
+    </item>
+    <item>
+      <title>Midjourney</title>
+      <link>https://toolchest.pro/categories/midjourney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/midjourney/</guid>
+      <description>Midjourney is the leading AI art generator that transforms text descriptions into stunning, professional-quality artwork.&#xA;Known for producing the most artistic and stylistically sophisticated AI-generated images, Midjourney has become the go-to platform for creators, designers, and artists worldwide.&#xA;Why Midjourney leads AI art:&#xA;Artistic excellence - Produces gallery-quality artwork with incredible detail Style mastery - Understands artistic movements, techniques, and aesthetics Creative interpretation - Goes beyond literal prompts to create truly artistic results Community-driven - Learn from millions of creations in public galleries How it works:</description>
+    </item>
+  </channel>
+</rss>

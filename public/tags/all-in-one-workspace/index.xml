@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>all-in-one-workspace on ToolChest</title><link>https://toolchest.pro/tags/all-in-one-workspace/</link><description>Recent content in all-in-one-workspace on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/all-in-one-workspace/index.xml" rel="self" type="application/rss+xml"/><item><title>ClickUp</title><link>https://toolchest.pro/categories/clickup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/clickup/</guid><description>ClickUp is an all-in-one productivity workspace that combines project management, task tracking, docs, goals, and team collaboration. Replace multiple tools with one customizable platform that adapts to any workflow.
-Key Features • Multiple project views - Kanban boards, Gantt charts, calendar, list, and timeline views for different workflow preferences • Extensive customization options - Custom fields, statuses, workflows, and templates adaptable to any organizational need • All-in-one workspace - Integrated docs, goals, time tracking, and communication eliminating need for separate tools • Advanced automation - Workflow automation, recurring tasks, and smart notifications reducing manual work • Comprehensive collaboration - Real-time editing, comments, proofing, and team communication within project context • Goal and OKR tracking - Strategic objective management with progress monitoring and team alignment • Time tracking and reporting - Built-in time logging with detailed productivity analytics and project insights • Extensive integration ecosystem - Connections with hundreds of popular business tools and platforms</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>all-in-one-workspace on ToolChest</title>
+    <link>https://toolchest.pro/tags/all-in-one-workspace/</link>
+    <description>Recent content in all-in-one-workspace on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/all-in-one-workspace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClickUp</title>
+      <link>https://toolchest.pro/categories/clickup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/clickup/</guid>
+      <description>ClickUp is an all-in-one productivity workspace that combines project management, task tracking, docs, goals, and team collaboration. Replace multiple tools with one customizable platform that adapts to any workflow.&#xA;Key Features • Multiple project views - Kanban boards, Gantt charts, calendar, list, and timeline views for different workflow preferences • Extensive customization options - Custom fields, statuses, workflows, and templates adaptable to any organizational need • All-in-one workspace - Integrated docs, goals, time tracking, and communication eliminating need for separate tools • Advanced automation - Workflow automation, recurring tasks, and smart notifications reducing manual work • Comprehensive collaboration - Real-time editing, comments, proofing, and team communication within project context • Goal and OKR tracking - Strategic objective management with progress monitoring and team alignment • Time tracking and reporting - Built-in time logging with detailed productivity analytics and project insights • Extensive integration ecosystem - Connections with hundreds of popular business tools and platforms</description>
+    </item>
+  </channel>
+</rss>

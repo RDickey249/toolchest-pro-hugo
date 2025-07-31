@@ -1,3 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>productivity-analytics on ToolChest</title><link>https://toolchest.pro/tags/productivity-analytics/</link><description>Recent content in productivity-analytics on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/productivity-analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>RescueTime</title><link>https://toolchest.pro/categories/rescuetime/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/rescuetime/</guid><description>RescueTime provides automatic time tracking and detailed analytics to help individuals and teams understand and optimize their digital habits and productivity patterns.
-Get Started with RescueTime Understand and optimize your productivity with automatic tracking. Visit rescuetime.com to build better digital habits and work patterns.
-Key Features • Automatic digital activity tracking - Seamless monitoring of applications, websites, and digital activities without manual input • Productivity scoring and analytics - Intelligent categorization with productivity scoring and detailed time usage analysis • Goal setting and achievement tracking - Personal productivity goals with progress monitoring and achievement insights • FocusTime distraction blocking - Website and application blocking during focused work periods • Detailed reporting and trends - Comprehensive analytics with productivity trends and behavior pattern analysis • Team and organization insights - Collective productivity analytics with privacy protection and team performance visibility • Integration and alerts - Smart notifications with integration options for enhanced productivity workflow • Cross-platform tracking - Multi-device monitoring with seamless synchronization across all work environments</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>productivity-analytics on ToolChest</title>
+    <link>https://toolchest.pro/tags/productivity-analytics/</link>
+    <description>Recent content in productivity-analytics on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/productivity-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RescueTime</title>
+      <link>https://toolchest.pro/categories/rescuetime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/rescuetime/</guid>
+      <description>RescueTime provides automatic time tracking and detailed analytics to help individuals and teams understand and optimize their digital habits and productivity patterns.&#xA;Get Started with RescueTime Understand and optimize your productivity with automatic tracking. Visit rescuetime.com to build better digital habits and work patterns.&#xA;Key Features • Automatic digital activity tracking - Seamless monitoring of applications, websites, and digital activities without manual input • Productivity scoring and analytics - Intelligent categorization with productivity scoring and detailed time usage analysis • Goal setting and achievement tracking - Personal productivity goals with progress monitoring and achievement insights • FocusTime distraction blocking - Website and application blocking during focused work periods • Detailed reporting and trends - Comprehensive analytics with productivity trends and behavior pattern analysis • Team and organization insights - Collective productivity analytics with privacy protection and team performance visibility • Integration and alerts - Smart notifications with integration options for enhanced productivity workflow • Cross-platform tracking - Multi-device monitoring with seamless synchronization across all work environments</description>
+    </item>
+  </channel>
+</rss>

@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ecommerce-platforms on ToolChest</title><link>https://toolchest.pro/tags/ecommerce-platforms/</link><description>Recent content in ecommerce-platforms on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/ecommerce-platforms/index.xml" rel="self" type="application/rss+xml"/><item><title>BigCommerce</title><link>https://toolchest.pro/categories/bigcommerce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/bigcommerce/</guid><description>BigCommerce is the enterprise-grade e-commerce platform built for businesses that need to scale without limits.
-Unlike Shopify&amp;rsquo;s transaction fees or WooCommerce&amp;rsquo;s hosting headaches, BigCommerce provides enterprise features at any size with no transaction fees and built-in scalability.
-Enterprise advantages:
-No transaction fees - Keep more of your revenue as you grow Unlimited bandwidth - Handle traffic spikes without extra costs Advanced SEO - Built-in tools that outperform competitors API-first architecture - Integrate with any system or service Key features:</description></item><item><title>Shopify</title><link>https://toolchest.pro/categories/shopify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/shopify/</guid><description>Shopify is the world&amp;rsquo;s leading e-commerce platform, powering over 1.7 million businesses worldwide.
-From startup entrepreneurs to enterprise brands, Shopify provides everything needed to build, manage, and scale an online store.
-Core features:
-Professional store design with customizable themes Complete product and inventory management Integrated payment processing and shipping Multi-channel selling (online, social, in-person) Advanced analytics and reporting Mobile-responsive checkout Why businesses choose Shopify:
-Massive app ecosystem - 6,000+ apps for any functionality Proven scalability - Handles traffic spikes and growth seamlessly Built-in payments - Accept 100+ payment methods globally 24/7 support - Expert help whenever you need it Perfect for anyone serious about e-commerce, from dropshippers launching their first store to established brands expanding online.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecommerce-platforms on ToolChest</title>
+    <link>https://toolchest.pro/tags/ecommerce-platforms/</link>
+    <description>Recent content in ecommerce-platforms on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/ecommerce-platforms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BigCommerce</title>
+      <link>https://toolchest.pro/categories/bigcommerce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/bigcommerce/</guid>
+      <description>BigCommerce is the enterprise-grade e-commerce platform built for businesses that need to scale without limits.&#xA;Unlike Shopify&amp;rsquo;s transaction fees or WooCommerce&amp;rsquo;s hosting headaches, BigCommerce provides enterprise features at any size with no transaction fees and built-in scalability.&#xA;Enterprise advantages:&#xA;No transaction fees - Keep more of your revenue as you grow Unlimited bandwidth - Handle traffic spikes without extra costs Advanced SEO - Built-in tools that outperform competitors API-first architecture - Integrate with any system or service Key features:</description>
+    </item>
+    <item>
+      <title>ReferralCandy</title>
+      <link>https://toolchest.pro/categories/referralcandy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/referralcandy/</guid>
+      <description>ReferralCandy is the automated referral marketing platform that helps e-commerce businesses grow through customer word-of-mouth and referral programs.&#xA;Built specifically for online stores, ReferralCandy makes it easy to set up and manage referral campaigns that turn happy customers into brand advocates.&#xA;Referral program features:&#xA;Automated referral tracking - Track referrals and rewards automatically Customizable rewards - Cash, store credit, discounts, or products Branded experience - Custom referral pages matching your brand Multi-channel promotion - Email, social media, and on-site widgets Fraud protection - Advanced security to prevent referral abuse Performance analytics - Detailed reporting on program performance Core capabilities:</description>
+    </item>
+    <item>
+      <title>Shopify</title>
+      <link>https://toolchest.pro/categories/shopify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/shopify/</guid>
+      <description>Shopify is the world&amp;rsquo;s leading e-commerce platform, powering over 1.7 million businesses worldwide.&#xA;From startup entrepreneurs to enterprise brands, Shopify provides everything needed to build, manage, and scale an online store.&#xA;Core features:&#xA;Professional store design with customizable themes Complete product and inventory management Integrated payment processing and shipping Multi-channel selling (online, social, in-person) Advanced analytics and reporting Mobile-responsive checkout Why businesses choose Shopify:&#xA;Massive app ecosystem - 6,000+ apps for any functionality Proven scalability - Handles traffic spikes and growth seamlessly Built-in payments - Accept 100+ payment methods globally 24/7 support - Expert help whenever you need it Perfect for anyone serious about e-commerce, from dropshippers launching their first store to established brands expanding online.</description>
+    </item>
+  </channel>
+</rss>

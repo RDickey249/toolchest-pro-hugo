@@ -1,2 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sales-outreach-tools on ToolChest</title><link>https://toolchest.pro/tags/sales-outreach-tools/</link><description>Recent content in sales-outreach-tools on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/sales-outreach-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Hunter.io</title><link>https://toolchest.pro/categories/hunter.io/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/hunter.io/</guid><description>Hunter.io helps sales teams find and verify professional email addresses with remarkable accuracy. Used by over 4 million professionals, it&amp;rsquo;s the go-to tool for building qualified prospect lists without the guesswork.
-Key Features Domain Search: Enter any company domain to instantly find email addresses of employees Email Finder: Search for specific people by name and company to get their verified email Bulk Verification: Clean your existing email lists to improve deliverability rates Chrome Extension: Find emails directly from LinkedIn profiles and company websites API Access: Integrate email finding into your existing workflows and tools Why Sales Teams Choose Hunter.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sales-outreach-tools on ToolChest</title>
+    <link>https://toolchest.pro/tags/sales-outreach-tools/</link>
+    <description>Recent content in sales-outreach-tools on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/sales-outreach-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hunter.io</title>
+      <link>https://toolchest.pro/categories/hunter.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/hunter.io/</guid>
+      <description>Hunter.io helps sales teams find and verify professional email addresses with remarkable accuracy. Used by over 4 million professionals, it&amp;rsquo;s the go-to tool for building qualified prospect lists without the guesswork.&#xA;Key Features Domain Search: Enter any company domain to instantly find email addresses of employees Email Finder: Search for specific people by name and company to get their verified email Bulk Verification: Clean your existing email lists to improve deliverability rates Chrome Extension: Find emails directly from LinkedIn profiles and company websites API Access: Integrate email finding into your existing workflows and tools Why Sales Teams Choose Hunter.</description>
+    </item>
+    <item>
+      <title>Lemlist</title>
+      <link>https://toolchest.pro/categories/lemlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/lemlist/</guid>
+      <description>Lemlist is the personalized cold outreach platform that helps sales teams create highly customized email campaigns that actually get responses.&#xA;What sets Lemlist apart is its focus on personalization at scale - enabling you to send thousands of emails that feel individually crafted for each recipient.&#xA;Personalization features:&#xA;Custom images and GIFs - Add personalized visuals to emails Dynamic landing pages - Create custom pages for each prospect Video personalization - Record custom videos for high-value prospects Liquid syntax - Advanced personalization with custom variables AI writing assistant - Generate personalized email content Multichannel sequences - Combine email, LinkedIn, and calls Core capabilities:</description>
+    </item>
+    <item>
+      <title>Saleshandy</title>
+      <link>https://toolchest.pro/categories/saleshandy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/saleshandy/</guid>
+      <description>Saleshandy is the cold email outreach platform that helps sales teams and agencies scale their prospecting efforts with automated sequences and deliverability optimization.&#xA;Built for high-volume cold outreach, Saleshandy provides the tools needed to run successful email campaigns that land in inboxes and generate responses.&#xA;Core outreach features:&#xA;Automated email sequences - Multi-step follow-up campaigns Personalization at scale - Dynamic fields and custom variables Email deliverability optimization - Warm-up and reputation management A/B testing - Test subject lines, content, and send times Response management - Track replies and manage conversations Team collaboration - Share templates and coordinate outreach Key capabilities:</description>
+    </item>
+  </channel>
+</rss>

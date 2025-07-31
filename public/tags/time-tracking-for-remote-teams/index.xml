@@ -1,3 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>time-tracking-for-remote-teams on ToolChest</title><link>https://toolchest.pro/tags/time-tracking-for-remote-teams/</link><description>Recent content in time-tracking-for-remote-teams on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/time-tracking-for-remote-teams/index.xml" rel="self" type="application/rss+xml"/><item><title>DeskTime</title><link>https://toolchest.pro/categories/desktime/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/desktime/</guid><description>DeskTime automatically tracks time and analyzes productivity without any manual input required. Start working, and DeskTime runs quietly in the background, categorizing your activities and providing detailed insights into how time is actually spent.
-Used by companies like Samsung, Porsche, and IBM, DeskTime helps teams understand their work patterns and identify opportunities for improved efficiency. It&amp;rsquo;s particularly valuable for remote teams that need visibility into productivity.
-Key Features Automatic Tracking: No timers to start/stop - just work normally Productivity Analysis: See which apps and websites help or hurt productivity Efficiency Reports: Detailed breakdowns of productive vs.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time-tracking-for-remote-teams on ToolChest</title>
+    <link>https://toolchest.pro/tags/time-tracking-for-remote-teams/</link>
+    <description>Recent content in time-tracking-for-remote-teams on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/time-tracking-for-remote-teams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeskTime</title>
+      <link>https://toolchest.pro/categories/desktime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/desktime/</guid>
+      <description>DeskTime automatically tracks time and analyzes productivity without any manual input required. Start working, and DeskTime runs quietly in the background, categorizing your activities and providing detailed insights into how time is actually spent.&#xA;Used by companies like Samsung, Porsche, and IBM, DeskTime helps teams understand their work patterns and identify opportunities for improved efficiency. It&amp;rsquo;s particularly valuable for remote teams that need visibility into productivity.&#xA;Key Features Automatic Tracking: No timers to start/stop - just work normally Productivity Analysis: See which apps and websites help or hurt productivity Efficiency Reports: Detailed breakdowns of productive vs.</description>
+    </item>
+  </channel>
+</rss>

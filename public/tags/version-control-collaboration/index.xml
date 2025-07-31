@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>version-control-collaboration on ToolChest</title><link>https://toolchest.pro/tags/version-control-collaboration/</link><description>Recent content in version-control-collaboration on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/version-control-collaboration/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub</title><link>https://toolchest.pro/categories/github/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/github/</guid><description>GitHub is the world&amp;rsquo;s largest code hosting platform and the social network for developers, home to over 100 million repositories and 83 million developers.
-More than just Git hosting, GitHub has become the central hub for open-source development, team collaboration, and modern DevOps workflows.
-What makes GitHub essential:
-Git hosting - Unlimited public and private repositories with full version control Pull requests - Industry-standard code review and collaboration workflow Issues &amp;amp; project management - Track bugs, features, and organize work GitHub Actions - Powerful CI/CD automation directly integrated with your code Core collaboration features:</description></item><item><title>GitLab</title><link>https://toolchest.pro/categories/gitlab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/gitlab/</guid><description>GitLab is a comprehensive DevOps platform that integrates Git repository management, CI/CD pipelines, security scanning, and project management in a single application.
-Key Features Complete DevOps platform - All development tools in one integrated solution Built-in CI/CD - Automated pipelines for testing, building, and deployment Security scanning - Integrated vulnerability and compliance testing Container registry - Built-in Docker image storage and management Issue tracking - Project management with boards and milestones Merge requests - Advanced code review with approval workflows Wiki and documentation - Built-in knowledge management Self-hosted options - Deploy on-premises or in the cloud Use Cases Complete DevOps transformation and implementation Organizations eliminating tool sprawl Teams requiring integrated CI/CD and security Self-hosted Git repository management Enterprise development with compliance needs Get Started with GitLab Implement complete DevOps with integrated development platform.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>version-control-collaboration on ToolChest</title>
+    <link>https://toolchest.pro/tags/version-control-collaboration/</link>
+    <description>Recent content in version-control-collaboration on ToolChest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://toolchest.pro/tags/version-control-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub</title>
+      <link>https://toolchest.pro/categories/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/github/</guid>
+      <description>GitHub is the world&amp;rsquo;s largest code hosting platform and the social network for developers, home to over 100 million repositories and 83 million developers.&#xA;More than just Git hosting, GitHub has become the central hub for open-source development, team collaboration, and modern DevOps workflows.&#xA;What makes GitHub essential:&#xA;Git hosting - Unlimited public and private repositories with full version control Pull requests - Industry-standard code review and collaboration workflow Issues &amp;amp; project management - Track bugs, features, and organize work GitHub Actions - Powerful CI/CD automation directly integrated with your code Core collaboration features:</description>
+    </item>
+    <item>
+      <title>GitLab</title>
+      <link>https://toolchest.pro/categories/gitlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/gitlab/</guid>
+      <description>GitLab is a comprehensive DevOps platform that integrates Git repository management, CI/CD pipelines, security scanning, and project management in a single application.&#xA;Key Features Complete DevOps platform - All development tools in one integrated solution Built-in CI/CD - Automated pipelines for testing, building, and deployment Security scanning - Integrated vulnerability and compliance testing Container registry - Built-in Docker image storage and management Issue tracking - Project management with boards and milestones Merge requests - Advanced code review with approval workflows Wiki and documentation - Built-in knowledge management Self-hosted options - Deploy on-premises or in the cloud Use Cases Complete DevOps transformation and implementation Organizations eliminating tool sprawl Teams requiring integrated CI/CD and security Self-hosted Git repository management Enterprise development with compliance needs Get Started with GitLab Implement complete DevOps with integrated development platform.</description>
+    </item>
+  </channel>
+</rss>
