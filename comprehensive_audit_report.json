@@ -1,0 +1,954 @@
+{
+  "summary": {
+    "total_tools": 1296,
+    "total_categories": 141,
+    "total_broken_urls": 27,
+    "broken_percentage": 2.08,
+    "total_duplicates": 481,
+    "url_patterns_detected": 537
+  },
+  "category_breakdown": [
+    {
+      "category": "ai-code-development",
+      "total_tools": 7,
+      "broken_urls": 1,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 14.285714285714285
+    },
+    {
+      "category": "skill-development",
+      "total_tools": 10,
+      "broken_urls": 1,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 10.0
+    },
+    {
+      "category": "password-management",
+      "total_tools": 10,
+      "broken_urls": 1,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 10.0
+    },
+    {
+      "category": "education-tutoring",
+      "total_tools": 17,
+      "broken_urls": 1,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 5.88235294117647
+    },
+    {
+      "category": "performance-testing",
+      "total_tools": 9,
+      "broken_urls": 0,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 0.0
+    },
+    {
+      "category": "software-testing-frameworks",
+      "total_tools": 10,
+      "broken_urls": 0,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 0.0
+    },
+    {
+      "category": "ab-testing-optimization",
+      "total_tools": 8,
+      "broken_urls": 0,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 0.0
+    },
+    {
+      "category": "api-testing-tools",
+      "total_tools": 8,
+      "broken_urls": 0,
+      "suspicious_urls": 1,
+      "missing_descriptions": 0,
+      "broken_percentage": 0.0
+    },
+    {
+      "category": "audio-generation-editing",
+      "total_tools": 13,
+      "broken_urls": 0,
+      "suspicious_urls": 1,
+      "missing_descriptions": 0,
+      "broken_percentage": 0.0
+    },
+    {
+      "category": "podcast-production",
+      "total_tools": 1,
+      "broken_urls": 0,
+      "suspicious_urls": 0,
+      "missing_descriptions": 0,
+      "broken_percentage": 0.0
+    }
+  ],
+  "priority_fixes": [
+    {
+      "priority": 1,
+      "type": "broken_url",
+      "tool": "studygpt",
+      "category": "education-tutoring",
+      "issue": "Connection Error - https://studygpt.ai",
+      "suggested_fix": "https://www.studygpt.com",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/education-learning-tools/education-tutoring/studygpt.md"
+    },
+    {
+      "priority": 1,
+      "type": "broken_url",
+      "tool": "project-euler",
+      "category": "skill-development",
+      "issue": "Connection Error - https://projecteuler.com",
+      "suggested_fix": "https://www.projecteuler.com",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/learning-development/skill-development/project-euler.md"
+    },
+    {
+      "priority": 1,
+      "type": "broken_url",
+      "tool": "mutable-ai",
+      "category": "ai-code-development",
+      "issue": "Connection Error - https://www.mutable.ai",
+      "suggested_fix": "https://www.mutableai.com",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/ai-tools-assistants/ai-code-development/mutable-ai.md"
+    },
+    {
+      "priority": 1,
+      "type": "broken_url",
+      "tool": "keepass",
+      "category": "password-management",
+      "issue": "Connection Error - https://keepass.com",
+      "suggested_fix": "https://www.keepass.com",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/security-privacy-tools/password-management/keepass.md"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "gatling",
+          "title": "Gatling",
+          "category": "performance-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/performance-testing/gatling.md"
+        },
+        {
+          "name": "gatling",
+          "title": "Gatling",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/gatling.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "junit",
+          "title": "JUnit",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/junit.md"
+        },
+        {
+          "name": "junit",
+          "title": "JUnit",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/junit.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "cypress",
+          "title": "Cypress",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/cypress.md"
+        },
+        {
+          "name": "cypress",
+          "title": "Cypress",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/cypress.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "selenium",
+          "title": "Selenium",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/selenium.md"
+        },
+        {
+          "name": "selenium",
+          "title": "Selenium",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/selenium.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "testng",
+          "title": "TestNG",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/testng.md"
+        },
+        {
+          "name": "testng",
+          "title": "TestNG",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/testng.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "jest",
+          "title": "Jest",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jest.md"
+        },
+        {
+          "name": "jest",
+          "title": "Jest",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jest.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "jasmine",
+          "title": "Jasmine",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jasmine.md"
+        },
+        {
+          "name": "jasmine",
+          "title": "Jasmine",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jasmine.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "playwright",
+          "title": "Playwright",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/playwright.md"
+        },
+        {
+          "name": "playwright",
+          "title": "Playwright",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/playwright.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "mocha",
+          "title": "Mocha",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/mocha.md"
+        },
+        {
+          "name": "mocha",
+          "title": "Mocha",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/mocha.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "ab-testing-optimization",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/ab-testing-optimization/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "analytics-insights",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/marketing-social-media/analytics-insights/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "user-research-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/research-survey/user-research-testing/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "web-analytics",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/hotjar.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "amplitude",
+          "title": "Amplitude",
+          "category": "ab-testing-optimization",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/ab-testing-optimization/amplitude.md"
+        },
+        {
+          "name": "amplitude",
+          "title": "Amplitude",
+          "category": "web-analytics",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/amplitude.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "fullstory",
+          "title": "FullStory",
+          "category": "ab-testing-optimization",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/ab-testing-optimization/fullstory.md"
+        },
+        {
+          "name": "fullstory",
+          "title": "FullStory",
+          "category": "user-research-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/research-survey/user-research-testing/fullstory.md"
+        },
+        {
+          "name": "fullstory",
+          "title": "FullStory",
+          "category": "web-analytics",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/fullstory.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "soapui",
+          "title": "SoapUI",
+          "category": "api-testing-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/api-testing-tools/soapui.md"
+        },
+        {
+          "name": "soapui",
+          "title": "SoapUI",
+          "category": "api-design-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/api-design-testing/soapui.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "insomnia",
+          "title": "Insomnia",
+          "category": "api-testing-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/api-testing-tools/insomnia.md"
+        },
+        {
+          "name": "insomnia",
+          "title": "Insomnia",
+          "category": "api-design-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/api-design-testing/insomnia.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "postman",
+          "title": "Postman",
+          "category": "api-testing-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/api-testing-tools/postman.md"
+        },
+        {
+          "name": "postman",
+          "title": "Postman",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/postman.md"
+        },
+        {
+          "name": "postman",
+          "title": "Postman",
+          "category": "api-design-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/api-design-testing/postman.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    },
+    {
+      "priority": 1,
+      "type": "duplicate",
+      "issue": "Duplicate tools detected: title_similarity",
+      "tools": [
+        {
+          "name": "cleanvoice",
+          "title": "Cleanvoice",
+          "category": "audio-generation-editing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/video-audio-tools/audio-generation-editing/cleanvoice.md"
+        },
+        {
+          "name": "cleanvoice",
+          "title": "Cleanvoice",
+          "category": "video-creation-editing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/video-audio-tools/video-creation-editing/cleanvoice.md"
+        }
+      ],
+      "suggested_fix": "Consolidate or differentiate these tools"
+    }
+  ],
+  "duplicate_analysis": [
+    {
+      "type": "title_similarity",
+      "key": "gatling",
+      "tools": [
+        {
+          "name": "gatling",
+          "title": "Gatling",
+          "category": "performance-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/performance-testing/gatling.md"
+        },
+        {
+          "name": "gatling",
+          "title": "Gatling",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/gatling.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "junit",
+      "tools": [
+        {
+          "name": "junit",
+          "title": "JUnit",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/junit.md"
+        },
+        {
+          "name": "junit",
+          "title": "JUnit",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/junit.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "cypress",
+      "tools": [
+        {
+          "name": "cypress",
+          "title": "Cypress",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/cypress.md"
+        },
+        {
+          "name": "cypress",
+          "title": "Cypress",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/cypress.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "selenium",
+      "tools": [
+        {
+          "name": "selenium",
+          "title": "Selenium",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/selenium.md"
+        },
+        {
+          "name": "selenium",
+          "title": "Selenium",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/selenium.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "testng",
+      "tools": [
+        {
+          "name": "testng",
+          "title": "TestNG",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/testng.md"
+        },
+        {
+          "name": "testng",
+          "title": "TestNG",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/testng.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "jest",
+      "tools": [
+        {
+          "name": "jest",
+          "title": "Jest",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jest.md"
+        },
+        {
+          "name": "jest",
+          "title": "Jest",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jest.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "jasmine",
+      "tools": [
+        {
+          "name": "jasmine",
+          "title": "Jasmine",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jasmine.md"
+        },
+        {
+          "name": "jasmine",
+          "title": "Jasmine",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jasmine.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "playwright",
+      "tools": [
+        {
+          "name": "playwright",
+          "title": "Playwright",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/playwright.md"
+        },
+        {
+          "name": "playwright",
+          "title": "Playwright",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/playwright.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "mocha",
+      "tools": [
+        {
+          "name": "mocha",
+          "title": "Mocha",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/mocha.md"
+        },
+        {
+          "name": "mocha",
+          "title": "Mocha",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/mocha.md"
+        }
+      ]
+    },
+    {
+      "type": "title_similarity",
+      "key": "hotjar",
+      "tools": [
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "ab-testing-optimization",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/ab-testing-optimization/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "analytics-insights",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/marketing-social-media/analytics-insights/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "user-research-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/research-survey/user-research-testing/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "web-analytics",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/hotjar.md"
+        }
+      ]
+    }
+  ],
+  "url_pattern_analysis": {
+    "simple_patterns": [
+      {
+        "tool": "k6",
+        "url": "https://k6.io",
+        "pattern": "k6.io"
+      },
+      {
+        "tool": "gatling",
+        "url": "https://gatling.io",
+        "pattern": "gatling.io"
+      },
+      {
+        "tool": "gtmetrix",
+        "url": "https://gtmetrix.com",
+        "pattern": "gtmetrix.com"
+      },
+      {
+        "tool": "jmeter",
+        "url": "https://jmeter.apache.org",
+        "pattern": "jmeter.org"
+      },
+      {
+        "tool": "pytest",
+        "url": "https://pytest.org",
+        "pattern": "pytest.org"
+      },
+      {
+        "tool": "junit",
+        "url": "https://junit.org/junit5/",
+        "pattern": "junit.org"
+      },
+      {
+        "tool": "testng",
+        "url": "https://testng.org",
+        "pattern": "testng.org"
+      },
+      {
+        "tool": "jasmine",
+        "url": "https://jasmine.github.io",
+        "pattern": "jasmine.io"
+      },
+      {
+        "tool": "rspec",
+        "url": "https://rspec.info",
+        "pattern": "rspec.info"
+      },
+      {
+        "tool": "playwright",
+        "url": "https://playwright.dev",
+        "pattern": "playwright.dev"
+      },
+      {
+        "tool": "unbounce",
+        "url": "https://unbounce.com",
+        "pattern": "unbounce.com"
+      },
+      {
+        "tool": "vwo",
+        "url": "https://vwo.com",
+        "pattern": "vwo.com"
+      },
+      {
+        "tool": "amplitude",
+        "url": "https://amplitude.com",
+        "pattern": "amplitude.com"
+      },
+      {
+        "tool": "insomnia",
+        "url": "https://insomnia.rest",
+        "pattern": "insomnia.rest"
+      },
+      {
+        "tool": "httpie",
+        "url": "https://httpie.io",
+        "pattern": "httpie.io"
+      },
+      {
+        "tool": "paw",
+        "url": "https://paw.cloud",
+        "pattern": "paw.cloud"
+      },
+      {
+        "tool": "cleanvoice",
+        "url": "https://cleanvoice.ai",
+        "pattern": "cleanvoice.ai"
+      },
+      {
+        "tool": "alitu",
+        "url": "https://alitu.com",
+        "pattern": "alitu.com"
+      },
+      {
+        "tool": "elevenlabs",
+        "url": "https://elevenlabs.io",
+        "pattern": "elevenlabs.io"
+      },
+      {
+        "tool": "speechify",
+        "url": "https://speechify.com",
+        "pattern": "speechify.com"
+      }
+    ]
+  },
+  "top_broken_links": [
+    {
+      "tool": "studygpt",
+      "title": "StudyGPT",
+      "category": "education-tutoring",
+      "url": "https://studygpt.ai",
+      "status": -2,
+      "message": "Connection Error",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/education-learning-tools/education-tutoring/studygpt.md"
+    },
+    {
+      "tool": "project-euler",
+      "title": "Project Euler",
+      "category": "skill-development",
+      "url": "https://projecteuler.com",
+      "status": -2,
+      "message": "Connection Error",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/learning-development/skill-development/project-euler.md"
+    },
+    {
+      "tool": "mutable-ai",
+      "title": "Mutable.ai",
+      "category": "ai-code-development",
+      "url": "https://www.mutable.ai",
+      "status": -2,
+      "message": "Connection Error",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/ai-tools-assistants/ai-code-development/mutable-ai.md"
+    },
+    {
+      "tool": "keepass",
+      "title": "KeePass",
+      "category": "password-management",
+      "url": "https://keepass.com",
+      "status": -2,
+      "message": "Connection Error",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/security-privacy-tools/password-management/keepass.md"
+    },
+    {
+      "tool": "vyond",
+      "title": "Vyond",
+      "category": "video-animation",
+      "url": "https://www.vyond.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/design-creative-tools/video-animation/vyond.md"
+    },
+    {
+      "tool": "glassdoor",
+      "title": "Glassdoor",
+      "category": "job-posting-sourcing",
+      "url": "https://www.glassdoor.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/hr-recruiting-tools/job-posting-sourcing/glassdoor.md"
+    },
+    {
+      "tool": "gusto",
+      "title": "Gusto",
+      "category": "hr-management-platforms",
+      "url": "https://gusto.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/hr-recruiting-tools/hr-management-platforms/gusto.md"
+    },
+    {
+      "tool": "quillbot",
+      "title": "Quillbot",
+      "category": "creative-writing",
+      "url": "https://quillbot.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/education-learning-tools/creative-writing/quillbot.md"
+    },
+    {
+      "tool": "soapui",
+      "title": "SoapUI",
+      "category": "api-testing-tools",
+      "url": "https://www.smartbear.com/product/soapui/",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/api-testing-tools/soapui.md"
+    },
+    {
+      "tool": "abukai",
+      "title": "Abukai",
+      "category": "expense-management",
+      "url": "https://www.abukai.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/finance-accounting/expense-management/abukai.md"
+    },
+    {
+      "tool": "myob",
+      "title": "MYOB",
+      "category": "accounting-software",
+      "url": "https://www.myob.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/finance-accounting/accounting-software/myob.md"
+    },
+    {
+      "tool": "constant-contact",
+      "title": "Constant Contact",
+      "category": "email-marketing-automation",
+      "url": "https://www.constantcontact.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/crm-sales-tools/email-marketing-automation/constant-contact.md"
+    },
+    {
+      "tool": "usercentrics",
+      "title": "Usercentrics",
+      "category": "privacy-compliance",
+      "url": "https://usercentrics.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/legal-compliance-tools/privacy-compliance/usercentrics.md"
+    },
+    {
+      "tool": "constant-contact",
+      "title": "Constant Contact",
+      "category": "marketing-automation",
+      "url": "https://www.constantcontact.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/business-marketing-tools/marketing-automation/constant-contact.md"
+    },
+    {
+      "tool": "gamma",
+      "title": "Gamma",
+      "category": "presentation-tools",
+      "url": "https://gamma.app",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/business-marketing-tools/presentation-tools/gamma.md"
+    },
+    {
+      "tool": "activtrak",
+      "title": "ActivTrak",
+      "category": "employee-monitoring",
+      "url": "https://www.activtrak.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/time-tracking-scheduling/employee-monitoring/activtrak.md"
+    },
+    {
+      "tool": "activtrak",
+      "title": "ActivTrak",
+      "category": "time-tracking-analytics",
+      "url": "https://www.activtrak.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/time-tracking-scheduling/time-tracking-analytics/activtrak.md"
+    },
+    {
+      "tool": "mhelpdesk",
+      "title": "mHelpDesk",
+      "category": "time-tracking-for-field-services",
+      "url": "https://mhelpdesk.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/time-tracking-scheduling/time-tracking-for-field-services/mhelpdesk.md"
+    },
+    {
+      "tool": "timesolv-legal",
+      "title": "TimeSolv (Legal)",
+      "category": "time-tracking-for-legal-professionals",
+      "url": "https://www.timesolv.com",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/time-tracking-scheduling/time-tracking-for-legal-professionals/timesolv-legal.md"
+    },
+    {
+      "tool": "wirecast",
+      "title": "Wirecast",
+      "category": "video-streaming-production",
+      "url": "https://www.telestream.net/wirecast",
+      "status": 403,
+      "message": "HTTP 403",
+      "file_path": "/home/yan/toolchest-pro-hugo/content/categories/media-entertainment-tools/video-streaming-production/wirecast.md"
+    }
+  ]
+}

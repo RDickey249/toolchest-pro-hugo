@@ -1,0 +1,57 @@
+[
+  {
+    "tool": "studygpt",
+    "original_url": "https://studygpt.ai",
+    "original_status": -2,
+    "original_message": "Connection Error",
+    "suggested_urls": [
+      "studygpt.ai",
+      "study-gpt.com",
+      "studygpt.com"
+    ],
+    "working_urls": [
+      "study-gpt.com"
+    ],
+    "file_path": "/home/yan/toolchest-pro-hugo/content/categories/education-learning-tools/education-tutoring/studygpt.md"
+  },
+  {
+    "tool": "project-euler",
+    "original_url": "https://projecteuler.com",
+    "original_status": -2,
+    "original_message": "Connection Error",
+    "suggested_urls": [
+      "projecteuler.net"
+    ],
+    "working_urls": [
+      "projecteuler.net"
+    ],
+    "file_path": "/home/yan/toolchest-pro-hugo/content/categories/learning-development/skill-development/project-euler.md"
+  },
+  {
+    "tool": "mutable-ai",
+    "original_url": "https://www.mutable.ai",
+    "original_status": -2,
+    "original_message": "Connection Error",
+    "suggested_urls": [
+      "mutable.ai",
+      "www.mutable.ai"
+    ],
+    "working_urls": [],
+    "file_path": "/home/yan/toolchest-pro-hugo/content/categories/ai-tools-assistants/ai-code-development/mutable-ai.md"
+  },
+  {
+    "tool": "keepass",
+    "original_url": "https://keepass.com",
+    "original_status": -2,
+    "original_message": "Connection Error",
+    "suggested_urls": [
+      "keepass.info",
+      "keepass.sourceforge.io"
+    ],
+    "working_urls": [
+      "keepass.info",
+      "keepass.sourceforge.io"
+    ],
+    "file_path": "/home/yan/toolchest-pro-hugo/content/categories/security-privacy-tools/password-management/keepass.md"
+  }
+]

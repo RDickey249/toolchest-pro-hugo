@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <link rel="stylesheet" href="/css/search.css">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -471,10 +472,11 @@
         
         async function loadSearchIndex() {
             try {
-                // Try to load Hugo's search index
-                const response = await fetch('/index.json');
+                // Load the ToolChest search index
+                const response = await fetch('/search-index.json');
                 if (response.ok) {
                     siteIndex = await response.json();
+                    console.log(`Search index loaded: ${siteIndex.length} tools`);
                 } else {
                     // Fallback: create basic index from current page
                     createBasicIndex();
@@ -520,17 +522,40 @@
             const lowercaseQuery = query.toLowerCase();
             const results = [];
             
-            // Search through site index
-            siteIndex.forEach(item => {
-                const titleMatch = item.title.toLowerCase().includes(lowercaseQuery);
-                const contentMatch = item.content.toLowerCase().includes(lowercaseQuery);
+            // Search through ToolChest search index
+            siteIndex.forEach(tool => {
+                let score = 0;
                 
-                if (titleMatch || contentMatch) {
-                    const relevance = titleMatch ? 10 : 5;
+                // Title match (highest priority)
+                if (tool.title && tool.title.toLowerCase().includes(lowercaseQuery)) {
+                    score += 10;
+                }
+                
+                // Category match
+                if (tool.category && tool.category.toLowerCase().includes(lowercaseQuery)) {
+                    score += 5;
+                }
+                
+                // Tagline match
+                if (tool.tagline && tool.tagline.toLowerCase().includes(lowercaseQuery)) {
+                    score += 3;
+                }
+                
+                // Tags match
+                if (tool.tags && tool.tags.some(tag => tag.toLowerCase().includes(lowercaseQuery))) {
+                    score += 4;
+                }
+                
+                if (score > 0) {
                     results.push({
-                        ...item,
-                        relevance,
-                        snippet: createSnippet(item.content, query)
+                        title: tool.title,
+                        content: tool.tagline || tool.title,
+                        url: tool.url,
+                        type: tool.category,
+                        external_url: tool.external_url,
+                        subcategory: tool.subcategory,
+                        relevance: score,
+                        snippet: createSnippet(tool.tagline || tool.title, query)
                     });
                 }
             });
@@ -625,5 +650,6 @@
             // 5. External APIs (ProductHunt, etc.)
         }
     </script>
+    <script src="/js/search.js"></script>
 </body>
 </html>

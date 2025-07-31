@@ -1,0 +1,424 @@
+{
+  "summary": {
+    "total_duplicates": 10,
+    "cross_category": 10,
+    "same_category": 0,
+    "duplicate_types": {
+      "title_similarity": 10
+    }
+  },
+  "priority_duplicates": [
+    {
+      "key": "gatling",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "gatling",
+          "title": "Gatling",
+          "category": "performance-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/performance-testing/gatling.md"
+        },
+        {
+          "name": "gatling",
+          "title": "Gatling",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/gatling.md"
+        }
+      ],
+      "categories": [
+        "testing-qa-tools",
+        "performance-testing"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "junit",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "junit",
+          "title": "JUnit",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/junit.md"
+        },
+        {
+          "name": "junit",
+          "title": "JUnit",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/junit.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "cypress",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "cypress",
+          "title": "Cypress",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/cypress.md"
+        },
+        {
+          "name": "cypress",
+          "title": "Cypress",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/cypress.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "selenium",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "selenium",
+          "title": "Selenium",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/selenium.md"
+        },
+        {
+          "name": "selenium",
+          "title": "Selenium",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/selenium.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "testng",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "testng",
+          "title": "TestNG",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/testng.md"
+        },
+        {
+          "name": "testng",
+          "title": "TestNG",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/testng.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "jest",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "jest",
+          "title": "Jest",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jest.md"
+        },
+        {
+          "name": "jest",
+          "title": "Jest",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jest.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "jasmine",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "jasmine",
+          "title": "Jasmine",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jasmine.md"
+        },
+        {
+          "name": "jasmine",
+          "title": "Jasmine",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jasmine.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "playwright",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "playwright",
+          "title": "Playwright",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/playwright.md"
+        },
+        {
+          "name": "playwright",
+          "title": "Playwright",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/playwright.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "mocha",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "mocha",
+          "title": "Mocha",
+          "category": "software-testing-frameworks",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/mocha.md"
+        },
+        {
+          "name": "mocha",
+          "title": "Mocha",
+          "category": "testing-qa-tools",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/mocha.md"
+        }
+      ],
+      "categories": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    },
+    {
+      "key": "hotjar",
+      "type": "title_similarity",
+      "tools": [
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "ab-testing-optimization",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/ab-testing-optimization/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "analytics-insights",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/marketing-social-media/analytics-insights/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "user-research-testing",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/research-survey/user-research-testing/hotjar.md"
+        },
+        {
+          "name": "hotjar",
+          "title": "Hotjar",
+          "category": "web-analytics",
+          "file_path": "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/hotjar.md"
+        }
+      ],
+      "categories": [
+        "ab-testing-optimization",
+        "user-research-testing",
+        "web-analytics",
+        "analytics-insights"
+      ],
+      "priority_score": 0,
+      "recommendation": "CONSOLIDATE - Exact duplicate titles, merge into one category"
+    }
+  ],
+  "consolidation_plan": [
+    {
+      "primary_tool": "gatling",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/performance-testing/gatling.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/gatling.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/gatling.md"
+      ],
+      "categories_affected": [
+        "testing-qa-tools",
+        "performance-testing"
+      ]
+    },
+    {
+      "primary_tool": "junit",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/junit.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/junit.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/junit.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "cypress",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/cypress.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/cypress.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/cypress.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "selenium",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/selenium.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/selenium.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/selenium.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "testng",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/testng.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/testng.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/testng.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "jest",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jest.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jest.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jest.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "jasmine",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/jasmine.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jasmine.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/jasmine.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "playwright",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/playwright.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/playwright.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/playwright.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "mocha",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/software-testing-frameworks/mocha.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/mocha.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/development-technical-tools/testing-qa-tools/mocha.md"
+      ],
+      "categories_affected": [
+        "software-testing-frameworks",
+        "testing-qa-tools"
+      ]
+    },
+    {
+      "primary_tool": "hotjar",
+      "keep_file": "/home/yan/toolchest-pro-hugo/content/categories/testing-quality-assurance/ab-testing-optimization/hotjar.md",
+      "merge_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/marketing-social-media/analytics-insights/hotjar.md",
+        "/home/yan/toolchest-pro-hugo/content/categories/research-survey/user-research-testing/hotjar.md",
+        "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/hotjar.md"
+      ],
+      "redirect_needed": true,
+      "redirect_files": [
+        "/home/yan/toolchest-pro-hugo/content/categories/marketing-social-media/analytics-insights/hotjar.md",
+        "/home/yan/toolchest-pro-hugo/content/categories/research-survey/user-research-testing/hotjar.md",
+        "/home/yan/toolchest-pro-hugo/content/categories/analytics-data-tools/web-analytics/hotjar.md"
+      ],
+      "categories_affected": [
+        "ab-testing-optimization",
+        "user-research-testing",
+        "web-analytics",
+        "analytics-insights"
+      ]
+    }
+  ]
+}
