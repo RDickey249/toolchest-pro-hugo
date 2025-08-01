@@ -1,6 +1,6 @@
 ---
 title: "ProWritingAid"
-tagline: "Ready to get started? Visit [ProWritingAid](https://prowritingaid.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit ProWritingAid to explore the platform and begin u..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

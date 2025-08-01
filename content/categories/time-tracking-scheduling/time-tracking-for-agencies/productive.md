@@ -1,6 +1,6 @@
 ---
 title: "Productive"
-tagline: "Ready to get started? Visit [Productive](https://productive.io) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Productive to explore the platform and begin usin..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Agencies"

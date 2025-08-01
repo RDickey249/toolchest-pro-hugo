@@ -1,6 +1,6 @@
 ---
 title: "Zoho Projects"
-tagline: "Ready to get started? Visit [Zoho Projects](https://zoho.com/projects) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Zoho Projects to explore the platform and begin u..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Project Time Tracking Tools"

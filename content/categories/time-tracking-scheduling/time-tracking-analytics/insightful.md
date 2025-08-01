@@ -1,6 +1,6 @@
 ---
 title: "Insightful"
-tagline: "Ready to get started? Visit [Insightful](https://www.insightful.io) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Insightful to explore the platform and begin usin..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking Analytics"

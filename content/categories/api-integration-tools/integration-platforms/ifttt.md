@@ -1,6 +1,6 @@
 ---
 title: "IFTTT"
-tagline: "Ready to get started? Visit [IFTTT](https://ifttt.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit IFTTT to explore the platform and begin using thi..."
 category: "API & Integration Tools"
 categories: ["API & Integration Tools"]
 subcategory: "Integration Platforms"

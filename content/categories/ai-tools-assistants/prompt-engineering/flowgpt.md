@@ -1,6 +1,6 @@
 ---
 title: "FlowGPT"
-tagline: "Discover and share the best AI prompts. Visit [flowgpt.com](https://flowgpt.com) to explore millions of community-tested prompts and accelerate your A..."
+tagline: "Discover and share the best AI prompts. Visit flowgpt.com to explore millions..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Prompt Engineering"

@@ -1,6 +1,6 @@
 ---
 title: "Mistral"
-tagline: "Ready to explore open-source AI models? Visit [Mistral AI](https://mistral.ai) to access powerful language models with full transparency, customizatio..."
+tagline: "Ready to explore open-source AI models? Visit Mistral AI to access powerful l..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

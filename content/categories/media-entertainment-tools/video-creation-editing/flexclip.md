@@ -1,6 +1,6 @@
 ---
 title: "FlexClip"
-tagline: "Ready to get started? Visit [FlexClip](https://www.flexclip.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit FlexClip to explore the platform and begin using ..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

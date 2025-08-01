@@ -1,6 +1,6 @@
 ---
 title: "Perplexity"
-tagline: "Ready to get started? Visit [Perplexity](https://www.perplexity.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Perplexity to explore the platform and begin usin..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

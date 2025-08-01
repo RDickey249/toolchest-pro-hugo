@@ -1,6 +1,6 @@
 ---
 title: "Buddy Punch"
-tagline: "Ready to get started? Visit [Buddy Punch](https://buddypunch.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Buddy Punch to explore the platform and begin usi..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Time Clock Tools"

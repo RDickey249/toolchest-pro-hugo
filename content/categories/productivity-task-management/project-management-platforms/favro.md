@@ -1,6 +1,6 @@
 ---
 title: "Favro"
-tagline: "Ready to get started? Visit [Favro](https://www.favro.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Favro to explore the platform and begin using thi..."
 category: "Productivity & Task Management"
 categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"

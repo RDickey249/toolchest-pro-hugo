@@ -1,6 +1,6 @@
 ---
 title: "Canva"
-tagline: "Design amazing presentations with ease. Visit [canva.com](https://www.canva.com) to start creating for free with millions of templates and AI-powered ..."
+tagline: "Design amazing presentations with ease and AI-powered tools"
 category: "Event Management Tools"
 categories: ["Event Management Tools"]
 subcategory: "Event Marketing Tools"

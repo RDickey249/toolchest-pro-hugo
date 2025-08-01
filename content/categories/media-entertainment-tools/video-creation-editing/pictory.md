@@ -1,6 +1,6 @@
 ---
 title: "Pictory"
-tagline: "Turn your blog posts into videos instantly. Visit [pictory.ai](https://pictory.ai) to start your free trial and transform text into compelling video c..."
+tagline: "Turn your blog posts into videos instantly. Visit pictory.ai to start your fr..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

@@ -1,6 +1,6 @@
 ---
 title: "Synthesia"
-tagline: "Create AI videos without cameras or actors. Visit [synthesia.io](https://www.synthesia.io) to start your free trial and transform text into profession..."
+tagline: "Create AI videos without cameras or actors. Visit synthesia.io to start your ..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "AI Design & Creative"

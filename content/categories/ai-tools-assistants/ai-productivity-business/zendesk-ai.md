@@ -1,6 +1,6 @@
 ---
 title: "Zendesk AI"
-tagline: "Ready to get started? Visit [Zendesk AI](https://www.zendesk.com/solutions/ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Zendesk AI to explore the platform and begin usin..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

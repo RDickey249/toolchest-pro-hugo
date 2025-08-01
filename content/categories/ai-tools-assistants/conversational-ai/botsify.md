@@ -1,6 +1,6 @@
 ---
 title: "Botsify"
-tagline: "[Build Your Bot with Botsify →](https://botsify.com)..."
+tagline: "Build Your Bot with Botsify →..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

@@ -1,6 +1,6 @@
 ---
 title: "Listnr"
-tagline: "Ready to get started? Visit [Listnr](https://www.listnr.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Listnr to explore the platform and begin using th..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"

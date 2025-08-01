@@ -1,6 +1,6 @@
 ---
 title: "TimeClock Plus"
-tagline: "Ready to get started? Visit [TimeClock Plus](https://www.timeclockplus.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit TimeClock Plus to explore the platform and begin ..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Clock Punch In"

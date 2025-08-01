@@ -1,6 +1,6 @@
 ---
 title: "INK"
-tagline: "Ready to create content that ranks and converts? Visit [INK](https://inkforall.com) to combine AI writing assistance with powerful SEO optimization to..."
+tagline: "Ready to create content that ranks and converts? Visit INK to combine AI writ..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

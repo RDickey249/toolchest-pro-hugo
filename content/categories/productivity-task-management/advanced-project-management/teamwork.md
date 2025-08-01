@@ -1,6 +1,6 @@
 ---
 title: "Teamwork"
-tagline: "Ready to get started? Visit [Teamwork](https://teamwork.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Teamwork to explore the platform and begin using ..."
 category: "Productivity & Task Management"
 categories: ["Productivity & Task Management"]
 subcategory: "Advanced Project Management"

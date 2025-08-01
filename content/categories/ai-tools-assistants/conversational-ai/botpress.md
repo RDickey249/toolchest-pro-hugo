@@ -1,6 +1,6 @@
 ---
 title: "Botpress"
-tagline: "[Build Custom Bots with Botpress →](https://botpress.com)..."
+tagline: "Build Custom Bots with Botpress →..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

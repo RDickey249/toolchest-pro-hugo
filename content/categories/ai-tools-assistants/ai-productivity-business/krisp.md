@@ -1,6 +1,6 @@
 ---
 title: "Krisp"
-tagline: "Sound professional from anywhere. Visit [krisp.ai](https://krisp.ai) to download Krisp free and eliminate background noise from all your calls and rec..."
+tagline: "Sound professional from anywhere. Visit krisp.ai to download Krisp free and e..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "AI Productivity & Business"

@@ -1,6 +1,6 @@
 ---
 title: "Automate.io"
-tagline: "Ready to get started? Visit [Automate.io](https://automate.io) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Automate.io to explore the platform and begin usi..."
 category: "Automation & Workflows"
 categories: ["Automation & Workflows"]
 subcategory: "Workflow Automation"

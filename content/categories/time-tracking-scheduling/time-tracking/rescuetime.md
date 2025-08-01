@@ -1,6 +1,6 @@
 ---
 title: "RescueTime"
-tagline: "Ready to get started? Visit [RescueTime](https://www.rescuetime.com/) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit RescueTime to explore the platform and begin usin..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"

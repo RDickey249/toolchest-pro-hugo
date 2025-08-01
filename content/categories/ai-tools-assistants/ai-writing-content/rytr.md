@@ -1,6 +1,6 @@
 ---
 title: "Rytr"
-tagline: "Ready to get started? Visit [Rytr](https://rytr.me) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Rytr to explore the platform and begin using this..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

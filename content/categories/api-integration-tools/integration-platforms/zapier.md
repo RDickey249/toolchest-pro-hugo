@@ -1,6 +1,6 @@
 ---
 title: "Zapier"
-tagline: "Ready to get started? Visit [Zapier](https://zapier.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Zapier to explore the platform and begin using th..."
 category: "API & Integration Tools"
 categories: ["API & Integration Tools"]
 subcategory: "Integration Platforms"

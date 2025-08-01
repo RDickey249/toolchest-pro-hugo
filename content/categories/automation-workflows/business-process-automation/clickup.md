@@ -1,6 +1,6 @@
 ---
 title: "ClickUp"
-tagline: "Ready to get started? Visit [ClickUp](https://clickup.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit ClickUp to explore the platform and begin using t..."
 category: "Automation & Workflows"
 categories: ["Automation & Workflows"]
 subcategory: "Business Process Automation"

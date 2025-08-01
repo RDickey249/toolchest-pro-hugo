@@ -1,6 +1,6 @@
 ---
 title: "Zingg"
-tagline: "Ready to get started? Visit [Zingg](https://zingg.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Zingg to explore the platform and begin using thi..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

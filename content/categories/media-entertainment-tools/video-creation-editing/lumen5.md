@@ -1,6 +1,6 @@
 ---
 title: "Lumen5"
-tagline: "Turn your blog posts into engaging videos. Visit [lumen5.com](https://www.lumen5.com) to start creating videos from your content automatically with AI..."
+tagline: "Turn your blog posts into engaging videos. Visit lumen5.com to start creating..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

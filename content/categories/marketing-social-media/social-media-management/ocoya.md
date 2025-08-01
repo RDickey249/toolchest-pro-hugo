@@ -1,6 +1,6 @@
 ---
 title: "Ocoya"
-tagline: "Ready to get started? Visit [Ocoya](https://www.ocoya.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Ocoya to explore the platform and begin using thi..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"

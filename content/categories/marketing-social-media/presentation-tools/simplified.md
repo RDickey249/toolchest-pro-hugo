@@ -1,6 +1,6 @@
 ---
 title: "Simplified"
-tagline: "[Streamline Creation with Simplified →](https://simplified.com)..."
+tagline: "Streamline Creation with Simplified →..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Presentation Tools"

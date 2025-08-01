@@ -1,6 +1,6 @@
 ---
 title: "PromptBase"
-tagline: "Buy and sell premium AI prompts. Visit [promptbase.com](https://promptbase.com) to explore the marketplace or start monetizing your prompt engineering..."
+tagline: "Buy and sell premium AI prompts. Visit promptbase.com to explore the marketpl..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Prompt Engineering"

@@ -1,6 +1,6 @@
 ---
 title: "Postly"
-tagline: "Ready to get started? Visit [Postly](https://www.postly.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Postly to explore the platform and begin using th..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"

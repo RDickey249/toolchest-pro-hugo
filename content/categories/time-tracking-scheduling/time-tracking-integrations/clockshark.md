@@ -1,6 +1,6 @@
 ---
 title: "ClockShark"
-tagline: "Ready to get started? Visit [ClockShark](https://www.clockshark.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit ClockShark to explore the platform and begin usin..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking Integrations"

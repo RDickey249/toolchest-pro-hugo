@@ -1,6 +1,6 @@
 ---
 title: "Bard"
-tagline: "Ready to explore Google's conversational AI? Visit [Bard](https://bard.google.com) to experience AI conversations powered by Google's latest language ..."
+tagline: "Ready to explore Google's conversational AI? Visit Bard to experience AI conv..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

@@ -1,6 +1,6 @@
 ---
 title: "Grok"
-tagline: "Ready to get started? Visit [Grok](https://x.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Grok to explore the platform and begin using this..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

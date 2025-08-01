@@ -1,6 +1,6 @@
 ---
 title: "Animoto"
-tagline: "Create marketing videos that work. Visit [animoto.com](https://animoto.com) to start your free trial and make professional videos in minutes with drag..."
+tagline: "Create marketing videos that work. Visit animoto.com to start your free trial..."
 category: "Design & Creative Tools"
 categories: ["Design & Creative Tools"]
 subcategory: "Video & Animation"

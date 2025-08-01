@@ -1,6 +1,6 @@
 ---
 title: "Pitch"
-tagline: "Transform team presentation workflows with beautiful collaboration. Visit [pitch.com](https://pitch.com) to create stunning presentations together...."
+tagline: "Transform team presentation workflows with beautiful collaboration. Visit pit..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Presentation Tools"

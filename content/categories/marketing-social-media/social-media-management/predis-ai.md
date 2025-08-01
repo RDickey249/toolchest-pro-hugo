@@ -1,6 +1,6 @@
 ---
 title: "Predis.ai"
-tagline: "Ready to get started? Visit [Predis.ai](https://predis.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Predis.ai to explore the platform and begin using..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"

@@ -1,6 +1,6 @@
 ---
 title: "OnTheClock"
-tagline: "Ready to get started? Visit [OnTheClock](https://www.ontheclock.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit OnTheClock to explore the platform and begin usin..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Time Clock"

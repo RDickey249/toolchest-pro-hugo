@@ -1,6 +1,6 @@
 ---
 title: "Play.ht"
-tagline: "Create ultra-realistic AI voices. Visit [play.ht](https://play.ht) to try the world's most advanced text-to-speech platform and bring your content to ..."
+tagline: "Create ultra-realistic AI voices. Visit play.ht to try the world's most advan..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"

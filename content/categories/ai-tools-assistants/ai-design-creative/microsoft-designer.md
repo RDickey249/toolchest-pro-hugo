@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Designer"
-tagline: "Ready to get started? Visit [Microsoft Designer](https://designer.microsoft.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Microsoft Designer to explore the platform and be..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

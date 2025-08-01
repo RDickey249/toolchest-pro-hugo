@@ -1,6 +1,6 @@
 ---
 title: "Paymo"
-tagline: "Ready to get started? Visit [Paymo](https://paymoapp.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Paymo to explore the platform and begin using thi..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Project Time Tracking Tools"

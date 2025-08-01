@@ -1,6 +1,6 @@
 ---
 title: "InVideo"
-tagline: "Create professional videos with templates and AI. Visit [invideo.io](https://invideo.io) to start making stunning videos and see why millions choose I..."
+tagline: "Create professional videos with templates and AI. Visit invideo.io to start m..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

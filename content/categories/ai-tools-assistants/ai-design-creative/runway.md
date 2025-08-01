@@ -1,6 +1,6 @@
 ---
 title: "Runway"
-tagline: "Explore the future of video creation with AI. Visit [runwayml.com](https://runwayml.com) to start creating impossible videos with cutting-edge AI tech..."
+tagline: "Explore the future of video creation with AI. Visit runwayml.com to start cre..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "AI Design & Creative"

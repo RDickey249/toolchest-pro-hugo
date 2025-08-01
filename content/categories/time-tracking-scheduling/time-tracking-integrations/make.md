@@ -1,6 +1,6 @@
 ---
 title: "Make (Integromat)"
-tagline: "Ready to get started? Visit [Make](https://www.make.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Make to explore the platform and begin using this..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking Integrations"

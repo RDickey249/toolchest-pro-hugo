@@ -1,6 +1,6 @@
 ---
 title: "Bing Chat"
-tagline: "Ready to get started? Visit [Bing Chat](https://www.bing.com/chat) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Bing Chat to explore the platform and begin using..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

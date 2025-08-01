@@ -1,6 +1,6 @@
 ---
 title: "Kapwing"
-tagline: "Ready to get started? Visit [Kapwing](https://www.kapwing.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Kapwing to explore the platform and begin using t..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

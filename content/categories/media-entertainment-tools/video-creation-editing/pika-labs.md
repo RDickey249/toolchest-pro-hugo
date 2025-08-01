@@ -1,6 +1,6 @@
 ---
 title: "Pika Labs"
-tagline: "Ready to get started? Visit [Pika Labs](https://pika.art) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Pika Labs to explore the platform and begin using..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

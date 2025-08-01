@@ -1,6 +1,6 @@
 ---
 title: "Copy.ai"
-tagline: "Ready to get started? Visit [Copy.ai](https://www.copy.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Copy.ai to explore the platform and begin using t..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "AI Writing & Content"

@@ -1,6 +1,6 @@
 ---
 title: "Tellius"
-tagline: "Ready to get started? Visit [Tellius](https://www.tellius.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Tellius to explore the platform and begin using t..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

@@ -1,6 +1,6 @@
 ---
 title: "Landbot"
-tagline: "[Create Engaging Conversations with Landbot →](https://landbot.io)..."
+tagline: "Create Engaging Conversations with Landbot →..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

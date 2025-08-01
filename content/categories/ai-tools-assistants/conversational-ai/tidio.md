@@ -1,6 +1,6 @@
 ---
 title: "Tidio"
-tagline: "Ready to enhance customer communication with live chat and bots? Visit [Tidio](https://www.tidio.com) to combine human agents with AI automation for b..."
+tagline: "Ready to enhance customer communication with live chat and bots? Visit Tidio ..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

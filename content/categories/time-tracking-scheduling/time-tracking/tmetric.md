@@ -1,6 +1,6 @@
 ---
 title: "TMetric"
-tagline: "Ready to get started? Visit [TMetric](https://tmetric.com/) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit TMetric to explore the platform and begin using t..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"

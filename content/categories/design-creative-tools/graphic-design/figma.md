@@ -1,6 +1,6 @@
 ---
 title: "Figma"
-tagline: "Ready to get started? Visit [Figma](https://www.figma.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Figma to explore the platform and begin using thi..."
 category: "Design & Creative Tools"
 categories: ["Design & Creative Tools"]
 subcategory: "Graphic Design"

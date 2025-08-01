@@ -1,6 +1,6 @@
 ---
 title: "Fliki"
-tagline: "Ready to get started? Visit [Fliki](https://fliki.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Fliki to explore the platform and begin using thi..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

@@ -1,6 +1,6 @@
 ---
 title: "TIBCO Spotfire"
-tagline: "Ready to get started? Visit [TIBCO Spotfire](https://www.tibco.com/products/tibco-spotfire) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit TIBCO Spotfire to explore the platform and begin ..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

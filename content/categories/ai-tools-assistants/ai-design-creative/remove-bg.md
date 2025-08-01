@@ -1,6 +1,6 @@
 ---
 title: "Remove.bg"
-tagline: "Ready to get started? Visit [Remove.bg](https://www.remove.bg) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Remove.bg to explore the platform and begin using..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

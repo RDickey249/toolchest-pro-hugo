@@ -1,6 +1,6 @@
 ---
 title: "Veed"
-tagline: "Edit videos like a pro in your browser. Visit [veed.io](https://www.veed.io) to start creating professional videos with AI-powered tools and zero down..."
+tagline: "Edit videos like a pro in your browser. Visit veed.io to start creating profe..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

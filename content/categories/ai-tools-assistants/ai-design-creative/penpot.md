@@ -1,6 +1,6 @@
 ---
 title: "Penpot"
-tagline: "Ready to get started? Visit [Penpot](https://penpot.app) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Penpot to explore the platform and begin using th..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

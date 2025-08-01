@@ -1,6 +1,6 @@
 ---
 title: "CodeWhisperer"
-tagline: "Ready to get started? Visit [CodeWhisperer](https://aws.amazon.com/codewhisperer) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit CodeWhisperer to explore the platform and begin u..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Code Development"

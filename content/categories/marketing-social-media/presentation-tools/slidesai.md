@@ -1,6 +1,6 @@
 ---
 title: "SlidesAI"
-tagline: "Convert text to presentations automatically. Visit [slidesai.io](https://www.slidesai.io) to transform documents into polished slide decks instantly...."
+tagline: "Convert text to presentations automatically. Visit slidesai.io to transform d..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Presentation Tools"

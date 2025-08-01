@@ -1,6 +1,6 @@
 ---
 title: "Descript"
-tagline: "Ready to get started? Visit [Descript](https://www.descript.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Descript to explore the platform and begin using ..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Audio Production"

@@ -1,6 +1,6 @@
 ---
 title: "Flow XO"
-tagline: "[Automate Your Workflows with Flow XO →](https://flowxo.com)..."
+tagline: "Automate Your Workflows with Flow XO →..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

@@ -1,6 +1,6 @@
 ---
 title: "Chatfuel"
-tagline: "Ready to automate your Facebook and Instagram engagement? Visit [Chatfuel](https://chatfuel.com) to create visual chatbots that drive sales and engage..."
+tagline: "Ready to automate your Facebook and Instagram engagement? Visit Chatfuel to c..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

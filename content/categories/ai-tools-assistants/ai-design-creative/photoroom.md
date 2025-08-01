@@ -1,6 +1,6 @@
 ---
 title: "PhotoRoom"
-tagline: "Ready to get started? Visit [PhotoRoom](https://www.photoroom.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit PhotoRoom to explore the platform and begin using..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

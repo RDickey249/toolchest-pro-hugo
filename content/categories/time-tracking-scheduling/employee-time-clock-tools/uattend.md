@@ -1,6 +1,6 @@
 ---
 title: "uAttend"
-tagline: "Ready to get started? Visit [uAttend](https://www.uattend.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit uAttend to explore the platform and begin using t..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Time Clock Tools"

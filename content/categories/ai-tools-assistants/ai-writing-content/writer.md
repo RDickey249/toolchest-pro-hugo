@@ -1,6 +1,6 @@
 ---
 title: "Writer"
-tagline: "Ready to get started? Visit [Writer](https://writer.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Writer to explore the platform and begin using th..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

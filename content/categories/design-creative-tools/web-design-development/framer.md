@@ -1,6 +1,6 @@
 ---
 title: "Framer"
-tagline: "Ready to get started? Visit [Framer](https://www.framer.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Framer to explore the platform and begin using th..."
 category: "Design & Creative Tools"
 categories: ["Design & Creative Tools"]
 subcategory: "Web Design & Development"

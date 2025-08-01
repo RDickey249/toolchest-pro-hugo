@@ -1,6 +1,6 @@
 ---
 title: "Slick Write"
-tagline: "Ready to get started? Visit [Slick Write](https://www.slickwrite.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Slick Write to explore the platform and begin usi..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

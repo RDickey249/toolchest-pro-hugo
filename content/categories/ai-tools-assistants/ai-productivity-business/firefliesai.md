@@ -1,6 +1,6 @@
 ---
 title: "Fireflies.ai"
-tagline: "Ready to get started? Visit [Fireflies.ai](https://fireflies.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Fireflies.ai to explore the platform and begin us..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

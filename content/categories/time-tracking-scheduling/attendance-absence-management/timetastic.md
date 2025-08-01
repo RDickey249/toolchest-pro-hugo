@@ -1,6 +1,6 @@
 ---
 title: "Timetastic"
-tagline: "Ready to get started? Visit [Timetastic](https://timetastic.co.uk) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Timetastic to explore the platform and begin usin..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Attendance Absence Management"

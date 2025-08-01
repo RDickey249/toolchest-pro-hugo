@@ -1,6 +1,6 @@
 ---
 title: "Surfer SEO"
-tagline: "Ready to get started? Visit [Surfer SEO](https://surferseo.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Surfer SEO to explore the platform and begin usin..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

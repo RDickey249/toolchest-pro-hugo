@@ -1,6 +1,6 @@
 ---
 title: "Homebase"
-tagline: "Ready to get started? Visit [Homebase](https://joinhomebase.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Homebase to explore the platform and begin using ..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Time Clock"

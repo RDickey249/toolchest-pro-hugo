@@ -1,6 +1,6 @@
 ---
 title: "Bonsai"
-tagline: "Ready to get started? Visit [Bonsai](https://www.hellobonsai.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Bonsai to explore the platform and begin using th..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Freelancers"

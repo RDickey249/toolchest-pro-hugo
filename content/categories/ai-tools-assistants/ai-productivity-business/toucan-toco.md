@@ -1,6 +1,6 @@
 ---
 title: "Toucan Toco"
-tagline: "Ready to get started? Visit [Toucan Toco](https://www.toucantoco.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Toucan Toco to explore the platform and begin usi..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

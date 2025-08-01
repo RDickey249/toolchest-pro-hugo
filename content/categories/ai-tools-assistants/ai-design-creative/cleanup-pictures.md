@@ -1,6 +1,6 @@
 ---
 title: "Cleanup.pictures"
-tagline: "Ready to get started? Visit [Cleanup.pictures](https://cleanup.pictures) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Cleanup.pictures to explore the platform and begi..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

@@ -1,6 +1,6 @@
 ---
 title: "Leonardo AI"
-tagline: "Ready to get started? Visit [Leonardo AI](https://leonardo.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Leonardo AI to explore the platform and begin usi..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

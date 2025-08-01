@@ -1,6 +1,6 @@
 ---
 title: "Anyword"
-tagline: "Ready to optimize your marketing copy with data-driven AI? Visit [Anyword](https://anyword.com) to create high-converting marketing content with perfo..."
+tagline: "Ready to optimize your marketing copy with data-driven AI? Visit Anyword to c..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

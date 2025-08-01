@@ -1,6 +1,6 @@
 ---
 title: "Wisecut"
-tagline: "Transform long videos into engaging content with AI. Visit [wisecut.video](https://www.wisecut.video) to start automatically editing your videos and c..."
+tagline: "Transform long videos into engaging content with AI. Visit wisecut.video to s..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"

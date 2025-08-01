@@ -1,6 +1,6 @@
 ---
 title: "Grammarly"
-tagline: "Ready to get started? Visit [Grammarly](https://www.grammarly.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Grammarly to explore the platform and begin using..."
 category: "Accessibility & Inclusion Tools"
 categories: ["Accessibility & Inclusion Tools"]
 subcategory: "Workplace Inclusion Platforms"

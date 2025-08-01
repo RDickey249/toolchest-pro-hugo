@@ -1,6 +1,6 @@
 ---
 title: "DALL·E (via ChatGPT)"
-tagline: "Ready to get started? Visit [ChatGPT](https://chat.openai.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit ChatGPT to explore the platform and begin using t..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

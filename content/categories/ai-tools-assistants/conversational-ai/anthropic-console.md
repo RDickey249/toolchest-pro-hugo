@@ -1,6 +1,6 @@
 ---
 title: "Anthropic Console"
-tagline: "[Build with Anthropic Console →](https://console.anthropic.com)..."
+tagline: "Build with Anthropic Console →..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Conversational Ai"

@@ -1,6 +1,6 @@
 ---
 title: "Drift"
-tagline: "Ready to transform website visitors into qualified leads? Visit [Drift](https://www.drift.com) to experience conversational sales automation that conn..."
+tagline: "Ready to transform website visitors into qualified leads? Visit Drift to expe..."
 category: "Customer Support Tools"
 categories: ["Customer Support Tools"]
 subcategory: "Live Chat & Messaging"

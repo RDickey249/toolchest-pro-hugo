@@ -1,6 +1,6 @@
 ---
 title: "Timely"
-tagline: "Ready to get started? Visit [Timely](https://timelyapp.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Timely to explore the platform and begin using th..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking Analytics"

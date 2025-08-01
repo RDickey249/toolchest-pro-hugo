@@ -1,6 +1,6 @@
 ---
 title: "Resemble.ai"
-tagline: "Build enterprise voice AI solutions with custom cloning. Visit [resemble.ai](https://www.resemble.ai) to start creating branded voices and see why ent..."
+tagline: "Build enterprise voice AI solutions with custom cloning. Visit resemble.ai to..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"

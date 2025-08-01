@@ -1,6 +1,6 @@
 ---
 title: "ManyChat"
-tagline: "Ready to automate your messenger marketing? Visit [ManyChat](https://manychat.com) to build sophisticated chatbot experiences across Facebook, Instagr..."
+tagline: "Ready to automate your messenger marketing? Visit ManyChat to build sophistic..."
 category: "Customer Support Tools"
 categories: ["Customer Support Tools"]
 subcategory: "Live Chat & Messaging"

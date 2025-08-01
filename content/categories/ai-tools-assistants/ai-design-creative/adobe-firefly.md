@@ -1,6 +1,6 @@
 ---
 title: "Adobe Firefly"
-tagline: "Ready to get started? Visit [Adobe Firefly](https://www.adobe.com/products/firefly.html) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Adobe Firefly to explore the platform and begin u..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"

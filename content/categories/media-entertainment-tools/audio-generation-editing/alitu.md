@@ -1,6 +1,6 @@
 ---
 title: "Alitu"
-tagline: "Ready to get started? Visit [Alitu](https://alitu.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Alitu to explore the platform and begin using thi..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"

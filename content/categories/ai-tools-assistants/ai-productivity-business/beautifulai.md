@@ -1,6 +1,6 @@
 ---
 title: "Beautiful.ai"
-tagline: "Create stunning presentations in minutes. Visit [beautiful.ai](https://www.beautiful.ai) to start your free trial and let AI handle the design while y..."
+tagline: "Create stunning presentations in minutes. Visit beautiful.ai to start your fr..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "AI Productivity & Business"

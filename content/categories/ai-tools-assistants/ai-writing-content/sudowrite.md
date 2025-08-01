@@ -1,6 +1,6 @@
 ---
 title: "Sudowrite"
-tagline: "Ready to get started? Visit [Sudowrite](https://www.sudowrite.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Sudowrite to explore the platform and begin using..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

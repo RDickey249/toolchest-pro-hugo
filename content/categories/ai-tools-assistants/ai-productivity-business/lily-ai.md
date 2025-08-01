@@ -1,6 +1,6 @@
 ---
 title: "Lily AI"
-tagline: "Ready to get started? Visit [Lily AI](https://www.lily.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Lily AI to explore the platform and begin using t..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

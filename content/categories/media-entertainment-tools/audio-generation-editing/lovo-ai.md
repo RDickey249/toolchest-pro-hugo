@@ -1,6 +1,6 @@
 ---
 title: "Lovo.ai"
-tagline: "Create professional voiceovers with AI voices. Visit [lovo.ai](https://www.lovo.ai) to start generating realistic text-to-speech and see why creators ..."
+tagline: "Create professional voiceovers with AI voices. Visit lovo.ai to start generat..."
 category: "Media & Entertainment Tools"
 categories: ["Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"

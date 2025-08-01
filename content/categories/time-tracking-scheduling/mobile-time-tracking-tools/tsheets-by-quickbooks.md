@@ -1,6 +1,6 @@
 ---
 title: "TSheets by QuickBooks"
-tagline: "Ready to get started? Visit [TSheets](https://quickbooks.intuit.com/time-tracking) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit TSheets to explore the platform and begin using t..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Mobile Time Tracking Tools"

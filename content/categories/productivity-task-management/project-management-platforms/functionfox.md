@@ -1,6 +1,6 @@
 ---
 title: "FunctionFox"
-tagline: "Ready to get started? Visit [this tool](https://www.functionfox.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit this tool to explore the platform and begin using..."
 category: "Productivity & Task Management"
 categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"

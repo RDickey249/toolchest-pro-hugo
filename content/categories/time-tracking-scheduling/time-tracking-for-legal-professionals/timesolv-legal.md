@@ -1,6 +1,6 @@
 ---
 title: "TimeSolv (Legal)"
-tagline: "Ready to track legal time with detailed budgeting? Visit [TimeSolv](https://www.timesolv.com) to explore legal-specific time tracking with project bud..."
+tagline: "Ready to track legal time with detailed budgeting? Visit TimeSolv to explore ..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Legal Professionals"

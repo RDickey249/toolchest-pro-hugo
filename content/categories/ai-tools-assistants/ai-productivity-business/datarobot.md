@@ -1,6 +1,6 @@
 ---
 title: "DataRobot"
-tagline: "Ready to get started? Visit [DataRobot](https://www.datarobot.com) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit DataRobot to explore the platform and begin using..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"

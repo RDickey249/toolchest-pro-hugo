@@ -1,6 +1,6 @@
 ---
 title: "Mutable.ai"
-tagline: "Ready to get started? Visit [Mutable.ai](https://www.mutable.ai) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Mutable.ai to explore the platform and begin usin..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Code Development"

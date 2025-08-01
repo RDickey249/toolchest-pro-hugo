@@ -1,6 +1,6 @@
 ---
 title: "Hemingway Editor"
-tagline: "Ready to write with clarity and impact? Visit [Hemingway Editor](https://hemingwayapp.com) to transform complex writing into bold, clear prose that re..."
+tagline: "Ready to write with clarity and impact? Visit Hemingway Editor to transform c..."
 category: "AI Tools & Assistants"
 categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"

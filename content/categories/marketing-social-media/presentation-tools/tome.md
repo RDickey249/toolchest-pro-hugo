@@ -1,6 +1,6 @@
 ---
 title: "Tome"
-tagline: "Create compelling presentations with AI-powered storytelling. Visit [tome.app](https://tome.app) to generate complete presentations from simple prompt..."
+tagline: "Create compelling presentations with AI-powered storytelling. Visit tome.app ..."
 category: "Marketing & Social Media"
 categories: ["Marketing & Social Media"]
 subcategory: "Presentation Tools"

@@ -1,6 +1,6 @@
 ---
 title: "Clockify"
-tagline: "Ready to get started? Visit [Clockify](https://clockify.me/) to explore the platform and begin using this tool...."
+tagline: "Ready to get started? Visit Clockify to explore the platform and begin using ..."
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
