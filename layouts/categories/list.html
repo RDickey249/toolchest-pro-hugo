@@ -15,11 +15,12 @@
         {{ $groupedPages := $allPages | group "Params.category" }}
         {{ range $groupedPages }}
         {{ $categoryName := .Key }}
+        {{ $cleanCategoryName := $categoryName | replaceRE "^[^A-Za-z0-9 ]*\\s*" "" }}
         {{ $tools := .Pages }}
-        {{ $categorySlug := $categoryName | urlize }}
+        {{ $categorySlug := $cleanCategoryName | urlize }}
         <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ "/categories/" | relURL }}{{ $categorySlug }}/">{{ $categoryName }}</a></h2>
-            <p class="category-description">{{ $categoryName }} tools and platforms</p>
+            <h2><a href="{{ "/categories/" | relURL }}{{ $categorySlug }}/">{{ $cleanCategoryName }}</a></h2>
+            <p class="category-description">{{ $cleanCategoryName }} tools and platforms</p>
             <p class="tool-count">{{ len $tools }} tools</p>
             
             {{ if ge (len $tools) 3 }}
