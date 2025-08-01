@@ -1,21 +1,19 @@
 {{ define "main" }}
-<div class="home-hero" data-premium-zone="hero">
+<div class="home-hero">
     <div class="hero-content">
         <h1>{{ .Site.Title }}</h1>
         <p class="hero-tagline">{{ .Site.Params.description }}</p>
         <div class="hero-actions">
             <a href="/categories/" class="btn btn-primary">Browse All Categories</a>
-            <span id="premium-hero-inject" data-premium-zone="hero-cta" style="display: none;"></span>
         </div>
     </div>
 </div>
 
-<section class="featured-tools" data-premium-zone="featured">
+<section class="featured-tools">
     <h2>Featured Tools</h2>
     <div class="grid grid-4">
-        <!-- Display affiliate tools as "featured" without revealing affiliate status -->
         {{ range first 12 (where .Site.RegularPages "Params.affiliate" true) }}
-        <div class="card tool-card" data-premium-zone="tool-card">
+        <div class="card tool-card">
             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="tool-tagline">{{ .Params.tagline }}</p>
             <div class="tool-meta">
@@ -24,72 +22,23 @@
                 <span class="subcategory-tag">{{ .Params.subcategory }}</span>
                 {{ end }}
             </div>
-            <span class="premium-overlay-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
         </div>
         {{ end }}
     </div>
-    
-    <!-- Fallback: Show recent tools if no affiliate tools found -->
-    {{ if eq (len (where .Site.RegularPages "Params.affiliate" true)) 0 }}
-    <div class="grid grid-4">
-        {{ range first 8 .Site.RegularPages }}
-        <div class="card tool-card" data-premium-zone="tool-card">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <p class="tool-tagline">{{ .Params.tagline }}</p>
-            <div class="tool-meta">
-                <span class="category-tag">{{ .Params.category }}</span>
-                {{ if .Params.subcategory }}
-                <span class="subcategory-tag">{{ .Params.subcategory }}</span>
-                {{ end }}
-            </div>
-            <span class="premium-overlay-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
-        </div>
-        {{ end }}
-    </div>
-    {{ end }}
 </section>
 
-<section class="categories-preview" data-premium-zone="categories">
+<section class="categories-preview">
     <div class="section-header">
         <h2>Browse by Category</h2>
         <a href="/categories/" class="view-all-link">View All Categories →</a>
     </div>
     <div class="grid grid-3">
-        {{ $count := 0 }}
-        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
-        {{ if lt $count 6 }}
-        {{ $categoryPage := index $taxonomy 0 }}
-        <div class="card category-card" data-premium-zone="category-card">
-            <h3><a href="{{ "/categories/" | relURL }}{{ $categoryName | urlize }}/">{{ $categoryPage.Params.category | default $categoryName }}</a></h3>
-            <p class="category-description">{{ $categoryPage.Params.tagline | default $categoryPage.Summary | truncate 80 }}</p>
-            <p class="tool-count">{{ len $taxonomy }} tools</p>
-            <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
+        {{ range first 6 .Site.Taxonomies.categories }}
+        <div class="card category-card">
+            <h3><a href="{{ "/categories/" | relURL }}{{ .Page.Title | urlize }}/">{{ .Page.Title }}</a></h3>
+            <p class="tool-count">{{ len .Pages }} tools</p>
         </div>
-        {{ $count = add $count 1 }}
-        {{ end }}
         {{ end }}
     </div>
-</section>
-
-<section class="stats-section" data-premium-zone="stats">
-    <div class="stats-grid">
-        <div class="stat-item">
-            <div class="stat-number">{{ len (where .Site.RegularPages "Type" "categories") }}</div>
-            <div class="stat-label">Curated Tools</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number">{{ len .Site.Taxonomies.categories }}</div>
-            <div class="stat-label">Categories</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number">Expert</div>
-            <div class="stat-label">Recommendations</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number">Zero</div>
-            <div class="stat-label">Overwhelm</div>
-        </div>
-    </div>
-    <span id="premium-stats-inject" data-premium-zone="stats-overlay" style="display: none;"></span>
 </section>
 {{ end }}

@@ -1,111 +1,40 @@
 {{ define "main" }}
 {{ if eq .RelPermalink "/categories/" }}
-    <!-- Main categories page - tank-simple grid of all categories -->
+    <!-- Main categories page -->
     <div class="breadcrumb">
         <a href="/">Home</a> > <span>Categories</span>
     </div>
     
     <h1>{{ .Title }}</h1>
-    {{ if .Description }}
-    <p class="page-description">{{ .Description }}</p>
-    {{ end }}
+    <p class="page-description">Browse tools by category to find exactly what you need.</p>
     
-    <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ $sortedCategories := slice }}
-        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
-        {{ $displayName := index $.Site.Data.categories $categoryName }}
-        {{ if not $displayName }}{{ $displayName = $categoryName }}{{ end }}
-        {{ $weight := index $.Site.Data.category_weights $categoryName }}
-        {{ if not $weight }}{{ $weight = 0 }}{{ end }}
-        {{ $sortedCategories = $sortedCategories | append (dict "name" $categoryName "display" $displayName "taxonomy" $taxonomy "weight" $weight) }}
-        {{ end }}
-        {{ $sortedCategories = sort $sortedCategories "weight" "desc" }}
-        {{ range $sortedCategories }}
-        <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ "/categories/" | relURL }}{{ .name }}/">{{ .display }}</a></h2>
-            <p class="category-description">{{ .display }} tools and platforms</p>
-            <p class="tool-count">{{ len .taxonomy }} tools</p>
-            
-            {{ if ge (len .taxonomy) 3 }}
-            <div class="sample-tools">
-                <strong>Sample tools:</strong>
-                {{ range first 3 .taxonomy }}
-                {{ .Title }}{{ if not (eq . (index (first 3 .taxonomy) 2)) }}, {{ end }}
-                {{ end }}
-                {{ if gt (len .taxonomy) 3 }}...{{ end }}
-            </div>
-            {{ end }}
-            <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
+    <div class="grid grid-3">
+        {{ range .Site.Taxonomies.categories }}
+        <div class="card category-card">
+            <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h2>
+            <p class="category-description">{{ .Page.Title }} tools and platforms</p>
+            <p class="tool-count">{{ len .Pages }} tools</p>
         </div>
         {{ end }}
     </div>
 {{ else }}
-    <!-- Individual category page - show subcategories and tools -->
+    <!-- Individual category page -->
     <div class="breadcrumb">
         <a href="/">Home</a> > <a href="/categories/">Categories</a> > <span>{{ .Title }}</span>
     </div>
     
     <h1>{{ .Title }}</h1>
-    {{ if .Description }}
-    <p class="page-description">{{ .Description }}</p>
-    {{ end }}
     
-    <!-- Find all subcategories in this category -->
-    {{ $subcategories := dict }}
-    {{ range .Pages }}
-        {{ if .Params.subcategory }}
-            {{ $subcat := .Params.subcategory }}
-            {{ $tools := index $subcategories $subcat | default slice }}
-            {{ $tools = $tools | append . }}
-            {{ $subcategories = merge $subcategories (dict $subcat $tools) }}
-        {{ end }}
-    {{ end }}
-    
-    <!-- Show subcategories as cards -->
-    {{ if gt (len $subcategories) 0 }}
-    <h2>Subcategories</h2>
-    <div class="grid grid-2" data-premium-zone="subcategories-grid">
-        {{ range $subcatName, $tools := $subcategories }}
-        <div class="card subcategory-card" data-premium-zone="subcategory-card">
-            <h3><a href="#{{ $subcatName | urlize }}">{{ $subcatName }}</a></h3>
-            <p class="tool-count">{{ len $tools }} tools</p>
-            <div class="sample-tools">
-                {{ range first 3 $tools }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $tools) 2)) }}, {{ end }}
-                {{ end }}
-                {{ if gt (len $tools) 3 }}...{{ end }}
-            </div>
-            <span class="premium-subcat-hook" data-premium-zone="subcat-overlay" style="display: none;"></span>
-        </div>
-        {{ end }}
-    </div>
-    
-    <!-- Show tools grouped by subcategory -->
-    {{ range $subcatName, $tools := $subcategories }}
-    <section id="{{ $subcatName | urlize }}" class="subcategory-section">
-        <h2>{{ $subcatName }}</h2>
-        <div class="grid grid-3" data-premium-zone="tools-grid">
-            {{ range $tools }}
-            <div class="card tool-card" data-premium-zone="tool-card">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
-                <span class="premium-tool-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
-            </div>
+    <div class="grid grid-3">
+        {{ range .Pages }}
+        <div class="card tool-card">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="tool-tagline">{{ .Params.tagline }}</p>
+            {{ if .Params.subcategory }}
+            <span class="subcategory-tag">{{ .Params.subcategory }}</span>
             {{ end }}
         </div>
-    </section>
-    {{ end }}
-    {{ else }}
-    <!-- Show all tools if no subcategories -->
-    <div class="grid grid-3" data-premium-zone="tools-grid">
-        {{ range .Pages }}
-        <div class="card tool-card" data-premium-zone="tool-card">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 100 }}</p>
-            <span class="premium-tool-hook" data-premium-zone="tool-overlay" style="display: none;"></span>
-        </div>
         {{ end }}
     </div>
-    {{ end }}
 {{ end }}
 {{ end }}

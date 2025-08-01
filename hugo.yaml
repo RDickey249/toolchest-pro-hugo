@@ -1,42 +1,28 @@
 baseURL: "https://toolchest.pro"
 languageCode: "en-us"
 title: "ToolChest"
-theme: "m10c"
 
 # Site parameters
 params:
   description: "Anti-overwhelm business tool curation platform with expert-backed recommendations to help you find the right tools without the research fatigue"
   author: "ToolChest"
-  avatar: "/images/toolchest-logo.svg"
-  background_color_class: "bg-black"
-  
-  # ToolChest Color Scheme
-  style:
-    darkestColor: "#2E3A46"     # Deep iron gray background
-    darkColor: "#444444"        # Card background (slightly lighter)
-    lightColor: "#9EC9FF"       # Pale blue accent text for headings
-    lightestColor: "#FFFFFF"    # Pure white primary text
-    primaryColor: "#E74C3C"     # Bold red for CTA/buttons
 
-# Taxonomies - keep it simple
+# Simple taxonomies
 taxonomies:
   category: "categories"
   tag: "tags"
 
-# Permalinks - clean URLs
+# Clean URLs
 permalinks:
   categories: "/categories/:slug/"
 
-# Markup configuration
+# Basic markup
 markup:
   goldmark:
     renderer:
       unsafe: true
-  highlight:
-    style: "github"
-    lineNos: false
 
-# Menu configuration
+# Simple menu
 menu:
   main:
     - name: "Home"
@@ -48,33 +34,3 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 3
-
-# Build configuration
-build:
-  writeStats: true
-
-# Asset processing
-assets:
-  minify: true
-
-# Security
-security:
-  exec:
-    allow: ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$"]
-
-# Output formats
-outputs:
-  home: ["HTML", "RSS", "JSON"]
-  page: ["HTML"]
-  section: ["HTML", "RSS"]
-
-# Related content
-related:
-  includeNewer: true
-  indices:
-    - name: "categories"
-      weight: 100
-    - name: "tags"
-      weight: 80
-  threshold: 80
-  toLower: false

@@ -1,12 +1,11 @@
 {{ define "main" }}
-<article class="tool-page" data-premium-zone="tool-page">
+<article class="tool-page">
     <header class="tool-header">
         <nav class="breadcrumb">
             <a href="/">Home</a> > 
             <a href="/categories/">Categories</a> > 
             {{ if .Params.category }}
-            {{ $categoryUrl := printf "/categories/%s/" (.Params.category | lower | replaceRE "[^a-z0-9]+" "-" | replaceRE "^-|-$" "") }}
-            <a href="{{ $categoryUrl }}">{{ .Params.category }}</a> > 
+            <a href="/categories/{{ .Params.category | urlize }}/">{{ .Params.category }}</a> > 
             {{ end }}
             <span>{{ .Title }}</span>
         </nav>
@@ -26,57 +25,37 @@
         <p class="tool-tagline">{{ .Params.tagline }}</p>
         {{ end }}
         
-        <!-- Affiliate Link CTA -->
-        {{ $toolSlug := .File.BaseFileName }}
-        {{ $affiliateData := index $.Site.Data.affiliate_links $toolSlug }}
-        {{ if and .Params.affiliate $affiliateData }}
-        <div class="affiliate-cta" data-premium-zone="affiliate-cta">
-            <a href="{{ $affiliateData.url }}" 
+        <!-- Simple Affiliate Link -->
+        {{ if .Params.affiliate }}
+        <div class="affiliate-cta">
+            <a href="{{ .Params.affiliate_url | default "#" }}" 
                target="_blank" 
                rel="noopener sponsored"
-               class="btn btn-primary affiliate-link"
-               data-tool="{{ .Title }}"
-               data-category="{{ .Params.category }}"
-               data-commission="{{ $affiliateData.commission }}"
-               onclick="trackAffiliateClick('{{ .Title }}', '{{ .Params.category }}', '{{ $affiliateData.url }}')">
-                {{ $affiliateData.cta | default "Get Started" }} →
+               class="btn btn-primary affiliate-link">
+                {{ .Params.affiliate_cta | default "Get Started" }} →
             </a>
-            {{ if eq $affiliateData.tier "premium" }}
-            <span class="affiliate-badge premium">Premium Partner</span>
-            {{ else }}
-            <span class="affiliate-badge">Affiliate Link</span>
-            {{ end }}
         </div>
         {{ end }}
-        
-        <span id="premium-tool-header" data-premium-zone="tool-header" style="display: none;"></span>
     </header>
     
-    <div class="tool-content" data-premium-zone="tool-content">
+    <div class="tool-content">
         {{ .Content }}
-        <span id="premium-content-inject" data-premium-zone="content-inject" style="display: none;"></span>
     </div>
     
-    <!-- Always show related tools for better navigation -->
-    <aside class="related-tools" data-premium-zone="related">
+    <!-- Simple Related Tools -->
+    <aside class="related-tools">
         <h3>Related Tools</h3>
         <div class="grid grid-3">
             {{ $currentCategory := .Params.category }}
-            {{ $relatedTools := slice }}
-            {{ range .Site.RegularPages }}
-                {{ if and (eq .Params.category $currentCategory) (ne .Title $.Title) }}
-                    {{ $relatedTools = $relatedTools | append . }}
-                {{ end }}
-            {{ end }}
-            {{ range first 3 $relatedTools }}
-            <div class="card tool-card" data-premium-zone="related-card">
+            {{ range first 3 (where .Site.RegularPages "Params.category" $currentCategory) }}
+            {{ if ne .Title $.Title }}
+            <div class="card tool-card">
                 <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
-                <p class="tool-tagline">{{ .Params.tagline | default .Summary | truncate 80 }}</p>
-                <span class="premium-related-hook" data-premium-zone="related-overlay" style="display: none;"></span>
+                <p class="tool-tagline">{{ .Params.tagline | truncate 80 }}</p>
             </div>
             {{ end }}
+            {{ end }}
         </div>
-        <span id="premium-related-inject" data-premium-zone="related-inject" style="display: none;"></span>
     </aside>
 </article>
 {{ end }}
