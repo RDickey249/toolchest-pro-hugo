@@ -1,8 +1,9 @@
 ---
 title: "Logomaster"
 tagline: "Advanced AI logo creation with strategic positioning"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Branding Identity"
 tool_name: "Logomaster"
 deployment_status: "deployed"
 image: "/images/tools/logomaster-placeholder.jpg"

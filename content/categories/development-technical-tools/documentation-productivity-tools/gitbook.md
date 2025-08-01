@@ -1,8 +1,9 @@
 ---
 title: "GitBook"
 tagline: "Documentation platform with versioning and integrations"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Documentation Productivity Tools"
 tool_name: "GitBook"
 deployment_status: "deployed"
 image: "/images/tools/gitbook-placeholder.jpg"

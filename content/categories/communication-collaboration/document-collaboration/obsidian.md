@@ -1,8 +1,8 @@
 ---
 title: "Obsidian"
 tagline: "Linked note-taking"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Communication & Collaboration"
+subcategory: "Document Collaboration"
 tool_name: "Obsidian"
 deployment_status: "deployed"
 image: "/images/tools/obsidian-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Veracode"
 tagline: "Enterprise-grade application security platform with static and dynamic analysis"
-category: "💻 Development & Technical Tools"
-subcategory: "Security & Compliance Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Security Compliance Tools"
 tool_name: "Veracode"
 deployment_status: "deployed"
 image: "/images/tools/veracode-placeholder.jpg"

@@ -1,7 +1,8 @@
 ---
 title: "Dell XPS"
 tagline: "Premium Windows laptops with stunning displays and powerful performance for professionals"
-category: "🖥️ Hardware & Equipment Tools"
+category: "Hardware & Equipment Tools"
+categories: ["Hardware & Equipment Tools"]
 subcategory: "Computer Hardware"
 tool_name: "Dell XPS"
 external_link: "https://www.dell.com/en-us/shop/dell-laptops/sc/laptops/xps-laptops"

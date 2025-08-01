@@ -2,6 +2,7 @@
 title: "Monday.com - Visual project management"
 tagline: "Monday.com is a visual project management platform that uses colorful boards, timelines, and automation to help teams organize work and collaborate more effectively..."
 category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Monday.com"
 deployment_status: "deployed"

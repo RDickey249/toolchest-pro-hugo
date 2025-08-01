@@ -1,7 +1,8 @@
 ---
 title: "VuePress"
 tagline: "Vue-powered static site generator optimized for documentation"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Static Site Generators"
 tool_name: "VuePress"
 deployment_status: "deployed"

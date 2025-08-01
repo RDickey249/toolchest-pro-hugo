@@ -1,8 +1,9 @@
 ---
 title: "Bazaar"
 tagline: "Decentralized version control system with intuitive commands"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Version Control Collaboration"
 tool_name: "Bazaar"
 deployment_status: "deployed"
 image: "/images/tools/bazaar-placeholder.jpg"

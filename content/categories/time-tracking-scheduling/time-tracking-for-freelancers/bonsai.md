@@ -1,8 +1,9 @@
 ---
 title: "Bonsai"
 tagline: "Ready to get started? Visit [Bonsai](https://www.hellobonsai.com) to explore the platform and begin using this tool...."
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking For Freelancers"
 tool_name: "Bonsai"
 deployment_status: "deployed"
 image: "/images/tools/bonsai-placeholder.jpg"

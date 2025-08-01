@@ -2,6 +2,7 @@
 title: "HelloTalk - Language exchange platform"
 tagline: "HelloTalk is a language exchange platform that connects native speakers around the world for mutual language learning through text, voice, and video conversations with built-in translation and correction tools..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "HelloTalk"
 deployment_status: "deployed"

@@ -2,6 +2,7 @@
 title: "Sendible - Agency social management"
 tagline: "Sendible is a social media management platform designed specifically for agencies and multi-client management, offering white-label solutions and advanced client reporting features..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Sendible"
 deployment_status: "deployed"

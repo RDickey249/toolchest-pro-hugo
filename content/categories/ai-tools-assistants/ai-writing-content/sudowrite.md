@@ -1,8 +1,9 @@
 ---
 title: "Sudowrite"
 tagline: "Ready to get started? Visit [Sudowrite](https://www.sudowrite.com) to explore the platform and begin using this tool...."
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "Sudowrite"
 deployment_status: "deployed"
 image: "/images/tools/sudowrite-placeholder.jpg"

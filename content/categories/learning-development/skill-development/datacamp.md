@@ -2,6 +2,7 @@
 title: "DataCamp - Data science skills"
 tagline: "DataCamp is a data science learning platform that teaches programming languages like Python and R, statistical analysis, and machine learning through interactive coding exercises and real-world projects..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "DataCamp"
 deployment_status: "deployed"

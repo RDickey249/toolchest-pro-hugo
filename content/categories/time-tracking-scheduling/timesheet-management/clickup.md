@@ -1,8 +1,9 @@
 ---
 title: "ClickUp"
 tagline: "Ready to get started? Visit [ClickUp](https://clickup.com) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Timesheet Management"
 tool_name: "ClickUp"
 deployment_status: "deployed"
 image: "/images/tools/clickup-placeholder.jpg"

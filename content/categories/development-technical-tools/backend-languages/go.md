@@ -1,8 +1,9 @@
 ---
 title: "Go"
 tagline: "Fast, statically typed language designed for modern software development"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Go"
 deployment_status: "deployed"
 image: "/images/tools/go-placeholder.jpg"

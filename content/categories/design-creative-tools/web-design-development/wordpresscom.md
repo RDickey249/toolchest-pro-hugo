@@ -2,7 +2,8 @@
 title: "WordPress.com - Hosted WordPress"
 tagline: "WordPress.com is the hosted version of WordPress that provides a fully managed blogging and website platform with built-in hosting, security, and maintenance..."
 category: "Design & Creative Tools"
-subcategory: "Web Design & Development"
+categories: ["Design & Creative Tools"]
+subcategory: "Web Design Development"
 tool_name: "WordPress.com"
 deployment_status: "deployed"
 image: "/images/tools/wordpresscom-placeholder.jpg"

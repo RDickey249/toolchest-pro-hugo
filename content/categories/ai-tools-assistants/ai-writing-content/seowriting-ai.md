@@ -1,8 +1,9 @@
 ---
 title: "SEOWriting.AI"
 tagline: "Ready to get started? Visit [SEOWriting.AI](https://seowriting.ai) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "SEOWriting.AI"
 deployment_status: "deployed"
 image: "/images/tools/seowriting-ai-placeholder.jpg"

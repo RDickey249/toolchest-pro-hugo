@@ -2,6 +2,7 @@
 title: "Phrase - Localization platform"
 tagline: "Phrase is a comprehensive localization platform that streamlines the translation and localization process for software development teams through automation, collaboration tools, and seamless developer integrations..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "Phrase"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "AWS Amplify"
 tagline: "Full-stack development platform with hosting and backend services"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "AWS Amplify"
 deployment_status: "deployed"
 image: "/images/tools/aws-amplify-placeholder.jpg"

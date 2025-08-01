@@ -1,8 +1,9 @@
 ---
 title: "Fossil"
 tagline: "DVCS with built-in bug tracking, wiki, and web interface"
-category: "💻 Development & Technical Tools"
-subcategory: "Version Control & Collaboration"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Version Control Collaboration"
 tool_name: "Fossil"
 deployment_status: "deployed"
 image: "/images/tools/fossil-placeholder.jpg"

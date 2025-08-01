@@ -1,8 +1,9 @@
 ---
 title: "MonkeyLearn"
 tagline: "AI-powered text analysis for sentiment and topic extraction"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "MonkeyLearn"
 deployment_status: "deployed"
 image: "/images/tools/monkeylearn-placeholder.jpg"

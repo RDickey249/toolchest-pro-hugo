@@ -2,6 +2,7 @@
 title: "GlobeSmart - Cultural intelligence platform"
 tagline: "GlobeSmart is a cultural intelligence platform that provides cultural insights, team collaboration tools, and personalized guidance for working effectively across cultures in global business environments..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "GlobeSmart"
 deployment_status: "deployed"

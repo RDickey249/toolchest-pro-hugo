@@ -2,6 +2,7 @@
 title: "OneSky - Localization service"
 tagline: "OneSky is a localization service that combines translation management technology with professional translation services, offering end-to-end solutions for mobile apps, websites, and software localization..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "OneSky"
 deployment_status: "deployed"

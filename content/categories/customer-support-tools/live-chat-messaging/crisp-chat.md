@@ -1,8 +1,9 @@
 ---
 title: "Crisp Chat"
 tagline: "All-in-one multichannel messaging platform"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Live Chat Messaging"
 tool_name: "Crisp Chat"
 deployment_status: "deployed"
 image: "/images/tools/crisp-chat-placeholder.jpg"

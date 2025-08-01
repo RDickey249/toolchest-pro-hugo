@@ -1,8 +1,9 @@
 ---
 title: "Terraform"
 tagline: "Infrastructure as code tool for provisioning cloud resources across providers"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Devops Infrastructure Tools"
 tool_name: "Terraform"
 deployment_status: "deployed"
 image: "/images/tools/terraform-placeholder.jpg"

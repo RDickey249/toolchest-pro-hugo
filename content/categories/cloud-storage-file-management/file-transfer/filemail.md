@@ -1,8 +1,9 @@
 ---
 title: "Filemail"
 tagline: "Large file email"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "File Transfer"
 tool_name: "Filemail"
 deployment_status: "deployed"
 image: "/images/tools/filemail-placeholder.jpg"

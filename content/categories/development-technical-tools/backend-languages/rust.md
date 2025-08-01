@@ -1,8 +1,9 @@
 ---
 title: "Rust"
 tagline: "Systems programming language focused on safety, speed, and concurrency"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Rust"
 deployment_status: "deployed"
 image: "/images/tools/rust-placeholder.jpg"

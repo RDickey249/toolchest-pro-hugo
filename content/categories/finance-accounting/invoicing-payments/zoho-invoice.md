@@ -1,8 +1,9 @@
 ---
 title: "Zoho-invoice"
 tagline: "Payment solution"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Invoicing Payments"
 tool_name: "Zoho-invoice"
 deployment_status: "deployed"
 image: "/images/tools/zoho-invoice-placeholder.jpg"

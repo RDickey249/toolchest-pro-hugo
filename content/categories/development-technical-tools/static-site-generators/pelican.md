@@ -1,8 +1,9 @@
 ---
 title: "Pelican"
 tagline: "Python-powered static site generator with flexible content management"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Static Site Generators"
 tool_name: "Pelican"
 deployment_status: "deployed"
 image: "/images/tools/pelican-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "SharePoint"
 tagline: "Microsoft collaboration"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "Business File Management"
 tool_name: "SharePoint"
 deployment_status: "deployed"
 image: "/images/tools/sharepoint-placeholder.jpg"

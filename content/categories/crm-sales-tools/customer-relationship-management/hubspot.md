@@ -1,8 +1,8 @@
 ---
 title: "HubSpot"
 tagline: "Inbound marketing CRM"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "CRM & Sales Tools"
+subcategory: "Customer Relationship Management"
 tool_name: "HubSpot"
 deployment_status: "deployed"
 image: "/images/tools/hubspot-placeholder.jpg"

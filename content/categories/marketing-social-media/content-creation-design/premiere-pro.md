@@ -2,7 +2,8 @@
 title: "Premiere Pro - Video editing"
 tagline: "Adobe Premiere Pro is the industry-standard video editing software for professional film, television, and digital content creation with advanced editing tools and workflow integration..."
 category: "Marketing & Social Media"
-subcategory: "Content Creation & Design"
+categories: ["Marketing & Social Media"]
+subcategory: "Content Creation Design"
 tool_name: "Premiere Pro"
 deployment_status: "deployed"
 image: "/images/tools/premiere-pro-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "FreshBooks"
 tagline: "Freelancer-friendly"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Accounting Software"
 tool_name: "FreshBooks"
 deployment_status: "deployed"
 image: "/images/tools/freshbooks-placeholder.jpg"

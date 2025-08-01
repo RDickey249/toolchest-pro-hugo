@@ -1,8 +1,9 @@
 ---
 title: "PromptPerfect"
 tagline: "Optimize your AI prompts for better results. Visit [promptperfect.jina.ai](https://promptperfect.jina.ai) to start improving your prompts with AI-powe..."
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Prompt Engineering"
 tool_name: "PromptPerfect"
 deployment_status: "deployed"
 image: "/images/tools/promptperfect-placeholder.jpg"

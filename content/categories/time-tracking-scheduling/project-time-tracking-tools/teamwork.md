@@ -1,8 +1,9 @@
 ---
 title: "Teamwork"
 tagline: "Ready to get started? Visit [Teamwork](https://teamwork.com) to explore the platform and begin using this tool...."
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Project Time Tracking Tools"
 tool_name: "Teamwork"
 deployment_status: "deployed"
 image: "/images/tools/teamwork-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Bubble"
 tagline: "No-code web app builder"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Web Design Development"
 tool_name: "Bubble"
 deployment_status: "deployed"
 image: "/images/tools/bubble-placeholder.jpg"

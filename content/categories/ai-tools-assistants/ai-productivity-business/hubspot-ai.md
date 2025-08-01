@@ -2,7 +2,8 @@
 title: "HubSpot AI - CRM with AI features"
 tagline: "HubSpot AI transforms customer relationship management by integrating artificial intelligence throughout the sales, marketing, and service workflows to drive better customer experiences and revenue growth..."
 category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "HubSpot AI"
 deployment_status: "deployed"
 image: "/images/tools/hubspot-ai-placeholder.jpg"

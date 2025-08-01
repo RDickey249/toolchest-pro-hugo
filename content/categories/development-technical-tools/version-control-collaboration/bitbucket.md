@@ -1,8 +1,9 @@
 ---
 title: "Bitbucket"
 tagline: "Git solution with Jira integration and CI/CD pipelines"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Version Control Collaboration"
 tool_name: "Bitbucket"
 deployment_status: "deployed"
 image: "/images/tools/bitbucket-placeholder.jpg"

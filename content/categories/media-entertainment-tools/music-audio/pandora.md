@@ -1,8 +1,9 @@
 ---
 title: "Pandora"
 tagline: "Personalized internet radio with Music Genome Project"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "Pandora"
 deployment_status: "deployed"
 image: "/images/tools/pandora-placeholder.jpg"

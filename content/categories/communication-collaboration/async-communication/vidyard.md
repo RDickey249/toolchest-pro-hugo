@@ -1,8 +1,8 @@
 ---
 title: "Vidyard"
 tagline: "Video messaging for sales"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Communication & Collaboration"
+subcategory: "Async Communication"
 tool_name: "Vidyard"
 deployment_status: "deployed"
 image: "/images/tools/vidyard-placeholder.jpg"

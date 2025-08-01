@@ -1,8 +1,9 @@
 ---
 title: "pip"
 tagline: "Python package installer and dependency management tool"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Package Managers"
 tool_name: "pip"
 deployment_status: "deployed"
 image: "/images/tools/pip-placeholder.jpg"

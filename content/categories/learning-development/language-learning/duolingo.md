@@ -2,6 +2,7 @@
 title: "Duolingo - Gamified language learning"
 tagline: "Duolingo is a gamified language learning platform that makes acquiring new languages engaging and accessible through bite-sized lessons, interactive exercises, and a reward-based progression system..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Duolingo"
 deployment_status: "deployed"

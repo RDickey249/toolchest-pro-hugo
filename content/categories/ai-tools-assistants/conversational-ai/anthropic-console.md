@@ -1,8 +1,9 @@
 ---
 title: "Anthropic Console"
 tagline: "[Build with Anthropic Console →](https://console.anthropic.com)..."
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Anthropic Console"
 deployment_status: "deployed"
 image: "/images/tools/anthropic-console-placeholder.jpg"

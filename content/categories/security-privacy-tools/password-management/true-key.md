@@ -1,8 +1,9 @@
 ---
 title: "True Key"
 tagline: "Intel's password manager"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Password Management"
 tool_name: "True Key"
 deployment_status: "deployed"
 image: "/images/tools/true-key-placeholder.jpg"

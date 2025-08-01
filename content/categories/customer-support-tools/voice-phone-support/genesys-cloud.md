@@ -1,8 +1,9 @@
 ---
 title: "Genesys Cloud"
 tagline: "All-in-one cloud contact center and customer experience platform"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Voice Phone Support"
 tool_name: "Genesys Cloud"
 deployment_status: "deployed"
 image: "/images/tools/genesys-cloud-placeholder.jpg"

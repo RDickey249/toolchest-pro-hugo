@@ -1,7 +1,8 @@
 ---
 title: "Corporate Filings"
 tagline: "State filing services"
-category: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
 subcategory: "Legal Document Management"
 tool_name: "Corporate Filings"
 deployment_status: "deployed"

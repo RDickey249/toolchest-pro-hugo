@@ -2,6 +2,7 @@
 title: "Crowdin - Localization management platform"
 tagline: "Crowdin is a localization management platform that enables collaborative translation through crowdsourcing, professional services, and automated workflows for software, websites, and digital content..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Crowdin"
 deployment_status: "deployed"

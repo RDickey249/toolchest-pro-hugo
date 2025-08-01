@@ -1,8 +1,8 @@
 ---
 title: "Metabase"
 tagline: "Open-source BI"
-category: "📊 Analytics & Data Tools"
-subcategory: "📊 Analytics & Data Tools"
+category: "Analytics & Data Tools"
+subcategory: "Business Intelligence"
 tool_name: "Metabase"
 deployment_status: "deployed"
 image: "/images/tools/metabase-placeholder.jpg"

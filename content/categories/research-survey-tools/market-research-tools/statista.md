@@ -1,8 +1,9 @@
 ---
 title: "Statista"
 tagline: "Leading statistics and market data platform"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "Market Research Tools"
 tool_name: "Statista"
 deployment_status: "deployed"
 image: "/images/tools/statista-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Klarna"
 tagline: "Buy now, pay later"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Payment Processing"
 tool_name: "Klarna"
 deployment_status: "deployed"
 image: "/images/tools/klarna-placeholder.jpg"

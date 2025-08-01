@@ -1,8 +1,9 @@
 ---
 title: "2Checkout"
 tagline: "Global payment processing"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Payment Processing"
 tool_name: "2Checkout"
 deployment_status: "deployed"
 image: "/images/tools/2checkout-placeholder.jpg"

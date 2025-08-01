@@ -1,8 +1,9 @@
 ---
 title: "Signiant"
 tagline: "Media file transfer"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "File Transfer"
 tool_name: "Signiant"
 deployment_status: "deployed"
 image: "/images/tools/signiant-placeholder.jpg"

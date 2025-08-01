@@ -2,8 +2,9 @@
 title: "Poe"
 slug: "poe"
 layout: "tool"
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 seo_title: "Poe Review: Multiple AI Models in One Platform by Quora"
 description: "Access ChatGPT, Claude, GPT-4, and more AI models in one unified platform. Compare responses, switch between models instantly, and find the perfect AI for every task."
 featured_image: ""

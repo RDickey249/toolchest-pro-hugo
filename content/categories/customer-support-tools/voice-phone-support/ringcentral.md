@@ -1,8 +1,9 @@
 ---
 title: "RingCentral"
 tagline: "Unified communications platform for voice, video, and messaging"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Voice Phone Support"
 tool_name: "RingCentral"
 deployment_status: "deployed"
 image: "/images/tools/ringcentral-placeholder.jpg"

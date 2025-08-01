@@ -1,8 +1,9 @@
 ---
 title: "Google Tasks"
 tagline: "Simple Google Workspace task integration with Gmail and Calendar"
-category: "⏰ Time Tracking & Scheduling"
-subcategory: "⏰ Time Tracking & Scheduling"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Task Project Management"
 tool_name: "Google Tasks"
 deployment_status: "deployed"
 image: "/images/tools/google-tasks-placeholder.jpg"

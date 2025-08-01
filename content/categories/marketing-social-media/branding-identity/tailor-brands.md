@@ -1,8 +1,9 @@
 ---
 title: "Tailor Brands"
 tagline: "Complete brand ecosystem with business services"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Branding Identity"
 tool_name: "Tailor Brands"
 deployment_status: "deployed"
 image: "/images/tools/tailor-brands-placeholder.jpg"

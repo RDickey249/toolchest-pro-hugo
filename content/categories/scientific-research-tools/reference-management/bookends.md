@@ -2,6 +2,7 @@
 title: "Bookends - Mac reference manager"
 tagline: "Bookends is a comprehensive reference management application designed specifically for Mac users, offering powerful bibliographic organization and citation formatting capabilities..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Reference Management"
 tool_name: "Bookends"
 deployment_status: "deployed"

@@ -2,6 +2,7 @@
 title: "Brilliant - Math and science concepts"
 tagline: "Brilliant is an interactive learning platform that teaches math and science concepts through problem-solving and visual explanations, making complex topics accessible through hands-on exploration and guided discovery..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Brilliant"
 deployment_status: "deployed"

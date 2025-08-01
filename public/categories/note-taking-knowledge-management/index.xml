@@ -7,5 +7,180 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/note-taking-knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Notes</title>
+      <link>https://toolchest.pro/categories/apple-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/apple-notes/</guid>
+      <description>Apple Notes is the native note-taking app that provides seamless integration across all Apple devices with instant synchronization through iCloud.&#xA;Key Features Apple ecosystem integration - Seamless sync across iPhone, iPad, Mac Rich text formatting - Bold, italics, lists, and tables Document scanning - Capture documents with camera Handwriting support - Apple Pencil compatibility on iPad Shared notes - Collaborate with other Apple users Siri integration - Voice commands and dictation Lock screen access - Quick note capture without unlocking Use Cases Quick thought capture and daily notes Shopping lists and reminders Meeting notes and project planning Family note sharing Apple ecosystem productivity Get Started with Apple Notes Capture thoughts instantly across your Apple devices.</description>
+    </item>
+    <item>
+      <title>Bear</title>
+      <link>https://toolchest.pro/categories/bear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/bear/</guid>
+      <description>Bear is an elegant markdown note-taking app designed for Apple devices that combines beautiful design with powerful writing and organization features.&#xA;Key Features Markdown editing - Clean, distraction-free markdown writing Nested tags - Flexible hashtag-based organization Cross-note linking - Connect notes with internal links Multiple themes - Beautiful themes for different preferences Apple ecosystem sync - Seamless sync across Mac, iPhone, iPad Advanced export - Multiple export formats and options Focus mode - Distraction-free writing environment Use Cases Creative writing and journalism Technical documentation with code Personal note organization Apple ecosystem productivity Markdown-based content creation Get Started with Bear Write beautifully on Apple devices.</description>
+    </item>
+    <item>
+      <title>BookStack</title>
+      <link>https://toolchest.pro/categories/bookstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/bookstack/</guid>
+      <description>BookStack is a self-hosted wiki platform that provides intuitive knowledge management for organizations requiring complete control over their documentation.&#xA;Key Features Self-hosted solution - Complete data sovereignty and control Hierarchical organization - Books, chapters, and pages structure Collaborative editing - Real-time multi-user editing Role-based permissions - Granular access control Search functionality - Powerful full-text search capabilities Audit logging - Track all changes and user activity API access - Integrate with external systems Use Cases Internal company documentation Technical knowledge bases Project documentation Team collaboration wikis Private documentation systems Get Started with BookStack Take control of your documentation with self-hosted wiki.</description>
+    </item>
+    <item>
+      <title>Confluence</title>
+      <link>https://toolchest.pro/categories/confluence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/confluence/</guid>
+      <description>Confluence is Atlassian&amp;rsquo;s enterprise wiki platform that enables organizations to create, organize, and maintain collaborative documentation and knowledge sharing at scale.&#xA;Key Features Page hierarchies - Organize content in structured spaces and pages Collaborative editing - Real-time editing with comments and mentions Template system - Blueprint templates for consistent documentation Atlassian integration - Native connection with Jira, Bitbucket, and other tools Space permissions - Granular access control for teams and projects Advanced search - Powerful search across all content and attachments Analytics and insights - Track content usage and engagement Use Cases Enterprise knowledge management Project documentation and collaboration Team wikis and company policies Product documentation and requirements Meeting notes and decision tracking Get Started with Confluence Build collaborative knowledge bases for your organization.</description>
+    </item>
+    <item>
+      <title>Day One</title>
+      <link>https://toolchest.pro/categories/day-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/day-one/</guid>
+      <description>Day One is a digital journaling app that encourages consistent reflection and memory preservation with privacy-focused features and beautiful design.&#xA;Key Features Multiple journals - Separate journals for different topics Rich media support - Add photos, videos, and audio Location tracking - Automatic location and weather data Mood tracking - Track emotional patterns over time End-to-end encryption - Complete privacy protection Book printing - Create beautiful physical books Smart reminders - Encouraging prompts for consistency Use Cases Daily reflection and gratitude journaling Travel documentation and memories Personal growth tracking Life milestone recording Mindfulness and self-awareness Get Started with Day One Capture life&amp;rsquo;s moments with thoughtful journaling.</description>
+    </item>
+    <item>
+      <title>Document360</title>
+      <link>https://toolchest.pro/categories/document360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/document360/</guid>
+      <description>Document360 is a comprehensive knowledge management platform that enables businesses to create both public customer-facing help centers and private internal wikis. It combines professional design capabilities with powerful analytics to track content performance and user engagement.&#xA;What distinguishes Document360 is its dual-purpose approach, supporting both external customer documentation and internal team knowledge sharing within the same platform. It offers advanced features like API documentation tools, approval workflows, and detailed analytics that many basic wiki solutions lack.</description>
+    </item>
+    <item>
+      <title>DokuWiki</title>
+      <link>https://toolchest.pro/categories/dokuwiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/dokuwiki/</guid>
+      <description>DokuWiki is a file-based wiki that requires no database, enabling organizations to maintain wikis using plain text files for simple, reliable knowledge management.&#xA;Key Features No database required - Store everything in plain text files Namespace organization - Hierarchical page structure Access control - Granular user permissions Revision tracking - Complete edit history Plugin ecosystem - Extensive customization options Syntax highlighting - Code formatting support Media management - Image and file handling Use Cases Technical documentation wikis Small to medium team collaboration Project documentation Low-maintenance knowledge bases Self-hosted documentation sites Get Started with DokuWiki Deploy a simple, database-free wiki.</description>
+    </item>
+    <item>
+      <title>Evernote</title>
+      <link>https://toolchest.pro/categories/evernote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/evernote/</guid>
+      <description>Evernote is a comprehensive digital notebook that provides powerful capture, organization, and search capabilities for personal and professional information management.&#xA;Key Features Web clipping - Save articles and web content directly Document scanning - Digitize physical documents Handwriting recognition - Search text within handwritten notes Cross-platform sync - Access notes on all devices Powerful search - OCR and content search capabilities Notebook organization - Hierarchical note organization Team collaboration - Share notebooks and collaborate Use Cases Research collection and organization Meeting notes and project documentation Web content archiving Document digitization and storage Long-term information management Get Started with Evernote Capture and organize everything that matters.</description>
+    </item>
+    <item>
+      <title>Google Keep</title>
+      <link>https://toolchest.pro/categories/google-keep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/google-keep/</guid>
+      <description>Google Keep is a simple note-taking app that uses a visual sticky-note interface for quick thought capture, checklists, and reminders with Google ecosystem integration.&#xA;Key Features Visual sticky notes - Colorful, card-based note organization Voice recordings - Capture thoughts by speaking Image notes - Add photos and extract text from images Location reminders - Get notified at specific places Collaborative sharing - Share notes with others Google Assistant integration - Voice commands and dictation Cross-device sync - Access notes everywhere Use Cases Quick thought capture and reminders Shopping lists and to-do items Visual note organization Voice note recording Google ecosystem productivity Get Started with Google Keep Capture ideas instantly with visual notes.</description>
+    </item>
+    <item>
+      <title>Guru</title>
+      <link>https://toolchest.pro/categories/guru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/guru/</guid>
+      <description>Guru is a real-time knowledge management platform that maintains trusted, verified information through continuous accuracy tracking and contextual delivery when teams need it most.&#xA;Key Features Knowledge cards - Bite-sized, verified information units Verification workflows - Continuous accuracy tracking and content ownership Browser extension - Surface knowledge contextually while working AI-powered suggestions - Intelligent content recommendations Team collaboration - Collaborative editing and knowledge sharing Analytics dashboard - Track knowledge usage and effectiveness Integration ecosystem - Connect with existing workflow tools Use Cases Customer support knowledge management Sales enablement and training Employee onboarding and training Real-time knowledge sharing Contextual information delivery Get Started with Guru Maintain verified, real-time knowledge for your team.</description>
+    </item>
+    <item>
+      <title>Helpjuice</title>
+      <link>https://toolchest.pro/categories/helpjuice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/helpjuice/</guid>
+      <description>Helpjuice is a customer-focused knowledge base platform designed to reduce support tickets while improving customer satisfaction through comprehensive self-service documentation.&#xA;Key Features Advanced search - Intelligent search with auto-suggestions and filters Custom branding - Professional design with custom themes and domains Multi-language support - Localized content for global customers Analytics tracking - Detailed insights on article performance and user behavior Article suggestions - AI-powered content recommendations Team collaboration - Multi-author editing and approval workflows SEO optimization - Built-in SEO tools for better search visibility Use Cases Customer support self-service portals SaaS product documentation FAQ and help center management Internal team knowledge sharing Multilingual customer support Get Started with Helpjuice Reduce support tickets with customer-focused knowledge bases.</description>
+    </item>
+    <item>
+      <title>Joplin</title>
+      <link>https://toolchest.pro/categories/joplin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/joplin/</guid>
+      <description>Joplin is an open-source note-taking application that provides comprehensive features while ensuring complete data ownership and freedom from vendor lock-in.&#xA;Key Features Open-source - Complete transparency with full control over your data Markdown editing - Write notes in markdown with live preview Multi-platform sync - Synchronize across devices using your preferred cloud service End-to-end encryption - Secure your notes with client-side encryption Web clipper - Save web content directly to your notebooks Plugin system - Extend functionality with community plugins Offline access - Full functionality without internet connection Use Cases Privacy-focused note-taking Developer documentation and code notes Research and academic writing Personal knowledge management Secure note storage and organization Get Started with Joplin Take control of your notes with open-source freedom.</description>
+    </item>
+    <item>
+      <title>Journey</title>
+      <link>https://toolchest.pro/categories/journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/journey/</guid>
+      <description>Journey is a cross-platform journaling app that enables users to maintain consistent reflection habits across all devices with rich multimedia features.&#xA;Key Features Cross-platform sync - Available on all major platforms Multimedia entries - Add photos, videos, and voice recordings Location mapping - Automatic location and weather data Mood tracking - Track emotional patterns over time Timeline views - Browse entries chronologically Search functionality - Find entries across all content Export options - Multiple backup and export formats Use Cases Daily journaling and reflection Travel documentation Life milestone recording Mood and habit tracking Cross-device journal access Get Started with Journey Capture life&amp;rsquo;s moments across all your devices.</description>
+    </item>
+    <item>
+      <title>Logseq</title>
+      <link>https://toolchest.pro/categories/logseq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/logseq/</guid>
+      <description>Logseq is an open-source knowledge graph tool that enables privacy-focused note-taking with complete data control and local-first architecture.&#xA;Key Features Local-first storage - All data stored locally with optional Git sync Knowledge graphs - Visualize connections between ideas Bidirectional linking - Connect notes with automatic backlinking Block references - Reference any block across notes PDF annotation - Annotate PDFs with linked notes Custom queries - Build dynamic content views Plugin ecosystem - Extend functionality with community plugins Use Cases Privacy-focused knowledge management Academic research and note-taking Personal knowledge graphs Zettelkasten methodology Local-first documentation Get Started with Logseq Build your private knowledge graph.</description>
+    </item>
+    <item>
+      <title>MediaWiki</title>
+      <link>https://toolchest.pro/categories/mediawiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/mediawiki/</guid>
+      <description>MediaWiki is the battle-tested wiki software that powers Wikipedia, enabling organizations to create comprehensive knowledge bases for large-scale collaborative documentation.&#xA;Key Features Scalable architecture - Handle millions of pages and users Revision control - Complete edit history and version tracking User management - Advanced permissions and role systems Extension ecosystem - Thousands of available extensions Multi-language support - International content management Template systems - Reusable content templates Discussion pages - Built-in collaboration features Use Cases Large-scale organizational wikis Educational resource platforms Corporate knowledge bases Community documentation projects Multi-language content sites Get Started with MediaWiki Deploy Wikipedia&amp;rsquo;s proven wiki software.</description>
+    </item>
+    <item>
+      <title>OneNote</title>
+      <link>https://toolchest.pro/categories/onenote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/onenote/</guid>
+      <description>OneNote is Microsoft&amp;rsquo;s free digital notebook application that provides flexible, free-form note-taking with seamless integration across the Microsoft Office ecosystem.&#xA;Key Features Digital notebook organization - Structure notes in sections and pages Handwriting support - Write naturally with stylus or finger input Audio and video recording - Capture lectures and meetings Real-time collaboration - Share notebooks with team members Office integration - Seamless workflow with Word, Excel, and PowerPoint Cross-platform sync - Access notes on Windows, Mac, iOS, and Android Search functionality - Find text within handwritten notes and images Use Cases Student note-taking and research Business meeting notes and collaboration Project documentation and planning Creative sketching and brainstorming Knowledge management for teams Get Started with OneNote Capture ideas with Microsoft&amp;rsquo;s flexible digital notebook.</description>
+    </item>
+    <item>
+      <title>Outline</title>
+      <link>https://toolchest.pro/categories/outline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/outline/</guid>
+      <description>Outline is a fast, collaborative wiki platform designed for modern teams who need to capture and share knowledge quickly without traditional wiki complexity.&#xA;Key Features Lightning-fast performance - Optimized architecture for instant responsiveness Real-time collaboration - Simultaneous editing with live updates Collection organization - Structured content organization and navigation Powerful search - Fast, comprehensive search across all documents Markdown support - Write with familiar markdown syntax Slack integration - Seamless workflow with team communication Guest access - Share content with external collaborators Use Cases Team documentation and wikis Project knowledge sharing Company handbooks and policies Meeting notes and decisions Remote team collaboration Get Started with Outline Capture and share team knowledge at the speed of thought.</description>
+    </item>
+    <item>
+      <title>QOwnNotes</title>
+      <link>https://toolchest.pro/categories/qownnotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/qownnotes/</guid>
+      <description>QOwnNotes is a desktop note-taking application that works directly with markdown files, providing powerful features while maintaining complete local file control.&#xA;Key Features Plain text files - Work directly with markdown files Desktop-focused - Native application performance Folder synchronization - Sync with cloud storage services Script support - Extensible with custom scripts Todo integration - Built-in task management Note linking - Connect notes with internal links Encryption support - Secure sensitive content Use Cases Local file-based note-taking Developer documentation Markdown-based writing Cross-platform note management Privacy-focused note storage Get Started with QOwnNotes Take control of your notes with local file storage.</description>
+    </item>
+    <item>
+      <title>RemNote</title>
+      <link>https://toolchest.pro/categories/remnote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/remnote/</guid>
+      <description>RemNote is a note-taking app that integrates spaced repetition learning by automatically transforming notes into flashcards for enhanced memory retention.&#xA;Key Features Automatic flashcards - Convert notes into spaced repetition cards Hierarchical notes - Organize content in structured outlines PDF annotation - Annotate documents with linked notes Learning statistics - Track study progress and retention LaTeX equations - Mathematical notation support Concept mapping - Visual relationship building Smart scheduling - Optimized review timing algorithms Use Cases Medical and law school studying Academic research and learning Professional skill development Exam preparation and review Long-term knowledge retention Get Started with RemNote Transform your notes into learning tools.</description>
+    </item>
+    <item>
+      <title>Simplenote</title>
+      <link>https://toolchest.pro/categories/simplenote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/simplenote/</guid>
+      <description>Simplenote is a minimalist note-taking app focused on distraction-free writing and seamless synchronization across all devices.&#xA;Key Features Pure text focus - Clean interface without formatting distractions Instant sync - Notes appear across all devices immediately Version history - Access previous versions of any note Markdown support - Simple formatting with markdown syntax Tag organization - Organize notes with flexible tagging system Collaborative editing - Share and edit notes with others Offline access - Full functionality without internet connection Use Cases Distraction-free writing and journaling Quick note capture and idea recording Collaborative document editing Cross-platform note synchronization Minimalist productivity workflows Get Started with Simplenote Experience true simplicity in note-taking.</description>
+    </item>
+    <item>
+      <title>Slab</title>
+      <link>https://toolchest.pro/categories/slab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/slab/</guid>
+      <description>Slab is a modern team wiki platform that combines beautiful design with powerful knowledge management features to help teams create, organize, and discover information effectively.&#xA;Key Features Beautiful design - Elegant, user-friendly interface with modern aesthetics Topic organization - Intelligent content structure and categorization Powerful search - Fast, comprehensive search across all content Verified answers - Quality control with content verification system Real-time collaboration - Simultaneous editing with team members Analytics insights - Track content usage and team engagement Integration ecosystem - Connect with popular workflow tools Use Cases Team knowledge bases and wikis Company policies and procedures Technical documentation and guides Project documentation and resources Onboarding and training materials Get Started with Slab Create knowledge bases that teams actually want to use.</description>
+    </item>
+    <item>
+      <title>Standard Notes</title>
+      <link>https://toolchest.pro/categories/standard-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/standard-notes/</guid>
+      <description>Standard Notes is a privacy-focused note-taking app that provides end-to-end encryption to ensure complete control over personal information and data.&#xA;Key Features End-to-end encryption - All notes encrypted before sync Open-source foundation - Transparent security practices Extension system - Custom editors and themes Version history - Access previous note versions Cross-platform sync - Secure synchronization across devices Self-hosting options - Deploy your own server Offline access - Full functionality without internet Use Cases Privacy-sensitive note-taking Journalist and activist documentation Secure personal journaling Professional confidential notes Security-conscious information storage Get Started with Standard Notes Protect your thoughts with true privacy.</description>
+    </item>
+    <item>
+      <title>TiddlyWiki</title>
+      <link>https://toolchest.pro/categories/tiddlywiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/tiddlywiki/</guid>
+      <description>TiddlyWiki is a unique single-file wiki that enables users to create interconnected knowledge networks that run entirely in browsers with complete portability.&#xA;Key Features Single-file architecture - Everything stored in one HTML file Non-linear structure - Interconnected tiddlers and content Complete portability - Runs in any modern browser Powerful linking - Dynamic content relationships Tagging system - Flexible content organization Macro programming - Advanced customization capabilities Plugin ecosystem - Extensive functionality extensions Use Cases Personal knowledge management Research documentation Non-linear note-taking Portable wiki creation Educational content development Get Started with TiddlyWiki Create your portable, interconnected knowledge base.</description>
+    </item>
+    <item>
+      <title>Trilium</title>
+      <link>https://toolchest.pro/categories/trilium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/trilium/</guid>
+      <description>Trilium is a self-hosted personal knowledge management system that uses hierarchical tree structures to organize complex information with infinite nesting capabilities.&#xA;Key Features Hierarchical organization - Tree structure with infinite nesting Note cloning - Reference notes in multiple locations Attribute system - Custom metadata and properties Scripting capabilities - Automate with custom scripts Relation mapping - Visualize note relationships Full-text search - Powerful search capabilities Self-hosted - Complete data control and privacy Use Cases Personal knowledge management Research organization Complex documentation systems Self-hosted note databases Sophisticated information architecture Get Started with Trilium Build your personal knowledge empire.</description>
+    </item>
+    <item>
+      <title>Ulysses</title>
+      <link>https://toolchest.pro/categories/ulysses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/ulysses/</guid>
+      <description>Ulysses is a professional writing app that provides a distraction-free environment for authors, journalists, and bloggers to manage complex writing projects from notes to publication.&#xA;Key Features Distraction-free writing - Clean, focused writing environment Project organization - Hierarchical structure for complex projects Goal tracking - Set and monitor writing targets Publishing integration - Direct publishing to WordPress and Medium Style sheets - Customize formatting and export styles Writing statistics - Track progress and productivity Revision mode - Track changes and edits Use Cases Novel and book writing Academic writing and dissertations Blog post creation and management Journalism and article writing Long-form content projects Get Started with Ulysses Focus on your writing with professional tools.</description>
+    </item>
   </channel>
 </rss>

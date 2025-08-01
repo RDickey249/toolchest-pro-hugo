@@ -1,7 +1,8 @@
 ---
 title: "Targetprocess"
 tagline: "Visual management for Agile at scale"
-category: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
 subcategory: "Advanced Project Management"
 tool_name: "Targetprocess"
 deployment_status: "deployed"

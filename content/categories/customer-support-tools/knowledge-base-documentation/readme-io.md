@@ -1,8 +1,9 @@
 ---
 title: "ReadMe"
 tagline: "Beautiful API documentation your developers will love"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Knowledge Base Documentation"
 tool_name: "ReadMe"
 deployment_status: "deployed"
 image: "/images/tools/readme-io-placeholder.jpg"

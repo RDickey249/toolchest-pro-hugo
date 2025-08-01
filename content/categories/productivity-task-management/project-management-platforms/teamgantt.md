@@ -1,7 +1,8 @@
 ---
 title: "TeamGantt"
 tagline: "Ready to get started? Visit [this tool](https://www.teamgantt.com) to explore the platform and begin using this tool...."
-category: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "TeamGantt"
 deployment_status: "deployed"

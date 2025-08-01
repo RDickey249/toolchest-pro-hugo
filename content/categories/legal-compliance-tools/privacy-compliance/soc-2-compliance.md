@@ -1,8 +1,9 @@
 ---
 title: "SOC 2 Compliance"
 tagline: "Vanta, SecureFrame, etc."
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Privacy Compliance"
 tool_name: "SOC 2 Compliance"
 deployment_status: "deployed"
 image: "/images/tools/soc-2-compliance-placeholder.jpg"

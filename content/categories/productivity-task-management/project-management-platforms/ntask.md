@@ -1,8 +1,9 @@
 ---
 title: "nTask"
 tagline: "Ready to access professional project management at budget-friendly pricing?..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "nTask"
 deployment_status: "deployed"
 image: "/images/tools/ntask-placeholder.jpg"

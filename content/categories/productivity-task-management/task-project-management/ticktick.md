@@ -1,8 +1,9 @@
 ---
 title: "TickTick"
 tagline: "Feature-rich task manager with Pomodoro timer and habits"
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Task Project Management"
 tool_name: "TickTick"
 deployment_status: "deployed"
 image: "/images/tools/ticktick-placeholder.jpg"

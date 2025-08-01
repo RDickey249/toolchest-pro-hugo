@@ -2,6 +2,7 @@
 title: "Translation Workspace - Enterprise localization"
 tagline: "Translation Workspace is an enterprise localization platform that provides comprehensive translation management, workflow automation, and quality assurance tools for large-scale, multi-language content operations..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Translation Workspace"
 deployment_status: "deployed"

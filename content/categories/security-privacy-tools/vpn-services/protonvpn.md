@@ -1,8 +1,9 @@
 ---
 title: "ProtonVPN"
 tagline: "Privacy-focused VPN"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Vpn Services"
 tool_name: "ProtonVPN"
 deployment_status: "deployed"
 image: "/images/tools/protonvpn-placeholder.jpg"

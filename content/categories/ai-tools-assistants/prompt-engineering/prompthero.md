@@ -1,8 +1,9 @@
 ---
 title: "PromptHero"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Prompt Engineering"
 tool_name: "PromptHero"
 deployment_status: "deployed"
 image: "/images/tools/prompthero-placeholder.jpg"

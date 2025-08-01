@@ -1,8 +1,9 @@
 ---
 title: "Todoist"
 tagline: "Natural language task management with project organization and collaboration"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Task Project Management"
 tool_name: "Todoist"
 deployment_status: "deployed"
 image: "/images/tools/todoist-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Freshdesk"
 tagline: "Cloud-based customer support software with powerful automation"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Help Desk Platforms"
 tool_name: "Freshdesk"
 deployment_status: "deployed"
 image: "/images/tools/freshdesk-placeholder.jpg"

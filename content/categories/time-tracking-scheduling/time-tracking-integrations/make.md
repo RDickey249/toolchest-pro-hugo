@@ -1,8 +1,9 @@
 ---
 title: "Make (Integromat)"
 tagline: "Ready to get started? Visit [Make](https://www.make.com) to explore the platform and begin using this tool...."
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking Integrations"
 tool_name: "Make (Integromat)"
 deployment_status: "deployed"
 image: "/images/tools/make-placeholder.jpg"

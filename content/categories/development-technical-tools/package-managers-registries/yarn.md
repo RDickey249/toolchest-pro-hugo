@@ -1,8 +1,9 @@
 ---
 title: "Yarn"
 tagline: "Fast, reliable alternative to npm with deterministic installs"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Package Managers Registries"
 tool_name: "Yarn"
 deployment_status: "deployed"
 image: "/images/tools/yarn-placeholder.jpg"

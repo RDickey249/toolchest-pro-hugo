@@ -1,13 +1,13 @@
 ---
 title: "ClickFunnels"
 tagline: "Sales funnel builder"
-category: "📱 Marketing & Social Media"
+category: "Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "ClickFunnels"
 deployment_status: "deployed"
 image: "/images/tools/clickfunnels-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
-categories: ["Business Marketing Tools"]
+categories: ["Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true

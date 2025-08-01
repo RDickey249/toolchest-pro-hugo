@@ -1,8 +1,9 @@
 ---
 title: "Stylus"
 tagline: "Expressive CSS preprocessor with flexible syntax and powerful features"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Frontend Languages"
 tool_name: "Stylus"
 deployment_status: "deployed"
 image: "/images/tools/stylus-placeholder.jpg"

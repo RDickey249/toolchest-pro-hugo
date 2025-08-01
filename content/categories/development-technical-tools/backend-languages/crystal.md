@@ -1,8 +1,9 @@
 ---
 title: "Crystal"
 tagline: "Statically typed language with Ruby-like syntax and C-level performance"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Crystal"
 deployment_status: "deployed"
 image: "/images/tools/crystal-placeholder.jpg"

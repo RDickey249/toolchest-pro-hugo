@@ -1,8 +1,9 @@
 ---
 title: "FlexClip"
 tagline: "Ready to get started? Visit [FlexClip](https://www.flexclip.com) to explore the platform and begin using this tool...."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Creation Editing"
 tool_name: "FlexClip"
 deployment_status: "deployed"
 image: "/images/tools/flexclip-placeholder.jpg"

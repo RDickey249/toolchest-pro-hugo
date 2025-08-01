@@ -1,8 +1,9 @@
 ---
 title: "Monosnap"
 tagline: "Screenshot annotation"
-category: "💬 Communication & Collaboration"
-subcategory: "💬 Communication & Collaboration"
+category: "Communication & Collaboration"
+categories: ["Communication & Collaboration"]
+subcategory: "Async Communication"
 tool_name: "Monosnap"
 deployment_status: "deployed"
 image: "/images/tools/monosnap-placeholder.jpg"

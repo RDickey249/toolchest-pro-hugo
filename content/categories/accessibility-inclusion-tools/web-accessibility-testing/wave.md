@@ -2,6 +2,7 @@
 title: "WAVE - Web accessibility evaluation"
 tagline: "Free web accessibility testing for everyone"
 category: "Accessibility & Inclusion Tools"
+categories: ["Accessibility & Inclusion Tools"]
 subcategory: "Web Accessibility Testing"
 tool_name: "WAVE - Web accessibility evaluation"
 deployment_status: "deployed"

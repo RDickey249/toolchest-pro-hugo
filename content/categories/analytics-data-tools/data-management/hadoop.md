@@ -1,8 +1,8 @@
 ---
 title: "Hadoop"
 tagline: "Distributed storage"
-category: "📊 Analytics & Data Tools"
-subcategory: "📊 Analytics & Data Tools"
+category: "Analytics & Data Tools"
+subcategory: "Data Management"
 tool_name: "Hadoop"
 deployment_status: "deployed"
 image: "/images/tools/hadoop-placeholder.jpg"

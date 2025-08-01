@@ -1,8 +1,9 @@
 ---
 title: "Bard"
 tagline: "Ready to explore Google's conversational AI? Visit [Bard](https://bard.google.com) to experience AI conversations powered by Google's latest language ..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Bard"
 deployment_status: "deployed"
 image: "/images/tools/bard-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "Google Translate - Free online translation"
 tagline: "Translate the world's information instantly"
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "Google Translate - Free online translation"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Project.co"
 tagline: "Modern project management with exceptional UX"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Productivity & Task Management"
+subcategory: "Project Management Platforms"
 tool_name: "Project.co"
 deployment_status: "deployed"
 image: "/images/tools/project-co-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Deezer"
 tagline: "Global music streaming platform with local content focus"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "Deezer"
 deployment_status: "deployed"
 image: "/images/tools/deezer-placeholder.jpg"

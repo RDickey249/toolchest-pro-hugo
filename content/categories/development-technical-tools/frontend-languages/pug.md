@@ -1,8 +1,9 @@
 ---
 title: "Pug"
 tagline: "HTML preprocessor using concise syntax"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Frontend Languages"
 tool_name: "Pug"
 deployment_status: "deployed"
 image: "/images/tools/pug-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "LiquidPlanner"
 tagline: "Intelligent project scheduling with priority-driven planning"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Productivity & Task Management"
+subcategory: "Project Management Platforms"
 tool_name: "LiquidPlanner"
 deployment_status: "deployed"
 image: "/images/tools/liquidplanner-placeholder.jpg"

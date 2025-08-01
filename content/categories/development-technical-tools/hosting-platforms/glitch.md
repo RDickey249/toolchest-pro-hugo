@@ -1,7 +1,8 @@
 ---
 title: "Glitch"
 tagline: "Collaborative coding platform with instant deployment"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Glitch"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "Greenhouse"
 tagline: "Hiring platform"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Applicant Tracking Systems"
 tool_name: "Greenhouse"
 deployment_status: "deployed"
 image: "/images/tools/greenhouse-placeholder.jpg"

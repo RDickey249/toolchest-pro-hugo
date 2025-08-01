@@ -2,7 +2,8 @@
 title: "Sourcegraph Cody - Enterprise code AI"
 tagline: "Sourcegraph Cody is an enterprise-grade AI coding assistant that understands your entire codebase to provide intelligent code completion, chat, and analysis..."
 category: "AI Tools & Assistants"
-subcategory: "AI Code & Development"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Code Development"
 tool_name: "Sourcegraph Cody"
 deployment_status: "deployed"
 image: "/images/tools/sourcegraph-cody-placeholder.jpg"

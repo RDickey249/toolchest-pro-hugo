@@ -1,7 +1,8 @@
 ---
 title: "Lua"
 tagline: "Lightweight scripting language designed for embedding and extension"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Backend Languages"
 tool_name: "Lua"
 deployment_status: "deployed"

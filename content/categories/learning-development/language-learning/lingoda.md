@@ -2,6 +2,7 @@
 title: "Lingoda - Online language school"
 tagline: "Lingoda is an online language school that offers structured group and private classes with certified native-speaking teachers following internationally recognized curricula like CEFR for systematic language development..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Lingoda"
 deployment_status: "deployed"

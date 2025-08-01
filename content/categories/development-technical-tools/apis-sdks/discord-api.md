@@ -1,8 +1,9 @@
 ---
 title: "Discord API"
 tagline: "Comprehensive API for building Discord bots and integrations"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Apis Sdks"
 tool_name: "Discord API"
 deployment_status: "deployed"
 image: "/images/tools/discord-api-placeholder.jpg"

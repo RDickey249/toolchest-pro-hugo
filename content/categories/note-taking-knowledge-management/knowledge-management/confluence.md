@@ -1,8 +1,9 @@
 ---
 title: "Confluence"
 tagline: "Team knowledge base"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Knowledge Management"
 tool_name: "Confluence"
 deployment_status: "deployed"
 image: "/images/tools/confluence-placeholder.jpg"

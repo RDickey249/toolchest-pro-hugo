@@ -2,6 +2,7 @@
 title: "Backblaze - Personal cloud backup"
 tagline: "Unlimited computer backup for just $7/month"
 category: "Backup & Disaster Recovery"
+categories: ["Backup & Disaster Recovery"]
 subcategory: "Personal Backup Solutions"
 tool_name: "Backblaze - Personal cloud backup"
 deployment_status: "deployed"

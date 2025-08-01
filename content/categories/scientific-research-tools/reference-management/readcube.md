@@ -2,6 +2,7 @@
 title: "ReadCube - Enhanced PDF reader"
 tagline: "ReadCube is an enhanced PDF reader designed specifically for academic research, offering intelligent reference linking, citation management, and collaborative annotation features..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Reference Management"
 tool_name: "ReadCube"
 deployment_status: "deployed"

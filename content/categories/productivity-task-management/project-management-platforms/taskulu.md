@@ -1,8 +1,9 @@
 ---
 title: "Taskulu"
 tagline: "Ready to get started? Visit [this tool](https://taskulu.com) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "Taskulu"
 deployment_status: "deployed"
 image: "/images/tools/taskulu-placeholder.jpg"

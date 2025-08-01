@@ -2,6 +2,7 @@
 title: "Open Science Framework - Research collaboration"
 tagline: "Open Science Framework (OSF) is a comprehensive research collaboration platform that supports the entire research lifecycle from project planning through publication with tools for data management, preregistration, and team coordination..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "Open Science Framework"
 deployment_status: "deployed"

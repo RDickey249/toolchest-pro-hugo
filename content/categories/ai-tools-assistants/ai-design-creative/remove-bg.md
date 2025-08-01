@@ -1,8 +1,9 @@
 ---
 title: "Remove.bg"
 tagline: "Ready to get started? Visit [Remove.bg](https://www.remove.bg) to explore the platform and begin using this tool...."
-category: "📱 Marketing & Social Media"
-subcategory: "📱 Marketing & Social Media"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Remove.bg"
 deployment_status: "deployed"
 image: "/images/tools/remove-bg-placeholder.jpg"

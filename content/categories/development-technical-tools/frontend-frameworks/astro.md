@@ -1,8 +1,8 @@
 ---
 title: "Astro"
 tagline: "Multi-framework static site builder with zero JS by default"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Development & Technical Tools"
+subcategory: "Frontend Frameworks"
 tool_name: "Astro"
 deployment_status: "deployed"
 image: "/images/tools/astro-placeholder.jpg"

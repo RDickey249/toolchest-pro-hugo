@@ -1,8 +1,9 @@
 ---
 title: "Hoppscotch"
 tagline: "Lightweight, open-source API request builder and tester"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Api Design Testing"
 tool_name: "Hoppscotch"
 deployment_status: "deployed"
 image: "/images/tools/hoppscotch-placeholder.jpg"

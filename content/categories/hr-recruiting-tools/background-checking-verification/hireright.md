@@ -1,8 +1,9 @@
 ---
 title: "HireRight"
 tagline: "Employment screening"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Background Checking Verification"
 tool_name: "HireRight"
 deployment_status: "deployed"
 image: "/images/tools/hireright-placeholder.jpg"

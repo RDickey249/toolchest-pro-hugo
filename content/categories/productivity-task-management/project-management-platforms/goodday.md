@@ -1,8 +1,9 @@
 ---
 title: "GoodDay"
 tagline: "Ready to get started? Visit [this tool](https://www.goodday.work) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "GoodDay"
 deployment_status: "deployed"
 image: "/images/tools/goodday-placeholder.jpg"

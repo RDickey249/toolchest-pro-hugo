@@ -2,7 +2,8 @@
 title: "Any.do - Simple task lists"
 tagline: "Any.do is a minimalist task management app that focuses on simplicity and ease of use, helping users organize their daily tasks and to-dos without complexity..."
 category: "Productivity & Task Management"
-subcategory: "Task & Project Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Task Project Management"
 tool_name: "Any.do"
 deployment_status: "deployed"
 image: "/images/tools/anydo-placeholder.jpg"

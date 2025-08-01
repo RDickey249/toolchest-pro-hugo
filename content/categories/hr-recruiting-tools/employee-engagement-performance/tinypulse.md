@@ -1,8 +1,9 @@
 ---
 title: "TINYpulse"
 tagline: "Employee feedback tool"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Employee Engagement Performance"
 tool_name: "TINYpulse"
 deployment_status: "deployed"
 image: "/images/tools/tinypulse-placeholder.jpg"

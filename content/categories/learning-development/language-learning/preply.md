@@ -2,6 +2,7 @@
 title: "Preply - Online language tutoring"
 tagline: "Preply is an online language tutoring platform that connects students with certified language tutors for personalized 1-on-1 lessons with structured curriculum support and progress tracking..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Preply"
 deployment_status: "deployed"

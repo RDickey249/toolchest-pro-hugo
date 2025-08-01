@@ -1,8 +1,9 @@
 ---
 title: "Writer"
 tagline: "Ready to get started? Visit [Writer](https://writer.com) to explore the platform and begin using this tool...."
-category: "♿ Accessibility & Inclusion Tools"
-subcategory: "♿ Accessibility & Inclusion Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "Writer"
 deployment_status: "deployed"
 image: "/images/tools/writer-placeholder.jpg"

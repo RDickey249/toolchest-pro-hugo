@@ -1,8 +1,9 @@
 ---
 title: "Bun"
 tagline: "Fast all-in-one JavaScript runtime, bundler, and package manager"
-category: "🧪 Testing & Quality Assurance"
-subcategory: "🧪 Testing & Quality Assurance"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Package Managers Registries"
 tool_name: "Bun"
 deployment_status: "deployed"
 image: "/images/tools/bun-placeholder.jpg"

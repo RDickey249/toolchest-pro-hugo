@@ -1,0 +1,300 @@
+Processing 65 duplicate tools...
+
+firebase-hosting:
+  Keeping: development-technical-tools/hosting-platforms/firebase-hosting.md (score: 51.4)
+  Removing: development-technical-tools/deployment-hosting/firebase-hosting.md (score: 49.9)
+
+render:
+  Keeping: development-technical-tools/hosting-platforms/render.md (score: 61.0)
+  Removing: development-technical-tools/deployment-hosting/render.md (score: 59.7)
+
+netlify:
+  Keeping: development-technical-tools/hosting-platforms/netlify.md (score: 61.3)
+  Removing: development-technical-tools/deployment-hosting/netlify.md (score: 59.5)
+
+vercel:
+  Keeping: development-technical-tools/deployment-hosting/vercel.md (score: 74.8)
+  Removing: development-technical-tools/hosting-platforms/vercel.md (score: 61.5)
+
+docusaurus:
+  Keeping: development-technical-tools/static-site-generators/docusaurus.md (score: 62.0)
+  Removing: development-technical-tools/documentation-productivity-tools/docusaurus.md (score: 59.8)
+
+homebrew:
+  Keeping: development-technical-tools/package-managers-registries/homebrew.md (score: 81.6)
+  Removing: development-technical-tools/package-managers/homebrew.md (score: 59.7)
+
+pnpm:
+  Keeping: development-technical-tools/package-managers-registries/pnpm.md (score: 61.5)
+  Removing: development-technical-tools/package-managers/pnpm.md (score: 59.8)
+
+pip:
+  Keeping: development-technical-tools/package-managers/pip.md (score: 60.6)
+  Removing: development-technical-tools/package-managers-registries/pip.md (score: 51.4)
+
+cargo:
+  Keeping: development-technical-tools/package-managers-registries/cargo.md (score: 61.3)
+  Removing: development-technical-tools/package-managers/cargo.md (score: 60.0)
+
+yarn:
+  Keeping: development-technical-tools/package-managers-registries/yarn.md (score: 61.6)
+  Removing: development-technical-tools/package-managers/yarn.md (score: 60.3)
+
+npm:
+  Keeping: development-technical-tools/package-managers-registries/npm.md (score: 61.3)
+  Removing: development-technical-tools/package-managers/npm.md (score: 60.0)
+
+next-js:
+  Keeping: development-technical-tools/frontend-frameworks/next-js.md (score: 148.8)
+  Removing: development-technical-tools/static-site-generators/next-js.md (score: 60.4)
+
+astro:
+  Keeping: development-technical-tools/frontend-frameworks/astro.md (score: 178.4)
+  Removing: development-technical-tools/static-site-generators/astro.md (score: 59.9)
+
+gatsby:
+  Keeping: development-technical-tools/frontend-frameworks/gatsby.md (score: 135.5)
+  Removing: development-technical-tools/static-site-generators/gatsby.md (score: 60.5)
+
+nuxt-js:
+  Keeping: development-technical-tools/frontend-frameworks/nuxt-js.md (score: 171.1)
+  Removing: development-technical-tools/static-site-generators/nuxt-js.md (score: 59.9)
+
+rust:
+  Keeping: development-technical-tools/backend-languages/rust.md (score: 62.1)
+  Removing: development-technical-tools/systems-low-level/rust.md (score: 61.3)
+
+go:
+  Keeping: development-technical-tools/backend-languages/go.md (score: 61.8)
+  Removing: development-technical-tools/systems-low-level/go.md (score: 60.2)
+
+visual-studio-code:
+  Keeping: development-technical-tools/code-editors-ides/visual-studio-code.md (score: 164.4)
+  Removing: development-technical-tools/ides-code-editors/visual-studio-code.md (score: 61.0)
+
+sublime-text:
+  Keeping: development-technical-tools/code-editors-ides/sublime-text.md (score: 61.8)
+  Removing: development-technical-tools/ides-code-editors/sublime-text.md (score: 60.6)
+
+emacs:
+  Keeping: development-technical-tools/code-editors-ides/emacs.md (score: 62.9)
+  Removing: development-technical-tools/ides-code-editors/emacs.md (score: 61.4)
+
+gitlab:
+  Keeping: development-technical-tools/version-control-collaboration/gitlab.md (score: 61.6)
+  Removing: productivity-task-management/advanced-project-management/gitlab.md (score: 57.3)
+
+ifttt:
+  Keeping: ai-tools-assistants/ai-productivity-business/ifttt.md (score: 210.9)
+  Removing: productivity-task-management/task-automation/ifttt.md (score: 61.1)
+  Removing: automation-workflows/workflow-automation/ifttt.md (score: 57.0)
+
+toggl-track:
+  Keeping: time-tracking-scheduling/time-tracking-integrations/toggl-track.md (score: 189.4)
+  Removing: time-tracking-scheduling/time-audit-tools/toggl-track.md (score: 184.0)
+  Removing: time-tracking-scheduling/time-tracking/toggl-track.md (score: 176.7)
+  Removing: productivity-task-management/time-tracking-productivity/toggl-track.md (score: 138.7)
+  Removing: time-tracking-scheduling/calendar-sync-tools/toggl-track.md (score: 131.2)
+
+rescuetime:
+  Keeping: time-tracking-scheduling/time-audit-tools/rescuetime.md (score: 194.9)
+  Removing: time-tracking-scheduling/time-tracking-analytics/rescuetime.md (score: 192.3)
+  Removing: time-tracking-scheduling/time-tracking/rescuetime.md (score: 142.2)
+  Removing: productivity-task-management/time-tracking-productivity/rescuetime.md (score: 139.2)
+
+proworkflow:
+  Keeping: productivity-task-management/project-management-platforms/proworkflow.md (score: 137.8)
+  Removing: productivity-task-management/advanced-project-management/proworkflow.md (score: 57.8)
+
+clickup:
+  Keeping: time-tracking-scheduling/timesheet-management/clickup.md (score: 174.2)
+  Removing: time-tracking-scheduling/project-time-tracking-tools/clickup.md (score: 138.4)
+  Removing: productivity-task-management/project-management-platforms/clickup.md (score: 133.5)
+  Removing: automation-workflows/business-process-automation/clickup.md (score: 82.5)
+
+paymo:
+  Keeping: time-tracking-scheduling/project-time-tracking-tools/paymo.md (score: 182.9)
+  Removing: time-tracking-scheduling/timesheet-management/paymo.md (score: 177.7)
+  Removing: productivity-task-management/project-management-platforms/paymo.md (score: 158.5)
+  Removing: time-tracking-scheduling/time-tracking-for-teams/paymo.md (score: 132.9)
+
+functionfox:
+  Keeping: productivity-task-management/project-management-platforms/functionfox.md (score: 159.3)
+  Removing: time-tracking-scheduling/time-tracking-for-consultants/functionfox.md (score: 150.6)
+
+asana:
+  Keeping: productivity-task-management/project-management-platforms/asana.md (score: 143.2)
+  Removing: automation-workflows/business-process-automation/asana.md (score: 62.8)
+
+zoho-projects:
+  Keeping: time-tracking-scheduling/project-time-tracking-tools/zoho-projects.md (score: 182.6)
+  Removing: productivity-task-management/project-management-platforms/zoho-projects.md (score: 137.7)
+  Removing: productivity-task-management/advanced-project-management/zoho-projects.md (score: 58.5)
+
+liquidplanner:
+  Keeping: productivity-task-management/project-management-platforms/liquidplanner.md (score: 138.2)
+  Removing: productivity-task-management/advanced-project-management/liquidplanner.md (score: 58.1)
+
+forecast:
+  Keeping: productivity-task-management/project-management-platforms/forecast.md (score: 137.3)
+  Removing: productivity-task-management/advanced-project-management/forecast.md (score: 57.9)
+
+coda:
+  Keeping: productivity-task-management/project-management-platforms/coda.md (score: 133.6)
+  Removing: communication-collaboration/document-collaboration/coda.md (score: 84.0)
+
+monday-com:
+  Keeping: productivity-task-management/project-management-platforms/monday-com.md (score: 141.3)
+  Removing: automation-workflows/business-process-automation/monday-com.md (score: 57.5)
+
+scoro:
+  Keeping: time-tracking-scheduling/time-tracking-for-agencies/scoro.md (score: 149.3)
+  Removing: productivity-task-management/advanced-project-management/scoro.md (score: 57.3)
+
+teamwork:
+  Keeping: time-tracking-scheduling/project-time-tracking-tools/teamwork.md (score: 198.4)
+  Removing: time-tracking-scheduling/time-tracking-for-agencies/teamwork.md (score: 147.8)
+  Removing: productivity-task-management/advanced-project-management/teamwork.md (score: 57.3)
+
+zapier:
+  Keeping: ai-tools-assistants/ai-productivity-business/zapier.md (score: 186.2)
+  Removing: time-tracking-scheduling/time-tracking-integrations/zapier.md (score: 130.9)
+  Removing: automation-workflows/workflow-automation/zapier.md (score: 64.1)
+
+automate-io:
+  Keeping: time-tracking-scheduling/time-tracking-integrations/automate-io.md (score: 183.4)
+  Removing: automation-workflows/workflow-automation/automate-io.md (score: 80.3)
+
+make:
+  Keeping: time-tracking-scheduling/time-tracking-integrations/make.md (score: 184.0)
+  Removing: automation-workflows/workflow-automation/make.md (score: 62.6)
+
+n8n:
+  Keeping: time-tracking-scheduling/time-tracking-integrations/n8n.md (score: 64.8)
+  Removing: automation-workflows/workflow-automation/n8n.md (score: 56.0)
+
+cleanvoice:
+  Keeping: media-entertainment-tools/audio-generation-editing/cleanvoice.md (score: 222.5)
+  Removing: media-entertainment-tools/video-creation-editing/cleanvoice.md (score: 214.1)
+
+elevenlabs:
+  Keeping: media-entertainment-tools/audio-generation-editing/elevenlabs.md (score: 193.5)
+  Removing: media-entertainment-tools/video-creation-editing/elevenlabs.md (score: 182.2)
+
+descript:
+  Keeping: media-entertainment-tools/video-creation-editing/descript.md (score: 203.2)
+  Removing: media-entertainment-tools/audio-generation-editing/descript.md (score: 195.2)
+  Removing: media-entertainment-tools/audio-production/descript.md (score: 16.5)
+
+audacity:
+  Keeping: media-entertainment-tools/podcast-production/audacity.md (score: 59.0)
+  Removing: media-entertainment-tools/audio-production/audacity.md (score: 25.5)
+
+runway:
+  Keeping: media-entertainment-tools/video-creation-editing/runway.md (score: 198.7)
+  Removing: ai-tools-assistants/ai-design-creative/runway.md (score: 188.1)
+
+activtrak:
+  Keeping: time-tracking-scheduling/employee-monitoring/activtrak.md (score: 182.5)
+  Removing: time-tracking-scheduling/time-tracking-analytics/activtrak.md (score: 147.6)
+
+buddy-punch:
+  Keeping: time-tracking-scheduling/employee-time-clock-tools/buddy-punch.md (score: 193.2)
+  Removing: time-tracking-scheduling/time-clock-punch-in/buddy-punch.md (score: 174.1)
+  Removing: time-tracking-scheduling/employee-time-clock/buddy-punch.md (score: 166.4)
+
+homebase:
+  Keeping: time-tracking-scheduling/employee-time-clock/homebase.md (score: 148.1)
+  Removing: time-tracking-scheduling/employee-time-clock-tools/homebase.md (score: 144.9)
+
+ontheclock:
+  Keeping: time-tracking-scheduling/employee-time-clock/ontheclock.md (score: 196.0)
+  Removing: time-tracking-scheduling/time-clock-punch-in/ontheclock.md (score: 188.5)
+  Removing: time-tracking-scheduling/employee-time-clock-tools/ontheclock.md (score: 145.1)
+
+uattend:
+  Keeping: time-tracking-scheduling/employee-time-clock-tools/uattend.md (score: 179.8)
+  Removing: time-tracking-scheduling/time-clock-punch-in/uattend.md (score: 143.2)
+
+when-i-work:
+  Keeping: time-tracking-scheduling/shift-planning-tools/when-i-work.md (score: 181.3)
+  Removing: time-tracking-scheduling/shift-scheduling/when-i-work.md (score: 146.5)
+
+deputy:
+  Keeping: time-tracking-scheduling/shift-planning-tools/deputy.md (score: 144.4)
+  Removing: time-tracking-scheduling/shift-scheduling/deputy.md (score: 137.8)
+
+sling:
+  Keeping: time-tracking-scheduling/shift-planning-tools/sling.md (score: 182.0)
+  Removing: time-tracking-scheduling/shift-scheduling/sling.md (score: 180.0)
+
+desktime:
+  Keeping: time-tracking-scheduling/time-tracking-for-remote-teams/desktime.md (score: 188.9)
+  Removing: time-tracking-scheduling/time-tracking/desktime.md (score: 142.5)
+
+timely:
+  Keeping: time-tracking-scheduling/time-tracking-analytics/timely.md (score: 151.8)
+  Removing: time-tracking-scheduling/time-audit-tools/timely.md (score: 148.7)
+  Removing: time-tracking-scheduling/time-tracking/timely.md (score: 132.8)
+  Removing: time-tracking-scheduling/calendar-sync-tools/timely.md (score: 122.4)
+
+harvest:
+  Keeping: time-tracking-scheduling/calendar-sync-tools/harvest.md (score: 192.7)
+  Removing: time-tracking-scheduling/time-tracking-integrations/harvest.md (score: 151.6)
+  Removing: time-tracking-scheduling/time-tracking/harvest.md (score: 137.0)
+
+clockify:
+  Keeping: time-tracking-scheduling/time-audit-tools/clockify.md (score: 192.4)
+  Removing: time-tracking-scheduling/employee-time-clock/clockify.md (score: 187.7)
+  Removing: time-tracking-scheduling/time-tracking/clockify.md (score: 142.3)
+  Removing: time-tracking-scheduling/calendar-sync-tools/clockify.md (score: 139.3)
+
+time-doctor:
+  Keeping: time-tracking-scheduling/time-tracking/time-doctor.md (score: 177.0)
+  Removing: time-tracking-scheduling/attendance-monitoring-tools/time-doctor.md (score: 172.7)
+
+hubstaff:
+  Keeping: time-tracking-scheduling/time-tracking/hubstaff.md (score: 143.2)
+  Removing: time-tracking-scheduling/attendance-monitoring-tools/hubstaff.md (score: 138.0)
+  Removing: time-tracking-scheduling/time-tracking-for-teams/hubstaff.md (score: 106.1)
+
+timecamp:
+  Keeping: time-tracking-scheduling/time-tracking-for-teams/timecamp.md (score: 148.6)
+  Removing: time-tracking-scheduling/time-tracking/timecamp.md (score: 142.7)
+  Removing: time-tracking-scheduling/mobile-time-tracking-tools/timecamp.md (score: 136.1)
+
+clockshark:
+  Keeping: time-tracking-scheduling/time-tracking-integrations/clockshark.md (score: 183.9)
+  Removing: time-tracking-scheduling/mobile-time-tracking-tools/clockshark.md (score: 162.2)
+
+bigtime:
+  Keeping: time-tracking-scheduling/time-tracking/bigtime.md (score: 177.0)
+  Removing: time-tracking-scheduling/time-tracking-for-consultants/bigtime.md (score: 147.5)
+
+everhour:
+  Keeping: time-tracking-scheduling/time-tracking-integrations/everhour.md (score: 139.2)
+  Removing: time-tracking-scheduling/time-tracking/everhour.md (score: 136.5)
+
+drift:
+  Keeping: ai-tools-assistants/conversational-ai/drift.md (score: 209.6)
+  Removing: customer-support-tools/live-chat-messaging/drift.md (score: 28.7)
+
+notion-ai:
+  Keeping: ai-tools-assistants/ai-writing-content/notion-ai.md (score: 208.7)
+  Removing: ai-tools-assistants/ai-productivity-business/notion-ai.md (score: 202.0)
+
+=== DEDUPLICATION COMPLETE ===
+Removed 88 duplicate files
+Kept 65 best versions
+
+=== TOP QUALITY KEPT FILES ===
+cleanvoice: media-entertainment-tools/audio-generation-editing/cleanvoice.md (score: 222.5)
+ifttt: ai-tools-assistants/ai-productivity-business/ifttt.md (score: 210.9)
+drift: ai-tools-assistants/conversational-ai/drift.md (score: 209.6)
+notion-ai: ai-tools-assistants/ai-writing-content/notion-ai.md (score: 208.7)
+descript: media-entertainment-tools/video-creation-editing/descript.md (score: 203.2)
+runway: media-entertainment-tools/video-creation-editing/runway.md (score: 198.7)
+teamwork: time-tracking-scheduling/project-time-tracking-tools/teamwork.md (score: 198.4)
+ontheclock: time-tracking-scheduling/employee-time-clock/ontheclock.md (score: 196.0)
+rescuetime: time-tracking-scheduling/time-audit-tools/rescuetime.md (score: 194.9)
+elevenlabs: media-entertainment-tools/audio-generation-editing/elevenlabs.md (score: 193.5)

@@ -1,8 +1,9 @@
 ---
 title: "Fliki"
 tagline: "Ready to get started? Visit [Fliki](https://fliki.ai) to explore the platform and begin using this tool...."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Creation Editing"
 tool_name: "Fliki"
 deployment_status: "deployed"
 image: "/images/tools/fliki-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "Zenodo - Research data repository"
 tagline: "Zenodo is a general-purpose open access repository developed by CERN that enables researchers to deposit datasets, publications, presentations, and software with permanent preservation and citation capabilities..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "Zenodo"
 deployment_status: "deployed"

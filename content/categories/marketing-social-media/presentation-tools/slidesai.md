@@ -1,8 +1,9 @@
 ---
 title: "SlidesAI"
 tagline: "Convert text to presentations automatically. Visit [slidesai.io](https://www.slidesai.io) to transform documents into polished slide decks instantly...."
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Presentation Tools"
 tool_name: "SlidesAI"
 deployment_status: "deployed"
 image: "/images/tools/slidesai-placeholder.jpg"

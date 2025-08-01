@@ -1,8 +1,9 @@
 ---
 title: "QOwnNotes"
 tagline: "Plain text note-taking"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Traditional Note Apps"
 tool_name: "QOwnNotes"
 deployment_status: "deployed"
 image: "/images/tools/qownnotes-placeholder.jpg"

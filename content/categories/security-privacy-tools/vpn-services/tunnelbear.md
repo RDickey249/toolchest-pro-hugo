@@ -1,8 +1,9 @@
 ---
 title: "TunnelBear"
 tagline: "Simple VPN interface"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Vpn Services"
 tool_name: "TunnelBear"
 deployment_status: "deployed"
 image: "/images/tools/tunnelbear-placeholder.jpg"

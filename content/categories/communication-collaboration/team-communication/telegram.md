@@ -1,8 +1,8 @@
 ---
 title: "Telegram"
 tagline: "Secure messaging"
-category: "💬 Communication & Collaboration"
-subcategory: "💬 Communication & Collaboration"
+category: "Communication & Collaboration"
+subcategory: "Team Communication"
 tool_name: "Telegram"
 deployment_status: "deployed"
 image: "/images/tools/telegram-placeholder.jpg"

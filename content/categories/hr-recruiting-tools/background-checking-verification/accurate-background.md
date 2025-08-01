@@ -1,8 +1,9 @@
 ---
 title: "Accurate Background"
 tagline: "Screening services"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Background Checking Verification"
 tool_name: "Accurate Background"
 deployment_status: "deployed"
 image: "/images/tools/accurate-background-placeholder.jpg"

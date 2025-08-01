@@ -1,8 +1,8 @@
 ---
 title: "Squarespace"
 tagline: "Website builder"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Design & Creative Tools"
+subcategory: "Web Design Development"
 tool_name: "Squarespace"
 deployment_status: "deployed"
 image: "/images/tools/squarespace-placeholder.jpg"

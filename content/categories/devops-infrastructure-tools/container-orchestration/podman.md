@@ -1,8 +1,9 @@
 ---
 title: "Podman"
 tagline: "Daemonless container engine with Docker compatibility"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Container Orchestration"
 tool_name: "Podman"
 deployment_status: "deployed"
 image: "/images/tools/podman-placeholder.jpg"

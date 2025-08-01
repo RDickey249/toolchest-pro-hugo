@@ -1,7 +1,8 @@
 ---
 title: "Neocities"
 tagline: "Free web hosting for creative and personal websites"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Neocities"
 deployment_status: "deployed"

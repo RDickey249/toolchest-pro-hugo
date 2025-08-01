@@ -1,7 +1,8 @@
 ---
 title: "actiTIME"
 tagline: "Enterprise time tracking with workforce analytics"
-category: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
 tool_name: "actiTIME"
 deployment_status: "deployed"

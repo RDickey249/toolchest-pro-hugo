@@ -2,6 +2,7 @@
 title: "Weblate - Web-based translation"
 tagline: "Weblate is an open-source web-based translation platform that enables collaborative translation with version control integration, automated workflows, and community contribution features..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Weblate"
 deployment_status: "deployed"

@@ -1,7 +1,8 @@
 ---
 title: "Sisu"
 tagline: "Ready to get started? Visit [Sisu](https://www.sisudata.com) to explore the platform and begin using this tool...."
-category: "🤖 AI Tools & Assistants"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Sisu"
 deployment_status: "deployed"

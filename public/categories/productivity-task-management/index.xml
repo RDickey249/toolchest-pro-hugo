@@ -8,11 +8,46 @@
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/productivity-task-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2Do</title>
+      <link>https://toolchest.pro/categories/2do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/2do/</guid>
+      <description>2Do is the flexible task manager that revolutionizes personal productivity through highly customizable organization systems. This platform enables users to implement GTD methodology, create custom views, and maintain productivity with extensive filtering options, project hierarchies, and cross-platform synchronization.&#xA;Used by power users, GTD practitioners, and professionals worldwide, 2Do provides custom list creation, smart filtering, project organization, and collaboration tools. Adapt to any organizational methodology with custom smart lists, advanced filtering, and comprehensive automation support.</description>
+    </item>
+    <item>
+      <title>ActiveCollab</title>
+      <link>https://toolchest.pro/categories/activecollab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/activecollab/</guid>
+      <description>ActiveCollab is the project management platform that combines task management, time tracking, and client billing in one integrated system. Perfect for creative agencies and service businesses that need to manage projects from start to payment.&#xA;Used by agencies and teams worldwide, ActiveCollab offers project planning, team collaboration, and automatic invoicing. Track time on tasks, collaborate with clients through dedicated portals, and turn tracked hours into professional invoices with built-in billing.</description>
+    </item>
+    <item>
       <title>Airtable</title>
       <link>https://toolchest.pro/categories/airtable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/airtable/</guid>
       <description>Airtable combines the simplicity of spreadsheets with the power of databases. If you&amp;rsquo;ve ever wished Excel could do more, or databases were less intimidating, Airtable is your answer.&#xA;Teams use Airtable to manage everything from content calendars to product roadmaps, customer CRMs to event planning. Its flexibility means you can start simple and scale up as your needs grow, without migrating to a new platform.&#xA;What Makes Airtable Different Visual Database: Link records between tables to create powerful relational databases Multiple Views: See your data as a grid, calendar, kanban board, or gallery Rich Field Types: Attachments, checkboxes, dropdowns, formulas, and more Automation: Set up triggers to automate repetitive tasks Templates: Start fast with pre-built bases for common use cases Key Features • Spreadsheet-database hybrid interface - Familiar spreadsheet view with powerful relational database capabilities underneath • Customizable field types - Rich data types including attachments, checkboxes, formulas, and linked records • Multiple view options - Grid, calendar, kanban, gallery, and form views for diverse data visualization needs • Automation and workflows - Trigger-based automation with conditional logic and cross-table operations • Collaboration and sharing - Real-time collaboration with granular permissions and external sharing capabilities • Extensive integration ecosystem - Native connections with popular business tools and robust API access • Template library - Pre-built solutions for common use cases across industries and departments • Mobile accessibility - Full-featured mobile apps with offline capability and real-time synchronization</description>
+    </item>
+    <item>
+      <title>Any.do</title>
+      <link>https://toolchest.pro/categories/any.do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/any.do/</guid>
+      <description>Any.do is the simple task manager that combines to-do lists, calendar, and reminders with voice input for hands-free task creation. Organize your day with elegant lists, smart scheduling, and seamless synchronization.&#xA;Used by millions worldwide, Any.do offers voice task creation, location-based reminders, and shared lists for family and teams. Plan your day, set recurring reminders, collaborate on projects, and stay organized with clean, intuitive design across all devices.&#xA;Get Started with Any.</description>
+    </item>
+    <item>
+      <title>Any.do - Simple task lists</title>
+      <link>https://toolchest.pro/categories/any.do-simple-task-lists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/any.do-simple-task-lists/</guid>
+      <description>Any.do is a minimalist task management app that focuses on simplicity and ease of use, helping users organize their daily tasks and to-dos without complexity or overwhelming features. The platform emphasizes clean design and intuitive functionality, making task management accessible to users who prefer straightforward approaches over feature-heavy productivity systems.&#xA;The app combines basic task organization with essential features like reminders, sharing, and calendar integration, providing just enough functionality to stay organized without the learning curve associated with more complex productivity tools.</description>
+    </item>
+    <item>
+      <title>Apple Reminders</title>
+      <link>https://toolchest.pro/categories/apple-reminders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/apple-reminders/</guid>
+      <description>Apple Reminders is the built-in task manager for iPhone, iPad, Mac, and Apple Watch that integrates deeply with Siri and Apple services. Create tasks with voice commands, set location-based alerts, and organize with smart lists.&#xA;Used by millions of Apple users worldwide, Apple Reminders offers natural Siri integration, family sharing, and automatic synchronization. Set geofenced reminders, organize tasks by date or priority, and collaborate with family members using Apple&amp;rsquo;s native ecosystem integration.</description>
     </item>
     <item>
       <title>Asana</title>
@@ -29,18 +64,109 @@
       <description>Basecamp transforms team collaboration through a refreshingly simple approach that prioritizes human communication and project clarity over feature complexity.&#xA;Get Started with Basecamp Simplify team collaboration with human-centered project management.&#xA;Ready to get started? Visit Basecamp to explore the platform and begin using this tool.&#xA;Organize work and communicate effectively.&#xA;Key Features • Project organization with automatic check-ins - Simple project structure with regular team updates and progress visibility • Message boards and real-time chat - Organized team communication with topic-based discussions and instant messaging • To-do lists and task management - Straightforward task organization with assignments, due dates, and progress tracking • File and document sharing - Centralized storage with version control and collaborative document management • Schedule and milestone tracking - Calendar integration with deadline management and project timeline visibility • Campfire chat integration - Real-time communication embedded within project contexts • Client access and collaboration - External stakeholder participation with controlled access and communication • Mobile accessibility - Full-featured mobile apps ensuring project access and communication from anywhere</description>
     </item>
     <item>
-      <title>ClickUp</title>
-      <link>https://toolchest.pro/categories/clickup/</link>
+      <title>Clarizen</title>
+      <link>https://toolchest.pro/categories/clarizen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/clickup/</guid>
-      <description>ClickUp is an all-in-one productivity workspace that combines project management, task tracking, docs, goals, and team collaboration. Replace multiple tools with one customizable platform that adapts to any workflow.&#xA;Key Features • Multiple project views - Kanban boards, Gantt charts, calendar, list, and timeline views for different workflow preferences • Extensive customization options - Custom fields, statuses, workflows, and templates adaptable to any organizational need • All-in-one workspace - Integrated docs, goals, time tracking, and communication eliminating need for separate tools • Advanced automation - Workflow automation, recurring tasks, and smart notifications reducing manual work • Comprehensive collaboration - Real-time editing, comments, proofing, and team communication within project context • Goal and OKR tracking - Strategic objective management with progress monitoring and team alignment • Time tracking and reporting - Built-in time logging with detailed productivity analytics and project insights • Extensive integration ecosystem - Connections with hundreds of popular business tools and platforms</description>
+      <guid>https://toolchest.pro/categories/clarizen/</guid>
+      <description>Clarizen delivers enterprise-grade project portfolio management capabilities designed for organizations managing multiple complex projects simultaneously. This platform provides comprehensive resource management, portfolio planning, and strategic alignment tools that help organizations optimize their project investments.&#xA;Used by large enterprises and PMOs worldwide, Clarizen offers capacity planning, project prioritization, risk management, and detailed analytics across entire project portfolios. Make data-driven decisions about project prioritization and resource allocation with automated workflow management and real-time dashboards.</description>
     </item>
     <item>
-      <title>IFTTT</title>
-      <link>https://toolchest.pro/categories/ifttt/</link>
+      <title>Clubhouse</title>
+      <link>https://toolchest.pro/categories/clubhouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/ifttt/</guid>
-      <description>IFTTT (If This Then That) is a simple automation platform that connects your favorite apps, devices, and services through trigger-based workflows, making automation accessible to everyone.&#xA;Key Features Trigger-action automation - Simple &amp;ldquo;if this then that&amp;rdquo; logic for workflows 700+ services - Connect apps, smart home devices, and online services Location-based triggers - Automate based on your location and movement Smart home integration - Control lights, thermostats, and connected devices Social media automation - Automatically post and share across platforms Multi-action applets - Chain multiple actions from single triggers Mobile apps - Create and manage automations on the go Use Cases Smart home automation and control Social media scheduling and cross-posting Location-based reminders and actions Email and notification management Data backup and synchronization Get Started with IFTTT Automate your digital life with simple trigger-action workflows.</description>
+      <guid>https://toolchest.pro/categories/clubhouse/</guid>
+      <description>Clubhouse (now known as Shortcut) specializes in software team management with a focus on streamlined agile development workflows. This platform provides intuitive story tracking, epic management, and iteration planning designed specifically for software development teams.&#xA;Used by startups and mid-sized engineering teams worldwide, Clubhouse offers clear visualization of development progress through customizable boards and advanced filtering capabilities. Maintain development team focus with automatic story estimation, velocity tracking, and seamless integration with GitHub, GitLab, and Slack.</description>
+    </item>
+    <item>
+      <title>Coda</title>
+      <link>https://toolchest.pro/categories/coda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/coda/</guid>
+      <description>Coda is the revolutionary document-database platform that blends documents, spreadsheets, and databases into a single collaborative workspace for building custom applications and workflows.&#xA;Used by product teams, operations teams, and growing companies worldwide, Coda offers dynamic documents with live databases, automation formulas, interactive elements, and real-time collaboration. Build custom business tools while maintaining document simplicity and collaborative accessibility.&#xA;Get Started with Coda Ready to revolutionize your documents?&#xA;Ready to get started?</description>
+    </item>
+    <item>
+      <title>Favro</title>
+      <link>https://toolchest.pro/categories/favro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/favro/</guid>
+      <description>Favro is the flexible project management platform built for agile teams who need more than rigid templates. Whether you work in Kanban, Scrum, or your own hybrid methodology, Favro adapts to your team&amp;rsquo;s workflow instead of forcing you into a predetermined structure.&#xA;Used by companies like Mojang (Minecraft), King, and DICE, Favro combines the flexibility of sticky notes with the power of digital collaboration. It&amp;rsquo;s designed for teams who outgrow basic project management tools but don&amp;rsquo;t want the complexity of enterprise software.</description>
+    </item>
+    <item>
+      <title>Flow</title>
+      <link>https://toolchest.pro/categories/flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/flow/</guid>
+      <description>Flow is a streamlined task management platform that focuses on essential project coordination without overwhelming complexity. It provides clean, intuitive interfaces for organizing tasks, tracking progress, and collaborating effectively without feature overload.&#xA;The platform&amp;rsquo;s strength lies in elegant simplicity—delivering exactly what teams need for project coordination while avoiding the configuration complexity that hinders adoption. It emphasizes usability over feature breadth, making it accessible to all team members.&#xA;Perfect for small teams, creative agencies, and distributed teams who want reliable project coordination without complexity.</description>
+    </item>
+    <item>
+      <title>Forecast</title>
+      <link>https://toolchest.pro/categories/forecast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/forecast/</guid>
+      <description>Forecast transforms project management through intelligent resource planning and predictive analytics that help teams optimize capacity, improve project outcomes, and make data-driven decisions. This sophisticated platform combines traditional project management with advanced AI-powered insights for intelligent forecasting and resource optimization.&#xA;Used by consulting firms, creative agencies, and enterprise organizations worldwide, Forecast analyzes historical data and performance patterns to provide actionable recommendations. Predict project risks, optimize team workloads, and ensure projects are completed on time and within budget.</description>
+    </item>
+    <item>
+      <title>Freedcamp</title>
+      <link>https://toolchest.pro/categories/freedcamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/freedcamp/</guid>
+      <description>Freedcamp is the comprehensive project management platform offering enterprise-level features completely free for unlimited users, making professional project coordination accessible to any organization regardless of budget.&#xA;Used by nonprofits, startups, and budget-conscious teams worldwide, Freedcamp provides task management, time tracking, project templates, team collaboration, and milestone tracking. Access sophisticated project management capabilities without licensing costs or user limits.&#xA;Get Started with Freedcamp Ready to access professional project management completely free?</description>
+    </item>
+    <item>
+      <title>Function Point</title>
+      <link>https://toolchest.pro/categories/function-point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/function-point/</guid>
+      <description>Function Point is creative agency project software that specializes in managing design studios, advertising agencies, and creative teams. This platform enables creative professionals to manage client work, track profitability, and streamline creative workflows with integrated budgeting, resource scheduling, and creative asset management.&#xA;Used by creative agencies, design studios, and marketing teams worldwide, Function Point provides creative project tracking, budget management, time tracking, and client collaboration. Connect creative work with business profitability through creative briefs, approval workflows, and comprehensive profitability analytics.</description>
+    </item>
+    <item>
+      <title>FunctionFox</title>
+      <link>https://toolchest.pro/categories/functionfox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/functionfox/</guid>
+      <description>FunctionFox specializes in project management for creative agencies and design studios with streamlined workflows focused on creative professionals. This platform addresses unique operational challenges through features designed for agency workflows, including creative project phases, client approval processes, and time tracking for billable creative work.&#xA;Used by graphic design agencies, web design studios, and marketing agencies worldwide, FunctionFox provides essential project management capabilities without overwhelming creative professionals. Manage creative projects while maintaining both artistic quality and financial success.</description>
+    </item>
+    <item>
+      <title>GitHub Projects</title>
+      <link>https://toolchest.pro/categories/github-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/github-projects/</guid>
+      <description>GitHub Projects delivers code-integrated planning capabilities that seamlessly connect project management with software development workflows. This native GitHub feature enables teams to create project boards, track issues, and manage tasks directly within their code repositories.&#xA;Used by development teams practicing continuous integration worldwide, GitHub Projects offers kanban-style boards, customizable fields, and automated workflows that respond to code changes and pull requests. Maintain alignment between project planning and actual code development with automatic issue tracking and progress visualization.</description>
+    </item>
+    <item>
+      <title>GoodDay</title>
+      <link>https://toolchest.pro/categories/goodday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/goodday/</guid>
+      <description>GoodDay is the comprehensive work management platform that aligns daily activities with strategic objectives through integrated project management, OKR tracking, and team collaboration. Connect strategic goals to daily execution with hierarchical work organization.&#xA;Used by growing businesses and cross-departmental teams, GoodDay offers goal cascading, resource planning, time tracking, and advanced analytics. Manage strategic initiatives, coordinate projects, and maintain organizational alignment with real-time visibility into progress and performance.&#xA;Key Features • Hierarchical work organization - Strategic goals, projects, and tasks organized in connected, cascading structure • OKR and goal management - Objective tracking with key results monitoring and strategic alignment • Comprehensive project management - Full project lifecycle support with multiple view options and methodologies • Resource and capacity planning - Team workload management with skill-based allocation and capacity optimization • Advanced time tracking - Detailed time logging with productivity analysis and project profitability tracking • Real-time collaboration - Integrated communication, file sharing, and team coordination within work context • Customizable workflows - Flexible processes and automation adapted to organizational needs and standards • Executive dashboards and reporting - Strategic visibility with performance metrics and organizational health monitoring</description>
+    </item>
+    <item>
+      <title>Google Tasks</title>
+      <link>https://toolchest.pro/categories/google-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/google-tasks/</guid>
+      <description>Google Tasks is the simple task manager built into Gmail and Google Calendar that lets you create tasks from emails, organize with subtasks, and sync across all devices. Perfect for Google Workspace users.&#xA;Used by millions worldwide, Google Tasks integrates seamlessly with Gmail for email-to-task conversion and Calendar for scheduling. Create tasks with Google Assistant, organize with due dates and subtasks, and access from any device with automatic synchronization.&#xA;Get Started with Google Tasks Ready to get started?</description>
+    </item>
+    <item>
+      <title>Height</title>
+      <link>https://toolchest.pro/categories/height/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/height/</guid>
+      <description>Height delivers visual project management capabilities designed for modern development and creative teams seeking intuitive workflow management. This platform combines kanban boards, timeline views, and automation features to streamline project coordination and task tracking.&#xA;Used by development and creative teams worldwide, Height offers advanced visualization options including Gantt charts, calendar views, and custom dashboards. Bridge the gap between technical and non-technical team members with visual clarity and seamless integrations with popular development tools.</description>
+    </item>
+    <item>
+      <title>Jira</title>
+      <link>https://toolchest.pro/categories/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/jira/</guid>
+      <description>Jira is Atlassian&amp;rsquo;s project management platform that powers agile development for software teams worldwide. Plan sprints, track issues, and ship releases with customizable workflows and comprehensive reporting.&#xA;Used by over 65,000 companies including Netflix, Airbnb, and NASA, Jira scales from small development teams to enterprise organizations. Create scrum or kanban boards, automate workflows, and integrate with development tools to keep projects moving from idea to production.&#xA;Get Started with Jira Ready to get started?</description>
+    </item>
+    <item>
+      <title>Linear</title>
+      <link>https://toolchest.pro/categories/linear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/linear/</guid>
+      <description>Linear provides developer-focused project management capabilities specifically designed for software development teams seeking speed and efficiency. This platform offers lightning-fast issue tracking, sprint planning, and project coordination through a carefully crafted interface that prioritizes performance and usability.&#xA;Used by fast-moving development teams, startups, and engineering teams worldwide, Linear features advanced keyboard shortcuts, instant search capabilities, and seamless Git integration. Maintain flow while managing work through minimal context switching and smart automation features.</description>
     </item>
     <item>
       <title>LiquidPlanner</title>
@@ -50,11 +176,32 @@
       <description>LiquidPlanner is the project management tool that finally makes project schedules realistic. Instead of fixed deadlines that everyone knows are wrong, LiquidPlanner uses intelligent scheduling that adapts to reality - accounting for priorities, interruptions, and resource constraints.&#xA;Trusted by companies like Fitbit, Zynga, and Plantronics, LiquidPlanner solves the biggest problem in project management: schedules that break the moment something changes. Its priority-driven approach means projects get done in the right order, on time.</description>
     </item>
     <item>
+      <title>MeisterTask</title>
+      <link>https://toolchest.pro/categories/meistertask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/meistertask/</guid>
+      <description>MeisterTask is a beautifully designed Kanban-style project management platform that emphasizes visual workflow organization and team collaboration. The platform makes project tracking feel more like creative collaboration than administrative burden while maintaining the structure needed for successful project completion.&#xA;The platform&amp;rsquo;s strength lies in its perfect balance of simplicity and functionality, offering powerful project management capabilities within an interface that&amp;rsquo;s both accessible and enjoyable to use. Features include customizable project boards, automated workflows, time tracking, and integrated team communication tools.</description>
+    </item>
+    <item>
+      <title>Microsoft To Do</title>
+      <link>https://toolchest.pro/categories/microsoft-to-do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/microsoft-to-do/</guid>
+      <description>Microsoft To Do is the task manager that just makes sense if you&amp;rsquo;re already using Microsoft 365. Instead of juggling separate apps, everything syncs perfectly with Outlook, Teams, and your entire Microsoft workflow.&#xA;Built as the modern replacement for Wunderlist, Microsoft To Do brings clean design and powerful collaboration to the Microsoft ecosystem. Your Outlook tasks automatically appear in To Do, and tasks created in To Do sync back to Outlook - it&amp;rsquo;s seamless integration done right.</description>
+    </item>
+    <item>
       <title>Monday.com</title>
       <link>https://toolchest.pro/categories/monday.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/monday.com/</guid>
       <description>Monday.com is the visual work management platform that transforms how teams collaborate on projects. With its colorful, intuitive boards and powerful automation, it makes project tracking engaging and efficient for teams of all sizes.&#xA;Used by over 180,000 customers including Coca-Cola, BD, and Universal Music Group, Monday.com adapts to any workflow while keeping everyone aligned. Its strength lies in making complex project management feel simple through visual design and smart automation.</description>
+    </item>
+    <item>
+      <title>Monday.com - Visual project management</title>
+      <link>https://toolchest.pro/categories/monday.com-visual-project-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/monday.com-visual-project-management/</guid>
+      <description>Monday.com is a visual project management platform that uses colorful boards, timelines, and automation to help teams organize work and collaborate more effectively. The platform combines intuitive visual design with powerful workflow automation, making project management accessible to teams of all sizes while providing the flexibility to adapt to different working styles and industries.&#xA;The software emphasizes visual clarity and customization, allowing teams to create boards that match their specific workflows while maintaining oversight of projects, deadlines, and team capacity across multiple initiatives.</description>
     </item>
     <item>
       <title>Notion</title>
@@ -64,11 +211,39 @@
       <description>Notion is an all-in-one workspace that combines notes, databases, project management, and team collaboration in a single, highly customizable platform. Its block-based architecture lets you build everything from simple note-taking systems to complex project workflows.&#xA;What makes Notion unique is its infinite flexibility and powerful database capabilities. You can create custom workflows, link information across projects, and structure your workspace exactly how you think, rather than adapting to rigid software constraints.</description>
     </item>
     <item>
-      <title>Obsidian</title>
-      <link>https://toolchest.pro/categories/obsidian/</link>
+      <title>nTask</title>
+      <link>https://toolchest.pro/categories/ntask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/obsidian/</guid>
-      <description>Obsidian is the linked note-taking platform that revolutionizes personal knowledge management through powerful linking capabilities. Create interconnected thought networks that visualize relationships between ideas while maintaining complete data ownership and local file control.&#xA;Used by researchers, writers, and knowledge workers worldwide, Obsidian provides bidirectional linking, graph visualization, markdown editing, and an extensive plugin ecosystem. Build everything from Zettelkasten systems to personal wikis with daily notes, templates, and canvas view.&#xA;Get Started with Obsidian Ready to get started?</description>
+      <guid>https://toolchest.pro/categories/ntask/</guid>
+      <description>nTask is a comprehensive project management platform designed for budget-conscious teams who need professional features without premium pricing. It combines task management, time tracking, team collaboration, and project planning in an intuitive, affordable package.&#xA;The platform stands out for its excellent value proposition, offering Gantt charts, budget tracking, risk management, and detailed reporting at accessible price points. Unlike expensive enterprise solutions, nTask focuses on delivering essential features that small teams actually use.</description>
+    </item>
+    <item>
+      <title>OmniFocus</title>
+      <link>https://toolchest.pro/categories/omnifocus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/omnifocus/</guid>
+      <description>OmniFocus is the premium task management app for Mac and iOS that implements Getting Things Done (GTD) methodology with sophisticated project organization and context-based filtering. Perfect for professionals who need advanced task management.&#xA;Used by knowledge workers and GTD practitioners worldwide, OmniFocus offers hierarchical projects, custom perspectives, and comprehensive review systems. Organize tasks by context, automate workflows with AppleScript, and maintain focus with forecast views and systematic productivity workflows.&#xA;Get Started with OmniFocus Ready to get started?</description>
+    </item>
+    <item>
+      <title>Plane</title>
+      <link>https://toolchest.pro/categories/plane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/plane/</guid>
+      <description>Plane offers open-source project management capabilities that provide teams with complete control over their project management infrastructure and data. This platform delivers comprehensive issue tracking, project planning, and team collaboration features while maintaining transparency through its open-source nature.&#xA;Used by security-conscious teams, government organizations, and companies with strict data governance worldwide, Plane includes customizable workflows, advanced filtering capabilities, and flexible project organization. Benefit from self-hosting capabilities, extensive customization options, and freedom from vendor lock-in.</description>
+    </item>
+    <item>
+      <title>Planview</title>
+      <link>https://toolchest.pro/categories/planview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/planview/</guid>
+      <description>Planview is the enterprise portfolio and resource management platform that connects strategy to execution for large organizations. Prioritize investments, optimize resources, and track value delivery across your entire portfolio.&#xA;Trusted by companies like Nokia, Lenovo, and Western Union, Planview handles complex portfolio planning at scale. Balance demand with capacity, make strategic investment decisions, and get executive visibility into all work with advanced analytics and scenario planning.&#xA;Get Started with Planview Ready to get started?</description>
+    </item>
+    <item>
+      <title>Podio</title>
+      <link>https://toolchest.pro/categories/podio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/podio/</guid>
+      <description>Podio is the flexible work platform that lets you build custom applications for your business without coding. Create CRM systems, project trackers, and process management tools that fit exactly how your team works.&#xA;Used by companies like Sony Music and Mercedes-Benz, Podio replaces multiple business tools with custom-built applications. Drag and drop fields to create workflows, automate processes with conditional logic, and collaborate with built-in chat and file sharing.&#xA;Get Started with Podio Ready to build custom business applications?</description>
     </item>
     <item>
       <title>Project.co</title>
@@ -85,25 +260,95 @@
       <description>ProjectManager.com is the enterprise project management platform that brings order to organizational chaos. When you&amp;rsquo;re juggling multiple projects, teams, and stakeholders, this is the tool that keeps everything on track with real-time visibility and powerful oversight capabilities.&#xA;Built for serious project management, ProjectManager.com supports whatever methodology works for your team - Gantt charts for traditional planning, Kanban boards for agile workflows, or hybrid approaches that combine the best of both worlds.</description>
     </item>
     <item>
-      <title>RescueTime</title>
-      <link>https://toolchest.pro/categories/rescuetime/</link>
+      <title>ProWorkflow</title>
+      <link>https://toolchest.pro/categories/proworkflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/rescuetime/</guid>
-      <description>RescueTime provides automatic time tracking and detailed analytics to help individuals and teams understand and optimize their digital habits and productivity patterns.&#xA;Get Started with RescueTime Understand and optimize your productivity with automatic tracking. Visit rescuetime.com to build better digital habits and work patterns.&#xA;Key Features • Automatic digital activity tracking - Seamless monitoring of applications, websites, and digital activities without manual input • Productivity scoring and analytics - Intelligent categorization with productivity scoring and detailed time usage analysis • Goal setting and achievement tracking - Personal productivity goals with progress monitoring and achievement insights • FocusTime distraction blocking - Website and application blocking during focused work periods • Detailed reporting and trends - Comprehensive analytics with productivity trends and behavior pattern analysis • Team and organization insights - Collective productivity analytics with privacy protection and team performance visibility • Integration and alerts - Smart notifications with integration options for enhanced productivity workflow • Cross-platform tracking - Multi-device monitoring with seamless synchronization across all work environments</description>
+      <guid>https://toolchest.pro/categories/proworkflow/</guid>
+      <description>ProWorkflow is the integrated project management platform built for creative agencies and professional services firms. With project planning, time tracking, client communication, and invoicing all in one place, it handles the complete business workflow from initial client contact to final payment.&#xA;Used by creative agencies, consultancies, and professional services firms worldwide, ProWorkflow eliminates the need to juggle multiple business tools. Manage projects, track billable time, collaborate with clients, and generate professional invoices all from one comprehensive platform designed for service-based businesses.</description>
     </item>
     <item>
-      <title>Roam Research</title>
-      <link>https://toolchest.pro/categories/roam-research/</link>
+      <title>Quip</title>
+      <link>https://toolchest.pro/categories/quip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/roam-research/</guid>
-      <description>Roam Research revolutionizes thought capture through block-reference architecture that enables researchers to create fluid, non-linear knowledge graphs where every piece of information becomes reusable and interconnected. This platform treats thoughts as building blocks with temporal organization and powerful query capabilities.&#xA;Used by academics, writers, and systems thinkers worldwide, Roam Research provides daily notes, block embedding, bidirectional links, and advanced queries. Create research synthesis and creative exploration with collaborative graphs, citation management, and temporal navigation.</description>
+      <guid>https://toolchest.pro/categories/quip/</guid>
+      <description>Quip enhances team productivity through a collaborative platform that seamlessly integrates documents, spreadsheets, and chat into a unified workspace designed to streamline communication and eliminate traditional document collaboration inefficiencies. This integrated platform addresses fragmented team communication by providing a single space where teams can create documents, discuss ideas, and make decisions together.&#xA;Used by sales teams, marketing teams, and remote teams worldwide, Quip integrates communication and content creation seamlessly. Have conversations directly within documents and spreadsheets while maintaining version control and ensuring all team members stay informed.</description>
     </item>
     <item>
-      <title>Toggl Track</title>
-      <link>https://toolchest.pro/categories/toggl-track/</link>
+      <title>Redbooth</title>
+      <link>https://toolchest.pro/categories/redbooth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/toggl-track/</guid>
-      <description>Toggl Track is an intuitive time tracking platform that makes accurate time logging effortless for individuals and teams while providing powerful analytics and project insights.&#xA;Get Started with Toggl Track Track time effortlessly with simple, powerful analytics. Visit toggl.com to optimize productivity and project profitability.&#xA;Key Features • One-click time tracking - Simple, intuitive time logging with quick start/stop functionality and project assignment • Project and client organization - Flexible project structure with client management and task categorization • Comprehensive reporting and analytics - Detailed time reports with profitability analysis and productivity insights • Team collaboration and management - Team time tracking with role management and collaborative project coordination • Mobile and cross-platform support - Full-featured mobile apps with offline capability and seamless synchronization • Integration ecosystem - Native connections with popular project management tools and business applications • Automatic time tracking suggestions - Intelligent suggestions based on calendar events and work patterns • Billable hours and invoicing - Client billing features with invoice generation and payment tracking</description>
+      <guid>https://toolchest.pro/categories/redbooth/</guid>
+      <description>Redbooth is the integrated project management platform that combines advanced planning tools with team collaboration features. Coordinate projects with Gantt charts, task dependencies, and built-in team communication in one unified workspace.&#xA;Used by growing businesses and distributed teams worldwide, Redbooth offers comprehensive project planning, time tracking, workload management, and real-time collaboration. Manage complex projects, coordinate marketing campaigns, and maintain team alignment with advanced project management capabilities.&#xA;Get Started with Redbooth Ready to integrate project management with team collaboration?</description>
+    </item>
+    <item>
+      <title>Remember The Milk</title>
+      <link>https://toolchest.pro/categories/remember-the-milk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/remember-the-milk/</guid>
+      <description>Remember The Milk is the veteran task manager that&amp;rsquo;s been helping people get organized since 2005. While other apps chase trends, RTM focuses on rock-solid reliability and the powerful features that productivity enthusiasts actually need.&#xA;What sets Remember The Milk apart is its incredible Smart Lists feature - create dynamic task lists that automatically update based on your criteria. Need to see all tasks due this week with high priority? There&amp;rsquo;s a Smart List for that.</description>
+    </item>
+    <item>
+      <title>Smartsheet</title>
+      <link>https://toolchest.pro/categories/smartsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/smartsheet/</guid>
+      <description>Smartsheet combines the familiar interface of spreadsheets with enterprise-grade project management capabilities. It transforms static spreadsheets into dynamic project coordination tools with automated workflows, real-time collaboration, and advanced reporting.&#xA;The key advantage is eliminating the typical learning curve of project management software by building on spreadsheet familiarity. Teams get powerful features like Gantt charts, automated approvals, and resource management without abandoning workflows they already understand.&#xA;Ideal for organizations transitioning from spreadsheet-based tracking, marketing teams managing campaigns, and construction companies coordinating complex projects.</description>
+    </item>
+    <item>
+      <title>Sprintly</title>
+      <link>https://toolchest.pro/categories/sprintly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/sprintly/</guid>
+      <description>Sprintly revolutionizes agile project management by providing development teams with an intuitive, story-driven platform that seamlessly integrates user stories, sprint planning, and continuous delivery workflows. This specialized platform addresses software development challenges by combining agile methodology best practices with modern collaboration tools.&#xA;Used by software development teams, product managers, and startups worldwide, Sprintly emphasizes user story management and sprint-based workflows. Maintain focus on delivering value while providing stakeholders with real-time visibility into development progress.</description>
+    </item>
+    <item>
+      <title>Targetprocess</title>
+      <link>https://toolchest.pro/categories/targetprocess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/targetprocess/</guid>
+      <description>Targetprocess is the visual agile management platform for enterprises scaling beyond individual teams. Coordinate multiple squads, track dependencies, and maintain strategic alignment with customizable kanban boards and portfolio views.&#xA;Used by companies like Samsung, BMW, and MetLife, Targetprocess handles complex agile scaling challenges with visual workflow management. Create custom entities, track work across multiple teams, and get executive visibility into large agile transformations with built-in reporting and analytics.&#xA;Get Started with Targetprocess Ready to get started?</description>
+    </item>
+    <item>
+      <title>Taskulu</title>
+      <link>https://toolchest.pro/categories/taskulu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/taskulu/</guid>
+      <description>Taskulu enhances team productivity through a collaborative platform that combines intuitive task management with effective team communication. This unified workspace allows teams to organize projects, coordinate activities, and maintain clear visibility into progress while fostering collaboration and accountability.&#xA;Used by small teams, remote teams, and project teams worldwide, Taskulu focuses on team dynamics and collaborative work. Enhance team coordination and communication through integrated tools that keep project work and team communication connected.</description>
+    </item>
+    <item>
+      <title>Taskworld</title>
+      <link>https://toolchest.pro/categories/taskworld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/taskworld/</guid>
+      <description>Taskworld enhances team productivity through visual project management that combines intuitive task organization with powerful collaboration features. This comprehensive platform addresses distributed team challenges by providing visual coordination tools that make project status and team contributions transparent.&#xA;Used by remote teams, marketing departments, and growing companies worldwide, Taskworld balances visual appeal with functional depth. Coordinate complex projects while maintaining clear visibility into progress, dependencies, and team responsibilities.&#xA;Get Started with Taskworld Ready to enhance team productivity?</description>
+    </item>
+    <item>
+      <title>TeamGantt</title>
+      <link>https://toolchest.pro/categories/teamgantt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/teamgantt/</guid>
+      <description>TeamGantt simplifies complex project planning through intuitive, drag-and-drop Gantt chart creation that makes advanced project scheduling accessible to teams without extensive training. This user-friendly platform transforms traditional timeline management into a collaborative planning process that entire teams can participate in and understand.&#xA;Used by marketing teams, construction managers, and event planners worldwide, TeamGantt democratizes advanced project planning with sophisticated scheduling tools. Create visual project timelines while delivering powerful scheduling, dependency tracking, and resource management capabilities.</description>
+    </item>
+    <item>
+      <title>Things 3</title>
+      <link>https://toolchest.pro/categories/things-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/things-3/</guid>
+      <description>Things 3 is the award-winning task management app designed exclusively for Mac and iOS users. This elegant application combines sophisticated project organization with Apple ecosystem integration, featuring beautiful interfaces, natural workflows, and seamless synchronization across all Apple devices.&#xA;Used by Apple users, creative professionals, and productivity enthusiasts worldwide, Things 3 provides project organization, area management, calendar integration, and natural language input. Organize everything from simple daily planning to complex project coordination with today view, upcoming scheduling, and comprehensive Apple Watch integration.</description>
+    </item>
+    <item>
+      <title>TickTick</title>
+      <link>https://toolchest.pro/categories/ticktick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/ticktick/</guid>
+      <description>TickTick is the all-in-one task manager that combines to-do lists, calendar, habit tracking, and Pomodoro timer in one powerful app. Organize tasks, build habits, and stay focused with comprehensive productivity features.&#xA;Used by millions of users worldwide, TickTick offers Kanban boards, Eisenhower matrix, location reminders, and team collaboration. Track habits, manage projects with subtasks, and synchronize seamlessly across all your devices with offline access.&#xA;Get Started with TickTick Ready to get started?</description>
+    </item>
+    <item>
+      <title>Todoist</title>
+      <link>https://toolchest.pro/categories/todoist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/todoist/</guid>
+      <description>Todoist makes task management effortless with natural language processing that understands how you think. Just type &amp;ldquo;Call mom tomorrow at 2pm&amp;rdquo; and Todoist automatically creates the task with the right date and time.&#xA;Used by over 25 million people worldwide, Todoist transforms chaotic to-do lists into organized, actionable workflows. Whether you&amp;rsquo;re managing personal goals, team projects, or complex business initiatives, Todoist adapts to your style.&#xA;What makes Todoist special:&#xA;Natural language - Create tasks by typing naturally Smart scheduling - AI suggests the best times for your tasks Karma system - Gamified productivity tracking that actually motivates Universal access - Works seamlessly across all devices and platforms Perfect for:</description>
     </item>
     <item>
       <title>Trello</title>
@@ -111,6 +356,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/trello/</guid>
       <description>Trello simplifies project organization through an intuitive kanban-based platform that makes project management accessible to teams of all sizes and technical backgrounds. This approachable platform transforms complex project coordination into visual, card-based workflows that anyone can understand and use effectively.&#xA;Used by small businesses, creative teams, and marketing departments worldwide, Trello provides a simple, visual system based on boards, lists, and cards. Organize work intuitively while maintaining essential features needed for effective team collaboration and progress tracking.</description>
+    </item>
+    <item>
+      <title>Workfront</title>
+      <link>https://toolchest.pro/categories/workfront/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/workfront/</guid>
+      <description>Workfront is Adobe&amp;rsquo;s enterprise work management platform that connects strategy to execution for large organizations. Automate approval workflows, manage resources across teams, and get executive visibility into all work happening across your company.&#xA;Used by major enterprises including Cisco, T-Mobile, and REI, Workfront handles complex project portfolios, marketing campaigns, and cross-departmental initiatives. Streamline work intake, automate routing and approvals, and scale project management processes across thousands of users.&#xA;Get Started with Workfront Ready to get started?</description>
+    </item>
+    <item>
+      <title>Workzone</title>
+      <link>https://toolchest.pro/categories/workzone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/workzone/</guid>
+      <description>Workzone is the enterprise-grade project management platform designed for organizations that need powerful features with exceptional customer support. Get comprehensive project coordination, resource management, and team collaboration with reliable performance.&#xA;Trusted by marketing teams, professional services firms, and mid-market organizations, Workzone offers robust project planning, document collaboration, and detailed reporting. Benefit from dedicated implementation support, custom workflows, and enterprise security features.&#xA;Get Started with Workzone Ready for enterprise-grade project management?</description>
+    </item>
+    <item>
+      <title>Wrike</title>
+      <link>https://toolchest.pro/categories/wrike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/wrike/</guid>
+      <description>Wrike revolutionizes enterprise project management by providing a comprehensive, scalable platform that seamlessly combines advanced project planning, real-time collaboration, and powerful analytics to help organizations of all sizes execute complex initiatives with precision, transparency, and measurable results. This sophisticated platform addresses the critical challenges of modern project management by offering flexible workflows, robust resource management, and intelligent automation that adapts to diverse team structures and project requirements while maintaining enterprise-grade security and compliance standards.</description>
+    </item>
+    <item>
+      <title>Zenkit</title>
+      <link>https://toolchest.pro/categories/zenkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/zenkit/</guid>
+      <description>Zenkit revolutionizes project organization through a flexible platform that adapts to diverse work styles by offering multiple viewing options and organizational structures within a single tool, enabling teams to visualize and manage their projects using kanban boards, calendars, lists, mind maps, and tables while maintaining data consistency and collaborative workflows across all views. This adaptable platform addresses the challenge of rigid project management tools by providing multiple perspectives on the same data, allowing team members to work in their preferred format while ensuring everyone stays synchronized and informed about project progress and responsibilities regardless of their chosen view or work style.</description>
     </item>
   </channel>
 </rss>

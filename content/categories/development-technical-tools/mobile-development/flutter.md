@@ -1,8 +1,9 @@
 ---
 title: "Flutter"
 tagline: "UI toolkit by Google for building natively compiled apps"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Mobile Development"
 tool_name: "Flutter"
 deployment_status: "deployed"
 image: "/images/tools/flutter-placeholder.jpg"

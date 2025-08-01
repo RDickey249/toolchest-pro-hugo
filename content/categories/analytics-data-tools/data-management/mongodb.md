@@ -1,8 +1,8 @@
 ---
 title: "MongoDB"
 tagline: "NoSQL database"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Analytics & Data Tools"
+subcategory: "Data Management"
 tool_name: "MongoDB"
 deployment_status: "deployed"
 image: "/images/tools/mongodb-placeholder.jpg"

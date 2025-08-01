@@ -2,6 +2,7 @@
 title: "Hootsuite - Multi-platform scheduling"
 tagline: "Hootsuite is a comprehensive social media management platform that enables businesses to schedule, publish, and analyze content across multiple social networks from a single dashboard..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Hootsuite"
 deployment_status: "deployed"

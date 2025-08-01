@@ -1,8 +1,9 @@
 ---
 title: "Ulysses"
 tagline: "Long-form writing"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Digital Note Taking"
 tool_name: "Ulysses"
 deployment_status: "deployed"
 image: "/images/tools/ulysses-placeholder.jpg"

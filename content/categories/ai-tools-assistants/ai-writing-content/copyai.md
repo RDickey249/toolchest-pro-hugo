@@ -2,7 +2,8 @@
 title: "Copy.ai - AI-powered sales and marketing content"
 tagline: "Copy.ai is an AI-powered writing platform that helps businesses create high-converting sales and marketing content at scale..."
 category: "AI Tools & Assistants"
-subcategory: "AI Writing & Content"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "Copy.ai"
 deployment_status: "deployed"
 image: "/images/tools/copyai-placeholder.jpg"

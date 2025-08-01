@@ -1,8 +1,9 @@
 ---
 title: "YouTube Music"
 tagline: "Google's music platform combining official tracks with YouTube content"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "YouTube Music"
 deployment_status: "deployed"
 image: "/images/tools/youtube-music-placeholder.jpg"

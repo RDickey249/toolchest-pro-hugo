@@ -1,8 +1,8 @@
 ---
 title: "Husky"
 tagline: "Git hooks made easy for code quality automation"
-category: "🧪 Testing & Quality Assurance"
-subcategory: "🧪 Testing & Quality Assurance"
+category: "Development & Technical Tools"
+subcategory: "Code Quality Linting"
 tool_name: "Husky"
 deployment_status: "deployed"
 image: "/images/tools/husky-placeholder.jpg"

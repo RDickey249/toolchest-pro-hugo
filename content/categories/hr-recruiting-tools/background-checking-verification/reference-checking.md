@@ -1,8 +1,9 @@
 ---
 title: "Reference Checking"
 tagline: "Automated reference tools"
-category: "👥 HR & Recruiting Tools"
-subcategory: "Background Checks & Verification"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Background Checking Verification"
 tool_name: "Reference Checking"
 deployment_status: "deployed"
 image: "/images/tools/reference-checking-placeholder.jpg"

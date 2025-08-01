@@ -1,8 +1,9 @@
 ---
 title: "Bench"
 tagline: "Bookkeeping service"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Accounting Software"
 tool_name: "Bench"
 deployment_status: "deployed"
 image: "/images/tools/bench-placeholder.jpg"

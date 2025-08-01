@@ -2,6 +2,7 @@
 title: "Aperian Global - Cultural competency"
 tagline: "Aperian Global is a cultural competency platform that provides comprehensive cultural intelligence training, assessment tools, and consulting services for organizations building global leadership capabilities..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Aperian Global"
 deployment_status: "deployed"

@@ -2,7 +2,8 @@
 title: "Codeium - Free AI coding assistant"
 tagline: "Codeium is a free AI-powered coding assistant that provides intelligent code completion, chat, and search capabilities across 70+ programming languages..."
 category: "AI Tools & Assistants"
-subcategory: "AI Code & Development"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Code Development"
 tool_name: "Codeium"
 deployment_status: "deployed"
 image: "/images/tools/codeium-placeholder.jpg"

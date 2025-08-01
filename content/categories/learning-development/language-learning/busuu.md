@@ -2,6 +2,7 @@
 title: "Busuu - Social language learning"
 tagline: "Busuu is a social language learning platform that combines structured lessons with community interaction, offering conversation practice with native speakers and peer feedback on speaking and writing exercises..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Busuu"
 deployment_status: "deployed"

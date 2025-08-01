@@ -2,7 +2,8 @@
 title: "Snapchat Insights - Snap ad analytics"
 tagline: "Snapchat Insights provides comprehensive analytics for Snapchat content and advertising campaigns, offering engagement metrics, audience demographics, and ad performance data..."
 category: "Marketing & Social Media"
-subcategory: "Analytics & Insights"
+categories: ["Marketing & Social Media"]
+subcategory: "Analytics Insights"
 tool_name: "Snapchat Insights"
 deployment_status: "deployed"
 image: "/images/tools/snapchat-insights-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Worldpay"
 tagline: "Enterprise payments"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Payment Processing"
 tool_name: "Worldpay"
 deployment_status: "deployed"
 image: "/images/tools/worldpay-placeholder.jpg"

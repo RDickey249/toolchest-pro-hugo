@@ -1,7 +1,8 @@
 ---
 title: "ActiveCollab"
 tagline: "Ready to integrate project management with client billing?..."
-category: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "ActiveCollab"
 deployment_status: "deployed"

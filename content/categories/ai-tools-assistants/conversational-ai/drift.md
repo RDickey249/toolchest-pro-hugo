@@ -1,8 +1,9 @@
 ---
 title: "Drift"
 tagline: "Ready to transform website visitors into qualified leads? Visit [Drift](https://www.drift.com) to experience conversational sales automation that conn..."
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Drift"
 deployment_status: "deployed"
 image: "/images/tools/drift-placeholder.jpg"

@@ -1,13 +1,13 @@
 ---
 title: "Sendinblue"
 tagline: "All-in-one marketing platform"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Marketing & Social Media"
+subcategory: "Marketing Automation"
 tool_name: "Sendinblue"
 deployment_status: "deployed"
 image: "/images/tools/sendinblue-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
-categories: ["Business Marketing Tools"]
+categories: ["Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true

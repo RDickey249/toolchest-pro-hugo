@@ -1,8 +1,9 @@
 ---
 title: "Twistlock (Prisma Cloud)"
 tagline: "Full lifecycle container security with cloud-native integration"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Container Security Tools"
 tool_name: "Twistlock (Prisma Cloud)"
 deployment_status: "deployed"
 image: "/images/tools/twistlock-placeholder.jpg"

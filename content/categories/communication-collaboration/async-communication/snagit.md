@@ -1,8 +1,8 @@
 ---
 title: "Snagit"
 tagline: "Screenshots and recordings"
-category: "🖥️ Hardware & Equipment Tools"
-subcategory: "🖥️ Hardware & Equipment Tools"
+category: "Communication & Collaboration"
+subcategory: "Async Communication"
 tool_name: "Snagit"
 deployment_status: "deployed"
 image: "/images/tools/snagit-placeholder.jpg"

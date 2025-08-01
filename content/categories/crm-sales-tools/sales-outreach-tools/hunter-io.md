@@ -1,8 +1,8 @@
 ---
 title: "Hunter.io"
 tagline: "Professional email finder and verifier"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "CRM & Sales Tools"
+subcategory: "Sales Outreach Tools"
 tool_name: "Hunter.io"
 deployment_status: "deployed"
 image: "/images/tools/hunter-io-placeholder.jpg"

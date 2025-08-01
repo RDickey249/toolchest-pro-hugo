@@ -1,8 +1,9 @@
 ---
 title: "Bamboo"
 tagline: "Atlassian's continuous integration and deployment tool"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Cicd Automation"
 tool_name: "Bamboo"
 deployment_status: "deployed"
 image: "/images/tools/bamboo-placeholder.jpg"

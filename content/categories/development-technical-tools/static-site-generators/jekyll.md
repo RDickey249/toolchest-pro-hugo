@@ -1,8 +1,9 @@
 ---
 title: "Jekyll"
 tagline: "Ruby-powered static site generator with GitHub Pages integration"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Static Site Generators"
 tool_name: "Jekyll"
 deployment_status: "deployed"
 image: "/images/tools/jekyll-placeholder.jpg"

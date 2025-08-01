@@ -1,8 +1,9 @@
 ---
 title: "Docusaurus"
 tagline: "Facebook's React-based documentation platform with modern features"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Static Site Generators"
 tool_name: "Docusaurus"
 deployment_status: "deployed"
 image: "/images/tools/docusaurus-placeholder.jpg"

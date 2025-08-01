@@ -1,8 +1,9 @@
 ---
 title: "Talkdesk"
 tagline: "AI-powered cloud contact center platform"
-category: "🎧 Customer Support Tools"
-subcategory: "Voice & Phone Support"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Voice Phone Support"
 tool_name: "Talkdesk"
 deployment_status: "deployed"
 image: "/images/tools/talkdesk-placeholder.jpg"

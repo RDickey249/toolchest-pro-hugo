@@ -1,8 +1,9 @@
 ---
 title: "Firebase Firestore"
 tagline: "Google's scalable NoSQL document database for mobile and web"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Database & Data Management"
+categories: ["Database & Data Management"]
+subcategory: "Nosql Databases"
 tool_name: "Firebase Firestore"
 deployment_status: "deployed"
 image: "/images/tools/firebase-firestore-placeholder.jpg"

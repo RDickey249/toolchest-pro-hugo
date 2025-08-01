@@ -1,8 +1,9 @@
 ---
 title: "Pabbly Connect"
 tagline: "Affordable automation"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Automation & Workflows"
+categories: ["Automation & Workflows"]
+subcategory: "Workflow Automation"
 tool_name: "Pabbly Connect"
 deployment_status: "deployed"
 image: "/images/tools/pabbly-connect-placeholder.jpg"

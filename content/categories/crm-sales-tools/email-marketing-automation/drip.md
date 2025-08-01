@@ -1,8 +1,9 @@
 ---
 title: "Drip"
 tagline: "Ecommerce marketing automation"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
+subcategory: "Email Marketing Automation"
 tool_name: "Drip"
 deployment_status: "deployed"
 image: "/images/tools/drip-placeholder.jpg"

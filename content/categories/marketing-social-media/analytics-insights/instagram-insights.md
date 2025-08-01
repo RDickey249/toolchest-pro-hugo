@@ -2,7 +2,8 @@
 title: "Instagram Insights - Built-in Instagram analytics"
 tagline: "Instagram Insights is the native analytics platform built directly into Instagram, providing detailed performance metrics, audience demographics, and content analytics for business accounts..."
 category: "Marketing & Social Media"
-subcategory: "Analytics & Insights"
+categories: ["Marketing & Social Media"]
+subcategory: "Analytics Insights"
 tool_name: "Instagram Insights"
 deployment_status: "deployed"
 image: "/images/tools/instagram-insights-placeholder.jpg"

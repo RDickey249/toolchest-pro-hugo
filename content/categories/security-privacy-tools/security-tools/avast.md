@@ -1,8 +1,9 @@
 ---
 title: "Avast"
 tagline: "Free antivirus option"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Security Tools"
 tool_name: "Avast"
 deployment_status: "deployed"
 image: "/images/tools/avast-placeholder.jpg"

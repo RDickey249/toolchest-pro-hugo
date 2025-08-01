@@ -1,8 +1,9 @@
 ---
 title: "Bluehost"
 tagline: "WordPress-recommended hosting with comprehensive web services"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "Bluehost"
 deployment_status: "deployed"
 image: "/images/tools/bluehost-placeholder.jpg"

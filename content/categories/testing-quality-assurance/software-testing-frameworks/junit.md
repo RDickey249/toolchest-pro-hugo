@@ -1,8 +1,9 @@
 ---
 title: "JUnit"
 tagline: "Foundational unit testing framework for Java"
-category: "🧪 Testing & Quality Assurance"
-subcategory: "🧪 Testing & Quality Assurance"
+category: "Testing & Quality Assurance"
+categories: ["Testing & Quality Assurance"]
+subcategory: "Software Testing Frameworks"
 tool_name: "JUnit"
 deployment_status: "deployed"
 image: "/images/tools/junit-placeholder.jpg"

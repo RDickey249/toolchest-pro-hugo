@@ -1,8 +1,9 @@
 ---
 title: "Pecan"
 tagline: "Ready to get started? Visit [Pecan](https://www.pecan.ai) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Pecan"
 deployment_status: "deployed"
 image: "/images/tools/pecan-placeholder.jpg"

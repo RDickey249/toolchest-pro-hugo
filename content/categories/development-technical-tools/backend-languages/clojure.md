@@ -1,8 +1,9 @@
 ---
 title: "Clojure"
 tagline: "Lisp-based functional language on JVM"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Clojure"
 deployment_status: "deployed"
 image: "/images/tools/clojure-placeholder.jpg"

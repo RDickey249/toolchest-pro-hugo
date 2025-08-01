@@ -1,8 +1,9 @@
 ---
 title: "Simplenote"
 tagline: "Minimalist notes"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Traditional Note Apps"
 tool_name: "Simplenote"
 deployment_status: "deployed"
 image: "/images/tools/simplenote-placeholder.jpg"

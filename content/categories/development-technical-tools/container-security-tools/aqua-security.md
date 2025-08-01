@@ -1,8 +1,9 @@
 ---
 title: "Aqua Security"
 tagline: "Container-native security platform for runtime protection and compliance"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Container Security Tools"
 tool_name: "Aqua Security"
 deployment_status: "deployed"
 image: "/images/tools/aqua-security-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Carrd"
 tagline: "Simple one-page sites"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Web Design Development"
 tool_name: "Carrd"
 deployment_status: "deployed"
 image: "/images/tools/carrd-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "WebdriverIO"
 tagline: "Next-generation browser automation framework with modern capabilities"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Testing Qa Tools"
 tool_name: "WebdriverIO"
 deployment_status: "deployed"
 image: "/images/tools/webdriverio-placeholder.jpg"

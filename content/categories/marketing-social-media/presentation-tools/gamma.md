@@ -1,8 +1,9 @@
 ---
 title: "Gamma"
 tagline: "Ready to get started? Visit [Gamma](https://gamma.app) to explore the platform and begin using this tool...."
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Presentation Tools"
 tool_name: "Gamma"
 deployment_status: "deployed"
 image: "/images/tools/gamma-placeholder.jpg"

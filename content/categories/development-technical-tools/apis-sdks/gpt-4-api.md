@@ -1,8 +1,9 @@
 ---
 title: "GPT-4 API"
 tagline: "Advanced artificial intelligence language model platform"
-category: "💻 Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Apis Sdks"
 tool_name: "GPT-4 API"
 deployment_status: "deployed"
 image: "/images/tools/gpt-4-api-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "Zotero - Free reference manager"
 tagline: "The only research tool you'll ever need"
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Reference Management"
 tool_name: "Zotero - Free reference manager"
 deployment_status: "deployed"

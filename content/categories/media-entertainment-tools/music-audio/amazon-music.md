@@ -1,8 +1,9 @@
 ---
 title: "Amazon Music"
 tagline: "Amazon's streaming service integrated with Alexa and Prime"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "Amazon Music"
 deployment_status: "deployed"
 image: "/images/tools/amazon-music-placeholder.jpg"

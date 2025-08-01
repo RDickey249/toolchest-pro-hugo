@@ -1,8 +1,9 @@
 ---
 title: "Joplin"
 tagline: "Open-source notes"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Traditional Note Apps"
 tool_name: "Joplin"
 deployment_status: "deployed"
 image: "/images/tools/joplin-placeholder.jpg"

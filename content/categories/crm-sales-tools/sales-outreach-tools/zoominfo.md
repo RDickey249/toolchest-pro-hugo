@@ -1,8 +1,9 @@
 ---
 title: "ZoomInfo"
 tagline: "B2B contact database"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
+subcategory: "Sales Outreach Tools"
 tool_name: "ZoomInfo"
 deployment_status: "deployed"
 image: "/images/tools/zoominfo-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Chrome-river"
 tagline: "Expense management"
-category: "✈️ Travel & Expense Management"
-subcategory: "✈️ Travel & Expense Management"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Expense Management"
 tool_name: "Chrome-river"
 deployment_status: "deployed"
 image: "/images/tools/chrome-river-placeholder.jpg"

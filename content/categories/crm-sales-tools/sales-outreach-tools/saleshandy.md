@@ -1,8 +1,8 @@
 ---
 title: "Saleshandy"
 tagline: "Cold email outreach at scale"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "CRM & Sales Tools"
+subcategory: "Sales Outreach Tools"
 tool_name: "Saleshandy"
 deployment_status: "deployed"
 image: "/images/tools/saleshandy-placeholder.jpg"

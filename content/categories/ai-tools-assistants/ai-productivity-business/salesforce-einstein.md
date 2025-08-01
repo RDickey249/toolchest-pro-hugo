@@ -2,7 +2,8 @@
 title: "Salesforce Einstein - Sales AI"
 tagline: "Salesforce Einstein is an integrated AI platform that brings artificial intelligence directly into Salesforce CRM, providing predictive analytics, automated insights, and intelligent recommendations..."
 category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Salesforce Einstein"
 deployment_status: "deployed"
 image: "/images/tools/salesforce-einstein-placeholder.jpg"

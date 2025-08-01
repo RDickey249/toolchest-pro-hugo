@@ -1,7 +1,8 @@
 ---
 title: "Productive"
 tagline: "Ready to get started? Visit [Productive](https://productive.io) to explore the platform and begin using this tool...."
-category: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Agencies"
 tool_name: "Productive"
 deployment_status: "deployed"

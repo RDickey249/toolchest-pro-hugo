@@ -1,8 +1,9 @@
 ---
 title: "Kinsta"
 tagline: "Premium managed WordPress hosting with Google Cloud infrastructure"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "Kinsta"
 deployment_status: "deployed"
 image: "/images/tools/kinsta-placeholder.jpg"

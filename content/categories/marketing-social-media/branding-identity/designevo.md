@@ -1,8 +1,9 @@
 ---
 title: "DesignEvo"
 tagline: "Professional logo design with 10,000+ templates"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Branding Identity"
 tool_name: "DesignEvo"
 deployment_status: "deployed"
 image: "/images/tools/designevo-placeholder.jpg"

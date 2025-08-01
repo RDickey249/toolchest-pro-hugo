@@ -1,13 +1,13 @@
 ---
 title: "Mailchimp"
 tagline: "Small business email marketing"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Marketing & Social Media"
+subcategory: "Marketing Automation"
 tool_name: "Mailchimp"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
-categories: ["Business Marketing Tools"]
+categories: ["Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true

@@ -1,8 +1,9 @@
 ---
 title: "Hubstaff"
 tagline: "Time tracking with employee monitoring and GPS"
-category: "⏰ Time Tracking & Scheduling"
-subcategory: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking"
 tool_name: "Hubstaff"
 deployment_status: "deployed"
 image: "/images/tools/hubstaff-placeholder.jpg"

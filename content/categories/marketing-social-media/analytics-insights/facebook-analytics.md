@@ -2,7 +2,8 @@
 title: "Facebook Analytics - Social media insights"
 tagline: "Facebook Analytics provides comprehensive insights into Facebook and Instagram performance, offering detailed audience demographics, engagement metrics, and conversion tracking..."
 category: "Marketing & Social Media"
-subcategory: "Analytics & Insights"
+categories: ["Marketing & Social Media"]
+subcategory: "Analytics Insights"
 tool_name: "Facebook Analytics"
 deployment_status: "deployed"
 image: "/images/tools/facebook-analytics-placeholder.jpg"

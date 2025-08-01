@@ -2,6 +2,7 @@
 title: "Overleaf - Collaborative LaTeX editor"
 tagline: "Overleaf is a collaborative cloud-based LaTeX editor that enables researchers and academics to write, edit, and publish scientific documents with real-time collaboration and integrated reference management..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "Overleaf"
 deployment_status: "deployed"

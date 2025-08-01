@@ -1,8 +1,9 @@
 ---
 title: "HoursTracker"
 tagline: "Simple mobile time tracking with automatic earnings calculation"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Mobile Time Tracking Tools"
 tool_name: "HoursTracker"
 deployment_status: "deployed"
 image: "/images/tools/hourstracker-placeholder.jpg"

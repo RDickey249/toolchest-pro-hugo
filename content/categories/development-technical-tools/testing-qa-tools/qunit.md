@@ -1,8 +1,9 @@
 ---
 title: "QUnit"
 tagline: "JavaScript unit testing framework with simple API and browser support"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Testing Qa Tools"
 tool_name: "QUnit"
 deployment_status: "deployed"
 image: "/images/tools/qunit-placeholder.jpg"

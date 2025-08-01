@@ -1,8 +1,8 @@
 ---
 title: "n8n"
 tagline: "Open-source workflow automation platform"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "Time Tracking & Scheduling"
+subcategory: "Time Tracking Integrations"
 tool_name: "n8n"
 deployment_status: "deployed"
 image: "/images/tools/n8n-placeholder.jpg"

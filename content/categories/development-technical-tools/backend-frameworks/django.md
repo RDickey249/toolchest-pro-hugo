@@ -1,8 +1,9 @@
 ---
 title: "Django"
 tagline: "Python web framework with batteries included"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Frameworks"
 tool_name: "Django"
 deployment_status: "deployed"
 image: "/images/tools/django-placeholder.jpg"

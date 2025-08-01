@@ -1,7 +1,8 @@
 ---
 title: "MeisterTask"
 tagline: "Ready to get started? Visit [this tool](https://www.meistertask.com) to explore the platform and begin using this tool...."
-category: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "MeisterTask"
 deployment_status: "deployed"

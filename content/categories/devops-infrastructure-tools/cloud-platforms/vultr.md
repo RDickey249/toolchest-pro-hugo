@@ -1,8 +1,9 @@
 ---
 title: "Vultr"
 tagline: "High-performance cloud computing with global reach"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Cloud Platforms"
 tool_name: "Vultr"
 deployment_status: "deployed"
 image: "/images/tools/vultr-placeholder.jpg"

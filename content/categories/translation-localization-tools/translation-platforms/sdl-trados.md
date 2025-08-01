@@ -2,6 +2,7 @@
 title: "SDL Trados - Professional translation software"
 tagline: "SDL Trados Studio is professional computer-assisted translation (CAT) software that helps translators work more efficiently through translation memory, terminology management, and quality assurance tools..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "SDL Trados"
 deployment_status: "deployed"

@@ -2,6 +2,7 @@
 title: "ORCID - Researcher identifier system"
 tagline: "ORCID provides a persistent digital identifier for researchers that distinguishes them from other researchers and connects them with their research activities and outputs..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "ORCID"
 deployment_status: "deployed"

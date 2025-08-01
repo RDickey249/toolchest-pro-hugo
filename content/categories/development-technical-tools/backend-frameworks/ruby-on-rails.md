@@ -1,8 +1,9 @@
 ---
 title: "Ruby on Rails"
 tagline: "Full-stack web framework for Ruby"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Frameworks"
 tool_name: "Ruby on Rails"
 deployment_status: "deployed"
 image: "/images/tools/ruby-on-rails-placeholder.jpg"

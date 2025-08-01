@@ -2,6 +2,7 @@
 title: "Agorapulse - Social media management"
 tagline: "Agorapulse is a comprehensive social media management platform that combines publishing, monitoring, and reporting with robust team collaboration and customer relationship features..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Agorapulse"
 deployment_status: "deployed"

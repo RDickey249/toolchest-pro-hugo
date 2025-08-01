@@ -1,8 +1,9 @@
 ---
 title: "Evernote"
 tagline: "The original digital notebook"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Traditional Note Apps"
 tool_name: "Evernote"
 deployment_status: "deployed"
 image: "/images/tools/evernote-placeholder.jpg"

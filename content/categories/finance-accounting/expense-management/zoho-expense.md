@@ -1,8 +1,9 @@
 ---
 title: "Zoho-expense"
 tagline: "Expense management"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Expense Management"
 tool_name: "Zoho-expense"
 deployment_status: "deployed"
 image: "/images/tools/zoho-expense-placeholder.jpg"

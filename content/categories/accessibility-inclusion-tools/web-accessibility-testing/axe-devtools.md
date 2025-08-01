@@ -2,6 +2,7 @@
 title: "axe DevTools - Accessibility testing"
 tagline: "The industry standard for automated accessibility testing"
 category: "Accessibility & Inclusion Tools"
+categories: ["Accessibility & Inclusion Tools"]
 subcategory: "Web Accessibility Testing"
 tool_name: "axe DevTools - Accessibility testing"
 deployment_status: "deployed"

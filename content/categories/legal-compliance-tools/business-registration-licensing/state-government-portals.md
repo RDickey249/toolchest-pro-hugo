@@ -1,8 +1,9 @@
 ---
 title: "State Government Portals"
 tagline: "Direct filing options"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Business Registration Licensing"
 tool_name: "State Government Portals"
 deployment_status: "deployed"
 image: "/images/tools/state-government-portals-placeholder.jpg"

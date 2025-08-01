@@ -1,8 +1,8 @@
 ---
 title: "Databricks"
 tagline: "Unified analytics platform for data and AI"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Automation & Workflows"
+subcategory: "Data Integration"
 tool_name: "Databricks"
 deployment_status: "deployed"
 image: "/images/tools/databricks-placeholder.jpg"

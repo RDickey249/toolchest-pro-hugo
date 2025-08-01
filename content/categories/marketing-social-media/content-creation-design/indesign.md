@@ -2,7 +2,8 @@
 title: "InDesign - Professional layout design"
 tagline: "Adobe InDesign is the industry-standard desktop publishing software for creating professional layouts, publications, and print materials with precise typography and design control..."
 category: "Marketing & Social Media"
-subcategory: "Content Creation & Design"
+categories: ["Marketing & Social Media"]
+subcategory: "Content Creation Design"
 tool_name: "InDesign"
 deployment_status: "deployed"
 image: "/images/tools/indesign-placeholder.jpg"

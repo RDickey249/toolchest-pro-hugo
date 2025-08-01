@@ -2,6 +2,7 @@
 title: "italki - 1-on-1 language tutoring"
 tagline: "italki is a 1-on-1 language tutoring platform that connects students with professional teachers and community tutors for personalized language lessons via video chat with flexible scheduling and pricing..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "italki"
 deployment_status: "deployed"

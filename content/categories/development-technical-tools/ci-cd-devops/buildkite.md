@@ -1,8 +1,9 @@
 ---
 title: "Buildkite"
 tagline: "Scalable CI platform with hybrid agent architecture"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Ci Cd Devops"
 tool_name: "Buildkite"
 deployment_status: "deployed"
 image: "/images/tools/buildkite-placeholder.jpg"

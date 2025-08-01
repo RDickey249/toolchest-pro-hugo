@@ -2,6 +2,7 @@
 title: "Cultural Detective - Intercultural analysis"
 tagline: "Cultural Detective is an intercultural analysis platform that provides case studies, cultural frameworks, and practical tools for developing cultural competence and resolving cross-cultural conflicts..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Cultural Detective"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "Render"
 tagline: "Modern cloud platform for hosting web services and static sites"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "Render"
 deployment_status: "deployed"
 image: "/images/tools/render-placeholder.jpg"

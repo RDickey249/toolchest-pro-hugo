@@ -1,8 +1,9 @@
 ---
 title: "DocuSign"
 tagline: "Digital signature and contract management platform for secure document workflow"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Contract Management"
 tool_name: "DocuSign"
 deployment_status: "deployed"
 image: "/images/tools/docusign-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Express.js"
 tagline: "Fast, unopinionated web framework for Node.js"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+subcategory: "Backend Frameworks"
 tool_name: "Express.js"
 deployment_status: "deployed"
 image: "/images/tools/express-js-placeholder.jpg"

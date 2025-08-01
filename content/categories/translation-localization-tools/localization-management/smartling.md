@@ -2,6 +2,7 @@
 title: "Smartling - Translation management system"
 tagline: "Smartling is an enterprise translation management system that combines human expertise with AI-powered automation to deliver high-quality localization at scale for global brands and organizations..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Smartling"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "Stable Diffusion"
 tagline: "Ready to get started? Visit [Stable Diffusion](https://stablediffusionweb.com) to explore the platform and begin using this tool...."
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Stable Diffusion"
 deployment_status: "deployed"
 image: "/images/tools/stable-diffusion-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Certify"
 tagline: "Expense management"
-category: "✈️ Travel & Expense Management"
-subcategory: "✈️ Travel & Expense Management"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Expense Management"
 tool_name: "Certify"
 deployment_status: "deployed"
 image: "/images/tools/certify-placeholder.jpg"

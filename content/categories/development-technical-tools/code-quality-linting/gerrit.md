@@ -1,8 +1,9 @@
 ---
 title: "Gerrit"
 tagline: "Web-based code review system for Git repositories with access control"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Quality Linting"
 tool_name: "Gerrit"
 deployment_status: "deployed"
 image: "/images/tools/gerrit-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Teamwork Desk"
 tagline: "Intelligent help desk software that keeps customers happy"
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Help Desk Platforms"
 tool_name: "Teamwork Desk"
 deployment_status: "deployed"
 image: "/images/tools/teamwork-desk-placeholder.jpg"

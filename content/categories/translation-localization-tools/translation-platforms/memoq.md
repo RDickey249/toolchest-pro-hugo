@@ -2,6 +2,7 @@
 title: "memoQ - Translation management system"
 tagline: "memoQ is a comprehensive translation management system that combines computer-assisted translation (CAT) tools with project management capabilities, serving both individual translators and enterprise localization teams..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "memoQ"
 deployment_status: "deployed"

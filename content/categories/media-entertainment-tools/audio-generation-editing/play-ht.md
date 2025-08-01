@@ -1,8 +1,9 @@
 ---
 title: "Play.ht"
 tagline: "Create ultra-realistic AI voices. Visit [play.ht](https://play.ht) to try the world's most advanced text-to-speech platform and bring your content to ..."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Generation Editing"
 tool_name: "Play.ht"
 deployment_status: "deployed"
 image: "/images/tools/play-ht-placeholder.jpg"

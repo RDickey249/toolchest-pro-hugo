@@ -1,8 +1,9 @@
 ---
 title: "Motion"
 tagline: "Motion is the AI-powered scheduling platform that combines intelligent task management with calendar optimization to automatically organize your day, ..."
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Motion"
 deployment_status: "deployed"
 image: "/images/tools/motion-placeholder.jpg"

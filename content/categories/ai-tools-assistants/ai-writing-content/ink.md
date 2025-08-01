@@ -1,8 +1,9 @@
 ---
 title: "INK"
 tagline: "Ready to create content that ranks and converts? Visit [INK](https://inkforall.com) to combine AI writing assistance with powerful SEO optimization to..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "INK"
 deployment_status: "deployed"
 image: "/images/tools/ink-placeholder.jpg"

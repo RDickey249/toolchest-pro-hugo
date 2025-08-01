@@ -2,6 +2,7 @@
 title: "SocialBee - Content categorization"
 tagline: "SocialBee is a social media management platform that uses content categorization to organize and automatically recycle evergreen content while maintaining balanced posting schedules..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "SocialBee"
 deployment_status: "deployed"

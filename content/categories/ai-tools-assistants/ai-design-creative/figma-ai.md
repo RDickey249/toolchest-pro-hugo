@@ -2,7 +2,8 @@
 title: "Figma AI - Design assistance in Figma"
 tagline: "Figma AI integrates artificial intelligence directly into the design workflow, offering smart design suggestions, automated tasks, and intelligent collaboration features..."
 category: "AI Tools & Assistants"
-subcategory: "AI Design & Creative"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Figma AI"
 deployment_status: "deployed"
 image: "/images/tools/figma-ai-placeholder.jpg"

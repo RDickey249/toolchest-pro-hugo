@@ -1,8 +1,9 @@
 ---
 title: "OBS Studio"
 tagline: "Free, open-source broadcasting and recording software"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Streaming Production"
 tool_name: "OBS Studio"
 deployment_status: "deployed"
 image: "/images/tools/obs-studio-placeholder.jpg"

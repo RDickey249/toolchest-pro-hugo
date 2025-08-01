@@ -2,6 +2,7 @@
 title: "Mathematica - Computational software"
 tagline: "Mathematica is a comprehensive computational platform that integrates symbolic mathematics, numerical computation, and visualization..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "Mathematica"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "Tome"
 tagline: "Create compelling presentations with AI-powered storytelling. Visit [tome.app](https://tome.app) to generate complete presentations from simple prompt..."
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Presentation Tools"
 tool_name: "Tome"
 deployment_status: "deployed"
 image: "/images/tools/tome-placeholder.jpg"

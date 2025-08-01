@@ -2,6 +2,7 @@
 title: "Loomly - Brand success platform"
 tagline: "Loomly is a brand success platform that combines social media management with content inspiration, brand safety features, and collaborative workflows designed for consistent brand building..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Loomly"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Vue.js"
 tagline: "Progressive JavaScript framework for building user interfaces"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+subcategory: "Frontend Frameworks"
 tool_name: "Vue.js"
 deployment_status: "deployed"
 image: "/images/tools/vue-js-placeholder.jpg"

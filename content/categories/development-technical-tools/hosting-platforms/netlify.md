@@ -1,8 +1,9 @@
 ---
 title: "Netlify"
 tagline: "Modern web hosting with continuous deployment and serverless functions"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "Netlify"
 deployment_status: "deployed"
 image: "/images/tools/netlify-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "YouTube Data API"
 tagline: "Access YouTube content and channel management features"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Apis Sdks"
 tool_name: "YouTube Data API"
 deployment_status: "deployed"
 image: "/images/tools/youtube-data-api-placeholder.jpg"

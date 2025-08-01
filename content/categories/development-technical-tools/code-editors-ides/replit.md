@@ -1,8 +1,9 @@
 ---
 title: "Replit"
 tagline: "Cloud-based collaborative coding platform with instant deployment"
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Editors Ides"
 tool_name: "Replit"
 deployment_status: "deployed"
 image: "/images/tools/replit-placeholder.jpg"

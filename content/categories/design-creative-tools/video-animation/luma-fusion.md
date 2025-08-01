@@ -1,8 +1,9 @@
 ---
 title: "Luma Fusion"
 tagline: "Mobile video editing"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Video Animation"
 tool_name: "Luma Fusion"
 deployment_status: "deployed"
 image: "/images/tools/luma-fusion-placeholder.jpg"

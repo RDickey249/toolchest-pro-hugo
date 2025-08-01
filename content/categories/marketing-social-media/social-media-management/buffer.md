@@ -1,8 +1,9 @@
 ---
 title: "Buffer"
 tagline: "Simple social scheduling"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Social Media Management"
 tool_name: "Buffer"
 deployment_status: "deployed"
 image: "/images/tools/buffer-placeholder.jpg"

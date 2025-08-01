@@ -1,8 +1,9 @@
 ---
 title: "GitGuardian"
 tagline: "Secrets detection and monitoring tool for public and private repositories"
-category: "✈️ Travel & Expense Management"
-subcategory: "✈️ Travel & Expense Management"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Security Compliance Tools"
 tool_name: "GitGuardian"
 deployment_status: "deployed"
 image: "/images/tools/gitguardian-placeholder.jpg"

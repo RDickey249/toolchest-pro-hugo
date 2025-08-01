@@ -1,8 +1,9 @@
 ---
 title: "Zoho Projects"
 tagline: "Ready to get started? Visit [Zoho Projects](https://zoho.com/projects) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Project Time Tracking Tools"
 tool_name: "Zoho Projects"
 deployment_status: "deployed"
 image: "/images/tools/zoho-projects-placeholder.jpg"

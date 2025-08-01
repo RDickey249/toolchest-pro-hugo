@@ -1,8 +1,9 @@
 ---
 title: "MkDocs"
 tagline: "Fast, simple generator for project docs using Markdown"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Documentation Productivity Tools"
 tool_name: "MkDocs"
 deployment_status: "deployed"
 image: "/images/tools/mkdocs-placeholder.jpg"

@@ -1,7 +1,8 @@
 ---
 title: "Networking Equipment - Ubiquiti, Netgear, etc."
 tagline: "Professional networking hardware for reliable internet connectivity and network management"
-category: "🖥️ Hardware & Equipment Tools"
+category: "Hardware & Equipment Tools"
+categories: ["Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Networking Equipment - Ubiquiti, Netgear, etc."
 external_link: "https://www.ui.com/"

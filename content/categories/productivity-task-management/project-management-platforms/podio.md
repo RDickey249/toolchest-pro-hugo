@@ -1,8 +1,9 @@
 ---
 title: "Podio"
 tagline: "Ready to get started? Visit [this tool](https://podio.com) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "Podio"
 deployment_status: "deployed"
 image: "/images/tools/podio-placeholder.jpg"

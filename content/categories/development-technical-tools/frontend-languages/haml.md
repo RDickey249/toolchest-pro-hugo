@@ -1,8 +1,9 @@
 ---
 title: "HAML"
 tagline: "HTML abstraction markup language for clean templates"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Frontend Languages"
 tool_name: "HAML"
 deployment_status: "deployed"
 image: "/images/tools/haml-placeholder.jpg"

@@ -2,7 +2,8 @@
 title: "After Effects - Motion graphics"
 tagline: "Adobe After Effects is the industry-standard motion graphics and visual effects software for creating animated graphics, compositing, and post-production effects for video content..."
 category: "Marketing & Social Media"
-subcategory: "Content Creation & Design"
+categories: ["Marketing & Social Media"]
+subcategory: "Content Creation Design"
 tool_name: "After Effects"
 deployment_status: "deployed"
 image: "/images/tools/after-effects-placeholder.jpg"

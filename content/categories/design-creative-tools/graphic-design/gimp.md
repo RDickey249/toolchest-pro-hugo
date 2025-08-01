@@ -1,8 +1,9 @@
 ---
 title: "GIMP"
 tagline: "Free image editing"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Graphic Design"
 tool_name: "GIMP"
 deployment_status: "deployed"
 image: "/images/tools/gimp-placeholder.jpg"

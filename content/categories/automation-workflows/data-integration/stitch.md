@@ -1,8 +1,8 @@
 ---
 title: "Stitch"
 tagline: "Simple ETL for growing businesses"
-category: "📊 Analytics & Data Tools"
-subcategory: "📊 Analytics & Data Tools"
+category: "Automation & Workflows"
+subcategory: "Data Integration"
 tool_name: "Stitch"
 deployment_status: "deployed"
 image: "/images/tools/stitch-placeholder.jpg"

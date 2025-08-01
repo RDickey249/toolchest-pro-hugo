@@ -1,8 +1,9 @@
 ---
 title: "Sage X3"
 tagline: "Enterprise inventory"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Inventory Management"
 tool_name: "Sage X3"
 deployment_status: "deployed"
 image: "/images/tools/sage-x3-placeholder.jpg"

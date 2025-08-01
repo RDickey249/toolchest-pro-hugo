@@ -2,6 +2,7 @@
 title: "Mendeley - Academic reference manager"
 tagline: "Mendeley is a reference management tool and academic social network that helps researchers organize their research, collaborate, and discover new research..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Reference Management"
 tool_name: "Mendeley"
 deployment_status: "deployed"

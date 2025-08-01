@@ -1,8 +1,9 @@
 ---
 title: "SurveyMonkey"
 tagline: "World's most popular online survey platform"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "Survey Platforms"
 tool_name: "SurveyMonkey"
 deployment_status: "deployed"
 image: "/images/tools/surveymonkey-placeholder.jpg"

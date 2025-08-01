@@ -2,6 +2,7 @@
 title: "EndNote - Reference management"
 tagline: "EndNote is a commercial reference management software package used to manage bibliographies and references when writing essays and articles..."
 category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
 subcategory: "Academic Research Tools"
 tool_name: "EndNote"
 deployment_status: "deployed"

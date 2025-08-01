@@ -1,8 +1,9 @@
 ---
 title: "Jira"
 tagline: "Agile project management with issue tracking and sprint planning"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Advanced Project Management"
 tool_name: "Jira"
 deployment_status: "deployed"
 image: "/images/tools/jira-placeholder.jpg"

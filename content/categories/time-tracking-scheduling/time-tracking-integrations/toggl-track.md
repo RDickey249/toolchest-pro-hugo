@@ -1,8 +1,9 @@
 ---
 title: "Toggl Track"
 tagline: "Ready to get started? Visit [Toggl Track](https://toggl.com/track) to explore the platform and begin using this tool...."
-category: "⏰ Time Tracking & Scheduling"
-subcategory: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking Integrations"
 tool_name: "Toggl Track"
 deployment_status: "deployed"
 image: "/images/tools/toggl-track-placeholder.jpg"

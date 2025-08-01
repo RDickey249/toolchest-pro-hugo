@@ -1,8 +1,9 @@
 ---
 title: "Copy.ai"
 tagline: "Ready to get started? Visit [Copy.ai](https://www.copy.ai) to explore the platform and begin using this tool...."
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Social Media Management"
 tool_name: "Copy.ai"
 deployment_status: "deployed"
 image: "/images/tools/copy-ai-placeholder.jpg"

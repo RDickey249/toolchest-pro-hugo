@@ -1,8 +1,9 @@
 ---
 title: "Vitest"
 tagline: "Fast unit testing framework powered by Vite for modern development"
-category: "🧪 Testing & Quality Assurance"
-subcategory: "🧪 Testing & Quality Assurance"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Testing Qa Tools"
 tool_name: "Vitest"
 deployment_status: "deployed"
 image: "/images/tools/vitest-placeholder.jpg"

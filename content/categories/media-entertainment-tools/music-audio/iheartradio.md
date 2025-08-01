@@ -1,8 +1,9 @@
 ---
 title: "iHeartRadio"
 tagline: "Digital radio platform with live stations and podcasts"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "iHeartRadio"
 deployment_status: "deployed"
 image: "/images/tools/iheartradio-placeholder.jpg"

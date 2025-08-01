@@ -1,8 +1,9 @@
 ---
 title: "Powtoon"
 tagline: "Animation presentation tool"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Video Animation"
 tool_name: "Powtoon"
 deployment_status: "deployed"
 image: "/images/tools/powtoon-placeholder.jpg"

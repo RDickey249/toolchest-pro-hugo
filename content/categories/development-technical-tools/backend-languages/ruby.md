@@ -1,8 +1,9 @@
 ---
 title: "Ruby"
 tagline: "Dynamic programming language focused on simplicity and developer happiness"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Ruby"
 deployment_status: "deployed"
 image: "/images/tools/ruby-placeholder.jpg"

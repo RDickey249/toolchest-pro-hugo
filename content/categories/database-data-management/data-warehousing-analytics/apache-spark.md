@@ -1,8 +1,9 @@
 ---
 title: "Apache Spark"
 tagline: "Unified engine for large-scale data processing and analytics"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Database & Data Management"
+categories: ["Database & Data Management"]
+subcategory: "Data Warehousing Analytics"
 tool_name: "Apache Spark"
 deployment_status: "deployed"
 image: "/images/tools/apache-spark-placeholder.jpg"

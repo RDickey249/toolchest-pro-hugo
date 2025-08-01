@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/tags/document-collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coda</title>
-      <link>https://toolchest.pro/categories/coda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/coda/</guid>
-      <description>Coda transforms traditional documents into powerful, interactive applications that combine the familiarity of docs with the functionality of databases and the intelligence of spreadsheets.&#xA;Built for teams who need living documents that do more than just store information, Coda enables you to create custom solutions without coding expertise.&#xA;What makes Coda revolutionary:&#xA;Documents that compute - Add formulas, buttons, and automation to any document Database power - Create relational data with multiple views (table, calendar, board, timeline) Building blocks approach - Combine text, tables, and interactive elements seamlessly One tool, many solutions - Replace multiple apps with custom Coda docs Core building blocks:</description>
-    </item>
-    <item>
       <title>Craft</title>
       <link>https://toolchest.pro/categories/craft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/microsoft-365/</guid>
       <description>Microsoft 365 brings the power of Word, Excel, PowerPoint, and more to the cloud, enabling real-time collaboration while maintaining the familiar Office experience that businesses depend on.&#xA;The world&amp;rsquo;s most widely used productivity suite, now enhanced with cloud-based collaboration, AI assistance, and seamless integration across all devices.&#xA;Why Microsoft 365 dominates:&#xA;Universal familiarity - Everyone knows how to use Word, Excel, and PowerPoint Full feature parity - Web versions offer nearly identical functionality to desktop apps Seamless collaboration - Multiple people can edit documents simultaneously Enterprise ready - Built-in security, compliance, and admin controls Core collaboration applications:</description>
-    </item>
-    <item>
-      <title>Notion</title>
-      <link>https://toolchest.pro/categories/notion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/notion/</guid>
-      <description>Notion is the all-in-one workspace that combines notes, documents, databases, and project management in a single, flexible platform.&#xA;With its modular block-based approach, Notion adapts to any workflow—from personal note-taking to enterprise knowledge management.&#xA;What makes Notion unique:&#xA;Blocks-based system - Build any type of content with flexible, reusable components Database power - Create relational databases with multiple views (table, board, calendar, gallery) Infinite customization - Design your workspace exactly how you need it Real-time collaboration - Teams can edit, comment, and work together seamlessly Core capabilities:</description>
     </item>
     <item>
       <title>Obsidian</title>

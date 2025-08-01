@@ -2,6 +2,7 @@
 title: "Babbel - Conversation-focused learning"
 tagline: "Babbel is a conversation-focused language learning platform that emphasizes practical communication skills through real-world dialogues, cultural context, and speech recognition technology..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Babbel"
 deployment_status: "deployed"

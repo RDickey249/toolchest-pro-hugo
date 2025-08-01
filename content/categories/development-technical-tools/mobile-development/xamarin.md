@@ -1,8 +1,9 @@
 ---
 title: "Xamarin"
 tagline: "Microsoft's mobile framework for C# developers"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Mobile Development"
 tool_name: "Xamarin"
 deployment_status: "deployed"
 image: "/images/tools/xamarin-placeholder.jpg"

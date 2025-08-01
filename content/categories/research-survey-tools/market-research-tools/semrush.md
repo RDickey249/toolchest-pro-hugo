@@ -1,13 +1,13 @@
 ---
 title: "SEMrush"
 tagline: "All-in-one digital marketing and competitive research platform"
-category: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
 subcategory: "Market Research Tools"
 tool_name: "SEMrush"
 deployment_status: "deployed"
 image: "/images/tools/semrush-placeholder.jpg"
 tags: ["research-survey", "market-research-tools"]
-categories: ["Research & Survey"]
+categories: ["Research & Survey Tools"]
 subcategories: ["Market Research Tools"]
 affiliate: true
 featured: true

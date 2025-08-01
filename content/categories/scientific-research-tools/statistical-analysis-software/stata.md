@@ -2,6 +2,7 @@
 title: "Stata - Statistical software"
 tagline: "Stata is a comprehensive statistical software package designed for data science, research, and policy analysis..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "Stata"
 deployment_status: "deployed"

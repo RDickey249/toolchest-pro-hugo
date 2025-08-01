@@ -1,8 +1,9 @@
 ---
 title: "Sketch"
 tagline: "Mac-based design"
-category: "📱 Marketing & Social Media"
-subcategory: "📱 Marketing & Social Media"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Graphic Design"
 tool_name: "Sketch"
 deployment_status: "deployed"
 image: "/images/tools/sketch-placeholder.jpg"

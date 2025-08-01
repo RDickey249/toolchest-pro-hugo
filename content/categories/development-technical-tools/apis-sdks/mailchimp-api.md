@@ -1,8 +1,9 @@
 ---
 title: "Mailchimp API"
 tagline: "Email marketing and audience management platform"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Apis Sdks"
 tool_name: "Mailchimp API"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-api-placeholder.jpg"

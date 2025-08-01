@@ -2,6 +2,7 @@
 title: "Lokalise - Translation management platform"
 tagline: "Lokalise is a translation management platform designed for agile development teams, offering automated workflows, real-time collaboration, and seamless integrations with development tools and design systems..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "Lokalise"
 deployment_status: "deployed"

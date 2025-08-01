@@ -1,8 +1,8 @@
 ---
 title: "Gemini"
 tagline: "Google's advanced AI"
-category: "🔬 Scientific & Research Tools"
-subcategory: "🔬 Scientific & Research Tools"
+category: "AI Tools & Assistants"
+subcategory: "Conversational Ai"
 tool_name: "Gemini"
 deployment_status: "deployed"
 image: "/images/tools/gemini-placeholder.jpg"

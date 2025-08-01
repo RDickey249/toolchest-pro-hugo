@@ -1,8 +1,9 @@
 ---
 title: "Bitdefender"
 tagline: "Advanced threat protection"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Security Tools"
 tool_name: "Bitdefender"
 deployment_status: "deployed"
 image: "/images/tools/bitdefender-placeholder.jpg"

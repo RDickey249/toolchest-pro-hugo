@@ -1,8 +1,9 @@
 ---
 title: "Bitwarden"
 tagline: "Open-source password manager"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Password Management"
 tool_name: "Bitwarden"
 deployment_status: "deployed"
 image: "/images/tools/bitwarden-placeholder.jpg"

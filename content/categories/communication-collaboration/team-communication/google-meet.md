@@ -1,8 +1,8 @@
 ---
 title: "Google Meet"
 tagline: "Simple video calls"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Communication & Collaboration"
+subcategory: "Team Communication"
 tool_name: "Google Meet"
 deployment_status: "deployed"
 image: "/images/tools/google-meet-placeholder.jpg"

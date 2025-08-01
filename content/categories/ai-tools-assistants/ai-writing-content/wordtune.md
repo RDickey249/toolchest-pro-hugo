@@ -1,8 +1,9 @@
 ---
 title: "Wordtune"
 tagline: "Ready to get started? Visit [Wordtune](https://www.wordtune.com) to explore the platform and begin using this tool...."
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "Wordtune"
 deployment_status: "deployed"
 image: "/images/tools/wordtune-placeholder.jpg"

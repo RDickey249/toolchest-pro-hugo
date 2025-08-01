@@ -1,8 +1,9 @@
 ---
 title: "Roam Research"
 tagline: "Networked thought"
-category: "💬 Communication & Collaboration"
-subcategory: "💬 Communication & Collaboration"
+category: "Communication & Collaboration"
+categories: ["Communication & Collaboration"]
+subcategory: "Document Collaboration"
 tool_name: "Roam Research"
 deployment_status: "deployed"
 image: "/images/tools/roam-research-placeholder.jpg"

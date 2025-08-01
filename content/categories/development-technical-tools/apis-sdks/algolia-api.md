@@ -1,8 +1,9 @@
 ---
 title: "Algolia API"
 tagline: "Fast and relevant search and discovery platform"
-category: "💻 Development & Technical Tools"
-subcategory: "APIs & SDKs"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Apis Sdks"
 tool_name: "Algolia API"
 deployment_status: "deployed"
 image: "/images/tools/algolia-api-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Coda"
 tagline: "Coda is the revolutionary document-database platform that blends documents, spreadsheets, and databases into a single collaborative workspace for buil..."
-category: "💬 Communication & Collaboration"
-subcategory: "💬 Communication & Collaboration"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "Coda"
 deployment_status: "deployed"
 image: "/images/tools/coda-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Bill4Time (Legal)"
 tagline: "Ready to manage legal billing with trust accounting? Visit [Bill4Time](https://www.bill4time.com) to explore legal-specific time tracking with trust a..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking For Legal Professionals"
 tool_name: "Bill4Time (Legal)"
 deployment_status: "deployed"
 image: "/images/tools/bill4time-legal-placeholder.jpg"

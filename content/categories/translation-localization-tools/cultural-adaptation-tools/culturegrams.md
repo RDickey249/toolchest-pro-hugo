@@ -2,6 +2,7 @@
 title: "CultureGrams - Country culture guides"
 tagline: "CultureGrams is a comprehensive country culture guide platform that provides detailed cultural information, statistics, and insights for over 200 countries and territories worldwide..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "CultureGrams"
 deployment_status: "deployed"

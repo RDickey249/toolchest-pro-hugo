@@ -2,6 +2,7 @@
 title: "SAS - Statistical analysis system"
 tagline: "SAS is a comprehensive statistical software suite used for advanced analytics, business intelligence, and data management..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "SAS"
 deployment_status: "deployed"

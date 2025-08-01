@@ -1,8 +1,9 @@
 ---
 title: "Nolo"
 tagline: "Legal information and forms"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Legal Document Management"
 tool_name: "Nolo"
 deployment_status: "deployed"
 image: "/images/tools/nolo-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Asana"
 tagline: "Team project management platform"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+subcategory: "Project Management Platforms"
 tool_name: "Asana"
 deployment_status: "deployed"
 image: "/images/tools/asana-placeholder.jpg"

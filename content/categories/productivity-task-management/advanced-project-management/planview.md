@@ -1,7 +1,8 @@
 ---
 title: "Planview"
 tagline: "Portfolio and resource management for enterprises"
-category: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
 subcategory: "Advanced Project Management"
 tool_name: "Planview"
 deployment_status: "deployed"

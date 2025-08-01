@@ -2,6 +2,7 @@
 title: "RefWorks - Web-based reference manager"
 tagline: "RefWorks is a web-based reference management service that helps researchers gather, manage, and share research materials..."
 category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
 subcategory: "Academic Research Tools"
 tool_name: "RefWorks"
 deployment_status: "deployed"

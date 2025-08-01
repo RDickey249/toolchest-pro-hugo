@@ -1,8 +1,9 @@
 ---
 title: "DALL·E (via ChatGPT)"
 tagline: "Ready to get started? Visit [ChatGPT](https://chat.openai.com) to explore the platform and begin using this tool...."
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "DALL·E (via ChatGPT)"
 deployment_status: "deployed"
 image: "/images/tools/dalle-via-chatgpt-placeholder.jpg"

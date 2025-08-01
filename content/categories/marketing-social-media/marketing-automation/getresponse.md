@@ -1,8 +1,9 @@
 ---
 title: "GetResponse"
 tagline: "All-in-one marketing"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Marketing Automation"
 tool_name: "GetResponse"
 deployment_status: "deployed"
 image: "/images/tools/getresponse-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Apache Airflow"
 tagline: "Workflow orchestration"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Automation & Workflows"
+categories: ["Automation & Workflows"]
+subcategory: "Data Integration"
 tool_name: "Apache Airflow"
 deployment_status: "deployed"
 image: "/images/tools/apache-airflow-placeholder.jpg"

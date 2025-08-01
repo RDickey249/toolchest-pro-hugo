@@ -1,8 +1,9 @@
 ---
 title: "SiteGround"
 tagline: "Performance-focused hosting with advanced security and support"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "SiteGround"
 deployment_status: "deployed"
 image: "/images/tools/siteground-placeholder.jpg"

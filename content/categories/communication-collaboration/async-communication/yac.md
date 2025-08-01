@@ -1,8 +1,8 @@
 ---
 title: "Yac"
 tagline: "Voice messages for teams"
-category: "🖥️ Hardware & Equipment Tools"
-subcategory: "🖥️ Hardware & Equipment Tools"
+category: "Communication & Collaboration"
+subcategory: "Async Communication"
 tool_name: "Yac"
 deployment_status: "deployed"
 image: "/images/tools/yac-placeholder.jpg"

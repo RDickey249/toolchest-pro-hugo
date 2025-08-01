@@ -1,8 +1,9 @@
 ---
 title: "TimeCamp"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "⏰ Time Tracking & Scheduling"
-subcategory: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking For Teams"
 tool_name: "TimeCamp"
 deployment_status: "deployed"
 image: "/images/tools/timecamp-placeholder.jpg"

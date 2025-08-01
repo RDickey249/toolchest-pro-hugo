@@ -1,8 +1,9 @@
 ---
 title: "Android Studio"
 tagline: "Google's official IDE for Android application development"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Editors Ides"
 tool_name: "Android Studio"
 deployment_status: "deployed"
 image: "/images/tools/android-studio-placeholder.jpg"

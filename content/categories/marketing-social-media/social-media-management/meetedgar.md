@@ -2,6 +2,7 @@
 title: "MeetEdgar - Content recycling"
 tagline: "MeetEdgar is a social media automation platform that specializes in content recycling, automatically resharing your best-performing content to maximize reach and engagement..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "MeetEdgar"
 deployment_status: "deployed"

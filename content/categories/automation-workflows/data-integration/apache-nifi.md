@@ -1,8 +1,9 @@
 ---
 title: "Apache NiFi"
 tagline: "Data flow automation"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Automation & Workflows"
+categories: ["Automation & Workflows"]
+subcategory: "Data Integration"
 tool_name: "Apache NiFi"
 deployment_status: "deployed"
 image: "/images/tools/apache-nifi-placeholder.jpg"

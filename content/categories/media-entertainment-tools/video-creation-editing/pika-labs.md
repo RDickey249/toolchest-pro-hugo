@@ -1,8 +1,9 @@
 ---
 title: "Pika Labs"
 tagline: "Ready to get started? Visit [Pika Labs](https://pika.art) to explore the platform and begin using this tool...."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Creation Editing"
 tool_name: "Pika Labs"
 deployment_status: "deployed"
 image: "/images/tools/pika-labs-placeholder.jpg"

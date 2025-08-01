@@ -1,8 +1,9 @@
 ---
 title: "Braintree"
 tagline: "PayPal's payment platform"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Payment Processing"
 tool_name: "Braintree"
 deployment_status: "deployed"
 image: "/images/tools/braintree-placeholder.jpg"

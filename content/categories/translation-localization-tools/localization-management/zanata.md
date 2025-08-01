@@ -2,6 +2,7 @@
 title: "Zanata - Translation platform"
 tagline: "Zanata is an open-source web-based translation platform designed for collaborative translation of software and documentation with version control integration and community contribution features..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Zanata"
 deployment_status: "deployed"

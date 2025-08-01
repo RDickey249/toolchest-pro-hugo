@@ -1,8 +1,9 @@
 ---
 title: "ASP.NET Core"
 tagline: "Cross-platform .NET framework for modern web apps"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Frameworks"
 tool_name: "ASP.NET Core"
 deployment_status: "deployed"
 image: "/images/tools/asp-net-core-placeholder.jpg"

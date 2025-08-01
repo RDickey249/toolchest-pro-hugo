@@ -2,6 +2,7 @@
 title: "ResearchGate - Scientific social network"
 tagline: "ResearchGate is the largest professional network for scientists and researchers, providing a platform to share publications, collaborate on research, and connect with peers globally..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "ResearchGate"
 deployment_status: "deployed"

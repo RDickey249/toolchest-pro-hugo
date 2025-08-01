@@ -1,8 +1,9 @@
 ---
 title: "Vim/Neovim"
 tagline: "Powerful modal text editors for efficient terminal-based editing"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Editors Ides"
 tool_name: "Vim/Neovim"
 deployment_status: "deployed"
 image: "/images/tools/vim-neovim-placeholder.jpg"

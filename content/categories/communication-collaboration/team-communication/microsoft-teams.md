@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Teams"
 tagline: "Office 365 integration"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "Communication & Collaboration"
+subcategory: "Team Communication"
 tool_name: "Microsoft Teams"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-teams-placeholder.jpg"

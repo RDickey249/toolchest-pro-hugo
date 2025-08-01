@@ -1,8 +1,9 @@
 ---
 title: "Insightful"
 tagline: "Ready to get started? Visit [Insightful](https://www.insightful.io) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking Analytics"
 tool_name: "Insightful"
 deployment_status: "deployed"
 image: "/images/tools/insightful-placeholder.jpg"

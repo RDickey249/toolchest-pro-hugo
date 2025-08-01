@@ -1,8 +1,9 @@
 ---
 title: "Streamlabs"
 tagline: "All-in-one streaming platform with integrated tools and widgets"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Streaming Production"
 tool_name: "Streamlabs"
 deployment_status: "deployed"
 image: "/images/tools/streamlabs-placeholder.jpg"

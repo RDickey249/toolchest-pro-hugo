@@ -7,5 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/backup-disaster-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backblaze - Personal cloud backup</title>
+      <link>https://toolchest.pro/categories/backblaze-personal-cloud-backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/backblaze-personal-cloud-backup/</guid>
+      <description>Backblaze provides unlimited, automatic cloud backup for personal computers at an unbeatable price point, protecting millions of users&amp;rsquo; data worldwide.&#xA;With a &amp;ldquo;set it and forget it&amp;rdquo; approach, Backblaze continuously backs up your entire computer to secure cloud storage without any file size or storage limits.&#xA;What makes Backblaze exceptional:&#xA;Truly unlimited backup - No caps on storage or file sizes for one flat rate Automatic and continuous - Backs up new and changed files every hour Military-grade security - AES 256-bit encryption with optional private key Effortless restoration - Restore files instantly via web or mobile app Key benefits:</description>
+    </item>
   </channel>
 </rss>

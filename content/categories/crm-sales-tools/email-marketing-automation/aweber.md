@@ -1,8 +1,9 @@
 ---
 title: "AWeber"
 tagline: "Email marketing automation"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
+subcategory: "Email Marketing Automation"
 tool_name: "AWeber"
 deployment_status: "deployed"
 image: "/images/tools/aweber-placeholder.jpg"

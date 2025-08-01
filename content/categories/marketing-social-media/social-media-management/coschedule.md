@@ -2,6 +2,7 @@
 title: "CoSchedule - Marketing calendar"
 tagline: "CoSchedule is an all-in-one marketing calendar platform that helps teams organize, execute, and optimize their marketing campaigns across multiple channels and projects..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "CoSchedule"
 deployment_status: "deployed"

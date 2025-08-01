@@ -1,8 +1,9 @@
 ---
 title: "Wix Logo Maker"
 tagline: "AI logo creation integrated with website building"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Branding Identity"
 tool_name: "Wix Logo Maker"
 deployment_status: "deployed"
 image: "/images/tools/wix-logo-maker-placeholder.jpg"

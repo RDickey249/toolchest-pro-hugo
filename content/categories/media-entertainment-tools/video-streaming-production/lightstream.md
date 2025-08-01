@@ -1,8 +1,9 @@
 ---
 title: "Lightstream"
 tagline: "Cloud-based streaming production with console integration"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Streaming Production"
 tool_name: "Lightstream"
 deployment_status: "deployed"
 image: "/images/tools/lightstream-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Railway"
 tagline: "Infrastructure platform for rapid application deployment"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "Railway"
 deployment_status: "deployed"
 image: "/images/tools/railway-placeholder.jpg"

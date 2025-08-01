@@ -2,7 +2,8 @@
 title: "Calendly AI - Smart scheduling"
 tagline: "Calendly AI enhances the popular scheduling platform with artificial intelligence that optimizes meeting times, reduces scheduling conflicts, and provides intelligent insights..."
 category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Calendly AI"
 deployment_status: "deployed"
 image: "/images/tools/calendly-ai-placeholder.jpg"

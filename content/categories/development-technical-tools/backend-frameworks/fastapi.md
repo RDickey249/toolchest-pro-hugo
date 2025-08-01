@@ -1,8 +1,8 @@
 ---
 title: "FastAPI"
 tagline: "Modern Python web framework with automatic API documentation"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Development & Technical Tools"
+subcategory: "Backend Frameworks"
 tool_name: "FastAPI"
 deployment_status: "deployed"
 image: "/images/tools/fastapi-placeholder.jpg"

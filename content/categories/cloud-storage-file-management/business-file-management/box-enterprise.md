@@ -1,8 +1,9 @@
 ---
 title: "Box Enterprise"
 tagline: "Enterprise content management"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "Business File Management"
 tool_name: "Box Enterprise"
 deployment_status: "deployed"
 image: "/images/tools/box-enterprise-placeholder.jpg"

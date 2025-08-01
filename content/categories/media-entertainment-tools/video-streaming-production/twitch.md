@@ -1,8 +1,9 @@
 ---
 title: "Twitch"
 tagline: "Leading live streaming platform for gaming and creative content"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Streaming Production"
 tool_name: "Twitch"
 deployment_status: "deployed"
 image: "/images/tools/twitch-placeholder.jpg"

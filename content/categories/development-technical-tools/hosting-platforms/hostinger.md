@@ -1,7 +1,8 @@
 ---
 title: "Hostinger"
 tagline: "Affordable web hosting with global infrastructure and performance"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Hostinger"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "Workfront"
 tagline: "Enterprise work management platform with reporting and approval flows"
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Advanced Project Management"
 tool_name: "Workfront"
 deployment_status: "deployed"
 image: "/images/tools/workfront-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Scikit-learn"
 tagline: "Library for classical machine learning algorithms and data mining; built on NumPy and SciPy"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Ai Machine Learning"
 tool_name: "Scikit-learn"
 deployment_status: "deployed"
 image: "/images/tools/scikit-learn-placeholder.jpg"

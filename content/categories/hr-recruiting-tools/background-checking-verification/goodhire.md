@@ -1,8 +1,9 @@
 ---
 title: "GoodHire"
 tagline: "Online background checks"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Background Checking Verification"
 tool_name: "GoodHire"
 deployment_status: "deployed"
 image: "/images/tools/goodhire-placeholder.jpg"

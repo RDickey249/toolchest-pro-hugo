@@ -1,8 +1,9 @@
 ---
 title: "SonarLint"
 tagline: "IDE extension for real-time code quality feedback"
-category: "💻 Development & Technical Tools"
-subcategory: "Code Quality & Linting"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Quality Linting"
 tool_name: "SonarLint"
 deployment_status: "deployed"
 image: "/images/tools/sonarlint-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "Country Navigator - Cultural intelligence"
 tagline: "Country Navigator is a cultural intelligence platform that provides country-specific business etiquette, cultural norms, and practical guidance for international business interactions and negotiations..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Country Navigator"
 deployment_status: "deployed"

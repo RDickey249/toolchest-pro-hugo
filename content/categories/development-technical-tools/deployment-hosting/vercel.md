@@ -1,8 +1,8 @@
 ---
 title: "Vercel"
 tagline: "Frontend deployment platform optimized for Next.js and Jamstack apps"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+subcategory: "Deployment Hosting"
 tool_name: "Vercel"
 deployment_status: "deployed"
 image: "/images/tools/vercel-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Lookback"
 tagline: "Live and self-guided user research platform"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "User Research Testing"
 tool_name: "Lookback"
 deployment_status: "deployed"
 image: "/images/tools/lookback-placeholder.jpg"

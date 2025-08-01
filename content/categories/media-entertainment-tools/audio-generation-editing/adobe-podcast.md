@@ -1,8 +1,9 @@
 ---
 title: "Adobe Podcast"
 tagline: "Transform your audio with AI-powered enhancement. Visit [podcast.adobe.com](https://podcast.adobe.com) to start cleaning up your recordings and create..."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Generation Editing"
 tool_name: "Adobe Podcast"
 deployment_status: "deployed"
 image: "/images/tools/adobe-podcast-placeholder.jpg"

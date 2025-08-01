@@ -1,8 +1,9 @@
 ---
 title: "TimeSolv"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking For Consultants"
 tool_name: "TimeSolv"
 deployment_status: "deployed"
 image: "/images/tools/timesolv-placeholder.jpg"

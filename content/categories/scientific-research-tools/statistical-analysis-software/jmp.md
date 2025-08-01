@@ -2,6 +2,7 @@
 title: "JMP - Statistical analysis software"
 tagline: "JMP is a comprehensive statistical analysis software that emphasizes visual data exploration and interactive analysis..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "JMP"
 deployment_status: "deployed"

@@ -2,6 +2,7 @@
 title: "Figshare - Research data repository"
 tagline: "Figshare is a research data repository that allows researchers to upload, share, and cite datasets, figures, and other research outputs with permanent DOIs and open access visibility..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "Figshare"
 deployment_status: "deployed"

@@ -1,8 +1,9 @@
 ---
 title: "2Do"
 tagline: "Flexible task manager with custom views and GTD support"
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Task Project Management"
 tool_name: "2Do"
 deployment_status: "deployed"
 image: "/images/tools/2do-placeholder.jpg"

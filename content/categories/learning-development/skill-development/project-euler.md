@@ -2,6 +2,7 @@
 title: "Project Euler - Mathematical problems"
 tagline: "Project Euler is a collection of challenging mathematical and computational problems designed to be solved through programming, combining mathematical insight with algorithmic thinking to develop problem-solving skills..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Project Euler"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Wix"
 tagline: "Drag-and-drop websites"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+subcategory: "Web Design Development"
 tool_name: "Wix"
 deployment_status: "deployed"
 image: "/images/tools/wix-placeholder.jpg"

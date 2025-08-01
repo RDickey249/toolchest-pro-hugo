@@ -1,8 +1,9 @@
 ---
 title: "AngelList"
 tagline: "Startup job platform"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Job Posting Sourcing"
 tool_name: "AngelList"
 deployment_status: "deployed"
 image: "/images/tools/angellist-placeholder.jpg"

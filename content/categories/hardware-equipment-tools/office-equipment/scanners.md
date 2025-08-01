@@ -1,7 +1,8 @@
 ---
 title: "Scanners - Fujitsu ScanSnap, etc."
 tagline: "Professional document scanners for digitizing paperwork and creating searchable digital archives"
-category: "🖥️ Hardware & Equipment Tools"
+category: "Hardware & Equipment Tools"
+categories: ["Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Scanners - Fujitsu ScanSnap, etc."
 external_link: "https://www.fujitsu.com/us/products/computing/peripheral/scanners/"

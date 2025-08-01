@@ -1,8 +1,9 @@
 ---
 title: "TimeSolv (Legal)"
 tagline: "Ready to track legal time with detailed budgeting? Visit [TimeSolv](https://www.timesolv.com) to explore legal-specific time tracking with project bud..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking For Legal Professionals"
 tool_name: "TimeSolv (Legal)"
 deployment_status: "deployed"
 image: "/images/tools/timesolv-legal-placeholder.jpg"

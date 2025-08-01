@@ -1,8 +1,9 @@
 ---
 title: "ElevenLabs"
 tagline: "Ready to get started? Visit [ElevenLabs](https://elevenlabs.io) to explore the platform and begin using this tool...."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Generation Editing"
 tool_name: "ElevenLabs"
 deployment_status: "deployed"
 image: "/images/tools/elevenlabs-placeholder.jpg"

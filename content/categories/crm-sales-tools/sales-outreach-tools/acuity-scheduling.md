@@ -1,8 +1,9 @@
 ---
 title: "Acuity Scheduling"
 tagline: "Advanced booking"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
+subcategory: "Sales Outreach Tools"
 tool_name: "Acuity Scheduling"
 deployment_status: "deployed"
 image: "/images/tools/acuity-scheduling-placeholder.jpg"

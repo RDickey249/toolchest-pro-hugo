@@ -1,8 +1,9 @@
 ---
 title: "Dagster"
 tagline: "Data orchestration"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "Automation & Workflows"
+categories: ["Automation & Workflows"]
+subcategory: "Data Integration"
 tool_name: "Dagster"
 deployment_status: "deployed"
 image: "/images/tools/dagster-placeholder.jpg"

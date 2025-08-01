@@ -1,8 +1,9 @@
 ---
 title: "Zoho Desk"
 tagline: "Context-aware help desk software for better customer service"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Help Desk Platforms"
 tool_name: "Zoho Desk"
 deployment_status: "deployed"
 image: "/images/tools/zoho-desk-placeholder.jpg"

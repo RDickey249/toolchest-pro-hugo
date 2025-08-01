@@ -1,8 +1,9 @@
 ---
 title: "Pro Tools"
 tagline: "Industry-standard professional audio editing and mixing software"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Production"
 tool_name: "Pro Tools"
 deployment_status: "deployed"
 image: "/images/tools/pro-tools-placeholder.jpg"

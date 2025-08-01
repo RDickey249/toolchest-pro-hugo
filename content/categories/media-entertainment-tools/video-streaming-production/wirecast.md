@@ -1,8 +1,9 @@
 ---
 title: "Wirecast"
 tagline: "Professional live streaming production software"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Streaming Production"
 tool_name: "Wirecast"
 deployment_status: "deployed"
 image: "/images/tools/wirecast-placeholder.jpg"

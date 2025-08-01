@@ -1,8 +1,9 @@
 ---
 title: "Business Licenses"
 tagline: "Local and state licensing"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "Business Registration & Licensing"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Business Registration Licensing"
 tool_name: "Business Licenses"
 deployment_status: "deployed"
 image: "/images/tools/business-licenses-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "ChatGPT (OpenAI) - The one everyone knows"
 tagline: "The AI that started it all"
-category: "🤖 AI Tools & Assistants"
-subcategory: "Conversational AI"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "ChatGPT (OpenAI) - The one everyone knows"
 deployment_status: "deployed"
 image: "/images/tools/chatgpt-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Absence.io"
 tagline: "Absence.io is the calendar-integrated leave management platform that automates vacation and sick leave tracking with intelligent policy enforcement an..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Attendance Absence Management"
 tool_name: "Absence.io"
 deployment_status: "deployed"
 image: "/images/tools/absence-io-placeholder.jpg"

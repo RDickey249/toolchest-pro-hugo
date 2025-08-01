@@ -2,6 +2,7 @@
 title: "Hofstede Insights - Cultural analysis"
 tagline: "Hofstede Insights provides cultural analysis and training based on Professor Geert Hofstede's cultural dimensions theory, helping organizations understand and navigate cultural differences in global business environments..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Hofstede Insights"
 deployment_status: "deployed"

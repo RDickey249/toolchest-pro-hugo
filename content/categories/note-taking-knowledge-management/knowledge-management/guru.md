@@ -1,8 +1,9 @@
 ---
 title: "Guru"
 tagline: "Real-time knowledge"
-category: "🖥️ Hardware & Equipment Tools"
-subcategory: "🖥️ Hardware & Equipment Tools"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Knowledge Management"
 tool_name: "Guru"
 deployment_status: "deployed"
 image: "/images/tools/guru-placeholder.jpg"

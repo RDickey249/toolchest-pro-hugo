@@ -1,8 +1,9 @@
 ---
 title: "TiddlyWiki"
 tagline: "Non-linear documentation"
-category: "📝 Note-Taking & Knowledge Management"
-subcategory: "📝 Note-Taking & Knowledge Management"
+category: "Note-taking & Knowledge Management"
+categories: ["Note-taking & Knowledge Management"]
+subcategory: "Traditional Note Apps"
 tool_name: "TiddlyWiki"
 deployment_status: "deployed"
 image: "/images/tools/tiddlywiki-placeholder.jpg"

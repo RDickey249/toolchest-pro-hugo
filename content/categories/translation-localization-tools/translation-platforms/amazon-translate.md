@@ -2,6 +2,7 @@
 title: "Amazon Translate - Machine translation service"
 tagline: "Amazon Translate is a machine translation service powered by deep learning that provides fast, high-quality, and affordable language translation for applications with support for batch and real-time translation..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "Amazon Translate"
 deployment_status: "deployed"

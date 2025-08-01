@@ -1,8 +1,9 @@
 ---
 title: "Box"
 tagline: "Business-focused storage"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "Personal Cloud Storage"
 tool_name: "Box"
 deployment_status: "deployed"
 image: "/images/tools/box-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "Academia.edu - Academic social platform"
 tagline: "Academia.edu is an academic social networking platform that allows researchers to share papers, track citations, and connect with scholars across disciplines worldwide..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "Academia.edu"
 deployment_status: "deployed"

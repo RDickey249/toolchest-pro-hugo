@@ -1,8 +1,9 @@
 ---
 title: "OpenShift"
 tagline: "Enterprise Kubernetes platform with developer tools and security"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Containerization Orchestration"
 tool_name: "OpenShift"
 deployment_status: "deployed"
 image: "/images/tools/openshift-placeholder.jpg"

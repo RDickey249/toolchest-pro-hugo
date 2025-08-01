@@ -1,8 +1,9 @@
 ---
 title: "Indy"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking For Freelancers"
 tool_name: "Indy"
 deployment_status: "deployed"
 image: "/images/tools/indy-placeholder.jpg"

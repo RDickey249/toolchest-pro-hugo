@@ -1,8 +1,9 @@
 ---
 title: "SoGoSurvey"
 tagline: "Experience management platform with powerful analytics"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "Survey Platforms"
 tool_name: "SoGoSurvey"
 deployment_status: "deployed"
 image: "/images/tools/sogosurvey-placeholder.jpg"

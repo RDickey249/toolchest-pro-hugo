@@ -1,8 +1,9 @@
 ---
 title: "Argo Workflows"
 tagline: "Kubernetes-native workflow engine for CI/CD pipelines"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Ci Cd Devops"
 tool_name: "Argo Workflows"
 deployment_status: "deployed"
 image: "/images/tools/argo-workflows-placeholder.jpg"

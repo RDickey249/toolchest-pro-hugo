@@ -2,6 +2,7 @@
 title: "Anki - Spaced repetition flashcards"
 tagline: "Anki is a spaced repetition flashcard system that uses cognitive science principles to optimize memory retention, making it highly effective for language vocabulary acquisition and long-term knowledge retention..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Anki"
 deployment_status: "deployed"

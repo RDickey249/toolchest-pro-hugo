@@ -1,8 +1,9 @@
 ---
 title: "Lumen5"
 tagline: "Turn your blog posts into engaging videos. Visit [lumen5.com](https://www.lumen5.com) to start creating videos from your content automatically with AI..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Creation Editing"
 tool_name: "Lumen5"
 deployment_status: "deployed"
 image: "/images/tools/lumen5-placeholder.jpg"

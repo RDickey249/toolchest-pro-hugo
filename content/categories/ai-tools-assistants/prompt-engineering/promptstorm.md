@@ -1,8 +1,9 @@
 ---
 title: "PromptStorm"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Prompt Engineering"
 tool_name: "PromptStorm"
 deployment_status: "deployed"
 image: "/images/tools/promptstorm-placeholder.jpg"

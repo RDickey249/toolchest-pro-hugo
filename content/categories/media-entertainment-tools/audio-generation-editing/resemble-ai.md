@@ -1,8 +1,9 @@
 ---
 title: "Resemble.ai"
 tagline: "Build enterprise voice AI solutions with custom cloning. Visit [resemble.ai](https://www.resemble.ai) to start creating branded voices and see why ent..."
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Generation Editing"
 tool_name: "Resemble.ai"
 deployment_status: "deployed"
 image: "/images/tools/resemble-ai-placeholder.jpg"

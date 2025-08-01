@@ -1,8 +1,9 @@
 ---
 title: "Workday"
 tagline: "Enterprise HR platform"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Applicant Tracking Systems"
 tool_name: "Workday"
 deployment_status: "deployed"
 image: "/images/tools/workday-placeholder.jpg"

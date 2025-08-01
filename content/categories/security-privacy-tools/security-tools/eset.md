@@ -1,8 +1,9 @@
 ---
 title: "ESET"
 tagline: "European security company"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Security Tools"
 tool_name: "ESET"
 deployment_status: "deployed"
 image: "/images/tools/eset-placeholder.jpg"

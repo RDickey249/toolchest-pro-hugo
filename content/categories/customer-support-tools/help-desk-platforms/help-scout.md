@@ -1,8 +1,9 @@
 ---
 title: "Help Scout"
 tagline: "Simple, powerful help desk designed for growing businesses"
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
+subcategory: "Help Desk Platforms"
 tool_name: "Help Scout"
 deployment_status: "deployed"
 image: "/images/tools/help-scout-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Notion AI"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Writing Content"
 tool_name: "Notion AI"
 deployment_status: "deployed"
 image: "/images/tools/notion-ai-placeholder.jpg"

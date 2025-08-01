@@ -1,8 +1,9 @@
 ---
 title: "My Hours"
 tagline: "Comprehensive time tracking with user-friendly design"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking"
 tool_name: "My Hours"
 deployment_status: "deployed"
 image: "/images/tools/my-hours-placeholder.jpg"

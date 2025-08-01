@@ -1,8 +1,8 @@
 ---
 title: "Kibana"
 tagline: "Elasticsearch visualization"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Analytics & Data Tools"
+subcategory: "Business Intelligence"
 tool_name: "Kibana"
 deployment_status: "deployed"
 image: "/images/tools/kibana-placeholder.jpg"

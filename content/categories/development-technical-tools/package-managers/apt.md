@@ -1,7 +1,8 @@
 ---
 title: "apt"
 tagline: "Advanced package tool for Debian and Ubuntu Linux systems"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Package Managers"
 tool_name: "apt"
 deployment_status: "deployed"

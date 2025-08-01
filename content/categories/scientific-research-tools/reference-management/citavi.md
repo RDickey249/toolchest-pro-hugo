@@ -2,6 +2,7 @@
 title: "Citavi - Knowledge organization tool"
 tagline: "Citavi is a comprehensive reference management and knowledge organization tool that combines citation management with advanced note-taking and task planning for academic research..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Reference Management"
 tool_name: "Citavi"
 deployment_status: "deployed"

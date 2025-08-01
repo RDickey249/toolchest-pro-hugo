@@ -1,8 +1,9 @@
 ---
 title: "C"
 tagline: "Foundational systems programming language for operating systems, embedded systems, and performance-critical apps"
-category: "💻 Development & Technical Tools"
-subcategory: "Systems & Low-Level"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Systems Low Level"
 tool_name: "C"
 deployment_status: "deployed"
 image: "/images/tools/c-placeholder.jpg"

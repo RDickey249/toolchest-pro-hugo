@@ -1,8 +1,8 @@
 ---
 title: "Shopify"
 tagline: "Complete e-commerce solution"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+subcategory: "Ecommerce Platforms"
 tool_name: "Shopify"
 deployment_status: "deployed"
 image: "/images/tools/shopify-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "Exercism - Programming exercises"
 tagline: "Exercism is a programming exercise platform that focuses on deep learning through mentorship, providing coding challenges with personalized feedback from experienced developers to improve code quality and understanding..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Exercism"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Copilot"
 tagline: "Microsoft's enterprise AI"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "AI Tools & Assistants"
+subcategory: "Conversational Ai"
 tool_name: "Microsoft Copilot"
 deployment_status: "deployed"
 image: "/images/tools/copilot-placeholder.jpg"

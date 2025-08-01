@@ -1,8 +1,9 @@
 ---
 title: "InVideo"
 tagline: "Create professional videos with templates and AI. Visit [invideo.io](https://invideo.io) to start making stunning videos and see why millions choose I..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Video Creation Editing"
 tool_name: "InVideo"
 deployment_status: "deployed"
 image: "/images/tools/invideo-placeholder.jpg"

@@ -2,6 +2,7 @@
 title: "DeepL - AI-powered translation"
 tagline: "The world's most accurate translator"
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "DeepL - AI-powered translation"
 deployment_status: "deployed"

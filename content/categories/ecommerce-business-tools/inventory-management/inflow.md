@@ -1,8 +1,9 @@
 ---
 title: "inFlow"
 tagline: "Inventory management software"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Inventory Management"
 tool_name: "inFlow"
 deployment_status: "deployed"
 image: "/images/tools/inflow-placeholder.jpg"

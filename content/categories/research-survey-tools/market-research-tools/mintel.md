@@ -1,8 +1,9 @@
 ---
 title: "Mintel"
 tagline: "Global market intelligence and consumer insights"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "Market Research Tools"
 tool_name: "Mintel"
 deployment_status: "deployed"
 image: "/images/tools/mintel-placeholder.jpg"

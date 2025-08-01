@@ -1,8 +1,9 @@
 ---
 title: "Plane"
 tagline: "Open-source project management"
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Advanced Project Management"
 tool_name: "Plane"
 deployment_status: "deployed"
 image: "/images/tools/plane-placeholder.jpg"

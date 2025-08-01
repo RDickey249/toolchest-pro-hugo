@@ -2,6 +2,7 @@
 title: "Lingohub - Translation management"
 tagline: "Lingohub is a translation management platform that streamlines localization workflows for development teams through automated synchronization, collaborative translation tools, and quality assurance features..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Lingohub"
 deployment_status: "deployed"

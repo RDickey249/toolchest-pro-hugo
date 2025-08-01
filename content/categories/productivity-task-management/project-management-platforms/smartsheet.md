@@ -1,8 +1,9 @@
 ---
 title: "Smartsheet"
 tagline: "Ready to transform spreadsheets into project management?..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "Smartsheet"
 deployment_status: "deployed"
 image: "/images/tools/smartsheet-placeholder.jpg"

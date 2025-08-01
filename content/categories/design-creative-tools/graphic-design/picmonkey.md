@@ -1,8 +1,9 @@
 ---
 title: "PicMonkey"
 tagline: "Photo editing and design"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Graphic Design"
 tool_name: "PicMonkey"
 deployment_status: "deployed"
 image: "/images/tools/picmonkey-placeholder.jpg"

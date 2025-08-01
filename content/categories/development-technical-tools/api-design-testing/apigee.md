@@ -1,8 +1,9 @@
 ---
 title: "Apigee"
 tagline: "Google's API management platform with analytics and security"
-category: "🔗 API & Integration Tools"
-subcategory: "🔗 API & Integration Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Api Design Testing"
 tool_name: "Apigee"
 deployment_status: "deployed"
 image: "/images/tools/apigee-placeholder.jpg"

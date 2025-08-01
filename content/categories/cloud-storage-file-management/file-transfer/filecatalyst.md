@@ -1,8 +1,9 @@
 ---
 title: "FileCatalyst"
 tagline: "Accelerated transfer"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "File Transfer"
 tool_name: "FileCatalyst"
 deployment_status: "deployed"
 image: "/images/tools/filecatalyst-placeholder.jpg"

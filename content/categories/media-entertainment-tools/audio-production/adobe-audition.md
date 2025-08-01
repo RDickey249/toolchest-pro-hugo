@@ -1,8 +1,9 @@
 ---
 title: "Adobe Audition"
 tagline: "Professional audio editing suite integrated with Creative Cloud"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Production"
 tool_name: "Adobe Audition"
 deployment_status: "deployed"
 image: "/images/tools/adobe-audition-placeholder.jpg"

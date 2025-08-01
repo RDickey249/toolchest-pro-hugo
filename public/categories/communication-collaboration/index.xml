@@ -22,13 +22,6 @@
       <description>CloudApp is a visual communication platform that transforms how teams share information by enabling instant capture and sharing of screenshots, GIFs, and screen recordings. The tool eliminates the friction of explaining complex issues by letting you show exactly what you mean in seconds.&#xA;Built for remote teams, customer support, and anyone who needs to communicate visually, CloudApp automatically uploads your captures and generates shareable links instantly. Its drag-and-drop simplicity makes visual communication as easy as taking a screenshot.</description>
     </item>
     <item>
-      <title>Coda</title>
-      <link>https://toolchest.pro/categories/coda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/coda/</guid>
-      <description>Coda transforms traditional documents into powerful, interactive applications that combine the familiarity of docs with the functionality of databases and the intelligence of spreadsheets.&#xA;Built for teams who need living documents that do more than just store information, Coda enables you to create custom solutions without coding expertise.&#xA;What makes Coda revolutionary:&#xA;Documents that compute - Add formulas, buttons, and automation to any document Database power - Create relational data with multiple views (table, calendar, board, timeline) Building blocks approach - Combine text, tables, and interactive elements seamlessly One tool, many solutions - Replace multiple apps with custom Coda docs Core building blocks:</description>
-    </item>
-    <item>
       <title>Craft</title>
       <link>https://toolchest.pro/categories/craft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,6 +57,13 @@
       <description>Google Workspace is the cloud-based productivity suite that transformed how teams collaborate on documents, spreadsheets, and presentations in real-time.&#xA;Formerly G Suite, Google Workspace combines the power of Gmail, Drive, Docs, Sheets, Slides, and Meet into an integrated platform for modern work.&#xA;Real-time collaboration advantages:&#xA;Simultaneous editing - Multiple people can work on the same document at once Live cursors - See exactly where teammates are working in real-time Instant commenting - Discuss changes and suggestions without email chains Version history - Track all changes with automatic backup and restore Core applications:</description>
     </item>
     <item>
+      <title>GoToMeeting</title>
+      <link>https://toolchest.pro/categories/gotomeeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/gotomeeting/</guid>
+      <description>GoToMeeting is a professional-grade video conferencing platform designed for businesses requiring reliable online meetings, screen sharing, and collaboration tools.&#xA;Key Features HD video conferencing - Crystal clear video quality for professional meetings Screen sharing - Share presentations and collaborate on documents Meeting recording - Capture sessions for review and sharing Mobile participation - Join meetings from any device Personal meeting rooms - Consistent meeting links for recurring sessions Calendar integration - Seamless scheduling with popular calendar apps Drawing tools - Annotate and collaborate visually during meetings Use Cases Business meetings and presentations Sales demonstrations and client calls Team training and webinars Remote collaboration sessions Customer support and consulting Get Started with GoToMeeting Host professional online meetings with reliable video conferencing.</description>
+    </item>
+    <item>
       <title>Loom</title>
       <link>https://toolchest.pro/categories/loom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -85,11 +85,11 @@
       <description>Microsoft Teams is the collaboration hub that brings together chat, video meetings, file storage, and Office apps in one integrated platform.&#xA;Built for the Microsoft ecosystem, Teams provides enterprise-grade communication and collaboration tools that scale from small teams to global organizations.&#xA;Microsoft ecosystem advantages:&#xA;Native Office integration - Edit Word, Excel, and PowerPoint files directly in Teams OneDrive &amp;amp; SharePoint - Seamless file sharing and document collaboration Outlook calendar - Schedule and join meetings without leaving your workflow Enterprise security - Leverages your existing Microsoft security policies Core collaboration features:</description>
     </item>
     <item>
-      <title>Notion</title>
-      <link>https://toolchest.pro/categories/notion/</link>
+      <title>Monosnap</title>
+      <link>https://toolchest.pro/categories/monosnap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/notion/</guid>
-      <description>Notion is the all-in-one workspace that combines notes, documents, databases, and project management in a single, flexible platform.&#xA;With its modular block-based approach, Notion adapts to any workflow—from personal note-taking to enterprise knowledge management.&#xA;What makes Notion unique:&#xA;Blocks-based system - Build any type of content with flexible, reusable components Database power - Create relational databases with multiple views (table, board, calendar, gallery) Infinite customization - Design your workspace exactly how you need it Real-time collaboration - Teams can edit, comment, and work together seamlessly Core capabilities:</description>
+      <guid>https://toolchest.pro/categories/monosnap/</guid>
+      <description>Monosnap is a powerful screenshot and annotation tool that enables teams to capture screens, add detailed markup, and share visual feedback for efficient communication.&#xA;Key Features Screen capture - Take pixel-perfect screenshots and recordings Annotation tools - Add arrows, text, shapes, and highlights Video recording - Capture screen recordings with audio Cloud storage - Automatically sync and store captures Instant sharing - Generate shareable links for quick collaboration Team workspaces - Organize captures with team members Blur effects - Protect sensitive information in screenshots Use Cases Design review and feedback Bug documentation and QA testing Visual communication and tutorials Remote collaboration and support Screen recording for presentations Get Started with Monosnap Streamline visual communication with powerful screenshots.</description>
     </item>
     <item>
       <title>Obsidian</title>
@@ -97,6 +97,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/obsidian/</guid>
       <description>Obsidian transforms note-taking into knowledge building through bidirectional linking, allowing you to create an interconnected web of thoughts that reveals hidden connections and insights.&#xA;Built for researchers, writers, and knowledge workers who want to build a &amp;ldquo;second brain,&amp;rdquo; Obsidian stores everything locally while providing powerful tools for connecting ideas.&#xA;What makes Obsidian revolutionary:&#xA;Bidirectional linking - Connect notes naturally with [[double brackets]] Graph visualization - See your knowledge network as an interactive map Local storage - Your notes stay on your device, no vendor lock-in Markdown native - Future-proof plain text with rich formatting Core linking and discovery:</description>
+    </item>
+    <item>
+      <title>Roam Research</title>
+      <link>https://toolchest.pro/categories/roam-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/roam-research/</guid>
+      <description>Roam Research revolutionizes thought organization through block references and bidirectional linking, enabling researchers to create non-linear knowledge graphs that capture complex idea relationships.&#xA;Key Features Bidirectional linking - Connect thoughts and ideas across all notes Block references - Reuse and embed content throughout your database Daily pages - Capture thoughts with automatic date organization Graph database - Visualize connections between ideas and concepts Queries - Find and organize information with powerful search Collaborative editing - Work together on shared knowledge bases Version control - Track changes and restore previous versions Use Cases Academic research and dissertation writing Knowledge management and note-taking Creative project development Systems thinking and concept mapping Zettelkasten methodology implementation Get Started with Roam Research Build networked knowledge with connected thinking.</description>
+    </item>
+    <item>
+      <title>ScreenPal</title>
+      <link>https://toolchest.pro/categories/screenpal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/screenpal/</guid>
+      <description>ScreenPal is a screen recording tool designed for educators, trainers, and professionals who need to create instructional videos and tutorials.&#xA;The platform combines screen recording with video editing, cloud hosting, and interactive elements. Features include drawing tools, video trimming, closed captions, quizzing capabilities, and video analytics to create engaging educational content.&#xA;Perfect for educators creating lecture content, corporate trainers developing training materials, and content creators building software tutorials. ScreenPal offers desktop software and browser extensions that make video-based knowledge sharing accessible without requiring advanced technical skills.</description>
     </item>
     <item>
       <title>Slack</title>

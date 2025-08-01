@@ -1,7 +1,8 @@
 ---
 title: "Chocolatey"
 tagline: "Package manager for Windows with automated software installation"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Package Managers"
 tool_name: "Chocolatey"
 deployment_status: "deployed"

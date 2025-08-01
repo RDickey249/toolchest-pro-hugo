@@ -1,8 +1,9 @@
 ---
 title: "Wrike"
 tagline: "Ready to transform your enterprise project management?..."
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "Wrike"
 deployment_status: "deployed"
 image: "/images/tools/wrike-placeholder.jpg"

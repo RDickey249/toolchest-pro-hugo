@@ -1,8 +1,9 @@
 ---
 title: "Brandmark"
 tagline: "AI-powered logo creation with original designs"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Branding Identity"
 tool_name: "Brandmark"
 deployment_status: "deployed"
 image: "/images/tools/brandmark-placeholder.jpg"

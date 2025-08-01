@@ -1,8 +1,9 @@
 ---
 title: "Let's Enhance"
 tagline: "Ready to get started? Visit [Let's Enhance](https://letsenhance.io) to explore the platform and begin using this tool...."
-category: "📱 Marketing & Social Media"
-subcategory: "📱 Marketing & Social Media"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Let's Enhance"
 deployment_status: "deployed"
 image: "/images/tools/lets-enhance-placeholder.jpg"

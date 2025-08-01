@@ -1,8 +1,9 @@
 ---
 title: "Fishbowl"
 tagline: "Manufacturing inventory"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "E-commerce & Business Tools"
+categories: ["E-commerce & Business Tools"]
+subcategory: "Inventory Management"
 tool_name: "Fishbowl"
 deployment_status: "deployed"
 image: "/images/tools/fishbowl-placeholder.jpg"

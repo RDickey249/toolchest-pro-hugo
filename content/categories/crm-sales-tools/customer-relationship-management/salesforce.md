@@ -1,8 +1,9 @@
 ---
 title: "Salesforce"
 tagline: "The enterprise giant"
-category: "🎯 CRM & Sales Tools"
-subcategory: "🎯 CRM & Sales Tools"
+category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
+subcategory: "Customer Relationship Management"
 tool_name: "Salesforce"
 deployment_status: "deployed"
 image: "/images/tools/salesforce-placeholder.jpg"

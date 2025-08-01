@@ -1,8 +1,9 @@
 ---
 title: "Less"
 tagline: "CSS preprocessor with dynamic stylesheet language features"
-category: "🔬 Scientific & Research Tools"
-subcategory: "🔬 Scientific & Research Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Frontend Languages"
 tool_name: "Less"
 deployment_status: "deployed"
 image: "/images/tools/less-placeholder.jpg"

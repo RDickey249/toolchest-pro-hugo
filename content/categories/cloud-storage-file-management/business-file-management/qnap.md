@@ -1,8 +1,9 @@
 ---
 title: "QNAP"
 tagline: "Network attached storage"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "Business File Management"
 tool_name: "QNAP"
 deployment_status: "deployed"
 image: "/images/tools/qnap-placeholder.jpg"

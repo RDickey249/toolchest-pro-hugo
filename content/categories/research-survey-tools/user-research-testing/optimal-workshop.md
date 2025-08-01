@@ -1,8 +1,9 @@
 ---
 title: "Optimal Workshop"
 tagline: "Information architecture and UX research tools"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "User Research Testing"
 tool_name: "Optimal Workshop"
 deployment_status: "deployed"
 image: "/images/tools/optimal-workshop-placeholder.jpg"

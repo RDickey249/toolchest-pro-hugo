@@ -1,7 +1,8 @@
 ---
 title: "Fly.io"
 tagline: "Edge application platform for global low-latency deployment"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Fly.io"
 deployment_status: "deployed"

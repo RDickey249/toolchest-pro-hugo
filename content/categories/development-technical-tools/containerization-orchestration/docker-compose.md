@@ -1,8 +1,9 @@
 ---
 title: "Docker Compose"
 tagline: "Tool for defining and running multi-container Docker applications"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Containerization Orchestration"
 tool_name: "Docker Compose"
 deployment_status: "deployed"
 image: "/images/tools/docker-compose-placeholder.jpg"

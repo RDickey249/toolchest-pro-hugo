@@ -2,6 +2,7 @@
 title: "SPSS - Statistical software package"
 tagline: "SPSS is a comprehensive statistical analysis software package widely used in social sciences, healthcare, and market research..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "SPSS"
 deployment_status: "deployed"

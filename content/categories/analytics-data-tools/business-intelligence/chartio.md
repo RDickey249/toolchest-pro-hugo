@@ -1,8 +1,8 @@
 ---
 title: "Chartio"
 tagline: "Data exploration"
-category: "📊 Analytics & Data Tools"
-subcategory: "📊 Analytics & Data Tools"
+category: "Analytics & Data Tools"
+subcategory: "Business Intelligence"
 tool_name: "Chartio"
 deployment_status: "deployed"
 image: "/images/tools/chartio-placeholder.jpg"

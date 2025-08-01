@@ -2,6 +2,7 @@
 title: "Later - Visual content scheduling"
 tagline: "Later is a visual-first social media scheduling platform that specializes in Instagram, Pinterest, and other visual platforms with drag-and-drop calendar planning..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Later"
 deployment_status: "deployed"

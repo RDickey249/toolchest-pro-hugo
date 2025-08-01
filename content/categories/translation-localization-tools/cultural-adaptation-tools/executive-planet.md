@@ -2,6 +2,7 @@
 title: "Executive Planet - Business culture guides"
 tagline: "Executive Planet provides business culture guides and etiquette information for international business professionals, offering country-specific guidance for successful cross-cultural business interactions..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Executive Planet"
 deployment_status: "deployed"

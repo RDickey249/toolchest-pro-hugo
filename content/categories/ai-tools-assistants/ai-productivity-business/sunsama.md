@@ -1,8 +1,9 @@
 ---
 title: "Sunsama"
 tagline: "Sunsama is the mindful daily planning platform that combines task management with work-life balance principles to help busy professionals create reali..."
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Sunsama"
 deployment_status: "deployed"
 image: "/images/tools/sunsama-placeholder.jpg"

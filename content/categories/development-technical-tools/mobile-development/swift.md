@@ -1,8 +1,9 @@
 ---
 title: "Swift"
 tagline: "Apple's language for iOS development"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Mobile Development"
 tool_name: "Swift"
 deployment_status: "deployed"
 image: "/images/tools/swift-placeholder.jpg"

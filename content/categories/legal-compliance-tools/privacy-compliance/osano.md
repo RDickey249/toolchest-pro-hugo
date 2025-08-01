@@ -1,8 +1,9 @@
 ---
 title: "Osano"
 tagline: "Data privacy platform"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Privacy Compliance"
 tool_name: "Osano"
 deployment_status: "deployed"
 image: "/images/tools/osano-placeholder.jpg"

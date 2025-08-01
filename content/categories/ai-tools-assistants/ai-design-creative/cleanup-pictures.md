@@ -1,8 +1,9 @@
 ---
 title: "Cleanup.pictures"
 tagline: "Ready to get started? Visit [Cleanup.pictures](https://cleanup.pictures) to explore the platform and begin using this tool...."
-category: "📱 Marketing & Social Media"
-subcategory: "📱 Marketing & Social Media"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Cleanup.pictures"
 deployment_status: "deployed"
 image: "/images/tools/cleanup-pictures-placeholder.jpg"

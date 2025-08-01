@@ -1,8 +1,8 @@
 ---
 title: "OutSystems"
 tagline: "High-performance low-code platform"
-category: "🛍️ E-commerce & Business Tools"
-subcategory: "🛍️ E-commerce & Business Tools"
+category: "Automation & Workflows"
+subcategory: "Business Process Automation"
 tool_name: "OutSystems"
 deployment_status: "deployed"
 image: "/images/tools/outsystems-placeholder.jpg"

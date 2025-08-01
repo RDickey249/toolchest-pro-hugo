@@ -2,6 +2,7 @@
 title: "Meyer Scale - Cultural dimensions"
 tagline: "Meyer Scale is a cultural dimensions framework based on Erin Meyer's research that analyzes cultural differences across eight key dimensions affecting international business communication and collaboration..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Meyer Scale"
 deployment_status: "deployed"

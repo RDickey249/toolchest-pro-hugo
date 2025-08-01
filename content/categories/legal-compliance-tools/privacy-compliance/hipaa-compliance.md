@@ -1,8 +1,9 @@
 ---
 title: "HIPAA Compliance"
 tagline: "Healthcare-specific tools"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Privacy Compliance"
 tool_name: "HIPAA Compliance"
 deployment_status: "deployed"
 image: "/images/tools/hipaa-compliance-placeholder.jpg"

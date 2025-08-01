@@ -1,8 +1,9 @@
 ---
 title: "Zola"
 tagline: "Rust-powered static site generator with fast builds and simple workflow"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Static Site Generators"
 tool_name: "Zola"
 deployment_status: "deployed"
 image: "/images/tools/zola-placeholder.jpg"

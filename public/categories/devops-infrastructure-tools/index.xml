@@ -7,5 +7,173 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/devops-infrastructure-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Web Services (AWS)</title>
+      <link>https://toolchest.pro/categories/amazon-web-services-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/amazon-web-services-aws/</guid>
+      <description>Amazon Web Services (AWS) is the world&amp;rsquo;s most comprehensive cloud platform, offering 200+ services from data centers globally. Market leader with the largest ecosystem and most extensive service portfolio for any cloud computing need.&#xA;Key Features 200+ services - Complete portfolio from compute to quantum computing Global infrastructure - 99 Availability Zones across 31+ regions Pay-as-you-go pricing - Scale resources based on actual usage Enterprise security - Shared responsibility model with compliance certifications Core services - EC2, S3, RDS, Lambda, and advanced AI/ML services Extensive marketplace - Thousands of third-party solutions Serverless computing - Lambda and managed services for zero-server operations Use Cases Enterprise cloud migration and modernization Serverless and microservices architectures Big data analytics and machine learning Global web applications and content delivery Disaster recovery and backup solutions Get Started with AWS Build on the world&amp;rsquo;s most comprehensive cloud platform.</description>
+    </item>
+    <item>
+      <title>Azure DevOps</title>
+      <link>https://toolchest.pro/categories/azure-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/azure-devops/</guid>
+      <description>Azure DevOps is Microsoft&amp;rsquo;s comprehensive DevOps platform providing end-to-end application lifecycle management. Complete toolchain including version control, agile planning, CI/CD, and release management.&#xA;Key Features Azure Repos - Git repositories with advanced pull request workflows Azure Boards - Agile planning with Scrum, Kanban, and custom methodologies Azure Pipelines - CI/CD for any language, platform, and cloud Azure Test Plans - Manual and automated testing management Azure Artifacts - Package management for npm, NuGet, Maven, Python Microsoft integration - Native Visual Studio, VS Code, and Teams support Enterprise security - Authentication, audit logging, compliance Use Cases Microsoft ecosystem DevOps Enterprise application lifecycle management Cross-platform CI/CD automation Agile project management Package and artifact management Get Started with Azure DevOps Complete DevOps platform from Microsoft.</description>
+    </item>
+    <item>
+      <title>Bamboo</title>
+      <link>https://toolchest.pro/categories/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/bamboo/</guid>
+      <description>Bamboo is Atlassian&amp;rsquo;s continuous integration and deployment server with deep integration across the Atlassian ecosystem. Perfect for teams using Jira, Bitbucket, and Confluence together.&#xA;Key Features Atlassian integration - Native connectivity with Jira, Bitbucket, and Confluence Plan and job structure - Complex build configurations with parallel execution Deployment projects - Separate build and deployment with artifact promotion Elastic agents - On-demand EC2 build capacity to reduce infrastructure costs Branch workflows - Automatic plan creation and pull request integration Role-based permissions - Enterprise directory integration and access control Build analytics - Performance tracking with customizable dashboards Use Cases Atlassian ecosystem CI/CD automation Complex build pipeline management Enterprise deployment workflows Multi-environment artifact promotion On-premises continuous integration Get Started with Bamboo Streamline your Atlassian development workflow with powerful CI/CD automation.</description>
+    </item>
+    <item>
+      <title>CircleCI</title>
+      <link>https://toolchest.pro/categories/circleci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/circleci/</guid>
+      <description>CircleCI is a cloud-based CI/CD platform focused on speed and developer productivity. Intelligent parallelization and caching minimize build times while orbs provide reusable best-practice configurations.&#xA;Key Features Intelligent parallelization - Automatically distribute tests across containers Smart caching - Reduce build times with intelligent dependency caching Orbs ecosystem - Reusable configuration packages for common tools Docker-first - Consistent build environments and container integration Advanced workflows - Complex deployment patterns with approvals Performance insights - Analytics and optimization recommendations Enterprise security - SOC 2 compliance with secret management Use Cases High-performance CI/CD automation Docker and microservices deployments Enterprise-grade security and compliance Performance-critical build pipelines Team productivity optimization Get Started with CircleCI Speed up your development with intelligent CI/CD.</description>
+    </item>
+    <item>
+      <title>Datadog</title>
+      <link>https://toolchest.pro/categories/datadog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/datadog/</guid>
+      <description>Datadog is a comprehensive monitoring and analytics platform providing unified visibility across applications, infrastructure, and logs through a single dashboard.&#xA;Key Features 600+ integrations - Monitor servers, containers, databases, and services APM and distributed tracing - Code-level insights with deployment tracking Log management - Aggregate, search, and correlate logs with metrics Network monitoring - Visibility into traffic, DNS, and load balancer performance Synthetic monitoring - Proactive testing from global locations Real user monitoring - Track actual user experiences and journeys ML-powered insights - Anomaly detection and intelligent alerting Use Cases Full-stack application monitoring Infrastructure performance tracking Security threat detection User experience optimization Multi-cloud observability Get Started with Datadog Gain unified visibility across your entire stack.</description>
+    </item>
+    <item>
+      <title>DigitalOcean</title>
+      <link>https://toolchest.pro/categories/digitalocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/digitalocean/</guid>
+      <description>DigitalOcean is a developer-focused cloud platform that simplifies cloud computing with intuitive interfaces, transparent pricing, and comprehensive tutorials. Perfect for developers, startups, and SMBs needing powerful infrastructure without complexity.&#xA;Key Features Droplets - Fast SSD virtual machines with predictable pricing App Platform - Deploy from source code with automatic scaling Managed Kubernetes - Container orchestration without complexity Comprehensive tutorials - Extensive learning resources and community content Transparent pricing - No hidden costs or surprise charges Global data centers - Low latency worldwide coverage Developer experience - Tools and features designed for developers Use Cases Developer and startup hosting Simple web application deployment Learning cloud technologies Small to medium business infrastructure Container and Kubernetes workloads Get Started with DigitalOcean Simple, affordable cloud hosting for developers.</description>
+    </item>
+    <item>
+      <title>Elastic Stack</title>
+      <link>https://toolchest.pro/categories/elastic-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/elastic-stack/</guid>
+      <description>The Elastic Stack (formerly ELK Stack) combines Elasticsearch, Logstash, Kibana, and Beats for search, logging, and analytics from simple log analysis to enterprise observability.&#xA;Key Features Elasticsearch - Distributed search and analytics engine for massive datasets Logstash - Data processing and transformation from multiple sources Kibana - Interactive dashboards with machine learning and analytics Beats - Lightweight data shippers for logs, metrics, and network data Unified data model - Correlate logs, metrics, APM data for full observability ML capabilities - Automatic anomaly detection and trend forecasting Petabyte scale - From single nodes to multi-data-center clusters Use Cases Log analysis and search Application performance monitoring Security information and event management Business intelligence and analytics Real-time data analysis Get Started with Elastic Stack Power search, logging, and analytics at any scale.</description>
+    </item>
+    <item>
+      <title>GitLab CI</title>
+      <link>https://toolchest.pro/categories/gitlab-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/gitlab-ci/</guid>
+      <description>GitLab CI/CD is a fully integrated continuous integration and deployment platform built directly into GitLab. Complete DevOps automation from code to production without external tool integration.&#xA;Key Features Integrated platform - Built directly into GitLab repositories Auto DevOps - Zero-configuration pipelines with automatic detection Flexible runners - Docker, Kubernetes, and shell executors Merge request pipelines - Test changes before merging Environment management - Track deployments with rollback capabilities Container registry - Integrated image storage with vulnerability scanning Security scanning - SAST, DAST, and dependency scanning built-in Use Cases Complete DevOps platform automation Integrated CI/CD with GitLab repos Security-first development workflows Container-based deployments Enterprise DevOps with compliance Get Started with GitLab CI Complete DevOps platform with integrated CI/CD.</description>
+    </item>
+    <item>
+      <title>Google Cloud Platform</title>
+      <link>https://toolchest.pro/categories/google-cloud-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/google-cloud-platform/</guid>
+      <description>Google Cloud Platform (GCP) leverages Google&amp;rsquo;s global infrastructure to provide enterprise-grade cloud services with strengths in AI, data analytics, and container technologies. Runs on the same infrastructure powering Google Search, Gmail, and YouTube.&#xA;Key Features Global infrastructure - Same network powering Google&amp;rsquo;s services AI and ML leadership - TensorFlow, Vertex AI, and advanced analytics BigQuery - Serverless data warehouse for analytics at scale Google Kubernetes Engine - Managed Kubernetes with enterprise features Innovative pricing - Per-second billing and sustained use discounts Carbon neutral - Commitment to renewable energy and sustainability Developer-friendly - APIs and tools optimized for development teams Use Cases Data analytics and machine learning Container orchestration and microservices Global web and mobile applications Enterprise workload migration Hybrid and multi-cloud deployments Get Started with Google Cloud Platform Build on Google&amp;rsquo;s proven infrastructure.</description>
+    </item>
+    <item>
+      <title>Helm</title>
+      <link>https://toolchest.pro/categories/helm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/helm/</guid>
+      <description>Helm is the package manager for Kubernetes that simplifies application deployment through reusable, configurable packages called charts. The standard tool for managing Kubernetes applications at scale.&#xA;Key Features Chart templating - Parameterized Kubernetes manifests for any environment Chart repositories - Share and version application packages easily Dependency management - Handle complex multi-component applications Release management - Track deployments with easy upgrades and rollbacks Hooks system - Custom actions during installation and deployment phases Values configuration - Flexible YAML-based environment settings Artifact Hub - Thousands of pre-built charts for popular applications Use Cases Kubernetes application packaging and deployment Multi-environment configuration management Complex application dependency handling CI/CD pipeline automation Enterprise Kubernetes operations Get Started with Helm Simplify Kubernetes application management with the industry-standard package manager.</description>
+    </item>
+    <item>
+      <title>IBM Cloud</title>
+      <link>https://toolchest.pro/categories/ibm-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/ibm-cloud/</guid>
+      <description>IBM Cloud is an enterprise-focused cloud platform combining public cloud services with IBM&amp;rsquo;s expertise in AI, hybrid cloud, and enterprise applications. Features Watson AI services and Red Hat OpenShift integration.&#xA;Key Features Watson AI services - Natural language processing, computer vision, and ML Hybrid cloud - Red Hat OpenShift for consistent deployment across environments Enterprise security - Extensive compliance certifications for regulated industries Bare metal servers - Dedicated hardware for performance-critical workloads IBM integration - Seamless connection with WebSphere, DB2, and Cognos Blockchain platform - Enterprise-grade distributed ledger technology Global network - Worldwide data centers with dedicated environment options Use Cases Enterprise AI and machine learning projects Hybrid and multicloud architectures Regulated industry compliance (finance, healthcare) IBM software migration and integration Blockchain and supply chain applications Get Started with IBM Cloud Access enterprise-grade cloud services with advanced AI capabilities.</description>
+    </item>
+    <item>
+      <title>Jenkins</title>
+      <link>https://toolchest.pro/categories/jenkins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/jenkins/</guid>
+      <description>Jenkins is the world&amp;rsquo;s leading open-source automation server enabling continuous integration and deployment. Extensible architecture with 1,800+ plugins integrates with virtually every DevOps tool for flexible automation workflows.&#xA;Key Features Pipeline-as-code - Define workflows using Groovy scripts stored with code 1,800+ plugins - Integrate with any tool in the DevOps ecosystem Distributed builds - Scale across multiple machines and environments Multiple triggers - Code commits, schedules, and API-driven builds Blue Ocean interface - Modern visual pipeline creation and monitoring Enterprise security - Authentication, authorization, and audit logging Container integration - Docker and Kubernetes support for modern deployments Use Cases Continuous integration and deployment Automated testing and quality gates Multi-environment deployments Enterprise DevOps automation Custom workflow automation Get Started with Jenkins Automate your software delivery with the most trusted CI/CD platform.</description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://toolchest.pro/categories/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/kubernetes/</guid>
+      <description>Kubernetes is the open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. Originally developed by Google, now the industry standard for production container orchestration.&#xA;Key Features Declarative configuration - Specify desired states, Kubernetes maintains them Service discovery - Automatic load balancing across healthy container instances Self-healing - Restart failed containers and replace unhealthy nodes Auto-scaling - Horizontal scaling based on CPU, memory, or custom metrics Rolling updates - Zero-downtime deployments with easy rollback Extensive ecosystem - Helm, Istio, operators, and thousands of tools Multi-cloud portability - Run consistently across any cloud or on-premises Use Cases Production container orchestration Microservices architecture deployment Cloud-native application management Multi-cloud and hybrid deployments Enterprise-scale container operations Get Started with Kubernetes Deploy and scale containerized applications with the industry-standard orchestration platform.</description>
+    </item>
+    <item>
+      <title>Linode</title>
+      <link>https://toolchest.pro/categories/linode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/linode/</guid>
+      <description>Linode is a Linux-focused cloud hosting provider known for high-performance infrastructure, competitive pricing, and exceptional customer support. Now part of Akamai&amp;rsquo;s global network.&#xA;Key Features High-performance VPS - Enterprise hardware with NVMe SSD and AMD EPYC processors Transparent pricing - Predictable monthly rates without hidden fees Global network - Multiple data centers with optimal performance and redundancy Managed services - Kubernetes, databases, and load balancers with flexibility Daily backups - Automated backups with point-in-time recovery API-first design - Infrastructure automation with Terraform and Ansible Premium support - Knowledgeable assistance without premium tiers Use Cases Linux-optimized cloud hosting Performance-critical applications Cost-effective cloud infrastructure Development and staging environments API-driven infrastructure automation Get Started with Linode Deploy high-performance Linux cloud infrastructure with transparent pricing.</description>
+    </item>
+    <item>
+      <title>LXC/LXD</title>
+      <link>https://toolchest.pro/categories/lxc/lxd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/lxc/lxd/</guid>
+      <description>LXC (Linux Containers) and LXD provide system containerization that creates lightweight virtual machines with near-native performance, ideal for running complete Linux distributions.&#xA;Key Features System containers - Run complete Linux distributions with init systems LXD hypervisor - Advanced management with REST API and clustering Resource controls - CPU, memory, network, and I/O limits Strong security - User namespaces, AppArmor profiles, seccomp filters Snapshots and backups - Point-in-time recovery and container migration Clustering support - Distributed deployment with shared storage Image management - Pre-built Linux distribution images with updates Use Cases Lightweight virtualization for traditional applications Multi-service container deployments Development and testing environments Infrastructure services containerization Legacy application modernization Get Started with LXC/LXD Deploy system containers with lightweight virtualization.</description>
+    </item>
+    <item>
+      <title>Microsoft Azure</title>
+      <link>https://toolchest.pro/categories/microsoft-azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/microsoft-azure/</guid>
+      <description>Microsoft Azure is a comprehensive cloud platform with seamless integration into Microsoft&amp;rsquo;s enterprise ecosystem. Over 200+ services across compute, networking, and AI with global availability in 60+ regions worldwide.&#xA;Key Features Microsoft ecosystem integration - Native integration with Office 365, Windows, and Dynamics Hybrid cloud - Azure Arc and Stack for consistent on-premises and cloud deployment Enterprise compliance - Extensive certifications for regulated industries AI and ML services - Cognitive Services and Azure Machine Learning Global infrastructure - 60+ regions with enterprise-grade reliability DevOps integration - Native Azure DevOps Services integration Flexible pricing - Reserved instances and hybrid use benefits Use Cases Enterprise Windows and .</description>
+    </item>
+    <item>
+      <title>Nagios</title>
+      <link>https://toolchest.pro/categories/nagios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/nagios/</guid>
+      <description>Nagios is a proven, enterprise-grade monitoring system providing comprehensive monitoring of IT infrastructure including servers, networks, applications, and services.&#xA;Key Features Plugin-based architecture - Thousands of community and commercial plugins Host and service monitoring - Availability, performance, health with custom intervals Notification system - Escalation paths, dependencies, flexible routing Event handling - Automatic corrective actions for self-healing infrastructure Distributed monitoring - Hierarchical architectures across data centers Configuration management - Text-based files supporting infrastructure-as-code High availability - Redundancy, failover, load distribution Use Cases Enterprise infrastructure monitoring Network and server health tracking Service availability monitoring IT compliance and audit reporting Mission-critical system monitoring Get Started with Nagios Monitor your IT infrastructure with proven reliability.</description>
+    </item>
+    <item>
+      <title>New Relic</title>
+      <link>https://toolchest.pro/categories/new-relic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/new-relic/</guid>
+      <description>New Relic is a comprehensive observability platform providing full-stack monitoring and analytics for applications, infrastructure, and digital customer experiences.&#xA;Key Features APM monitoring - Automatic instrumentation for response times and performance Distributed tracing - Follow requests across microservices architectures Infrastructure monitoring - Real-time visibility into servers, containers, cloud Browser monitoring - Real user experience and JavaScript error tracking Mobile monitoring - App performance, crash reporting, engagement metrics Logs management - Integrated log data with metrics and traces AI-powered alerts - Machine learning to reduce noise and false positives Use Cases Full-stack application monitoring Microservices performance tracking User experience optimization Infrastructure health monitoring Mobile application analytics Get Started with New Relic Monitor your entire stack with comprehensive observability.</description>
+    </item>
+    <item>
+      <title>Oracle Cloud</title>
+      <link>https://toolchest.pro/categories/oracle-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/oracle-cloud/</guid>
+      <description>Oracle Cloud Infrastructure (OCI) is an enterprise-grade cloud platform optimized for database workloads and Oracle software environments. Features autonomous database services and performance-based pricing.&#xA;Key Features Autonomous databases - Self-managing, self-securing, self-repairing database technology High-performance compute - Bare metal and VMs with predictable performance Cost-effective pricing - No data egress fees and performance-based billing Enterprise security - Isolated networking, encryption by default, compartment controls Oracle integration - Seamless migration for existing Oracle customers HPC capabilities - Support for complex simulations and analytics workloads Global infrastructure - Expanding network of high-availability data centers Use Cases Oracle database and application migration Enterprise application hosting High-performance computing workloads Mission-critical business systems Regulated industry compliance Get Started with Oracle Cloud Access enterprise-grade cloud infrastructure optimized for Oracle workloads.</description>
+    </item>
+    <item>
+      <title>Podman</title>
+      <link>https://toolchest.pro/categories/podman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/podman/</guid>
+      <description>Podman is a daemonless container engine with Docker-compatible CLI that addresses security concerns of traditional container runtimes. Features rootless containers and Kubernetes-inspired pod management.&#xA;Key Features Daemonless architecture - No central daemon eliminates privileged processes Rootless containers - Run containers without elevated privileges Pod support - Kubernetes-inspired container grouping with shared resources Docker compatibility - Compatible with Docker commands and Dockerfile syntax systemd integration - Manage containers as system services Buildah integration - Advanced image building with security controls Registry support - Authentication, signing, and vulnerability scanning Use Cases Security-focused container deployments Multi-user container environments Docker migration with enhanced security Kubernetes-style pod management System service containerization Get Started with Podman Deploy secure, daemonless containers with Docker compatibility.</description>
+    </item>
+    <item>
+      <title>Prometheus</title>
+      <link>https://toolchest.pro/categories/prometheus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/prometheus/</guid>
+      <description>Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability in dynamic cloud environments. The foundation of modern cloud-native monitoring.&#xA;Key Features Pull-based architecture - Scrapes metrics from applications and infrastructure Multi-dimensional database - Time-series storage with powerful PromQL queries Service discovery - Automatic detection in Kubernetes, Docker, and cloud platforms Flexible alerting - Rule-based detection with Alertmanager integration Instrumentation libraries - Easy custom metrics for popular languages Federation capabilities - Hierarchical monitoring from clusters to global scale Extensive exporters - Monitor databases, servers, and cloud services Use Cases Cloud-native application monitoring Infrastructure metrics collection Microservices observability Kubernetes cluster monitoring Custom application metrics Get Started with Prometheus Build reliable monitoring for cloud-native applications.</description>
+    </item>
+    <item>
+      <title>TeamCity</title>
+      <link>https://toolchest.pro/categories/teamcity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/teamcity/</guid>
+      <description>TeamCity is JetBrains&amp;rsquo; professional CI/CD server providing powerful build automation with an intuitive web interface. Comprehensive features for complex project structures with enterprise-grade reliability and flexibility.&#xA;Key Features Powerful build configurations - Template inheritance and dependency management Distributed builds - Multi-OS agents with automatic discovery Advanced VCS integration - Git, SVN, Mercurial with pre-tested commits Comprehensive testing - Test reporting with trend analysis and failure investigation Artifact management - Build output sharing with dependency resolution Enterprise features - Role-based security, audit logging, high availability Extensive plugins - Rich ecosystem for tools and services integration Use Cases Enterprise CI/CD automation Complex multi-project builds Professional development workflows Distributed team collaboration High-reliability build systems Get Started with TeamCity Professional CI/CD from JetBrains.</description>
+    </item>
+    <item>
+      <title>Travis CI</title>
+      <link>https://toolchest.pro/categories/travis-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/travis-ci/</guid>
+      <description>Travis CI is a continuous integration service providing automated testing and deployment for GitHub projects through simple YAML configuration. Pioneered CI-as-a-service, making automated testing accessible to open-source and development teams.&#xA;Key Features Simple YAML configuration - Easy setup with minimal configuration files Matrix builds - Test across multiple languages, OS, and environments GitHub integration - Native integration with GitHub repositories Pre-installed environments - Common development tools ready to use Free for open source - Generous free tier supporting open-source growth Deployment integration - Support for major cloud and hosting platforms Build caching - Faster builds with dependency and artifact caching Use Cases Open source project CI/CD GitHub repository automation Multi-environment testing Simple deployment workflows Community-driven development Get Started with Travis CI Simple, reliable CI/CD for GitHub projects.</description>
+    </item>
+    <item>
+      <title>Vultr</title>
+      <link>https://toolchest.pro/categories/vultr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/vultr/</guid>
+      <description>Vultr is a performance-focused cloud computing platform with high-frequency compute instances, NVMe SSD storage, and global network optimized for speed and reliability.&#xA;Key Features High-performance compute - Latest Intel/AMD processors with high-frequency options Global network - Data centers across six continents for low latency Simple pricing - Straightforward hourly/monthly billing without hidden charges One-click apps - Streamlined deployment of popular software stacks Storage solutions - Block storage, object storage, and load balancers Private networking - Secure instance communication without traffic charges DDoS protection - Global anycast network with intelligent routing Use Cases High-performance computing applications Gaming servers and latency-sensitive workloads Global web applications Development and testing environments Content delivery and edge computing Get Started with Vultr Deploy high-performance cloud infrastructure with global reach.</description>
+    </item>
   </channel>
 </rss>

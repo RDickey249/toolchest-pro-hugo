@@ -2,6 +2,7 @@
 title: "FreeCodeCamp - Free coding bootcamp"
 tagline: "FreeCodeCamp is a free coding bootcamp that teaches web development, data science, and programming through interactive lessons, coding challenges, and nonprofit project work that builds real-world experience..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "FreeCodeCamp"
 deployment_status: "deployed"

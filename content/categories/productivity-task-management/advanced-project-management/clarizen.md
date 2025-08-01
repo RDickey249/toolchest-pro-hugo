@@ -1,8 +1,9 @@
 ---
 title: "Clarizen"
 tagline: "Project portfolio management"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Advanced Project Management"
 tool_name: "Clarizen"
 deployment_status: "deployed"
 image: "/images/tools/clarizen-placeholder.jpg"

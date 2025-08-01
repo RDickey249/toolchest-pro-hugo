@@ -1,8 +1,8 @@
 ---
 title: "Mouseflow"
 tagline: "User session recording"
-category: "🖥️ Hardware & Equipment Tools"
-subcategory: "🖥️ Hardware & Equipment Tools"
+category: "Analytics & Data Tools"
+subcategory: "Web Analytics"
 tool_name: "Mouseflow"
 deployment_status: "deployed"
 image: "/images/tools/mouseflow-placeholder.jpg"

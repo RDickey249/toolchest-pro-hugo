@@ -1,8 +1,8 @@
 ---
 title: "Airtable"
 tagline: "Part spreadsheet, part database, all awesome"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Productivity & Task Management"
+subcategory: "Project Management Platforms"
 tool_name: "Airtable"
 deployment_status: "deployed"
 image: "/images/tools/airtable-placeholder.jpg"

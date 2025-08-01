@@ -1,8 +1,9 @@
 ---
 title: "TMetric"
 tagline: "Ready to get started? Visit [TMetric](https://tmetric.com/) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking"
 tool_name: "TMetric"
 deployment_status: "deployed"
 image: "/images/tools/tmetric-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Bazel"
 tagline: "Scalable build system from Google for large codebases"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Build Tools Task Runners"
 tool_name: "Bazel"
 deployment_status: "deployed"
 image: "/images/tools/bazel-placeholder.jpg"

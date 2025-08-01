@@ -1,8 +1,8 @@
 ---
 title: "FullStory"
 tagline: "Session recording"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "Analytics & Data Tools"
+subcategory: "Web Analytics"
 tool_name: "FullStory"
 deployment_status: "deployed"
 image: "/images/tools/fullstory-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Datadog"
 tagline: "Cloud monitoring and analytics platform for infrastructure and applications"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Monitoring Observability"
 tool_name: "Datadog"
 deployment_status: "deployed"
 image: "/images/tools/datadog-placeholder.jpg"

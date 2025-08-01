@@ -8,20 +8,6 @@
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/tags/api-design-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insomnia</title>
-      <link>https://toolchest.pro/categories/insomnia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/insomnia/</guid>
-      <description>Insomnia is the fast, beautiful API client that makes testing REST and GraphQL APIs a pleasure. Built by Kong, it combines a clean interface with powerful features that developers actually use.\n\n## Key Features\n- Beautiful Interface: Clean, intuitive design that doesn&amp;rsquo;t get in your way\n- Environment Variables: Switch between dev, staging, and production instantly\n- GraphQL Support: First-class GraphQL with schema fetching and autocomplete\n- Request Collections: Organize APIs into workspaces and folders\n- Code Generation: Generate code snippets in 12+ languages\n- Plugin System: Extend functionality with custom plugins\n\n## Why Developers Choose Insomnia\nInsomnia hits the sweet spot between simplicity and power.</description>
-    </item>
-    <item>
-      <title>Postman</title>
-      <link>https://toolchest.pro/categories/postman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/postman/</guid>
-      <description>Postman is the world&amp;rsquo;s leading API platform, used by over 25 million developers to design, test, and document APIs more efficiently.&#xA;What started as a simple Chrome extension has evolved into the complete platform for API development, making it easier to build and consume APIs at every stage of the development lifecycle.&#xA;Complete API lifecycle management:&#xA;Design - Define API schemas and specifications with OpenAPI support Test - Send requests, validate responses, and automate testing scenarios Document - Generate beautiful, always up-to-date API documentation Monitor - Track API performance and uptime in production Mock - Create mock servers for frontend development before backend is ready Key features:</description>
-    </item>
-    <item>
       <title>Swagger</title>
       <link>https://toolchest.pro/categories/swagger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

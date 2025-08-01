@@ -1,8 +1,9 @@
 ---
 title: "GoToMeeting"
 tagline: "Business video platform"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Communication & Collaboration"
+categories: ["Communication & Collaboration"]
+subcategory: "Team Communication"
 tool_name: "GoToMeeting"
 deployment_status: "deployed"
 image: "/images/tools/gotomeeting-placeholder.jpg"

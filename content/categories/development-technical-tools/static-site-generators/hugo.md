@@ -1,8 +1,9 @@
 ---
 title: "Hugo"
 tagline: "Fast and flexible static site generator built with Go"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Static Site Generators"
 tool_name: "Hugo"
 deployment_status: "deployed"
 image: "/images/tools/hugo-placeholder.jpg"

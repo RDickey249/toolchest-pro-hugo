@@ -1,7 +1,8 @@
 ---
 title: "BigTime"
 tagline: "Professional services business management platform"
-category: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
 tool_name: "BigTime"
 deployment_status: "deployed"

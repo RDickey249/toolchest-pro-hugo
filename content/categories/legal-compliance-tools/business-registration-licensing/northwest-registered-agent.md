@@ -1,8 +1,9 @@
 ---
 title: "Northwest Registered Agent"
 tagline: "Registered agent services"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Business Registration Licensing"
 tool_name: "Northwest Registered Agent"
 deployment_status: "deployed"
 image: "/images/tools/northwest-registered-agent-placeholder.jpg"

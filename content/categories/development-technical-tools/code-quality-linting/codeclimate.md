@@ -1,8 +1,9 @@
 ---
 title: "CodeClimate"
 tagline: "Automated code review and maintainability metrics"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Quality Linting"
 tool_name: "CodeClimate"
 deployment_status: "deployed"
 image: "/images/tools/codeclimate-placeholder.jpg"

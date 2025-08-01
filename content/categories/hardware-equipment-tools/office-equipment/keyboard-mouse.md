@@ -1,7 +1,8 @@
 ---
 title: "Keyboard & Mouse - Mechanical keyboards, ergonomic mice"
 tagline: "High-quality input devices designed for comfort, productivity, and professional performance"
-category: "🖥️ Hardware & Equipment Tools"
+category: "Hardware & Equipment Tools"
+categories: ["Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Keyboard & Mouse - Mechanical keyboards, ergonomic mice"
 external_link: "https://www.keychron.com/"

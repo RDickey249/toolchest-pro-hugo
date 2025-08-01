@@ -2,6 +2,7 @@
 title: "Sprout Social - Enterprise social management"
 tagline: "Sprout Social is an enterprise-grade social media management platform that combines publishing, engagement, analytics, and listening capabilities with advanced team collaboration features..."
 category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Sprout Social"
 deployment_status: "deployed"

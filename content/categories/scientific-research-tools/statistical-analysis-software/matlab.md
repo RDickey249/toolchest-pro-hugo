@@ -2,6 +2,7 @@
 title: "MATLAB - Technical computing platform"
 tagline: "MATLAB is a high-level technical computing platform that combines programming, visualization, and computation in an easy-to-use environment..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "MATLAB"
 deployment_status: "deployed"

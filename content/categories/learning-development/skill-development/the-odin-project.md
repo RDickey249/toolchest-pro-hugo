@@ -2,6 +2,7 @@
 title: "The Odin Project - Full-stack curriculum"
 tagline: "The Odin Project is a free, open-source full-stack web development curriculum that provides a comprehensive learning path from HTML basics to advanced JavaScript frameworks and backend development..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "The Odin Project"
 deployment_status: "deployed"

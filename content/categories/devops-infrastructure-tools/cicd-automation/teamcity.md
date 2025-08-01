@@ -1,8 +1,9 @@
 ---
 title: "TeamCity"
 tagline: "JetBrains' professional continuous integration server"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Cicd Automation"
 tool_name: "TeamCity"
 deployment_status: "deployed"
 image: "/images/tools/teamcity-placeholder.jpg"

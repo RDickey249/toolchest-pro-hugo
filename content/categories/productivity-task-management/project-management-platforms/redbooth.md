@@ -1,8 +1,9 @@
 ---
 title: "Redbooth"
 tagline: "Ready to integrate project management with team collaboration?..."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+categories: ["Productivity & Task Management"]
+subcategory: "Project Management Platforms"
 tool_name: "Redbooth"
 deployment_status: "deployed"
 image: "/images/tools/redbooth-placeholder.jpg"

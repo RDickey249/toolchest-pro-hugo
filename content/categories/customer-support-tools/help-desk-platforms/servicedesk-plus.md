@@ -1,7 +1,8 @@
 ---
 title: "ServiceDesk Plus"
 tagline: "Enterprise IT help desk with ITIL-compliant service management"
-category: "🎧 Customer Support Tools"
+category: "Customer Support Tools"
+categories: ["Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "ServiceDesk Plus"
 deployment_status: "deployed"

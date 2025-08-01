@@ -1,8 +1,9 @@
 ---
 title: "Vectr"
 tagline: "Free vector graphics"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Graphic Design"
 tool_name: "Vectr"
 deployment_status: "deployed"
 image: "/images/tools/vectr-placeholder.jpg"

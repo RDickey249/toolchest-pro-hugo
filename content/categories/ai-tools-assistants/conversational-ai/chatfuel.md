@@ -1,8 +1,9 @@
 ---
 title: "Chatfuel"
 tagline: "Ready to automate your Facebook and Instagram engagement? Visit [Chatfuel](https://chatfuel.com) to create visual chatbots that drive sales and engage..."
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Chatfuel"
 deployment_status: "deployed"
 image: "/images/tools/chatfuel-placeholder.jpg"

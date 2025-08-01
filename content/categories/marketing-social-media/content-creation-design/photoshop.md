@@ -2,7 +2,8 @@
 title: "Photoshop - Image editing standard"
 tagline: "Adobe Photoshop is the world's most advanced image editing and digital art software, providing comprehensive tools for photo manipulation, digital painting, and graphic design..."
 category: "Marketing & Social Media"
-subcategory: "Content Creation & Design"
+categories: ["Marketing & Social Media"]
+subcategory: "Content Creation Design"
 tool_name: "Photoshop"
 deployment_status: "deployed"
 image: "/images/tools/photoshop-placeholder.jpg"

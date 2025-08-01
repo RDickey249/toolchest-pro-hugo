@@ -1,7 +1,8 @@
 ---
 title: "PromptPal"
 tagline: "Professional tool for enhanced productivity and workflow management"
-category: "🤖 AI Tools & Assistants"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
 subcategory: "Prompt Engineering"
 tool_name: "PromptPal"
 deployment_status: "deployed"

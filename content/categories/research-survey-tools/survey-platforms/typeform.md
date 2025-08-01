@@ -1,8 +1,9 @@
 ---
 title: "Typeform"
 tagline: "Conversational forms and surveys that get more responses"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "Survey Platforms"
 tool_name: "Typeform"
 deployment_status: "deployed"
 image: "/images/tools/typeform-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Pylint"
 tagline: "Python code analyzer for enforcing coding standards"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Quality Linting"
 tool_name: "Pylint"
 deployment_status: "deployed"
 image: "/images/tools/pylint-placeholder.jpg"

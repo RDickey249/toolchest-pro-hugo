@@ -1,8 +1,8 @@
 ---
 title: "Slack"
 tagline: "The workplace chat king"
-category: "💬 Communication & Collaboration"
-subcategory: "💬 Communication & Collaboration"
+category: "Communication & Collaboration"
+subcategory: "Team Communication"
 tool_name: "Slack"
 deployment_status: "deployed"
 image: "/images/tools/slack-placeholder.jpg"

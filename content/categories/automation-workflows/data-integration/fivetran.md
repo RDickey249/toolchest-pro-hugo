@@ -1,8 +1,9 @@
 ---
 title: "Fivetran"
 tagline: "Automated data integration"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Automation & Workflows"
+categories: ["Automation & Workflows"]
+subcategory: "Data Integration"
 tool_name: "Fivetran"
 deployment_status: "deployed"
 image: "/images/tools/fivetran-placeholder.jpg"

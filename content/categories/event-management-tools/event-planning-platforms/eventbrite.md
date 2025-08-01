@@ -2,6 +2,7 @@
 title: "Eventbrite - Event ticketing and promotion"
 tagline: "The world's largest event technology platform"
 category: "Event Management Tools"
+categories: ["Event Management Tools"]
 subcategory: "Event Planning Platforms"
 tool_name: "Eventbrite - Event ticketing and promotion"
 deployment_status: "deployed"

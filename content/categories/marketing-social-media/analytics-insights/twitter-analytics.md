@@ -2,7 +2,8 @@
 title: "Twitter Analytics - Tweet performance tracking"
 tagline: "Twitter Analytics is the native analytics platform for Twitter, providing detailed insights into tweet performance, audience engagement, and follower demographics..."
 category: "Marketing & Social Media"
-subcategory: "Analytics & Insights"
+categories: ["Marketing & Social Media"]
+subcategory: "Analytics Insights"
 tool_name: "Twitter Analytics"
 deployment_status: "deployed"
 image: "/images/tools/twitter-analytics-placeholder.jpg"

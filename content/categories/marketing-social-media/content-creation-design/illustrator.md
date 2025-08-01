@@ -2,7 +2,8 @@
 title: "Illustrator - Vector graphics"
 tagline: "Adobe Illustrator is the industry-standard vector graphics software for creating logos, illustrations, and scalable artwork with precision and mathematical accuracy..."
 category: "Marketing & Social Media"
-subcategory: "Content Creation & Design"
+categories: ["Marketing & Social Media"]
+subcategory: "Content Creation Design"
 tool_name: "Illustrator"
 deployment_status: "deployed"
 image: "/images/tools/illustrator-placeholder.jpg"

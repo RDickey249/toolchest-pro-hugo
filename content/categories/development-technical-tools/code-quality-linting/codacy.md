@@ -1,8 +1,9 @@
 ---
 title: "Codacy"
 tagline: "Automated code review tool with static analysis"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Quality Linting"
 tool_name: "Codacy"
 deployment_status: "deployed"
 image: "/images/tools/codacy-placeholder.jpg"

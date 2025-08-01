@@ -1,8 +1,9 @@
 ---
 title: "Statiq"
 tagline: ".NET-based static site generator with powerful content processing"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Static Site Generators"
 tool_name: "Statiq"
 deployment_status: "deployed"
 image: "/images/tools/statiq-placeholder.jpg"

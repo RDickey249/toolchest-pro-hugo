@@ -1,8 +1,9 @@
 ---
 title: "Character.AI - Roleplay and character chats"
 tagline: "AI-powered platform for creating and chatting with diverse AI characters and personalities"
-category: "🤖 AI Tools & Assistants"
-subcategory: "Conversational AI"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Character.AI - Roleplay and character chats"
 external_link: "https://character.ai/"
 deployment_status: "deployed"

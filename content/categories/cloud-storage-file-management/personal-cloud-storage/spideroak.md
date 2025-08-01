@@ -1,8 +1,9 @@
 ---
 title: "SpiderOak"
 tagline: "Zero-knowledge storage"
-category: "💾 Backup & Disaster Recovery"
-subcategory: "💾 Backup & Disaster Recovery"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "Personal Cloud Storage"
 tool_name: "SpiderOak"
 deployment_status: "deployed"
 image: "/images/tools/spideroak-placeholder.jpg"

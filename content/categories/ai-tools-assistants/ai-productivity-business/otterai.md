@@ -2,7 +2,8 @@
 title: "Otter.ai - Meeting transcription"
 tagline: "Otter.ai is an AI-powered meeting transcription and note-taking service that automatically captures, transcribes, and summarizes conversations in real-time..."
 category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Otter.ai"
 deployment_status: "deployed"
 image: "/images/tools/otterai-placeholder.jpg"

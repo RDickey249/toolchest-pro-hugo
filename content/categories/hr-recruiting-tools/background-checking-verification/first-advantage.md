@@ -1,8 +1,9 @@
 ---
 title: "First Advantage"
 tagline: "Background screening"
-category: "👥 HR & Recruiting Tools"
-subcategory: "Background Checks & Verification"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Background Checking Verification"
 tool_name: "First Advantage"
 deployment_status: "deployed"
 image: "/images/tools/first-advantage-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Gusto"
 tagline: "Small business HR platform"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Applicant Tracking Systems"
 tool_name: "Gusto"
 deployment_status: "deployed"
 image: "/images/tools/gusto-placeholder.jpg"

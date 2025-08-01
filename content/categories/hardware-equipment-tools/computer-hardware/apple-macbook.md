@@ -1,7 +1,8 @@
 ---
 title: "Apple MacBook"
 tagline: "Premium laptops that set the standard for design, performance, and creative professional workflows"
-category: "🖥️ Hardware & Equipment Tools"
+category: "Hardware & Equipment Tools"
+categories: ["Hardware & Equipment Tools"]
 subcategory: "Computer Hardware"
 tool_name: "Apple MacBook"
 external_link: "https://www.apple.com/mac/"

@@ -2,6 +2,7 @@
 title: "Rosetta Stone - Immersion method learning"
 tagline: "Rosetta Stone is an immersion-based language learning platform that teaches languages through visual and contextual association without translation, using the company's proprietary Dynamic Immersion method..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Rosetta Stone"
 deployment_status: "deployed"

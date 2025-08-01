@@ -1,8 +1,9 @@
 ---
 title: "Monster"
 tagline: "Job search website"
-category: "👥 HR & Recruiting Tools"
-subcategory: "👥 HR & Recruiting Tools"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Job Posting Sourcing"
 tool_name: "Monster"
 deployment_status: "deployed"
 image: "/images/tools/monster-placeholder.jpg"

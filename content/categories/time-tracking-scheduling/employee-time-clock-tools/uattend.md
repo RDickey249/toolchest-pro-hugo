@@ -1,8 +1,9 @@
 ---
 title: "uAttend"
 tagline: "Ready to get started? Visit [uAttend](https://www.uattend.com) to explore the platform and begin using this tool...."
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Employee Time Clock Tools"
 tool_name: "uAttend"
 deployment_status: "deployed"
 image: "/images/tools/uattend-placeholder.jpg"

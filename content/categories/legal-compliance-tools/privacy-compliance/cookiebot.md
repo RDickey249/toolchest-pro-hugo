@@ -1,8 +1,9 @@
 ---
 title: "Cookiebot"
 tagline: "Cookie consent management"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Privacy Compliance"
 tool_name: "Cookiebot"
 deployment_status: "deployed"
 image: "/images/tools/cookiebot-placeholder.jpg"

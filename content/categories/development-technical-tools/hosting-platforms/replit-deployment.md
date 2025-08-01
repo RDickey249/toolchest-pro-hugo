@@ -1,8 +1,9 @@
 ---
 title: "Replit Deployment"
 tagline: "Instant deployment from browser-based development environment"
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Hosting Platforms"
 tool_name: "Replit Deployment"
 deployment_status: "deployed"
 image: "/images/tools/replit-deployment-placeholder.jpg"

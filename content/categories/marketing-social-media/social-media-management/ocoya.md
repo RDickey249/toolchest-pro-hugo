@@ -1,8 +1,9 @@
 ---
 title: "Ocoya"
 tagline: "Ready to get started? Visit [Ocoya](https://www.ocoya.com) to explore the platform and begin using this tool...."
-category: "🤖 AI Tools & Assistants"
-subcategory: "🤖 AI Tools & Assistants"
+category: "Marketing & Social Media"
+categories: ["Marketing & Social Media"]
+subcategory: "Social Media Management"
 tool_name: "Ocoya"
 deployment_status: "deployed"
 image: "/images/tools/ocoya-placeholder.jpg"

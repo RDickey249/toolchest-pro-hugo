@@ -1,8 +1,9 @@
 ---
 title: "Speechify"
 tagline: "Turn any text into audio instantly. Visit [speechify.com](https://speechify.com) to start your free trial and experience the power of listening to eve..."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Generation Editing"
 tool_name: "Speechify"
 deployment_status: "deployed"
 image: "/images/tools/speechify-placeholder.jpg"

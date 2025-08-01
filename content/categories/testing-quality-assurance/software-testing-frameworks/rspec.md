@@ -1,8 +1,9 @@
 ---
 title: "RSpec"
 tagline: "Behavior-driven development framework for Ruby"
-category: "🧪 Testing & Quality Assurance"
-subcategory: "🧪 Testing & Quality Assurance"
+category: "Testing & Quality Assurance"
+categories: ["Testing & Quality Assurance"]
+subcategory: "Software Testing Frameworks"
 tool_name: "RSpec"
 deployment_status: "deployed"
 image: "/images/tools/rspec-placeholder.jpg"

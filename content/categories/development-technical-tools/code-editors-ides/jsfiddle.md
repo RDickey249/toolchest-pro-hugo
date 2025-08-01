@@ -1,8 +1,9 @@
 ---
 title: "JSFiddle"
 tagline: "Online JavaScript testing and experimentation playground"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Code Editors Ides"
 tool_name: "JSFiddle"
 deployment_status: "deployed"
 image: "/images/tools/jsfiddle-placeholder.jpg"

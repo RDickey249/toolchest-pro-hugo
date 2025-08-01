@@ -1,8 +1,9 @@
 ---
 title: "Professional Licenses"
 tagline: "Industry-specific licensing"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "Business Registration & Licensing"
+category: "Legal & Compliance Tools"
+categories: ["Legal & Compliance Tools"]
+subcategory: "Business Registration Licensing"
 tool_name: "Professional Licenses"
 deployment_status: "deployed"
 image: "/images/tools/professional-licenses-placeholder.jpg"

@@ -2,8 +2,9 @@
 title: "You.com"
 slug: "youcom"
 layout: "tool"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 seo_title: "You.com Review: AI-Powered Search Engine with Real-Time Results"
 description: "Experience the future of search with You.com's AI-powered engine. Get instant answers, real-time information, and source citations in a privacy-focused platform."
 featured_image: ""

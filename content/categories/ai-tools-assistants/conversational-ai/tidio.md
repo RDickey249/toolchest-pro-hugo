@@ -1,8 +1,9 @@
 ---
 title: "Tidio"
 tagline: "Ready to enhance customer communication with live chat and bots? Visit [Tidio](https://www.tidio.com) to combine human agents with AI automation for b..."
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Tidio"
 deployment_status: "deployed"
 image: "/images/tools/tidio-placeholder.jpg"

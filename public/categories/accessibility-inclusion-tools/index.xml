@@ -7,5 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/accessibility-inclusion-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>axe DevTools - Accessibility testing</title>
+      <link>https://toolchest.pro/categories/axe-devtools-accessibility-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/axe-devtools-accessibility-testing/</guid>
+      <description>axe DevTools is the industry&amp;rsquo;s leading automated accessibility testing toolkit, trusted by developers worldwide to build inclusive digital experiences.&#xA;Created by Deque Systems, axe DevTools integrates seamlessly into development workflows to catch accessibility issues early and ensure WCAG compliance.&#xA;What makes axe DevTools essential:&#xA;Zero false positives - Intelligent rules engine eliminates noise from testing Comprehensive coverage - Tests against WCAG 2.1 AA standards automatically Developer-friendly - Integrates with popular browsers and development tools Enterprise-ready - Scalable across large development teams and projects Key capabilities:</description>
+    </item>
+    <item>
+      <title>WAVE - Web accessibility evaluation</title>
+      <link>https://toolchest.pro/categories/wave-web-accessibility-evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/wave-web-accessibility-evaluation/</guid>
+      <description>WAVE (Web Accessibility Evaluation Tool) is a free suite of accessibility testing tools that helps developers and content creators make their web content more accessible to people with disabilities.&#xA;Developed by WebAIM at Utah State University, WAVE provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.&#xA;What makes WAVE essential for web accessibility:&#xA;Completely free - No registration, subscriptions, or limits on usage Visual feedback - See accessibility issues directly on your web page Educational approach - Learn about accessibility while testing No technical expertise required - User-friendly interface for everyone Testing capabilities:</description>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,9 @@
 ---
 title: "Dashlane"
 tagline: "Password manager with VPN"
-category: "🔒 Security & Privacy Tools"
-subcategory: "🔒 Security & Privacy Tools"
+category: "Security & Privacy Tools"
+categories: ["Security & Privacy Tools"]
+subcategory: "Password Management"
 tool_name: "Dashlane"
 deployment_status: "deployed"
 image: "/images/tools/dashlane-placeholder.jpg"

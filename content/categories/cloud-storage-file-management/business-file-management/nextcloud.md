@@ -1,8 +1,9 @@
 ---
 title: "Nextcloud"
 tagline: "Self-hosted cloud"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "Cloud Storage & File Management"
+categories: ["Cloud Storage & File Management"]
+subcategory: "Business File Management"
 tool_name: "Nextcloud"
 deployment_status: "deployed"
 image: "/images/tools/nextcloud-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Vyond"
 tagline: "Animated video maker"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Video Animation"
 tool_name: "Vyond"
 deployment_status: "deployed"
 image: "/images/tools/vyond-placeholder.jpg"

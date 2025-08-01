@@ -1,8 +1,9 @@
 ---
 title: "Kotlin"
 tagline: "Modern programming language with Java interoperability and concise syntax"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Kotlin"
 deployment_status: "deployed"
 image: "/images/tools/kotlin-placeholder.jpg"

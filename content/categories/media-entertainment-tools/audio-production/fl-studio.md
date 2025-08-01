@@ -1,8 +1,9 @@
 ---
 title: "FL Studio"
 tagline: "Lifetime-license DAW popular for hip-hop and electronic music"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Production"
 tool_name: "FL Studio"
 deployment_status: "deployed"
 image: "/images/tools/fl-studio-placeholder.jpg"

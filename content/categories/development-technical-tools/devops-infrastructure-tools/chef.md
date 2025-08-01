@@ -1,8 +1,9 @@
 ---
 title: "Chef"
 tagline: "Infrastructure automation tool using Ruby-based DSL for configuration"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Devops Infrastructure Tools"
 tool_name: "Chef"
 deployment_status: "deployed"
 image: "/images/tools/chef-placeholder.jpg"

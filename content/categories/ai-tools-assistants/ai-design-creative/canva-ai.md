@@ -2,7 +2,8 @@
 title: "Canva AI - Design with AI assistance"
 tagline: "Canva AI brings artificial intelligence to the world's most popular design platform, offering intelligent design suggestions, automated layouts, and AI-powered creative tools..."
 category: "AI Tools & Assistants"
-subcategory: "AI Design & Creative"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Canva AI"
 deployment_status: "deployed"
 image: "/images/tools/canva-ai-placeholder.jpg"

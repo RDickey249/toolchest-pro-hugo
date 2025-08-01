@@ -1,13 +1,13 @@
 ---
 title: "Systeme.io"
 tagline: "All-in-one business platform"
-category: "📱 Marketing & Social Media"
+category: "Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "Systeme.io"
 deployment_status: "deployed"
 image: "/images/tools/systeme-io-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
-categories: ["Business Marketing Tools"]
+categories: ["Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true

@@ -2,7 +2,8 @@
 title: "Zed - Collaborative coding with AI"
 tagline: "Zed is a high-performance code editor built for collaboration, featuring real-time editing, AI assistance, and lightning-fast performance..."
 category: "AI Tools & Assistants"
-subcategory: "AI Code & Development"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Code Development"
 tool_name: "Zed"
 deployment_status: "deployed"
 image: "/images/tools/zed-placeholder.jpg"

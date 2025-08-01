@@ -1,8 +1,9 @@
 ---
 title: "Alitu"
 tagline: "Ready to get started? Visit [Alitu](https://alitu.com) to explore the platform and begin using this tool...."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Audio Generation Editing"
 tool_name: "Alitu"
 deployment_status: "deployed"
 image: "/images/tools/alitu-placeholder.jpg"

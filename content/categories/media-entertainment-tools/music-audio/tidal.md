@@ -1,8 +1,9 @@
 ---
 title: "Tidal"
 tagline: "High-fidelity music streaming with artist ownership focus"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "Tidal"
 deployment_status: "deployed"
 image: "/images/tools/tidal-placeholder.jpg"

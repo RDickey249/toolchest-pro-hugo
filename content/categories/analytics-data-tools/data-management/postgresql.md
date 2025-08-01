@@ -1,8 +1,8 @@
 ---
 title: "PostgreSQL"
 tagline: "Open-source database"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Analytics & Data Tools"
+subcategory: "Data Management"
 tool_name: "PostgreSQL"
 deployment_status: "deployed"
 image: "/images/tools/postgresql-placeholder.jpg"

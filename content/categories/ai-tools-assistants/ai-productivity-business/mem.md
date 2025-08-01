@@ -1,8 +1,9 @@
 ---
 title: "Mem"
 tagline: "Mem is the AI-powered knowledge management platform that automatically organizes, connects, and surfaces your notes and ideas without manual filing sy..."
-category: "📋 Productivity & Task Management"
-subcategory: "📋 Productivity & Task Management"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Mem"
 deployment_status: "deployed"
 image: "/images/tools/mem-placeholder.jpg"

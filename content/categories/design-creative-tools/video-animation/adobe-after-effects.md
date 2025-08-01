@@ -1,8 +1,9 @@
 ---
 title: "Adobe After Effects"
 tagline: "Motion graphics"
-category: "📱 Marketing & Social Media"
-subcategory: "📱 Marketing & Social Media"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Video Animation"
 tool_name: "Adobe After Effects"
 deployment_status: "deployed"
 image: "/images/tools/adobe-after-effects-placeholder.jpg"

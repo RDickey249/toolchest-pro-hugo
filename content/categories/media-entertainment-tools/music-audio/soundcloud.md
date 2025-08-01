@@ -1,8 +1,9 @@
 ---
 title: "SoundCloud"
 tagline: "Platform for independent artists and user-generated audio content"
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "Media & Entertainment Tools"
+categories: ["Media & Entertainment Tools"]
+subcategory: "Music Audio"
 tool_name: "SoundCloud"
 deployment_status: "deployed"
 image: "/images/tools/soundcloud-placeholder.jpg"

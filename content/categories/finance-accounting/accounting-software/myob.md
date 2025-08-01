@@ -1,8 +1,9 @@
 ---
 title: "MYOB"
 tagline: "Australian/NZ accounting"
-category: "💰 Finance & Accounting"
-subcategory: "💰 Finance & Accounting"
+category: "Finance & Accounting"
+categories: ["Finance & Accounting"]
+subcategory: "Accounting Software"
 tool_name: "MYOB"
 deployment_status: "deployed"
 image: "/images/tools/myob-placeholder.jpg"

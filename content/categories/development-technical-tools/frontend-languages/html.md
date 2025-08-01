@@ -1,8 +1,9 @@
 ---
 title: "HTML"
 tagline: "Core structure language for web pages"
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Frontend Languages"
 tool_name: "HTML"
 deployment_status: "deployed"
 image: "/images/tools/html-placeholder.jpg"

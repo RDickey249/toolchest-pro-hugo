@@ -1,8 +1,9 @@
 ---
 title: "Oracle Database"
 tagline: "Enterprise-grade database for mission-critical applications"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Database & Data Management"
+categories: ["Database & Data Management"]
+subcategory: "Relational Databases"
 tool_name: "Oracle Database"
 deployment_status: "deployed"
 image: "/images/tools/oracle-database-placeholder.jpg"

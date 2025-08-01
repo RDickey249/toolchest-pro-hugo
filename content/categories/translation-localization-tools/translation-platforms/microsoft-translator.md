@@ -2,6 +2,7 @@
 title: "Microsoft Translator - Translation service"
 tagline: "Microsoft Translator is a cloud-based machine translation service that provides real-time text and speech translation across more than 100 languages with integration capabilities for applications and websites..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Translation Platforms"
 tool_name: "Microsoft Translator"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Splunk"
 tagline: "Data analytics platform for logs, metrics, and security insights"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Development & Technical Tools"
+subcategory: "Monitoring Observability"
 tool_name: "Splunk"
 deployment_status: "deployed"
 image: "/images/tools/splunk-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Rive"
 tagline: "Interactive animations"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Video Animation"
 tool_name: "Rive"
 deployment_status: "deployed"
 image: "/images/tools/rive-placeholder.jpg"

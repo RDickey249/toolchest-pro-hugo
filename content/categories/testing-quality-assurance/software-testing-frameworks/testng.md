@@ -1,8 +1,9 @@
 ---
 title: "TestNG"
 tagline: "Powerful Java testing framework with advanced features"
-category: "🧪 Testing & Quality Assurance"
-subcategory: "🧪 Testing & Quality Assurance"
+category: "Testing & Quality Assurance"
+categories: ["Testing & Quality Assurance"]
+subcategory: "Software Testing Frameworks"
 tool_name: "TestNG"
 deployment_status: "deployed"
 image: "/images/tools/testng-placeholder.jpg"

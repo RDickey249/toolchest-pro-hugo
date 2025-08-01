@@ -2,6 +2,7 @@
 title: "Expensify - Expense report automation"
 tagline: "The world's leading expense management platform"
 category: "Travel & Expense Management"
+categories: ["Travel & Expense Management"]
 subcategory: "Expense Management"
 tool_name: "Expensify - Expense report automation"
 deployment_status: "deployed"

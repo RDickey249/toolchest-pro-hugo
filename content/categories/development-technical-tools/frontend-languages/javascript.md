@@ -1,8 +1,9 @@
 ---
 title: "JavaScript"
 tagline: "Dynamic scripting for web interactivity"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Frontend Languages"
 tool_name: "JavaScript"
 deployment_status: "deployed"
 image: "/images/tools/javascript-placeholder.jpg"

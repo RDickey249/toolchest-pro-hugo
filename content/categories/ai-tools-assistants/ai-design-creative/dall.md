@@ -2,7 +2,8 @@
 title: "DALL-E (OpenAI) - AI image creation"
 tagline: "DALL-E is OpenAI's AI image generation model that creates original, realistic images and art from natural language descriptions..."
 category: "AI Tools & Assistants"
-subcategory: "AI Design & Creative"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "DALL-E (OpenAI)"
 deployment_status: "deployed"
 image: "/images/tools/dall-placeholder.jpg"

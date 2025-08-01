@@ -1,8 +1,9 @@
 ---
 title: "Maze"
 tagline: "Rapid testing platform for prototypes and ideas"
-category: "📊 Research & Survey Tools"
-subcategory: "📊 Research & Survey Tools"
+category: "Research & Survey Tools"
+categories: ["Research & Survey Tools"]
+subcategory: "User Research Testing"
 tool_name: "Maze"
 deployment_status: "deployed"
 image: "/images/tools/maze-placeholder.jpg"

@@ -1,8 +1,9 @@
 ---
 title: "Calendly"
 tagline: "Automated scheduling"
-category: "☁️ Cloud Storage & File Management"
-subcategory: "☁️ Cloud Storage & File Management"
+category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
+subcategory: "Sales Outreach Tools"
 tool_name: "Calendly"
 deployment_status: "deployed"
 image: "/images/tools/calendly-placeholder.jpg"

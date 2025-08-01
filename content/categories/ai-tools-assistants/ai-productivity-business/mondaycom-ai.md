@@ -2,7 +2,8 @@
 title: "Monday.com AI - Project management AI"
 tagline: "Monday.com AI integrates artificial intelligence into project management workflows, offering predictive insights, automated task management, and intelligent resource allocation..."
 category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Monday.com AI"
 deployment_status: "deployed"
 image: "/images/tools/mondaycom-ai-placeholder.jpg"

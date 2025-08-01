@@ -1,8 +1,9 @@
 ---
 title: "CircleCI"
 tagline: "Cloud-based continuous integration and deployment platform"
-category: "⚖️ Legal & Compliance Tools"
-subcategory: "⚖️ Legal & Compliance Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Cicd Automation"
 tool_name: "CircleCI"
 deployment_status: "deployed"
 image: "/images/tools/circleci-placeholder.jpg"

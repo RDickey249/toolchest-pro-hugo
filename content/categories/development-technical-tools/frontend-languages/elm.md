@@ -1,7 +1,8 @@
 ---
 title: "Elm"
 tagline: "Functional programming language for reliable web applications"
-category: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
 subcategory: "Frontend Languages"
 tool_name: "Elm"
 deployment_status: "deployed"

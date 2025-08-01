@@ -1,7 +1,8 @@
 ---
 title: "Standing Desks"
 tagline: "Height-adjustable workstations that promote healthier work habits and increased productivity"
-category: "🖥️ Hardware & Equipment Tools"
+category: "Hardware & Equipment Tools"
+categories: ["Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Standing Desks"
 external_link: "https://www.upliftdesk.com/"

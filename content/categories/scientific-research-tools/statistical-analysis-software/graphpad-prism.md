@@ -2,6 +2,7 @@
 title: "GraphPad Prism - Biostatistics software"
 tagline: "GraphPad Prism is specialized statistical software designed specifically for biologists and researchers in life sciences..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "GraphPad Prism"
 deployment_status: "deployed"

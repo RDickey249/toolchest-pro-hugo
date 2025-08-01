@@ -1,8 +1,9 @@
 ---
 title: "Twilio API"
 tagline: "Cloud communications platform for voice, messaging, and video"
-category: "🔄 Automation & Workflows"
-subcategory: "🔄 Automation & Workflows"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Apis Sdks"
 tool_name: "Twilio API"
 deployment_status: "deployed"
 image: "/images/tools/twilio-api-placeholder.jpg"

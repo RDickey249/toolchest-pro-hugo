@@ -2,7 +2,8 @@
 title: "Zapier AI - Automation with intelligence"
 tagline: "Zapier AI combines the power of workflow automation with artificial intelligence to create smarter, more adaptive business processes that learn and improve over time..."
 category: "AI Tools & Assistants"
-subcategory: "AI Productivity & Business"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Zapier AI"
 deployment_status: "deployed"
 image: "/images/tools/zapier-ai-placeholder.jpg"

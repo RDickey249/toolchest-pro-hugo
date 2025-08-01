@@ -2,6 +2,7 @@
 title: "Authorea - Collaborative writing platform"
 tagline: "Authorea is a collaborative writing platform designed for academic and technical writing that combines the ease of modern word processing with the power of web-based collaboration and scientific publishing features..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Research Collaboration"
 tool_name: "Authorea"
 deployment_status: "deployed"

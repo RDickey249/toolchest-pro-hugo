@@ -1,8 +1,9 @@
 ---
 title: "Scala"
 tagline: "Functional + object-oriented language on JVM"
-category: "📊 Analytics & Data Tools"
-subcategory: "📊 Analytics & Data Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Scala"
 deployment_status: "deployed"
 image: "/images/tools/scala-placeholder.jpg"

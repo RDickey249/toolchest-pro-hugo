@@ -1,8 +1,9 @@
 ---
 title: "InfluxDB"
 tagline: "Purpose-built time-series database for metrics and events"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "Database & Data Management"
+categories: ["Database & Data Management"]
+subcategory: "Nosql Databases"
 tool_name: "InfluxDB"
 deployment_status: "deployed"
 image: "/images/tools/influxdb-placeholder.jpg"

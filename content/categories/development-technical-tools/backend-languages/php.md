@@ -1,8 +1,9 @@
 ---
 title: "PHP"
 tagline: "Server-side scripting language designed for web development"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "PHP"
 deployment_status: "deployed"
 image: "/images/tools/php-placeholder.jpg"

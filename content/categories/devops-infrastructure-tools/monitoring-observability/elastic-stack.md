@@ -1,8 +1,9 @@
 ---
 title: "Elastic Stack"
 tagline: "Search, logging, and analytics platform for observability"
-category: "🔧 DevOps & Infrastructure Tools"
-subcategory: "🔧 DevOps & Infrastructure Tools"
+category: "DevOps & Infrastructure Tools"
+categories: ["DevOps & Infrastructure Tools"]
+subcategory: "Monitoring Observability"
 tool_name: "Elastic Stack"
 deployment_status: "deployed"
 image: "/images/tools/elastic-stack-placeholder.jpg"

@@ -1,8 +1,8 @@
 ---
 title: "Factorial"
 tagline: "All-in-one HR platform for growing businesses"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+subcategory: "Attendance Absence Management"
 tool_name: "Factorial"
 deployment_status: "deployed"
 image: "/images/tools/factorial-placeholder.jpg"

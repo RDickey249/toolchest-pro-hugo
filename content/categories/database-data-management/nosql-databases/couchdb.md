@@ -1,8 +1,9 @@
 ---
 title: "CouchDB"
 tagline: "Document database with HTTP REST API and offline-first design"
-category: "🗄️ Database & Data Management"
-subcategory: "🗄️ Database & Data Management"
+category: "Database & Data Management"
+categories: ["Database & Data Management"]
+subcategory: "Nosql Databases"
 tool_name: "CouchDB"
 deployment_status: "deployed"
 image: "/images/tools/couchdb-placeholder.jpg"

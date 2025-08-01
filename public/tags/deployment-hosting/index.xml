@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/tags/deployment-hosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Heroku</title>
-      <link>https://toolchest.pro/categories/heroku/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/heroku/</guid>
-      <description>Heroku is a cloud platform that enables developers to deploy, manage, and scale applications with Git-based workflows and zero server administration.&#xA;Key Features Git-based deployment - Deploy applications with simple git push Add-on ecosystem - Over 200 add-ons for databases, monitoring, caching Auto-scaling - Automatic application and database scaling Multi-language support - Ruby, Node.js, Python, Java, PHP, Go, Scala Review apps - Temporary apps for each pull request Pipeline management - Staging and production environments Dyno management - Containerized application processes CLI tools - Comprehensive command-line interface Use Cases Rapid prototyping and MVP development Web application deployment API and microservices hosting Team collaboration projects CI/CD pipeline integration Get Started with Heroku Deploy applications instantly with git push workflows.</description>
-    </item>
-    <item>
       <title>Vercel</title>
       <link>https://toolchest.pro/categories/vercel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -2,6 +2,7 @@
 title: "Codewars - Coding kata"
 tagline: "Codewars is a coding kata platform that improves programming skills through bite-sized challenges called kata, featuring a martial arts-inspired ranking system and community-driven problem creation..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Codewars"
 deployment_status: "deployed"

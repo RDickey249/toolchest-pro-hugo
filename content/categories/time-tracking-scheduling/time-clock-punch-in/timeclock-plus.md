@@ -1,7 +1,8 @@
 ---
 title: "TimeClock Plus"
 tagline: "Ready to get started? Visit [TimeClock Plus](https://www.timeclockplus.com) to explore the platform and begin using this tool...."
-category: "⏰ Time Tracking & Scheduling"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Clock Punch In"
 tool_name: "TimeClock Plus"
 deployment_status: "deployed"

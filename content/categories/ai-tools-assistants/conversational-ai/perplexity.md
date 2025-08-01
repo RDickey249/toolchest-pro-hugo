@@ -1,8 +1,9 @@
 ---
 title: "Perplexity"
 tagline: "Ready to get started? Visit [Perplexity](https://www.perplexity.ai) to explore the platform and begin using this tool...."
-category: "🎵 Media & Entertainment Tools"
-subcategory: "🎵 Media & Entertainment Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Conversational Ai"
 tool_name: "Perplexity"
 deployment_status: "deployed"
 image: "/images/tools/perplexity-placeholder.jpg"

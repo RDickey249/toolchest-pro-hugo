@@ -1,8 +1,9 @@
 ---
 title: "Gravit Designer"
 tagline: "Browser-based design"
-category: "🎨 Design & Creative Tools"
-subcategory: "🎨 Design & Creative Tools"
+category: "Design & Creative Tools"
+categories: ["Design & Creative Tools"]
+subcategory: "Graphic Design"
 tool_name: "Gravit Designer"
 deployment_status: "deployed"
 image: "/images/tools/gravit-designer-placeholder.jpg"

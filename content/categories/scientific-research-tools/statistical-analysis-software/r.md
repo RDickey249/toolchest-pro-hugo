@@ -2,6 +2,7 @@
 title: "R - Statistical computing language"
 tagline: "R is a programming language and free software environment for statistical computing and graphics..."
 category: "Scientific & Research Tools"
+categories: ["Scientific & Research Tools"]
 subcategory: "Statistical Analysis Software"
 tool_name: "R"
 deployment_status: "deployed"

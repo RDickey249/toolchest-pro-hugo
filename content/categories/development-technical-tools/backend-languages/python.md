@@ -1,8 +1,9 @@
 ---
 title: "Python"
 tagline: "Versatile programming language for web development, data science, and automation"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Development & Technical Tools"
+categories: ["Development & Technical Tools"]
+subcategory: "Backend Languages"
 tool_name: "Python"
 deployment_status: "deployed"
 image: "/images/tools/python-placeholder.jpg"

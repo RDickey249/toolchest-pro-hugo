@@ -2,6 +2,7 @@
 title: "Monday.com CRM - Project management meets CRM"
 tagline: "Monday.com CRM combines customer relationship management with Monday.com's visual project management approach, creating a unified platform for managing sales and customer projects..."
 category: "CRM & Sales Tools"
+categories: ["CRM & Sales Tools"]
 subcategory: "Customer Relationship Management"
 tool_name: "Monday.com CRM"
 deployment_status: "deployed"

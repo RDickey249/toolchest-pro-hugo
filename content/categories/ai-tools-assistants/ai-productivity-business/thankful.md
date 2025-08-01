@@ -1,8 +1,9 @@
 ---
 title: "Thankful"
 tagline: "Ready to get started? Visit [Thankful](https://www.thankful.ai) to explore the platform and begin using this tool...."
-category: "🎧 Customer Support Tools"
-subcategory: "🎧 Customer Support Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Productivity Business"
 tool_name: "Thankful"
 deployment_status: "deployed"
 image: "/images/tools/thankful-placeholder.jpg"

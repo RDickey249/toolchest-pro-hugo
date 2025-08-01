@@ -1,8 +1,8 @@
 ---
 title: "Monday.com"
 tagline: "Visual work management platform"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Productivity & Task Management"
+subcategory: "Project Management Platforms"
 tool_name: "Monday.com"
 deployment_status: "deployed"
 image: "/images/tools/monday-placeholder.jpg"

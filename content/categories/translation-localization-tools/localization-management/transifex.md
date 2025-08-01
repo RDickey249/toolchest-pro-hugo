@@ -2,6 +2,7 @@
 title: "Transifex - Localization platform"
 tagline: "Transifex is a localization platform that streamlines the translation process for software and digital content through collaborative workflows, automated integrations, and comprehensive project management tools..."
 category: "Translation & Localization Tools"
+categories: ["Translation & Localization Tools"]
 subcategory: "Localization Management"
 tool_name: "Transifex"
 deployment_status: "deployed"

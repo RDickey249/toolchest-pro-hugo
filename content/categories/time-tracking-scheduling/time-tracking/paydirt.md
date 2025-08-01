@@ -1,8 +1,9 @@
 ---
 title: "Paydirt"
 tagline: "Simple time tracking and invoicing for freelancers"
-category: "💻 Development & Technical Tools"
-subcategory: "💻 Development & Technical Tools"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking"
 tool_name: "Paydirt"
 deployment_status: "deployed"
 image: "/images/tools/paydirt-placeholder.jpg"

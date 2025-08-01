@@ -1,8 +1,9 @@
 ---
 title: "Adobe Firefly"
 tagline: "Ready to get started? Visit [Adobe Firefly](https://www.adobe.com/products/firefly.html) to explore the platform and begin using this tool...."
-category: "🎪 Event Management Tools"
-subcategory: "🎪 Event Management Tools"
+category: "AI Tools & Assistants"
+categories: ["AI Tools & Assistants"]
+subcategory: "Ai Design Creative"
 tool_name: "Adobe Firefly"
 deployment_status: "deployed"
 image: "/images/tools/adobe-firefly-placeholder.jpg"

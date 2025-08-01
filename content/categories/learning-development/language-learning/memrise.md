@@ -2,6 +2,7 @@
 title: "Memrise - Memory-based learning"
 tagline: "Memrise is a memory-based language learning platform that uses spaced repetition, mnemonic techniques, and real-world video content to help users memorize vocabulary and phrases effectively..."
 category: "Learning & Development"
+categories: ["Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Memrise"
 deployment_status: "deployed"

@@ -7,5 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/api-integration-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postman - API development platform</title>
+      <link>https://toolchest.pro/categories/postman-api-development-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/postman-api-development-platform/</guid>
+      <description>Postman is the world&amp;rsquo;s leading API development platform, empowering over 25 million developers to build, test, and collaborate on APIs more efficiently.&#xA;From simple REST calls to complex API workflows, Postman provides everything needed to accelerate API development across the entire lifecycle.&#xA;What makes Postman indispensable:&#xA;Complete API lifecycle - Design, test, document, and monitor APIs in one platform Intuitive interface - User-friendly GUI eliminates the need for command-line tools Team collaboration - Share collections, environments, and documentation seamlessly Powerful automation - Run comprehensive test suites and integrate with CI/CD pipelines Core capabilities:</description>
+    </item>
   </channel>
 </rss>
