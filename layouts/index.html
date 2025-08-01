@@ -12,17 +12,36 @@
 <section class="featured-tools">
     <h2>Featured Tools</h2>
     <div class="grid grid-4">
-        {{ range first 12 (where .Site.RegularPages "Params.affiliate" true) }}
-        <div class="card tool-card">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <p class="tool-tagline">{{ .Params.tagline }}</p>
-            <div class="tool-meta">
-                <span class="category-tag">{{ .Params.category }}</span>
-                {{ if .Params.subcategory }}
-                <span class="subcategory-tag">{{ .Params.subcategory }}</span>
-                {{ end }}
+        {{ $affiliateTools := where .Site.RegularPages "Params.affiliate" true }}
+        {{ if $affiliateTools }}
+            {{ range first 12 $affiliateTools }}
+            <div class="card tool-card">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p class="tool-tagline">{{ .Params.tagline }}</p>
+                <div class="tool-meta">
+                    <span class="category-tag">{{ .Params.category }}</span>
+                    {{ if .Params.subcategory }}
+                    <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+                    {{ end }}
+                </div>
             </div>
-        </div>
+            {{ end }}
+        {{ else }}
+            <!-- Fallback: Show some recent tools if affiliate filter fails -->
+            {{ range first 12 .Site.RegularPages }}
+            {{ if .Params.affiliate }}
+            <div class="card tool-card">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p class="tool-tagline">{{ .Params.tagline }}</p>
+                <div class="tool-meta">
+                    <span class="category-tag">{{ .Params.category }}</span>
+                    {{ if .Params.subcategory }}
+                    <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+            {{ end }}
         {{ end }}
     </div>
 </section>
