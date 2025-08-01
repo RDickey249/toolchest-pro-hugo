@@ -11,21 +11,28 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
+        {{ $sortedCategories := slice }}
         {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
         {{ $displayName := index $.Site.Data.categories $categoryName }}
         {{ if not $displayName }}{{ $displayName = $categoryName }}{{ end }}
+        {{ $weight := index $.Site.Data.category_weights $categoryName }}
+        {{ if not $weight }}{{ $weight = 0 }}{{ end }}
+        {{ $sortedCategories = $sortedCategories | append (dict "name" $categoryName "display" $displayName "taxonomy" $taxonomy "weight" $weight) }}
+        {{ end }}
+        {{ $sortedCategories = sort $sortedCategories "weight" "desc" }}
+        {{ range $sortedCategories }}
         <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ "/categories/" | relURL }}{{ $categoryName }}/">{{ $displayName }}</a></h2>
-            <p class="category-description">{{ $displayName }} tools and platforms</p>
-            <p class="tool-count">{{ len $taxonomy }} tools</p>
+            <h2><a href="{{ "/categories/" | relURL }}{{ .name }}/">{{ .display }}</a></h2>
+            <p class="category-description">{{ .display }} tools and platforms</p>
+            <p class="tool-count">{{ len .taxonomy }} tools</p>
             
-            {{ if ge (len $taxonomy) 3 }}
+            {{ if ge (len .taxonomy) 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
-                {{ range first 3 $taxonomy }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $taxonomy) 2)) }}, {{ end }}
+                {{ range first 3 .taxonomy }}
+                {{ .Title }}{{ if not (eq . (index (first 3 .taxonomy) 2)) }}, {{ end }}
                 {{ end }}
-                {{ if gt (len $taxonomy) 3 }}...{{ end }}
+                {{ if gt (len .taxonomy) 3 }}...{{ end }}
             </div>
             {{ end }}
             <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
