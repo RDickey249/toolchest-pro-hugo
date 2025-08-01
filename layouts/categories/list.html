@@ -9,11 +9,11 @@
     <p class="page-description">Browse tools by category to find exactly what you need.</p>
     
     <div class="grid grid-3">
-        {{ range .Site.Taxonomies.categories }}
+        {{ range site.Taxonomies.categories }}
         <div class="card category-card">
-            <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h2>
+            <h2><a href="/categories/{{ .Page.Title | urlize }}/">{{ .Page.Title }}</a></h2>
             <p class="category-description">{{ .Page.Title }} tools and platforms</p>
-            <p class="tool-count">{{ len .Pages }} tools</p>
+            <p class="tool-count">{{ .Count }} tools</p>
         </div>
         {{ end }}
     </div>
@@ -28,10 +28,10 @@
     <div class="grid grid-3">
         {{ range .Pages }}
         <div class="card tool-card">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <p class="tool-tagline">{{ .Params.tagline }}</p>
-            {{ if .Params.subcategory }}
-            <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+            {{ with .Params.subcategory }}
+            <span class="subcategory-tag">{{ . }}</span>
             {{ end }}
         </div>
         {{ end }}

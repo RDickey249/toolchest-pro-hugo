@@ -12,36 +12,22 @@
 <section class="featured-tools">
     <h2>Featured Tools</h2>
     <div class="grid grid-4">
-        {{ $affiliateTools := where .Site.RegularPages "Params.affiliate" true }}
-        {{ if $affiliateTools }}
-            {{ range first 12 $affiliateTools }}
-            <div class="card tool-card">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                <p class="tool-tagline">{{ .Params.tagline }}</p>
-                <div class="tool-meta">
-                    <span class="category-tag">{{ .Params.category }}</span>
-                    {{ if .Params.subcategory }}
-                    <span class="subcategory-tag">{{ .Params.subcategory }}</span>
-                    {{ end }}
-                </div>
+        <!-- Use affiliate tools data file -->
+        {{ range first 12 site.Data.affiliate_tools }}
+        {{ $toolName := .name }}
+        {{ $toolPage := where site.RegularPages ".Title" $toolName | first 1 }}
+        {{ with $toolPage }}
+        <div class="card tool-card">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <p class="tool-tagline">{{ .Params.tagline }}</p>
+            <div class="tool-meta">
+                <span class="category-tag">{{ .Params.category }}</span>
+                {{ with .Params.subcategory }}
+                <span class="subcategory-tag">{{ . }}</span>
+                {{ end }}
             </div>
-            {{ end }}
-        {{ else }}
-            <!-- Fallback: Show some recent tools if affiliate filter fails -->
-            {{ range first 12 .Site.RegularPages }}
-            {{ if .Params.affiliate }}
-            <div class="card tool-card">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                <p class="tool-tagline">{{ .Params.tagline }}</p>
-                <div class="tool-meta">
-                    <span class="category-tag">{{ .Params.category }}</span>
-                    {{ if .Params.subcategory }}
-                    <span class="subcategory-tag">{{ .Params.subcategory }}</span>
-                    {{ end }}
-                </div>
-            </div>
-            {{ end }}
-            {{ end }}
+        </div>
+        {{ end }}
         {{ end }}
     </div>
 </section>
@@ -52,10 +38,10 @@
         <a href="/categories/" class="view-all-link">View All Categories →</a>
     </div>
     <div class="grid grid-3">
-        {{ range first 6 .Site.Taxonomies.categories }}
+        {{ range first 6 site.Taxonomies.categories }}
         <div class="card category-card">
-            <h3><a href="{{ "/categories/" | relURL }}{{ .Page.Title | urlize }}/">{{ .Page.Title }}</a></h3>
-            <p class="tool-count">{{ len .Pages }} tools</p>
+            <h3><a href="/categories/{{ .Page.Title | urlize }}/">{{ .Page.Title }}</a></h3>
+            <p class="tool-count">{{ .Count }} tools</p>
         </div>
         {{ end }}
     </div>
