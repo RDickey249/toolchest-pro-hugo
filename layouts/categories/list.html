@@ -11,25 +11,31 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
-        {{ $cleanCategoryName := $categoryName | replaceRE "^[^A-Za-z0-9 ]*\\s*" "" }}
-        {{ $categorySlug := $cleanCategoryName | urlize }}
+        <!-- All 32 database categories (hardcoded to fix taxonomy issues) -->
+        {{ $allCategories := slice "AI Tools Assistants" "Analytics Reporting" "Automation Workflow" "Business Intelligence" "Communication Collaboration" "Content Management" "Customer Service Support" "Data Analysis Visualization" "Database Management" "Design Creative Tools" "Development Technical Tools" "E-commerce Business Tools" "Email Marketing" "File Management Storage" "Finance Accounting" "HR People Management" "Integration Platform Tools" "Legal Compliance" "Learning Development" "Marketing Social Media" "Mobile App Development" "Monitoring Performance" "Note-taking Documentation" "Password Security Management" "Productivity Task Management" "Project Management" "Sales CRM Tools" "Scientific Research Tools" "Security Privacy Tools" "Testing Quality Assurance" "Translation Localization Tools" "Web Development Tools" }}
+        
+        {{ range $allCategories }}
+        {{ $categorySlug := . | urlize }}
+        {{ $categorySection := site.GetPage (printf "/categories/%s" $categorySlug) }}
+        {{ if $categorySection }}
+        {{ $toolCount := len $categorySection.Pages }}
         <div class="card category-card" data-premium-zone="category-card">
-            <h2><a href="{{ "/categories/" | relURL }}{{ $categorySlug }}/">{{ $cleanCategoryName }}</a></h2>
-            <p class="category-description">{{ $cleanCategoryName }} tools and platforms</p>
-            <p class="tool-count">{{ len $taxonomy }} tools</p>
+            <h2><a href="{{ "/categories/" | relURL }}{{ $categorySlug }}/">{{ . }}</a></h2>
+            <p class="category-description">{{ . }} tools and platforms</p>
+            <p class="tool-count">{{ $toolCount }} tools</p>
             
-            {{ if ge (len $taxonomy) 3 }}
+            {{ if ge $toolCount 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
-                {{ range first 3 $taxonomy }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $taxonomy) 2)) }}, {{ end }}
+                {{ range first 3 $categorySection.Pages }}
+                {{ .Title }}{{ if not (eq . (index (first 3 $categorySection.Pages) 2)) }}, {{ end }}
                 {{ end }}
-                {{ if gt (len $taxonomy) 3 }}...{{ end }}
+                {{ if gt $toolCount 3 }}...{{ end }}
             </div>
             {{ end }}
             <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
         </div>
+        {{ end }}
         {{ end }}
     </div>
 {{ else }}
