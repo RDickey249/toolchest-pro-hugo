@@ -3,7 +3,7 @@ title: "Final Cut Pro"
 tagline: "Mac video editing"
 category: "Design & Creative Tools"
 categories: ["Design & Creative Tools"]
-subcategory: "Video Animation"
+subcategory: "Video & Animation"
 tool_name: "Final Cut Pro"
 deployment_status: "deployed"
 image: "/images/tools/final-cut-pro-placeholder.jpg"

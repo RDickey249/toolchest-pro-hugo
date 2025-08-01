@@ -2,7 +2,7 @@
 title: "GitLab"
 tagline: "DevOps platform with Git repository management"
 category: "Development & Technical Tools"
-subcategory: "Version Control Collaboration"
+subcategory: "Version Control & Collaboration"
 tool_name: "GitLab"
 deployment_status: "deployed"
 image: "/images/tools/gitlab-placeholder.jpg"

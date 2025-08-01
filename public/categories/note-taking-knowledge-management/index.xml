@@ -29,11 +29,11 @@
       <description>BookStack is a self-hosted wiki platform that provides intuitive knowledge management for organizations requiring complete control over their documentation.&#xA;Key Features Self-hosted solution - Complete data sovereignty and control Hierarchical organization - Books, chapters, and pages structure Collaborative editing - Real-time multi-user editing Role-based permissions - Granular access control Search functionality - Powerful full-text search capabilities Audit logging - Track all changes and user activity API access - Integrate with external systems Use Cases Internal company documentation Technical knowledge bases Project documentation Team collaboration wikis Private documentation systems Get Started with BookStack Take control of your documentation with self-hosted wiki.</description>
     </item>
     <item>
-      <title>Confluence</title>
-      <link>https://toolchest.pro/categories/confluence/</link>
+      <title>Craft</title>
+      <link>https://toolchest.pro/categories/craft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/confluence/</guid>
-      <description>Confluence is Atlassian&amp;rsquo;s enterprise wiki platform that enables organizations to create, organize, and maintain collaborative documentation and knowledge sharing at scale.&#xA;Key Features Page hierarchies - Organize content in structured spaces and pages Collaborative editing - Real-time editing with comments and mentions Template system - Blueprint templates for consistent documentation Atlassian integration - Native connection with Jira, Bitbucket, and other tools Space permissions - Granular access control for teams and projects Advanced search - Powerful search across all content and attachments Analytics and insights - Track content usage and engagement Use Cases Enterprise knowledge management Project documentation and collaboration Team wikis and company policies Product documentation and requirements Meeting notes and decision tracking Get Started with Confluence Build collaborative knowledge bases for your organization.</description>
+      <guid>https://toolchest.pro/categories/craft/</guid>
+      <description>Craft is the beautifully designed writing and note-taking app that combines the flexibility of blocks with the elegance of native design, creating documents that are as pleasant to write as they are to read.&#xA;Built with meticulous attention to detail, Craft transforms document creation into a delightful experience while providing powerful features for both personal writing and team collaboration.&#xA;What makes Craft special:&#xA;Block-based editing - Every element is a block that can be moved, styled, and structured intuitively Native performance - Silky-smooth experience optimized for Apple devices Beautiful design - Clean, distraction-free interface that feels like premium software Linked thinking - Connect documents and ideas with bidirectional linking Powerful writing features:</description>
     </item>
     <item>
       <title>Day One</title>
@@ -41,13 +41,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/day-one/</guid>
       <description>Day One is a digital journaling app that encourages consistent reflection and memory preservation with privacy-focused features and beautiful design.&#xA;Key Features Multiple journals - Separate journals for different topics Rich media support - Add photos, videos, and audio Location tracking - Automatic location and weather data Mood tracking - Track emotional patterns over time End-to-end encryption - Complete privacy protection Book printing - Create beautiful physical books Smart reminders - Encouraging prompts for consistency Use Cases Daily reflection and gratitude journaling Travel documentation and memories Personal growth tracking Life milestone recording Mindfulness and self-awareness Get Started with Day One Capture life&amp;rsquo;s moments with thoughtful journaling.</description>
-    </item>
-    <item>
-      <title>Document360</title>
-      <link>https://toolchest.pro/categories/document360/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/document360/</guid>
-      <description>Document360 is a comprehensive knowledge management platform that enables businesses to create both public customer-facing help centers and private internal wikis. It combines professional design capabilities with powerful analytics to track content performance and user engagement.&#xA;What distinguishes Document360 is its dual-purpose approach, supporting both external customer documentation and internal team knowledge sharing within the same platform. It offers advanced features like API documentation tools, approval workflows, and detailed analytics that many basic wiki solutions lack.</description>
     </item>
     <item>
       <title>DokuWiki</title>
@@ -69,20 +62,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/google-keep/</guid>
       <description>Google Keep is a simple note-taking app that uses a visual sticky-note interface for quick thought capture, checklists, and reminders with Google ecosystem integration.&#xA;Key Features Visual sticky notes - Colorful, card-based note organization Voice recordings - Capture thoughts by speaking Image notes - Add photos and extract text from images Location reminders - Get notified at specific places Collaborative sharing - Share notes with others Google Assistant integration - Voice commands and dictation Cross-device sync - Access notes everywhere Use Cases Quick thought capture and reminders Shopping lists and to-do items Visual note organization Voice note recording Google ecosystem productivity Get Started with Google Keep Capture ideas instantly with visual notes.</description>
-    </item>
-    <item>
-      <title>Guru</title>
-      <link>https://toolchest.pro/categories/guru/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/guru/</guid>
-      <description>Guru is a real-time knowledge management platform that maintains trusted, verified information through continuous accuracy tracking and contextual delivery when teams need it most.&#xA;Key Features Knowledge cards - Bite-sized, verified information units Verification workflows - Continuous accuracy tracking and content ownership Browser extension - Surface knowledge contextually while working AI-powered suggestions - Intelligent content recommendations Team collaboration - Collaborative editing and knowledge sharing Analytics dashboard - Track knowledge usage and effectiveness Integration ecosystem - Connect with existing workflow tools Use Cases Customer support knowledge management Sales enablement and training Employee onboarding and training Real-time knowledge sharing Contextual information delivery Get Started with Guru Maintain verified, real-time knowledge for your team.</description>
-    </item>
-    <item>
-      <title>Helpjuice</title>
-      <link>https://toolchest.pro/categories/helpjuice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/helpjuice/</guid>
-      <description>Helpjuice is a customer-focused knowledge base platform designed to reduce support tickets while improving customer satisfaction through comprehensive self-service documentation.&#xA;Key Features Advanced search - Intelligent search with auto-suggestions and filters Custom branding - Professional design with custom themes and domains Multi-language support - Localized content for global customers Analytics tracking - Detailed insights on article performance and user behavior Article suggestions - AI-powered content recommendations Team collaboration - Multi-author editing and approval workflows SEO optimization - Built-in SEO tools for better search visibility Use Cases Customer support self-service portals SaaS product documentation FAQ and help center management Internal team knowledge sharing Multilingual customer support Get Started with Helpjuice Reduce support tickets with customer-focused knowledge bases.</description>
     </item>
     <item>
       <title>Joplin</title>
@@ -113,6 +92,13 @@
       <description>MediaWiki is the battle-tested wiki software that powers Wikipedia, enabling organizations to create comprehensive knowledge bases for large-scale collaborative documentation.&#xA;Key Features Scalable architecture - Handle millions of pages and users Revision control - Complete edit history and version tracking User management - Advanced permissions and role systems Extension ecosystem - Thousands of available extensions Multi-language support - International content management Template systems - Reusable content templates Discussion pages - Built-in collaboration features Use Cases Large-scale organizational wikis Educational resource platforms Corporate knowledge bases Community documentation projects Multi-language content sites Get Started with MediaWiki Deploy Wikipedia&amp;rsquo;s proven wiki software.</description>
     </item>
     <item>
+      <title>Obsidian</title>
+      <link>https://toolchest.pro/categories/obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/obsidian/</guid>
+      <description>Obsidian transforms note-taking into knowledge building through bidirectional linking, allowing you to create an interconnected web of thoughts that reveals hidden connections and insights.&#xA;Built for researchers, writers, and knowledge workers who want to build a &amp;ldquo;second brain,&amp;rdquo; Obsidian stores everything locally while providing powerful tools for connecting ideas.&#xA;What makes Obsidian revolutionary:&#xA;Bidirectional linking - Connect notes naturally with [[double brackets]] Graph visualization - See your knowledge network as an interactive map Local storage - Your notes stay on your device, no vendor lock-in Markdown native - Future-proof plain text with rich formatting Core linking and discovery:</description>
+    </item>
+    <item>
       <title>OneNote</title>
       <link>https://toolchest.pro/categories/onenote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,18 +127,18 @@
       <description>RemNote is a note-taking app that integrates spaced repetition learning by automatically transforming notes into flashcards for enhanced memory retention.&#xA;Key Features Automatic flashcards - Convert notes into spaced repetition cards Hierarchical notes - Organize content in structured outlines PDF annotation - Annotate documents with linked notes Learning statistics - Track study progress and retention LaTeX equations - Mathematical notation support Concept mapping - Visual relationship building Smart scheduling - Optimized review timing algorithms Use Cases Medical and law school studying Academic research and learning Professional skill development Exam preparation and review Long-term knowledge retention Get Started with RemNote Transform your notes into learning tools.</description>
     </item>
     <item>
+      <title>Roam Research</title>
+      <link>https://toolchest.pro/categories/roam-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/roam-research/</guid>
+      <description>Roam Research revolutionizes thought organization through block references and bidirectional linking, enabling researchers to create non-linear knowledge graphs that capture complex idea relationships.&#xA;Key Features Bidirectional linking - Connect thoughts and ideas across all notes Block references - Reuse and embed content throughout your database Daily pages - Capture thoughts with automatic date organization Graph database - Visualize connections between ideas and concepts Queries - Find and organize information with powerful search Collaborative editing - Work together on shared knowledge bases Version control - Track changes and restore previous versions Use Cases Academic research and dissertation writing Knowledge management and note-taking Creative project development Systems thinking and concept mapping Zettelkasten methodology implementation Get Started with Roam Research Build networked knowledge with connected thinking.</description>
+    </item>
+    <item>
       <title>Simplenote</title>
       <link>https://toolchest.pro/categories/simplenote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/simplenote/</guid>
       <description>Simplenote is a minimalist note-taking app focused on distraction-free writing and seamless synchronization across all devices.&#xA;Key Features Pure text focus - Clean interface without formatting distractions Instant sync - Notes appear across all devices immediately Version history - Access previous versions of any note Markdown support - Simple formatting with markdown syntax Tag organization - Organize notes with flexible tagging system Collaborative editing - Share and edit notes with others Offline access - Full functionality without internet connection Use Cases Distraction-free writing and journaling Quick note capture and idea recording Collaborative document editing Cross-platform note synchronization Minimalist productivity workflows Get Started with Simplenote Experience true simplicity in note-taking.</description>
-    </item>
-    <item>
-      <title>Slab</title>
-      <link>https://toolchest.pro/categories/slab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/slab/</guid>
-      <description>Slab is a modern team wiki platform that combines beautiful design with powerful knowledge management features to help teams create, organize, and discover information effectively.&#xA;Key Features Beautiful design - Elegant, user-friendly interface with modern aesthetics Topic organization - Intelligent content structure and categorization Powerful search - Fast, comprehensive search across all content Verified answers - Quality control with content verification system Real-time collaboration - Simultaneous editing with team members Analytics insights - Track content usage and team engagement Integration ecosystem - Connect with popular workflow tools Use Cases Team knowledge bases and wikis Company policies and procedures Technical documentation and guides Project documentation and resources Onboarding and training materials Get Started with Slab Create knowledge bases that teams actually want to use.</description>
     </item>
     <item>
       <title>Standard Notes</title>

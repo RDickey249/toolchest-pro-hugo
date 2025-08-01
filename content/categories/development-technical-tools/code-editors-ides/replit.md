@@ -3,7 +3,7 @@ title: "Replit"
 tagline: "Cloud-based collaborative coding platform with instant deployment"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Code Editors Ides"
+subcategory: "Code Editors & IDEs"
 tool_name: "Replit"
 deployment_status: "deployed"
 image: "/images/tools/replit-placeholder.jpg"

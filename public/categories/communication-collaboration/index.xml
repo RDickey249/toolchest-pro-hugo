@@ -22,11 +22,11 @@
       <description>CloudApp is a visual communication platform that transforms how teams share information by enabling instant capture and sharing of screenshots, GIFs, and screen recordings. The tool eliminates the friction of explaining complex issues by letting you show exactly what you mean in seconds.&#xA;Built for remote teams, customer support, and anyone who needs to communicate visually, CloudApp automatically uploads your captures and generates shareable links instantly. Its drag-and-drop simplicity makes visual communication as easy as taking a screenshot.</description>
     </item>
     <item>
-      <title>Craft</title>
-      <link>https://toolchest.pro/categories/craft/</link>
+      <title>Coda</title>
+      <link>https://toolchest.pro/categories/coda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/craft/</guid>
-      <description>Craft is the beautifully designed writing and note-taking app that combines the flexibility of blocks with the elegance of native design, creating documents that are as pleasant to write as they are to read.&#xA;Built with meticulous attention to detail, Craft transforms document creation into a delightful experience while providing powerful features for both personal writing and team collaboration.&#xA;What makes Craft special:&#xA;Block-based editing - Every element is a block that can be moved, styled, and structured intuitively Native performance - Silky-smooth experience optimized for Apple devices Beautiful design - Clean, distraction-free interface that feels like premium software Linked thinking - Connect documents and ideas with bidirectional linking Powerful writing features:</description>
+      <guid>https://toolchest.pro/categories/coda/</guid>
+      <description>Coda is the revolutionary document-database platform that blends documents, spreadsheets, and databases into a single collaborative workspace for building custom applications and workflows.&#xA;Used by product teams, operations teams, and growing companies worldwide, Coda offers dynamic documents with live databases, automation formulas, interactive elements, and real-time collaboration. Build custom business tools while maintaining document simplicity and collaborative accessibility.&#xA;Get Started with Coda Ready to revolutionize your documents?&#xA;Ready to get started?</description>
     </item>
     <item>
       <title>Discord</title>
@@ -50,13 +50,6 @@
       <description>Google Meet is the streamlined video conferencing platform that integrates seamlessly with Google Workspace, offering reliable, high-quality meetings accessible from any browser or device.&#xA;Built for simplicity and security, Google Meet eliminates the friction of video calls while providing enterprise-grade features that scale from small team meetings to large organizational events.&#xA;Why Google Meet stands out:&#xA;Zero installation - Join meetings instantly from any web browser Deep Google integration - Works seamlessly with Gmail, Calendar, and Drive Enterprise security - Advanced protection with admin controls Simple interface - Intuitive design that anyone can use immediately Core meeting features:</description>
     </item>
     <item>
-      <title>Google Workspace</title>
-      <link>https://toolchest.pro/categories/google-workspace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/google-workspace/</guid>
-      <description>Google Workspace is the cloud-based productivity suite that transformed how teams collaborate on documents, spreadsheets, and presentations in real-time.&#xA;Formerly G Suite, Google Workspace combines the power of Gmail, Drive, Docs, Sheets, Slides, and Meet into an integrated platform for modern work.&#xA;Real-time collaboration advantages:&#xA;Simultaneous editing - Multiple people can work on the same document at once Live cursors - See exactly where teammates are working in real-time Instant commenting - Discuss changes and suggestions without email chains Version history - Track all changes with automatic backup and restore Core applications:</description>
-    </item>
-    <item>
       <title>GoToMeeting</title>
       <link>https://toolchest.pro/categories/gotomeeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -78,32 +71,11 @@
       <description>Microsoft 365 brings the power of Word, Excel, PowerPoint, and more to the cloud, enabling real-time collaboration while maintaining the familiar Office experience that businesses depend on.&#xA;The world&amp;rsquo;s most widely used productivity suite, now enhanced with cloud-based collaboration, AI assistance, and seamless integration across all devices.&#xA;Why Microsoft 365 dominates:&#xA;Universal familiarity - Everyone knows how to use Word, Excel, and PowerPoint Full feature parity - Web versions offer nearly identical functionality to desktop apps Seamless collaboration - Multiple people can edit documents simultaneously Enterprise ready - Built-in security, compliance, and admin controls Core collaboration applications:</description>
     </item>
     <item>
-      <title>Microsoft Teams</title>
-      <link>https://toolchest.pro/categories/microsoft-teams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/microsoft-teams/</guid>
-      <description>Microsoft Teams is the collaboration hub that brings together chat, video meetings, file storage, and Office apps in one integrated platform.&#xA;Built for the Microsoft ecosystem, Teams provides enterprise-grade communication and collaboration tools that scale from small teams to global organizations.&#xA;Microsoft ecosystem advantages:&#xA;Native Office integration - Edit Word, Excel, and PowerPoint files directly in Teams OneDrive &amp;amp; SharePoint - Seamless file sharing and document collaboration Outlook calendar - Schedule and join meetings without leaving your workflow Enterprise security - Leverages your existing Microsoft security policies Core collaboration features:</description>
-    </item>
-    <item>
       <title>Monosnap</title>
       <link>https://toolchest.pro/categories/monosnap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/monosnap/</guid>
       <description>Monosnap is a powerful screenshot and annotation tool that enables teams to capture screens, add detailed markup, and share visual feedback for efficient communication.&#xA;Key Features Screen capture - Take pixel-perfect screenshots and recordings Annotation tools - Add arrows, text, shapes, and highlights Video recording - Capture screen recordings with audio Cloud storage - Automatically sync and store captures Instant sharing - Generate shareable links for quick collaboration Team workspaces - Organize captures with team members Blur effects - Protect sensitive information in screenshots Use Cases Design review and feedback Bug documentation and QA testing Visual communication and tutorials Remote collaboration and support Screen recording for presentations Get Started with Monosnap Streamline visual communication with powerful screenshots.</description>
-    </item>
-    <item>
-      <title>Obsidian</title>
-      <link>https://toolchest.pro/categories/obsidian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/obsidian/</guid>
-      <description>Obsidian transforms note-taking into knowledge building through bidirectional linking, allowing you to create an interconnected web of thoughts that reveals hidden connections and insights.&#xA;Built for researchers, writers, and knowledge workers who want to build a &amp;ldquo;second brain,&amp;rdquo; Obsidian stores everything locally while providing powerful tools for connecting ideas.&#xA;What makes Obsidian revolutionary:&#xA;Bidirectional linking - Connect notes naturally with [[double brackets]] Graph visualization - See your knowledge network as an interactive map Local storage - Your notes stay on your device, no vendor lock-in Markdown native - Future-proof plain text with rich formatting Core linking and discovery:</description>
-    </item>
-    <item>
-      <title>Roam Research</title>
-      <link>https://toolchest.pro/categories/roam-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/roam-research/</guid>
-      <description>Roam Research revolutionizes thought organization through block references and bidirectional linking, enabling researchers to create non-linear knowledge graphs that capture complex idea relationships.&#xA;Key Features Bidirectional linking - Connect thoughts and ideas across all notes Block references - Reuse and embed content throughout your database Daily pages - Capture thoughts with automatic date organization Graph database - Visualize connections between ideas and concepts Queries - Find and organize information with powerful search Collaborative editing - Work together on shared knowledge bases Version control - Track changes and restore previous versions Use Cases Academic research and dissertation writing Knowledge management and note-taking Creative project development Systems thinking and concept mapping Zettelkasten methodology implementation Get Started with Roam Research Build networked knowledge with connected thinking.</description>
     </item>
     <item>
       <title>ScreenPal</title>
@@ -155,13 +127,6 @@
       <description>Vimeo Record makes it easy to create professional video messages directly from your browser. Capture your screen, webcam, or both to communicate more effectively than text or static images ever could.&#xA;Built on Vimeo&amp;rsquo;s world-class video infrastructure, Vimeo Record ensures your videos look professional and load quickly for viewers anywhere. It&amp;rsquo;s the upgrade from amateur screen recordings to polished video communication.&#xA;Key Features Browser-Based Recording: No software to download - record directly from Chrome Screen + Webcam: Capture screen activity with your face for personal connection Instant Sharing: Get shareable links immediately after recording HD Quality: Professional video quality with Vimeo&amp;rsquo;s optimized encoding Custom Branding: Add your logo and brand colors to video players Viewer Analytics: See who watched your videos and for how long Perfect For Sales teams creating personalized video pitches Support teams explaining complex solutions Educators recording lesson explanations Managers providing async feedback and updates Why Teams Choose Vimeo Record Vimeo Record eliminates the technical barriers to professional video communication.</description>
     </item>
     <item>
-      <title>Webex</title>
-      <link>https://toolchest.pro/categories/webex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/webex/</guid>
-      <description>Webex is Cisco&amp;rsquo;s comprehensive collaboration platform that delivers enterprise-grade video meetings, team messaging, and calling solutions designed for large organizations with demanding security and compliance requirements.&#xA;Built for the enterprise from the ground up, Webex provides the advanced features, security certifications, and administrative controls that large organizations need for mission-critical communication.&#xA;Why enterprises choose Webex:&#xA;Enterprise security - End-to-end encryption with government-grade protection Compliance ready - Meets healthcare, financial, and government regulations Scalable architecture - Supports organizations from hundreds to millions of users Comprehensive platform - Meetings, messaging, calling, and events in one solution Advanced meeting capabilities:</description>
-    </item>
-    <item>
       <title>WhatsApp Business</title>
       <link>https://toolchest.pro/categories/whatsapp-business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,13 +139,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/yac/</guid>
       <description>Yac transforms team communication through asynchronous voice messaging, enabling teams to share voice notes that capture tone, emotion, and context while eliminating meeting fatigue and timezone conflicts.&#xA;Built for distributed teams who want to maintain human connection without constant meetings, Yac makes voice communication as easy as sending a text message.&#xA;Why voice communication wins:&#xA;Captures tone and emotion - Convey nuance that text messages miss Faster than typing - Share complex thoughts in seconds, not minutes More personal - Hear your teammates&amp;rsquo; voices and build stronger relationships Reduces meetings - Address topics asynchronously without scheduling conflicts Core voice features:</description>
-    </item>
-    <item>
-      <title>Zoom</title>
-      <link>https://toolchest.pro/categories/zoom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/zoom/</guid>
-      <description>Zoom is the video conferencing platform that became synonymous with remote work, trusted by millions for reliable, high-quality video meetings.&#xA;From small team meetings to massive webinars, Zoom provides the tools organizations need to stay connected and productive from anywhere.&#xA;Why Zoom became the standard:&#xA;Exceptional reliability - Consistently stable connections even on low bandwidth Crystal-clear quality - HD video and audio that makes remote feel personal Universal compatibility - Works seamlessly across all devices and platforms Intuitive interface - Anyone can host or join meetings with minimal learning curve Core features:</description>
     </item>
   </channel>
 </rss>

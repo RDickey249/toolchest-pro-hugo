@@ -78,6 +78,13 @@
       <description>Google Drive is Google&amp;rsquo;s cloud storage service that provides 15GB of free storage with seamless integration across Google&amp;rsquo;s ecosystem and collaborative productivity tools.&#xA;Key Features 15GB free storage - Generous free tier shared across Google services Google ecosystem integration - Works with Gmail, Photos, and Workspace Real-time collaboration - Simultaneous document editing Powerful search - AI-powered file discovery Version history - Track and restore file changes Offline access - Work without internet connection Cross-platform sync - Available on all major platforms Use Cases Personal file backup Student document storage Team collaboration projects Photo and media storage Google Workspace workflows Get Started with Google Drive Get 15GB free storage with Google ecosystem integration.</description>
     </item>
     <item>
+      <title>Google Workspace</title>
+      <link>https://toolchest.pro/categories/google-workspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/google-workspace/</guid>
+      <description>Google Workspace is the cloud-based productivity suite that transformed how teams collaborate on documents, spreadsheets, and presentations in real-time.&#xA;Formerly G Suite, Google Workspace combines the power of Gmail, Drive, Docs, Sheets, Slides, and Meet into an integrated platform for modern work.&#xA;Real-time collaboration advantages:&#xA;Simultaneous editing - Multiple people can work on the same document at once Live cursors - See exactly where teammates are working in real-time Instant commenting - Discuss changes and suggestions without email chains Version history - Track all changes with automatic backup and restore Core applications:</description>
+    </item>
+    <item>
       <title>Hightail</title>
       <link>https://toolchest.pro/categories/hightail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -127,13 +134,6 @@
       <description>ownCloud is an enterprise-focused private cloud platform that enables organizations to create secure, self-hosted cloud environments with commercial support and compliance features.&#xA;Key Features Private cloud hosting - Self-hosted secure cloud infrastructure Enterprise authentication - LDAP, Active Directory, and SSO integration File synchronization - Cross-platform sync and sharing Compliance tools - Data governance and regulatory compliance Professional support - Commercial backing and enterprise services High availability - Scalable and redundant deployments Enterprise connectors - Integration with business systems Use Cases Enterprise private clouds Government secure file sharing Regulated industry compliance Departmental file services Hybrid cloud deployments Get Started with ownCloud Deploy enterprise private cloud with commercial support.</description>
     </item>
     <item>
-      <title>pCloud</title>
-      <link>https://toolchest.pro/categories/pcloud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/pcloud/</guid>
-      <description>pCloud is a cloud storage service that offers unique lifetime storage plans, allowing users to secure permanent storage without recurring subscriptions while maintaining European privacy standards.&#xA;Key Features Lifetime plans - One-time payment for permanent storage Client-side encryption - pCloud Crypto for zero-knowledge security File sync - Cross-platform synchronization Media streaming - Built-in video and audio player File versioning - Access previous file versions Mobile backup - Automatic photo and video backup Offline access - Download files for offline use Use Cases Personal file backup Media library storage Long-term document archival Privacy-focused storage International cloud storage Get Started with pCloud Secure lifetime cloud storage with European privacy protection.</description>
-    </item>
-    <item>
       <title>QNAP</title>
       <link>https://toolchest.pro/categories/qnap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,13 +174,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/signiant/</guid>
       <description>Signiant is a cloud-native media file transfer platform designed specifically for broadcast and media organizations to efficiently move large video and audio content.&#xA;Key Features Media optimization - Purpose-built for video and audio files Cloud-native architecture - SaaS deployment and scaling Intelligent routing - Automated path selection for optimal delivery Workflow integration - API and broadcast system connectivity Automated failover - Redundant delivery paths Real-time monitoring - Transfer visibility and analytics Load balancing - Intelligent traffic distribution Use Cases Broadcast content contribution Streaming service distribution Media supply chain workflows Live content delivery Global media distribution Get Started with Signiant Optimize your media workflows with broadcast-grade transfer.</description>
-    </item>
-    <item>
-      <title>SpiderOak</title>
-      <link>https://toolchest.pro/categories/spideroak/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/spideroak/</guid>
-      <description>SpiderOak is a zero-knowledge cloud storage service that provides military-grade encryption for users requiring maximum security and complete privacy protection.&#xA;Key Features Zero-knowledge architecture - SpiderOak cannot access your data or keys Military-grade encryption - End-to-end encryption with user-controlled keys Encrypted backup - Secure file backup with versioning Cross-device sync - Encrypted synchronization across devices Secure sharing - Encrypted room sharing and collaboration Forensic-grade security - Advanced security certifications Historical access - Access to previous file versions Use Cases Government and military data Security professional backup Privacy advocate storage High-security enterprise data Confidential document protection Get Started with SpiderOak Maximum security cloud storage with zero-knowledge encryption.</description>
     </item>
     <item>
       <title>Sync.com</title>

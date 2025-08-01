@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/crm-sales-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Acuity Scheduling</title>
-      <link>https://toolchest.pro/categories/acuity-scheduling/</link>
+      <title>ActiveCampaign</title>
+      <link>https://toolchest.pro/categories/activecampaign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/acuity-scheduling/</guid>
-      <description>Acuity Scheduling is an advanced appointment booking platform that enables service-based businesses to automate complex scheduling with sophisticated customization options.&#xA;Key Features Online booking - Self-service appointment scheduling Payment processing - Integrated payment collection Client management - Comprehensive customer profiles Automated workflows - Email confirmations and reminders Intake forms - Collect client information before appointments Package scheduling - Sell and schedule service packages Class scheduling - Group sessions and workshops Use Cases Professional coaching and consulting Health and wellness services Beauty and personal care businesses Fitness classes and training Educational workshops and tutoring Get Started with Acuity Scheduling Automate your appointment booking process.</description>
+      <guid>https://toolchest.pro/categories/activecampaign/</guid>
+      <description>ActiveCampaign is the marketing automation platform that combines email marketing, CRM, and customer experience automation in one powerful system.&#xA;Built for growing businesses that want to create personalized customer experiences at scale, ActiveCampaign goes beyond basic email marketing to deliver true 1:1 personalization.&#xA;What sets ActiveCampaign apart:&#xA;Advanced automation - Create complex, multi-channel customer journeys Behavioral tracking - Trigger actions based on website activity and engagement Predictive analytics - AI-powered insights to optimize campaigns Integrated CRM - Manage leads and customers in one platform Core features:</description>
     </item>
     <item>
       <title>Apollo</title>
@@ -36,13 +36,6 @@
       <description>Boomerang is an email productivity tool that enables professionals to schedule emails, set reminders, and optimize email timing for better communication outcomes.&#xA;Key Features Email scheduling - Send emails at optimal times Send later - Write now, deliver when appropriate Inbox pause - Control when new emails arrive Follow-up reminders - Automatic reminders for responses Response tracking - Know when emails are opened AI writing assistance - Improve email effectiveness Optimal timing - AI-suggested best send times Use Cases International business communication Email timing optimization Follow-up automation Inbox management and control Professional email productivity Get Started with Boomerang Control your email timing and productivity.</description>
     </item>
     <item>
-      <title>Calendly</title>
-      <link>https://toolchest.pro/categories/calendly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/calendly/</guid>
-      <description>Calendly eliminates the back-and-forth emails of scheduling. Share your availability, let people book time with you, and get back to what matters most.&#xA;Key Features Automated scheduling eliminates email back-and-forth Calendar integration with Google, Outlook, iCloud, Exchange Custom availability with buffer times and blackout dates Meeting preferences for location, duration, and type Team scheduling with round-robin and collective availability Routing forms to qualify leads before booking Payment collection for paid consultations Use Cases Sales calls and demos Customer support meetings Consulting sessions Job interviews Client onboarding Get Started with Calendly Simplify your scheduling today.</description>
-    </item>
-    <item>
       <title>Campaign Monitor</title>
       <link>https://toolchest.pro/categories/campaign-monitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/chili-piper/</guid>
       <description>Chili Piper is a revenue-focused scheduling platform that enables sales teams to capture and convert leads instantly through intelligent meeting routing and qualification.&#xA;Key Features Instant booking - Convert leads to meetings immediately Intelligent routing - Route prospects to the right sales rep Qualification forms - Screen leads before booking meetings Round-robin distribution - Balance meeting load across team Territory management - Route by geographic or account rules Conversion optimization - Maximize form-to-meeting rates Performance analytics - Track conversion metrics and ROI Use Cases Inbound sales lead conversion SaaS trial-to-meeting automation High-velocity sales operations Lead qualification and routing Revenue optimization Get Started with Chili Piper Convert more leads with intelligent scheduling.</description>
+    </item>
+    <item>
+      <title>ConvertKit</title>
+      <link>https://toolchest.pro/categories/convertkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/convertkit/</guid>
+      <description>ConvertKit is the email marketing platform built specifically for creators who want to turn their audience into a sustainable business.&#xA;Unlike generic email tools, ConvertKit understands the unique needs of bloggers, podcasters, YouTubers, and online course creators.&#xA;Why creators choose ConvertKit:&#xA;Subscriber-first approach - Focus on people, not just email addresses Visual automation builder - Create sophisticated email sequences easily Creator tools - Landing pages, forms, and commerce features built-in Fair pricing - Pay for active subscribers, not your total list size Key features:</description>
     </item>
     <item>
       <title>Copper</title>
@@ -76,6 +76,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/freshsales/</guid>
       <description>Freshsales is a modern, intuitive CRM platform that enables sales teams to manage leads and deals efficiently with user-friendly design and comprehensive features.&#xA;Key Features Visual sales pipeline - Drag-and-drop deal management with customizable stages Contact management - 360-degree customer view with interaction history Built-in phone - Make calls directly from the CRM with call logging Email integration - Track emails and automate follow-up sequences AI-powered insights - Predictive analytics and deal scoring Workflow automation - Automate repetitive tasks and processes Mobile apps - Full-featured mobile CRM for on-the-go access Use Cases Small to medium business CRM needs Sales pipeline management and tracking Lead qualification and nurturing Customer communication management Sales team performance optimization Get Started with Freshsales Modernize your sales process with intuitive CRM.</description>
+    </item>
+    <item>
+      <title>GetResponse</title>
+      <link>https://toolchest.pro/categories/getresponse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/getresponse/</guid>
+      <description>GetResponse is a comprehensive all-in-one marketing platform that combines email marketing, automation, landing pages, and webinar hosting for complete marketing operations.&#xA;Key Features Email marketing - Professional campaigns with advanced segmentation Marketing automation - Sophisticated workflow builders and triggers Landing page builder - High-converting pages with templates Webinar hosting - Integrated webinar platform for lead generation Conversion funnels - Complete sales funnel creation and management CRM integration - Customer relationship management tools Advanced analytics - Detailed performance tracking and insights Use Cases Comprehensive digital marketing campaigns Lead generation and nurturing E-commerce marketing automation Webinar marketing and education Small to medium business growth Get Started with GetResponse Power your marketing with an all-in-one platform.</description>
     </item>
     <item>
       <title>HubSpot</title>

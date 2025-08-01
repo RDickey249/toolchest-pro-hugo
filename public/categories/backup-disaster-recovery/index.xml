@@ -14,5 +14,19 @@
       <guid>https://toolchest.pro/categories/backblaze-personal-cloud-backup/</guid>
       <description>Backblaze provides unlimited, automatic cloud backup for personal computers at an unbeatable price point, protecting millions of users&amp;rsquo; data worldwide.&#xA;With a &amp;ldquo;set it and forget it&amp;rdquo; approach, Backblaze continuously backs up your entire computer to secure cloud storage without any file size or storage limits.&#xA;What makes Backblaze exceptional:&#xA;Truly unlimited backup - No caps on storage or file sizes for one flat rate Automatic and continuous - Backs up new and changed files every hour Military-grade security - AES 256-bit encryption with optional private key Effortless restoration - Restore files instantly via web or mobile app Key benefits:</description>
     </item>
+    <item>
+      <title>pCloud</title>
+      <link>https://toolchest.pro/categories/pcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/pcloud/</guid>
+      <description>pCloud is a cloud storage service that offers unique lifetime storage plans, allowing users to secure permanent storage without recurring subscriptions while maintaining European privacy standards.&#xA;Key Features Lifetime plans - One-time payment for permanent storage Client-side encryption - pCloud Crypto for zero-knowledge security File sync - Cross-platform synchronization Media streaming - Built-in video and audio player File versioning - Access previous file versions Mobile backup - Automatic photo and video backup Offline access - Download files for offline use Use Cases Personal file backup Media library storage Long-term document archival Privacy-focused storage International cloud storage Get Started with pCloud Secure lifetime cloud storage with European privacy protection.</description>
+    </item>
+    <item>
+      <title>SpiderOak</title>
+      <link>https://toolchest.pro/categories/spideroak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/spideroak/</guid>
+      <description>SpiderOak is a zero-knowledge cloud storage service that provides military-grade encryption for users requiring maximum security and complete privacy protection.&#xA;Key Features Zero-knowledge architecture - SpiderOak cannot access your data or keys Military-grade encryption - End-to-end encryption with user-controlled keys Encrypted backup - Secure file backup with versioning Cross-device sync - Encrypted synchronization across devices Secure sharing - Encrypted room sharing and collaboration Forensic-grade security - Advanced security certifications Historical access - Access to previous file versions Use Cases Government and military data Security professional backup Privacy advocate storage High-security enterprise data Confidential document protection Get Started with SpiderOak Maximum security cloud storage with zero-knowledge encryption.</description>
+    </item>
   </channel>
 </rss>

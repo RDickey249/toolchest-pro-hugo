@@ -22,11 +22,11 @@
       <description>actiTIME is the enterprise time tracking platform that provides comprehensive workforce analytics, resource planning, and business intelligence for large organizations. Scale time tracking across multiple departments with detailed project management and reporting.&#xA;Used by enterprises and consulting firms worldwide, actiTIME offers advanced analytics, resource capacity planning, and professional billing. Track time across complex project portfolios, optimize workforce allocation, and generate executive reports with enterprise-grade security and compliance.&#xA;Key Features • Enterprise time tracking and monitoring - Comprehensive workforce tracking with detailed productivity analytics and reporting • Advanced project portfolio management - Multi-project coordination with resource allocation and portfolio optimization • Resource planning and capacity management - Strategic workforce planning with skill-based allocation and capacity optimization • Comprehensive business intelligence - Detailed analytics with customizable dashboards and executive reporting • Multi-departmental coordination - Enterprise-wide visibility with department-specific analytics and cross-functional insights • Client billing and profitability analysis - Professional billing with detailed project profitability and margin analysis • Enterprise security and compliance - Advanced security features with audit trails and regulatory compliance capabilities • Extensive integration and API - Enterprise integrations with ERP systems and custom business application development</description>
     </item>
     <item>
-      <title>Automate.io</title>
-      <link>https://toolchest.pro/categories/automate.io/</link>
+      <title>Acuity Scheduling</title>
+      <link>https://toolchest.pro/categories/acuity-scheduling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/automate.io/</guid>
-      <description>Automate.io is a straightforward automation platform that simplifies time tracking integration through accessible app connectivity and essential workflow automation. The software provides businesses with basic automation capabilities while maintaining the simplicity and affordability that makes workflow automation accessible to small teams and growing organizations.&#xA;What makes Automate.io appealing is its focus on simplicity and essential functionality rather than complex automation features. The platform addresses automation complexity by providing simple, effective integration tools that connect time tracking applications with business systems through user-friendly interfaces and quick implementation.</description>
+      <guid>https://toolchest.pro/categories/acuity-scheduling/</guid>
+      <description>Acuity Scheduling is an advanced appointment booking platform that enables service-based businesses to automate complex scheduling with sophisticated customization options.&#xA;Key Features Online booking - Self-service appointment scheduling Payment processing - Integrated payment collection Client management - Comprehensive customer profiles Automated workflows - Email confirmations and reminders Intake forms - Collect client information before appointments Package scheduling - Sell and schedule service packages Class scheduling - Group sessions and workshops Use Cases Professional coaching and consulting Health and wellness services Beauty and personal care businesses Fitness classes and training Educational workshops and tutoring Get Started with Acuity Scheduling Automate your appointment booking process.</description>
     </item>
     <item>
       <title>BigTime</title>
@@ -64,18 +64,18 @@
       <description>Buddy Punch is an advanced employee time tracking system that eliminates time theft through biometric verification and location-based authentication. The platform combines facial recognition, GPS tracking, and geofencing to ensure only authorized employees can clock in from approved locations.&#xA;The system&amp;rsquo;s strength lies in its multi-layered security approach, offering real-time photo capture and location verification for every time entry. This comprehensive fraud prevention makes it particularly effective for businesses struggling with buddy punching and unauthorized time entries.</description>
     </item>
     <item>
+      <title>Calendly</title>
+      <link>https://toolchest.pro/categories/calendly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/calendly/</guid>
+      <description>Calendly eliminates the back-and-forth emails of scheduling. Share your availability, let people book time with you, and get back to what matters most.&#xA;Key Features Automated scheduling eliminates email back-and-forth Calendar integration with Google, Outlook, iCloud, Exchange Custom availability with buffer times and blackout dates Meeting preferences for location, duration, and type Team scheduling with round-robin and collective availability Routing forms to qualify leads before booking Payment collection for paid consultations Use Cases Sales calls and demos Customer support meetings Consulting sessions Job interviews Client onboarding Get Started with Calendly Simplify your scheduling today.</description>
+    </item>
+    <item>
       <title>ClickTime</title>
       <link>https://toolchest.pro/categories/clicktime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/clicktime/</guid>
       <description>ClickTime enhances business operations through comprehensive time tracking and employee management that provides detailed insights into workforce productivity, project performance, and resource utilization while maintaining professional-grade features and robust analytics capabilities that support both operational efficiency and strategic business decision making across diverse organizational structures and industry requirements. This enterprise-focused platform addresses the challenge of workforce management by providing sophisticated tracking, monitoring, and analytics tools that enable organizations to optimize productivity while maintaining accountability and transparency through comprehensive reporting and performance measurement that supports both individual development and organizational success.</description>
-    </item>
-    <item>
-      <title>ClickUp</title>
-      <link>https://toolchest.pro/categories/clickup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/clickup/</guid>
-      <description>ClickUp is a comprehensive project management platform that includes sophisticated timesheet tracking capabilities integrated directly into task workflows. The software enables teams to log time at granular task levels while maintaining complete visibility into project progress and resource allocation across diverse project types.&#xA;What sets ClickUp apart is its seamless integration of timesheet management with comprehensive project coordination. Unlike standalone time tracking tools, it connects time logging with task management, project planning, and team collaboration within a unified platform that adapts to different workflow requirements.</description>
     </item>
     <item>
       <title>Clio</title>
@@ -232,13 +232,6 @@
       <description>MyCase is the complete law firm management platform that combines time tracking, case management, and client communication in one system. Built specifically for legal professionals, it streamlines everything from client intake to billing with secure client portals and automated workflows.&#xA;Used by thousands of law firms across all practice areas, MyCase eliminates the need for separate legal software tools. Track billable hours, manage cases, communicate securely with clients, and generate professional invoices all from one integrated platform designed for the legal industry.</description>
     </item>
     <item>
-      <title>n8n</title>
-      <link>https://toolchest.pro/categories/n8n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/n8n/</guid>
-      <description>n8n is the open-source workflow automation platform that lets you connect any app to any other app. Unlike cloud automation tools that charge per workflow, n8n gives you complete control over your automation infrastructure.&#xA;Used by companies like Lattice, Phantom, and thousands of developers, n8n offers the power of enterprise automation tools without the enterprise price tag or vendor lock-in.&#xA;Key Features Visual Workflow Builder: Create automations with a drag-and-drop interface 300+ Integrations: Connect to popular apps and services Self-Hosted: Deploy on your own infrastructure for complete data privacy Custom Nodes: Build integrations for any API or service Fair-Code License: Free for individual use, affordable for businesses Active Community: Open-source with regular updates and contributions Perfect For Developers who want automation control Companies needing data privacy compliance Teams wanting to avoid per-execution pricing Organizations requiring custom integrations Why Teams Choose n8n n8n eliminates the restrictions of cloud automation platforms.</description>
-    </item>
-    <item>
       <title>OnTheClock</title>
       <link>https://toolchest.pro/categories/ontheclock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -293,20 +286,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/servicem8/</guid>
       <description>ServiceM8 is the complete field service management platform that handles everything from job scheduling and dispatch to time tracking and invoicing. Built for mobile service teams, it turns your smartphone into a complete business management system.&#xA;Used by thousands of service businesses including HVAC, plumbing, electrical, and maintenance companies, ServiceM8 streamlines field operations from quote to payment. Track time on jobs, dispatch teams efficiently, and get paid faster with automated invoicing.</description>
-    </item>
-    <item>
-      <title>Teamwork</title>
-      <link>https://toolchest.pro/categories/teamwork/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/teamwork/</guid>
-      <description>Teamwork revolutionizes client project time tracking through comprehensive billable hour management that seamlessly integrates with project coordination and client relationship management, providing agencies and professional services teams with sophisticated time tracking capabilities that ensure accurate billing while maintaining project delivery excellence and client satisfaction through professional-grade project management and comprehensive business functionality. This professional platform addresses the specific needs of client-focused businesses by providing integrated time tracking that connects directly with project management and client billing, enabling accurate revenue tracking while maintaining comprehensive project coordination through sophisticated tools designed for professional services and client engagement management.</description>
-    </item>
-    <item>
-      <title>Time Doctor</title>
-      <link>https://toolchest.pro/categories/time-doctor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/time-doctor/</guid>
-      <description>Time Doctor is a comprehensive time tracking and productivity monitoring platform designed for remote team management. The software combines detailed time tracking with activity monitoring, screenshot capture, and productivity analytics to provide complete visibility into distributed workforce performance.&#xA;What distinguishes Time Doctor is its focus on accountability and transparency through detailed monitoring capabilities. The platform goes beyond basic time tracking to include website and application monitoring, productivity scoring, and automated reporting that helps managers understand work patterns and optimize team performance.</description>
     </item>
     <item>
       <title>TimeCamp</title>

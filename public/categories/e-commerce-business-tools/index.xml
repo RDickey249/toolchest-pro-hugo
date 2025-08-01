@@ -99,6 +99,13 @@
       <description>Microsoft Dynamics is a comprehensive suite of business applications that integrates inventory management, ERP, and CRM within the Microsoft ecosystem.&#xA;Key Features Microsoft ecosystem integration - Seamless integration with Office 365 and Azure Power Platform connectivity - Custom apps and automation workflows AI-powered insights - Intelligent business analytics and forecasting Comprehensive ERP - Financial management and inventory control CRM capabilities - Customer relationship management integration Supply chain optimization - End-to-end supply chain visibility Cloud and on-premise - Flexible deployment options Use Cases Microsoft-centric business operations Integrated ERP and CRM implementation AI-powered business intelligence Enterprise resource planning Supply chain and inventory optimization Get Started with Microsoft Dynamics Integrate your business with Microsoft&amp;rsquo;s ecosystem.</description>
     </item>
     <item>
+      <title>NetSuite</title>
+      <link>https://toolchest.pro/categories/netsuite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/netsuite/</guid>
+      <description>NetSuite is a comprehensive cloud-based ERP platform that provides complete business management capabilities for enterprises requiring unified operations and scalable growth.&#xA;Key Features ERP functionality - Financial management, inventory, and operations CRM integration - Sales force automation and customer management E-commerce platform - Online store with integrated order management Business intelligence - Real-time dashboards and reporting Multi-subsidiary support - Manage multiple entities and currencies Customization platform - Tailor workflows and business processes Cloud-based architecture - Scalable infrastructure with global access Use Cases Enterprise resource planning Multi-subsidiary business management Integrated e-commerce operations Complex financial and operational reporting Scalable business growth management Get Started with NetSuite Unify your business operations with comprehensive ERP.</description>
+    </item>
+    <item>
       <title>OpenCart</title>
       <link>https://toolchest.pro/categories/opencart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,6 +118,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/oscommerce/</guid>
       <description>osCommerce is one of the pioneering open-source e-commerce platforms that provides established, time-tested online retail solutions with extensive community support.&#xA;Key Features Open-source platform - Free, customizable e-commerce foundation Product management - Comprehensive catalog and inventory tools Multi-language support - International e-commerce capabilities Payment integration - Multiple payment gateway options Tax management - Advanced tax calculation and compliance Shipping integration - Flexible shipping options and calculations Community add-ons - Extensive library of community contributions Use Cases Traditional online retail operations Established business e-commerce Custom e-commerce development International multi-language stores Community-supported e-commerce Get Started with osCommerce Build on decades of e-commerce experience.</description>
+    </item>
+    <item>
+      <title>Paypal</title>
+      <link>https://toolchest.pro/categories/paypal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/paypal/</guid>
+      <description>PayPal is a global payment platform that enables individuals and businesses to send, receive, and manage money online with trusted security and worldwide acceptance.&#xA;Key Features Online payments - Send and receive money globally with email or mobile Business solutions - Accept payments on websites and mobile apps Buyer protection - Secure transactions with dispute resolution Multi-currency support - Handle payments in 25+ currencies Mobile payments - PayPal app for payments and money management Invoicing tools - Professional invoices with payment tracking Integration APIs - Developer tools for custom payment solutions Use Cases Online marketplace payments Small business payment processing International money transfers E-commerce payment integration Personal money management Get Started with PayPal Accept payments globally with trusted security.</description>
     </item>
     <item>
       <title>PrestaShop</title>
@@ -148,11 +162,25 @@
       <description>Shopify is the world&amp;rsquo;s leading e-commerce platform, powering over 1.7 million businesses worldwide.&#xA;From startup entrepreneurs to enterprise brands, Shopify provides everything needed to build, manage, and scale an online store.&#xA;Core features:&#xA;Professional store design with customizable themes Complete product and inventory management Integrated payment processing and shipping Multi-channel selling (online, social, in-person) Advanced analytics and reporting Mobile-responsive checkout Why businesses choose Shopify:&#xA;Massive app ecosystem - 6,000+ apps for any functionality Proven scalability - Handles traffic spikes and growth seamlessly Built-in payments - Accept 100+ payment methods globally 24/7 support - Expert help whenever you need it Perfect for anyone serious about e-commerce, from dropshippers launching their first store to established brands expanding online.</description>
     </item>
     <item>
+      <title>Square</title>
+      <link>https://toolchest.pro/categories/square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/square/</guid>
+      <description>Square is a comprehensive payment processing platform that enables businesses to accept credit cards, contactless payments, and online transactions. It combines point-of-sale hardware with integrated business management tools including inventory tracking, sales analytics, and team management.&#xA;What sets Square apart is its seamless integration between in-person and online payments with built-in business tools. Unlike standalone payment processors, Square includes inventory management, customer relationship features, marketing tools, and detailed analytics in one unified system.</description>
+    </item>
+    <item>
       <title>Squarespace Commerce</title>
       <link>https://toolchest.pro/categories/squarespace-commerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/squarespace-commerce/</guid>
       <description>Squarespace Commerce is a design-first e-commerce platform that enables creative professionals and brands to create visually stunning online stores with premium templates.&#xA;Key Features Premium design templates - Award-winning, professionally designed themes Visual merchandising - Beautiful product showcasing and galleries Integrated blogging - Content marketing and brand storytelling Subscription products - Recurring revenue and membership options Appointment booking - Service-based business integration Customer analytics - Detailed insights and reporting Brand integration - Consistent design across all touchpoints Use Cases Creative professional portfolios and sales Design-focused brand retail Lifestyle and aesthetic businesses Service-based appointment booking Premium brand presentation Get Started with Squarespace Commerce Create beautiful stores with award-winning design.</description>
+    </item>
+    <item>
+      <title>Stripe</title>
+      <link>https://toolchest.pro/categories/stripe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/stripe/</guid>
+      <description>Stripe is a developer-friendly online payment processing platform that enables businesses to accept payments seamlessly with powerful APIs and comprehensive financial tools.&#xA;Key Features Payment APIs - Accept online payments with simple, powerful APIs Global payment methods - Support for 135+ currencies and local payment methods Subscription billing - Recurring payments and subscription management Marketplace payments - Split payments and manage multi-party transactions Fraud prevention - Machine learning-powered fraud detection Developer tools - Comprehensive documentation and testing environments Financial reporting - Real-time transaction data and analytics Use Cases E-commerce payment processing Subscription and recurring billing Marketplace and platform payments Mobile app monetization Global business transactions Get Started with Stripe Accept payments online with developer-friendly tools.</description>
     </item>
     <item>
       <title>TradeGecko</title>

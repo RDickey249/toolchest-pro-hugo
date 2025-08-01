@@ -15,25 +15,11 @@
       <description>Anki is a spaced repetition flashcard system that uses cognitive science principles to optimize memory retention, making it highly effective for language vocabulary acquisition and long-term knowledge retention. The platform calculates optimal review intervals based on how well users remember each card, ensuring that difficult material appears more frequently while well-known information is reviewed less often.&#xA;The system has become the gold standard for serious language learners and medical students who need to memorize large amounts of information efficiently and retain it over long periods.</description>
     </item>
     <item>
-      <title>Babbel - Conversation-focused learning</title>
-      <link>https://toolchest.pro/categories/babbel-conversation-focused-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/babbel-conversation-focused-learning/</guid>
-      <description>Babbel is a conversation-focused language learning platform that emphasizes practical communication skills through real-world dialogues, cultural context, and speech recognition technology. Unlike gamified approaches, Babbel prioritizes effective language acquisition with lessons designed by linguists and tailored to help users have actual conversations from the beginning of their learning journey.&#xA;The platform focuses on 14 major world languages with curriculum specifically designed for adult learners who want to achieve practical fluency for travel, business, or personal enrichment rather than academic language study.</description>
-    </item>
-    <item>
       <title>Brilliant - Math and science concepts</title>
       <link>https://toolchest.pro/categories/brilliant-math-and-science-concepts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/brilliant-math-and-science-concepts/</guid>
       <description>Brilliant is an interactive learning platform that teaches math and science concepts through problem-solving and visual explanations, making complex topics accessible through hands-on exploration and guided discovery. The platform breaks down sophisticated concepts in mathematics, physics, computer science, and data analysis into bite-sized, interactive lessons that build understanding through active engagement rather than passive consumption.&#xA;The service transforms abstract mathematical and scientific concepts into visual, interactive experiences that help learners develop intuitive understanding and problem-solving skills applicable to real-world scenarios.</description>
-    </item>
-    <item>
-      <title>Busuu - Social language learning</title>
-      <link>https://toolchest.pro/categories/busuu-social-language-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/busuu-social-language-learning/</guid>
-      <description>Busuu is a social language learning platform that combines structured lessons with community interaction, offering conversation practice with native speakers and peer feedback on speaking and writing exercises. The platform creates a global language learning community where users both learn new languages and help others practice their native language through mutual exchange and feedback.&#xA;The service balances systematic curriculum with authentic social interaction, providing both the structure of formal language education and the practical experience of communicating with real speakers of the target language.</description>
     </item>
     <item>
       <title>Codewars - Coding kata</title>
@@ -55,13 +41,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/datacamp-data-science-skills/</guid>
       <description>DataCamp is a data science learning platform that teaches programming languages like Python and R, statistical analysis, and machine learning through interactive coding exercises and real-world projects. The platform provides hands-on learning experiences where students write actual code in their browser, working with real datasets to develop practical skills that directly apply to data science careers.&#xA;The service bridges the gap between theoretical knowledge and practical application, offering structured learning paths that take students from programming basics to advanced machine learning and data visualization techniques.</description>
-    </item>
-    <item>
-      <title>Duolingo - Gamified language learning</title>
-      <link>https://toolchest.pro/categories/duolingo-gamified-language-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/duolingo-gamified-language-learning/</guid>
-      <description>Duolingo is a gamified language learning platform that makes acquiring new languages engaging and accessible through bite-sized lessons, interactive exercises, and a reward-based progression system. The platform transforms traditional language education into an addictive mobile experience, using game mechanics like streaks, points, and achievements to motivate consistent daily practice.&#xA;The service offers courses in over 40 languages, from widely spoken languages like Spanish and French to constructed languages like Klingon, making language learning accessible to millions of users worldwide through its freemium model.</description>
     </item>
     <item>
       <title>Exercism - Programming exercises</title>
@@ -92,32 +71,11 @@
       <description>HackerRank is a programming challenge platform that offers coding problems, competitions, and skill assessments across multiple domains including algorithms, data structures, and specialized technologies. The platform serves both individual skill development and corporate hiring needs, providing standardized assessments that companies use to evaluate technical candidates.&#xA;The service combines competitive programming with practical skill assessment, offering challenges that range from fundamental computer science problems to specialized domain knowledge in areas like machine learning, databases, and cybersecurity.</description>
     </item>
     <item>
-      <title>HelloTalk - Language exchange platform</title>
-      <link>https://toolchest.pro/categories/hellotalk-language-exchange-platform/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/hellotalk-language-exchange-platform/</guid>
-      <description>HelloTalk is a language exchange platform that connects native speakers around the world for mutual language learning through text, voice, and video conversations with built-in translation and correction tools. The platform creates authentic language immersion experiences by pairing learners with native speakers who want to learn their language, fostering genuine cultural exchange alongside language practice.&#xA;The service transforms traditional language exchange into a modern, accessible experience with integrated tools that facilitate communication and learning between speakers of different languages and cultural backgrounds.</description>
-    </item>
-    <item>
-      <title>italki - 1-on-1 language tutoring</title>
-      <link>https://toolchest.pro/categories/italki-1-on-1-language-tutoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/italki-1-on-1-language-tutoring/</guid>
-      <description>italki is a 1-on-1 language tutoring platform that connects students with professional teachers and community tutors for personalized language lessons via video chat with flexible scheduling and pricing. The platform provides access to thousands of qualified language instructors worldwide, offering personalized instruction tailored to individual learning goals, schedules, and budgets.&#xA;The service bridges the gap between expensive private tutoring and impersonal group classes, making professional language instruction accessible through technology while maintaining the effectiveness of personalized, one-on-one teaching.</description>
-    </item>
-    <item>
       <title>LeetCode - Coding interview prep</title>
       <link>https://toolchest.pro/categories/leetcode-coding-interview-prep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/leetcode-coding-interview-prep/</guid>
       <description>LeetCode is a coding interview preparation platform that provides algorithmic programming challenges, mock interviews, and technical assessment tools used by major tech companies for hiring. The platform has become the industry standard for technical interview preparation, with problems directly sourced from actual interviews at companies like Google, Amazon, Facebook, and Microsoft.&#xA;The service bridges the gap between academic computer science knowledge and practical interview performance, helping software engineers develop the problem-solving skills and coding fluency required for technical interviews.</description>
-    </item>
-    <item>
-      <title>Lingoda - Online language school</title>
-      <link>https://toolchest.pro/categories/lingoda-online-language-school/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/lingoda-online-language-school/</guid>
-      <description>Lingoda is an online language school that offers structured group and private classes with certified native-speaking teachers following internationally recognized curricula like CEFR for systematic language development. The platform replicates traditional language school experiences in an online format, providing comprehensive courses that prepare students for official language certifications and real-world proficiency.&#xA;The service combines the rigor and structure of formal language education with the convenience and accessibility of online learning, making quality language instruction available to students worldwide regardless of their location.</description>
     </item>
     <item>
       <title>Memrise - Memory-based learning</title>
@@ -127,25 +85,11 @@
       <description>Memrise is a memory-based language learning platform that uses spaced repetition, mnemonic techniques, and real-world video content to help users memorize vocabulary and phrases effectively. The platform combines cognitive science research on memory retention with engaging multimedia content, focusing on helping learners build and maintain large vocabularies in their target languages.&#xA;The service emphasizes the crucial role of vocabulary acquisition in language learning, using scientifically-backed memory techniques to ensure that learned words and phrases stick in long-term memory rather than being quickly forgotten.</description>
     </item>
     <item>
-      <title>Preply - Online language tutoring</title>
-      <link>https://toolchest.pro/categories/preply-online-language-tutoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/preply-online-language-tutoring/</guid>
-      <description>Preply is an online language tutoring platform that connects students with certified language tutors for personalized 1-on-1 lessons with structured curriculum support and progress tracking. The platform combines the personalization of private tutoring with systematic learning approaches, offering curated teaching materials, progress assessments, and learning plans designed to achieve specific language goals.&#xA;The service provides a more structured alternative to casual language exchange while maintaining the flexibility and personalization that makes online tutoring effective for diverse learning needs and schedules.</description>
-    </item>
-    <item>
       <title>Project Euler - Mathematical problems</title>
       <link>https://toolchest.pro/categories/project-euler-mathematical-problems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/project-euler-mathematical-problems/</guid>
       <description>Project Euler is a collection of challenging mathematical and computational problems designed to be solved through programming, combining mathematical insight with algorithmic thinking to develop problem-solving skills. Named after the Swiss mathematician Leonhard Euler, the platform presents problems that require both mathematical knowledge and efficient programming techniques to solve within reasonable time constraints.&#xA;The service attracts mathematically-minded programmers and programming-interested mathematicians who enjoy the intersection of pure mathematics with computational efficiency and algorithmic optimization.</description>
-    </item>
-    <item>
-      <title>Rosetta Stone - Immersion method learning</title>
-      <link>https://toolchest.pro/categories/rosetta-stone-immersion-method-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/rosetta-stone-immersion-method-learning/</guid>
-      <description>Rosetta Stone is an immersion-based language learning platform that teaches languages through visual and contextual association without translation, using the company&amp;rsquo;s proprietary Dynamic Immersion method. As a pioneer in computer-based language learning, Rosetta Stone eliminates the learner&amp;rsquo;s native language from instruction, instead building understanding through images, audio, and context similar to how children acquire their first language.&#xA;The platform has been a leader in language education technology for decades, serving millions of learners worldwide including government agencies, educational institutions, and individual users seeking comprehensive language mastery.</description>
     </item>
     <item>
       <title>The Odin Project - Full-stack curriculum</title>

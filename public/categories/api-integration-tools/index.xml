@@ -8,11 +8,60 @@
     <language>en-us</language>
     <atom:link href="https://toolchest.pro/categories/api-integration-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Apigee</title>
+      <link>https://toolchest.pro/categories/apigee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/apigee/</guid>
+      <description>Apigee is Google&amp;rsquo;s API management platform with analytics and security for enterprise API programs. Design, secure, deploy, and scale APIs with comprehensive management and monitoring capabilities.&#xA;Get Started with Apigee Ready to manage APIs at enterprise scale? Visit Apigee to explore Google&amp;rsquo;s comprehensive API management platform with security, analytics, and developer tools.&#xA;Apigee Apigee is Google&amp;rsquo;s enterprise API management platform that provides full-lifecycle API governance, security, analytics, and monetization at scale for organizations building API ecosystems.</description>
+    </item>
+    <item>
+      <title>IFTTT</title>
+      <link>https://toolchest.pro/categories/ifttt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/ifttt/</guid>
+      <description>IFTTT (If This Then That) simplifies automation for everyday users by connecting popular apps and smart devices through simple, trigger-based workflows that make technology work seamlessly together without requiring technical expertise or complex setup processes. This intuitive automation platform specializes in creating &amp;ldquo;applets&amp;rdquo; that link consumer apps, social media platforms, smart home devices, and online services using straightforward &amp;ldquo;if this, then that&amp;rdquo; logic that anyone can understand and implement. IFTTT&amp;rsquo;s strength lies in its consumer-friendly approach to automation, making it incredibly easy to create useful workflows like automatically saving Instagram photos to Google Drive, turning on smart lights when you arrive home, or posting weather updates to social media.</description>
+    </item>
+    <item>
+      <title>Insomnia</title>
+      <link>https://toolchest.pro/categories/insomnia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/insomnia/</guid>
+      <description>Insomnia is the open-source API client for REST and GraphQL. Design and test APIs with a beautiful interface that developers love.&#xA;Key Features Clean interface designed for developer productivity GraphQL support with query builder and schema explorer Environment management with variables and templates Code generation in 20+ programming languages Plugin system for custom functionality Team sync with encrypted cloud collaboration Advanced auth including OAuth, JWT, AWS signatures Use Cases REST API testing GraphQL development API documentation Team collaboration Integration development Get Started with Insomnia Test APIs with style.</description>
+    </item>
+    <item>
+      <title>Microsoft Power Automate</title>
+      <link>https://toolchest.pro/categories/microsoft-power-automate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/microsoft-power-automate/</guid>
+      <description>Microsoft Power Automate is the cloud-based automation platform that connects your Microsoft 365 apps with hundreds of other services. Create workflows without coding to automate repetitive tasks across your business.&#xA;Used by over 5 million users worldwide, Power Automate integrates seamlessly with Excel, SharePoint, Teams, and Outlook. Build approval workflows, sync data between apps, and automate document processing with pre-built templates and AI-powered features.&#xA;Get Started with Microsoft Power Automate Ready to get started?</description>
+    </item>
+    <item>
       <title>Postman - API development platform</title>
       <link>https://toolchest.pro/categories/postman-api-development-platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/postman-api-development-platform/</guid>
       <description>Postman is the world&amp;rsquo;s leading API development platform, empowering over 25 million developers to build, test, and collaborate on APIs more efficiently.&#xA;From simple REST calls to complex API workflows, Postman provides everything needed to accelerate API development across the entire lifecycle.&#xA;What makes Postman indispensable:&#xA;Complete API lifecycle - Design, test, document, and monitor APIs in one platform Intuitive interface - User-friendly GUI eliminates the need for command-line tools Team collaboration - Share collections, environments, and documentation seamlessly Powerful automation - Run comprehensive test suites and integrate with CI/CD pipelines Core capabilities:</description>
+    </item>
+    <item>
+      <title>Tray.io</title>
+      <link>https://toolchest.pro/categories/tray.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/tray.io/</guid>
+      <description>Tray.io is the visual integration platform that lets you connect any API or system without coding. Build complex workflows with drag-and-drop automation that scales from simple tasks to enterprise-grade integrations.&#xA;Used by companies like Lyft, IBM, and Zendesk, Tray.io offers 600+ pre-built connectors and visual workflow design. Automate data flows between systems, transform data in real-time, and handle errors gracefully with enterprise security and governance.&#xA;Get Started with Tray.io Ready to get started?</description>
+    </item>
+    <item>
+      <title>Workato</title>
+      <link>https://toolchest.pro/categories/workato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/workato/</guid>
+      <description>Workato is the enterprise automation platform that uses AI-powered workflow orchestration to connect and automate complex business processes across systems for Fortune 500 companies.&#xA;Used by 7,000+ enterprises including Slack, Box, and Intuit, Workato offers recipe-based automation, enterprise connectors, API management, and advanced governance. Automate mission-critical processes with intelligent workflow design and enterprise-grade security controls.&#xA;Get Started with Workato Ready to get started? Visit Workato to explore the platform and begin using this tool.</description>
+    </item>
+    <item>
+      <title>Zapier</title>
+      <link>https://toolchest.pro/categories/zapier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/zapier/</guid>
+      <description>Zapier is the leading automation platform that connects over 5,000 apps to eliminate repetitive tasks and manual data entry. It lets you create &amp;ldquo;Zaps&amp;rdquo; - automated workflows that trigger actions between different applications based on specific events or conditions.&#xA;The platform&amp;rsquo;s strength is making complex automation accessible to non-technical users. You can build workflows that automatically sync data between apps, send notifications, update records, and handle routine tasks without any coding.</description>
     </item>
   </channel>
 </rss>

@@ -3,7 +3,7 @@ title: "Intercom"
 tagline: "Modern customer messaging platform for sales, marketing, and support"
 category: "Customer Support Tools"
 categories: ["Customer Support Tools"]
-subcategory: "Live Chat Messaging"
+subcategory: "Live Chat & Messaging"
 tool_name: "Intercom"
 deployment_status: "deployed"
 image: "/images/tools/intercom-placeholder.jpg"

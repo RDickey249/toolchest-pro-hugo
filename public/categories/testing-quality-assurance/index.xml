@@ -15,6 +15,13 @@
       <description>Adobe Target is an enterprise personalization and A/B testing platform that uses AI to deliver individualized experiences at scale. Auto-targeting automatically identifies the best experiences for each visitor using machine learning and behavior analysis.&#xA;Key Features AI-powered personalization - Machine learning optimizes content for each visitor Visual experience composer - Create test variations without coding Auto-targeting - AI identifies best experiences automatically Advanced audience targeting - Integration with Adobe Experience Cloud Server-side testing - Backend optimization and mobile app testing Recommendation engine - AI-driven product and content recommendations Enterprise reporting - Advanced analytics and performance measurement Use Cases Enterprise A/B testing Website personalization E-commerce optimization Mobile app testing Content optimization Get Started with Adobe Target Personalize experiences with AI-powered testing.</description>
     </item>
     <item>
+      <title>Amplitude</title>
+      <link>https://toolchest.pro/categories/amplitude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://toolchest.pro/categories/amplitude/</guid>
+      <description>Amplitude is the leading product analytics platform that helps teams understand user behavior and build better digital products.&#xA;Focused on answering the &amp;ldquo;why&amp;rdquo; behind user actions, Amplitude provides deep behavioral insights that drive product growth and user engagement.&#xA;Product-focused analytics:&#xA;Behavioral cohorts - Group users by actions, not just demographics User journey analysis - Understand the complete path users take through your product Retention analysis - Measure what keeps users coming back Conversion funnels - Identify where users drop off and optimize accordingly Advanced capabilities:</description>
+    </item>
+    <item>
       <title>Artillery</title>
       <link>https://toolchest.pro/categories/artillery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,25 +57,11 @@
       <description>GTmetrix analyzes your website&amp;rsquo;s speed and provides actionable recommendations to optimize performance. Get detailed insights using Google Lighthouse and see exactly how to make your pages load faster.&#xA;Key Features Lighthouse metrics including Core Web Vitals Waterfall charts showing resource loading timeline Performance monitoring with scheduled tests and alerts Global test locations from 7 worldwide regions Mobile testing with various devices and connections Video playback of page loading process Historical tracking to monitor performance trends Use Cases Website speed optimization Core Web Vitals improvement Mobile performance testing Competitor performance comparison Performance regression monitoring Get Started with GTmetrix Analyze your website&amp;rsquo;s performance and get optimization tips.</description>
     </item>
     <item>
-      <title>Hotjar</title>
-      <link>https://toolchest.pro/categories/hotjar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/hotjar/</guid>
-      <description>Hotjar is a user behavior analytics platform that shows how visitors actually use your website. See what users click, where they scroll, and watch session recordings to understand user experience and optimize conversions.&#xA;Key Features Heatmaps - Visualize clicks, scrolls, and cursor movements Session recordings - Watch individual user journeys on your site Conversion funnels - Identify where users drop off in key processes Feedback widgets - Collect user opinions with polls and surveys Form analysis - See which form fields cause abandonment User recruitment - Access targeted users for testing and research Privacy protection - GDPR compliant with automatic PII masking Use Cases Website optimization User experience research Conversion rate optimization Form optimization User feedback collection Get Started with Hotjar See how users really interact with your website.</description>
-    </item>
-    <item>
       <title>HTTPie</title>
       <link>https://toolchest.pro/categories/httpie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/httpie/</guid>
       <description>HTTPie is a command-line HTTP client that makes CLI interaction with web services as human-friendly as possible. It&amp;rsquo;s designed for testing, debugging, and generally interacting with APIs &amp;amp; HTTP servers.&#xA;Key Features Simple syntax that&amp;rsquo;s easier than cURL JSON support with automatic formatting and highlighting Colorized output for better readability Session support for persistent cookies and auth File uploads with progress indicators Plugin system for extensibility Cross-platform support for Linux, macOS, Windows Use Cases API testing from command line Debugging HTTP requests Quick API exploration Server-side development testing CI/CD pipeline integration Get Started with HTTPie Make HTTP requests human-friendly.</description>
-    </item>
-    <item>
-      <title>Insomnia</title>
-      <link>https://toolchest.pro/categories/insomnia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/insomnia/</guid>
-      <description>Insomnia is the open-source API client for REST and GraphQL. Design and test APIs with a beautiful interface that developers love.&#xA;Key Features Clean interface designed for developer productivity GraphQL support with query builder and schema explorer Environment management with variables and templates Code generation in 20+ programming languages Plugin system for custom functionality Team sync with encrypted cloud collaboration Advanced auth including OAuth, JWT, AWS signatures Use Cases REST API testing GraphQL development API documentation Team collaboration Integration development Get Started with Insomnia Test APIs with style.</description>
     </item>
     <item>
       <title>Jasmine</title>

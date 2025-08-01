@@ -57,13 +57,6 @@
       <description>Ansible is an agentless automation platform that uses simple YAML syntax to automate configuration management, application deployment, and infrastructure orchestration.&#xA;Key Features Agentless architecture - No agents required on managed nodes YAML playbooks - Simple, human-readable automation scripts SSH connectivity - Uses standard SSH for communication Idempotent operations - Safe to run multiple times Extensive modules - Thousands of built-in automation modules Inventory management - Static and dynamic host inventories Vault encryption - Secure storage of sensitive data Parallel execution - Run tasks across multiple hosts simultaneously Use Cases Configuration management Application deployment automation Infrastructure orchestration Compliance and security automation Cloud provisioning Get Started with Ansible Automate IT operations with agentless configuration management.</description>
     </item>
     <item>
-      <title>Apigee</title>
-      <link>https://toolchest.pro/categories/apigee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/apigee/</guid>
-      <description>Apigee is Google&amp;rsquo;s API management platform with analytics and security for enterprise API programs. Design, secure, deploy, and scale APIs with comprehensive management and monitoring capabilities.&#xA;Get Started with Apigee Ready to manage APIs at enterprise scale? Visit Apigee to explore Google&amp;rsquo;s comprehensive API management platform with security, analytics, and developer tools.&#xA;Apigee Apigee is Google&amp;rsquo;s enterprise API management platform that provides full-lifecycle API governance, security, analytics, and monetization at scale for organizations building API ecosystems.</description>
-    </item>
-    <item>
       <title>apt</title>
       <link>https://toolchest.pro/categories/apt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -225,13 +218,6 @@
       <description>Cargo is Rust&amp;rsquo;s integrated package manager and build system that combines dependency management, compilation, testing, and documentation generation into a unified development tool.&#xA;Key Features Integrated build system - Compilation, testing, and documentation in one tool Crates.io ecosystem - Access to the growing Rust package repository Declarative configuration - Simple project setup with Cargo.toml files Dependency resolution - Automatic handling of package dependencies Workspace management - Multi-crate project organization Feature flags - Conditional compilation and optional dependencies Cross-compilation - Build for multiple target platforms Built-in testing - Unit tests, integration tests, and benchmarks Use Cases Rust application development Systems programming projects Library creation and publishing Cross-platform development Performance-critical applications Get Started with Cargo Build Rust projects with integrated package management and tooling.</description>
     </item>
     <item>
-      <title>Cassandra</title>
-      <link>https://toolchest.pro/categories/cassandra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/cassandra/</guid>
-      <description>Cassandra dominates large-scale distributed database scenarios through its masterless architecture that eliminates single points of failure while providing linear scalability, eventual consistency, and fault tolerance that enables applications to handle massive datasets across multiple data centers with guaranteed uptime and predictable performance. This wide-column NoSQL database employs a peer-to-peer distributed system where every node is identical, using consistent hashing and replication strategies to ensure data availability even when multiple nodes fail, while its tunable consistency levels allow applications to balance between consistency and performance based on specific requirements.</description>
-    </item>
-    <item>
       <title>Chef</title>
       <link>https://toolchest.pro/categories/chef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -358,13 +344,6 @@
       <description>Cucumber is a behavior-driven development tool that enables teams to write executable specifications in plain English using Gherkin syntax for better collaboration.&#xA;Key Features Gherkin syntax - Write tests in plain English Living documentation - Executable specifications Step definitions - Map natural language to code Scenario outlines - Data-driven test scenarios Multi-language - Java, Ruby, JavaScript support Collaboration tool - Bridge technical and business teams IDE integration - IntelliJ, VS Code, Eclipse support Use Cases Acceptance testing Behavior-driven development Business rule validation Stakeholder collaboration Living documentation Get Started with Cucumber Write executable specifications in plain English.</description>
     </item>
     <item>
-      <title>Cursor</title>
-      <link>https://toolchest.pro/categories/cursor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/cursor/</guid>
-      <description>Cursor is an AI-powered code editor with integrated GPT-4 that enables faster development through intelligent suggestions, automated refactoring, and conversational programming with VS Code compatibility.&#xA;Key Features GPT-4 integration - Conversational programming with natural language code generation Intelligent completion - Context-aware autocomplete with multi-line suggestions Codebase understanding - AI-powered code analysis and navigation Automated refactoring - Intelligent code transformation and optimization Natural language queries - Ask questions about code and receive explanations VS Code compatibility - Familiar interface with extension support AI-assisted collaboration - Enhanced pair programming and code review Multi-language support - Specialized AI models for different languages Use Cases AI-accelerated development workflows Intelligent code generation and completion Complex codebase navigation and understanding Automated refactoring and optimization Natural language programming assistance Get Started with Cursor Accelerate development with AI-powered intelligent coding assistance.</description>
-    </item>
-    <item>
       <title>Dapr</title>
       <link>https://toolchest.pro/categories/dapr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -405,20 +384,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/django/</guid>
       <description>Django is a high-level Python web framework that encourages rapid development with clean, pragmatic design and a &amp;ldquo;batteries-included&amp;rdquo; philosophy.&#xA;Key Features Django ORM - Powerful database abstraction with migrations Admin interface - Automatic admin panel generation Security by default - CSRF, SQL injection, XSS protection URL routing - Clean, SEO-friendly URL patterns Template system - Django Template Language with inheritance Form handling - Comprehensive form validation and rendering User authentication - Built-in user management system Internationalization - Multi-language application support Use Cases Content management systems E-commerce platforms Data-driven web applications Enterprise web applications News and blog websites Get Started with Django Build robust web applications with Python&amp;rsquo;s most popular framework.</description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>https://toolchest.pro/categories/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/docker/</guid>
-      <description>Docker is the containerization platform that revolutionized how applications are built, shipped, and deployed by packaging software and its dependencies into portable containers.&#xA;By solving the &amp;ldquo;it works on my machine&amp;rdquo; problem, Docker has become essential infrastructure for modern software development and deployment.&#xA;How Docker changed everything:&#xA;Consistent environments - Applications run identically across development, testing, and production Lightweight virtualization - Containers share the OS kernel, using fewer resources than VMs Rapid deployment - Start applications in seconds, not minutes Microservices enabler - Perfect for breaking monoliths into smaller, manageable services Core concepts:</description>
-    </item>
-    <item>
-      <title>Docker Compose</title>
-      <link>https://toolchest.pro/categories/docker-compose/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/docker-compose/</guid>
-      <description>Docker Compose is a tool for defining and running multi-container Docker applications using simple YAML configuration files for development and testing.&#xA;Key Features YAML configuration - Define multi-container applications declaratively Service orchestration - Manage multiple containers as a single application Dependency management - Define service startup order and dependencies Environment variables - Configure services with environment-specific settings Volume management - Persistent data storage across containers Network isolation - Automatic service discovery and networking Scaling capabilities - Scale services up and down easily Override files - Environment-specific configuration overrides Use Cases Local development environments Integration testing Small-scale deployments Microservices development Development team collaboration Get Started with Docker Compose Orchestrate multi-container applications with simple YAML configuration.</description>
     </item>
     <item>
       <title>Docsify</title>
@@ -582,13 +547,6 @@
       <description>Git is the world&amp;rsquo;s most popular distributed version control system, enabling developers to track changes, collaborate on code, and manage project history with unparalleled flexibility.&#xA;Key Features Distributed architecture - Complete project history in every repository Powerful branching - Lightweight branches for parallel development Intelligent merging - Advanced algorithms for conflict resolution Offline capability - Full functionality without network connection Performance - Fast operations even with large repositories Data integrity - Cryptographic checksums ensure data reliability Flexible workflows - Support for various development methodologies Extensive ecosystem - Foundation for GitHub, GitLab, and Bitbucket Use Cases Software development version control (industry standard) Open source project collaboration Enterprise code management Personal project tracking DevOps and deployment workflows Get Started with Git Master the essential tool for modern software development.</description>
     </item>
     <item>
-      <title>GitBook</title>
-      <link>https://toolchest.pro/categories/gitbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/gitbook/</guid>
-      <description>GitBook is a modern documentation platform that combines intuitive editing with powerful collaboration features for creating and maintaining knowledge bases.&#xA;Key Features Visual editor - User-friendly WYSIWYG editing interface Git integration - Sync with GitHub and GitLab repositories Real-time collaboration - Multiple editors working simultaneously Version control - Branch-based editing and content versioning Search functionality - Powerful search across all content Custom domains - Use your own domain for documentation Analytics - Track content performance and user engagement API documentation - Specialized tools for API docs Use Cases Technical documentation and guides API documentation and references Internal knowledge bases and wikis Product documentation Team collaboration and knowledge sharing Get Started with GitBook Create beautiful documentation with collaborative editing and Git integration.</description>
-    </item>
-    <item>
       <title>Gitea</title>
       <link>https://toolchest.pro/categories/gitea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -608,13 +566,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/github/</guid>
       <description>GitHub is the world&amp;rsquo;s largest code hosting platform and the social network for developers, home to over 100 million repositories and 83 million developers.&#xA;More than just Git hosting, GitHub has become the central hub for open-source development, team collaboration, and modern DevOps workflows.&#xA;What makes GitHub essential:&#xA;Git hosting - Unlimited public and private repositories with full version control Pull requests - Industry-standard code review and collaboration workflow Issues &amp;amp; project management - Track bugs, features, and organize work GitHub Actions - Powerful CI/CD automation directly integrated with your code Core collaboration features:</description>
-    </item>
-    <item>
-      <title>GitHub Actions</title>
-      <link>https://toolchest.pro/categories/github-actions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/github-actions/</guid>
-      <description>GitHub Actions is GitHub&amp;rsquo;s native CI/CD platform that automates workflows directly within repositories using YAML-based configuration and marketplace actions.&#xA;Key Features Native integration - Built directly into GitHub repositories YAML workflows - Simple workflow-as-code configuration Action marketplace - Thousands of community-contributed actions Matrix builds - Test across multiple OS and versions Event triggers - React to any GitHub event Secrets management - Secure environment variable handling Environment protection - Deployment approval workflows Use Cases GitHub repository automation Open source project CI/CD Pull request validation Automated deployments Release management Get Started with GitHub Actions Automate your GitHub workflows with native CI/CD.</description>
     </item>
     <item>
       <title>GitHub API</title>
@@ -1093,13 +1044,6 @@
       <description>OpenID Connect is a standardized identity layer built on OAuth 2.0, enabling applications to verify user identity with secure ID tokens and standardized user claims.&#xA;Key Features Identity layer - Authentication built on OAuth 2.0 authorization ID tokens - JWT-based identity verification with user claims Multiple flows - Authorization code, implicit, and hybrid flows Userinfo endpoint - Standardized user profile information access Discovery mechanism - Automatic configuration and endpoint discovery Session management - Single logout and session monitoring Interoperability - Standard protocol across identity providers Claims-based - Flexible user attribute and role management Use Cases Single sign-on (SSO) implementations Federated identity management User authentication for web and mobile apps Enterprise identity integration Social login and identity verification Get Started with OpenID Connect Implement standardized authentication with identity layer.</description>
     </item>
     <item>
-      <title>OpenShift</title>
-      <link>https://toolchest.pro/categories/openshift/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/openshift/</guid>
-      <description>OpenShift is Red Hat&amp;rsquo;s enterprise Kubernetes platform that provides developer tools, enhanced security, and integrated CI/CD for production-ready applications.&#xA;Key Features Enterprise Kubernetes - Production-ready Kubernetes with enterprise features Developer console - Web-based development and deployment interface Source-to-image builds - Automated application builds from source code Integrated CI/CD - Built-in continuous integration and deployment Enhanced security - Security scanning, policies, and compliance Operator framework - Automated application lifecycle management Service mesh - Istio integration for microservices communication Multi-cloud support - Deploy across hybrid and multi-cloud environments Use Cases Enterprise Kubernetes deployment DevOps and application modernization Hybrid and multi-cloud strategies Container platform standardization Microservices and cloud-native development Get Started with OpenShift Deploy enterprise Kubernetes with integrated developer tools and security.</description>
-    </item>
-    <item>
       <title>OpenTelemetry</title>
       <link>https://toolchest.pro/categories/opentelemetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1273,13 +1217,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/railway/</guid>
       <description>Railway is an infrastructure platform for rapid application deployment with modern automation, Git-based deployment, automatic scaling, and comprehensive project management capabilities.&#xA;Key Features Zero-configuration deployment - Deploy applications without complex setup Git-based workflows - Automatic deployment from GitHub repositories Database hosting - Managed PostgreSQL, MySQL, Redis, and MongoDB Automatic scaling - Scale applications based on traffic and demand Team collaboration - Shared projects with role-based access control Preview environments - Test changes with temporary deployments Infrastructure templates - Pre-built templates for common applications Real-time monitoring - Application metrics and performance tracking Use Cases Full-stack application deployment Team development projects Database hosting and management Microservices and API development Rapid prototyping and MVPs Get Started with Railway Deploy applications rapidly with modern infrastructure automation.</description>
-    </item>
-    <item>
-      <title>Rancher</title>
-      <link>https://toolchest.pro/categories/rancher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/rancher/</guid>
-      <description>Rancher is a complete container management platform that simplifies Kubernetes deployment and management across any infrastructure with centralized operations.&#xA;Key Features Multi-cluster management - Centralized management of multiple Kubernetes clusters Cluster provisioning - Deploy clusters on any infrastructure Centralized authentication - Unified identity and access management Policy enforcement - Consistent security and governance policies Workload management - Deploy and manage applications across clusters Monitoring integration - Built-in monitoring and alerting Multi-tenancy - Secure resource isolation and access control Disaster recovery - Backup and restore capabilities Use Cases Enterprise Kubernetes management Multi-cluster operations Hybrid and multi-cloud deployments Edge computing management DevOps team collaboration Get Started with Rancher Manage Kubernetes everywhere with centralized operations and simplified deployment.</description>
     </item>
     <item>
       <title>React</title>
@@ -1478,13 +1415,6 @@
       <description>Spinnaker is a multi-cloud continuous delivery platform that provides advanced deployment orchestration with sophisticated deployment strategies and safety mechanisms.&#xA;Key Features Multi-cloud support - Deploy to AWS, Google Cloud, Azure, Kubernetes Deployment strategies - Blue-green, canary, rolling deployments Automated canary analysis - Intelligent rollback based on metrics Pipeline management - Visual pipeline builder and orchestration Infrastructure provisioning - Automated infrastructure management Safety checks - Manual judgments and automated gates Audit trails - Comprehensive deployment tracking Rollback capabilities - Fast, automated rollback mechanisms Use Cases Multi-cloud application deployment Enterprise continuous delivery Canary and blue-green deployments Infrastructure as code deployment Progressive delivery workflows Get Started with Spinnaker Orchestrate multi-cloud deployments with advanced delivery strategies.</description>
     </item>
     <item>
-      <title>Splunk</title>
-      <link>https://toolchest.pro/categories/splunk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/splunk/</guid>
-      <description>Splunk turns machine data into insights. Whether it&amp;rsquo;s server logs, security events, or IoT sensors, Splunk ingests any data and makes it searchable, analyzable, and actionable at enterprise scale.&#xA;Used by 92 of the Fortune 100 companies, Splunk is the platform that IT operations, security teams, and business analysts rely on to understand what&amp;rsquo;s happening across their entire technology stack.&#xA;Key Features Universal Data Ingestion: Collect data from any source - logs, metrics, events, traces Powerful Search Language: Query terabytes of data in seconds with SPL (Search Processing Language) Real-time Monitoring: Set alerts and dashboards that respond to events as they happen Machine Learning: Built-in ML algorithms detect anomalies and predict issues Security Analytics: SIEM capabilities for threat detection and incident response Custom Dashboards: Create visualizations that tell your data&amp;rsquo;s story Why Teams Choose Splunk Splunk excels at finding needles in haystacks.</description>
-    </item>
-    <item>
       <title>Spotify API</title>
       <link>https://toolchest.pro/categories/spotify-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1497,13 +1427,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/spring-boot/</guid>
       <description>Spring Boot is a Java framework that simplifies Spring application development with auto-configuration, embedded servers, and production-ready features.&#xA;Key Features Auto-configuration - Intelligent setup based on dependencies Embedded servers - Built-in Tomcat, Jetty, or Undertow Starter dependencies - Curated dependency collections Actuator - Production monitoring and health checks Spring Security - Authentication and authorization Data access - Spring Data JPA integration Cloud-native - Configuration and service discovery Developer tools - Hot reload and automatic restart Use Cases Enterprise Java applications Microservices architecture REST API development Production-ready services Cloud-native applications Get Started with Spring Boot Create production-ready Java applications with minimal configuration.</description>
-    </item>
-    <item>
-      <title>SQLite</title>
-      <link>https://toolchest.pro/categories/sqlite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/sqlite/</guid>
-      <description>SQLite is the world&amp;rsquo;s most deployed database engine—a lightweight, serverless SQL database that requires zero configuration. Store your entire database in a single file, perfect for mobile apps, desktop software, and embedded systems.&#xA;Key Benefits Zero Configuration: No setup, no server, no administration—just start using it immediately.&#xA;Single File Database: Your entire database lives in one file that you can copy, move, or backup like any other file.&#xA;Cross-Platform: Works identically on Windows, macOS, Linux, iOS, and Android.</description>
     </item>
     <item>
       <title>Statiq</title>
@@ -1791,13 +1714,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://toolchest.pro/categories/youtube-data-api/</guid>
       <description>YouTube Data API provides access to YouTube&amp;rsquo;s video platform, enabling developers to search content, manage channels, and integrate video functionality into applications.&#xA;Key Features Video search - Search YouTube&amp;rsquo;s massive video database Channel management - Create, update, and manage YouTube channels Playlist operations - Create and manage video playlists Video upload - Upload and manage video content Analytics access - Retrieve detailed video and channel analytics Comment management - Handle video comments and interactions Live streaming - Manage live broadcasts and streaming Subscription management - Handle channel subscriptions and notifications Use Cases Video content aggregation and curation Channel and content management tools Educational platform video integration Social media and sharing applications Video analytics and reporting dashboards Get Started with YouTube Data API Integrate YouTube&amp;rsquo;s video platform into your applications.</description>
-    </item>
-    <item>
-      <title>Zabbix</title>
-      <link>https://toolchest.pro/categories/zabbix/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/zabbix/</guid>
-      <description>Zabbix is the open-source enterprise monitoring solution trusted by organizations worldwide to keep their IT infrastructure running smoothly. It monitors everything from servers and networks to applications and services in real-time.&#xA;Used by companies like ING Bank, T-Mobile, and SoftBank, Zabbix handles monitoring at massive scale while remaining completely free and open-source. It&amp;rsquo;s the monitoring platform that grows with your infrastructure.&#xA;Key Features Auto-Discovery: Automatically detect and start monitoring new devices and services Real-time Monitoring: Collect and analyze metrics with sub-second precision Predictive Analytics: Identify potential issues before they become problems Flexible Alerting: Customizable notifications via email, SMS, Slack, and more Web Interface: Comprehensive dashboards and configuration through web UI Distributed Monitoring: Scale monitoring across multiple locations and data centers Why IT Teams Choose Zabbix Zabbix combines enterprise features with open-source flexibility.</description>
     </item>
     <item>
       <title>Zapier API</title>
