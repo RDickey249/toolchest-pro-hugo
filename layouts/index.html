@@ -15,8 +15,7 @@
         <!-- Use affiliate tools data file -->
         {{ range first 12 site.Data.affiliate_tools }}
         {{ $toolName := .name }}
-        {{ $toolPage := where site.RegularPages ".Title" $toolName | first 1 }}
-        {{ with $toolPage }}
+        {{ range where site.RegularPages ".Title" $toolName }}
         <div class="card tool-card">
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <p class="tool-tagline">{{ .Params.tagline }}</p>
