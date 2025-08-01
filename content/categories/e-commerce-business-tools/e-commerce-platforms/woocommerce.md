@@ -1,8 +1,8 @@
 ---
 title: "WooCommerce"
 tagline: "WordPress e-commerce"
-category: "E-commerce & Business Tools"
-categories: ["E-commerce & Business Tools"]
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "E-commerce Platforms"
 tool_name: "WooCommerce"
 deployment_status: "deployed"

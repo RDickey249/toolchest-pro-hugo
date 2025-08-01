@@ -1,8 +1,8 @@
 ---
 title: "Shoeboxed"
 tagline: "Expense management"
-category: "Travel & Expense Management"
-categories: ["Travel & Expense Management"]
+category: "✈️ Travel & Expense Management"
+categories: ["✈️ Travel & Expense Management"]
 subcategory: "Expense Management"
 tool_name: "Shoeboxed"
 deployment_status: "deployed"

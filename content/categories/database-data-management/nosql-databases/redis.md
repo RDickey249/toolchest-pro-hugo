@@ -1,13 +1,13 @@
 ---
 title: "Redis"
 tagline: "In-memory database"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "NoSQL Databases"
 tool_name: "Redis"
 deployment_status: "deployed"
 image: "/images/tools/redis-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 Redis is the world's most popular in-memory data store, delivering sub-millisecond response times for millions of requests per second.

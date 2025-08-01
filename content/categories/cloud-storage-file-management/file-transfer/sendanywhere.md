@@ -1,8 +1,8 @@
 ---
 title: "SendAnywhere"
 tagline: "Cross-platform transfer"
-category: "Cloud Storage & File Management"
-categories: ["Cloud Storage & File Management"]
+category: "☁️ Cloud Storage & File Management"
+categories: ["☁️ Cloud Storage & File Management"]
 subcategory: "File Transfer"
 tool_name: "SendAnywhere"
 deployment_status: "deployed"

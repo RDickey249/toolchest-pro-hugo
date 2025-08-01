@@ -1,8 +1,8 @@
 ---
 title: "Webcams - Logitech, Razer, etc."
 tagline: "Professional webcams for video conferencing, streaming, and content creation"
-category: "Hardware & Equipment Tools"
-categories: ["Hardware & Equipment Tools"]
+category: "🖥️ Hardware & Equipment Tools"
+categories: ["🖥️ Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Webcams - Logitech, Razer, etc."
 external_link: "https://www.logitech.com/en-us/products/webcams.html"

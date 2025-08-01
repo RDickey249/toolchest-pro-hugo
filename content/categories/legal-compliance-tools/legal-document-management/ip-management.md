@@ -1,8 +1,8 @@
 ---
 title: "IP Management"
 tagline: "Trademark and patent tools"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Legal Document Management"
 tool_name: "IP Management"
 deployment_status: "deployed"

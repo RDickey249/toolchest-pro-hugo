@@ -1,13 +1,13 @@
 ---
 title: "BigQuery"
 tagline: "Google's data warehouse"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "BigQuery"
 deployment_status: "deployed"
 image: "/images/tools/bigquery-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 BigQuery is Google's fully-managed, serverless data warehouse that enables super-fast SQL queries using Google's processing power.

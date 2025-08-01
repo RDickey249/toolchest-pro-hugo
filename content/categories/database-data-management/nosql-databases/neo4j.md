@@ -1,8 +1,8 @@
 ---
 title: "Neo4j"
 tagline: "Leading graph database for connected data relationships"
-category: "Database & Data Management"
-categories: ["Database & Data Management"]
+category: "🗄️ Database & Data Management"
+categories: ["🗄️ Database & Data Management"]
 subcategory: "Nosql Databases"
 tool_name: "Neo4j"
 deployment_status: "deployed"

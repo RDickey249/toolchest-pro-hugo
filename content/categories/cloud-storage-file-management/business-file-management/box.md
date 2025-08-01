@@ -1,8 +1,8 @@
 ---
 title: "Box"
 tagline: "Business-focused storage"
-category: "Cloud Storage & File Management"
-categories: ["Cloud Storage & File Management"]
+category: "☁️ Cloud Storage & File Management"
+categories: ["☁️ Cloud Storage & File Management"]
 subcategory: "Business File Management"
 tool_name: "Box"
 deployment_status: "deployed"

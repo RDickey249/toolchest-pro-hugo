@@ -1,8 +1,8 @@
 ---
 title: "GDPR Compliance Tools"
 tagline: "Various specialized tools"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Privacy Compliance"
 tool_name: "GDPR Compliance Tools"
 deployment_status: "deployed"

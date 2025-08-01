@@ -1,13 +1,13 @@
 ---
 title: "Databricks"
 tagline: "Unified analytics platform for data and AI"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "Databricks"
 deployment_status: "deployed"
 image: "/images/tools/databricks-placeholder.jpg"
 tags: ["automation-workflows", "data-integration"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Integration"]
 ---
 Databricks is the unified platform where data teams collaborate on analytics, AI, and machine learning. Built on Apache Spark, it combines the best of data warehouses and data lakes into a simple, powerful platform.

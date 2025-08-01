@@ -1,8 +1,8 @@
 ---
 title: "TradeGecko"
 tagline: "Inventory and order management"
-category: "E-commerce & Business Tools"
-categories: ["E-commerce & Business Tools"]
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "Inventory Management"
 tool_name: "TradeGecko"
 deployment_status: "deployed"

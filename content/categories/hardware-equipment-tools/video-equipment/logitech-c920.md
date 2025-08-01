@@ -1,8 +1,8 @@
 ---
 title: "Logitech C920"
 tagline: "Industry-standard HD webcam that delivers professional video quality for streaming and conferencing"
-category: "Hardware & Equipment Tools"
-categories: ["Hardware & Equipment Tools"]
+category: "🖥️ Hardware & Equipment Tools"
+categories: ["🖥️ Hardware & Equipment Tools"]
 subcategory: "Video Equipment"
 tool_name: "Logitech C920"
 external_link: "https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.html"

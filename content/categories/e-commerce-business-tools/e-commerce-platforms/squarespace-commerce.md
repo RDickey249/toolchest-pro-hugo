@@ -1,8 +1,8 @@
 ---
 title: "Squarespace Commerce"
 tagline: "Design-focused stores"
-category: "E-commerce & Business Tools"
-categories: ["E-commerce & Business Tools"]
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "E-commerce Platforms"
 tool_name: "Squarespace Commerce"
 deployment_status: "deployed"

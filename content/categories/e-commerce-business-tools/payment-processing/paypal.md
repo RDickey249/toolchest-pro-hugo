@@ -1,8 +1,8 @@
 ---
 title: "Paypal"
 tagline: "Payment solution"
-category: "E-commerce & Business Tools"
-categories: ["E-commerce & Business Tools"]
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "Payment Processing"
 tool_name: "Paypal"
 deployment_status: "deployed"

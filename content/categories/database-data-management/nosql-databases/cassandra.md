@@ -1,8 +1,8 @@
 ---
 title: "Cassandra"
 tagline: "Distributed NoSQL database built for scalability and high availability"
-category: "Database & Data Management"
-categories: ["Database & Data Management"]
+category: "🗄️ Database & Data Management"
+categories: ["🗄️ Database & Data Management"]
 subcategory: "NoSQL Databases"
 tool_name: "Cassandra"
 deployment_status: "deployed"

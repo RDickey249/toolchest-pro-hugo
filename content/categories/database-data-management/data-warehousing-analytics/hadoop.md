@@ -1,13 +1,13 @@
 ---
 title: "Hadoop"
 tagline: "Distributed storage"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "Hadoop"
 deployment_status: "deployed"
 image: "/images/tools/hadoop-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 Hadoop provides the foundational infrastructure for big data storage and processing, enabling organizations to manage petabyte-scale datasets across clusters of commodity hardware. Its distributed architecture ensures data reliability through automatic replication and fault tolerance.

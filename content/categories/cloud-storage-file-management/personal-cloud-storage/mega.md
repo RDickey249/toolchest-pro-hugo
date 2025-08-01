@@ -1,8 +1,8 @@
 ---
 title: "MEGA"
 tagline: "Secure cloud storage"
-category: "Cloud Storage & File Management"
-categories: ["Cloud Storage & File Management"]
+category: "☁️ Cloud Storage & File Management"
+categories: ["☁️ Cloud Storage & File Management"]
 subcategory: "Personal Cloud Storage"
 tool_name: "MEGA"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Citrix ShareFile"
 tagline: "Secure file sharing"
-category: "Cloud Storage & File Management"
-categories: ["Cloud Storage & File Management"]
+category: "☁️ Cloud Storage & File Management"
+categories: ["☁️ Cloud Storage & File Management"]
 subcategory: "Business File Management"
 tool_name: "Citrix ShareFile"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "MyCorporation"
 tagline: "Business formation services"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Business Registration Licensing"
 tool_name: "MyCorporation"
 deployment_status: "deployed"

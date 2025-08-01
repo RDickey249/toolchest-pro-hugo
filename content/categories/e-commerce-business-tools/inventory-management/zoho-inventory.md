@@ -1,8 +1,8 @@
 ---
 title: "Zoho Inventory"
 tagline: "Multi-channel inventory"
-category: "E-commerce & Business Tools"
-categories: ["E-commerce & Business Tools"]
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "Inventory Management"
 tool_name: "Zoho Inventory"
 deployment_status: "deployed"

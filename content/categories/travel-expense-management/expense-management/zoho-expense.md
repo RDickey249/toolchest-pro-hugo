@@ -1,8 +1,8 @@
 ---
 title: "Zoho-expense"
 tagline: "Expense management"
-category: "Travel & Expense Management"
-categories: ["Travel & Expense Management"]
+category: "✈️ Travel & Expense Management"
+categories: ["✈️ Travel & Expense Management"]
 subcategory: "Expense Management"
 tool_name: "Zoho-expense"
 deployment_status: "deployed"

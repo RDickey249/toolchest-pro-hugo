@@ -1,8 +1,8 @@
 ---
 title: "WeTransfer"
 tagline: "Simple large file sharing"
-category: "Cloud Storage & File Management"
-categories: ["Cloud Storage & File Management"]
+category: "☁️ Cloud Storage & File Management"
+categories: ["☁️ Cloud Storage & File Management"]
 subcategory: "File Transfer"
 tool_name: "WeTransfer"
 deployment_status: "deployed"

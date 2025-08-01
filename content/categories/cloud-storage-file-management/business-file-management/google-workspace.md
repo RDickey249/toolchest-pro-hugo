@@ -1,13 +1,13 @@
 ---
 title: "Google Workspace"
 tagline: "Docs, Sheets, Slides"
-category: "Cloud Storage & File Management"
+category: "☁️ Cloud Storage & File Management"
 subcategory: "Business File Management"
 tool_name: "Google Workspace"
 deployment_status: "deployed"
 image: "/images/tools/google-workspace-placeholder.jpg"
 tags: ["communication-collaboration", "document-collaboration"]
-categories: ["Cloud Storage & File Management"]
+categories: ["☁️ Cloud Storage & File Management"]
 subcategories: ["Document Collaboration"]
 ---
 Google Workspace is the cloud-based productivity suite that transformed how teams collaborate on documents, spreadsheets, and presentations in real-time.

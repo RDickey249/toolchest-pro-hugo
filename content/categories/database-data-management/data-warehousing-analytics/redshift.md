@@ -1,13 +1,13 @@
 ---
 title: "Redshift"
 tagline: "Amazon's data warehouse"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "Redshift"
 deployment_status: "deployed"
 image: "/images/tools/redshift-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 Amazon Redshift delivers fast, scalable data warehousing optimized for analytical workloads through columnar storage and parallel processing. Its cloud-native architecture provides automatic scaling and maintenance while integrating seamlessly with the broader AWS ecosystem.

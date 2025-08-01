@@ -1,8 +1,8 @@
 ---
 title: "Microsoft SQL Server"
 tagline: "Enterprise Windows database with comprehensive business intelligence"
-category: "Database & Data Management"
-categories: ["Database & Data Management"]
+category: "🗄️ Database & Data Management"
+categories: ["🗄️ Database & Data Management"]
 subcategory: "Relational Databases"
 tool_name: "Microsoft SQL Server"
 deployment_status: "deployed"

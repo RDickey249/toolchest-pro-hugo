@@ -1,8 +1,8 @@
 ---
 title: "Authorize.Net"
 tagline: "Payment gateway"
-category: "E-commerce & Business Tools"
-categories: ["E-commerce & Business Tools"]
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "Payment Processing"
 tool_name: "Authorize.Net"
 deployment_status: "deployed"

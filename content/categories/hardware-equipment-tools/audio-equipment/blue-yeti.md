@@ -1,8 +1,8 @@
 ---
 title: "Blue Yeti"
 tagline: "Professional USB microphone that delivers broadcast-quality audio for content creators"
-category: "Hardware & Equipment Tools"
-categories: ["Hardware & Equipment Tools"]
+category: "🖥️ Hardware & Equipment Tools"
+categories: ["🖥️ Hardware & Equipment Tools"]
 subcategory: "Audio Equipment"
 tool_name: "Blue Yeti"
 external_link: "https://www.bluemic.com/en-us/products/yeti/"

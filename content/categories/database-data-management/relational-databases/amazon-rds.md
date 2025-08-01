@@ -1,8 +1,8 @@
 ---
 title: "Amazon RDS"
 tagline: "Fully managed relational database service in AWS"
-category: "Database & Data Management"
-categories: ["Database & Data Management"]
+category: "🗄️ Database & Data Management"
+categories: ["🗄️ Database & Data Management"]
 subcategory: "Relational Databases"
 tool_name: "Amazon RDS"
 deployment_status: "deployed"

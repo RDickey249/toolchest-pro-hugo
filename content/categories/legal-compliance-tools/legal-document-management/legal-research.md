@@ -1,8 +1,8 @@
 ---
 title: "Legal Research"
 tagline: "Westlaw, LexisNexis"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Legal Document Management"
 tool_name: "Legal Research"
 deployment_status: "deployed"

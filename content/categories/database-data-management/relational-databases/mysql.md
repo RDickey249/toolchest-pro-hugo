@@ -1,13 +1,13 @@
 ---
 title: "MySQL"
 tagline: "Popular database"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Relational Databases"
 tool_name: "MySQL"
 deployment_status: "deployed"
 image: "/images/tools/mysql-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 MySQL is the world's most popular open-source relational database, powering millions of applications from small websites to massive enterprise systems.

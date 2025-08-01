@@ -1,8 +1,8 @@
 ---
 title: "DynamoDB"
 tagline: "Amazon's fully managed NoSQL database service"
-category: "Database & Data Management"
-categories: ["Database & Data Management"]
+category: "🗄️ Database & Data Management"
+categories: ["🗄️ Database & Data Management"]
 subcategory: "Nosql Databases"
 tool_name: "DynamoDB"
 deployment_status: "deployed"

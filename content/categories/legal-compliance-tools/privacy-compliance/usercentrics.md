@@ -1,8 +1,8 @@
 ---
 title: "Usercentrics"
 tagline: "Consent management"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Privacy Compliance"
 tool_name: "Usercentrics"
 deployment_status: "deployed"

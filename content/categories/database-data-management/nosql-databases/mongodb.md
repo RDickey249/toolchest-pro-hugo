@@ -1,13 +1,13 @@
 ---
 title: "MongoDB"
 tagline: "NoSQL database"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "NoSQL Databases"
 tool_name: "MongoDB"
 deployment_status: "deployed"
 image: "/images/tools/mongodb-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 MongoDB is the world's most popular NoSQL database, designed for modern applications that need flexible, scalable data storage.

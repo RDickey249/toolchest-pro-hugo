@@ -1,8 +1,8 @@
 ---
 title: "Incfile"
 tagline: "Business formation"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Business Registration Licensing"
 tool_name: "Incfile"
 deployment_status: "deployed"

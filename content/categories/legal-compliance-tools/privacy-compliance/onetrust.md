@@ -1,8 +1,8 @@
 ---
 title: "OneTrust"
 tagline: "Privacy management platform"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Privacy Compliance"
 tool_name: "OneTrust"
 deployment_status: "deployed"

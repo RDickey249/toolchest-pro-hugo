@@ -1,13 +1,13 @@
 ---
 title: "PostgreSQL"
 tagline: "Open-source database"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Relational Databases"
 tool_name: "PostgreSQL"
 deployment_status: "deployed"
 image: "/images/tools/postgresql-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Management"]
 ---
 PostgreSQL is the world's most advanced open-source relational database, known for its reliability, feature robustness, and performance.

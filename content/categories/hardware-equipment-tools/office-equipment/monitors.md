@@ -1,8 +1,8 @@
 ---
 title: "Monitors"
 tagline: "High-quality displays that enhance productivity and visual experience for professionals"
-category: "Hardware & Equipment Tools"
-categories: ["Hardware & Equipment Tools"]
+category: "🖥️ Hardware & Equipment Tools"
+categories: ["🖥️ Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Monitors"
 external_link: "https://www.lg.com/us/monitors"

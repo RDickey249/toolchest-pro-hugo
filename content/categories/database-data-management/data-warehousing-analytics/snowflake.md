@@ -1,13 +1,13 @@
 ---
 title: "Snowflake"
 tagline: "Cloud-native data platform with elastic scaling"
-category: "Database & Data Management"
+category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "Snowflake"
 deployment_status: "deployed"
 image: "/images/tools/snowflake-placeholder.jpg"
 tags: ["automation-workflows", "data-integration"]
-categories: ["Database & Data Management"]
+categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Integration"]
 ---
 Snowflake is the cloud data platform that's built for the cloud from the ground up. Unlike traditional data warehouses that were retrofitted for the cloud, Snowflake separates compute from storage, enabling instant scaling and pay-per-use pricing.

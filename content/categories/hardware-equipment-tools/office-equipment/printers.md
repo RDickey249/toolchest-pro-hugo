@@ -1,8 +1,8 @@
 ---
 title: "Printers - Brother, HP, Canon"
 tagline: "Reliable home and office printers for documents, photos, and professional printing needs"
-category: "Hardware & Equipment Tools"
-categories: ["Hardware & Equipment Tools"]
+category: "🖥️ Hardware & Equipment Tools"
+categories: ["🖥️ Hardware & Equipment Tools"]
 subcategory: "Office Equipment"
 tool_name: "Printers - Brother, HP, Canon"
 external_link: "https://www.brother-usa.com/printers"

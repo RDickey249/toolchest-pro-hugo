@@ -1,8 +1,8 @@
 ---
 title: "EIN Application"
 tagline: "IRS business tax ID"
-category: "Legal & Compliance Tools"
-categories: ["Legal & Compliance Tools"]
+category: "⚖️ Legal & Compliance Tools"
+categories: ["⚖️ Legal & Compliance Tools"]
 subcategory: "Business Registration Licensing"
 tool_name: "EIN Application"
 deployment_status: "deployed"

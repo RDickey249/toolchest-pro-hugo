@@ -1,13 +1,13 @@
 ---
 title: "BigCommerce"
 tagline: "Enterprise e-commerce"
-category: "E-commerce & Business Tools"
+category: "🛍️ E-commerce & Business Tools"
 subcategory: "E-commerce Platforms"
 tool_name: "BigCommerce"
 deployment_status: "deployed"
 image: "/images/tools/bigcommerce-placeholder.jpg"
 tags: ["ecommerce-business-tools", "ecommerce-platforms"]
-categories: ["E-commerce & Business Tools"]
+categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["E-commerce Platforms"]
 affiliate: true
 featured: true
