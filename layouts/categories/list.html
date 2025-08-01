@@ -11,25 +11,21 @@
     {{ end }}
     
     <div class="grid grid-3" data-premium-zone="categories-grid">
-        {{ $allPages := where .Site.RegularPages "Section" "categories" }}
-        {{ $groupedPages := $allPages | group "Params.category" }}
-        {{ range $groupedPages }}
-        {{ $categoryName := .Key }}
+        {{ range $categoryName, $taxonomy := .Site.Taxonomies.categories }}
         {{ $cleanCategoryName := $categoryName | replaceRE "^[^A-Za-z0-9 ]*\\s*" "" }}
-        {{ $tools := .Pages }}
         {{ $categorySlug := $cleanCategoryName | urlize }}
         <div class="card category-card" data-premium-zone="category-card">
             <h2><a href="{{ "/categories/" | relURL }}{{ $categorySlug }}/">{{ $cleanCategoryName }}</a></h2>
             <p class="category-description">{{ $cleanCategoryName }} tools and platforms</p>
-            <p class="tool-count">{{ len $tools }} tools</p>
+            <p class="tool-count">{{ len $taxonomy }} tools</p>
             
-            {{ if ge (len $tools) 3 }}
+            {{ if ge (len $taxonomy) 3 }}
             <div class="sample-tools">
                 <strong>Sample tools:</strong>
-                {{ range first 3 $tools }}
-                {{ .Title }}{{ if not (eq . (index (first 3 $tools) 2)) }}, {{ end }}
+                {{ range first 3 $taxonomy }}
+                {{ .Title }}{{ if not (eq . (index (first 3 $taxonomy) 2)) }}, {{ end }}
                 {{ end }}
-                {{ if gt (len $tools) 3 }}...{{ end }}
+                {{ if gt (len $taxonomy) 3 }}...{{ end }}
             </div>
             {{ end }}
             <span class="premium-category-hook" data-premium-zone="category-overlay" style="display: none;"></span>
