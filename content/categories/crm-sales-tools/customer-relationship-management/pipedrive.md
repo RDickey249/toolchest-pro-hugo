@@ -11,6 +11,10 @@ categories: ["CRM & Sales Tools"]
 subcategories: ["Customer Relationship Management"]
 affiliate: true
 featured: true
+affiliate_url: "https://www.pipedrive.com/partner/toolchest"
+affiliate_cta: "Try Pipedrive Free"
+commission: "25%"
+affiliate_tier: "premium"
 ---
 Pipedrive is the visual CRM built for sales teams who want to see their deals progress clearly and close more business.
 
@@ -43,6 +47,11 @@ With its intuitive drag-and-drop pipeline interface, Pipedrive makes it easy to 
 - Excellent customer support
 
 Over 100,000 companies use Pipedrive to organize their sales process and close more deals consistently.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Pipedrive
 

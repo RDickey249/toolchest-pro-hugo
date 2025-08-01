@@ -27,6 +27,11 @@ Trusted by over 500,000 businesses worldwide, Sendinblue offers enterprise featu
 ## Why Businesses Choose Sendinblue
 Sendinblue delivers premium features without premium pricing. While competitors charge based on contacts, Sendinblue charges based on emails sent, making it perfect for businesses with large contact lists. The platform's European heritage also ensures GDPR compliance by design.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Sendinblue
 
 Ready to get started? Visit [Sendinblue](https://www.sendinblue.com) to explore the platform and begin using this tool.

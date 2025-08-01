@@ -53,6 +53,11 @@ Created as an affordable alternative to expensive marketing tools, Systeme.io co
 
 Used by thousands of entrepreneurs to launch and scale their online businesses without the complexity and cost of managing multiple platforms.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Systeme.io
 
 Ready to get started? Visit [Systeme.io](https://systeme.io) to explore the platform and begin using this tool.

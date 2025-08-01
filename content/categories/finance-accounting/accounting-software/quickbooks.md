@@ -7,6 +7,11 @@ subcategory: "Accounting Software"
 tool_name: "QuickBooks"
 deployment_status: "deployed"
 image: "/images/tools/quickbooks-placeholder.jpg"
+affiliate: true
+affiliate_url: "https://quickbooks.intuit.com/partners/toolchest"
+affiliate_cta: "Try QuickBooks Free"
+commission: "$50"
+affiliate_tier: "standard"
 ---
 QuickBooks is the industry-standard accounting software for small businesses, providing comprehensive financial management tools with seamless integration and proven reliability.
 
@@ -27,6 +32,11 @@ QuickBooks is the industry-standard accounting software for small businesses, pr
 - Growing company financial systems
 - Tax preparation and compliance
 - Payroll and employee management
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with QuickBooks
 

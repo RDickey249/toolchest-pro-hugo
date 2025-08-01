@@ -53,6 +53,11 @@ What sets Lemlist apart is its focus on personalization at scale - enabling you 
 
 Used by over 10,000 companies to create memorable, personalized outreach campaigns that cut through the noise and generate qualified meetings.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Lemlist
 
 Ready to get started? Visit [Lemlist](https://lemlist.com) to explore the platform and begin using this tool.

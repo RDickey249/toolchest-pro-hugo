@@ -58,6 +58,11 @@ Built specifically for online stores, ReferralCandy makes it easy to set up and 
 
 Trusted by over 30,000 e-commerce businesses worldwide to create successful referral programs that drive sustainable growth.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with ReferralCandy
 
 Ready to get started? Visit [ReferralCandy](https://www.referralcandy.com) to explore the platform and begin using this tool.

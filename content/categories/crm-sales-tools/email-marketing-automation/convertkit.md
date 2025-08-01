@@ -11,6 +11,10 @@ categories: ["CRM & Sales Tools"]
 subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true
+affiliate_url: "https://convertkit.com?lmref=toolchest"
+affiliate_cta: "Try ConvertKit Free"
+commission: "30%"
+affiliate_tier: "premium"
 ---
 ConvertKit is the email marketing platform built specifically for creators who want to turn their audience into a sustainable business.
 
@@ -42,6 +46,11 @@ Unlike generic email tools, ConvertKit understands the unique needs of bloggers,
 - No hidden fees or complex pricing tiers
 
 Join over 600,000 creators who use ConvertKit to build sustainable businesses around their content and expertise.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with ConvertKit
 

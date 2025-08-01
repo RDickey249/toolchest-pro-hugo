@@ -46,6 +46,11 @@ Teams love Jasper because it eliminates writer's block while maintaining quality
 • Can be overwhelming for beginners
 • Requires strategic thinking
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Jasper.ai
 
 Ready to get started? Visit [Jasper.ai](https://www.jasper.ai) to explore the platform and begin using this tool.

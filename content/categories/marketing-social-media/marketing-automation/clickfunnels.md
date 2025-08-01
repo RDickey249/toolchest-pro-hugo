@@ -45,6 +45,11 @@ Built by Russell Brunson and used by over 100,000 entrepreneurs, ClickFunnels pr
 
 Join thousands of entrepreneurs who use ClickFunnels to build profitable sales funnels and grow their businesses online.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with ClickFunnels
 
 Ready to get started? Visit [ClickFunnels](https://www.clickfunnels.com) to explore the platform and begin using this tool.

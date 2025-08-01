@@ -7,6 +7,11 @@ subcategory: "Accounting Software"
 tool_name: "FreshBooks"
 deployment_status: "deployed"
 image: "/images/tools/freshbooks-placeholder.jpg"
+affiliate: true
+affiliate_url: "https://www.freshbooks.com/partner/toolchest"
+affiliate_cta: "Start Free Trial"
+commission: "25%"
+affiliate_tier: "standard"
 ---
 FreshBooks is accounting software designed specifically for freelancers and service-based businesses, combining time tracking, project management, and client-focused financial tools.
 
@@ -27,6 +32,11 @@ FreshBooks is accounting software designed specifically for freelancers and serv
 - Consultant project tracking
 - Creative agency financial management
 - Time-based billing and client work
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with FreshBooks
 

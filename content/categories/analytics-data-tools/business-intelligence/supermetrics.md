@@ -53,6 +53,11 @@ Instead of manually pulling data from multiple sources, Supermetrics automates d
 
 Used by over 200,000 marketers and 5,000+ agencies worldwide to streamline their marketing data workflows and create better reports.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Supermetrics
 
 Ready to get started? Visit [Supermetrics](https://supermetrics.com) to explore the platform and begin using this tool.

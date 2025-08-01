@@ -54,6 +54,11 @@ Built for high-volume cold outreach, Saleshandy provides the tools needed to run
 
 Trusted by over 10,000 businesses and agencies to power their cold email campaigns and generate qualified leads through strategic outreach.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Saleshandy
 
 Ready to get started? Visit [Saleshandy](https://www.saleshandy.com) to explore the platform and begin using this tool.

@@ -53,6 +53,11 @@ As part of Booking Holdings, Booking.com serves over 1.5 billion visitors annual
 
 Trusted by millions of travelers and property partners worldwide to facilitate seamless travel experiences and maximize booking potential.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Booking.com
 
 Ready to get started? Visit [Booking.com](https://www.booking.com) to explore the platform and begin using this tool.

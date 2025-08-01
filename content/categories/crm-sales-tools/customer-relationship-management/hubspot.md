@@ -11,6 +11,10 @@ categories: ["CRM & Sales Tools"]
 subcategories: ["Customer Relationship Management"]
 affiliate: true
 featured: true
+affiliate_url: "https://www.hubspot.com/partners/toolchest"
+affiliate_cta: "Start Free Account"
+commission: "15%"
+affiliate_tier: "premium"
 ---
 HubSpot is the leading inbound marketing and CRM platform for growing businesses.
 
@@ -31,6 +35,11 @@ Built around the proven inbound methodology, HubSpot helps companies attract, en
 - **Educational resources** - HubSpot Academy provides world-class training
 
 Perfect for startups and growing companies that want to build predictable revenue through inbound marketing and integrated customer relationship management.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with HubSpot
 

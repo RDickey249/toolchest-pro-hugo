@@ -11,6 +11,10 @@ categories: ["Design & Creative Tools"]
 subcategories: ["Web Design & Development"]
 affiliate: true
 featured: true
+affiliate_url: "https://webflow.com/partner/toolchest"
+affiliate_cta: "Try Webflow Free"
+commission: "50%"
+affiliate_tier: "premium"
 ---
 Webflow is the leading visual web development platform that lets designers create professional, responsive websites without writing code.
 
@@ -36,6 +40,11 @@ Built for designers who want pixel-perfect control and developers who need clean
 - Collaborative design and client review tools
 
 Over 3.5 million designers and developers use Webflow to create stunning websites that perform beautifully across all devices.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Webflow
 

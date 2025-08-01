@@ -11,6 +11,10 @@ categories: ["CRM & Sales Tools"]
 subcategories: ["Marketing Automation"]
 affiliate: true
 featured: true
+affiliate_url: "https://www.activecampaign.com/partner/toolchest"
+affiliate_cta: "Start Free Trial"
+commission: "25%"
+affiliate_tier: "premium"
 ---
 ActiveCampaign is the marketing automation platform that combines email marketing, CRM, and customer experience automation in one powerful system.
 
@@ -44,6 +48,11 @@ Built for growing businesses that want to create personalized customer experienc
 - **Scalable pricing** - Grows with your business and contact list
 
 Used by over 180,000 businesses to create personalized customer experiences that drive growth and retention.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with ActiveCampaign
 

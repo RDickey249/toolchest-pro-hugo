@@ -1,0 +1,138 @@
+# Affiliate Links Database
+# Format: tool-slug: { url: "affiliate_url", cta: "Custom call-to-action", commission: "commission_rate" }
+
+# E-commerce & Business Tools (High Commission)
+shopify:
+  url: "https://www.shopify.com/?ref=toolchest"
+  cta: "Start Your Free Trial"
+  commission: "10%"
+  tier: "premium"
+
+bigcommerce:
+  url: "https://www.bigcommerce.com/partner/toolchest"
+  cta: "Try BigCommerce Free"
+  commission: "200%"
+  tier: "premium"
+
+wix:
+  url: "https://www.wix.com/lpviral/enviral?utm_source=toolchest"
+  cta: "Create Your Website"
+  commission: "$100"
+  tier: "premium"
+
+squarespace:
+  url: "https://www.squarespace.com?channel=toolchest"
+  cta: "Get Started Free"
+  commission: "$200"
+  tier: "premium"
+
+# Marketing & Social Media Tools
+hubspot:
+  url: "https://www.hubspot.com/partners/toolchest"
+  cta: "Start Free Account"
+  commission: "15%"
+  tier: "premium"
+
+convertkit:
+  url: "https://convertkit.com?lmref=toolchest"
+  cta: "Try ConvertKit Free"
+  commission: "30%"
+  tier: "premium"
+
+mailchimp:
+  url: "https://mailchimp.com/partner/toolchest"
+  cta: "Get Started Free"
+  commission: "$120"
+  tier: "standard"
+
+aweber:
+  url: "https://www.aweber.com/easy-email.htm?id=toolchest"
+  cta: "Start Free Trial"
+  commission: "30%"
+  tier: "standard"
+
+# CRM & Sales Tools
+activecampaign:
+  url: "https://www.activecampaign.com/partner/toolchest"
+  cta: "Start Free Trial"
+  commission: "25%"
+  tier: "premium"
+
+pipedrive:
+  url: "https://www.pipedrive.com/partner/toolchest"
+  cta: "Try Pipedrive Free"
+  commission: "25%"
+  tier: "premium"
+
+# AI Tools & Assistants
+copy-ai:
+  url: "https://www.copy.ai?via=toolchest"
+  cta: "Try Copy.ai Free"
+  commission: "40%"
+  tier: "premium"
+
+jasper:
+  url: "https://www.jasper.ai?fpr=toolchest"
+  cta: "Start Free Trial"
+  commission: "30%"
+  tier: "premium"
+
+# Design & Creative Tools
+webflow:
+  url: "https://webflow.com/partner/toolchest"
+  cta: "Try Webflow Free"
+  commission: "50%"
+  tier: "premium"
+
+canva:
+  url: "https://www.canva.com/partner/toolchest"
+  cta: "Get Canva Pro"
+  commission: "$36"
+  tier: "standard"
+
+# Security & Privacy Tools
+lastpass:
+  url: "https://www.lastpass.com/partner/toolchest"
+  cta: "Try LastPass Premium"
+  commission: "25%"
+  tier: "standard"
+
+# Automation & Workflows
+zapier:
+  url: "https://zapier.com/partner/toolchest"
+  cta: "Automate Your Workflows"
+  commission: "25%"
+  tier: "standard"
+
+# Testing & Quality Assurance
+unbounce:
+  url: "https://unbounce.com/partner/toolchest"
+  cta: "Start Free Trial"
+  commission: "30%"
+  tier: "standard"
+
+# Productivity & Task Management
+notion:
+  url: "https://www.notion.so/partner/toolchest"
+  cta: "Try Notion Free"
+  commission: "$10"
+  tier: "standard"
+
+asana:
+  url: "https://asana.com/partner/toolchest"
+  cta: "Get Started Free"
+  commission: "$50"
+  tier: "standard"
+
+# Finance & Accounting
+quickbooks:
+  url: "https://quickbooks.intuit.com/partners/toolchest"
+  cta: "Try QuickBooks Free"
+  commission: "$50"
+  tier: "standard"
+
+freshbooks:
+  url: "https://www.freshbooks.com/partner/toolchest"
+  cta: "Start Free Trial"
+  commission: "25%"
+  tier: "standard"

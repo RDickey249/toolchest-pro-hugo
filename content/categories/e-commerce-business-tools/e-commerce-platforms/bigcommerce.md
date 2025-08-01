@@ -11,6 +11,10 @@ categories: ["E-commerce & Business Tools"]
 subcategories: ["E-commerce Platforms"]
 affiliate: true
 featured: true
+affiliate_url: "https://www.bigcommerce.com/partner/toolchest"
+affiliate_cta: "Try BigCommerce Free"
+commission: "200%"
+affiliate_tier: "premium"
 ---
 BigCommerce is the enterprise-grade e-commerce platform built for businesses that need to scale without limits.
 
@@ -44,6 +48,11 @@ Unlike Shopify's transaction fees or WooCommerce's hosting headaches, BigCommerc
 - Excellent developer tools and APIs
 
 Trusted by brands like Ben & Jerry's, Toyota, and Vodafone to power their online sales at scale.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with BigCommerce
 

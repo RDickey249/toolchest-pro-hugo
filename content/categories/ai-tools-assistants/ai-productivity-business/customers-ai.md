@@ -53,6 +53,11 @@ Using advanced machine learning and data analytics, Customers.ai transforms raw 
 
 Trusted by growing businesses to unlock the full potential of their customer data through artificial intelligence and advanced analytics.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Customers.ai
 
 Ready to get started? Visit [Customers.ai](https://customers.ai) to explore the platform and begin using this tool.

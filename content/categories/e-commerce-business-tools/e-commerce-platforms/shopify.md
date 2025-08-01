@@ -11,6 +11,10 @@ categories: ["E-commerce & Business Tools"]
 subcategories: ["E-commerce Platforms"]
 affiliate: true
 featured: true
+affiliate_url: "https://www.shopify.com/?ref=toolchest"
+affiliate_cta: "Start Your Free Trial"
+commission: "10%"
+affiliate_tier: "premium"
 ---
 Shopify is the world's leading e-commerce platform, powering over 1.7 million businesses worldwide.
 
@@ -31,6 +35,11 @@ From startup entrepreneurs to enterprise brands, Shopify provides everything nee
 - **24/7 support** - Expert help whenever you need it
 
 Perfect for anyone serious about e-commerce, from dropshippers launching their first store to established brands expanding online. Shopify handles the technical complexity so you can focus on growing your business.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Shopify
 

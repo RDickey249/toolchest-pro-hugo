@@ -26,6 +26,11 @@ Hunter.io stands out for its exceptional data accuracy and GDPR compliance. Ever
 
 The verification feature is particularly valuable - it helps maintain sender reputation by ensuring you only email valid addresses. This dramatically reduces bounce rates and improves overall campaign performance.
 
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
+
 ## Get Started with Hunter.io
 
 Ready to get started? Visit [Hunter.io](https://hunter.io) to explore the platform and begin using this tool.

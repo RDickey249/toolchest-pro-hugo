@@ -9,10 +9,20 @@ image: "/images/tools/asana-placeholder.jpg"
 tags: ["productivity-task-management", "project-management", "team-collaboration", "task-tracking", "workflow-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Project Management"]
+affiliate: true
+affiliate_url: "https://asana.com/partner/toolchest"
+affiliate_cta: "Get Started Free"
+commission: "$50"
+affiliate_tier: "standard"
 ---
 Asana is the comprehensive team project management platform that balances powerful features with intuitive design, serving 100,000+ organizations with flexible project views, automated workflows, and extensive integrations.
 
 Used by marketing teams, product teams, and cross-functional organizations worldwide, Asana offers task management, timeline tracking, goal alignment, and portfolio reporting. Coordinate work efficiently with list, board, and calendar views while maintaining accountability and progress visibility.
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Asana
 

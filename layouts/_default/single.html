@@ -26,6 +26,29 @@
         <p class="tool-tagline">{{ .Params.tagline }}</p>
         {{ end }}
         
+        <!-- Affiliate Link CTA -->
+        {{ $toolSlug := .File.BaseFileName }}
+        {{ $affiliateData := index $.Site.Data.affiliate_links $toolSlug }}
+        {{ if and .Params.affiliate $affiliateData }}
+        <div class="affiliate-cta" data-premium-zone="affiliate-cta">
+            <a href="{{ $affiliateData.url }}" 
+               target="_blank" 
+               rel="noopener sponsored"
+               class="btn btn-primary affiliate-link"
+               data-tool="{{ .Title }}"
+               data-category="{{ .Params.category }}"
+               data-commission="{{ $affiliateData.commission }}"
+               onclick="trackAffiliateClick('{{ .Title }}', '{{ .Params.category }}', '{{ $affiliateData.url }}')">
+                {{ $affiliateData.cta | default "Get Started" }} →
+            </a>
+            {{ if eq $affiliateData.tier "premium" }}
+            <span class="affiliate-badge premium">Premium Partner</span>
+            {{ else }}
+            <span class="affiliate-badge">Affiliate Link</span>
+            {{ end }}
+        </div>
+        {{ end }}
+        
         <span id="premium-tool-header" data-premium-zone="tool-header" style="display: none;"></span>
     </header>
     

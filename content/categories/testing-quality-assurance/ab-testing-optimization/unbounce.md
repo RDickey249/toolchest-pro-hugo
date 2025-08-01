@@ -11,6 +11,10 @@ categories: ["Testing & Quality Assurance"]
 subcategories: ["A/B Testing & Optimization"]
 affiliate: true
 featured: true
+affiliate_url: "https://unbounce.com/partner/toolchest"
+affiliate_cta: "Start Free Trial"
+commission: "30%"
+affiliate_tier: "standard"
 ---
 Unbounce is the landing page builder that helps you convert more visitors into leads, sales, and customers. Build, test, and optimize landing pages without a developer.
 
@@ -31,6 +35,11 @@ Unbounce is the landing page builder that helps you convert more visitors into l
 - Product launches
 - Event registration
 - E-commerce promotions
+
+
+## Affiliate Disclosure
+
+**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Unbounce
 
