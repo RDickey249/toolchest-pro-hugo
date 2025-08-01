@@ -14,7 +14,7 @@
     <h2>Featured Tools</h2>
     <div class="grid grid-4">
         <!-- Display affiliate tools as "featured" without revealing affiliate status -->
-        {{ range first 12 (where (where .Site.RegularPages "Type" "categories") "Params.affiliate" true) }}
+        {{ range first 12 (where .Site.RegularPages "Params.affiliate" true) }}
         <div class="card tool-card" data-premium-zone="tool-card">
             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="tool-tagline">{{ .Params.tagline }}</p>
@@ -30,9 +30,9 @@
     </div>
     
     <!-- Fallback: Show recent tools if no affiliate tools found -->
-    {{ if eq (len (where (where .Site.RegularPages "Type" "categories") "Params.affiliate" true)) 0 }}
+    {{ if eq (len (where .Site.RegularPages "Params.affiliate" true)) 0 }}
     <div class="grid grid-4">
-        {{ range first 8 (where .Site.RegularPages "Type" "categories") }}
+        {{ range first 8 .Site.RegularPages }}
         <div class="card tool-card" data-premium-zone="tool-card">
             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="tool-tagline">{{ .Params.tagline }}</p>
