@@ -1,8 +1,10 @@
 # 🤖 CLAUDE CODE SESSION HANDOFF - CONTENT POLISHING PHASE
-**Project:** ToolChest Pro - Business Tool Directory  
+**Project:** ToolChest - Business Tool Directory  
 **Domain:** https://toolchest.pro  
-**Phase:** Content Polishing Campaign (744 tools remaining)  
-**Status:** Ready to execute - ALL rule violations fixed, system compliant  
+**Phase:** Content Polishing Campaign (741 tools remaining)  
+**Status:** Ready to execute - ALL rule violations fixed, system compliant
+
+**CRITICAL:** Site name is "ToolChest" (NOT "ToolChest Pro"). "Pro" refers to premium features for paid users.  
 
 ---
 

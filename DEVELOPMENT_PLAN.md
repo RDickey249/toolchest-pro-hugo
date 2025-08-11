@@ -7,11 +7,17 @@
 
 ## 📋 PROJECT OVERVIEW
 
-**Project:** ToolChest Pro - Business Tool Directory Website  
+**Project:** ToolChest - Business Tool Directory Website  
 **Domain:** https://toolchest.pro  
 **Status:** PHASE 1 EXECUTION - Implementing comprehensive traffic growth strategy  
 **Current State:** 1,135+ tools, 16 affiliate partnerships, ready for 1000% traffic growth  
-**Revenue Target:** $2,000-5,000/month within 6 months  
+**Revenue Target:** $2,000-5,000/month within 6 months
+
+**CRITICAL NAMING CONVENTION:**
+- **Site Name:** ToolChest (NOT "ToolChest Pro" or "Tool Chest Pro")
+- **"Pro" refers to:** Premium content dynamically added over static Hugo site for paid users
+- **Repository name:** toolchest-pro-hugo (technical reference only)
+- **User-facing brand:** ToolChest everywhere  
 
 **COMPREHENSIVE AUDIT COMPLETED:** Full repository analysis shows exceptional potential with solid foundation requiring systematic SEO and engagement optimization.
 
