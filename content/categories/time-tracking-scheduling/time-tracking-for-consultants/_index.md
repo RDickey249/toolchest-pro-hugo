@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking for Consultants"
+slug: "time-tracking-scheduling/time-tracking-for-consultants"
 description: "Professional consultant-focused time tracking solutions with billing automation, project management, and specialized consulting workflow optimization"
 ---
 

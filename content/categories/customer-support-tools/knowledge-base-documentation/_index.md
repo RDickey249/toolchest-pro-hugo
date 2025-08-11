@@ -1,5 +1,6 @@
 ---
 title: "Knowledge Base & Documentation"
+slug: "customer-support-tools/knowledge-base-documentation"
 tagline: "Self-service support and help documentation"
 category: "Customer Support"
 subcategory: "Knowledge Base & Documentation"

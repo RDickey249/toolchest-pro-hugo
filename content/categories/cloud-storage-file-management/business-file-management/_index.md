@@ -1,5 +1,6 @@
 ---
 title: "Business File Management"
+slug: "cloud-storage-file-management/business-file-management"
 description: "Enterprise file management with advanced security and collaboration features"
 weight: 2
 ---

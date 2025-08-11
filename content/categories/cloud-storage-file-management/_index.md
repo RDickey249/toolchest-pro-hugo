@@ -1,5 +1,6 @@
 ---
 title: "☁️ Cloud Storage & File Management"
+slug: "cloud-storage-file-management"
 description: "Cloud storage, file sharing, and document management solutions"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Traditional Note Apps"
+slug: "note-taking-knowledge-management/traditional-note-apps"
 description: "Simple, focused note-taking applications for quick capture and basic organization"
 weight: 3
 ---

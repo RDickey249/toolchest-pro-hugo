@@ -1,5 +1,6 @@
 ---
 title: "AI Writing & Content"
+slug: "ai-tools-assistants/ai-writing-content"
 description: "Intelligent writing assistants and content generation platforms"
 parent: "AI Tools & Assistants"  
 weight: 2

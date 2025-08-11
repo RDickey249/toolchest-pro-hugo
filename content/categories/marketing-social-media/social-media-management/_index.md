@@ -1,5 +1,6 @@
 ---
 title: "Social Media Management"
+slug: "marketing-social-media/social-media-management"
 tagline: "Social media scheduling, management, and analytics tools"
 category: "Business Marketing"
 subcategory: "Social Media Management"

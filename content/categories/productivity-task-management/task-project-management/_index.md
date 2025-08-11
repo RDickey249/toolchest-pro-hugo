@@ -1,5 +1,6 @@
 ---
 title: "Task & Project Management"
+slug: "productivity-task-management/task-project-management"
 description: "Essential tools for organizing tasks, deadlines, and personal productivity"
 parent: "Productivity & Task Management"
 weight: 1

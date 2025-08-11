@@ -1,5 +1,6 @@
 ---
 title: "Software Testing Frameworks"
+slug: "testing-quality-assurance/software-testing-frameworks"
 tagline: "Unit, integration, and end-to-end testing frameworks"
 category: "Testing & Quality Assurance"
 subcategory: "Software Testing Frameworks"

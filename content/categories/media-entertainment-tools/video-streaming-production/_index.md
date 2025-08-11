@@ -1,5 +1,6 @@
 ---
 title: "Video Streaming & Production"
+slug: "media-entertainment-tools/video-streaming-production"
 tagline: "Video streaming platforms and live broadcast tools"
 category: "Media & Entertainment"
 subcategory: "Video Streaming & Production"

@@ -1,5 +1,6 @@
 ---
 title: "🎵 Media & Entertainment Tools"
+slug: "media-entertainment-tools"
 tagline: "Content creation tools for video editing and audio production"
 category: "Video & Audio"
 description: "Video and audio tools empower content creators to produce professional-quality multimedia content through intuitive editing interfaces and AI-powered assistance. These platforms serve YouTubers, podcasters, marketers, and businesses creating video content for social media, training, and communication. From automated video generation to advanced audio editing, these tools make professional content creation accessible to creators without technical expertise."

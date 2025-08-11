@@ -1,5 +1,6 @@
 ---
 title: "🔄 Automation & Workflows"
+slug: "automation-workflows"
 description: "Business process automation, workflow management, and integration tools"
 weight: 7
 ---

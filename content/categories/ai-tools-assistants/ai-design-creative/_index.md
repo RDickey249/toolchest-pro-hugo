@@ -1,5 +1,6 @@
 ---
 title: "AI Image & Design Tools"
+slug: "ai-tools-assistants/ai-design-creative"
 date: 2025-01-25
 draft: false
 categories: ["ai-image-design"]

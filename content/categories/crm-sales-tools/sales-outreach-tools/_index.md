@@ -1,5 +1,6 @@
 ---
 title: "Sales Outreach Tools"
+slug: "crm-sales-tools/sales-outreach-tools"
 description: "Sales automation, prospecting, and outreach platforms"
 weight: 2
 ---

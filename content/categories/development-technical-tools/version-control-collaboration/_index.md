@@ -1,5 +1,6 @@
 ---
 title: "Version Control & Collaboration"
+slug: "development-technical-tools/version-control-collaboration"
 description: "Version control systems and collaborative development platforms for team-based software development"
 ---
 

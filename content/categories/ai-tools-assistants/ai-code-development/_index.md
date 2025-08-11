@@ -1,5 +1,6 @@
 ---
 title: "AI Code & Development"
+slug: "ai-tools-assistants/ai-code-development"
 description: "AI-powered coding assistants and development tools"
 parent: "AI Tools & Assistants"
 weight: 3

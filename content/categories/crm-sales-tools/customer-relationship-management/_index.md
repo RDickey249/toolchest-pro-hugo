@@ -1,5 +1,6 @@
 ---
 title: "Customer Relationship Management"
+slug: "crm-sales-tools/customer-relationship-management"
 description: "Complete CRM platforms for customer data and relationship management"
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "🎪 Event Management Tools"
+slug: "event-management-tools"
 description: "Platforms for event planning, virtual events, and registration management"
 weight: 27
 ---

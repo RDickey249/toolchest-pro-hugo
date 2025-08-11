@@ -1,5 +1,6 @@
 ---
 title: "Project Time Tracking Tools"
+slug: "time-tracking-scheduling/project-time-tracking-tools"
 description: "Integrated project time tracking solutions for accurate billing, milestone monitoring, and comprehensive project profitability analysis"
 ---
 

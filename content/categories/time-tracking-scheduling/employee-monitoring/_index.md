@@ -1,5 +1,6 @@
 ---
 title: "Employee Monitoring"
+slug: "time-tracking-scheduling/employee-monitoring"
 description: "Comprehensive employee monitoring and workforce analytics tools for productivity insights, security compliance, and operational optimization"
 ---
 

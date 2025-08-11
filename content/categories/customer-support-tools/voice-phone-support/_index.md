@@ -1,5 +1,6 @@
 ---
 title: "Voice & Phone Support"
+slug: "customer-support-tools/voice-phone-support"
 tagline: "Call center and telephony solutions"
 category: "Customer Support"
 subcategory: "Voice & Phone Support"

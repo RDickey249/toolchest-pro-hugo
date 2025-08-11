@@ -1,5 +1,6 @@
 ---
 title: "Expense Management"
+slug: "finance-accounting/expense-management"
 description: "Expense tracking, receipt management, and cost control solutions"
 weight: 2
 ---

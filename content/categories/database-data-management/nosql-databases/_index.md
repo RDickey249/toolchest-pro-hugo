@@ -1,5 +1,6 @@
 ---
 title: "NoSQL Databases"
+slug: "database-data-management/nosql-databases"
 tagline: "Flexible, scalable databases for modern applications"
 category: "Database & Data Management"
 subcategory: "NoSQL Databases"

@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking"
+slug: "time-tracking-scheduling/time-tracking"
 description: "Professional time tracking and billable hours management"
 weight: 1
 ---

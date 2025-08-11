@@ -1,5 +1,6 @@
 ---
 title: "VPN Services"
+slug: "security-privacy-tools/vpn-services"
 description: "Virtual private networks for secure internet browsing and privacy protection"
 weight: 2
 ---

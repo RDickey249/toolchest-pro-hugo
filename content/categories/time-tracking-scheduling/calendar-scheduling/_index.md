@@ -1,5 +1,6 @@
 ---
 title: "Calendar & Scheduling"
+slug: "time-tracking-scheduling/calendar-scheduling"
 description: "Calendar management, appointment scheduling, and meeting coordination"
 weight: 2
 ---

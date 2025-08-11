@@ -1,5 +1,6 @@
 ---
 title: "Music & Audio"
+slug: "media-entertainment-tools/music-audio"
 tagline: "Music streaming and audio content platforms"
 category: "Media & Entertainment"
 subcategory: "Music & Audio"

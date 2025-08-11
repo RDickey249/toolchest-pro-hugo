@@ -1,5 +1,6 @@
 ---
 title: "Invoicing & Payments"
+slug: "finance-accounting/invoicing-payments"
 description: "Invoice generation, payment processing, and billing automation tools"
 weight: 3
 ---

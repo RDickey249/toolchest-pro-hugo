@@ -1,5 +1,6 @@
 ---
 title: "Focus & Productivity"
+slug: "time-tracking-scheduling/focus-productivity"
 description: "Focus enhancement, distraction blocking, and productivity optimization"
 weight: 3
 ---

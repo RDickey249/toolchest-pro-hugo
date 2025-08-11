@@ -1,5 +1,6 @@
 ---
 title: "Deployment & Hosting"
+slug: "development-technical-tools/deployment-hosting"
 description: "Cloud platforms and deployment services for hosting and scaling web applications and services"
 ---
 

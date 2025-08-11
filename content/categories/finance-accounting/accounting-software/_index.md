@@ -1,5 +1,6 @@
 ---
 title: "Accounting Software"
+slug: "finance-accounting/accounting-software"
 description: "Professional accounting platforms for business financial management"
 weight: 1
 ---

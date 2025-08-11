@@ -1,5 +1,6 @@
 ---
 title: "Async Communication"  
+slug: "communication-collaboration/async-communication"
 description: "Email, forum-style discussion, and asynchronous collaboration tools"
 weight: 3
 ---

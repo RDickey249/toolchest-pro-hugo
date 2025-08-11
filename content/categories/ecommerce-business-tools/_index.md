@@ -1,5 +1,6 @@
 ---
 title: "🛍️ E-commerce & Business Tools"
+slug: "ecommerce-business-tools"
 description: "Online store platforms, payment processing, and inventory management solutions"
 weight: 1
 ---

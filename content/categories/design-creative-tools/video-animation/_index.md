@@ -1,5 +1,6 @@
 ---
 title: "Video & Animation"
+slug: "design-creative-tools/video-animation"
 description: "Video editing, motion graphics, and animation production tools"
 weight: 3
 ---

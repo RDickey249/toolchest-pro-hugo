@@ -1,5 +1,6 @@
 ---
 title: "API Testing Tools"
+slug: "testing-quality-assurance/api-testing-tools"
 tagline: "Tools for testing REST APIs, GraphQL, and web services"
 category: "Testing & Quality Assurance"
 subcategory: "API Testing Tools"

@@ -1,5 +1,6 @@
 ---
 title: "Payment Processing"
+slug: "ecommerce-business-tools/payment-processing"
 description: "Payment gateways, merchant services, and transaction management"
 weight: 2
 ---

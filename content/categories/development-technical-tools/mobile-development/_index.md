@@ -1,5 +1,6 @@
 ---
 title: "Mobile Development"
+slug: "development-technical-tools/mobile-development"
 description: "Native and cross-platform mobile development languages and technologies for iOS and Android"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Web Analytics"
+slug: "analytics-data-tools/web-analytics"
 description: "Website analytics, user behavior tracking, and performance monitoring"
 weight: 1
 ---

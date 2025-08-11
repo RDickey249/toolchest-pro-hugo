@@ -1,5 +1,6 @@
 ---
 title: "Presentation Tools"
+slug: "marketing-social-media/presentation-tools"
 tagline: "Professional presentation and pitch deck creation platforms"
 category: "Business Marketing"
 subcategory: "Presentation Tools"

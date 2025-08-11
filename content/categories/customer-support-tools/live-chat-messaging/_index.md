@@ -1,5 +1,6 @@
 ---
 title: "Live Chat & Messaging"
+slug: "customer-support-tools/live-chat-messaging"
 tagline: "Real-time customer communication tools"
 category: "Customer Support"
 subcategory: "Live Chat & Messaging"

@@ -1,5 +1,6 @@
 ---
 title: "CI/CD & Automation"
+slug: "devops-infrastructure-tools/cicd-automation"
 tagline: "Continuous integration and deployment automation platforms"
 category: "DevOps & Infrastructure"
 subcategory: "CI/CD & Automation"

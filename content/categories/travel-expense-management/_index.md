@@ -1,5 +1,6 @@
 ---
 title: "✈️ Travel & Expense Management"
+slug: "travel-expense-management"
 description: "Corporate travel booking, expense management, and corporate card solutions"
 weight: 29
 ---

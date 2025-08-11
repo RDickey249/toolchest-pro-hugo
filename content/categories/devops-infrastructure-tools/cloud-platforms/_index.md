@@ -1,5 +1,6 @@
 ---
 title: "Cloud Platforms"
+slug: "devops-infrastructure-tools/cloud-platforms"
 tagline: "Infrastructure-as-a-Service providers and cloud computing platforms"
 category: "DevOps & Infrastructure"
 subcategory: "Cloud Platforms"

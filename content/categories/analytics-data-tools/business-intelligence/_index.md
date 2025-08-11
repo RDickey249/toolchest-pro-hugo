@@ -1,5 +1,6 @@
 ---
 title: "Business Intelligence"
+slug: "analytics-data-tools/business-intelligence"
 description: "Enterprise BI platforms for data visualization and business reporting"
 weight: 2
 ---

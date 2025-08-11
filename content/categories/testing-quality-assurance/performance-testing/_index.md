@@ -1,5 +1,6 @@
 ---
 title: "Performance Testing"
+slug: "testing-quality-assurance/performance-testing"
 tagline: "Load testing and performance validation tools"
 category: "Testing & Quality Assurance"
 subcategory: "Performance Testing"

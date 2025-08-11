@@ -1,5 +1,6 @@
 ---
 title: "Systems & Low-Level"
+slug: "development-technical-tools/systems-low-level"
 description: "Systems programming languages and low-level development tools for performance-critical applications"
 ---
 

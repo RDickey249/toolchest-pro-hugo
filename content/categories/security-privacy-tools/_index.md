@@ -1,5 +1,6 @@
 ---
 title: "🔒 Security & Privacy Tools"
+slug: "security-privacy-tools"
 description: "Cybersecurity, privacy protection, and data security solutions"
 weight: 8
 ---

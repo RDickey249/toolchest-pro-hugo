@@ -1,5 +1,6 @@
 ---
 title: "📊 Analytics & Data Tools"
+slug: "analytics-data-tools"
 description: "Web analytics, business intelligence, and data management platforms"
 ---
 

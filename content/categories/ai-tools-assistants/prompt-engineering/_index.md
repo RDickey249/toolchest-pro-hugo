@@ -1,5 +1,6 @@
 ---
 title: "Prompt Engineering"
+slug: "ai-tools-assistants/prompt-engineering"
 description: "Tools for creating, optimizing, and managing AI prompts to maximize effectiveness and results."
 ---
 

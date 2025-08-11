@@ -1,5 +1,6 @@
 ---
 title: "💰 Finance & Accounting"
+slug: "finance-accounting"
 description: "Professional financial management, accounting software, and business finance tools"
 ---
 

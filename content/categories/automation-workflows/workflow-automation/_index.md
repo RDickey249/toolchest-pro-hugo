@@ -1,5 +1,6 @@
 ---
 title: "Workflow Automation"
+slug: "automation-workflows/workflow-automation"
 description: "Visual workflow builders and business process automation platforms"
 weight: 1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Mobile Time Tracking Tools"
+slug: "time-tracking-scheduling/mobile-time-tracking-tools"
 description: "Advanced mobile time tracking solutions with GPS verification, offline capability, and real-time synchronization for field teams and remote workers"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Attendance & Absence Management"
+slug: "time-tracking-scheduling/attendance-absence-management"
 description: "Comprehensive employee leave tracking, absence management, and HR automation tools for streamlined workforce planning and compliance"
 ---
 

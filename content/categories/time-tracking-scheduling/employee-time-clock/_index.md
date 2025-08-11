@@ -1,5 +1,6 @@
 ---
 title: "Employee Time Clock"
+slug: "time-tracking-scheduling/employee-time-clock"
 description: "Professional employee time clock solutions with verification features, payroll integration, and comprehensive workforce management"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Password Management"
+slug: "security-privacy-tools/password-management"
 description: "Password managers and secure credential storage solutions"
 weight: 1
 ---

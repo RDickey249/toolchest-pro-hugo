@@ -1,5 +1,6 @@
 ---
 title: "Audio Generation & Editing"
+slug: "media-entertainment-tools/audio-generation-editing"
 tagline: "AI-powered audio creation and editing platforms"
 category: "Video & Audio"
 subcategory: "Audio Generation & Editing"

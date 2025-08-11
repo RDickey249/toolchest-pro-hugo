@@ -1,5 +1,6 @@
 ---
 title: "Time Clock & Punch-In"
+slug: "time-tracking-scheduling/time-clock-punch-in"
 description: "Professional time clock and attendance tracking solutions for accurate employee punch-in, payroll integration, and workforce management"
 ---
 

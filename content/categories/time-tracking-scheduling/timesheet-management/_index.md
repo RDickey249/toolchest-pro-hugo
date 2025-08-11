@@ -1,5 +1,6 @@
 ---
 title: "Timesheet Management"
+slug: "time-tracking-scheduling/timesheet-management"
 description: "Professional timesheet tracking and management solutions for accurate project billing, HR integration, and comprehensive workforce time documentation"
 ---
 

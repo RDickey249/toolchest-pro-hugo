@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking for Legal Professionals"
+slug: "time-tracking-scheduling/time-tracking-for-legal-professionals"
 description: "Legal-specific time tracking solutions with case management, trust accounting, and comprehensive compliance features for law firms"
 ---
 

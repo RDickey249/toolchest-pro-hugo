@@ -1,5 +1,6 @@
 ---
 title: "Shift Planning Tools"
+slug: "time-tracking-scheduling/shift-planning-tools"
 description: "Advanced shift planning and scheduling solutions for optimizing workforce coordination, team communication, and operational efficiency across diverse business environments"
 ---
 

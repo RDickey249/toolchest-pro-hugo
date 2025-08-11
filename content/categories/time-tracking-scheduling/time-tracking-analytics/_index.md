@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking Analytics"
+slug: "time-tracking-scheduling/time-tracking-analytics"
 description: "Advanced analytics platforms for productivity insights, behavioral analysis, and comprehensive workforce intelligence"
 ---
 

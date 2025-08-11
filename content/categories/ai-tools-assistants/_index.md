@@ -1,5 +1,6 @@
 ---
 title: "🤖 AI Tools & Assistants"
+slug: "ai-tools-assistants"
 description: "Comprehensive directory of AI-powered tools and assistants for every use case"
 weight: 1
 ---

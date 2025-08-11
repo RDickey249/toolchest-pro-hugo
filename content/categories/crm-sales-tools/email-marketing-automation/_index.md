@@ -1,5 +1,6 @@
 ---
 title: "Email Marketing Automation"
+slug: "crm-sales-tools/email-marketing-automation"
 description: "Email marketing campaigns, automation, and nurture sequences"
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Survey Platforms"
+slug: "research-survey-tools/survey-platforms"
 tagline: "Online survey creation and data collection tools"
 category: "Research & Survey"
 subcategory: "Survey Platforms"

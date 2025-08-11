@@ -1,5 +1,6 @@
 ---
 title: "Security Tools"
+slug: "security-privacy-tools/security-tools"
 description: "Antivirus, malware protection, and comprehensive security suites"
 weight: 3
 ---

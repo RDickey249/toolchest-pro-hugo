@@ -1,5 +1,6 @@
 ---
 title: "A/B Testing & Optimization"
+slug: "testing-quality-assurance/ab-testing-optimization"
 tagline: "Experimentation platforms for conversion optimization"
 category: "Testing & Quality Assurance"
 subcategory: "A/B Testing & Optimization"

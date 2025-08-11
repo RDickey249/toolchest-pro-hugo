@@ -1,5 +1,6 @@
 ---
 title: "💾 Backup & Disaster Recovery"
+slug: "backup-disaster-recovery"
 description: "Solutions for data backup, disaster recovery, and business continuity"
 weight: 28
 ---

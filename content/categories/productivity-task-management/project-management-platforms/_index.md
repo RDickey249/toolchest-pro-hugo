@@ -1,5 +1,6 @@
 ---
 title: "Project Management Platforms"
+slug: "productivity-task-management/project-management-platforms"
 description: "Comprehensive project management solutions for teams, enterprises, and complex workflows requiring advanced planning and coordination capabilities."
 ---
 

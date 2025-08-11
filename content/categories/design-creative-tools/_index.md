@@ -1,5 +1,6 @@
 ---
 title: "🎨 Design & Creative Tools"
+slug: "design-creative-tools"
 description: "Graphic design, web development, and creative production tools"
 weight: 5
 ---

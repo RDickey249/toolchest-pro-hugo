@@ -1,5 +1,6 @@
 ---
 title: "👥 HR & Recruiting Tools"
+slug: "hr-recruiting-tools"
 description: "Comprehensive human resources and recruiting solutions"
 category_emoji: "👥"
 layout: "category"

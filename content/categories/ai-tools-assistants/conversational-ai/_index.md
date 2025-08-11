@@ -1,5 +1,6 @@
 ---
 title: "Conversational AI"
+slug: "ai-tools-assistants/conversational-ai"
 description: "Advanced chatbots and conversational interfaces powered by large language models"
 parent: "AI Tools & Assistants"
 weight: 1

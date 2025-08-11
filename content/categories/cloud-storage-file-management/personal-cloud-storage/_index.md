@@ -1,5 +1,6 @@
 ---
 title: "Personal Cloud Storage"
+slug: "cloud-storage-file-management/personal-cloud-storage"
 description: "Consumer cloud storage for personal files and device synchronization"
 weight: 1
 ---

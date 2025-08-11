@@ -1,5 +1,6 @@
 ---
 title: "Help Desk Platforms"
+slug: "customer-support-tools/help-desk-platforms"
 tagline: "Ticketing and support management systems"
 category: "Customer Support"
 subcategory: "Help Desk Platforms"

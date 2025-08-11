@@ -1,5 +1,6 @@
 ---
 title: "E-commerce Platforms"
+slug: "ecommerce-business-tools/ecommerce-platforms"
 description: "Complete online store builders and e-commerce management systems"
 weight: 1
 ---

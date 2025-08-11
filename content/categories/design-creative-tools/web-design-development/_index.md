@@ -1,5 +1,6 @@
 ---
 title: "Web Design & Development"
+slug: "design-creative-tools/web-design-development"
 description: "Website builders, design systems, and web development platforms"
 weight: 2
 ---

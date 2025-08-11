@@ -1,5 +1,6 @@
 ---
 title: "Job Posting & Sourcing"
+slug: "hr-recruiting-tools/job-posting-sourcing"
 description: "Job boards and talent sourcing platforms"
 layout: "subcategory"
 ---

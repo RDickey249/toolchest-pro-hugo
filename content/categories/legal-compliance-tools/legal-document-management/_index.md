@@ -1,5 +1,6 @@
 ---
 title: "Legal Document Management"
+slug: "legal-compliance-tools/legal-document-management"
 description: "Tools for managing legal documents and services"
 layout: "subcategory"
 ---

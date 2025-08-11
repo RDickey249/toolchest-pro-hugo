@@ -1,5 +1,6 @@
 ---
 title: "🔬 Scientific & Research Tools"
+slug: "scientific-research-tools"
 description: "Laboratory management, statistical analysis, and research collaboration tools"
 weight: 30
 ---

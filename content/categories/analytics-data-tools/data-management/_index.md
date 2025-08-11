@@ -1,5 +1,6 @@
 ---
 title: "Data Management"
+slug: "analytics-data-tools/data-management"
 description: "Data storage, processing, and management platforms"
 weight: 3
 ---

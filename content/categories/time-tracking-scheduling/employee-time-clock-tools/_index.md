@@ -1,5 +1,6 @@
 ---
 title: "Employee Time Clock Tools"
+slug: "time-tracking-scheduling/employee-time-clock-tools"
 description: "Advanced time clock solutions with biometric verification, scheduling integration, and comprehensive workforce management capabilities"
 ---
 

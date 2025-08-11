@@ -1,5 +1,6 @@
 ---
 title: "User Research & Testing"
+slug: "research-survey-tools/user-research-testing"
 tagline: "User experience research and usability testing tools"
 category: "Research & Survey"
 subcategory: "User Research & Testing"

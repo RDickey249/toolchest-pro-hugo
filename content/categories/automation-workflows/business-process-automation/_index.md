@@ -1,5 +1,6 @@
 ---
 title: "Business Process Automation"
+slug: "automation-workflows/business-process-automation"
 description: "Enterprise BPA solutions for complex business process optimization"
 weight: 2
 ---

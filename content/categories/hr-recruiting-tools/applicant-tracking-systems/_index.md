@@ -1,5 +1,6 @@
 ---
 title: "Applicant Tracking Systems"
+slug: "hr-recruiting-tools/applicant-tracking-systems"
 description: "Comprehensive hiring and talent management platforms"
 layout: "subcategory"
 ---

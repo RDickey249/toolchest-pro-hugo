@@ -1,5 +1,6 @@
 ---
 title: "Audio Production"
+slug: "media-entertainment-tools/audio-production"
 tagline: "Professional audio recording and editing software"
 category: "Media & Entertainment"
 subcategory: "Audio Production"

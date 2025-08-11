@@ -1,5 +1,6 @@
 ---
 title: "Video Enhancement"
+slug: "media-entertainment-tools/video-enhancement"
 tagline: "Advanced video quality improvement and effects tools"
 category: "Video & Audio"
 subcategory: "Video Enhancement"

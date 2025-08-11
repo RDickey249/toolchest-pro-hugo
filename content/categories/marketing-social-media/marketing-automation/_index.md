@@ -1,5 +1,6 @@
 ---
 title: "Marketing Automation"
+slug: "marketing-social-media/marketing-automation"
 tagline: "Email marketing and campaign automation platforms"
 category: "Business Marketing"
 subcategory: "Marketing Automation"

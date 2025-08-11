@@ -1,5 +1,6 @@
 ---
 title: "Attendance Monitoring Tools"
+slug: "time-tracking-scheduling/attendance-monitoring-tools"
 description: "Advanced attendance tracking and monitoring solutions with GPS verification, biometric authentication, and comprehensive workforce analytics for accurate attendance management"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Frontend Frameworks"
+slug: "development-technical-tools/frontend-frameworks"
 description: "Modern frontend frameworks and libraries for building interactive web applications and user interfaces"
 ---
 

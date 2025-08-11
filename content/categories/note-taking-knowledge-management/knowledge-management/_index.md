@@ -1,5 +1,6 @@
 ---
 title: "Knowledge Management"
+slug: "note-taking-knowledge-management/knowledge-management"
 description: "Enterprise knowledge bases, wikis, and information management systems"
 weight: 2
 ---

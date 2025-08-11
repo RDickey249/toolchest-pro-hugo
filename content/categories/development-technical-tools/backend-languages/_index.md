@@ -1,5 +1,6 @@
 ---
 title: "Backend Languages"
+slug: "development-technical-tools/backend-languages"
 description: "Server-side programming languages for building scalable backend systems and applications"
 ---
 

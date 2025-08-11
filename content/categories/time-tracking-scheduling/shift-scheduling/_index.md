@@ -1,5 +1,6 @@
 ---
 title: "Shift Scheduling"
+slug: "time-tracking-scheduling/shift-scheduling"
 description: "Advanced employee scheduling and workforce management tools for shift planning, labor optimization, and team coordination across diverse business operations"
 ---
 

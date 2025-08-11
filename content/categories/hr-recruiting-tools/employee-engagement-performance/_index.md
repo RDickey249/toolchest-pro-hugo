@@ -1,5 +1,6 @@
 ---
 title: "Employee Engagement & Performance"
+slug: "hr-recruiting-tools/employee-engagement-performance"
 description: "Employee feedback and performance management tools"
 layout: "subcategory"
 ---

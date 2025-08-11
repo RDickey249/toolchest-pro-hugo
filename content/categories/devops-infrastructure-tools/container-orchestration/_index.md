@@ -1,5 +1,6 @@
 ---
 title: "Container & Orchestration"
+slug: "devops-infrastructure-tools/container-orchestration"
 tagline: "Containerization and orchestration platforms for modern applications"
 category: "DevOps & Infrastructure"
 subcategory: "Container & Orchestration"

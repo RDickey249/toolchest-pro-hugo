@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking Integrations"
+slug: "time-tracking-scheduling/time-tracking-integrations"
 description: "Powerful automation and integration tools for connecting time tracking apps with business workflows and productivity systems"
 ---
 

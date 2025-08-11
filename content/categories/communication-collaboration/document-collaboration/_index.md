@@ -1,5 +1,6 @@
 ---
 title: "Document Collaboration"
+slug: "communication-collaboration/document-collaboration"
 description: "Collaborative document editing, file sharing, and version control systems"
 weight: 2
 ---

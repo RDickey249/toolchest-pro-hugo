@@ -1,5 +1,6 @@
 ---
 title: "Data Integration"
+slug: "automation-workflows/data-integration"
 description: "Data pipeline, ETL, and system integration platforms"
 weight: 3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Inventory Management"
+slug: "ecommerce-business-tools/inventory-management"
 description: "Stock tracking, warehouse management, and supply chain tools"
 weight: 3
 ---

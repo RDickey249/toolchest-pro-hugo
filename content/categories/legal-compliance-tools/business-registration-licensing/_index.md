@@ -1,5 +1,6 @@
 ---
 title: "Business Registration & Licensing"
+slug: "legal-compliance-tools/business-registration-licensing"
 description: "Business formation and licensing services"
 layout: "subcategory"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Calendar Sync Tools"
+slug: "time-tracking-scheduling/calendar-sync-tools"
 description: "Seamless calendar integration solutions for time tracking, schedule planning, and automated time entry synchronization across productivity platforms"
 ---
 

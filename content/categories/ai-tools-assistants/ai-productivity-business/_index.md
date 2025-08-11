@@ -1,5 +1,6 @@
 ---
 title: "AI Productivity & Workflow Tools"
+slug: "ai-tools-assistants/ai-productivity-business"
 date: 2025-01-25
 draft: false
 categories: ["ai-productivity-workflow"]

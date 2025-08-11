@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking for Freelancers"
+slug: "time-tracking-scheduling/time-tracking-for-freelancers"
 description: "Specialized time tracking solutions for freelancers with business management, client accountability, and payment integration"
 ---
 

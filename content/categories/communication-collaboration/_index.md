@@ -1,5 +1,6 @@
 ---
 title: "💬 Communication & Collaboration"
+slug: "communication-collaboration"
 description: "Essential tools for team communication, document collaboration, and remote work coordination"
 weight: 3
 ---

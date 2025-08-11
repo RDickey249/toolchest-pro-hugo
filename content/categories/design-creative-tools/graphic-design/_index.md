@@ -1,5 +1,6 @@
 ---
 title: "Graphic Design"
+slug: "design-creative-tools/graphic-design"
 description: "Professional graphic design software and visual creation tools"
 weight: 1
 ---

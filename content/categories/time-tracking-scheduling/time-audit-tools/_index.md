@@ -1,5 +1,6 @@
 ---
 title: "Time Audit Tools"
+slug: "time-tracking-scheduling/time-audit-tools"
 description: "Comprehensive time auditing solutions for productivity analysis, focus optimization, and detailed time usage insights"
 ---
 

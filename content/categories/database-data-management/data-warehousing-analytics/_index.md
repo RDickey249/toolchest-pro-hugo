@@ -1,5 +1,6 @@
 ---
 title: "Data Warehousing & Analytics"
+slug: "database-data-management/data-warehousing-analytics"
 tagline: "Large-scale data processing and analytics platforms"
 category: "Database & Data Management"
 subcategory: "Data Warehousing & Analytics"

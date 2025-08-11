@@ -1,5 +1,6 @@
 ---
 title: "Podcast Production"
+slug: "media-entertainment-tools/podcast-production"
 tagline: "End-to-end podcast creation and distribution platforms"
 category: "Video & Audio"
 subcategory: "Podcast Production"

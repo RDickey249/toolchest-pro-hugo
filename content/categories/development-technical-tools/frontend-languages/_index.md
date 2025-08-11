@@ -1,5 +1,6 @@
 ---
 title: "Frontend Languages"
+slug: "development-technical-tools/frontend-languages"
 description: "Programming languages and technologies for client-side web development and user interface creation"
 ---
 

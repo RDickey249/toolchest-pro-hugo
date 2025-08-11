@@ -1,5 +1,6 @@
 ---
 title: "Time Tracking for Field Services"
+slug: "time-tracking-scheduling/time-tracking-for-field-services"
 description: "Mobile field service time tracking solutions with job dispatch, work orders, and comprehensive service workflow management"
 ---
 

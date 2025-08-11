@@ -1,5 +1,6 @@
 ---
 title: "File Transfer"
+slug: "cloud-storage-file-management/file-transfer"
 description: "Secure file transfer and large file sharing solutions"
 weight: 3
 ---

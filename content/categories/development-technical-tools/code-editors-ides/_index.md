@@ -1,5 +1,6 @@
 ---
 title: "Code Editors & IDEs"
+slug: "development-technical-tools/code-editors-ides"
 description: "Professional development environments and code editors for efficient programming and software development"
 ---
 

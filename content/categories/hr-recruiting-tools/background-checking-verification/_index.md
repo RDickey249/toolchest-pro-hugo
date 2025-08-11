@@ -1,5 +1,6 @@
 ---
 title: "Background Checks & Verification"
+slug: "hr-recruiting-tools/background-checking-verification"
 description: "Employment screening and verification services"
 layout: "subcategory"
 ---

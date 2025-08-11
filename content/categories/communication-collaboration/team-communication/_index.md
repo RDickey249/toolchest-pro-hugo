@@ -1,5 +1,6 @@
 ---
 title: "Team Communication"
+slug: "communication-collaboration/team-communication"
 description: "Instant messaging, video conferencing, and real-time team communication platforms"
 weight: 1
 ---

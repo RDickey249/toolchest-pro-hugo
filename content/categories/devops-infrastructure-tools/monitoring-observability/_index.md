@@ -1,5 +1,6 @@
 ---
 title: "Monitoring & Observability"
+slug: "devops-infrastructure-tools/monitoring-observability"
 tagline: "System monitoring and application observability platforms"
 category: "DevOps & Infrastructure"
 subcategory: "Monitoring & Observability"

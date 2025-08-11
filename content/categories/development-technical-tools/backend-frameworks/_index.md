@@ -1,5 +1,6 @@
 ---
 title: "Backend Frameworks"
+slug: "development-technical-tools/backend-frameworks"
 description: "Server-side frameworks and libraries for building robust backend applications and APIs"
 ---
 

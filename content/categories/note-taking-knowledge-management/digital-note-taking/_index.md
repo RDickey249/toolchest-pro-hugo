@@ -1,5 +1,6 @@
 ---
 title: "Digital Note-Taking"
+slug: "note-taking-knowledge-management/digital-note-taking"
 description: "Advanced digital note-taking applications with rich formatting and organization"
 weight: 1
 ---

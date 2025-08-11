@@ -1,5 +1,6 @@
 ---
 title: "AI Video & Audio Tools"
+slug: "media-entertainment-tools/video-creation-editing"
 date: 2025-01-25
 draft: false
 categories: ["ai-video-audio"]

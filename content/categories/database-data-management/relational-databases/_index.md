@@ -1,5 +1,6 @@
 ---
 title: "Relational Databases"
+slug: "database-data-management/relational-databases"
 tagline: "SQL databases with ACID compliance and structured schemas"
 category: "Database & Data Management"
 subcategory: "Relational Databases"

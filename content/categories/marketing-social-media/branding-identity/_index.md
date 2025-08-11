@@ -1,5 +1,6 @@
 ---
 title: "Branding & Identity"
+slug: "marketing-social-media/branding-identity"
 tagline: "Logo design and brand identity creation tools"
 category: "Business Marketing"
 subcategory: "Branding & Identity"

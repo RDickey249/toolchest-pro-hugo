@@ -1,5 +1,6 @@
 ---
 title: "Market Research Tools"
+slug: "research-survey-tools/market-research-tools"
 tagline: "Competitive intelligence and market analysis platforms"
 category: "Research & Survey"
 subcategory: "Market Research Tools"
