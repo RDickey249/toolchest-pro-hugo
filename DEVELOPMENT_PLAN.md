@@ -50,6 +50,27 @@
 
 **CRITICAL:** Failure to follow this process wastes time and delays launch further.
 
+**RULE #14: MISSING CATEGORY INDEX FILE PREVENTION**
+- EVERY category directory MUST have an `_index.md` file or Hugo cannot display tools properly
+- Without category `_index.md`, Hugo shows only 1 tool instead of all tools in that category  
+- This has caused the SAME failure multiple times: "e-commerce" != "E-commerce" != "🛍️ E-commerce & Business Tools"
+- BEFORE claiming any category work is complete: Verify `_index.md` exists in category root directory
+- Category index file MUST contain: `title`, `slug`, `description`, `categories`, `category`, `weight` fields
+- Test category page displays ALL expected tools, not just 1-2 tools
+- **ROOT CAUSE:** Hugo's template system requires category index files to enumerate subcategory tools
+- **PREVENTION:** Always check for and create missing `_index.md` files when touching categories
+
+**MANDATORY VERIFICATION AFTER CATEGORY CHANGES:**
+```bash
+# Find categories missing index files
+find content/categories -maxdepth 1 -type d -exec test ! -f {}/_index.md \; -print
+
+# Verify category pages show all tools (not just 1)
+# Check live site: https://toolchest.pro/categories/CATEGORY-NAME/
+```
+
+**THIS PREVENTS THE RECURRING "only shows 1 tool instead of all tools" CATASTROPHIC FAILURE**
+
 ---
 
 ## 🎯 STRATEGIC TRAFFIC GROWTH PLAN - NO DEVIATIONS ALLOWED
