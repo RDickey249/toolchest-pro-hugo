@@ -37,8 +37,13 @@
         <a href="/categories/" class="view-all-link">View All Categories →</a>
     </div>
     <div class="grid grid-3">
-        <!-- Temporarily disabled category preview -->
-  <p>Browse all 32 categories to find the perfect tools for your business.</p>
+        {{ range first 6 site.Data.weighted_categories.categories }}
+        <div class="card category-card">
+            <h3><a href="/categories/{{ .slug }}/">{{ .name }}</a></h3>
+            <p class="category-description">{{ .description | truncate 80 }}</p>
+            <p class="tool-count">{{ .total_tools }} tools</p>
+        </div>
+        {{ end }}
     </div>
 </section>
 {{ end }}

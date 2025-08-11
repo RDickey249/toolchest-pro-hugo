@@ -9,12 +9,17 @@
     <p class="page-description">Browse tools by category to find exactly what you need.</p>
     
     <div class="grid grid-3">
-        {{ range site.Taxonomies.categories }}
+        {{ range site.Data.weighted_categories.categories }}
+        {{ $categorySlug := .slug }}
+        {{ $categoryName := .name }}
+        {{ $description := .description }}
+        {{ range where (where site.Pages "Type" "categories") ".Title" $categorySlug }}
         <div class="card category-card">
-            <h2><a href="/categories/{{ .Page.Title | urlize }}/">{{ .Page.Title }}</a></h2>
-            <p class="category-description">{{ .Page.Title }} tools and platforms</p>
-            <p class="tool-count">{{ .Count }} tools</p>
+            <h2><a href="/categories/{{ .Title | urlize }}/">{{ $categoryName }}</a></h2>
+            <p class="category-description">{{ $description }}</p>
+            <p class="tool-count">{{ len .RegularPages }} tools</p>
         </div>
+        {{ end }}
         {{ end }}
     </div>
 {{ else }}

@@ -1,0 +1,274 @@
+# Weighted Category Display Order
+# Categories ordered by affiliate revenue potential for maximum conversion
+# Weight: Higher numbers appear first (revenue-optimized ordering)
+
+categories:
+  # TIER 1: High Affiliate Density (8+ affiliate tools)
+  - name: "🎯 CRM & Sales Tools"
+    slug: "crm-sales-tools"
+    weight: 100
+    affiliate_count: 8
+    total_tools: 26
+    affiliate_percentage: 30.8
+    description: "Customer relationship management, sales automation, and lead generation tools"
+    
+  # TIER 2: Medium-High Affiliate Count (3-5 affiliate tools)  
+  - name: "📢 Marketing & Social Media"
+    slug: "marketing-social-media"
+    weight: 99
+    affiliate_count: 5
+    total_tools: 43
+    affiliate_percentage: 11.6
+    description: "Social media management, digital marketing, and advertising platforms"
+    
+  - name: "🎨 Design & Creative Tools"
+    slug: "design-creative-tools"
+    weight: 98
+    affiliate_count: 3
+    total_tools: 30
+    affiliate_percentage: 10.0
+    description: "Graphic design, web design, and creative workflow tools"
+    
+  # TIER 3: High-Value Categories (2 affiliate tools with high percentage)
+  - name: "🎪 Event Management Tools"
+    slug: "event-management-tools"
+    weight: 97
+    affiliate_count: 2
+    total_tools: 8
+    affiliate_percentage: 25.0
+    description: "Event planning, registration, and management platforms"
+    
+  - name: "💰 Finance & Accounting"
+    slug: "finance-accounting"
+    weight: 96
+    affiliate_count: 2
+    total_tools: 18
+    affiliate_percentage: 11.1
+    description: "Accounting software, expense management, and financial tools"
+    
+  - name: "🛍️ E-commerce & Business Tools"
+    slug: "e-commerce-business-tools"
+    weight: 95
+    affiliate_count: 2
+    total_tools: 30
+    affiliate_percentage: 6.7
+    description: "Online store platforms, payment processing, and e-commerce solutions"
+    
+  - name: "🔒 Security & Privacy Tools"
+    slug: "security-privacy-tools"
+    weight: 94
+    affiliate_count: 2
+    total_tools: 31
+    affiliate_percentage: 6.5
+    description: "Cybersecurity, password management, and privacy protection tools"
+    
+  # TIER 4: High Volume with Some Affiliates
+  - name: "🤖 AI Tools & Assistants"
+    slug: "ai-tools-assistants"
+    weight: 93
+    affiliate_count: 2
+    total_tools: 122
+    affiliate_percentage: 1.6
+    description: "Artificial intelligence, automation, and AI-powered productivity tools"
+    
+  # TIER 5: Single Affiliate Tools (High Percentage First)
+  - name: "🛒 Ecommerce Business Tools"  # 100% affiliate rate
+    slug: "ecommerce-business-tools"
+    weight: 92
+    affiliate_count: 1
+    total_tools: 1
+    affiliate_percentage: 100.0
+    description: "Specialized e-commerce and online business solutions"
+    
+  - name: "🔌 API & Integration Tools"
+    slug: "api-integration-tools"
+    weight: 91
+    affiliate_count: 1
+    total_tools: 8
+    affiliate_percentage: 12.5
+    description: "API development, integration platforms, and workflow connectors"
+    
+  - name: "📊 Analytics & Data Tools"
+    slug: "analytics-data-tools"
+    weight: 90
+    affiliate_count: 1
+    total_tools: 16
+    affiliate_percentage: 6.2
+    description: "Business intelligence, data analysis, and reporting platforms"
+    
+  - name: "⚡ Automation & Workflows"
+    slug: "automation-workflows"
+    weight: 89
+    affiliate_count: 1
+    total_tools: 21
+    affiliate_percentage: 4.8
+    description: "Process automation, workflow management, and business process tools"
+    
+  - name: "🔍 Research & Survey Tools"
+    slug: "research-survey-tools"
+    weight: 88
+    affiliate_count: 1
+    total_tools: 25
+    affiliate_percentage: 4.0
+    description: "Market research, surveys, user feedback, and data collection tools"
+    
+  - name: "🧪 Testing & Quality Assurance"
+    slug: "testing-quality-assurance"
+    weight: 87
+    affiliate_count: 1
+    total_tools: 31
+    affiliate_percentage: 3.2
+    description: "Software testing, quality assurance, and performance monitoring tools"
+    
+  - name: "🎧 Customer Support Tools"
+    slug: "customer-support-tools"
+    weight: 86
+    affiliate_count: 1
+    total_tools: 36
+    affiliate_percentage: 2.8
+    description: "Help desk, live chat, ticketing systems, and customer service platforms"
+    
+  # TIER 6: No Current Affiliates (Alphabetical by Size/Importance)
+  - name: "💻 Development & Technical Tools"
+    slug: "development-technical-tools"
+    weight: 80
+    affiliate_count: 0
+    total_tools: 247
+    affiliate_percentage: 0.0
+    description: "Programming tools, IDEs, development frameworks, and technical utilities"
+    
+  - name: "⏰ Time Tracking & Scheduling"
+    slug: "time-tracking-scheduling"
+    weight: 79
+    affiliate_count: 0
+    total_tools: 68
+    affiliate_percentage: 0.0
+    description: "Time management, scheduling, calendar, and productivity tracking tools"
+    
+  - name: "📝 Productivity & Task Management"
+    slug: "productivity-task-management"
+    weight: 78
+    affiliate_count: 0
+    total_tools: 49
+    affiliate_percentage: 0.0
+    description: "Task management, project planning, and productivity enhancement tools"
+    
+  - name: "🎬 Media & Entertainment Tools"
+    slug: "media-entertainment-tools"
+    weight: 77
+    affiliate_count: 0
+    total_tools: 49
+    affiliate_percentage: 0.0
+    description: "Video editing, audio production, and digital media creation tools"
+    
+  - name: "👥 HR & Recruiting Tools"
+    slug: "hr-recruiting-tools"
+    weight: 76
+    affiliate_count: 0
+    total_tools: 32
+    affiliate_percentage: 0.0
+    description: "Human resources, recruitment, talent management, and employee tools"
+    
+  - name: "🚀 DevOps & Infrastructure Tools"
+    slug: "devops-infrastructure-tools"
+    weight: 75
+    affiliate_count: 0
+    total_tools: 32
+    affiliate_percentage: 0.0
+    description: "DevOps, cloud infrastructure, deployment, and system administration tools"
+    
+  - name: "🌍 Translation & Localization Tools"
+    slug: "translation-localization-tools"
+    weight: 74
+    affiliate_count: 0
+    total_tools: 32
+    affiliate_percentage: 0.0
+    description: "Language translation, localization, and international business tools"
+    
+  - name: "☁️ Cloud Storage & File Management"
+    slug: "cloud-storage-file-management"
+    weight: 73
+    affiliate_count: 0
+    total_tools: 28
+    affiliate_percentage: 0.0
+    description: "Cloud storage, file sharing, backup, and document management solutions"
+    
+  - name: "⚖️ Legal & Compliance Tools"
+    slug: "legal-compliance-tools"
+    weight: 72
+    affiliate_count: 0
+    total_tools: 24
+    affiliate_percentage: 0.0
+    description: "Legal management, compliance tracking, and regulatory tools"
+    
+  - name: "🔬 Scientific Research Tools"
+    slug: "scientific-research-tools"
+    weight: 71
+    affiliate_count: 0
+    total_tools: 24
+    affiliate_percentage: 0.0
+    description: "Research software, data analysis, and scientific computing tools"
+    
+  - name: "🗄️ Database & Data Management"
+    slug: "database-data-management"
+    weight: 70
+    affiliate_count: 0
+    total_tools: 23
+    affiliate_percentage: 0.0
+    description: "Database management, data storage, and information systems"
+    
+  - name: "📚 Note Taking & Knowledge Management"
+    slug: "note-taking-knowledge-management"
+    weight: 69
+    affiliate_count: 0
+    total_tools: 23
+    affiliate_percentage: 0.0
+    description: "Note-taking, knowledge bases, documentation, and information organization"
+    
+  - name: "💬 Communication & Collaboration"
+    slug: "communication-collaboration"
+    weight: 68
+    affiliate_count: 0
+    total_tools: 19
+    affiliate_percentage: 0.0
+    description: "Team communication, collaboration platforms, and messaging tools"
+    
+  - name: "🎓 Learning & Development"
+    slug: "learning-development"
+    weight: 67
+    affiliate_count: 0
+    total_tools: 14
+    affiliate_percentage: 0.0
+    description: "Online learning, training platforms, and skill development tools"
+    
+  - name: "🔧 Hardware & Equipment Tools"
+    slug: "hardware-equipment-tools"
+    weight: 66
+    affiliate_count: 0
+    total_tools: 12
+    affiliate_percentage: 0.0
+    description: "Hardware management, equipment tracking, and physical asset tools"
+    
+  - name: "✈️ Travel & Expense Management"
+    slug: "travel-expense-management"
+    weight: 65
+    affiliate_count: 0
+    total_tools: 7
+    affiliate_percentage: 0.0
+    description: "Business travel, expense reporting, and travel management tools"
+    
+  - name: "♿ Accessibility & Inclusion Tools"
+    slug: "accessibility-inclusion-tools"
+    weight: 64
+    affiliate_count: 0
+    total_tools: 3
+    affiliate_percentage: 0.0
+    description: "Accessibility, inclusion, and assistive technology tools"
+    
+  - name: "🔄 Backup & Disaster Recovery"
+    slug: "backup-disaster-recovery"
+    weight: 63
+    affiliate_count: 0
+    total_tools: 3
+    affiliate_percentage: 0.0
+    description: "Data backup, disaster recovery, and business continuity tools"
