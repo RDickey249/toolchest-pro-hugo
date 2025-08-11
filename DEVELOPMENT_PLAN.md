@@ -38,6 +38,18 @@
 - Run this audit before major content changes or reorganization
 - Prevents need to re-audit database vs file system alignment repeatedly
 
+**RULE #13: TOOL POLISHING PROCESS - MANDATORY VERIFICATION**
+- BEFORE polishing ANY tool: Find ALL versions using `find . -name "*toolname*" -type f`
+- Check both content/ and public/ directories for duplicates (e.g., Toggl vs toggl)
+- Verify which version is live by checking public/categories/TOOL_NAME/
+- Polish ONLY the version that corresponds to live site structure
+- Test polished tool URL BEFORE claiming completion
+- NEVER assume file locations - always verify actual paths
+- If duplicates exist: consolidate to single correct version before polishing
+- Add logo to same filename structure as the tool being polished
+
+**CRITICAL:** Failure to follow this process wastes time and delays launch further.
+
 ---
 
 ## 🎯 STRATEGIC TRAFFIC GROWTH PLAN - NO DEVIATIONS ALLOWED
