@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <link rel="icon" type="image/png" href="/images/toolchest-logo.png">
+    <link rel="apple-touch-icon" href="/images/toolchest-logo.png">
     
     <!-- Premium hooks for future enhancement -->
     <meta name="toolchest-version" content="static-v1.0">
@@ -19,7 +21,9 @@
         /* Header - Logo Inspired Colors */
         .site-header { background: #4A5568; color: #F7FAFC; padding: 1rem 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
         .header-content { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
-        .logo a { color: #F7FAFC; text-decoration: none; font-size: 1.5rem; font-weight: bold; }
+        .logo { display: flex; align-items: center; gap: 0.75rem; }
+        .logo img { height: 40px; width: 40px; border-radius: 4px; }
+        .logo a { color: #F7FAFC; text-decoration: none; font-size: 1.5rem; font-weight: bold; display: flex; align-items: center; gap: 0.75rem; }
         .main-nav a { color: #F7FAFC; text-decoration: none; margin-left: 2rem; transition: color 0.3s ease; }
         .main-nav a:hover { color: #FB923C; }
         
@@ -108,6 +112,8 @@
             .container { padding: 0 15px; }
             .grid-3 { grid-template-columns: 1fr; }
             .grid-4 { grid-template-columns: repeat(2, 1fr); }
+            .logo img { height: 32px; width: 32px; }
+            .logo a { font-size: 1.3rem; }
         }
         
         @media (max-width: 480px) {
@@ -129,7 +135,10 @@
         <div class="container">
             <div class="header-content">
                 <div class="logo">
-                    <a href="/">{{ .Site.Title }}</a>
+                    <a href="/">
+                        <img src="/images/toolchest-logo.png" alt="ToolChest Logo" />
+                        {{ .Site.Title }}
+                    </a>
                 </div>
                 <nav class="main-nav" data-premium-zone="navigation">
                     <a href="/">Home</a>
