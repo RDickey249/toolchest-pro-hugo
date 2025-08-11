@@ -29,6 +29,15 @@
 
 **VERIFICATION:** Use `/tmp/verify_subcategories.sh` to test major categories after any changes.
 
+**RULE #12: COMPREHENSIVE TOOL AUDIT PROCESS**
+- Use `/tmp/comprehensive_audit.sh` to verify all tools are properly organized
+- Confirms 1,135 tools exist with corresponding pages
+- Validates 32 categories with proper subcategory structure  
+- Ensures each tool falls under exactly ONE subcategory
+- Identifies duplicate categories or structural issues
+- Run this audit before major content changes or reorganization
+- Prevents need to re-audit database vs file system alignment repeatedly
+
 ---
 
 ## 🎯 STRATEGIC TRAFFIC GROWTH PLAN - NO DEVIATIONS ALLOWED
