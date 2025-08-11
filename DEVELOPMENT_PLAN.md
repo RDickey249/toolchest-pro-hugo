@@ -14,27 +14,53 @@
 
 ---
 
-## 🛑 ABSOLUTE RULES - NEVER VIOLATE THESE
+## 🚨 ANTI-ROGUE AGENT PROTOCOL - MANDATORY COMPLIANCE
 
-### 1. **NO BULK CHANGES WITHOUT APPROVAL**
+### **RULE #1: ALWAYS CHECK THE PLAN FIRST** ⚠️
+**BEFORE doing ANY work that is NOT explicitly prescribed by the human:**
+
+1. **READ THIS ENTIRE DEVELOPMENT_PLAN.md** - No exceptions
+2. **VERIFY** the requested change is safe and aligned with project goals
+3. **ASK PERMISSION** if the request could impact core functionality
+4. **TEST FIRST** - Never deploy changes that could break existing features
+
+### **RULE #2: MANDATORY FUNCTION TESTING** 🔍
+**BEFORE claiming "everything is working great" or completing any audit:**
+
+**YOU MUST RUN THE MANDATORY TEST:**
+```bash
+python3 scripts/mandatory_function_test.py
+```
+
+**This script tests:**
+1. **Hugo build process** - Ensures site builds without errors
+2. **Categories page content** - Prevents the blank page catastrophe  
+3. **Affiliate system integrity** - Verifies revenue system files exist
+4. **Template safety** - Checks for dangerous patterns that break functionality
+5. **Live site validation** - Tests actual deployed site when possible
+
+**❌ IF ANY TEST FAILS:** Do NOT claim success. Fix the issues first.
+**✅ ONLY when ALL tests pass:** Safe to claim site is working correctly.
+
+### **RULE #3: NO BULK CHANGES WITHOUT APPROVAL** 🛑
 - NEVER make changes to more than 10 files at once without explicit user approval
 - NEVER delete multiple files or directories without explicit approval
 - NEVER run mass find/replace operations without explicit approval
 
-### 2. **PRESERVE EXISTING FUNCTIONALITY**
+### **RULE #4: PRESERVE EXISTING FUNCTIONALITY** ✅
 - Site is currently WORKING and generating revenue potential
 - Do NOT modify core templates without understanding impact
 - Do NOT change affiliate tracking systems
 - Do NOT modify the conversion optimization systems
 
-### 3. **ALWAYS READ CONTEXT FIRST**
+### **RULE #5: ALWAYS READ CONTEXT FIRST** 📚
 Before making ANY changes, read these files:
-- `DEVELOPMENT_PLAN.md` (this file)
+- `DEVELOPMENT_PLAN.md` (this file - MANDATORY)
 - `FINAL_PROJECT_SUMMARY.md` (current status)
 - `AFFILIATE_ACTIVATION_GUIDE.md` (revenue system)
 - `TOOLCHEST_PRO_COMPLETE_GUIDE.md` (architecture)
 
-### 4. **BACKUP BEFORE MAJOR CHANGES**
+### **RULE #6: BACKUP BEFORE MAJOR CHANGES** 💾
 - Use git branches for experimental work
 - Commit working state before starting
 - Test changes locally before pushing
@@ -316,11 +342,14 @@ Before starting ANY development work:
 
 ## 🤝 COLLABORATION GUIDELINES
 
-### **For Subagents:**
-- **Communicate:** Explain what you're planning to do
-- **Coordinate:** Don't work on overlapping areas
-- **Document:** Leave clear notes for future work
-- **Test:** Verify your changes work as expected
+### **For Subagents - MANDATORY PROTOCOL:**
+- **READ THE PLAN FIRST:** This entire document before ANY work
+- **VERIFY FUNCTIONALITY:** Test main category page and core features BEFORE claiming success
+- **COMMUNICATE:** Explain what you're planning to do AND ask permission for core changes
+- **COORDINATE:** Don't work on overlapping areas without explicit approval
+- **DOCUMENT:** Leave clear notes for future work
+- **TEST:** Verify your changes work as expected - ESPECIALLY categories page
+- **NEVER GO ROGUE:** Stick to prescribed tasks only
 
 ### **For Human Collaborators:**
 - Provide clear, specific requirements
