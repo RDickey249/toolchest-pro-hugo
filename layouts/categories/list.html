@@ -13,13 +13,13 @@
         {{ $categorySlug := .slug }}
         {{ $categoryName := .name }}
         {{ $description := .description }}
-        {{ range where (where site.Pages "Type" "categories") ".Title" $categorySlug }}
+        {{ $totalTools := .total_tools }}
+        
         <div class="card category-card">
-            <h2><a href="/categories/{{ .Title | urlize }}/">{{ $categoryName }}</a></h2>
+            <h2><a href="/categories/{{ $categorySlug }}/">{{ $categoryName }}</a></h2>
             <p class="category-description">{{ $description }}</p>
-            <p class="tool-count">{{ len .RegularPages }} tools</p>
+            <p class="tool-count">{{ $totalTools }} tools</p>
         </div>
-        {{ end }}
         {{ end }}
     </div>
 {{ else }}

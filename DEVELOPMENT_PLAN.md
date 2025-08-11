@@ -70,6 +70,7 @@ Before making ANY changes, read these files:
 /static/js/affiliate-tracking.js    # Conversion tracking
 /static/js/conversion-optimizer.js  # Revenue optimization
 /static/css/affiliate.css           # Revenue styling
+/scripts/validate_categories_page.py # PREVENTS BLANK CATEGORY PAGE CATASTROPHE
 ```
 
 ### Core Template Files (CAREFUL):
@@ -161,7 +162,25 @@ Categories are NOT displayed alphabetically. They use a weighted system that pri
 1. Run `python3 scripts/analyze_category_weights.py`
 2. Review output for changes in affiliate distribution
 3. Update `weighted_categories.yaml` if needed
-4. Test locally before deploying
+4. **CRITICAL:** Run `python3 scripts/validate_categories_page.py` 
+5. Test locally before deploying
+
+### **CATASTROPHIC FAILURE PREVENTION:**
+**The category page went BLANK previously due to incorrect Hugo queries.**
+
+**ROOT CAUSE:** Template used `where site.Pages "Type" "categories"` which failed
+**SOLUTION:** Direct data access: `site.Data.weighted_categories.categories`
+**PREVENTION:** Validation script checks for dangerous patterns
+
+**NEVER use these Hugo queries in category templates:**
+- `site.Taxonomies.categories` 
+- `where site.Pages "Type" "categories"`
+- `where (where site.Pages`
+
+**ALWAYS validate categories page after ANY template changes:**
+```bash
+python3 scripts/validate_categories_page.py
+```
 
 ---
 
