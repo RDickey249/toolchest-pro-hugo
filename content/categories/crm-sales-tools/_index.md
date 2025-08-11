@@ -1,6 +1,7 @@
 ---
 title: "🎯 CRM & Sales Tools"
 description: "Customer relationship management, sales automation, and marketing tools"
+slug: "crm-sales-tools"
 weight: 4
 ---
 

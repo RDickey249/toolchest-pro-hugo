@@ -26,23 +26,85 @@
         {{ end }}
     </div>
 {{ else }}
-    <!-- Individual category page -->
+    <!-- Individual category page with subcategory grouping -->
     <div class="breadcrumb">
         <a href="/">Home</a> > <a href="/categories/">Categories</a> > <span>{{ .Title }}</span>
     </div>
     
     <h1>{{ .Title }}</h1>
+    <p class="page-description">{{ .Params.description | default "Browse tools in this category organized by subcategory." }}</p>
     
-    <div class="grid grid-3">
-        {{ range .Pages }}
-        <div class="card tool-card">
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <p class="tool-tagline">{{ .Params.tagline }}</p>
-            {{ with .Params.subcategory }}
-            <span class="subcategory-tag">{{ . }}</span>
+    {{ $currentCategory := strings.TrimSuffix "/" (strings.TrimPrefix "/categories/" .RelPermalink) }}
+    {{ $categoryPages := slice }}
+    {{ range site.Pages }}
+        {{ if and (eq .Section "categories") (eq .Kind "page") (.File) }}
+            {{ if in .File.Dir $currentCategory }}
+                {{ $categoryPages = $categoryPages | append . }}
             {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ $subcategories := slice }}
+    
+    <!-- Collect all unique subcategories -->
+    {{ range $categoryPages }}
+        {{ if .Params.subcategory }}
+            {{ $subcategories = $subcategories | append .Params.subcategory }}
+        {{ end }}
+    {{ end }}
+    {{ $subcategories = $subcategories | uniq | sort }}
+    
+    <!-- Display tools grouped by subcategory -->
+    {{ range $subcategory := $subcategories }}
+        {{ $toolsInSubcategory := where $categoryPages "Params.subcategory" $subcategory }}
+        {{ if gt (len $toolsInSubcategory) 0 }}
+        
+        <div class="subcategory-section">
+            <div class="section-header">
+                <h2>{{ $subcategory }}</h2>
+                <span class="tool-count">{{ len $toolsInSubcategory }} tools</span>
+            </div>
+            
+            <div class="grid grid-3">
+                {{ range $toolsInSubcategory }}
+                <div class="card tool-card">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p class="tool-tagline">{{ .Params.tagline | default "Professional tool solution" }}</p>
+                    <div class="tool-meta">
+                        <span class="subcategory-tag">{{ .Params.subcategory }}</span>
+                        {{ if .Params.affiliate_link }}
+                        <span class="affiliate-indicator">💰 Affiliate</span>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+            </div>
         </div>
         {{ end }}
+    {{ end }}
+    
+    <!-- Handle tools without subcategories -->
+    {{ $toolsWithoutSubcategory := where $categoryPages "Params.subcategory" nil }}
+    {{ if gt (len $toolsWithoutSubcategory) 0 }}
+    <div class="subcategory-section">
+        <div class="section-header">
+            <h2>Other Tools</h2>
+            <span class="tool-count">{{ len $toolsWithoutSubcategory }} tools</span>
+        </div>
+        
+        <div class="grid grid-3">
+            {{ range $toolsWithoutSubcategory }}
+            <div class="card tool-card">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <p class="tool-tagline">{{ .Params.tagline | default "Professional tool solution" }}</p>
+                <div class="tool-meta">
+                    {{ if .Params.affiliate_link }}
+                    <span class="affiliate-indicator">💰 Affiliate</span>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
     </div>
+    {{ end }}
 {{ end }}
 {{ end }}
