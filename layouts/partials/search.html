@@ -1,0 +1,311 @@
+<!-- Search Component with Autocomplete and Filtering -->
+<div class="search-container" id="searchContainer">
+    <!-- Search Bar -->
+    <div class="search-bar">
+        <div class="search-input-wrapper">
+            <input type="text" 
+                   id="searchInput" 
+                   class="search-input" 
+                   placeholder="Search 1,135+ tools... (e.g., 'CRM', 'email marketing', 'Shopify')"
+                   autocomplete="off">
+            <button class="search-button" type="button" aria-label="Search">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+            </button>
+        </div>
+        
+        <!-- Search Results Dropdown -->
+        <div class="search-results" id="searchResults" style="display: none;">
+            <div class="search-results-header">
+                <span class="results-count">0 tools found</span>
+                <button class="clear-search" id="clearSearch">Clear</button>
+            </div>
+            <div class="search-results-list" id="searchResultsList">
+                <!-- Results populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+    
+    <!-- Quick Filters -->
+    <div class="search-filters" id="searchFilters">
+        <div class="filter-group">
+            <label class="filter-label">Category:</label>
+            <select id="categoryFilter" class="filter-select">
+                <option value="">All Categories</option>
+                <option value="CRM & Sales Tools">🎯 CRM & Sales Tools</option>
+                <option value="AI Tools & Assistants">🤖 AI Tools & Assistants</option>
+                <option value="Design & Creative Tools">🎨 Design & Creative Tools</option>
+                <option value="Marketing & Social Media">📢 Marketing & Social Media</option>
+                <option value="E-commerce & Business Tools">🛍️ E-commerce & Business Tools</option>
+                <option value="Development & Technical Tools">💻 Development & Technical Tools</option>
+                <option value="Time Tracking & Scheduling">⏰ Time Tracking & Scheduling</option>
+                <option value="Productivity & Task Management">📝 Productivity & Task Management</option>
+            </select>
+        </div>
+        
+        <div class="filter-group">
+            <label class="filter-label">Price:</label>
+            <select id="priceFilter" class="filter-select">
+                <option value="">Any Price</option>
+                <option value="free">Free</option>
+                <option value="0-29">$0 - $29/month</option>
+                <option value="30-99">$30 - $99/month</option>
+                <option value="100-299">$100 - $299/month</option>
+                <option value="300+">$300+/month</option>
+            </select>
+        </div>
+        
+        <div class="filter-group">
+            <label class="filter-label">Rating:</label>
+            <select id="ratingFilter" class="filter-select">
+                <option value="">Any Rating</option>
+                <option value="4.5+">4.5+ Stars</option>
+                <option value="4.0+">4.0+ Stars</option>
+                <option value="3.5+">3.5+ Stars</option>
+            </select>
+        </div>
+        
+        <div class="filter-group">
+            <button class="filter-reset" id="resetFilters">Reset Filters</button>
+        </div>
+    </div>
+</div>
+
+<!-- Search Styles -->
+<style>
+.search-container {
+    background: #f7fafc;
+    padding: 2rem 0;
+    border-bottom: 1px solid #e2e8f0;
+    margin-bottom: 2rem;
+}
+
+.search-bar {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+}
+
+.search-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    width: 100%;
+    padding: 1rem 3rem 1rem 1rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 1rem;
+    background: white;
+    transition: all 0.3s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #dc2626;
+    box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.1);
+}
+
+.search-button {
+    position: absolute;
+    right: 8px;
+    background: none;
+    border: none;
+    color: #718096;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+    transition: color 0.3s ease;
+}
+
+.search-button:hover {
+    color: #dc2626;
+}
+
+.search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.search-results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e2e8f0;
+    background: #f7fafc;
+}
+
+.results-count {
+    font-size: 0.875rem;
+    color: #4a5568;
+    font-weight: 600;
+}
+
+.clear-search {
+    background: none;
+    border: none;
+    color: #dc2626;
+    font-size: 0.875rem;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.clear-search:hover {
+    text-decoration: underline;
+}
+
+.search-results-list {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #f1f5f9;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.search-result-item:hover {
+    background: #f7fafc;
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-info {
+    flex: 1;
+}
+
+.search-result-title {
+    font-weight: 600;
+    color: #2d3748;
+    margin-bottom: 0.25rem;
+}
+
+.search-result-meta {
+    font-size: 0.875rem;
+    color: #718096;
+}
+
+.search-result-category {
+    background: #dc2626;
+    color: white;
+    padding: 0.125rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-left: 0.5rem;
+}
+
+.search-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.filter-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #4a5568;
+}
+
+.filter-select {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    background: white;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+.filter-select:focus {
+    outline: none;
+    border-color: #dc2626;
+}
+
+.filter-reset {
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    color: #4a5568;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.filter-reset:hover {
+    background: #e2e8f0;
+    color: #2d3748;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .search-filters {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+    
+    .filter-group {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    .filter-select {
+        flex: 1;
+        margin-left: 0.5rem;
+    }
+    
+    .search-input {
+        font-size: 16px; /* Prevents zoom on iOS */
+    }
+}
+
+/* No results state */
+.no-results {
+    padding: 2rem;
+    text-align: center;
+    color: #718096;
+}
+
+.no-results-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.loading-state {
+    padding: 1rem;
+    text-align: center;
+    color: #718096;
+}
+</style>

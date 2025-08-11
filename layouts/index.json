@@ -1,0 +1,18 @@
+{{- $tools := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if and (not .IsHome) (not (eq .Title "About ToolChest")) (not (in .RelPermalink "/categories/_index")) -}}
+    {{- $tools = $tools | append (dict 
+        "id" .File.UniqueID
+        "title" .Title
+        "tagline" (.Params.tagline | default "")
+        "category" (.Params.category | default "")
+        "subcategory" (.Params.subcategory | default "")
+        "url" .Permalink
+        "rating" (.Params.rating | default 4.3)
+        "price" (.Params.starting_price | default 29)
+        "keywords" (delimit (.Params.tags | default slice) " ")
+    ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- dict "tools" $tools | jsonify -}}
