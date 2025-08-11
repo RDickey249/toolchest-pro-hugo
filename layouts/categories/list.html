@@ -8,9 +8,6 @@
     <h1>{{ .Title }}</h1>
     <p class="page-description">Browse tools by category to find exactly what you need.</p>
     
-    <!-- Advanced Search Component -->
-    {{ partial "search.html" . }}
-    
     <div class="grid grid-3">
         {{ range site.Data.weighted_categories.categories }}
         {{ $categorySlug := .slug }}
