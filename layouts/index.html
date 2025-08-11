@@ -37,12 +37,8 @@
         <a href="/categories/" class="view-all-link">View All Categories →</a>
     </div>
     <div class="grid grid-3">
-        {{ range first 6 site.Taxonomies.categories }}
-        <div class="card category-card">
-            <h3><a href="/categories/{{ .Page.Title | urlize }}/">{{ .Page.Title }}</a></h3>
-            <p class="tool-count">{{ .Count }} tools</p>
-        </div>
-        {{ end }}
+        <!-- Temporarily disabled category preview -->
+  <p>Browse all 32 categories to find the perfect tools for your business.</p>
     </div>
 </section>
 {{ end }}
