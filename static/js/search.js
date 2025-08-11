@@ -1,9 +1,6 @@
-// Advanced Search Functionality with Autocomplete and Filtering
+// Enhanced Search with Autocomplete and Instant Results
 class ToolSearch {
     constructor() {
-        this.tools = [];
-        this.filteredTools = [];
-        
         // Page search elements
         this.searchInput = document.getElementById('searchInput');
         this.searchResults = document.getElementById('searchResults');
@@ -15,12 +12,6 @@ class ToolSearch {
         this.headerSearchResults = document.getElementById('headerSearchResults');
         this.headerSearchResultsList = document.getElementById('headerSearchResultsList');
         this.headerClearSearch = document.getElementById('headerClearSearch');
-        
-        // Filter elements (only on pages with full search)
-        this.categoryFilter = document.getElementById('categoryFilter');
-        this.priceFilter = document.getElementById('priceFilter');
-        this.ratingFilter = document.getElementById('ratingFilter');
-        this.resetFilters = document.getElementById('resetFilters');
         
         this.isLoading = false;
         this.currentQuery = '';
@@ -38,84 +29,53 @@ class ToolSearch {
         try {
             // Load tools data from Hugo's JSON output
             const response = await fetch('/index.json');
-            if (response.ok) {
-                const data = await response.json();
-                this.tools = data.tools || [];
-                console.log(`Loaded ${this.tools.length} tools for search`);
-            } else {
-                // Fallback: extract from page content if JSON not available
-                this.extractToolsFromPage();
-            }
+            const data = await response.json();
+            this.tools = data.tools || [];
+            console.log(`Loaded ${this.tools.length} tools for search`);
         } catch (error) {
-            console.warn('Could not load tools JSON, extracting from page:', error);
-            this.extractToolsFromPage();
+            console.error('Failed to load tools data:', error);
+            this.tools = [];
         }
-    }
-    
-    extractToolsFromPage() {
-        // Extract tool data from existing page elements
-        const toolCards = document.querySelectorAll('.tool-card, .category-card');
-        this.tools = Array.from(toolCards).map((card, index) => {
-            const titleEl = card.querySelector('h3 a, h2 a');
-            const taglineEl = card.querySelector('.tool-tagline, .category-description');
-            const categoryEl = card.querySelector('.category-tag');
-            
-            return {
-                id: index,
-                title: titleEl ? titleEl.textContent.trim() : 'Unknown Tool',
-                tagline: taglineEl ? taglineEl.textContent.trim() : '',
-                category: categoryEl ? categoryEl.textContent.trim() : '',
-                url: titleEl ? titleEl.href : '#',
-                rating: 4.3, // Default rating
-                price: 29 // Default price
-            };
-        });
-        
-        console.log(`Extracted ${this.tools.length} tools from page content`);
     }
     
     bindEvents() {
-        // Page search input events (if exists)
+        // Debounce function
+        this.debounce = (func, wait) => {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        };
+        
+        // Page search events
         if (this.searchInput) {
-            this.searchInput.addEventListener('input', this.debounce((e) => this.handleSearch(e, 'page'), 200));
-            this.searchInput.addEventListener('focus', () => this.showResults('page'));
-            this.searchInput.addEventListener('keydown', this.handleKeyNavigation.bind(this));
+            this.searchInput.addEventListener('input', this.debounce(() => {
+                this.handleSearch('page');
+            }, 200));
+            
+            this.searchInput.addEventListener('focus', () => {
+                if (this.searchInput.value.length >= 2) {
+                    this.handleSearch('page');
+                }
+            });
         }
         
-        // Header search input events (always exists)
+        // Header search events
         if (this.headerSearchInput) {
-            this.headerSearchInput.addEventListener('input', this.debounce((e) => this.handleSearch(e, 'header'), 200));
-            this.headerSearchInput.addEventListener('focus', () => this.showResults('header'));
-            this.headerSearchInput.addEventListener('keydown', this.handleKeyNavigation.bind(this));
-        }
-        
-        // Search buttons
-        const searchButton = document.querySelector('.search-button');
-        if (searchButton) {
-            searchButton.addEventListener('click', () => {
-                this.searchInput.focus();
-                if (this.currentQuery.length >= 2) {
-                    this.handleSearch({ target: { value: this.currentQuery } }, 'page');
+            this.headerSearchInput.addEventListener('input', this.debounce(() => {
+                this.handleSearch('header');
+            }, 200));
+            
+            this.headerSearchInput.addEventListener('focus', () => {
+                if (this.headerSearchInput.value.length >= 2) {
+                    this.handleSearch('header');
                 }
             });
-        }
-        
-        const headerSearchButton = document.querySelector('.header-search-button');
-        if (headerSearchButton) {
-            headerSearchButton.addEventListener('click', () => {
-                this.headerSearchInput.focus();
-                if (this.currentQuery.length >= 2) {
-                    this.handleSearch({ target: { value: this.currentQuery } }, 'header');
-                }
-            });
-        }
-        
-        // Filter events (only if filters exist)
-        if (this.categoryFilter) {
-            this.categoryFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
-            this.priceFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
-            this.ratingFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
-            this.resetFilters.addEventListener('click', this.resetAllFilters.bind(this));
         }
         
         // Clear events
@@ -128,400 +88,185 @@ class ToolSearch {
         
         // Outside click detection
         document.addEventListener('click', (e) => {
-            const searchContainer = document.getElementById('searchContainer');
-            const headerSearch = document.getElementById('headerSearch');
-            
-            if (searchContainer && !searchContainer.contains(e.target)) {
+            // Close page search if clicking outside
+            if (this.searchResults && !this.searchResults.contains(e.target) && 
+                !this.searchInput?.contains(e.target)) {
                 this.hideResults('page');
             }
-            if (headerSearch && !headerSearch.contains(e.target)) {
+            
+            // Close header search if clicking outside
+            if (this.headerSearchResults && !this.headerSearchResults.contains(e.target) && 
+                !this.headerSearchInput?.contains(e.target)) {
                 this.hideResults('header');
             }
         });
         
-        // Touch events for mobile
-        document.addEventListener('touchstart', (e) => {
-            const searchContainer = document.getElementById('searchContainer');
-            const headerSearch = document.getElementById('headerSearch');
-            
-            if (searchContainer && !searchContainer.contains(e.target)) {
+        // Handle Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
                 this.hideResults('page');
-            }
-            if (headerSearch && !headerSearch.contains(e.target)) {
                 this.hideResults('header');
             }
         });
-        
-        // Handle mobile viewport changes
-        this.handleMobileViewport();
     }
     
-    handleMobileViewport() {
-        // Fix mobile viewport height issues for search results
-        const setSearchHeight = () => {
-            if (window.innerWidth <= 768) {
-                const vh = window.innerHeight * 0.01;
-                document.documentElement.style.setProperty('--vh', `${vh}px`);
-                
-                // Adjust search results max height on mobile
-                const searchResults = this.searchResults;
-                if (searchResults) {
-                    searchResults.style.maxHeight = Math.min(300, window.innerHeight * 0.4) + 'px';
-                }
-            }
-        };
-        
-        setSearchHeight();
-        window.addEventListener('resize', this.debounce(setSearchHeight, 100));
-        window.addEventListener('orientationchange', () => {
-            setTimeout(setSearchHeight, 100); // Delay for orientation change
-        });
-    }
-    
-    debounce(func, wait) {
-        let timeout;
-        return function executedFunction(...args) {
-            const later = () => {
-                clearTimeout(timeout);
-                func(...args);
-            };
-            clearTimeout(timeout);
-            timeout = setTimeout(later, wait);
-        };
-    }
-    
-    handleSearch(e, context = 'page') {
-        const query = e.target.value.trim().toLowerCase();
-        this.currentQuery = query;
-        
-        if (query.length === 0) {
-            this.hideResults(context);
-            return;
-        }
+    handleSearch(context = 'page') {
+        const input = context === 'header' ? this.headerSearchInput : this.searchInput;
+        const query = input.value.trim();
         
         if (query.length < 2) {
-            return; // Wait for at least 2 characters
+            this.hideResults(context);
+            return;
         }
         
         this.performSearch(query, context);
     }
     
     performSearch(query, context = 'page') {
-        this.isLoading = true;
-        this.showLoadingState(context);
+        const normalizedQuery = query.toLowerCase();
         
-        // Search algorithm with multiple criteria
-        const results = this.tools.filter(tool => {
-            const titleMatch = tool.title.toLowerCase().includes(query);
-            const taglineMatch = tool.tagline.toLowerCase().includes(query);
-            const categoryMatch = tool.category.toLowerCase().includes(query);
-            
-            // Keyword matching for common terms
-            const keywordMatch = this.matchKeywords(query, tool);
-            
-            return titleMatch || taglineMatch || categoryMatch || keywordMatch;
-        });
+        // Score and rank results
+        const results = this.tools
+            .map(tool => {
+                let score = 0;
+                const normalizedTitle = tool.title.toLowerCase();
+                const normalizedTagline = tool.tagline ? tool.tagline.toLowerCase() : '';
+                const normalizedContent = tool.content ? tool.content.toLowerCase() : '';
+                const normalizedCategory = tool.category ? tool.category.toLowerCase() : '';
+                const normalizedSubcategory = tool.subcategory ? tool.subcategory.toLowerCase() : '';
+                
+                // Exact title match
+                if (normalizedTitle === normalizedQuery) score += 100;
+                // Title starts with query
+                else if (normalizedTitle.startsWith(normalizedQuery)) score += 50;
+                // Title contains query
+                else if (normalizedTitle.includes(normalizedQuery)) score += 30;
+                
+                // Tagline matches
+                if (normalizedTagline.includes(normalizedQuery)) score += 20;
+                
+                // Category/subcategory matches
+                if (normalizedCategory.includes(normalizedQuery)) score += 25;
+                if (normalizedSubcategory.includes(normalizedQuery)) score += 15;
+                
+                // Content matches (lower priority)
+                if (normalizedContent.includes(normalizedQuery)) score += 5;
+                
+                // Boost affiliate tools slightly for revenue
+                if (tool.affiliate_link) score += 2;
+                
+                return { ...tool, score };
+            })
+            .filter(tool => tool.score > 0)
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 20); // Limit to top 20 results
         
-        // Sort results by relevance
-        results.sort((a, b) => {
-            const aScore = this.calculateRelevanceScore(query, a);
-            const bScore = this.calculateRelevanceScore(query, b);
-            return bScore - aScore;
-        });
+        this.displayResults(results, query, context);
         
-        this.filteredTools = results.slice(0, 50); // Limit to top 50 results
-        this.displayResults(context);
-        this.isLoading = false;
-    }
-    
-    matchKeywords(query, tool) {
-        const keywords = {
-            'crm': ['customer', 'relationship', 'management', 'sales', 'leads'],
-            'email': ['marketing', 'newsletter', 'campaigns', 'automation'],
-            'design': ['creative', 'graphics', 'ui', 'ux', 'visual'],
-            'analytics': ['data', 'tracking', 'metrics', 'insights', 'reporting'],
-            'ecommerce': ['store', 'shop', 'selling', 'retail', 'commerce'],
-            'project': ['management', 'planning', 'tasks', 'collaboration'],
-            'communication': ['chat', 'messaging', 'video', 'meetings', 'collaboration'],
-            'productivity': ['tasks', 'workflow', 'efficiency', 'organization']
-        };
-        
-        for (const [key, terms] of Object.entries(keywords)) {
-            if (query.includes(key) || terms.some(term => query.includes(term))) {
-                const toolText = `${tool.title} ${tool.tagline} ${tool.category}`.toLowerCase();
-                if (terms.some(term => toolText.includes(term)) || toolText.includes(key)) {
-                    return true;
-                }
-            }
-        }
-        
-        return false;
-    }
-    
-    calculateRelevanceScore(query, tool) {
-        let score = 0;
-        const queryLower = query.toLowerCase();
-        
-        // Title match (highest priority)
-        if (tool.title.toLowerCase().includes(queryLower)) {
-            score += 10;
-            if (tool.title.toLowerCase().startsWith(queryLower)) {
-                score += 5; // Bonus for starts with
-            }
-        }
-        
-        // Category match
-        if (tool.category.toLowerCase().includes(queryLower)) {
-            score += 5;
-        }
-        
-        // Tagline match
-        if (tool.tagline.toLowerCase().includes(queryLower)) {
-            score += 3;
-        }
-        
-        // Rating bonus
-        score += (tool.rating || 4.0) * 0.5;
-        
-        return score;
-    }
-    
-    applyFilters() {
-        const category = this.categoryFilter.value;
-        const price = this.priceFilter.value;
-        const rating = this.ratingFilter.value;
-        
-        if (!category && !price && !rating) {
-            // No filters applied, perform search with current query
-            if (this.currentQuery) {
-                this.performSearch(this.currentQuery);
-            }
-            return;
-        }
-        
-        // Apply filters to current results or all tools
-        let toolsToFilter = this.currentQuery ? this.filteredTools : this.tools;
-        
-        let filtered = toolsToFilter.filter(tool => {
-            let matches = true;
-            
-            // Category filter
-            if (category && !tool.category.includes(category.replace(/[🎯🤖🎨📢🛍️💻⏰📝]/g, '').trim())) {
-                matches = false;
-            }
-            
-            // Price filter
-            if (price && matches) {
-                const toolPrice = tool.price || 29;
-                switch (price) {
-                    case 'free':
-                        matches = toolPrice === 0;
-                        break;
-                    case '0-29':
-                        matches = toolPrice >= 0 && toolPrice <= 29;
-                        break;
-                    case '30-99':
-                        matches = toolPrice >= 30 && toolPrice <= 99;
-                        break;
-                    case '100-299':
-                        matches = toolPrice >= 100 && toolPrice <= 299;
-                        break;
-                    case '300+':
-                        matches = toolPrice >= 300;
-                        break;
-                }
-            }
-            
-            // Rating filter
-            if (rating && matches) {
-                const toolRating = tool.rating || 4.3;
-                const minRating = parseFloat(rating.replace('+', ''));
-                matches = toolRating >= minRating;
-            }
-            
-            return matches;
-        });
-        
-        this.filteredTools = filtered;
-        this.displayResults();
-        
-        // Track filter usage
-        this.trackEvent('filter_applied', {
-            category: category || 'none',
-            price: price || 'none',
-            rating: rating || 'none',
-            results: filtered.length
+        // Track search
+        this.trackEvent('search_performed', {
+            query: query,
+            results_count: results.length,
+            context: context
         });
     }
     
-    displayResults() {
-        if (this.filteredTools.length === 0) {
-            this.showNoResults();
-            return;
-        }
+    displayResults(results, query, context = 'page') {
+        const resultsList = context === 'header' ? this.headerSearchResultsList : this.searchResultsList;
+        const resultsContainer = context === 'header' ? this.headerSearchResults : this.searchResults;
+        const resultsCount = resultsContainer.querySelector('.results-count');
         
-        // Update results count
-        document.querySelector('.results-count').textContent = `${this.filteredTools.length} tools found`;
-        
-        // Generate results HTML
-        const resultsHTML = this.filteredTools.map((tool, index) => `
-            <div class="search-result-item" data-index="${index}" onclick="window.location.href='${tool.url}'">
-                <div class="search-result-info">
-                    <div class="search-result-title">${tool.title}</div>
-                    <div class="search-result-meta">
-                        ${tool.tagline}
-                        <span class="search-result-category">${tool.category}</span>
+        if (results.length === 0) {
+            resultsList.innerHTML = `
+                <div class="no-results">
+                    <div class="no-results-icon">🔍</div>
+                    <p><strong>No tools found for "${query}"</strong></p>
+                    <p>Try different keywords or browse categories</p>
+                </div>
+            `;
+            resultsCount.textContent = '0 tools found';
+        } else {
+            const resultsHTML = results.map((tool, index) => `
+                <div class="search-result-item" data-index="${index}" onclick="window.location.href='${tool.url}'">
+                    <div class="search-result-info">
+                        <div class="search-result-title">
+                            ${tool.title}
+                            ${tool.affiliate_link ? '<span class="affiliate-indicator">💰</span>' : ''}
+                        </div>
+                        <div class="search-result-meta">
+                            ${tool.tagline || 'Professional tool solution'}
+                            <span class="search-result-category">${tool.category}</span>
+                        </div>
                     </div>
                 </div>
-            </div>
-        `).join('');
+            `).join('');
+            
+            resultsList.innerHTML = resultsHTML;
+            resultsCount.textContent = `${results.length} tool${results.length !== 1 ? 's' : ''} found`;
+        }
         
-        this.searchResultsList.innerHTML = resultsHTML;
-        this.showResults();
+        this.showResults(context);
     }
     
-    showResults() {
-        this.searchResults.style.display = 'block';
-    }
-    
-    hideResults() {
-        this.searchResults.style.display = 'none';
-    }
-    
-    showLoadingState() {
-        this.searchResultsList.innerHTML = '<div class="loading-state">🔍 Searching tools...</div>';
-        this.showResults();
-    }
-    
-    showNoResults() {
-        const query = this.currentQuery;
-        const filters = this.getActiveFilters();
-        
-        this.searchResultsList.innerHTML = `
-            <div class="no-results">
-                <div class="no-results-icon">🔍</div>
-                <p><strong>No tools found</strong></p>
-                <p>Try adjusting your search or filters</p>
-                ${query ? `<p><small>Searched for: "${query}"</small></p>` : ''}
-                ${filters.length > 0 ? `<p><small>Active filters: ${filters.join(', ')}</small></p>` : ''}
-            </div>
-        `;
-        
-        document.querySelector('.results-count').textContent = '0 tools found';
-        this.showResults();
-    }
-    
-    getActiveFilters() {
-        const filters = [];
-        if (this.categoryFilter.value) filters.push(this.categoryFilter.value);
-        if (this.priceFilter.value) filters.push(this.priceFilter.options[this.priceFilter.selectedIndex].text);
-        if (this.ratingFilter.value) filters.push(this.ratingFilter.options[this.ratingFilter.selectedIndex].text);
-        return filters;
-    }
-    
-    clearSearch() {
-        this.searchInput.value = '';
-        this.currentQuery = '';
-        this.hideResults();
-        this.searchInput.focus();
-    }
-    
-    resetAllFilters() {
-        this.categoryFilter.value = '';
-        this.priceFilter.value = '';
-        this.ratingFilter.value = '';
-        this.applyFilters();
-        
-        this.trackEvent('filters_reset', {
-            had_query: !!this.currentQuery
-        });
-    }
-    
-    handleKeyNavigation(e) {
-        const results = this.searchResultsList.querySelectorAll('.search-result-item');
-        if (results.length === 0) return;
-        
-        const current = this.searchResultsList.querySelector('.search-result-item.active');
-        let index = current ? parseInt(current.dataset.index) : -1;
-        
-        switch (e.key) {
-            case 'ArrowDown':
-                e.preventDefault();
-                index = Math.min(index + 1, results.length - 1);
-                this.highlightResult(index);
-                break;
-            case 'ArrowUp':
-                e.preventDefault();
-                index = Math.max(index - 1, 0);
-                this.highlightResult(index);
-                break;
-            case 'Enter':
-                e.preventDefault();
-                if (current) {
-                    current.click();
-                } else if (results[0]) {
-                    results[0].click();
-                }
-                break;
-            case 'Escape':
-                this.hideResults();
-                break;
+    showResults(context = 'page') {
+        const resultsContainer = context === 'header' ? this.headerSearchResults : this.searchResults;
+        if (resultsContainer) {
+            resultsContainer.style.display = 'block';
         }
     }
     
-    highlightResult(index) {
-        const results = this.searchResultsList.querySelectorAll('.search-result-item');
-        results.forEach(r => r.classList.remove('active'));
-        if (results[index]) {
-            results[index].classList.add('active');
-            results[index].scrollIntoView({ block: 'nearest' });
+    hideResults(context = 'page') {
+        const resultsContainer = context === 'header' ? this.headerSearchResults : this.searchResults;
+        if (resultsContainer) {
+            resultsContainer.style.display = 'none';
         }
+    }
+    
+    clearSearchQuery(context = 'page') {
+        const input = context === 'header' ? this.headerSearchInput : this.searchInput;
+        if (input) {
+            input.value = '';
+            input.focus();
+        }
+        this.hideResults(context);
+        
+        this.trackEvent('search_cleared', { context: context });
     }
     
     trackSearchEvents() {
-        // Track search usage for analytics
-        this.searchInput.addEventListener('focus', () => {
-            this.trackEvent('search_focused');
-        });
-        
-        this.searchInput.addEventListener('input', () => {
-            if (this.searchInput.value.length >= 2) {
-                this.trackEvent('search_query', {
-                    query_length: this.searchInput.value.length,
-                    has_results: this.filteredTools.length > 0
-                });
-            }
-        });
-    }
-    
-    trackEvent(eventName, properties = {}) {
-        // Integrate with existing affiliate tracking
-        if (window.affiliateTracker && window.affiliateTracker.trackEvent) {
-            window.affiliateTracker.trackEvent(eventName, {
-                ...properties,
-                timestamp: new Date().toISOString(),
-                page: window.location.pathname
+        // Track when search is focused
+        if (this.searchInput) {
+            this.searchInput.addEventListener('focus', () => {
+                this.trackEvent('search_focused', { context: 'page' });
             });
         }
         
-        console.log('Search Event:', eventName, properties);
+        if (this.headerSearchInput) {
+            this.headerSearchInput.addEventListener('focus', () => {
+                this.trackEvent('search_focused', { context: 'header' });
+            });
+        }
+    }
+    
+    trackEvent(eventName, data = {}) {
+        // Analytics tracking
+        if (typeof gtag !== 'undefined') {
+            gtag('event', eventName, {
+                event_category: 'Search',
+                ...data
+            });
+        }
+        
+        // Console logging for debugging
+        console.log(`Search Event: ${eventName}`, data);
     }
 }
 
 // Initialize search when DOM is ready
-document.addEventListener('DOMContentLoaded', function() {
-    if (document.getElementById('searchContainer')) {
-        window.toolSearch = new ToolSearch();
-        console.log('🔍 Advanced search functionality initialized');
-    }
-});
-
-// Add active result highlighting styles
-const style = document.createElement('style');
-style.textContent = `
-    .search-result-item.active {
-        background: #f0f4f8 !important;
-        border-left: 3px solid #dc2626;
-    }
-`;
-document.head.appendChild(style);
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+        new ToolSearch();
+    });
+} else {
+    new ToolSearch();
+}

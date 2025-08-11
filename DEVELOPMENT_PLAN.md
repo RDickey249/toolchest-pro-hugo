@@ -266,6 +266,28 @@ If 404s occur:
 
 **⚠️ DO NOT MODIFY** `/layouts/categories/list.html` without understanding this fix - it solves a fundamental Hugo limitation with nested page discovery.
 
+### **RULE #10: NO UNSOLICITED FEATURES** 🚫
+**PERMANENT DIRECTIVE - FEATURES REQUIRE EXPLICIT APPROVAL:**
+
+**❌ PROBLEM:** Features being added without user request (e.g., search filters for Category, Price, Rating that were never requested).
+
+**✅ SOLUTION:** NEVER add features not explicitly requested by the user.
+
+#### **MANDATORY FEATURE GUIDELINES:**
+1. **ONLY implement features explicitly requested** - If user didn't ask for it, don't add it
+2. **CONFIRM unclear requests** - When in doubt, ask for clarification  
+3. **DOCUMENT requested features** - Track what was actually requested vs implemented
+4. **SIMPLICITY FIRST** - Default to simpler solutions unless complexity is requested
+
+#### **EXAMPLES:**
+- ❌ **WRONG:** User asks for "search functionality" → Add search with category filters, price filters, rating filters
+- ✅ **RIGHT:** User asks for "search functionality" → Add simple search bar with great search algorithm
+
+- ❌ **WRONG:** User asks to "improve navigation" → Add breadcrumbs, sidebar, mega menu, search
+- ✅ **RIGHT:** User asks to "improve navigation" → Fix the specific navigation issue they mentioned
+
+**⚠️ REMEMBER:** The user knows their business needs. Don't assume features would be helpful - if they want it, they'll ask for it.
+
 ---
 
 ## 📊 AUDIT FINDINGS & STRATEGIC OPPORTUNITIES
