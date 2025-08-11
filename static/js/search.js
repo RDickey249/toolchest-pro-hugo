@@ -3,14 +3,24 @@ class ToolSearch {
     constructor() {
         this.tools = [];
         this.filteredTools = [];
+        
+        // Page search elements
         this.searchInput = document.getElementById('searchInput');
         this.searchResults = document.getElementById('searchResults');
         this.searchResultsList = document.getElementById('searchResultsList');
+        this.clearSearch = document.getElementById('clearSearch');
+        
+        // Header search elements
+        this.headerSearchInput = document.getElementById('headerSearchInput');
+        this.headerSearchResults = document.getElementById('headerSearchResults');
+        this.headerSearchResultsList = document.getElementById('headerSearchResultsList');
+        this.headerClearSearch = document.getElementById('headerClearSearch');
+        
+        // Filter elements (only on pages with full search)
         this.categoryFilter = document.getElementById('categoryFilter');
         this.priceFilter = document.getElementById('priceFilter');
         this.ratingFilter = document.getElementById('ratingFilter');
         this.resetFilters = document.getElementById('resetFilters');
-        this.clearSearch = document.getElementById('clearSearch');
         
         this.isLoading = false;
         this.currentQuery = '';
@@ -65,46 +75,82 @@ class ToolSearch {
     }
     
     bindEvents() {
-        // Search input events (mobile-optimized)
-        this.searchInput.addEventListener('input', this.debounce(this.handleSearch.bind(this), 200));
-        this.searchInput.addEventListener('focus', this.showResults.bind(this));
+        // Page search input events (if exists)
+        if (this.searchInput) {
+            this.searchInput.addEventListener('input', this.debounce((e) => this.handleSearch(e, 'page'), 200));
+            this.searchInput.addEventListener('focus', () => this.showResults('page'));
+            this.searchInput.addEventListener('keydown', this.handleKeyNavigation.bind(this));
+        }
         
-        // Touch-friendly search button
+        // Header search input events (always exists)
+        if (this.headerSearchInput) {
+            this.headerSearchInput.addEventListener('input', this.debounce((e) => this.handleSearch(e, 'header'), 200));
+            this.headerSearchInput.addEventListener('focus', () => this.showResults('header'));
+            this.headerSearchInput.addEventListener('keydown', this.handleKeyNavigation.bind(this));
+        }
+        
+        // Search buttons
         const searchButton = document.querySelector('.search-button');
         if (searchButton) {
             searchButton.addEventListener('click', () => {
                 this.searchInput.focus();
                 if (this.currentQuery.length >= 2) {
-                    this.handleSearch({ target: { value: this.currentQuery } });
+                    this.handleSearch({ target: { value: this.currentQuery } }, 'page');
                 }
             });
         }
         
-        // Filter events (debounced for mobile performance)
-        this.categoryFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
-        this.priceFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
-        this.ratingFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
+        const headerSearchButton = document.querySelector('.header-search-button');
+        if (headerSearchButton) {
+            headerSearchButton.addEventListener('click', () => {
+                this.headerSearchInput.focus();
+                if (this.currentQuery.length >= 2) {
+                    this.handleSearch({ target: { value: this.currentQuery } }, 'header');
+                }
+            });
+        }
         
-        // Clear and reset events
-        this.clearSearch.addEventListener('click', this.clearSearchQuery.bind(this));
-        this.resetFilters.addEventListener('click', this.resetAllFilters.bind(this));
+        // Filter events (only if filters exist)
+        if (this.categoryFilter) {
+            this.categoryFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
+            this.priceFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
+            this.ratingFilter.addEventListener('change', this.debounce(this.applyFilters.bind(this), 100));
+            this.resetFilters.addEventListener('click', this.resetAllFilters.bind(this));
+        }
         
-        // Touch-friendly outside click/tap detection
+        // Clear events
+        if (this.clearSearch) {
+            this.clearSearch.addEventListener('click', () => this.clearSearchQuery('page'));
+        }
+        if (this.headerClearSearch) {
+            this.headerClearSearch.addEventListener('click', () => this.clearSearchQuery('header'));
+        }
+        
+        // Outside click detection
         document.addEventListener('click', (e) => {
-            if (!document.getElementById('searchContainer').contains(e.target)) {
-                this.hideResults();
+            const searchContainer = document.getElementById('searchContainer');
+            const headerSearch = document.getElementById('headerSearch');
+            
+            if (searchContainer && !searchContainer.contains(e.target)) {
+                this.hideResults('page');
+            }
+            if (headerSearch && !headerSearch.contains(e.target)) {
+                this.hideResults('header');
             }
         });
         
         // Touch events for mobile
         document.addEventListener('touchstart', (e) => {
-            if (!document.getElementById('searchContainer').contains(e.target)) {
-                this.hideResults();
+            const searchContainer = document.getElementById('searchContainer');
+            const headerSearch = document.getElementById('headerSearch');
+            
+            if (searchContainer && !searchContainer.contains(e.target)) {
+                this.hideResults('page');
+            }
+            if (headerSearch && !headerSearch.contains(e.target)) {
+                this.hideResults('header');
             }
         });
-        
-        // Mobile-optimized keyboard navigation
-        this.searchInput.addEventListener('keydown', this.handleKeyNavigation.bind(this));
         
         // Handle mobile viewport changes
         this.handleMobileViewport();
@@ -144,12 +190,12 @@ class ToolSearch {
         };
     }
     
-    handleSearch(e) {
+    handleSearch(e, context = 'page') {
         const query = e.target.value.trim().toLowerCase();
         this.currentQuery = query;
         
         if (query.length === 0) {
-            this.hideResults();
+            this.hideResults(context);
             return;
         }
         
@@ -157,12 +203,12 @@ class ToolSearch {
             return; // Wait for at least 2 characters
         }
         
-        this.performSearch(query);
+        this.performSearch(query, context);
     }
     
-    performSearch(query) {
+    performSearch(query, context = 'page') {
         this.isLoading = true;
-        this.showLoadingState();
+        this.showLoadingState(context);
         
         // Search algorithm with multiple criteria
         const results = this.tools.filter(tool => {
@@ -184,7 +230,7 @@ class ToolSearch {
         });
         
         this.filteredTools = results.slice(0, 50); // Limit to top 50 results
-        this.displayResults();
+        this.displayResults(context);
         this.isLoading = false;
     }
     
