@@ -1,16 +1,20 @@
 ---
 title: "Timetastic"
-tagline: "Ready to get started? Visit Timetastic to explore the platform and begin usin..."
+tagline: "Simple leave management platform for small teams with intuitive absence tracking"
 category: "Time Tracking & Scheduling"
 categories: ["Time Tracking & Scheduling"]
 subcategory: "Attendance Absence Management"
 tool_name: "Timetastic"
 deployment_status: "deployed"
-image: "/images/tools/timetastic-placeholder.jpg"
+image: "/images/tools/timetastic.jpg"
+rating: 4.3
+starting_price: 2.50
+primary_use: "manage team leave and absence requests efficiently"
+top_alternatives: "BambooHR, Deputy, When I Work"
 ---
 Timetastic is a beautifully simple leave management platform designed specifically for small teams who need professional absence tracking without enterprise complexity. The platform transforms tedious manual vacation tracking into an effortless process with intuitive leave requests, visual calendars, and automated approval workflows.
 
-Unlike bloated HR systems, Timetastic focuses on what small teams actually need: clear visibility of who's off when, simple request processes, and basic reporting. Its clean interface encourages team adoption while reducing administrative overhead for managers.
+Unlike complex HR systems, Timetastic focuses on what small teams actually need: clear visibility of who's off when, simple request processes, and basic reporting. Its clean interface encourages team adoption while reducing administrative overhead for managers.
 
 Perfect for startups, growing businesses, and small companies who want to establish professional leave tracking practices without breaking the budget or overwhelming their team with unnecessary features.
 

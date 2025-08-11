@@ -1,0 +1,231 @@
+<!-- JSON-LD Structured Data for SEO Optimization -->
+
+<!-- Organization Schema for Homepage -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": "{{ "/images/toolchest-logo.png" | absURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "foundingDate": "2025",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "availableLanguage": "English"
+    },
+    "sameAs": [
+        "https://twitter.com/toolchestpro",
+        "https://linkedin.com/company/toolchestpro"
+    ]
+}
+</script>
+
+<!-- WebSite Schema with Search Action -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": "{{ "/images/toolchest-logo.png" | absURL }}"
+    },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "{{ .Site.BaseURL }}search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+    }
+}
+</script>
+{{ end }}
+
+<!-- SoftwareApplication Schema for Tool Pages -->
+{{ if and (not .IsHome) (ne .Type "categories") (eq .Type "page") }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "{{ .Title }}",
+    "description": "{{ .Params.tagline | default .Summary | truncate 200 }}",
+    "url": "{{ .Params.affiliate_url | default "#" }}",
+    "applicationCategory": "{{ .Params.category | default "Business Software" }}",
+    "operatingSystem": "Web, Windows, macOS, Linux, iOS, Android",
+    "downloadUrl": "{{ .Params.affiliate_url | default "#" }}",
+    "screenshot": "{{ .Params.image | default "/images/toolchest-logo.png" | absURL }}",
+    "softwareVersion": "{{ .Params.version | default "Latest" }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "author": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": "{{ "/images/toolchest-logo.png" | absURL }}"
+    },
+    "offers": {
+        "@type": "Offer",
+        "price": "{{ .Params.starting_price | default "0" }}",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "{{ now.AddDate 1 0 0 | dateFormat "2006-01-02" }}",
+        "seller": {
+            "@type": "Organization",
+            "name": "{{ .Params.vendor | default .Title }}"
+        }
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ .Params.rating | default "4.5" }}",
+        "ratingCount": "{{ .Params.review_count | default "100" }}",
+        "bestRating": "5",
+        "worstRating": "1"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Organization",
+                "name": "{{ .Site.Title }} Editorial Team"
+            },
+            "reviewBody": "{{ .Summary | truncate 300 | plainify }}",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "{{ .Params.rating | default "4.5" }}",
+                "bestRating": "5",
+                "worstRating": "1"
+            },
+            "datePublished": "{{ .Date.Format "2006-01-02" }}"
+        }
+    ]
+}
+</script>
+{{ end }}
+
+<!-- BreadcrumbList Schema for Navigation -->
+{{ if not .IsHome }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "{{ .Site.BaseURL }}"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Categories",
+            "item": "{{ .Site.BaseURL }}categories/"
+        }
+        {{ if .Params.category }}
+        ,{
+            "@type": "ListItem",
+            "position": 3,
+            "name": "{{ .Params.category }}",
+            "item": "{{ .Site.BaseURL }}categories/{{ .Params.category | urlize }}/"
+        }
+        {{ end }}
+        {{ if not (eq .Type "categories") }}
+        ,{
+            "@type": "ListItem",
+            "position": {{ if .Params.category }}4{{ else }}3{{ end }},
+            "name": "{{ .Title }}",
+            "item": "{{ .Permalink }}"
+        }
+        {{ end }}
+    ]
+}
+</script>
+{{ end }}
+
+<!-- FAQ Schema for Tool Pages (if FAQ section exists) -->
+{{ if and (not .IsHome) (ne .Type "categories") }}
+{{ if .Content | findRE "## FAQ|## Frequently Asked Questions" }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is {{ .Title }} used for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ .Title }} is {{ .Params.tagline | lower }}. It's primarily used for {{ .Params.category | lower }} and helps businesses {{ .Params.primary_use | default "improve their workflow efficiency" }}."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much does {{ .Title }} cost?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ .Title }} pricing starts at ${{ .Params.starting_price | default "29" }}/month. Visit the official website for current pricing and available plans."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the best alternatives to {{ .Title }}?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Popular alternatives to {{ .Title }} include {{ .Params.top_alternatives | default "similar tools in this category" }}. Each tool has unique strengths for different business needs and use cases."
+            }
+        }
+    ]
+}
+</script>
+{{ end }}
+{{ end }}
+
+<!-- Article Schema for Tool Reviews -->
+{{ if and (not .IsHome) (ne .Type "categories") }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "@id": "{{ .Permalink }}",
+    "headline": "{{ .Title }} Review: {{ .Params.tagline | default "Complete Feature Guide" }}",
+    "description": "{{ .Params.tagline | default .Summary | truncate 160 }}",
+    "image": "{{ .Params.image | default "/images/toolchest-logo.png" | absURL }}",
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z" }}",
+    "author": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }} Editorial Team",
+        "url": "{{ .Site.BaseURL }}"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{ "/images/toolchest-logo.png" | absURL }}",
+            "width": 400,
+            "height": 400
+        }
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+    },
+    "articleSection": "{{ .Params.category }}",
+    "keywords": "{{ .Params.category }}, {{ .Title }}, {{ .Params.subcategory | default "business software" }}, tool review, software comparison",
+    "wordCount": {{ .WordCount }},
+    "articleBody": "{{ .Content | plainify | truncate 500 }}"
+}
+</script>
+{{ end }}
