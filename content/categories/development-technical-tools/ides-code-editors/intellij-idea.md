@@ -3,7 +3,7 @@ title: "IntelliJ IDEA"
 tagline: "JetBrains' powerful IDE geared toward Java and other JVM languages"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Ides Code Editors"
+subcategory: "IDEs & Code Editors"
 tool_name: "IntelliJ IDEA"
 deployment_status: "deployed"
 image: "/images/tools/intellij-idea-placeholder.jpg"

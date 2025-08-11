@@ -3,7 +3,7 @@ title: "WebRTC SDK"
 tagline: "Real-time communication for web and mobile applications"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "WebRTC SDK"
 deployment_status: "deployed"
 image: "/images/tools/webrtc-sdk-placeholder.jpg"

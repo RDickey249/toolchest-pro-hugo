@@ -3,7 +3,7 @@ title: "Dapr"
 tagline: "Distributed application runtime for cloud-native microservices development"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Containerization Orchestration"
+subcategory: "Containerization & Orchestration"
 tool_name: "Dapr"
 deployment_status: "deployed"
 image: "/images/tools/dapr-placeholder.jpg"

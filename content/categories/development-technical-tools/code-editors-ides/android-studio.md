@@ -3,7 +3,7 @@ title: "Android Studio"
 tagline: "Google's official IDE for Android application development"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Code Editors Ides"
+subcategory: "Code Editors & IDEs"
 tool_name: "Android Studio"
 deployment_status: "deployed"
 image: "/images/tools/android-studio-placeholder.jpg"

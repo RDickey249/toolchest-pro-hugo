@@ -3,7 +3,7 @@ title: "Vite"
 tagline: "Next-generation frontend build tool with lightning-fast development server"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Build Tools Task Runners"
+subcategory: "Build Tools & Task Runners"
 tool_name: "Vite"
 deployment_status: "deployed"
 image: "/images/tools/vite-placeholder.jpg"

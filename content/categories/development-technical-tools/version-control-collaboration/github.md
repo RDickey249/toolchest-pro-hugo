@@ -2,7 +2,7 @@
 title: "GitHub"
 tagline: "The world's largest code hosting platform"
 category: "Development & Technical Tools"
-subcategory: "Version Control Collaboration"
+subcategory: "Version Control & Collaboration"
 tool_name: "GitHub"
 deployment_status: "deployed"
 image: "/images/tools/github-placeholder.jpg"

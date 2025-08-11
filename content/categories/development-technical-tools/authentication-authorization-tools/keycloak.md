@@ -3,7 +3,7 @@ title: "Keycloak"
 tagline: "Open-source identity and access management with SSO and federation"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Authentication Authorization Tools"
+subcategory: "Authentication & Authorization"
 tool_name: "Keycloak"
 deployment_status: "deployed"
 image: "/images/tools/keycloak-placeholder.jpg"

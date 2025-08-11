@@ -3,7 +3,7 @@ title: "Phabricator"
 tagline: "Suite of open-source tools for code review and project tracking"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Version Control Collaboration"
+subcategory: "Version Control & Collaboration"
 tool_name: "Phabricator"
 deployment_status: "deployed"
 image: "/images/tools/phabricator-placeholder.jpg"

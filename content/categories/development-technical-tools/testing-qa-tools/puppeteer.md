@@ -3,7 +3,7 @@ title: "Puppeteer"
 tagline: "Node.js library for controlling headless Chrome and browser automation"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Testing Qa Tools"
+subcategory: "Testing & QA"
 tool_name: "Puppeteer"
 deployment_status: "deployed"
 image: "/images/tools/puppeteer-placeholder.jpg"

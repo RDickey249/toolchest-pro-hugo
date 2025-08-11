@@ -3,7 +3,7 @@ title: "SourceForge"
 tagline: "Legacy code hosting and project management"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Version Control Collaboration"
+subcategory: "Version Control & Collaboration"
 tool_name: "SourceForge"
 deployment_status: "deployed"
 image: "/images/tools/sourceforge-placeholder.jpg"

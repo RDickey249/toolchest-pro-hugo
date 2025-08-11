@@ -3,7 +3,7 @@ title: "Eclipse"
 tagline: "Long-standing open-source IDE often used in enterprise Java development"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Ides Code Editors"
+subcategory: "IDEs & Code Editors"
 tool_name: "Eclipse"
 deployment_status: "deployed"
 image: "/images/tools/eclipse-placeholder.jpg"

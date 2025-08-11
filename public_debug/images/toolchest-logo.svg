@@ -1,0 +1,66 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Deep iron gray gradient background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2E3A46;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3A4651;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="200" height="80" fill="url(#bgGradient)" rx="8"/>
+  
+  <!-- Red radiating lines (burst pattern) -->
+  <g transform="translate(100,40)" opacity="0.3">
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(0)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(45)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(90)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(135)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(180)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(225)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(270)"/>
+    <line x1="0" y1="0" x2="25" y2="0" stroke="#e74c3c" stroke-width="2" transform="rotate(315)"/>
+  </g>
+  
+  <!-- Red toolbox -->
+  <g transform="translate(85,25)" filter="url(#shadow)">
+    <!-- Main toolbox body -->
+    <rect x="0" y="10" width="30" height="20" fill="#E74C3C" stroke="#c0392b" stroke-width="1" rx="2"/>
+    <!-- Toolbox handle -->
+    <rect x="12" y="5" width="6" height="8" fill="#c0392b" rx="1"/>
+    <!-- White drawer accents -->
+    <rect x="3" y="15" width="24" height="2" fill="#FFFFFF" opacity="0.9"/>
+    <rect x="3" y="20" width="24" height="1" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="6" cy="25" r="1" fill="#FFFFFF"/>
+    <circle cx="24" cy="25" r="1" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Toolbox gradient -->
+  <defs>
+    <linearGradient id="toolboxGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Crossed tools (hammer and wrench) -->
+  <g transform="translate(100,40)" filter="url(#shadow)">
+    <!-- Hammer with wooden handle -->
+    <g transform="rotate(-30)">
+      <rect x="-1" y="-12" width="2" height="16" fill="#8B4513"/>
+      <rect x="-1" y="4" width="2" height="4" fill="#A0522D"/>
+      <rect x="-3" y="-14" width="6" height="4" fill="#C0C0C0" rx="1"/>
+    </g>
+    <!-- Wrench all silver -->
+    <g transform="rotate(30)">
+      <rect x="-1" y="-12" width="2" height="20" fill="#C0C0C0"/>
+      <circle cx="0" cy="-12" r="3" fill="none" stroke="#A8A8A8" stroke-width="1.5"/>
+    </g>
+  </g>
+  
+  <!-- TOOL CHEST text -->
+  <text x="100" y="68" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#FFFFFF">TOOL CHEST</text>
+</svg>

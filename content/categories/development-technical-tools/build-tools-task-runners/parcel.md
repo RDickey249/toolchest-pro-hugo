@@ -3,7 +3,7 @@ title: "Parcel"
 tagline: "Zero-config bundler with fast performance and HMR"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Build Tools Task Runners"
+subcategory: "Build Tools & Task Runners"
 tool_name: "Parcel"
 deployment_status: "deployed"
 image: "/images/tools/parcel-placeholder.jpg"

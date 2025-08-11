@@ -3,7 +3,7 @@ title: "Crucible"
 tagline: "Peer code review tool by Atlassian with inline comments and Jira integration"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Code Quality Linting"
+subcategory: "Code Quality & Linting"
 tool_name: "Crucible"
 deployment_status: "deployed"
 image: "/images/tools/crucible-placeholder.jpg"

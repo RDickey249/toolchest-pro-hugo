@@ -3,7 +3,7 @@ title: "Mercurial"
 tagline: "Lightweight distributed version control with simple workflows"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Version Control Collaboration"
+subcategory: "Version Control & Collaboration"
 tool_name: "Mercurial"
 deployment_status: "deployed"
 image: "/images/tools/mercurial-placeholder.jpg"

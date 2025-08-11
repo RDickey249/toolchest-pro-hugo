@@ -3,7 +3,7 @@ title: "Brackets"
 tagline: "Web-focused code editor with live preview and visual tools"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Code Editors Ides"
+subcategory: "Code Editors & IDEs"
 tool_name: "Brackets"
 deployment_status: "deployed"
 image: "/images/tools/brackets-placeholder.jpg"

@@ -2,7 +2,7 @@
 title: "Sentry"
 tagline: "Error tracking and performance monitoring for developers"
 category: "Development & Technical Tools"
-subcategory: "Monitoring Observability"
+subcategory: "Monitoring & Observability"
 tool_name: "Sentry"
 deployment_status: "deployed"
 image: "/images/tools/sentry-placeholder.jpg"

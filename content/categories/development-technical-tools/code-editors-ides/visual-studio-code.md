@@ -2,7 +2,7 @@
 title: "Visual Studio Code"
 tagline: "The world's most popular code editor"
 category: "Development & Technical Tools"
-subcategory: "Code Editors Ides"
+subcategory: "Code Editors & IDEs"
 tool_name: "Visual Studio Code"
 deployment_status: "deployed"
 image: "/images/tools/visual-studio-code-placeholder.jpg"

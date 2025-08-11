@@ -3,7 +3,7 @@ title: "Gulp"
 tagline: "Streaming build system for automating tasks via code"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Build Tools Task Runners"
+subcategory: "Build Tools & Task Runners"
 tool_name: "Gulp"
 deployment_status: "deployed"
 image: "/images/tools/gulp-placeholder.jpg"

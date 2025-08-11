@@ -3,7 +3,7 @@ title: "Containerd"
 tagline: "Industry-standard container runtime with comprehensive lifecycle management"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Containerization Orchestration"
+subcategory: "Containerization & Orchestration"
 tool_name: "Containerd"
 deployment_status: "deployed"
 image: "/images/tools/containerd-placeholder.jpg"

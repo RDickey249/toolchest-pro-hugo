@@ -3,7 +3,7 @@ title: "Pusher SDK"
 tagline: "Real-time messaging and live updates platform"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "Pusher SDK"
 deployment_status: "deployed"
 image: "/images/tools/pusher-sdk-placeholder.jpg"

@@ -3,7 +3,7 @@ title: "Unsplash API"
 tagline: "Access to millions of high-quality, free stock photos"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "Unsplash API"
 deployment_status: "deployed"
 image: "/images/tools/unsplash-api-placeholder.jpg"

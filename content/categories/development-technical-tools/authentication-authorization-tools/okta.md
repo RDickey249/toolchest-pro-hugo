@@ -3,7 +3,7 @@ title: "Okta"
 tagline: "Enterprise identity management with SSO, MFA, and lifecycle management"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Authentication Authorization Tools"
+subcategory: "Authentication & Authorization"
 tool_name: "Okta"
 deployment_status: "deployed"
 image: "/images/tools/okta-placeholder.jpg"

@@ -3,7 +3,7 @@ title: "Microsoft Graph API"
 tagline: "Unified endpoint for Microsoft 365 and Azure services"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "Microsoft Graph API"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-graph-api-placeholder.jpg"

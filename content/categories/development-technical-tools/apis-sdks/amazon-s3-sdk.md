@@ -3,7 +3,7 @@ title: "Amazon S3 SDK"
 tagline: "Scalable cloud object storage and content delivery"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "Amazon S3 SDK"
 deployment_status: "deployed"
 image: "/images/tools/amazon-s3-sdk-placeholder.jpg"

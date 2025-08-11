@@ -2,7 +2,7 @@
 title: "Swagger"
 tagline: "Open-source framework for API design, documentation, and client generation"
 category: "Development & Technical Tools"
-subcategory: "Api Design Testing"
+subcategory: "API Design & Testing"
 tool_name: "Swagger"
 deployment_status: "deployed"
 image: "/images/tools/swagger-placeholder.jpg"

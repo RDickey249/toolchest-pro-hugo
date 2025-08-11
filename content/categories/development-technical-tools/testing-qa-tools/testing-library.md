@@ -3,7 +3,7 @@ title: "Testing Library"
 tagline: "Simple testing utilities focused on user behavior and accessibility"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Testing Qa Tools"
+subcategory: "Testing & QA"
 tool_name: "Testing Library"
 deployment_status: "deployed"
 image: "/images/tools/testing-library-placeholder.jpg"

@@ -3,7 +3,7 @@ title: "GitGuardian"
 tagline: "Secrets detection and monitoring tool for public and private repositories"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Security Compliance Tools"
+subcategory: "Security & Compliance"
 tool_name: "GitGuardian"
 deployment_status: "deployed"
 image: "/images/tools/gitguardian-placeholder.jpg"

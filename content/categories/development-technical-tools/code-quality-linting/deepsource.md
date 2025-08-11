@@ -3,7 +3,7 @@ title: "DeepSource"
 tagline: "Continuous static analysis with autofix suggestions"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Code Quality Linting"
+subcategory: "Code Quality & Linting"
 tool_name: "DeepSource"
 deployment_status: "deployed"
 image: "/images/tools/deepsource-placeholder.jpg"

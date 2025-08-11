@@ -3,7 +3,7 @@ title: "Jaeger"
 tagline: "Distributed tracing system for microservices performance insights"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Monitoring Observability"
+subcategory: "Monitoring & Observability"
 tool_name: "Jaeger"
 deployment_status: "deployed"
 image: "/images/tools/jaeger-placeholder.jpg"

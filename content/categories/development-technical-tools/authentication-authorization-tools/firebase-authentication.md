@@ -3,7 +3,7 @@ title: "Firebase Authentication"
 tagline: "Google's authentication service with social login and security features"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Authentication Authorization Tools"
+subcategory: "Authentication & Authorization"
 tool_name: "Firebase Authentication"
 deployment_status: "deployed"
 image: "/images/tools/firebase-authentication-placeholder.jpg"

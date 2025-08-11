@@ -2,7 +2,7 @@
 title: "HashiCorp Vault"
 tagline: "Secrets management and data protection tool"
 category: "Development & Technical Tools"
-subcategory: "Security Compliance Tools"
+subcategory: "Security & Compliance"
 tool_name: "HashiCorp Vault"
 deployment_status: "deployed"
 image: "/images/tools/hashicorp-vault-placeholder.jpg"

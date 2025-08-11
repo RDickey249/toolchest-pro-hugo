@@ -3,7 +3,7 @@ title: "TestCafe"
 tagline: "End-to-end testing framework with no WebDriver dependencies"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Testing Qa Tools"
+subcategory: "Testing & QA"
 tool_name: "TestCafe"
 deployment_status: "deployed"
 image: "/images/tools/testcafe-placeholder.jpg"

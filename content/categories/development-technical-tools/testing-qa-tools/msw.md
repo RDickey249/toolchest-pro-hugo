@@ -3,7 +3,7 @@ title: "Mock Service Worker (MSW)"
 tagline: "API mocking library using service workers for testing and development"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Testing Qa Tools"
+subcategory: "Testing & QA"
 tool_name: "Mock Service Worker (MSW)"
 deployment_status: "deployed"
 image: "/images/tools/msw-placeholder.jpg"

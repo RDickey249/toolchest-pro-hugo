@@ -3,7 +3,7 @@ title: "TensorFlow"
 tagline: "End-to-end open-source ML platform by Google; supports deep learning and neural network training"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Ai Machine Learning"
+subcategory: "AI & Machine Learning"
 tool_name: "TensorFlow"
 deployment_status: "deployed"
 image: "/images/tools/tensorflow-placeholder.jpg"

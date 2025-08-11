@@ -3,7 +3,7 @@ title: "Pulumi"
 tagline: "Modern infrastructure as code using general-purpose languages"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Devops Infrastructure Tools"
+subcategory: "DevOps & Infrastructure"
 tool_name: "Pulumi"
 deployment_status: "deployed"
 image: "/images/tools/pulumi-placeholder.jpg"

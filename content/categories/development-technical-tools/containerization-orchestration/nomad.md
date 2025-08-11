@@ -3,7 +3,7 @@ title: "Nomad"
 tagline: "Simple and flexible workload orchestrator for containers and applications"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Containerization Orchestration"
+subcategory: "Containerization & Orchestration"
 tool_name: "Nomad"
 deployment_status: "deployed"
 image: "/images/tools/nomad-placeholder.jpg"

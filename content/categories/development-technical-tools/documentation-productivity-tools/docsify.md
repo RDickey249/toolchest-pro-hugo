@@ -3,7 +3,7 @@ title: "Docsify"
 tagline: "JavaScript-powered documentation site generator with no build step"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Documentation Productivity Tools"
+subcategory: "Documentation & Productivity"
 tool_name: "Docsify"
 deployment_status: "deployed"
 image: "/images/tools/docsify-placeholder.jpg"

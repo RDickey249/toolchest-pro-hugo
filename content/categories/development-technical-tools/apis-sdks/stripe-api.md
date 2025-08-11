@@ -3,7 +3,7 @@ title: "Stripe API"
 tagline: "Complete payment processing platform for online businesses"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "Stripe API"
 deployment_status: "deployed"
 image: "/images/tools/stripe-api-placeholder.jpg"

@@ -3,7 +3,7 @@ title: "C++"
 tagline: "Extension of C with object-oriented features; used in game engines, device drivers, and high-performance tools"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Systems Low Level"
+subcategory: "Systems & Low-Level"
 tool_name: "C++"
 deployment_status: "deployed"
 image: "/images/tools/cpp-placeholder.jpg"

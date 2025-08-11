@@ -3,7 +3,7 @@ title: "npm"
 tagline: "Node.js package manager with vast ecosystem and CLI tooling"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Package Managers Registries"
+subcategory: "Package Managers & Registries"
 tool_name: "npm"
 deployment_status: "deployed"
 image: "/images/tools/npm-placeholder.jpg"

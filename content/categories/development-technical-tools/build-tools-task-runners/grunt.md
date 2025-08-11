@@ -3,7 +3,7 @@ title: "Grunt"
 tagline: "JavaScript task runner with configuration-based workflows"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Build Tools Task Runners"
+subcategory: "Build Tools & Task Runners"
 tool_name: "Grunt"
 deployment_status: "deployed"
 image: "/images/tools/grunt-placeholder.jpg"

@@ -3,7 +3,7 @@ title: "Argo CD"
 tagline: "Kubernetes-native GitOps continuous delivery tool for declarative app deployments"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Ci Cd Devops"
+subcategory: "CI/CD & DevOps"
 tool_name: "Argo CD"
 deployment_status: "deployed"
 image: "/images/tools/argo-cd-placeholder.jpg"

@@ -3,7 +3,7 @@ title: "Atom"
 tagline: "Hackable text editor with extensive customization and Git integration"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Code Editors Ides"
+subcategory: "Code Editors & IDEs"
 tool_name: "Atom"
 deployment_status: "deployed"
 image: "/images/tools/atom-placeholder.jpg"

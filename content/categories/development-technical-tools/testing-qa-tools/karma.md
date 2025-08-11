@@ -3,7 +3,7 @@ title: "Karma"
 tagline: "Test runner for JavaScript with real browser testing capabilities"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Testing Qa Tools"
+subcategory: "Testing & QA"
 tool_name: "Karma"
 deployment_status: "deployed"
 image: "/images/tools/karma-placeholder.jpg"

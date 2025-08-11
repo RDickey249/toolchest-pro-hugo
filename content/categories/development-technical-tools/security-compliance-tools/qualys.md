@@ -2,7 +2,7 @@
 title: "Qualys"
 tagline: "Cloud-based security and compliance platform"
 category: "Development & Technical Tools"
-subcategory: "Security Compliance Tools"
+subcategory: "Security & Compliance"
 tool_name: "Qualys"
 deployment_status: "deployed"
 image: "/images/tools/qualys-placeholder.jpg"

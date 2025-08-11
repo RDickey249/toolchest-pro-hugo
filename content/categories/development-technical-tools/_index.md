@@ -1,6 +1,7 @@
 ---
 title: "💻 Development & Technical Tools"
 description: "Essential development tools, frameworks, and technical platforms for software engineering"
+slug: "development-technical-tools"
 weight: 10
 ---
 

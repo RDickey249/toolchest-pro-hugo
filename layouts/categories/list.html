@@ -31,11 +31,11 @@
     <h1>{{ .Title }}</h1>
     <p class="page-description">{{ .Params.description | default "Browse tools in this category organized by subcategory." }}</p>
     
-    {{ $currentCategory := strings.TrimSuffix "/" (strings.TrimPrefix "/categories/" .RelPermalink) }}
+    {{ $currentCategoryDir := .File.Dir }}
     {{ $categoryPages := slice }}
     {{ range site.Pages }}
         {{ if and (eq .Section "categories") (eq .Kind "page") (.File) }}
-            {{ if in .File.Dir $currentCategory }}
+            {{ if in .File.Dir $currentCategoryDir }}
                 {{ $categoryPages = $categoryPages | append . }}
             {{ end }}
         {{ end }}

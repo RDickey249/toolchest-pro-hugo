@@ -3,7 +3,7 @@ title: "Zapier API"
 tagline: "Automation platform API for connecting apps and building workflow integrations"
 category: "Development & Technical Tools"
 categories: ["Development & Technical Tools"]
-subcategory: "Apis Sdks"
+subcategory: "APIs & SDKs"
 tool_name: "Zapier API"
 deployment_status: "deployed"
 image: "/images/tools/zapier-api-placeholder.jpg"
