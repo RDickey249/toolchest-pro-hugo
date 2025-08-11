@@ -54,7 +54,7 @@ Zapier excels at both simple two-step automations and complex multi-step workflo
 
 ## Get Started with Zapier
 
-Ready to get started? Visit [Zapier](https://zapier.com) to explore the platform and begin using this tool.
+Ready to automate your workflows? Click the **"Automate Your Workflows"** button above to start your free trial and connect your apps with powerful automation.
 
 ## How It Compares
 

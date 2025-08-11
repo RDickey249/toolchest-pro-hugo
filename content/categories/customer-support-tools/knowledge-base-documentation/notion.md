@@ -28,11 +28,7 @@ It's perfect for knowledge workers, startup teams, and anyone who wants complete
 
 ## Get Started with Notion
 
-Ready to create your all-in-one workspace? 
-
-Ready to get started? Visit [Notion](https://www.notion.so) to explore the platform and begin using this tool.
-
-Combine notes, databases, project management, and team collaboration in a single, highly customizable platform.
+Ready to create your all-in-one workspace? Click the **"Try Notion Free"** button above to start building your customizable workspace that combines notes, databases, project management, and team collaboration.
 
 ## Key Features
 

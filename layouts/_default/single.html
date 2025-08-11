@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="tool-page">
+<article class="tool-page" data-tool-page="{{ .Params.tool_name | default .Title }}" data-premium-zone="tool-page">
     <header class="tool-header">
         <nav class="breadcrumb">
             <a href="/">Home</a> > 
@@ -25,13 +25,17 @@
         <p class="tool-tagline">{{ .Params.tagline }}</p>
         {{ end }}
         
-        <!-- Simple Affiliate Link -->
+        <!-- Revenue-Optimized Affiliate Link -->
         {{ if .Params.affiliate }}
         <div class="affiliate-cta">
             <a href="{{ .Params.affiliate_url | default "#" }}" 
                target="_blank" 
                rel="noopener sponsored"
-               class="btn btn-primary affiliate-link">
+               class="btn btn-primary affiliate-link"
+               data-tool="{{ .Params.tool_name | default .Title }}"
+               data-category="{{ .Params.category }}"
+               data-commission="{{ .Params.commission }}"
+               data-tier="{{ .Params.affiliate_tier }}">
                 {{ .Params.affiliate_cta | default "Get Started" }} →
             </a>
         </div>

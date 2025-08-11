@@ -50,7 +50,7 @@ Canva transforms presentation creation with an intuitive drag-and-drop interface
 
 ## Get Started with Canva
 
-Design amazing presentations with ease. Visit [canva.com](https://www.canva.com) to start creating for free with millions of templates and AI-powered design tools.
+Ready to design amazing presentations? Click the **"Get Canva Pro"** button above to unlock premium templates and AI-powered design tools for professional presentations.
 
 ## How It Compares
 

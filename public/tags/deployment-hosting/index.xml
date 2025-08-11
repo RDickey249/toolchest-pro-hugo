@@ -1,18 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>deployment-hosting on ToolChest</title>
-    <link>https://toolchest.pro/tags/deployment-hosting/</link>
-    <description>Recent content in deployment-hosting on ToolChest</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://toolchest.pro/tags/deployment-hosting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vercel</title>
-      <link>https://toolchest.pro/categories/vercel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/vercel/</guid>
-      <description>Vercel is a frontend deployment platform optimized for Next.js and React applications with zero-configuration workflows and global edge distribution.&#xA;Key Features Next.js optimization - Built specifically for Next.js apps Edge functions - Serverless functions at the network edge Preview deployments - Every branch gets a URL Image optimization - Automatic image resizing and formats Global CDN - Fast content delivery worldwide Incremental static regeneration - Update static content dynamically Analytics - Core web vitals and performance metrics Team collaboration - Share previews and manage deployments Use Cases Next.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>deployment-hosting on ToolChest</title><link>https://toolchest.pro/tags/deployment-hosting/</link><description>Recent content in deployment-hosting on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/tags/deployment-hosting/index.xml" rel="self" type="application/rss+xml"/><item><title>Vercel</title><link>https://toolchest.pro/categories/vercel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/vercel/</guid><description>Vercel is a frontend deployment platform optimized for Next.js and React applications with zero-configuration workflows and global edge distribution.
+Key Features Next.js optimization - Built specifically for Next.js apps Edge functions - Serverless functions at the network edge Preview deployments - Every branch gets a URL Image optimization - Automatic image resizing and formats Global CDN - Fast content delivery worldwide Incremental static regeneration - Update static content dynamically Analytics - Core web vitals and performance metrics Team collaboration - Share previews and manage deployments Use Cases Next.</description></item></channel></rss>

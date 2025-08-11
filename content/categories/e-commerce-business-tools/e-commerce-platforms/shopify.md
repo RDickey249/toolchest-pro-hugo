@@ -43,4 +43,4 @@ Perfect for anyone serious about e-commerce, from dropshippers launching their f
 
 ## Get Started with Shopify
 
-Ready to get started? Visit [Shopify](https://www.shopify.com) to explore the platform and begin using this tool.
+Ready to build your online store? Click the **"Start Your Free Trial"** button above to start your free trial and access all of Shopify's powerful e-commerce features.

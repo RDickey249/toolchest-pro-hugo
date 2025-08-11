@@ -27,4 +27,4 @@ Used by millions of creative professionals and businesses, Squarespace offers de
 
 ## Get Started with Squarespace
 
-Ready to get started? Visit [Squarespace](https://www.squarespace.com) to explore the platform and begin using this tool.
+Ready to create your stunning website? Click the **"Get Started Free"** button above to start your free trial and access Squarespace's award-winning templates and design tools.

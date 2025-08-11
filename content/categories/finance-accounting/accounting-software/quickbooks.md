@@ -40,4 +40,4 @@ QuickBooks is the industry-standard accounting software for small businesses, pr
 
 ## Get Started with QuickBooks
 
-Manage your business finances with the industry standard. Visit [quickbooks.com](https://quickbooks.intuit.com) to streamline accounting and grow your business.
+Ready to streamline your business finances? Click the **"Try QuickBooks Free"** button above to start your free trial and manage your accounting with the industry standard.

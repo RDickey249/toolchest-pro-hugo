@@ -1,32 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>♿ Accessibility &amp; Inclusion Tools on ToolChest</title>
-    <link>https://toolchest.pro/categories/accessibility-inclusion-tools/</link>
-    <description>Recent content in ♿ Accessibility &amp; Inclusion Tools on ToolChest</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://toolchest.pro/categories/accessibility-inclusion-tools/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>axe DevTools - Accessibility testing</title>
-      <link>https://toolchest.pro/categories/axe-devtools-accessibility-testing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/axe-devtools-accessibility-testing/</guid>
-      <description>axe DevTools is the industry&amp;rsquo;s leading automated accessibility testing toolkit, trusted by developers worldwide to build inclusive digital experiences.&#xA;Created by Deque Systems, axe DevTools integrates seamlessly into development workflows to catch accessibility issues early and ensure WCAG compliance.&#xA;What makes axe DevTools essential:&#xA;Zero false positives - Intelligent rules engine eliminates noise from testing Comprehensive coverage - Tests against WCAG 2.1 AA standards automatically Developer-friendly - Integrates with popular browsers and development tools Enterprise-ready - Scalable across large development teams and projects Key capabilities:</description>
-    </item>
-    <item>
-      <title>Grammarly</title>
-      <link>https://toolchest.pro/categories/grammarly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/grammarly/</guid>
-      <description>Grammarly revolutionizes writing by providing AI-powered grammar, spelling, and style assistance that works seamlessly across every digital platform, transforming anyone into a more confident and effective communicator while maintaining their authentic voice and personal writing style. This comprehensive writing assistant goes beyond basic spell-check to offer contextual suggestions for clarity, engagement, and tone, helping writers create more compelling content whether they&amp;rsquo;re crafting emails, social media posts, or professional documents. Grammarly&amp;rsquo;s strength lies in its sophisticated natural language processing that understands context and intent, providing intelligent recommendations that enhance rather than replace human creativity while ensuring error-free communication in every written interaction.</description>
-    </item>
-    <item>
-      <title>WAVE - Web accessibility evaluation</title>
-      <link>https://toolchest.pro/categories/wave-web-accessibility-evaluation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://toolchest.pro/categories/wave-web-accessibility-evaluation/</guid>
-      <description>WAVE (Web Accessibility Evaluation Tool) is a free suite of accessibility testing tools that helps developers and content creators make their web content more accessible to people with disabilities.&#xA;Developed by WebAIM at Utah State University, WAVE provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.&#xA;What makes WAVE essential for web accessibility:&#xA;Completely free - No registration, subscriptions, or limits on usage Visual feedback - See accessibility issues directly on your web page Educational approach - Learn about accessibility while testing No technical expertise required - User-friendly interface for everyone Testing capabilities:</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>♿ Accessibility &amp; Inclusion Tools on ToolChest</title><link>https://toolchest.pro/categories/accessibility-inclusion-tools/</link><description>Recent content in ♿ Accessibility &amp; Inclusion Tools on ToolChest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://toolchest.pro/categories/accessibility-inclusion-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>axe DevTools - Accessibility testing</title><link>https://toolchest.pro/categories/axe-devtools-accessibility-testing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/axe-devtools-accessibility-testing/</guid><description>axe DevTools is the industry&amp;rsquo;s leading automated accessibility testing toolkit, trusted by developers worldwide to build inclusive digital experiences.
+Created by Deque Systems, axe DevTools integrates seamlessly into development workflows to catch accessibility issues early and ensure WCAG compliance.
+What makes axe DevTools essential:
+Zero false positives - Intelligent rules engine eliminates noise from testing Comprehensive coverage - Tests against WCAG 2.1 AA standards automatically Developer-friendly - Integrates with popular browsers and development tools Enterprise-ready - Scalable across large development teams and projects Key capabilities:</description></item><item><title>Grammarly</title><link>https://toolchest.pro/categories/grammarly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/grammarly/</guid><description>Grammarly revolutionizes writing by providing AI-powered grammar, spelling, and style assistance that works seamlessly across every digital platform, transforming anyone into a more confident and effective communicator while maintaining their authentic voice and personal writing style. This comprehensive writing assistant goes beyond basic spell-check to offer contextual suggestions for clarity, engagement, and tone, helping writers create more compelling content whether they&amp;rsquo;re crafting emails, social media posts, or professional documents. Grammarly&amp;rsquo;s strength lies in its sophisticated natural language processing that understands context and intent, providing intelligent recommendations that enhance rather than replace human creativity while ensuring error-free communication in every written interaction.</description></item><item><title>WAVE - Web accessibility evaluation</title><link>https://toolchest.pro/categories/wave-web-accessibility-evaluation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://toolchest.pro/categories/wave-web-accessibility-evaluation/</guid><description>WAVE (Web Accessibility Evaluation Tool) is a free suite of accessibility testing tools that helps developers and content creators make their web content more accessible to people with disabilities.
+Developed by WebAIM at Utah State University, WAVE provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.
+What makes WAVE essential for web accessibility:
+Completely free - No registration, subscriptions, or limits on usage Visual feedback - See accessibility issues directly on your web page Educational approach - Learn about accessibility while testing No technical expertise required - User-friendly interface for everyone Testing capabilities:</description></item></channel></rss>
