@@ -17,6 +17,20 @@
 
 ---
 
+## 🚨 CRITICAL SITE INFRASTRUCTURE RULES
+
+**RULE #11: SLUG FIELD REQUIREMENT**
+- EVERY category _index.md file MUST contain `slug: "directory-name"` field
+- This prevents URL mismatch between Hugo's title-generated URLs and actual directory structure
+- Missing slugs cause subcategory display failures requiring extensive debugging
+- When creating new categories: ALWAYS add slug field immediately
+- When importing categories: Verify slug field exists or add it
+- Root cause of recurring "category shows all tools instead of subcategories" issue
+
+**VERIFICATION:** Use `/tmp/verify_subcategories.sh` to test major categories after any changes.
+
+---
+
 ## 🎯 STRATEGIC TRAFFIC GROWTH PLAN - NO DEVIATIONS ALLOWED
 
 ### **PHASE 1: FOUNDATION FIXES (Weeks 1-2) - CURRENT PHASE**
