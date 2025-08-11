@@ -158,6 +158,33 @@ def cleanup():
     if Path("public_test").exists():
         shutil.rmtree("public_test")
 
+def test_directory_structure():
+    """Test directory structure integrity - PREVENTS RECURRING 404 ISSUES"""
+    print("🏗️  Testing Directory Structure Integrity...")
+    
+    try:
+        # Run the directory audit script
+        result = subprocess.run(["python3", "scripts/audit_directory_structure.py"], 
+                              capture_output=True, text=True, timeout=30)
+        
+        if result.returncode == 0:
+            # Check if 100% success rate achieved
+            output = result.stdout
+            if "Success Rate: 100.0%" in output:
+                print("✅ Directory structure: 100% success rate")
+                return True
+            else:
+                print("❌ Directory structure issues found!")
+                print(f"   Output: {output[-200:]}")  # Show last 200 chars
+                return False
+        else:
+            print(f"❌ Directory audit script failed: {result.stderr}")
+            return False
+            
+    except Exception as e:
+        print(f"❌ Directory structure test error: {e}")
+        return False
+
 def main():
     """Run all mandatory tests"""
     print("🚨 MANDATORY FUNCTION TEST - PREVENTING ROGUE AGENT FAILURES")
@@ -170,6 +197,7 @@ def main():
         ("Categories Page Content", test_categories_page_locally),
         ("Affiliate System", test_affiliate_system),
         ("Template Integrity", test_template_integrity),
+        ("Directory Structure", test_directory_structure),
         ("Live Site", test_live_site),
     ]
     

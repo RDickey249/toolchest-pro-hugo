@@ -1,6 +1,17 @@
 ---
 title: "Veriato"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Employee Monitoring"
+tool_name: "Veriato"
+deployment_status: "deployed"
+image: "/images/tools/veriato-placeholder.jpg"
 external_link: "https://veriato.com"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 Veriato is the employee monitoring platform that provides detailed insights into workforce productivity and user behavior. Track application usage, monitor productivity patterns, and identify security risks with comprehensive activity monitoring.
 

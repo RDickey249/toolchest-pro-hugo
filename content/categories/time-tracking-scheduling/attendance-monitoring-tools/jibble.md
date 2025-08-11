@@ -1,6 +1,17 @@
 ---
 title: "Jibble"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Attendance Monitoring Tools"
+tool_name: "Jibble"
+deployment_status: "deployed"
+image: "/images/tools/jibble-placeholder.jpg"
 external_link: "https://www.jibble.io"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 Jibble is the free attendance tracking platform that combines GPS location verification with facial recognition authentication for accurate workforce monitoring without budget constraints.
 

@@ -1,6 +1,17 @@
 ---
 title: "Teramind"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Employee Monitoring"
+tool_name: "Teramind"
+deployment_status: "deployed"
+image: "/images/tools/teramind-placeholder.jpg"
 external_link: "https://www.teramind.co"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 Teramind is the enterprise employee monitoring and insider threat detection platform that uses AI to identify security risks and policy violations in real-time. With behavioral analytics, screen recording, and activity tracking, it protects against both internal and external threats.
 

@@ -1,6 +1,17 @@
 ---
 title: "When I Work"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Shift Planning Tools"
+tool_name: "When I Work"
+deployment_status: "deployed"
+image: "/images/tools/when-i-work-placeholder.jpg"
 external_link: "https://wheniwork.com"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 When I Work revolutionizes collaborative shift planning through intuitive scheduling tools that seamlessly integrate team communication and mobile accessibility, enabling managers to create effective shift plans while empowering employees to participate actively in the scheduling process through transparent communication and flexible mobile coordination that supports both operational efficiency and team satisfaction across diverse work environments. This collaborative platform addresses the challenge of inclusive shift planning by providing tools that make schedule creation transparent and participatory while ensuring operational coverage through user-friendly interfaces that encourage team engagement and reduce scheduling conflicts through open communication and collaborative planning processes. When I Work's strength lies in its focus on collaborative planning combined with comprehensive mobile accessibility, offering teams scheduling tools that promote transparency and participation while providing the communication features and mobile access needed for flexible shift coordination and real-time schedule management that enhances both operational control and employee engagement. The platform excels at serving retail businesses coordinating customer service teams, restaurants managing front-of-house and kitchen staff, healthcare facilities planning shift coverage, and service organizations requiring collaborative planning that promotes team participation and transparent communication while maintaining operational efficiency and schedule reliability. Its thoughtfully designed feature set includes collaborative shift planning, integrated team communication, comprehensive mobile access, employee schedule participation, real-time notifications, and transparent schedule management that transforms shift planning from top-down coordination into collaborative team engagement that drives both operational success and employee satisfaction through inclusive planning and effective communication. Whether you're planning retail coverage, coordinating restaurant operations, or managing service teams, When I Work provides the collaborative platform that ensures effective shift planning while maintaining the team engagement and mobile accessibility needed for successful participatory scheduling and operational excellence.
 

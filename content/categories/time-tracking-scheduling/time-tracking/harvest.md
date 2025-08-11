@@ -1,6 +1,17 @@
 ---
 title: "Harvest"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Time Tracking"
+tool_name: "Harvest"
+deployment_status: "deployed"
+image: "/images/tools/harvest-placeholder.jpg"
 external_link: "https://getharvest.com"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 Harvest is a professional time tracking and invoicing platform that seamlessly integrates with calendar applications to streamline project management and client billing. The system combines sophisticated time capture with comprehensive business management features, making it easy to track work and generate accurate invoices.
 

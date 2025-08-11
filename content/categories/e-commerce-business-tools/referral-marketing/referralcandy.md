@@ -1,17 +1,20 @@
 ---
 title: "ReferralCandy"
-tagline: "E-commerce referral marketing"
-category: "E-commerce & Business Tools"
-subcategory: "Ecommerce Platforms"
+tagline: "E-commerce referral marketing platform for automated customer referrals"
+category: "🛍️ E-commerce & Business Tools"
+categories: ["🛍️ E-commerce & Business Tools"]
+subcategory: "Referral Marketing"
 tool_name: "ReferralCandy"
 deployment_status: "deployed"
 image: "/images/tools/referralcandy-placeholder.jpg"
-tags: ["ecommerce-business-tools", "ecommerce-platforms"]
-categories: ["E-commerce & Business Tools"]
-subcategories: ["E-commerce Platforms"]
+tags: ["e-commerce-business-tools", "referral-marketing"]
 affiliate: true
 featured: true
 external_link: "https://www.referralcandy.com"
+rating: 4.4
+starting_price: 47
+primary_use: "automate customer referral programs for e-commerce stores"
+top_alternatives: "Friendbuy, Extole, Ambassador"
 ---
 ReferralCandy is the automated referral marketing platform that helps e-commerce businesses grow through customer word-of-mouth and referral programs.
 

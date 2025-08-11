@@ -1,6 +1,17 @@
 ---
 title: "ZoomShift"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Shift Planning Tools"
+tool_name: "ZoomShift"
+deployment_status: "deployed"
+image: "/images/tools/zoomshift-placeholder.jpg"
 external_link: "https://zoomshift.com"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 ZoomShift is a specialized employee scheduling platform designed for shift-based teams that need integrated time tracking and payroll coordination. The system combines intuitive scheduling tools with attendance tracking to streamline hourly workforce management for operational environments requiring reliable coverage and accurate compensation.
 

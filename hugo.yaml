@@ -18,10 +18,14 @@ taxonomies:
   category: "categories"
   tag: "tags"
 
-# SEO-friendly permalinks
+# SEO-friendly permalinks that preserve breadcrumb structure
 permalinks:
   categories: "/categories/:slug/"
   posts: "/:year/:month/:slug/"
+
+# Disable automatic URL generation to preserve file path structure
+disablePathToLower: true
+removePathAccents: false
 
 # Enhanced markup configuration
 markup:

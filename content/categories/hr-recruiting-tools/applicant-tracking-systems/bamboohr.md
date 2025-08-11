@@ -1,6 +1,17 @@
 ---
 title: "BambooHR"
+tagline: "Complete HR platform with employee records and workforce management"
+category: "HR & Recruiting Tools"
+categories: ["HR & Recruiting Tools"]
+subcategory: "Applicant Tracking Systems"
+tool_name: "BambooHR"
+deployment_status: "deployed"
+image: "/images/tools/bamboohr-placeholder.jpg"
 external_link: "https://www.bamboohr.com"
+rating: 4.6
+starting_price: 99
+primary_use: "manage employee records and HR processes comprehensively"
+top_alternatives: "Workday, ADP Workforce Now, Paycom"
 ---
 BambooHR is the complete HR platform that includes attendance tracking, employee records, and workforce management in one integrated system. Instead of juggling separate HR tools, businesses get everything they need to manage their people in one place.
 

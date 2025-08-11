@@ -1,6 +1,17 @@
 ---
 title: "Deputy"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Shift Planning Tools"
+tool_name: "Deputy"
+deployment_status: "deployed"
+image: "/images/tools/deputy-placeholder.jpg"
 external_link: "https://deputy.com"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 Deputy is the intelligent shift planning platform that uses automated scheduling algorithms to optimize workforce coordination while maintaining compliance and employee satisfaction for shift-based businesses.
 

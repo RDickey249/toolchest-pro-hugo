@@ -1,6 +1,17 @@
 ---
 title: "Humanity"
+tagline: "Professional time tracking & scheduling solution"
+category: "Time Tracking & Scheduling"
+categories: ["Time Tracking & Scheduling"]
+subcategory: "Shift Scheduling"
+tool_name: "Humanity"
+deployment_status: "deployed"
+image: "/images/tools/humanity-placeholder.jpg"
 external_link: "https://humanity.com"
+rating: 4.3
+starting_price: 29
+primary_use: "improve time tracking & scheduling processes"
+top_alternatives: "Similar tools in this category"
 ---
 Humanity is the AI-powered employee scheduling platform that automatically creates optimal schedules based on your business needs, employee preferences, and historical data. Instead of spending hours on manual scheduling, let artificial intelligence do the work.
 

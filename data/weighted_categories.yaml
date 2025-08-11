@@ -72,13 +72,6 @@ categories:
     description: "Artificial intelligence, automation, and AI-powered productivity tools"
     
   # TIER 5: Single Affiliate Tools (High Percentage First)
-  - name: "🛒 Ecommerce Business Tools"  # 100% affiliate rate
-    slug: "ecommerce-business-tools"
-    weight: 92
-    affiliate_count: 1
-    total_tools: 1
-    affiliate_percentage: 100.0
-    description: "Specialized e-commerce and online business solutions"
     
   - name: "🔌 API & Integration Tools"
     slug: "api-integration-tools"
