@@ -8,27 +8,39 @@ tool_name: "Scully"
 deployment_status: "deployed"
 image: "/images/tools/scully-placeholder.jpg"
 ---
-Scully is an Angular-powered static site generator that adds JAMstack capabilities to Angular applications with pre-rendering and performance optimization.
+Scully is the first and most advanced static site generator built specifically for Angular applications, created by the Angular team at Google. It transforms existing Angular apps into blazing-fast static sites while maintaining all dynamic functionality and Angular features.
+
+What makes Scully revolutionary is its intelligent pre-rendering engine that automatically discovers routes, processes dynamic content, and generates optimized static HTML without requiring code changes. Performance improvements of 10x are common when migrating Angular SPAs to Scully.
+
+Angular developers choose Scully when they need the best of both worlds - Angular's powerful framework capabilities with static site performance and SEO benefits. It's perfect for marketing sites, documentation, blogs, and e-commerce that require both dynamic features and lightning-fast loading.
 
 ## Key Features
 
-- **Angular integration** - Built specifically for Angular applications
-- **Pre-rendering** - Convert Angular apps to static sites
-- **Automatic route discovery** - Detect and generate routes automatically
-- **Plugin system** - Extensible with community and custom plugins
-- **JAMstack optimization** - Optimize for modern web architecture
-- **SEO enhancement** - Improve search engine optimization
-- **Incremental builds** - Fast rebuilds for large applications
-- **Performance optimization** - Speed improvements for Angular apps
+• **Intelligent Route Discovery** - Automatically detects and pre-renders all Angular routes without manual configuration
+• **Angular-First Architecture** - Built by Angular team with deep framework integration and zero breaking changes
+• **Plugin Ecosystem** - Extensible architecture with Markdown, ContentJSON, and custom plugin support
+• **Hybrid Rendering** - Mix static and dynamic content with selective hydration for optimal performance
+• **Built-in Performance Optimization** - Automatic code splitting, lazy loading, and Angular optimization techniques
+• **SEO & Social Media Ready** - Full meta tag support, Open Graph, and search engine optimization
+• **Incremental Static Regeneration** - Fast rebuilds that only process changed content and routes
+• **Angular Universal Integration** - Seamless server-side rendering compatibility with existing Angular Universal setups
 
-## Use Cases
+## Pros and Cons
 
-- Angular application static generation
-- SEO optimization for Angular sites
-- JAMstack Angular development
-- Performance enhancement for Angular
-- Enterprise Angular websites
+### Pros
+• Perfect integration with existing Angular applications
+• Dramatic performance improvements without code changes
+• Strong SEO and social media sharing capabilities
+• Active development and support from Angular team
+• Extensive plugin ecosystem for content management
+
+### Cons
+• Limited to Angular applications only
+• Learning curve for advanced customization
+• Build times can be slow for very large sites
+• Newer tool with evolving documentation
+• Requires understanding of JAMstack concepts
 
 ## Get Started with Scully
 
-Add static site generation to Angular applications with JAMstack benefits. Visit [scully.io](https://scully.io) to enhance Angular apps.
+Transform your Angular app into a lightning-fast static site with zero code changes. Visit [scully.io](https://scully.io) to access installation guides and see 10x performance improvements.
