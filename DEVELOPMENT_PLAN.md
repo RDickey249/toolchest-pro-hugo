@@ -77,6 +77,22 @@ find content/categories -maxdepth 1 -type d -exec test ! -f {}/_index.md \; -pri
 
 **THIS PREVENTS THE RECURRING "only shows 1 tool instead of all tools" CATASTROPHIC FAILURE**
 
+**RULE #15: NO TOOL COMPARISONS IN CONTENT**
+- **CRITICAL:** Tool descriptions MUST NOT include comparisons to other tools or competitors
+- The premium tier will include dynamic tool comparison features
+- Static comparisons in Hugo pages are counter-productive and interfere with premium functionality
+- **BANNED CONTENT:** "While X offers Y, this tool provides Z" or "Unlike competitor A, this tool does B"
+- **BANNED SECTIONS:** "How [Tool] Compares" sections are strictly prohibited
+- **FOCUS INSTEAD ON:** Tool's unique value proposition, features, benefits, and use cases
+- **VIOLATION CONSEQUENCES:** Comparisons create confusion and undermine premium comparison features
+
+**MANDATORY CONTENT SECTIONS (NO COMPARISONS):**
+- Revolutionary opening paragraph with authority and benefits
+- 8 Key Features with bullet points
+- Pros and Cons (about the tool itself, not vs competitors)
+- Enhanced Get Started CTA
+- **REMOVED:** All comparison sections
+
 ---
 
 ## 🎯 STRATEGIC TRAFFIC GROWTH PLAN - NO DEVIATIONS ALLOWED
