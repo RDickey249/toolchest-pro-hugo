@@ -86,12 +86,62 @@ find content/categories -maxdepth 1 -type d -exec test ! -f {}/_index.md \; -pri
 - **FOCUS INSTEAD ON:** Tool's unique value proposition, features, benefits, and use cases
 - **VIOLATION CONSEQUENCES:** Comparisons create confusion and undermine premium comparison features
 
-**MANDATORY CONTENT SECTIONS (NO COMPARISONS):**
-- Revolutionary opening paragraph with authority and benefits
-- 8 Key Features with bullet points
-- Pros and Cons (about the tool itself, not vs competitors)
-- Enhanced Get Started CTA
-- **REMOVED:** All comparison sections
+**RULE #16: GOLD STANDARD CONTENT TEMPLATE - MANDATORY FORMAT**
+- **CRITICAL:** ALL tool enhancements MUST follow this exact template to eliminate "blocky AI text"
+- **PROBLEM SOLVED:** Previous enhancements created run-on sentence walls of text that looked obviously AI-generated
+- **SOLUTION:** Natural, conversational paragraphs with specific structure and human-like writing
+
+**MANDATORY GOLD STANDARD TEMPLATE:**
+
+```markdown
+[Tool Name] is [brief description with credibility/stats]. [Natural explanation of what it does and why it matters.]
+
+[Second paragraph explaining standout features - what makes it different. Specific capabilities that matter to users.]
+
+[Third paragraph about who uses it and why - target audience, specific use cases, social proof.]
+
+## Key Features
+
+• **Feature Name** - Description focused on user benefit
+• **Feature Name** - Description focused on user benefit  
+• **Feature Name** - Description focused on user benefit
+• **Feature Name** - Description focused on user benefit
+• **Feature Name** - Description focused on user benefit
+• **Feature Name** - Description focused on user benefit
+• **Feature Name** - Description focused on user benefit
+• **Feature Name** - Description focused on user benefit
+
+## Pros and Cons
+
+### Pros
+• [Simple, specific benefit]
+• [Simple, specific benefit]
+• [Simple, specific benefit]
+• [Simple, specific benefit]
+• [Simple, specific benefit]
+
+### Cons  
+• [Honest limitation or drawback]
+• [Honest limitation or drawback]
+• [Honest limitation or drawback]
+• [Honest limitation or drawback]
+• [Honest limitation or drawback]
+
+[AFFILIATE TOOLS ONLY: Affiliate Disclosure section]
+
+## Get Started with [Tool Name]
+
+[Compelling CTA with specific value proposition]. Visit [tool-link] to [specific action and benefit].
+```
+
+**WRITING STYLE REQUIREMENTS:**
+- **NO run-on sentences** - Keep paragraphs under 3 sentences each
+- **Natural, conversational tone** - Sound human, not AI-generated
+- **Specific details** - Use real numbers, stats, company names when possible
+- **User-focused benefits** - Focus on what users get, not what the tool does
+- **NO revolutionary/transformative language** - Avoid hyperbolic AI buzzwords
+- **SHORT paragraphs** - Break up text for easy reading
+- **Bullet points** - Use for features, pros/cons for scannability
 
 ---
 
