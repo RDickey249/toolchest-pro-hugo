@@ -8,26 +8,39 @@ tool_name: "Firefox Send"
 deployment_status: "deployed"
 image: "/images/tools/firefox-send-placeholder.jpg"
 ---
-Firefox Send (discontinued) was Mozilla's encrypted file sharing service that provided privacy-focused file transfer with automatic expiration and end-to-end encryption.
+Firefox Send was Mozilla's privacy-focused file sharing service that provided end-to-end encrypted file transfer with automatic expiration. Though officially discontinued in 2020, its open-source legacy continues through community-maintained alternatives that preserve its privacy-first approach.
 
-## Key Features (Historical)
+What made Firefox Send special was its zero-knowledge architecture where files were encrypted client-side before upload, meaning even Mozilla couldn't access shared content. The service combined maximum privacy with simplicity - no accounts required, automatic file expiration, and transparent open-source code.
 
-- **End-to-end encryption** - Client-side encryption for maximum privacy
-- **Automatic expiration** - Self-destructing links and files
-- **Zero-knowledge architecture** - No server-side file storage
-- **Password protection** - Additional security layer for sensitive files
-- **Anonymous sharing** - No account registration required
-- **Download limits** - Control number of file downloads
-- **Open-source transparency** - Fully auditable codebase
+Privacy-conscious users, journalists, and activists relied on Firefox Send because it provided truly secure file sharing without compromising usability. While the original service is gone, several community projects now maintain the same privacy standards using Firefox Send's open-source foundation.
 
-## Use Cases (Historical)
+## Key Features (Available in Alternatives)
 
-- Secure sensitive document sharing
-- Journalist and activist communications
-- Privacy-focused file transfer
-- Temporary file sharing
-- Confidential business communications
+• **Client-Side End-to-End Encryption** - Files encrypted in your browser before upload, ensuring complete privacy
+• **Automatic File Expiration** - Self-destructing links with customizable expiration times and download limits
+• **Zero-Knowledge Architecture** - Server operators cannot access shared files or content
+• **Password Protection Layer** - Additional security with custom passwords for sensitive documents
+• **Anonymous File Sharing** - No account registration or personal information required
+• **Download Limit Controls** - Set maximum number of downloads before files are automatically deleted
+• **Open-Source Transparency** - Fully auditable code ensures privacy claims can be verified
+• **Cross-Platform Compatibility** - Works in any modern web browser on desktop and mobile devices
+
+## Pros and Cons
+
+### Pros
+• Maximum privacy with client-side encryption
+• No account registration required for anonymity
+• Open-source code allows security verification
+• Simple interface accessible to non-technical users
+• Community alternatives maintain original privacy standards
+
+### Cons
+• Original Firefox Send service discontinued by Mozilla
+• Community alternatives may have limited uptime guarantees
+• File size limits on most alternative services
+• No long-term storage options due to privacy focus
+• Limited support compared to commercial services
 
 ## Get Started with Firefox Send Alternatives
 
-Firefox Send was discontinued by Mozilla. For similar privacy-focused file sharing, visit [send.vis.ee](https://send.vis.ee) to use community-maintained alternatives.
+Experience privacy-focused file sharing with community-maintained alternatives. Visit [send.vis.ee](https://send.vis.ee) or search for "Firefox Send alternatives" to find current services maintaining the same privacy standards. Enjoy encrypted, anonymous file sharing that puts your privacy first.
