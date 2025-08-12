@@ -1,0 +1,2244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta data-react-helmet="true" charset="utf-8" />
+        <meta
+            data-react-helmet="true"
+            name="description"
+            content="Looks like this page doesn&#x27;t exist... Visit our homepage instead."
+        />
+        <meta
+            data-react-helmet="true"
+            name="facebook-domain-verification"
+            content="7ungv8rg09qli3fiwkltcln5nffkc0"
+        />
+        <meta data-react-helmet="true" name="robots" content="noindex, nofollow" />
+        <meta data-react-helmet="true" property="og:type" content="website" />
+        <meta data-react-helmet="true" property="og:url" content="https://www.dashlane.com/404" />
+        <meta data-react-helmet="true" property="og:site_name" content="Dashlane" />
+        <meta data-react-helmet="true" property="og:title" content="Page Not Found | Dashlane" />
+        <meta
+            data-react-helmet="true"
+            property="og:description"
+            content="Looks like this page doesn&#x27;t exist... Visit our homepage instead."
+        />
+        <meta
+            data-react-helmet="true"
+            property="og:image"
+            content="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/icon_og_400x400.png"
+        />
+        <meta data-react-helmet="true" property="og:image:type" content="image/png" />
+        <meta data-react-helmet="true" property="og:image:width" content="400" />
+        <meta data-react-helmet="true" property="og:image:height" content="400" />
+        <meta data-react-helmet="true" property="og:image:alt" content="Page Not Found | Dashlane" />
+        <style
+            data-emotion="ui-components 1ipeiqi rirx4i 1qc8p65 n75mxz 1771env bdqsev 1b0exyv b8dayv n030j2 c1446b 3qxopn 1alv81c r7udsz kqnria erdoiv qsly6v 1xugoo2 r7urmy 1b5f188 9w97fh 1io3sxv 1w5frb tw0d7e x8gegf vn8gsl 1wnu4po 1jvft0j xpxom0 1fxddag 1iumqg 4zb7rj 1q30cze 1fmtuxc 1mf7q8h 6t7nxi 1979nfv ahqm2i bdofa7 171yo9r 1s18eih l2hwwh olqq6v 4j0jv5"
+        >
+            * {
+                box-sizing: border-box;
+            }
+            body {
+                margin: 0;
+                min-width: 320px;
+            }
+            a {
+                color: #026272;
+            }
+            a:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+            }
+            table {
+                border-collapse: collapse;
+                border-spacing: 0;
+            }
+            body > img[width='0'][height='0'] {
+                display: none;
+            }
+            .privacy-settings-modal-content {
+                overflow: auto;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                -webkit-justify-content: flex-start;
+                justify-content: flex-start;
+            }
+            .competitive-comparison-modal-container {
+                position: fixed;
+                z-index: 149;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                outline: none;
+            }
+            .competitive-comparison-modal-container > :first-child {
+                opacity: 1;
+                background-color: #0e353d;
+            }
+            .competitive-comparison-modal-content {
+                overflow: auto;
+                display: block;
+                margin: 0 auto;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                -webkit-justify-content: flex-start;
+                justify-content: flex-start;
+            }
+            .try-autofill-demo-modal-content {
+                background-color: white;
+                margin: auto;
+                width: 100%;
+                max-width: 760px;
+                max-height: 720px;
+                height: 100%;
+                -webkit-transition: all 500ms ease 500ms;
+                transition: all 500ms ease 500ms;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                -webkit-justify-content: flex-start;
+                justify-content: flex-start;
+                -webkit-align-items: flex-start;
+                -webkit-box-align: flex-start;
+                -ms-flex-align: flex-start;
+                align-items: flex-start;
+            }
+            .resource-video-modal-container {
+                position: fixed;
+                z-index: 149;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                outline: none;
+                -webkit-backdrop-filter: blur(2px);
+                backdrop-filter: blur(2px);
+            }
+            .resource-video-modal-container > :first-child {
+                opacity: 0.85;
+                background-color: #d3d3d3;
+            }
+            .resource-video-modal-content {
+                overflow: auto;
+                display: block;
+                margin: 0 auto;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                -webkit-justify-content: flex-start;
+                justify-content: flex-start;
+            }
+            .ui-components-rirx4i {
+                z-index: 12;
+                position: fixed;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                margin: 0 auto;
+                background-color: #f2f7f8;
+                border-top: 1px solid rgba(87, 84, 82, 0.1);
+                -webkit-transform: translateY(100%);
+                -moz-transform: translateY(100%);
+                -ms-transform: translateY(100%);
+                transform: translateY(100%);
+                -webkit-transition: -webkit-transform 300ms;
+                transition: transform 300ms;
+                display: none;
+                visibility: hidden;
+            }
+            .ui-components-rirx4i.privacy-consent-enter-done {
+                -webkit-transform: translateY(0%);
+                -moz-transform: translateY(0%);
+                -ms-transform: translateY(0%);
+                transform: translateY(0%);
+                transition-delay: 500ms;
+            }
+            .ui-components-rirx4i.privacy-consent-exit-done {
+                -webkit-transform: translateY(100%);
+                -moz-transform: translateY(100%);
+                -ms-transform: translateY(100%);
+                transform: translateY(100%);
+                transition-delay: 500ms;
+            }
+            .ui-components-1qc8p65 {
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                -webkit-align-items: flex-start;
+                -webkit-box-align: flex-start;
+                -ms-flex-align: flex-start;
+                align-items: flex-start;
+                margin: 0 auto;
+                position: relative;
+                min-width: 20rem;
+                max-width: 80rem;
+                min-height: 4.5rem;
+                width: 100%;
+                padding-left: 1.25rem;
+                padding-right: 1.25rem;
+                -webkit-box-pack: stretch;
+                -ms-flex-pack: stretch;
+                -webkit-justify-content: stretch;
+                justify-content: stretch;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                text-align: center;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-1qc8p65 {
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    padding-left: 2.5rem;
+                    padding-right: 2.5rem;
+                }
+            }
+            .ui-components-n75mxz {
+                background-color: inherit;
+                -webkit-order: 1;
+                -ms-flex-order: 1;
+                order: 1;
+                -webkit-align-self: flex-end;
+                -ms-flex-item-align: flex-end;
+                align-self: flex-end;
+                border: none;
+                cursor: pointer;
+                height: 2.5rem;
+                min-width: 2.5rem;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: end;
+                -ms-flex-pack: end;
+                -webkit-justify-content: flex-end;
+                justify-content: flex-end;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-n75mxz {
+                    -webkit-order: 3;
+                    -ms-flex-order: 3;
+                    order: 3;
+                    -webkit-align-self: center;
+                    -ms-flex-item-align: center;
+                    align-self: center;
+                }
+            }
+            .ui-components-1771env {
+                color: #212d37;
+                box-sizing: border-box;
+                font-family: sans-serif;
+                font-weight: 400;
+                margin: 0.5rem 0;
+                color: #09363f;
+                text-transform: none;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                -webkit-order: 2;
+                -ms-flex-order: 2;
+                order: 2;
+                -webkit-box-flex: 1;
+                -webkit-flex-grow: 1;
+                -ms-flex-positive: 1;
+                flex-grow: 1;
+                padding-top: 8px;
+                text-align: left;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-1771env {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-1771env {
+                    -webkit-order: 1;
+                    -ms-flex-order: 1;
+                    order: 1;
+                    padding-right: 120px;
+                    padding-bottom: 8px;
+                }
+            }
+            .ui-components-bdqsev {
+                background: none;
+                color: inherit;
+                border: none;
+                padding: 0;
+                font: inherit;
+                cursor: pointer;
+                outline: inherit;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+            }
+            .ui-components-bdqsev:focus {
+                outline: 1px solid #0e353d;
+            }
+            .ui-components-1b0exyv {
+                color: #212d37;
+                box-sizing: border-box;
+                font-family: sans-serif;
+                font-weight: 400;
+                margin: 0.5rem 0;
+                color: #09363f;
+                text-transform: none;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-1b0exyv {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+            }
+            .ui-components-b8dayv {
+                border-radius: 0.25rem;
+                border-style: solid;
+                border-width: 0.125rem;
+                cursor: pointer;
+                font-family: sans-serif;
+                font-weight: 500;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-transition: background 200ms ease, color 200ms ease, border 200ms ease;
+                transition: background 200ms ease, color 200ms ease, border 200ms ease;
+                background: #09363f;
+                border-color: #09363f;
+                color: #ffffff;
+                font-size: 1rem;
+                padding: 0.875rem 1.125rem;
+                width: auto;
+                -webkit-order: 3;
+                -ms-flex-order: 3;
+                order: 3;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                width: 100%;
+                white-space: nowrap;
+                min-width: unset;
+                font-size: 1rem;
+            }
+            .ui-components-b8dayv:disabled {
+                cursor: not-allowed;
+            }
+            .ui-components-b8dayv svg {
+                fill: #ffffff;
+            }
+            .ui-components-b8dayv:hover {
+                background: transparent;
+                border-color: #09363f;
+                color: #09363f;
+            }
+            .ui-components-b8dayv:hover svg {
+                fill: #09363f;
+            }
+            .ui-components-b8dayv:active {
+                background: transparent;
+                border-color: #09363f;
+                color: #09363f;
+            }
+            .ui-components-b8dayv:disabled {
+                background: #c5cfd6;
+                color: #ffffff;
+                border-color: #c5cfd6;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-b8dayv {
+                    -webkit-order: 2;
+                    -ms-flex-order: 2;
+                    order: 2;
+                    width: auto;
+                }
+            }
+            .ui-components-n030j2 {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                font-family: inherit;
+                font-weight: inherit;
+                gap: 0.625rem;
+                height: 100%;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+            }
+            .ui-components-c1446b {
+                border-radius: 0.25rem;
+                border-style: solid;
+                border-width: 0.125rem;
+                cursor: pointer;
+                font-family: sans-serif;
+                font-weight: 500;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-transition: background 200ms ease, color 200ms ease, border 200ms ease;
+                transition: background 200ms ease, color 200ms ease, border 200ms ease;
+                background: transparent;
+                border-color: #09363f;
+                color: #09363f;
+                font-size: 1rem;
+                padding: 0.875rem 1.125rem;
+                width: auto;
+                margin-top: 0;
+                margin-bottom: 8px;
+                width: 100%;
+                white-space: nowrap;
+                min-width: unset;
+                font-size: 1rem;
+                -webkit-order: 4;
+                -ms-flex-order: 4;
+                order: 4;
+                margin-left: 0;
+            }
+            .ui-components-c1446b:disabled {
+                cursor: not-allowed;
+            }
+            .ui-components-c1446b svg {
+                fill: #09363f;
+            }
+            .ui-components-c1446b:hover {
+                background: #09363f;
+                border-color: #09363f;
+                color: #ffffff;
+            }
+            .ui-components-c1446b:hover svg {
+                fill: #ffffff;
+            }
+            .ui-components-c1446b:active {
+                background: #09363f;
+                border-color: #09363f;
+                color: #ffffff;
+            }
+            .ui-components-c1446b:active svg {
+                fill: #ffffff;
+            }
+            .ui-components-c1446b:disabled {
+                background: transparent;
+                border-color: #c5cfd6;
+                color: #c5cfd6;
+            }
+            .ui-components-c1446b:disabled svg {
+                fill: #c5cfd6;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-c1446b {
+                    margin-top: 8px;
+                    width: auto;
+                    -webkit-order: 2;
+                    -ms-flex-order: 2;
+                    order: 2;
+                    margin-left: 4px;
+                }
+            }
+            .ui-components-3qxopn {
+                padding-top: 5rem;
+                margin-top: 0;
+            }
+            .ui-components-1alv81c {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                gap: 0;
+                width: auto;
+                cursor: default;
+                height: 5rem;
+                width: 80rem;
+            }
+            .ui-components-r7udsz {
+                -webkit-align-self: center;
+                -ms-flex-item-align: center;
+                align-self: center;
+                position: relative;
+                min-width: 148px;
+                display: none;
+                z-index: 1;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-r7udsz {
+                    display: -webkit-box;
+                    display: -webkit-unset;
+                    display: -ms-unsetbox;
+                    display: unset;
+                }
+            }
+            .ui-components-kqnria {
+                cursor: pointer;
+                font-family: inherit;
+                font-size: inherit;
+                font-weight: 700;
+                line-height: inherit;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                color: #212d37;
+            }
+            .ui-components-kqnria:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: #35434e;
+            }
+            .ui-components-kqnria:hover:focus {
+                outline-color: #35434e;
+            }
+            .ui-components-kqnria:focus {
+                outline-width: 1px;
+                outline-color: #212d37;
+            }
+            .ui-components-kqnria:active {
+                color: #141d25;
+            }
+            .ui-components-kqnria:active:focus {
+                outline-color: #141d25;
+            }
+            .ui-components-erdoiv {
+                -webkit-align-self: center;
+                -ms-flex-item-align: center;
+                align-self: center;
+                position: relative;
+                min-width: 148px;
+                display: -webkit-box;
+                display: -webkit-unset;
+                display: -ms-unsetbox;
+                display: unset;
+                z-index: 1;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-erdoiv {
+                    display: none;
+                }
+            }
+            .ui-components-qsly6v {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                width: auto;
+            }
+            .ui-components-1xugoo2 {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                width: auto;
+                padding-right: 1.5rem;
+                padding-left: 1.5rem;
+                padding-top: 1.5rem;
+                padding-bottom: 1.5rem;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-1xugoo2 {
+                    padding-right: 2.5rem;
+                    padding-left: 2.5rem;
+                    padding-top: 2rem;
+                    padding-bottom: 2rem;
+                }
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1xugoo2 {
+                    padding-right: 5rem;
+                    padding-left: 5rem;
+                    padding-top: 2.5rem;
+                    padding-bottom: 2.5rem;
+                }
+            }
+            .ui-components-r7urmy {
+                max-width: 80rem;
+                width: 100%;
+            }
+            .ui-components-1b5f188 {
+                max-width: 60rem;
+            }
+            .ui-components-9w97fh {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                width: auto;
+                background-color: #09363f;
+                font-family: sans-serif;
+                padding: 2.25rem 1.5rem;
+                color: white;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-9w97fh {
+                    padding: 2.25rem 2.5rem;
+                }
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-9w97fh {
+                    padding: 5.5rem 5rem;
+                }
+            }
+            .ui-components-1io3sxv {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                -webkit-box-pack: justify;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                width: auto;
+                display: none;
+                max-width: 80rem;
+                width: 100%;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1io3sxv {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                }
+            }
+            .ui-components-1w5frb {
+                cursor: pointer;
+                font-family: inherit;
+                font-size: inherit;
+                font-weight: 700;
+                line-height: inherit;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                color: #212d37;
+                display: inline-block;
+            }
+            .ui-components-1w5frb:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: #35434e;
+            }
+            .ui-components-1w5frb:hover:focus {
+                outline-color: #35434e;
+            }
+            .ui-components-1w5frb:focus {
+                outline-width: 1px;
+                outline-color: #212d37;
+            }
+            .ui-components-1w5frb:active {
+                color: #141d25;
+            }
+            .ui-components-1w5frb:active:focus {
+                outline-color: #141d25;
+            }
+            .ui-components-1w5frb:focus {
+                border: 1px solid white;
+            }
+            .ui-components-tw0d7e {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                max-width: auto;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-tw0d7e {
+                    -webkit-align-items: flex-start;
+                    -webkit-box-align: flex-start;
+                    -ms-flex-align: flex-start;
+                    align-items: flex-start;
+                    max-width: 22rem;
+                }
+            }
+            .ui-components-x8gegf {
+                color: #212d37;
+                box-sizing: border-box;
+                font-family: sans-serif;
+                font-weight: 400;
+                margin: 0.5rem 0;
+                color: #09363f;
+                text-transform: none;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                color: #ffffff;
+                margin-bottom: 1rem;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-x8gegf {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+            }
+            .ui-components-vn8gsl {
+                color: #212d37;
+                box-sizing: border-box;
+                font-family: sans-serif;
+                font-weight: 400;
+                margin: 0.5rem 0;
+                color: #09363f;
+                text-transform: none;
+                font-size: 0.75rem;
+                line-height: 1rem;
+                color: #a5b3bc;
+                text-align: center;
+                margin-bottom: 1rem;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-vn8gsl {
+                    font-size: 0.875rem;
+                    line-height: 1.125rem;
+                }
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-vn8gsl {
+                    text-align: left;
+                }
+            }
+            .ui-components-1wnu4po {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                width: auto;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1wnu4po {
+                    -webkit-align-items: flex-end;
+                    -webkit-box-align: flex-end;
+                    -ms-flex-align: flex-end;
+                    align-items: flex-end;
+                }
+            }
+            .ui-components-1jvft0j {
+                background: transparent;
+                border: 0;
+                font-size: inherit;
+            }
+            .ui-components-xpxom0 {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                width: auto;
+                color: #ffffff;
+                cursor: pointer;
+            }
+            .ui-components-xpxom0:hover {
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+            }
+            .ui-components-xpxom0 svg {
+                margin-left: 0.5rem;
+                -webkit-transition: -webkit-transform 0.25s;
+                transition: transform 0.25s;
+                fill: #ffffff;
+            }
+            .ui-components-xpxom0 svg:hover {
+                fill: #ffffff;
+            }
+            .ui-components-1fxddag {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                list-style: none;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                margin: 0;
+                padding: 0;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1fxddag {
+                    margin: 1.5rem 0 0 3rem;
+                }
+            }
+            .ui-components-1iumqg {
+                padding: 0 0.5rem;
+                border-left: none;
+                margin-left: 0;
+                margin-top: 0.5rem;
+                padding-left: 0;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1iumqg {
+                    margin-top: 0;
+                }
+            }
+            .ui-components-4zb7rj {
+                color: #212d37;
+                text-transform: uppercase;
+                font-family: sans-serif;
+                font-weight: 500;
+                font-size: 0.75rem;
+                line-height: 0.75rem;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-4zb7rj {
+                    font-size: 0.875rem;
+                    line-height: 1rem;
+                }
+            }
+            .ui-components-1q30cze {
+                cursor: pointer;
+                font-family: inherit;
+                font-size: inherit;
+                font-weight: 700;
+                line-height: inherit;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                color: #212d37;
+                color: #a5b3bc;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+            }
+            .ui-components-1q30cze:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: #35434e;
+            }
+            .ui-components-1q30cze:hover:focus {
+                outline-color: #35434e;
+            }
+            .ui-components-1q30cze:focus {
+                outline-width: 1px;
+                outline-color: #212d37;
+            }
+            .ui-components-1q30cze:active {
+                color: #141d25;
+            }
+            .ui-components-1q30cze:active:focus {
+                outline-color: #141d25;
+            }
+            .ui-components-1q30cze:hover {
+                color: #a5b3bc;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+            }
+            .ui-components-1q30cze:focus {
+                border: 1px solid white;
+            }
+            .ui-components-1fmtuxc {
+                padding: 0 0.5rem;
+                border-left: 1px solid;
+                margin-left: 0;
+                margin-top: 0.5rem;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1fmtuxc {
+                    margin-top: 0;
+                }
+            }
+            .ui-components-1mf7q8h {
+                padding: 0 0.5rem;
+                border-left: 1px solid;
+                margin-left: 0;
+                margin-top: 0.5rem;
+                padding-right: 0;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-1mf7q8h {
+                    margin-top: 0;
+                }
+            }
+            .ui-components-6t7nxi {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                -webkit-box-pack: justify;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                width: auto;
+                max-width: 48rem;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-6t7nxi {
+                    display: none;
+                }
+            }
+            .ui-components-1979nfv {
+                margin: 2.5rem 0 2rem 0;
+            }
+            .ui-components-ahqm2i {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                -webkit-box-pack: justify;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                width: auto;
+                border-top: 1px solid #81919e;
+                color: #a5b3bc;
+                padding-top: 0;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                width: 100%;
+                border-top: none;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-ahqm2i {
+                    padding-top: 2rem;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                }
+            }
+            .ui-components-bdofa7 {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                gap: 0;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                width: auto;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: fixed;
+                -webkit-transition: background-color 0.5s ease;
+                transition: background-color 0.5s ease;
+                width: 100%;
+                max-width: 104rem;
+                z-index: 2;
+                top: 0;
+                padding: 0 1.5rem;
+                background-color: #ffffff;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-bdofa7 {
+                    padding: 0 2.5rem;
+                }
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-bdofa7 {
+                    padding: 0 5rem;
+                }
+            }
+            .ui-components-171yo9r {
+                border-radius: 0.25rem;
+                border-style: solid;
+                border-width: 0.125rem;
+                cursor: pointer;
+                font-family: sans-serif;
+                font-weight: 500;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-transition: background 200ms ease, color 200ms ease, border 200ms ease;
+                transition: background 200ms ease, color 200ms ease, border 200ms ease;
+                background: #09363f;
+                border-color: #09363f;
+                color: #ffffff;
+                font-size: 1rem;
+                padding: 0.875rem 1.125rem;
+                width: auto;
+                display: inline-block;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                width: 100%;
+            }
+            .ui-components-171yo9r:disabled {
+                cursor: not-allowed;
+            }
+            .ui-components-171yo9r svg {
+                fill: #ffffff;
+            }
+            .ui-components-171yo9r:hover {
+                background: transparent;
+                border-color: #09363f;
+                color: #09363f;
+            }
+            .ui-components-171yo9r:hover svg {
+                fill: #09363f;
+            }
+            .ui-components-171yo9r:active {
+                background: transparent;
+                border-color: #09363f;
+                color: #09363f;
+            }
+            .ui-components-171yo9r:disabled {
+                background: #c5cfd6;
+                color: #ffffff;
+                border-color: #c5cfd6;
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-171yo9r {
+                    width: auto;
+                }
+            }
+            .ui-components-1s18eih {
+                color: #212d37;
+                font-family: sans-serif;
+                margin: 0.5rem 0;
+                color: #09363f;
+                letter-spacing: -0.02rem;
+                font-size: 2.75rem;
+                font-weight: 700;
+                line-height: 3rem;
+                text-transform: uppercase;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-1s18eih {
+                    font-size: 3.25rem;
+                    line-height: 3.375rem;
+                }
+            }
+            .ui-components-l2hwwh {
+                display: grid;
+                gap: 0;
+                width: auto;
+                min-height: 100vh;
+                max-width: 104rem;
+                margin-left: auto;
+                margin-right: auto;
+                box-shadow: 0 0 5.5rem rgba(9, 54, 63, 0.08);
+            }
+            .ui-components-olqq6v {
+                display: grid;
+                gap: 0;
+                width: auto;
+                grid-template-columns: 1fr;
+                grid-template-rows: repeat(1, 1fr);
+                gap: 1rem;
+                padding: 5rem 0 10rem;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-olqq6v {
+                    gap: 1.5rem;
+                }
+            }
+            @media screen and (min-width: 64em) {
+                .ui-components-olqq6v {
+                    gap: 2rem;
+                }
+            }
+            .ui-components-4j0jv5 {
+                color: #212d37;
+                box-sizing: border-box;
+                font-family: sans-serif;
+                font-weight: 400;
+                margin: 0.5rem 0;
+                color: #09363f;
+                text-transform: none;
+                font-size: 1.125rem;
+                line-height: 1.625rem;
+                margin: 0;
+            }
+            @media screen and (min-width: 40em) {
+                .ui-components-4j0jv5 {
+                    font-size: 1.25rem;
+                    line-height: 1.75rem;
+                }
+            }
+        </style>
+        <style>
+            .gatsby-image-wrapper {
+                position: relative;
+                overflow: hidden;
+            }
+            .gatsby-image-wrapper picture.object-fit-polyfill {
+                position: static !important;
+            }
+            .gatsby-image-wrapper img {
+                bottom: 0;
+                height: 100%;
+                left: 0;
+                margin: 0;
+                max-width: none;
+                padding: 0;
+                position: absolute;
+                right: 0;
+                top: 0;
+                width: 100%;
+                object-fit: cover;
+            }
+            .gatsby-image-wrapper [data-main-image] {
+                opacity: 0;
+                transform: translateZ(0);
+                transition: opacity 0.25s linear;
+                will-change: opacity;
+            }
+            .gatsby-image-wrapper-constrained {
+                display: inline-block;
+                vertical-align: top;
+            }
+        </style>
+        <noscript
+            ><style>
+                .gatsby-image-wrapper noscript [data-main-image] {
+                    opacity: 1 !important;
+                }
+                .gatsby-image-wrapper [data-placeholder-image] {
+                    opacity: 0 !important;
+                }
+            </style></noscript
+        >
+        <script type="module">
+            const e = 'undefined' != typeof HTMLImageElement && 'loading' in HTMLImageElement.prototype
+            e &&
+                document.body.addEventListener(
+                    'load',
+                    function(e) {
+                        const t = e.target
+                        if (void 0 === t.dataset.mainImage) return
+                        if (void 0 === t.dataset.gatsbyImageSsr) return
+                        let a = null,
+                            n = t
+                        for (; null === a && n; )
+                            void 0 !== n.parentNode.dataset.gatsbyImageWrapper && (a = n.parentNode),
+                                (n = n.parentNode)
+                        const o = a.querySelector('[data-placeholder-image]'),
+                            r = new Image()
+                        ;(r.src = t.currentSrc),
+                            r
+                                .decode()
+                                .catch(() => {})
+                                .then(() => {
+                                    ;(t.style.opacity = 1),
+                                        o &&
+                                            ((o.style.opacity = 0),
+                                            (o.style.transition = 'opacity 500ms linear'))
+                                })
+                    },
+                    !0
+                )
+        </script>
+        <title data-react-helmet="true">Page Not Found | Dashlane</title>
+        <link data-react-helmet="true" rel="alternate" hreflang="en" href="https://www.dashlane.com/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="fr" href="https://www.dashlane.com/fr/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="de" href="https://www.dashlane.com/de/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="es" href="https://www.dashlane.com/es/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="it" href="https://www.dashlane.com/it/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="ja" href="https://www.dashlane.com/ja/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="ko" href="https://www.dashlane.com/ko/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="nl" href="https://www.dashlane.com/nl/404" />
+        <link
+            data-react-helmet="true"
+            rel="alternate"
+            hreflang="pt-br"
+            href="https://www.dashlane.com/pt-br/404"
+        />
+        <link
+            data-react-helmet="true"
+            rel="alternate"
+            hreflang="pt-pt"
+            href="https://www.dashlane.com/pt-pt/404"
+        />
+        <link data-react-helmet="true" rel="alternate" hreflang="sv" href="https://www.dashlane.com/sv/404" />
+        <link data-react-helmet="true" rel="alternate" hreflang="zh" href="https://www.dashlane.com/zh/404" />
+        <link data-react-helmet="true" rel="canonical" href="https://www.dashlane.com/404" />
+        <link
+            data-react-helmet="true"
+            rel="shortcut icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/favicon-16x16-light.png"
+            sizes="16x16"
+            type="image/png"
+            class="light-scheme-favicon"
+        />
+        <link
+            data-react-helmet="true"
+            rel="shortcut icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/favicon-32x32-light.png"
+            sizes="32x32"
+            type="image/png"
+            class="light-scheme-favicon"
+        />
+        <link
+            data-react-helmet="true"
+            rel="shortcut icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/favicon-96x96-light.png"
+            sizes="96x96"
+            type="image/png"
+            class="light-scheme-favicon"
+        />
+        <link
+            data-react-helmet="true"
+            rel="shortcut icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/favicon-128x128-light.png"
+            sizes="128x128"
+            type="image/png"
+            class="light-scheme-favicon"
+        />
+        <link
+            data-react-helmet="true"
+            rel="shortcut icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/favicon-196x196-light.png"
+            sizes="196x196"
+            type="image/png"
+            class="light-scheme-favicon"
+        />
+        <link
+            data-react-helmet="true"
+            rel="shortcut icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/favicon-228x228-light.png"
+            sizes="228x228"
+            type="image/png"
+            class="light-scheme-favicon"
+        />
+        <link
+            data-react-helmet="true"
+            rel="apple-touch-icon"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/apple-touch-icon-iphone2x.png"
+        />
+        <link
+            data-react-helmet="true"
+            rel="apple-touch-icon"
+            sizes="152x152"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/apple-touch-icon-ipad2x.png"
+        />
+        <link
+            data-react-helmet="true"
+            rel="apple-touch-icon"
+            sizes="167x167"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/apple-touch-icon-ipadpro2x.png"
+        />
+        <link
+            data-react-helmet="true"
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/apple-touch-icon-iphone3x.png"
+        />
+        <link
+            data-react-helmet="true"
+            rel="icon"
+            sizes="128x128"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/android-app-icon-128x128.png"
+        />
+        <link
+            data-react-helmet="true"
+            rel="icon"
+            sizes="192x192"
+            href="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/android-app-icon-192x192.png"
+        />
+        <script
+            data-react-helmet="true"
+            async=""
+            src="https://www.google-analytics.com/analytics.js"
+        ></script>
+        <script data-react-helmet="true" type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Dashlane",
+                "headline": "Page Not Found | Dashlane",
+                "url": "https://www.dashlane.com/404",
+                "logo": "https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/icon_og_400x400.png",
+                "image": [
+                    "https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/images/icon_og_400x400.png"
+                ],
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Dashlane",
+                    "https://www.google.com/+Dashlane",
+                    "https://www.facebook.com/GetDashlane",
+                    "https://twitter.com/dashlane",
+                    "https://www.linkedin.com/company/dashlane",
+                    "https://vimeo.com/dashlane",
+                    "https://github.com/Dashlane"
+                ]
+            }
+        </script>
+        <link
+            rel="preconnect dns-prefetch"
+            href="https://d38muu3h4xeqr1.cloudfront.net/"
+            crossorigin="true"
+        />
+        <link rel="preconnect dns-prefetch" href="https://www.google-analytics.com/" crossorigin="true" />
+        <link rel="preconnect dns-prefetch" href="https://cdn.heapanalytics.com/" crossorigin="true" />
+        <link rel="preconnect dns-prefetch" href="https://ws1.dashlane.com/" crossorigin="true" />
+        <link rel="preconnect dns-prefetch" href="https://www.googletagmanager.com/" crossorigin="true" />
+        <script>
+            window.pageConfig = { country: 'US', gdpr: false }
+        </script>
+        <script src="../../drift-snippet.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <div id="___gatsby">
+            <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
+                <div id="root" data-variant="default">
+                    <div
+                        data-testid="privacy-consent-content"
+                        aria-hidden="true"
+                        class="ui-components-rirx4i"
+                    >
+                        <div class="ui-components-1qc8p65">
+                            <button class="ui-components-n75mxz">
+                                <div
+                                    data-gatsby-image-wrapper=""
+                                    class="gatsby-image-wrapper gatsby-image-wrapper-constrained"
+                                >
+                                    <div style="max-width:14px;display:block">
+                                        <img
+                                            alt=""
+                                            role="presentation"
+                                            aria-hidden="true"
+                                            src="data:image/svg+xml;charset=utf-8,%3Csvg height=&#x27;14&#x27; width=&#x27;14&#x27; xmlns=&#x27;http://www.w3.org/2000/svg&#x27; version=&#x27;1.1&#x27;%3E%3C/svg%3E"
+                                            style="max-width:100%;display:block;position:static"
+                                        />
+                                    </div>
+                                    <img
+                                        aria-hidden="true"
+                                        data-placeholder-image=""
+                                        style="opacity:1;transition:opacity 500ms linear"
+                                        decoding="async"
+                                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQ4y6XTwQ7BQBAG4OVId0tExBEHiQOH7vTQzKQX3kjcXcXVI4jXcCCIeAgSibcgLRWRlt3pHtvsl5ns/wshREECTV2NbcE8tSCQSuO86XklITWNFdBdAp05aIwBbmND41JUvaErAQ9PFC/KCzqmWKM/KiugdXRXabw5PvbiHxw0E0uODfoXs0GNMRPUGvuFsrHkuIOwIjUdk0gpTbsYA7pKHXRZgf2clD1Z5gMwcprSANq81wQ8vRvlU4s/2WvNaH0FtLee9NdrWqMm0TBGbXL2t1Gc0GaieRqQijo+TvI04KtRq+hbUQHO2HVKUKBFvRc6Dy8buyYd50QkAAAAAElFTkSuQmCC"
+                                        alt=""
+                                    /><picture
+                                        ><source
+                                            type="image/webp"
+                                            data-srcset="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/adf2d/cross-new.webp 4w,https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/51a11/cross-new.webp 7w,https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/e3b76/cross-new.webp 14w,https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/10f08/cross-new.webp 28w"
+                                            sizes="(min-width: 14px) 14px, 100vw"/>
+                                        <img
+                                            data-gatsby-image-ssr=""
+                                            data-main-image=""
+                                            style="opacity:0"
+                                            sizes="(min-width: 14px) 14px, 100vw"
+                                            decoding="async"
+                                            loading="lazy"
+                                            data-src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg"
+                                            data-srcset="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/b7e21/cross-new.svg 4w,https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/184b1/cross-new.svg 7w,https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg 14w,https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/121f8/cross-new.svg 28w"
+                                            alt="Close"/></picture
+                                    ><noscript
+                                        ><picture
+                                            ><source
+                                                type="image/webp"
+                                                srcset="
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/adf2d/cross-new.webp  4w,
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/51a11/cross-new.webp  7w,
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/e3b76/cross-new.webp 14w,
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/10f08/cross-new.webp 28w
+                                                "
+                                                sizes="(min-width: 14px) 14px, 100vw"/>
+                                            <img
+                                                data-gatsby-image-ssr=""
+                                                data-main-image=""
+                                                style="opacity:0"
+                                                sizes="(min-width: 14px) 14px, 100vw"
+                                                decoding="async"
+                                                loading="lazy"
+                                                src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg"
+                                                srcset="
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/b7e21/cross-new.svg  4w,
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/184b1/cross-new.svg  7w,
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg 14w,
+                                                    https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/static/46c0bf42877f5e5b204d022d2830429d/121f8/cross-new.svg 28w
+                                                "
+                                                alt="Close"/></picture></noscript
+                                    ><script type="module">
+                                        const t =
+                                            'undefined' != typeof HTMLImageElement &&
+                                            'loading' in HTMLImageElement.prototype
+                                        if (t) {
+                                            const t = document.querySelectorAll('img[data-main-image]')
+                                            for (let e of t) {
+                                                e.dataset.src &&
+                                                    (e.setAttribute('src', e.dataset.src),
+                                                    e.removeAttribute('data-src')),
+                                                    e.dataset.srcset &&
+                                                        (e.setAttribute('srcset', e.dataset.srcset),
+                                                        e.removeAttribute('data-srcset'))
+                                                const t = e.parentNode.querySelectorAll('source[data-srcset]')
+                                                for (let e of t)
+                                                    e.setAttribute('srcset', e.dataset.srcset),
+                                                        e.removeAttribute('data-srcset')
+                                                e.complete &&
+                                                    ((e.style.opacity = 1),
+                                                    (e.parentNode.parentNode.querySelector(
+                                                        '[data-placeholder-image]'
+                                                    ).style.opacity = 0))
+                                            }
+                                        }
+                                    </script>
+                                </div>
+                            </button>
+                            <p class="ui-components-1771env">
+                                <span
+                                    ><strong>Please note:</strong> We use cookies on our site to give you the
+                                    best experience. Please accept these cookies, or change your settings
+                                    here:</span
+                                >
+                                <button class="ui-components-bdqsev">
+                                    <p class="ui-components-1b0exyv"><span>Cookie preferences.</span></p>
+                                </button>
+                            </p>
+                            <button type="button" class="ui-components-b8dayv">
+                                <span class="ui-components-n030j2"><span>I accept</span></span></button
+                            ><button
+                                type="button"
+                                data-testid="privacy-consent-refuse"
+                                class="ui-components-c1446b"
+                            >
+                                <span class="ui-components-n030j2"><span>I refuse</span></span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="ui-components-l2hwwh">
+                        <header role="banner" class="ui-components-3qxopn">
+                            <div class="ui-components-bdofa7">
+                                <div class="ui-components-1alv81c">
+                                    <div class="ui-components-r7udsz">
+                                        <a
+                                            href="/"
+                                            title="Dashlane Password Manager"
+                                            aria-label="Dashlane Password Manager"
+                                            class="ui-components-kqnria"
+                                            ><svg
+                                                role="img"
+                                                width="148"
+                                                height="39"
+                                                viewBox="0 0 243 64"
+                                                fill="#09363F"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M109.677 41.2692C109.765 44.0779 110.696 46.2804 112.469 47.8768L112.464 47.8914C114.333 49.5657 116.915 50.4029 120.209 50.4029C121.989 50.4387 123.757 50.0917 125.392 49.3854C126.798 48.7743 127.996 47.7689 128.842 46.4909C129.679 45.1838 130.106 43.6568 130.07 42.1053C130.09 40.2926 129.656 38.7587 128.769 37.5034C127.882 36.2482 126.518 35.2638 124.676 34.5505L120.22 32.7962C118.891 32.2583 117.946 31.7281 117.384 31.2057C117.116 30.9684 116.901 30.6762 116.756 30.3488C116.61 30.0214 116.536 29.6666 116.539 29.3082C116.525 28.9396 116.596 28.5726 116.749 28.2366C116.901 27.9006 117.13 27.6047 117.416 27.3727C117.989 26.8991 118.775 26.6623 119.773 26.6623C120.976 26.6642 121.896 26.9966 122.533 27.6593C123.106 28.2538 123.423 29.0831 123.483 30.1473C123.488 30.2523 123.534 30.3512 123.61 30.4236C123.686 30.496 123.787 30.5363 123.892 30.5362H129.301C129.411 30.5301 129.515 30.4811 129.589 30.3996C129.664 30.3182 129.703 30.2108 129.699 30.1006C129.669 28.6068 129.212 27.1528 128.384 25.9097C127.555 24.6666 126.388 23.6861 125.021 23.0837C123.408 22.3525 121.652 21.9919 119.881 22.0282C118.15 21.9922 116.432 22.3261 114.841 23.0076C113.484 23.5835 112.324 24.5427 111.505 25.7676C110.714 26.995 110.307 28.4302 110.335 29.8901C110.289 31.4903 110.773 33.0608 111.712 34.3575C112.632 35.5991 113.987 36.5513 115.776 37.214L120.609 39.0939C121.835 39.5676 122.685 40.0548 123.159 40.5558C123.645 41.0946 123.9 41.8039 123.866 42.5293C123.89 42.9412 123.817 43.3529 123.654 43.7319C123.491 44.111 123.243 44.4469 122.928 44.7133C122.302 45.2259 121.414 45.4822 120.264 45.4822C118.909 45.4842 117.842 45.0739 117.063 44.2514C116.347 43.5087 115.957 42.501 115.893 41.2282C115.887 41.1235 115.842 41.025 115.766 40.9527C115.689 40.8805 115.589 40.8399 115.484 40.8394H110.078C109.968 40.8439 109.864 40.8916 109.789 40.9721C109.714 41.0525 109.674 41.1592 109.677 41.2692ZM62.466 22.9003C62.3887 22.9776 62.3453 23.0825 62.3453 23.1918V49.2158C62.3461 49.3249 62.3898 49.4293 62.4669 49.5065C62.544 49.5836 62.6485 49.6273 62.7576 49.6281H72.4731C75.2584 49.6281 77.687 49.0258 79.759 47.8212C81.7709 46.6779 83.4189 44.9894 84.5129 42.9503C85.5963 40.8691 86.162 38.5574 86.162 36.2111C86.162 33.8649 85.5963 31.5531 84.5129 29.472C83.4119 27.438 81.7656 25.7512 79.759 24.6011C77.6851 23.3867 75.2564 22.7796 72.4731 22.7796H62.7576C62.6482 22.7796 62.5434 22.823 62.466 22.9003ZM76.2008 43.2748C74.9019 44.0585 73.4047 44.4513 71.8883 44.4063L68.9646 44.4004C68.8553 44.4004 68.7504 44.357 68.6731 44.2797C68.5958 44.2024 68.5524 44.0975 68.5524 43.9882V28.399C68.5524 28.2896 68.5958 28.1848 68.6731 28.1075C68.7504 28.0301 68.8553 27.9867 68.9646 27.9867H71.8883C73.4047 27.9417 74.9019 28.3345 76.2008 29.1182C77.3632 29.843 78.2896 30.8904 78.8672 32.1325C79.4481 33.4086 79.7487 34.7944 79.7487 36.1965C79.7487 37.5986 79.4481 38.9844 78.8672 40.2605C78.2906 41.5033 77.364 42.5509 76.2008 43.2748ZM157.726 22.7767H163.108C163.218 22.7767 163.322 22.8201 163.4 22.8974C163.477 22.9747 163.52 23.0796 163.52 23.1889V43.6958C163.52 43.8052 163.564 43.91 163.641 43.9873C163.719 44.0647 163.823 44.1081 163.933 44.1081H173.081C173.19 44.1089 173.294 44.1526 173.371 44.2299C173.447 44.3071 173.49 44.4115 173.49 44.5203V49.2217C173.49 49.3302 173.447 49.4343 173.37 49.5111C173.294 49.5879 173.19 49.631 173.081 49.631H157.717C157.608 49.631 157.504 49.588 157.426 49.5113C157.349 49.4346 157.305 49.3305 157.305 49.2217V23.2006C157.305 23.1465 157.315 23.0929 157.336 23.0428C157.357 22.9928 157.387 22.9474 157.425 22.9091C157.464 22.8708 157.509 22.8404 157.559 22.8197C157.609 22.799 157.663 22.7883 157.717 22.7883L157.726 22.7767ZM208.063 22.7825H202.356C202.247 22.7825 202.143 22.8255 202.066 22.9022C201.988 22.9789 201.945 23.083 201.944 23.1918V49.2129C201.944 49.267 201.955 49.3206 201.975 49.3707C201.996 49.4207 202.026 49.4661 202.065 49.5044C202.103 49.5427 202.148 49.573 202.198 49.5938C202.248 49.6145 202.302 49.6251 202.356 49.6251H207.476C207.585 49.6251 207.69 49.5817 207.767 49.5044C207.844 49.4271 207.888 49.3222 207.888 49.2129V33.8926C207.888 33.8009 207.919 33.7119 207.975 33.6396C208.031 33.5673 208.11 33.5158 208.199 33.4933C208.288 33.4708 208.382 33.4786 208.466 33.5155C208.55 33.5523 208.619 33.6161 208.663 33.6967L217.089 49.4059C217.124 49.4714 217.177 49.5263 217.24 49.5648C217.304 49.6034 217.377 49.6242 217.451 49.6251H223.158C223.268 49.6251 223.373 49.5817 223.45 49.5044C223.527 49.4271 223.571 49.3222 223.571 49.2129V23.1918C223.571 23.1378 223.56 23.0844 223.539 23.0345C223.519 22.9846 223.488 22.9394 223.45 22.9014C223.411 22.8633 223.366 22.8332 223.316 22.8128C223.266 22.7924 223.212 22.7821 223.158 22.7825H218.039C217.93 22.7825 217.826 22.8255 217.749 22.9022C217.671 22.9789 217.628 23.083 217.627 23.1918V38.5121C217.627 38.6038 217.596 38.6928 217.54 38.7652C217.483 38.8375 217.404 38.8889 217.316 38.9114C217.227 38.9339 217.133 38.9261 217.049 38.8892C216.965 38.8524 216.896 38.7886 216.852 38.708L208.426 22.9989C208.391 22.9333 208.339 22.8785 208.275 22.8403C208.211 22.8022 208.138 22.7822 208.063 22.7825ZM226.679 22.7825H242.265C242.319 22.7821 242.372 22.7924 242.422 22.8128C242.472 22.8332 242.518 22.8633 242.556 22.9014C242.595 22.9394 242.625 22.9847 242.646 23.0345C242.667 23.0844 242.677 23.1378 242.677 23.1918V27.3552C242.676 27.464 242.633 27.5681 242.555 27.6448C242.478 27.7215 242.374 27.7645 242.265 27.7645H232.889C232.779 27.7645 232.674 27.8079 232.597 27.8853C232.52 27.9626 232.476 28.0674 232.476 28.1768V33.4394C232.477 33.5483 232.521 33.6524 232.598 33.7291C232.675 33.8057 232.78 33.8488 232.889 33.8488H242.265C242.374 33.8488 242.479 33.8922 242.556 33.9695C242.634 34.0468 242.677 34.1517 242.677 34.261V38.3074C242.677 38.4168 242.634 38.5216 242.556 38.5989C242.479 38.6762 242.374 38.7197 242.265 38.7197H232.889C232.779 38.7197 232.674 38.7631 232.597 38.8404C232.52 38.9177 232.476 39.0226 232.476 39.1319V44.2133C232.476 44.3227 232.52 44.4275 232.597 44.5048C232.674 44.5822 232.779 44.6256 232.889 44.6256H242.265C242.374 44.6256 242.478 44.6686 242.555 44.7453C242.633 44.822 242.676 44.9261 242.677 45.0349V49.1983C242.677 49.3076 242.634 49.4125 242.556 49.4898C242.479 49.5671 242.374 49.6105 242.265 49.6105H226.679C226.569 49.6105 226.464 49.5671 226.387 49.4898C226.31 49.4125 226.266 49.3076 226.266 49.1983V23.1772C226.266 23.0687 226.309 22.9645 226.386 22.8878C226.463 22.811 226.567 22.7679 226.676 22.7679L226.679 22.7825ZM100.392 22.9813L109.312 49.2187V49.2129C109.318 49.2448 109.318 49.2775 109.312 49.3094C109.312 49.3869 109.281 49.4613 109.226 49.5161C109.171 49.5709 109.097 49.6017 109.02 49.6017H103.19C103.101 49.6028 103.014 49.5747 102.943 49.5219C102.872 49.4692 102.82 49.3945 102.795 49.3094L101.672 45.3331H92.7373L91.6146 49.3094C91.5893 49.3942 91.5372 49.4686 91.466 49.5213C91.3948 49.5741 91.3085 49.6023 91.2199 49.6017H85.3959C85.3629 49.6062 85.3295 49.6062 85.2965 49.6017C85.258 49.5903 85.2224 49.571 85.1917 49.5452C85.1611 49.5193 85.136 49.4875 85.1182 49.4515C85.1004 49.4156 85.0901 49.3764 85.0881 49.3364C85.0861 49.2963 85.0923 49.2563 85.1064 49.2187L93.9916 22.9813C94.0109 22.9197 94.0501 22.8662 94.1029 22.8292C94.1558 22.7922 94.2195 22.7737 94.284 22.7767H100.099C100.164 22.7737 100.227 22.7922 100.28 22.8292C100.333 22.8662 100.372 22.9197 100.392 22.9813ZM96.9241 30.5917L94.2723 39.9652L94.2518 39.9506C94.2473 39.9865 94.2473 40.0228 94.2518 40.0587C94.2518 40.1642 94.2937 40.2653 94.3683 40.3399C94.4428 40.4145 94.544 40.4564 94.6494 40.4564H99.7776C99.8135 40.462 99.85 40.462 99.8858 40.4564C99.9361 40.4422 99.9832 40.4182 100.024 40.3859C100.065 40.3535 100.1 40.3134 100.125 40.2678C100.151 40.2221 100.167 40.1719 100.173 40.12C100.179 40.0681 100.175 40.0155 100.161 39.9652L97.5088 30.5917C97.5088 30.5142 97.478 30.4398 97.4232 30.385C97.3684 30.3302 97.294 30.2994 97.2165 30.2994C97.1389 30.2994 97.0646 30.3302 97.0097 30.385C96.9549 30.4398 96.9241 30.5142 96.9241 30.5917ZM199.552 49.2187L190.635 22.9813C190.616 22.9197 190.577 22.8662 190.524 22.8292C190.471 22.7922 190.407 22.7737 190.343 22.7767H184.524C184.46 22.7737 184.396 22.7922 184.343 22.8292C184.291 22.8662 184.251 22.9197 184.232 22.9813L175.35 49.2187C175.336 49.2563 175.33 49.2963 175.332 49.3364C175.334 49.3764 175.344 49.4156 175.362 49.4515C175.379 49.4875 175.404 49.5193 175.435 49.5452C175.466 49.571 175.501 49.5903 175.54 49.6017C175.572 49.606 175.604 49.606 175.636 49.6017H181.46C181.549 49.6028 181.636 49.5747 181.707 49.5219C181.778 49.4692 181.83 49.3945 181.855 49.3094L182.981 45.3331H191.913L193.038 49.3094C193.063 49.3945 193.115 49.4692 193.187 49.5219C193.258 49.5747 193.344 49.6028 193.433 49.6017H199.257C199.335 49.6017 199.409 49.5709 199.464 49.5161C199.519 49.4613 199.549 49.3869 199.549 49.3094C199.554 49.2773 199.554 49.2449 199.549 49.2129L199.552 49.2187ZM184.51 39.9593L187.162 30.5859C187.171 30.5469 187.189 30.5104 187.213 30.4785C187.238 30.4466 187.269 30.4201 187.304 30.4007C187.339 30.3812 187.377 30.3692 187.417 30.3653C187.457 30.3615 187.498 30.3659 187.536 30.3783C187.585 30.3928 187.63 30.4194 187.666 30.4557C187.702 30.492 187.729 30.5367 187.743 30.5859L190.395 39.9593C190.424 40.0613 190.411 40.1705 190.36 40.2631C190.308 40.3558 190.222 40.4242 190.12 40.4534C190.085 40.4626 190.049 40.4675 190.012 40.4681H184.893C184.787 40.4673 184.686 40.4252 184.611 40.3509C184.537 40.2766 184.494 40.1759 184.492 40.0704C184.492 40.0327 184.498 39.9952 184.51 39.9593ZM148.68 22.7825H154.068V22.7796C154.177 22.7796 154.281 22.8226 154.359 22.8993C154.436 22.976 154.48 23.0801 154.48 23.1889V49.21C154.48 49.3193 154.437 49.4242 154.36 49.5015C154.282 49.5788 154.177 49.6222 154.068 49.6222H148.68C148.57 49.6222 148.466 49.5788 148.388 49.5015C148.311 49.4242 148.267 49.3193 148.267 49.21V39.3746C148.267 39.2652 148.224 39.1604 148.147 39.0831C148.069 39.0058 147.965 38.9623 147.855 38.9623H139.403C139.293 38.9623 139.189 39.0058 139.111 39.0831C139.034 39.1604 138.991 39.2652 138.991 39.3746V49.21C138.99 49.3188 138.946 49.4229 138.869 49.4996C138.792 49.5763 138.687 49.6193 138.578 49.6193H133.19C133.081 49.6193 132.977 49.5763 132.899 49.4996C132.822 49.4229 132.778 49.3188 132.778 49.21V23.1889C132.778 23.0796 132.821 22.9747 132.898 22.8974C132.976 22.8201 133.081 22.7767 133.19 22.7767H138.578C138.686 22.7774 138.79 22.8203 138.867 22.8962C138.944 22.9721 138.988 23.075 138.991 23.1831V33.2202C138.991 33.3295 139.034 33.4344 139.111 33.5117C139.189 33.589 139.293 33.6324 139.403 33.6324H147.855C147.909 33.6324 147.963 33.6217 148.013 33.601C148.063 33.5803 148.108 33.5499 148.147 33.5117C148.185 33.4734 148.215 33.4279 148.236 33.3779C148.257 33.3279 148.267 33.2743 148.267 33.2202V23.1918C148.268 23.083 148.312 22.9789 148.389 22.9022C148.466 22.8255 148.571 22.7825 148.68 22.7825Z"
+                                                ></path>
+                                                <path
+                                                    d="M47.4132 20.5837C47.4132 20.1869 47.0164 19.7901 46.4597 19.6314L39.788 17.1724C38.6769 16.6963 37.4061 17.2518 37.4061 18.0465V45.9999C37.4061 46.3967 37.8029 46.8728 38.1997 47.0316L45.0302 49.4906C46.0629 49.8874 47.4132 49.3319 47.4132 48.4578V20.5837ZM34.9437 10.8159C34.9437 10.4179 34.5469 10.0211 33.9903 9.86243L27.3197 7.40342C26.2075 6.92726 24.9367 7.48278 24.9367 8.27748V25.2704C24.9367 25.6672 25.3334 26.1433 25.7302 26.3032L32.5607 28.7622C33.5935 29.1601 34.9437 28.6035 34.9437 27.7305V10.8159ZM34.9437 41.3926C34.9437 40.9958 34.5469 40.599 33.9903 40.4403L27.3197 37.9813C26.2075 37.5051 24.9367 38.0606 24.9367 38.8553V55.8482C24.9367 56.245 25.3334 56.7212 25.7302 56.8799L32.5607 59.3389C33.5935 59.7368 34.9437 59.1802 34.9437 58.3061V41.3926ZM22.4743 44.8084C22.4743 44.4116 22.0775 44.0137 21.5209 43.855L14.8502 41.3959C13.7325 40.9198 12.4672 41.4753 12.4672 42.27V60.3773C12.4672 60.7741 12.864 61.2514 13.2608 61.4101L20.0913 63.8691C21.1241 64.267 22.4743 63.7104 22.4743 62.8374V44.8084ZM22.4743 3.58747C22.4743 3.19068 22.0775 2.79388 21.5209 2.63516L14.8502 0.176148C13.7325 -0.300007 12.4672 0.255506 12.4672 1.05022V19.1575C12.4672 19.5554 12.864 20.0316 13.2608 20.1903L20.0913 22.6493C21.1241 23.0461 22.4743 22.4906 22.4743 21.6165V3.58747ZM10.0071 4.30282C10.0071 3.90603 9.61028 3.50811 9.05365 3.3494L2.38301 0.89038C1.27086 0.414225 0 0.96974 0 1.76445V59.7402C0 60.137 0.396801 60.6131 0.794714 60.7719L7.62407 63.2309C8.65685 63.6277 10.0071 63.0722 10.0071 62.1981V4.30282Z"
+                                                ></path></svg
+                                        ></a>
+                                    </div>
+                                    <div class="ui-components-erdoiv">
+                                        <a
+                                            href="/"
+                                            title="Dashlane Password Manager"
+                                            aria-label="Dashlane Password Manager"
+                                            class="ui-components-kqnria"
+                                            ><svg
+                                                role="img"
+                                                width="148"
+                                                height="39"
+                                                viewBox="0 0 243 64"
+                                                fill="#09363F"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M109.677 41.2692C109.765 44.0779 110.696 46.2804 112.469 47.8768L112.464 47.8914C114.333 49.5657 116.915 50.4029 120.209 50.4029C121.989 50.4387 123.757 50.0917 125.392 49.3854C126.798 48.7743 127.996 47.7689 128.842 46.4909C129.679 45.1838 130.106 43.6568 130.07 42.1053C130.09 40.2926 129.656 38.7587 128.769 37.5034C127.882 36.2482 126.518 35.2638 124.676 34.5505L120.22 32.7962C118.891 32.2583 117.946 31.7281 117.384 31.2057C117.116 30.9684 116.901 30.6762 116.756 30.3488C116.61 30.0214 116.536 29.6666 116.539 29.3082C116.525 28.9396 116.596 28.5726 116.749 28.2366C116.901 27.9006 117.13 27.6047 117.416 27.3727C117.989 26.8991 118.775 26.6623 119.773 26.6623C120.976 26.6642 121.896 26.9966 122.533 27.6593C123.106 28.2538 123.423 29.0831 123.483 30.1473C123.488 30.2523 123.534 30.3512 123.61 30.4236C123.686 30.496 123.787 30.5363 123.892 30.5362H129.301C129.411 30.5301 129.515 30.4811 129.589 30.3996C129.664 30.3182 129.703 30.2108 129.699 30.1006C129.669 28.6068 129.212 27.1528 128.384 25.9097C127.555 24.6666 126.388 23.6861 125.021 23.0837C123.408 22.3525 121.652 21.9919 119.881 22.0282C118.15 21.9922 116.432 22.3261 114.841 23.0076C113.484 23.5835 112.324 24.5427 111.505 25.7676C110.714 26.995 110.307 28.4302 110.335 29.8901C110.289 31.4903 110.773 33.0608 111.712 34.3575C112.632 35.5991 113.987 36.5513 115.776 37.214L120.609 39.0939C121.835 39.5676 122.685 40.0548 123.159 40.5558C123.645 41.0946 123.9 41.8039 123.866 42.5293C123.89 42.9412 123.817 43.3529 123.654 43.7319C123.491 44.111 123.243 44.4469 122.928 44.7133C122.302 45.2259 121.414 45.4822 120.264 45.4822C118.909 45.4842 117.842 45.0739 117.063 44.2514C116.347 43.5087 115.957 42.501 115.893 41.2282C115.887 41.1235 115.842 41.025 115.766 40.9527C115.689 40.8805 115.589 40.8399 115.484 40.8394H110.078C109.968 40.8439 109.864 40.8916 109.789 40.9721C109.714 41.0525 109.674 41.1592 109.677 41.2692ZM62.466 22.9003C62.3887 22.9776 62.3453 23.0825 62.3453 23.1918V49.2158C62.3461 49.3249 62.3898 49.4293 62.4669 49.5065C62.544 49.5836 62.6485 49.6273 62.7576 49.6281H72.4731C75.2584 49.6281 77.687 49.0258 79.759 47.8212C81.7709 46.6779 83.4189 44.9894 84.5129 42.9503C85.5963 40.8691 86.162 38.5574 86.162 36.2111C86.162 33.8649 85.5963 31.5531 84.5129 29.472C83.4119 27.438 81.7656 25.7512 79.759 24.6011C77.6851 23.3867 75.2564 22.7796 72.4731 22.7796H62.7576C62.6482 22.7796 62.5434 22.823 62.466 22.9003ZM76.2008 43.2748C74.9019 44.0585 73.4047 44.4513 71.8883 44.4063L68.9646 44.4004C68.8553 44.4004 68.7504 44.357 68.6731 44.2797C68.5958 44.2024 68.5524 44.0975 68.5524 43.9882V28.399C68.5524 28.2896 68.5958 28.1848 68.6731 28.1075C68.7504 28.0301 68.8553 27.9867 68.9646 27.9867H71.8883C73.4047 27.9417 74.9019 28.3345 76.2008 29.1182C77.3632 29.843 78.2896 30.8904 78.8672 32.1325C79.4481 33.4086 79.7487 34.7944 79.7487 36.1965C79.7487 37.5986 79.4481 38.9844 78.8672 40.2605C78.2906 41.5033 77.364 42.5509 76.2008 43.2748ZM157.726 22.7767H163.108C163.218 22.7767 163.322 22.8201 163.4 22.8974C163.477 22.9747 163.52 23.0796 163.52 23.1889V43.6958C163.52 43.8052 163.564 43.91 163.641 43.9873C163.719 44.0647 163.823 44.1081 163.933 44.1081H173.081C173.19 44.1089 173.294 44.1526 173.371 44.2299C173.447 44.3071 173.49 44.4115 173.49 44.5203V49.2217C173.49 49.3302 173.447 49.4343 173.37 49.5111C173.294 49.5879 173.19 49.631 173.081 49.631H157.717C157.608 49.631 157.504 49.588 157.426 49.5113C157.349 49.4346 157.305 49.3305 157.305 49.2217V23.2006C157.305 23.1465 157.315 23.0929 157.336 23.0428C157.357 22.9928 157.387 22.9474 157.425 22.9091C157.464 22.8708 157.509 22.8404 157.559 22.8197C157.609 22.799 157.663 22.7883 157.717 22.7883L157.726 22.7767ZM208.063 22.7825H202.356C202.247 22.7825 202.143 22.8255 202.066 22.9022C201.988 22.9789 201.945 23.083 201.944 23.1918V49.2129C201.944 49.267 201.955 49.3206 201.975 49.3707C201.996 49.4207 202.026 49.4661 202.065 49.5044C202.103 49.5427 202.148 49.573 202.198 49.5938C202.248 49.6145 202.302 49.6251 202.356 49.6251H207.476C207.585 49.6251 207.69 49.5817 207.767 49.5044C207.844 49.4271 207.888 49.3222 207.888 49.2129V33.8926C207.888 33.8009 207.919 33.7119 207.975 33.6396C208.031 33.5673 208.11 33.5158 208.199 33.4933C208.288 33.4708 208.382 33.4786 208.466 33.5155C208.55 33.5523 208.619 33.6161 208.663 33.6967L217.089 49.4059C217.124 49.4714 217.177 49.5263 217.24 49.5648C217.304 49.6034 217.377 49.6242 217.451 49.6251H223.158C223.268 49.6251 223.373 49.5817 223.45 49.5044C223.527 49.4271 223.571 49.3222 223.571 49.2129V23.1918C223.571 23.1378 223.56 23.0844 223.539 23.0345C223.519 22.9846 223.488 22.9394 223.45 22.9014C223.411 22.8633 223.366 22.8332 223.316 22.8128C223.266 22.7924 223.212 22.7821 223.158 22.7825H218.039C217.93 22.7825 217.826 22.8255 217.749 22.9022C217.671 22.9789 217.628 23.083 217.627 23.1918V38.5121C217.627 38.6038 217.596 38.6928 217.54 38.7652C217.483 38.8375 217.404 38.8889 217.316 38.9114C217.227 38.9339 217.133 38.9261 217.049 38.8892C216.965 38.8524 216.896 38.7886 216.852 38.708L208.426 22.9989C208.391 22.9333 208.339 22.8785 208.275 22.8403C208.211 22.8022 208.138 22.7822 208.063 22.7825ZM226.679 22.7825H242.265C242.319 22.7821 242.372 22.7924 242.422 22.8128C242.472 22.8332 242.518 22.8633 242.556 22.9014C242.595 22.9394 242.625 22.9847 242.646 23.0345C242.667 23.0844 242.677 23.1378 242.677 23.1918V27.3552C242.676 27.464 242.633 27.5681 242.555 27.6448C242.478 27.7215 242.374 27.7645 242.265 27.7645H232.889C232.779 27.7645 232.674 27.8079 232.597 27.8853C232.52 27.9626 232.476 28.0674 232.476 28.1768V33.4394C232.477 33.5483 232.521 33.6524 232.598 33.7291C232.675 33.8057 232.78 33.8488 232.889 33.8488H242.265C242.374 33.8488 242.479 33.8922 242.556 33.9695C242.634 34.0468 242.677 34.1517 242.677 34.261V38.3074C242.677 38.4168 242.634 38.5216 242.556 38.5989C242.479 38.6762 242.374 38.7197 242.265 38.7197H232.889C232.779 38.7197 232.674 38.7631 232.597 38.8404C232.52 38.9177 232.476 39.0226 232.476 39.1319V44.2133C232.476 44.3227 232.52 44.4275 232.597 44.5048C232.674 44.5822 232.779 44.6256 232.889 44.6256H242.265C242.374 44.6256 242.478 44.6686 242.555 44.7453C242.633 44.822 242.676 44.9261 242.677 45.0349V49.1983C242.677 49.3076 242.634 49.4125 242.556 49.4898C242.479 49.5671 242.374 49.6105 242.265 49.6105H226.679C226.569 49.6105 226.464 49.5671 226.387 49.4898C226.31 49.4125 226.266 49.3076 226.266 49.1983V23.1772C226.266 23.0687 226.309 22.9645 226.386 22.8878C226.463 22.811 226.567 22.7679 226.676 22.7679L226.679 22.7825ZM100.392 22.9813L109.312 49.2187V49.2129C109.318 49.2448 109.318 49.2775 109.312 49.3094C109.312 49.3869 109.281 49.4613 109.226 49.5161C109.171 49.5709 109.097 49.6017 109.02 49.6017H103.19C103.101 49.6028 103.014 49.5747 102.943 49.5219C102.872 49.4692 102.82 49.3945 102.795 49.3094L101.672 45.3331H92.7373L91.6146 49.3094C91.5893 49.3942 91.5372 49.4686 91.466 49.5213C91.3948 49.5741 91.3085 49.6023 91.2199 49.6017H85.3959C85.3629 49.6062 85.3295 49.6062 85.2965 49.6017C85.258 49.5903 85.2224 49.571 85.1917 49.5452C85.1611 49.5193 85.136 49.4875 85.1182 49.4515C85.1004 49.4156 85.0901 49.3764 85.0881 49.3364C85.0861 49.2963 85.0923 49.2563 85.1064 49.2187L93.9916 22.9813C94.0109 22.9197 94.0501 22.8662 94.1029 22.8292C94.1558 22.7922 94.2195 22.7737 94.284 22.7767H100.099C100.164 22.7737 100.227 22.7922 100.28 22.8292C100.333 22.8662 100.372 22.9197 100.392 22.9813ZM96.9241 30.5917L94.2723 39.9652L94.2518 39.9506C94.2473 39.9865 94.2473 40.0228 94.2518 40.0587C94.2518 40.1642 94.2937 40.2653 94.3683 40.3399C94.4428 40.4145 94.544 40.4564 94.6494 40.4564H99.7776C99.8135 40.462 99.85 40.462 99.8858 40.4564C99.9361 40.4422 99.9832 40.4182 100.024 40.3859C100.065 40.3535 100.1 40.3134 100.125 40.2678C100.151 40.2221 100.167 40.1719 100.173 40.12C100.179 40.0681 100.175 40.0155 100.161 39.9652L97.5088 30.5917C97.5088 30.5142 97.478 30.4398 97.4232 30.385C97.3684 30.3302 97.294 30.2994 97.2165 30.2994C97.1389 30.2994 97.0646 30.3302 97.0097 30.385C96.9549 30.4398 96.9241 30.5142 96.9241 30.5917ZM199.552 49.2187L190.635 22.9813C190.616 22.9197 190.577 22.8662 190.524 22.8292C190.471 22.7922 190.407 22.7737 190.343 22.7767H184.524C184.46 22.7737 184.396 22.7922 184.343 22.8292C184.291 22.8662 184.251 22.9197 184.232 22.9813L175.35 49.2187C175.336 49.2563 175.33 49.2963 175.332 49.3364C175.334 49.3764 175.344 49.4156 175.362 49.4515C175.379 49.4875 175.404 49.5193 175.435 49.5452C175.466 49.571 175.501 49.5903 175.54 49.6017C175.572 49.606 175.604 49.606 175.636 49.6017H181.46C181.549 49.6028 181.636 49.5747 181.707 49.5219C181.778 49.4692 181.83 49.3945 181.855 49.3094L182.981 45.3331H191.913L193.038 49.3094C193.063 49.3945 193.115 49.4692 193.187 49.5219C193.258 49.5747 193.344 49.6028 193.433 49.6017H199.257C199.335 49.6017 199.409 49.5709 199.464 49.5161C199.519 49.4613 199.549 49.3869 199.549 49.3094C199.554 49.2773 199.554 49.2449 199.549 49.2129L199.552 49.2187ZM184.51 39.9593L187.162 30.5859C187.171 30.5469 187.189 30.5104 187.213 30.4785C187.238 30.4466 187.269 30.4201 187.304 30.4007C187.339 30.3812 187.377 30.3692 187.417 30.3653C187.457 30.3615 187.498 30.3659 187.536 30.3783C187.585 30.3928 187.63 30.4194 187.666 30.4557C187.702 30.492 187.729 30.5367 187.743 30.5859L190.395 39.9593C190.424 40.0613 190.411 40.1705 190.36 40.2631C190.308 40.3558 190.222 40.4242 190.12 40.4534C190.085 40.4626 190.049 40.4675 190.012 40.4681H184.893C184.787 40.4673 184.686 40.4252 184.611 40.3509C184.537 40.2766 184.494 40.1759 184.492 40.0704C184.492 40.0327 184.498 39.9952 184.51 39.9593ZM148.68 22.7825H154.068V22.7796C154.177 22.7796 154.281 22.8226 154.359 22.8993C154.436 22.976 154.48 23.0801 154.48 23.1889V49.21C154.48 49.3193 154.437 49.4242 154.36 49.5015C154.282 49.5788 154.177 49.6222 154.068 49.6222H148.68C148.57 49.6222 148.466 49.5788 148.388 49.5015C148.311 49.4242 148.267 49.3193 148.267 49.21V39.3746C148.267 39.2652 148.224 39.1604 148.147 39.0831C148.069 39.0058 147.965 38.9623 147.855 38.9623H139.403C139.293 38.9623 139.189 39.0058 139.111 39.0831C139.034 39.1604 138.991 39.2652 138.991 39.3746V49.21C138.99 49.3188 138.946 49.4229 138.869 49.4996C138.792 49.5763 138.687 49.6193 138.578 49.6193H133.19C133.081 49.6193 132.977 49.5763 132.899 49.4996C132.822 49.4229 132.778 49.3188 132.778 49.21V23.1889C132.778 23.0796 132.821 22.9747 132.898 22.8974C132.976 22.8201 133.081 22.7767 133.19 22.7767H138.578C138.686 22.7774 138.79 22.8203 138.867 22.8962C138.944 22.9721 138.988 23.075 138.991 23.1831V33.2202C138.991 33.3295 139.034 33.4344 139.111 33.5117C139.189 33.589 139.293 33.6324 139.403 33.6324H147.855C147.909 33.6324 147.963 33.6217 148.013 33.601C148.063 33.5803 148.108 33.5499 148.147 33.5117C148.185 33.4734 148.215 33.4279 148.236 33.3779C148.257 33.3279 148.267 33.2743 148.267 33.2202V23.1918C148.268 23.083 148.312 22.9789 148.389 22.9022C148.466 22.8255 148.571 22.7825 148.68 22.7825Z"
+                                                ></path>
+                                                <path
+                                                    d="M47.4132 20.5837C47.4132 20.1869 47.0164 19.7901 46.4597 19.6314L39.788 17.1724C38.6769 16.6963 37.4061 17.2518 37.4061 18.0465V45.9999C37.4061 46.3967 37.8029 46.8728 38.1997 47.0316L45.0302 49.4906C46.0629 49.8874 47.4132 49.3319 47.4132 48.4578V20.5837ZM34.9437 10.8159C34.9437 10.4179 34.5469 10.0211 33.9903 9.86243L27.3197 7.40342C26.2075 6.92726 24.9367 7.48278 24.9367 8.27748V25.2704C24.9367 25.6672 25.3334 26.1433 25.7302 26.3032L32.5607 28.7622C33.5935 29.1601 34.9437 28.6035 34.9437 27.7305V10.8159ZM34.9437 41.3926C34.9437 40.9958 34.5469 40.599 33.9903 40.4403L27.3197 37.9813C26.2075 37.5051 24.9367 38.0606 24.9367 38.8553V55.8482C24.9367 56.245 25.3334 56.7212 25.7302 56.8799L32.5607 59.3389C33.5935 59.7368 34.9437 59.1802 34.9437 58.3061V41.3926ZM22.4743 44.8084C22.4743 44.4116 22.0775 44.0137 21.5209 43.855L14.8502 41.3959C13.7325 40.9198 12.4672 41.4753 12.4672 42.27V60.3773C12.4672 60.7741 12.864 61.2514 13.2608 61.4101L20.0913 63.8691C21.1241 64.267 22.4743 63.7104 22.4743 62.8374V44.8084ZM22.4743 3.58747C22.4743 3.19068 22.0775 2.79388 21.5209 2.63516L14.8502 0.176148C13.7325 -0.300007 12.4672 0.255506 12.4672 1.05022V19.1575C12.4672 19.5554 12.864 20.0316 13.2608 20.1903L20.0913 22.6493C21.1241 23.0461 22.4743 22.4906 22.4743 21.6165V3.58747ZM10.0071 4.30282C10.0071 3.90603 9.61028 3.50811 9.05365 3.3494L2.38301 0.89038C1.27086 0.414225 0 0.96974 0 1.76445V59.7402C0 60.137 0.396801 60.6131 0.794714 60.7719L7.62407 63.2309C8.65685 63.6277 10.0071 63.0722 10.0071 62.1981V4.30282Z"
+                                                ></path></svg
+                                        ></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </header>
+                        <main>
+                            <div role="region" class="ui-components-1xugoo2">
+                                <div class="ui-components-r7urmy">
+                                    <div class="ui-components-1b5f188"></div>
+                                    <div class="ui-components-olqq6v">
+                                        <h1 class="ui-components-1s18eih"><span>Page Not Found</span></h1>
+                                        <p class="ui-components-4j0jv5">
+                                            <span
+                                                >Hate when that happens... Go back to our homepage
+                                                instead.</span
+                                            >
+                                        </p>
+                                        <a href="/" class="ui-components-kqnria"
+                                            ><button type="button" class="ui-components-171yo9r">
+                                                <span class="ui-components-n030j2"
+                                                    ><span>Back to Home</span></span
+                                                >
+                                            </button></a
+                                        >
+                                    </div>
+                                </div>
+                            </div>
+                        </main>
+                        <footer data-cy="footer" class="ui-components-9w97fh">
+                            <div class="ui-components-1io3sxv">
+                                <div data-cy="footerSecondary" class="ui-components-ahqm2i">
+                                    <div class="ui-components-tw0d7e">
+                                        <p class="ui-components-x8gegf">
+                                            © 2023 Dashlane Inc. All rights reserved.
+                                        </p>
+                                        <p class="ui-components-vn8gsl">
+                                            Dashlane and the Dashlane logo are trademarks of Dashlane SAS,
+                                            registered in the U.S. and other countries.
+                                        </p>
+                                        <a
+                                            href="https://www.essentialaccessibility.com/dashlane?utm_source=dashlanehomepage&amp;utm_medium=iconlarge&amp;utm_term=eachannelpage&amp;utm_content=header&amp;utm_campaign=dashlane"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            data-cy="desktopFooterLinks"
+                                            title="Essential Accessibility website"
+                                            class="ui-components-1w5frb"
+                                            ><svg
+                                                viewBox="0 0 213.88 80.44"
+                                                width="107"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                                <title>Essential Accessibility Icon</title>
+                                                <rect
+                                                    fill="#bcd9ea"
+                                                    height="80.44"
+                                                    rx="40.22"
+                                                    width="106.94"
+                                                ></rect>
+                                                <rect
+                                                    fill="#bcd9ea"
+                                                    height="80.44"
+                                                    rx="40.22"
+                                                    width="106.94"
+                                                    x="106.94"
+                                                ></rect>
+                                                <circle cx="107.61" cy="40.22" fill="#fff" r="26.97"></circle>
+                                                <g fill="#103c60">
+                                                    <path
+                                                        d="m45.71 23.2a4.09 4.09 0 1 0 -4.14-4.08 4.11 4.11 0 0 0 4.14 4.08zm10.8 27.16a2.38 2.38 0 0 0 -1.61 1.75v.09a12.06 12.06 0 0 1 -7.81 7.65 11.38 11.38 0 0 1 -4.89.41 12.8 12.8 0 0 1 -6.5-3.14l-.19-.12c-.18-.17-.35-.35-.51-.53l-.45-.47-.14-.18a12.33 12.33 0 0 1 -2.19-4.19 12.93 12.93 0 0 1 -.42-5.39 12.26 12.26 0 0 1 6.2-9.14l.07-.06a2.44 2.44 0 0 0 -.53-4.65 2.27 2.27 0 0 0 -1.37.22 17.22 17.22 0 0 0 -9.2 13 17.69 17.69 0 0 0 .64 7.8 16.6 16.6 0 0 0 20.65 11.28 17 17 0 0 0 11.15-11.3 2.48 2.48 0 0 0 0-1.43 2.33 2.33 0 0 0 -2.9-1.6z"
+                                                    ></path>
+                                                    <path
+                                                        d="m75.88 53.74a1.86 1.86 0 0 0 -2.5-.67l-2.73 1.53-6.91-10.43a2.48 2.48 0 0 0 -2.11-1.28h-13v-4.13h9a2.6 2.6 0 0 0 0-5.17h-9v-5.37a2.92 2.92 0 0 0 -5.84 0v17a3 3 0 0 0 2.67 2.92 4 4 0 0 0 .6 0h15.08l6.57 9.9a2.16 2.16 0 0 0 1.34.92 1.84 1.84 0 0 0 .41.06h.06a1.82 1.82 0 0 0 .72-.12h.25l4.7-2.63a1.8 1.8 0 0 0 .69-2.53zm105.06 10.71a.44.44 0 0 1 -.44.44h-36.18a.44.44 0 0 1 -.44-.44v-13.21a.44.44 0 0 1 .44-.44h36.18a.43.43 0 0 1 .44.44zm-23.51-7.36h3.57a.39.39 0 0 0 .38-.39v-3.57a.39.39 0 0 0 -.38-.39h-3.57a.39.39 0 0 0 -.39.39v3.57a.39.39 0 0 0 .39.39m-6.78 1.28h-3.57a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.38h3.57a.38.38 0 0 0 .39-.38v-3.57a.38.38 0 0 0 -.39-.39m0-1.28h3.57a.39.39 0 0 0 .39-.39v-3.57a.39.39 0 0 0 -.39-.39h-3.57a.39.39 0 0 0 -.39.39v3.57a.39.39 0 0 0 .39.39m13.53 0h3.57a.39.39 0 0 0 .39-.39v-3.57a.39.39 0 0 0 -.39-.39h-3.57a.39.39 0 0 0 -.38.39v3.57a.39.39 0 0 0 .38.39m6.77 0h3.57a.39.39 0 0 0 .38-.39v-3.57a.39.39 0 0 0 -.38-.39h-3.52a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.39m0 1.28h-3.57a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.38h3.57a.38.38 0 0 0 .39-.38v-3.57a.38.38 0 0 0 -.39-.39m-13.53 0h-3.57a.38.38 0 0 0 -.38.39v3.57a.37.37 0 0 0 .38.38h3.57a.38.38 0 0 0 .39-.38v-3.57a.38.38 0 0 0 -.39-.39m20.3 0h-3.57a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.38h3.57a.39.39 0 0 0 .39-.38v-3.57a.39.39 0 0 0 -.39-.39m-13.53 0h-3.57a.38.38 0 0 0 -.39.39v3.57a.38.38 0 0 0 .39.38h3.57a.39.39 0 0 0 .39-.38v-3.57a.39.39 0 0 0 -.39-.39m-19.43-9.82a.36.36 0 0 0 .33.39h34.64a.37.37 0 0 0 .33-.39v-32.61a.36.36 0 0 0 -.33-.39h-34.69a.36.36 0 0 0 -.33.39zm4.69-5.78v-22a.31.31 0 0 1 .3-.32h25.52a.3.3 0 0 1 .29.32v22a.3.3 0 0 1 -.29.32h-25.57a.31.31 0 0 1 -.3-.32m54.68 37.23v-4.42h-1.59v-.91h4.26v.91h-1.59v4.42zm3.36 0v-5.33h1.62l1 3.67 1-3.67h1.62v5.33h-1v-4.18l-1.13 4.18h-1l-1.06-4.22v4.22zm-88.95-44.89-21.46-11.17c0 4.6.52 7.56 3.67 9.2l10.78 5.61zm2.81 1.46-7 3.64-13.5 7c-3.07 1.67-3.77 5.29-3.77 9.26l19.49-10.14c4.31-2.35 4.78-5.22 4.78-9.79z"
+                                                    ></path>
+                                                </g></svg
+                                        ></a>
+                                    </div>
+                                    <div class="ui-components-1wnu4po">
+                                        <div class="ui-components-qsly6v">
+                                            <button
+                                                aria-label="switch language"
+                                                data-cy="languagesBtn"
+                                                aria-describedby=""
+                                                aria-expanded="false"
+                                                tabindex="0"
+                                                class="ui-components-1jvft0j"
+                                            >
+                                                <div class="ui-components-xpxom0">
+                                                    <span>English</span
+                                                    ><svg
+                                                        width="20"
+                                                        height="20"
+                                                        viewBox="0 0 20 20"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            fill-rule="evenodd"
+                                                            clip-rule="evenodd"
+                                                            d="M10 11.5503L5.63659 6L4.5 7.00399L10 14L15.5 7.00399L14.3634 6L10 11.5503Z"
+                                                        ></path>
+                                                    </svg>
+                                                </div>
+                                            </button>
+                                        </div>
+                                        <ul class="ui-components-1fxddag">
+                                            <li class="ui-components-1iumqg">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/terms"
+                                                        title="Dashlane Terms &amp; Conditions"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Terms</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/privacy/overview"
+                                                        title="Privacy"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Privacy</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/legal"
+                                                        title="Dashlane Legal Contact Information"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Legal</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/privacy/cookiepreferences"
+                                                        title="Website Cookie Information"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Cookie Preferences</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/privacy/donotsell"
+                                                        title="Do Not Sell or Share My Personal Information Page"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span
+                                                            >Do Not Sell or Share My Personal
+                                                            Information</span
+                                                        ></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1mf7q8h">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/accessibility-statement"
+                                                        title="Accessibility Statement"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Accessibility Statement</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ui-components-6t7nxi">
+                                <div class="ui-components-ahqm2i">
+                                    <div class="ui-components-1979nfv">
+                                        <div class="ui-components-qsly6v">
+                                            <button
+                                                aria-label="switch language"
+                                                data-cy="languagesBtn"
+                                                aria-describedby=""
+                                                aria-expanded="false"
+                                                tabindex="0"
+                                                class="ui-components-1jvft0j"
+                                            >
+                                                <div class="ui-components-xpxom0">
+                                                    <span>English</span
+                                                    ><svg
+                                                        width="20"
+                                                        height="20"
+                                                        viewBox="0 0 20 20"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            fill-rule="evenodd"
+                                                            clip-rule="evenodd"
+                                                            d="M10 11.5503L5.63659 6L4.5 7.00399L10 14L15.5 7.00399L14.3634 6L10 11.5503Z"
+                                                        ></path>
+                                                    </svg>
+                                                </div>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="ui-components-tw0d7e">
+                                        <p class="ui-components-x8gegf">
+                                            © 2023 Dashlane Inc. All rights reserved.
+                                        </p>
+                                        <p class="ui-components-vn8gsl">
+                                            Dashlane and the Dashlane logo are trademarks of Dashlane SAS,
+                                            registered in the U.S. and other countries.
+                                        </p>
+                                        <a
+                                            href="https://www.essentialaccessibility.com/dashlane?utm_source=dashlanehomepage&amp;utm_medium=iconlarge&amp;utm_term=eachannelpage&amp;utm_content=header&amp;utm_campaign=dashlane"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            data-cy="desktopFooterLinks"
+                                            title="Essential Accessibility website"
+                                            class="ui-components-1w5frb"
+                                            ><svg
+                                                viewBox="0 0 213.88 80.44"
+                                                width="107"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                                <title>Essential Accessibility Icon</title>
+                                                <rect
+                                                    fill="#bcd9ea"
+                                                    height="80.44"
+                                                    rx="40.22"
+                                                    width="106.94"
+                                                ></rect>
+                                                <rect
+                                                    fill="#bcd9ea"
+                                                    height="80.44"
+                                                    rx="40.22"
+                                                    width="106.94"
+                                                    x="106.94"
+                                                ></rect>
+                                                <circle cx="107.61" cy="40.22" fill="#fff" r="26.97"></circle>
+                                                <g fill="#103c60">
+                                                    <path
+                                                        d="m45.71 23.2a4.09 4.09 0 1 0 -4.14-4.08 4.11 4.11 0 0 0 4.14 4.08zm10.8 27.16a2.38 2.38 0 0 0 -1.61 1.75v.09a12.06 12.06 0 0 1 -7.81 7.65 11.38 11.38 0 0 1 -4.89.41 12.8 12.8 0 0 1 -6.5-3.14l-.19-.12c-.18-.17-.35-.35-.51-.53l-.45-.47-.14-.18a12.33 12.33 0 0 1 -2.19-4.19 12.93 12.93 0 0 1 -.42-5.39 12.26 12.26 0 0 1 6.2-9.14l.07-.06a2.44 2.44 0 0 0 -.53-4.65 2.27 2.27 0 0 0 -1.37.22 17.22 17.22 0 0 0 -9.2 13 17.69 17.69 0 0 0 .64 7.8 16.6 16.6 0 0 0 20.65 11.28 17 17 0 0 0 11.15-11.3 2.48 2.48 0 0 0 0-1.43 2.33 2.33 0 0 0 -2.9-1.6z"
+                                                    ></path>
+                                                    <path
+                                                        d="m75.88 53.74a1.86 1.86 0 0 0 -2.5-.67l-2.73 1.53-6.91-10.43a2.48 2.48 0 0 0 -2.11-1.28h-13v-4.13h9a2.6 2.6 0 0 0 0-5.17h-9v-5.37a2.92 2.92 0 0 0 -5.84 0v17a3 3 0 0 0 2.67 2.92 4 4 0 0 0 .6 0h15.08l6.57 9.9a2.16 2.16 0 0 0 1.34.92 1.84 1.84 0 0 0 .41.06h.06a1.82 1.82 0 0 0 .72-.12h.25l4.7-2.63a1.8 1.8 0 0 0 .69-2.53zm105.06 10.71a.44.44 0 0 1 -.44.44h-36.18a.44.44 0 0 1 -.44-.44v-13.21a.44.44 0 0 1 .44-.44h36.18a.43.43 0 0 1 .44.44zm-23.51-7.36h3.57a.39.39 0 0 0 .38-.39v-3.57a.39.39 0 0 0 -.38-.39h-3.57a.39.39 0 0 0 -.39.39v3.57a.39.39 0 0 0 .39.39m-6.78 1.28h-3.57a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.38h3.57a.38.38 0 0 0 .39-.38v-3.57a.38.38 0 0 0 -.39-.39m0-1.28h3.57a.39.39 0 0 0 .39-.39v-3.57a.39.39 0 0 0 -.39-.39h-3.57a.39.39 0 0 0 -.39.39v3.57a.39.39 0 0 0 .39.39m13.53 0h3.57a.39.39 0 0 0 .39-.39v-3.57a.39.39 0 0 0 -.39-.39h-3.57a.39.39 0 0 0 -.38.39v3.57a.39.39 0 0 0 .38.39m6.77 0h3.57a.39.39 0 0 0 .38-.39v-3.57a.39.39 0 0 0 -.38-.39h-3.52a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.39m0 1.28h-3.57a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.38h3.57a.38.38 0 0 0 .39-.38v-3.57a.38.38 0 0 0 -.39-.39m-13.53 0h-3.57a.38.38 0 0 0 -.38.39v3.57a.37.37 0 0 0 .38.38h3.57a.38.38 0 0 0 .39-.38v-3.57a.38.38 0 0 0 -.39-.39m20.3 0h-3.57a.38.38 0 0 0 -.38.39v3.57a.38.38 0 0 0 .38.38h3.57a.39.39 0 0 0 .39-.38v-3.57a.39.39 0 0 0 -.39-.39m-13.53 0h-3.57a.38.38 0 0 0 -.39.39v3.57a.38.38 0 0 0 .39.38h3.57a.39.39 0 0 0 .39-.38v-3.57a.39.39 0 0 0 -.39-.39m-19.43-9.82a.36.36 0 0 0 .33.39h34.64a.37.37 0 0 0 .33-.39v-32.61a.36.36 0 0 0 -.33-.39h-34.69a.36.36 0 0 0 -.33.39zm4.69-5.78v-22a.31.31 0 0 1 .3-.32h25.52a.3.3 0 0 1 .29.32v22a.3.3 0 0 1 -.29.32h-25.57a.31.31 0 0 1 -.3-.32m54.68 37.23v-4.42h-1.59v-.91h4.26v.91h-1.59v4.42zm3.36 0v-5.33h1.62l1 3.67 1-3.67h1.62v5.33h-1v-4.18l-1.13 4.18h-1l-1.06-4.22v4.22zm-88.95-44.89-21.46-11.17c0 4.6.52 7.56 3.67 9.2l10.78 5.61zm2.81 1.46-7 3.64-13.5 7c-3.07 1.67-3.77 5.29-3.77 9.26l19.49-10.14c4.31-2.35 4.78-5.22 4.78-9.79z"
+                                                    ></path>
+                                                </g></svg
+                                        ></a>
+                                    </div>
+                                    <div class="ui-components-1wnu4po">
+                                        <ul class="ui-components-1fxddag">
+                                            <li class="ui-components-1iumqg">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/terms"
+                                                        title="Dashlane Terms &amp; Conditions"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Terms</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/privacy/overview"
+                                                        title="Privacy"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Privacy</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/legal"
+                                                        title="Dashlane Legal Contact Information"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Legal</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/privacy/cookiepreferences"
+                                                        title="Website Cookie Information"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Cookie Preferences</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1fmtuxc">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/privacy/donotsell"
+                                                        title="Do Not Sell or Share My Personal Information Page"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span
+                                                            >Do Not Sell or Share My Personal
+                                                            Information</span
+                                                        ></a
+                                                    ></span
+                                                >
+                                            </li>
+                                            <li class="ui-components-1mf7q8h">
+                                                <span class="ui-components-4zb7rj"
+                                                    ><a
+                                                        href="/accessibility-statement"
+                                                        title="Accessibility Statement"
+                                                        data-cy="desktopFooterLinks"
+                                                        class="ui-components-1q30cze"
+                                                        ><span>Accessibility Statement</span></a
+                                                    ></span
+                                                >
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script id="gatsby-script-loader">
+            /*<![CDATA[*/ window.pagePath = '/index-en/404'
+            window.___webpackCompilationHash = 'a6ba587c0dc6cd18a679' /*]]>*/</script
+        ><script id="gatsby-chunk-mapping">
+            /*<![CDATA[*/ window.___chunkMapping = {
+                polyfill: ['/polyfill-c02d00f1f02e98370f45.js'],
+                app: ['/app-b20fee40388d70d1b5a1.js'],
+                'component---src-pages-404-index-tsx': [
+                    '/component---src-pages-404-index-tsx-8370c79274dc4899231d.js'
+                ],
+                'component---src-pages-about-careers-index-tsx': [
+                    '/component---src-pages-about-careers-index-tsx-f6dbfb2879c0d346e36d.js'
+                ],
+                'component---src-pages-about-index-tsx': [
+                    '/component---src-pages-about-index-tsx-b4fe6b211af0a54d68a6.js'
+                ],
+                'component---src-pages-about-leadership-index-tsx': [
+                    '/component---src-pages-about-leadership-index-tsx-8c1792be5f3f19716415.js'
+                ],
+                'component---src-pages-accessibility-statement-index-tsx': [
+                    '/component---src-pages-accessibility-statement-index-tsx-64002cacf2a6582a7f91.js'
+                ],
+                'component---src-pages-account-delete-index-tsx': [
+                    '/component---src-pages-account-delete-index-tsx-9d54caf370cecdb9b2ea.js'
+                ],
+                'component---src-pages-account-delete-info-index-tsx': [
+                    '/component---src-pages-account-delete-info-index-tsx-afd29db681fb881b67d0.js'
+                ],
+                'component---src-pages-account-reset-index-tsx': [
+                    '/component---src-pages-account-reset-index-tsx-6bc3a233ad92b3036624.js'
+                ],
+                'component---src-pages-account-reset-info-index-tsx': [
+                    '/component---src-pages-account-reset-info-index-tsx-9470cc2de4836ad16324.js'
+                ],
+                'component---src-pages-beta-index-tsx': [
+                    '/component---src-pages-beta-index-tsx-f3b0875812cb28026102.js'
+                ],
+                'component---src-pages-beta-success-index-tsx': [
+                    '/component---src-pages-beta-success-index-tsx-e8f9d76c4000f616ec9e.js'
+                ],
+                'component---src-pages-beta-unsubscribe-index-tsx': [
+                    '/component---src-pages-beta-unsubscribe-index-tsx-e281d5fcea9c99472108.js'
+                ],
+                'component---src-pages-beta-unsubscribe-success-index-tsx': [
+                    '/component---src-pages-beta-unsubscribe-success-index-tsx-19e45d259c119b915d6a.js'
+                ],
+                'component---src-pages-business-buy-index-tsx': [
+                    '/component---src-pages-business-buy-index-tsx-c7a4975582b057380c30.js'
+                ],
+                'component---src-pages-business-buy-success-index-tsx': [
+                    '/component---src-pages-business-buy-success-index-tsx-939174a48459694a20c0.js'
+                ],
+                'component---src-pages-business-enterprise-index-tsx': [
+                    '/component---src-pages-business-enterprise-index-tsx-6007a1118e3d41aea64f.js'
+                ],
+                'component---src-pages-business-enterprise-success-index-tsx': [
+                    '/component---src-pages-business-enterprise-success-index-tsx-0694aececd7344fb9f35.js'
+                ],
+                'component---src-pages-business-faq-index-tsx': [
+                    '/component---src-pages-business-faq-index-tsx-5dbb07666f3602294b9d.js'
+                ],
+                'component---src-pages-business-index-tsx': [
+                    '/component---src-pages-business-index-tsx-453db51faf5e010e11d6.js'
+                ],
+                'component---src-pages-business-invitation-index-tsx': [
+                    '/component---src-pages-business-invitation-index-tsx-38366664fd595c9ef017.js'
+                ],
+                'component---src-pages-business-request-demo-index-tsx': [
+                    '/component---src-pages-business-request-demo-index-tsx-f6ca6184a59fc6b8d409.js'
+                ],
+                'component---src-pages-business-request-demo-success-index-tsx': [
+                    '/component---src-pages-business-request-demo-success-index-tsx-c13a9127edf01467921d.js'
+                ],
+                'component---src-pages-business-secure-index-tsx': [
+                    '/component---src-pages-business-secure-index-tsx-73ecb3125bcd5d5102a0.js'
+                ],
+                'component---src-pages-business-try-failed-index-tsx': [
+                    '/component---src-pages-business-try-failed-index-tsx-8c9f540b42cba2c5c871.js'
+                ],
+                'component---src-pages-business-try-index-tsx': [
+                    '/component---src-pages-business-try-index-tsx-41d3fb68ce9e46422c7a.js'
+                ],
+                'component---src-pages-business-try-success-index-tsx': [
+                    '/component---src-pages-business-try-success-index-tsx-c2161881cbbf4add960b.js'
+                ],
+                'component---src-pages-csa-index-tsx': [
+                    '/component---src-pages-csa-index-tsx-1bb91c68236402a451a0.js'
+                ],
+                'component---src-pages-darkwebinsights-index-tsx': [
+                    '/component---src-pages-darkwebinsights-index-tsx-8f405f4eb690e8535997.js'
+                ],
+                'component---src-pages-developers-index-tsx': [
+                    '/component---src-pages-developers-index-tsx-e43a7dc4542ead6686cb.js'
+                ],
+                'component---src-pages-download-dashlane-index-tsx': [
+                    '/component---src-pages-download-dashlane-index-tsx-e7c12b825d9c366ab4a3.js'
+                ],
+                'component---src-pages-download-index-tsx': [
+                    '/component---src-pages-download-index-tsx-c74e3d7d563422fac5e0.js'
+                ],
+                'component---src-pages-download-saex-index-tsx': [
+                    '/component---src-pages-download-saex-index-tsx-3d79b280b03a18fb6969.js'
+                ],
+                'component---src-pages-email-unsub-index-tsx': [
+                    '/component---src-pages-email-unsub-index-tsx-f47115c81a3f2be79af3.js'
+                ],
+                'component---src-pages-extension-analytics-index-tsx': [
+                    '/component---src-pages-extension-analytics-index-tsx-809dca15237a6bd85905.js'
+                ],
+                'component---src-pages-family-password-manager-index-tsx': [
+                    '/component---src-pages-family-password-manager-index-tsx-f7fdf0567954ff617cda.js'
+                ],
+                'component---src-pages-features-autofill-index-tsx': [
+                    '/component---src-pages-features-autofill-index-tsx-595609edde13a8ee2a8e.js'
+                ],
+                'component---src-pages-features-digital-wallet-index-tsx': [
+                    '/component---src-pages-features-digital-wallet-index-tsx-e2f61290fe6d6c4bb6c7.js'
+                ],
+                'component---src-pages-features-index-tsx': [
+                    '/component---src-pages-features-index-tsx-1542ae084e293b2c0173.js'
+                ],
+                'component---src-pages-features-password-generator-index-tsx': [
+                    '/component---src-pages-features-password-generator-index-tsx-aab06f9f49fedc2de4c4.js'
+                ],
+                'component---src-pages-features-security-alerts-index-tsx': [
+                    '/component---src-pages-features-security-alerts-index-tsx-6c923773ce93913ce336.js'
+                ],
+                'component---src-pages-gettingstarted-try-autofill-data-index-tsx': [
+                    '/component---src-pages-gettingstarted-try-autofill-data-index-tsx-ba5e0e6234c221c41c44.js'
+                ],
+                'component---src-pages-gettingstarted-try-autofill-demo-index-tsx': [
+                    '/component---src-pages-gettingstarted-try-autofill-demo-index-tsx-d58aa8c2a4aabe6c519c.js'
+                ],
+                'component---src-pages-gettingstarted-try-autofill-save-index-tsx': [
+                    '/component---src-pages-gettingstarted-try-autofill-save-index-tsx-553ce4a1fb87ea731baa.js'
+                ],
+                'component---src-pages-home-index-tsx': [
+                    '/component---src-pages-home-index-tsx-c0ff11c4e7106802a281.js'
+                ],
+                'component---src-pages-legal-index-tsx': [
+                    '/component---src-pages-legal-index-tsx-b85641c7cfcd6408abdb.js'
+                ],
+                'component---src-pages-lp-affv-2-index-tsx': [
+                    '/component---src-pages-lp-affv-2-index-tsx-3f74cb58e411b7730c5b.js'
+                ],
+                'component---src-pages-lp-ancdy-index-tsx': [
+                    '/component---src-pages-lp-ancdy-index-tsx-ee678535702c9c9d3e00.js'
+                ],
+                'component---src-pages-lp-b-2-b-2-c-index-tsx': [
+                    '/component---src-pages-lp-b-2-b-2-c-index-tsx-5ddd690d197e23fa3cb2.js'
+                ],
+                'component---src-pages-lp-security-made-simple-index-tsx': [
+                    '/component---src-pages-lp-security-made-simple-index-tsx-7d1ee04af07a6c786c0f.js'
+                ],
+                'component---src-pages-marketing-vpn-index-tsx': [
+                    '/component---src-pages-marketing-vpn-index-tsx-65609c9023f4b382eb46.js'
+                ],
+                'component---src-pages-otpphonelost-codes-index-tsx': [
+                    '/component---src-pages-otpphonelost-codes-index-tsx-c552adb4d041ba1a1fd0.js'
+                ],
+                'component---src-pages-otpphonelost-success-index-tsx': [
+                    '/component---src-pages-otpphonelost-success-index-tsx-efc0ead10e3d3f1d7ce3.js'
+                ],
+                'component---src-pages-partnerships-affiliates-index-tsx': [
+                    '/component---src-pages-partnerships-affiliates-index-tsx-fbd744ef8f3c6ce9c12d.js'
+                ],
+                'component---src-pages-partnerships-amex-index-tsx': [
+                    '/component---src-pages-partnerships-amex-index-tsx-ed9733100c6d21af8050.js'
+                ],
+                'component---src-pages-partnerships-bcg-index-tsx': [
+                    '/component---src-pages-partnerships-bcg-index-tsx-e1497efdd82d03ed7d10.js'
+                ],
+                'component---src-pages-partnerships-bvu-index-tsx': [
+                    '/component---src-pages-partnerships-bvu-index-tsx-96077d5616c4ce43a154.js'
+                ],
+                'component---src-pages-partnerships-cognex-index-tsx': [
+                    '/component---src-pages-partnerships-cognex-index-tsx-0e8114367add82187947.js'
+                ],
+                'component---src-pages-partnerships-dxc-index-tsx': [
+                    '/component---src-pages-partnerships-dxc-index-tsx-f94ca88bc05dff37ed3c.js'
+                ],
+                'component---src-pages-partnerships-email-confirmation-index-tsx': [
+                    '/component---src-pages-partnerships-email-confirmation-index-tsx-a6d808a7e00498e9f73b.js'
+                ],
+                'component---src-pages-partnerships-influencers-index-tsx': [
+                    '/component---src-pages-partnerships-influencers-index-tsx-afc88d12ee086beb7c46.js'
+                ],
+                'component---src-pages-partnerships-mcc-index-tsx': [
+                    '/component---src-pages-partnerships-mcc-index-tsx-d6373caece2243f7dbe6.js'
+                ],
+                'component---src-pages-partnerships-oem-index-tsx': [
+                    '/component---src-pages-partnerships-oem-index-tsx-3b8bce64cc20bfef8cd5.js'
+                ],
+                'component---src-pages-partnerships-stanford-index-tsx': [
+                    '/component---src-pages-partnerships-stanford-index-tsx-24556f7a3e4bbb06deb2.js'
+                ],
+                'component---src-pages-partnerships-success-index-tsx': [
+                    '/component---src-pages-partnerships-success-index-tsx-ed38a936009a976318dd.js'
+                ],
+                'component---src-pages-partnerships-vu-index-tsx': [
+                    '/component---src-pages-partnerships-vu-index-tsx-c2267220901d9cf732a2.js'
+                ],
+                'component---src-pages-partnerships-wssu-index-tsx': [
+                    '/component---src-pages-partnerships-wssu-index-tsx-3e990283889d7da44cfe.js'
+                ],
+                'component---src-pages-payment-index-tsx': [
+                    '/component---src-pages-payment-index-tsx-cfba97169ff430b655b2.js'
+                ],
+                'component---src-pages-pricing-index-tsx': [
+                    '/component---src-pages-pricing-index-tsx-5777bd2ae02cc2181741.js'
+                ],
+                'component---src-pages-privacy-cookiepolicy-index-tsx': [
+                    '/component---src-pages-privacy-cookiepolicy-index-tsx-88d004f9420920a90e9e.js'
+                ],
+                'component---src-pages-privacy-cookiepreferences-index-tsx': [
+                    '/component---src-pages-privacy-cookiepreferences-index-tsx-ca384359bc0ee223c30c.js'
+                ],
+                'component---src-pages-privacy-donotsell-index-tsx': [
+                    '/component---src-pages-privacy-donotsell-index-tsx-bfe9fb205f46d1cc3e34.js'
+                ],
+                'component---src-pages-privacy-index-tsx': [
+                    '/component---src-pages-privacy-index-tsx-a3cfc27f1aa8563ca7a9.js'
+                ],
+                'component---src-pages-privacy-overview-index-tsx': [
+                    '/component---src-pages-privacy-overview-index-tsx-dd1198e6d8c01aa40845.js'
+                ],
+                'component---src-pages-privacy-rights-index-tsx': [
+                    '/component---src-pages-privacy-rights-index-tsx-57dfdbb9635574bd3756.js'
+                ],
+                'component---src-pages-privacy-settings-index-tsx': [
+                    '/component---src-pages-privacy-settings-index-tsx-a196f2d0ca84c48c606b.js'
+                ],
+                'component---src-pages-privacy-subprocessor-index-tsx': [
+                    '/component---src-pages-privacy-subprocessor-index-tsx-a4e0a9dabe4578a6bd8d.js'
+                ],
+                'component---src-pages-product-credit-monitoring-index-tsx': [
+                    '/component---src-pages-product-credit-monitoring-index-tsx-b039b06194430d11df8f.js'
+                ],
+                'component---src-pages-product-darkweb-deactivate-index-tsx': [
+                    '/component---src-pages-product-darkweb-deactivate-index-tsx-7e3303f47daa87591fb4.js'
+                ],
+                'component---src-pages-product-darkweb-index-tsx': [
+                    '/component---src-pages-product-darkweb-index-tsx-442779210f429eb63b84.js'
+                ],
+                'component---src-pages-product-forgot-master-password-index-tsx': [
+                    '/component---src-pages-product-forgot-master-password-index-tsx-8f6dc6685b51677b356c.js'
+                ],
+                'component---src-pages-referral-index-tsx': [
+                    '/component---src-pages-referral-index-tsx-6a67000408ccddde359d.js'
+                ],
+                'component---src-pages-referral-invite-index-tsx': [
+                    '/component---src-pages-referral-invite-index-tsx-993637ccedea0de2e613.js'
+                ],
+                'component---src-pages-resources-index-tsx': [
+                    '/component---src-pages-resources-index-tsx-129d0a239416873b7ebf.js'
+                ],
+                'component---src-pages-resources-search-index-tsx': [
+                    '/component---src-pages-resources-search-index-tsx-3d6d1d86f04420752acc.js'
+                ],
+                'component---src-pages-security-index-tsx': [
+                    '/component---src-pages-security-index-tsx-5ee1a5e79589d976811e.js'
+                ],
+                'component---src-pages-security-researchers-index-tsx': [
+                    '/component---src-pages-security-researchers-index-tsx-9f1ebb723275f129acf6.js'
+                ],
+                'component---src-pages-securitymadesimple-index-tsx': [
+                    '/component---src-pages-securitymadesimple-index-tsx-b22395da362aa5b08459.js'
+                ],
+                'component---src-pages-starter-plan-index-tsx': [
+                    '/component---src-pages-starter-plan-index-tsx-40f1e4af3a8f53bd4d4c.js'
+                ],
+                'component---src-pages-startups-index-tsx': [
+                    '/component---src-pages-startups-index-tsx-fc3c8476df86290ee9a0.js'
+                ],
+                'component---src-pages-terms-affiliates-index-tsx': [
+                    '/component---src-pages-terms-affiliates-index-tsx-d2cf1a2689a07f1740ec.js'
+                ],
+                'component---src-pages-terms-business-dpa-index-tsx': [
+                    '/component---src-pages-terms-business-dpa-index-tsx-2a758277258f8e621f66.js'
+                ],
+                'component---src-pages-terms-business-index-tsx': [
+                    '/component---src-pages-terms-business-index-tsx-34f11b5efca668039a73.js'
+                ],
+                'component---src-pages-terms-family-plan-index-tsx': [
+                    '/component---src-pages-terms-family-plan-index-tsx-62ce497c42485857595c.js'
+                ],
+                'component---src-pages-terms-identity-theft-insurance-index-tsx': [
+                    '/component---src-pages-terms-identity-theft-insurance-index-tsx-f9ba70ca0f65a2bf4ab6.js'
+                ],
+                'component---src-pages-terms-index-tsx': [
+                    '/component---src-pages-terms-index-tsx-5fb65e2c6e3b8615c01c.js'
+                ],
+                'component---src-pages-terms-influencers-index-tsx': [
+                    '/component---src-pages-terms-influencers-index-tsx-eb79ff46bb06a7f92262.js'
+                ],
+                'component---src-pages-ul-index-tsx': [
+                    '/component---src-pages-ul-index-tsx-cc196a79814e55f6e328.js'
+                ],
+                'component---src-pages-ul-login-index-tsx': [
+                    '/component---src-pages-ul-login-index-tsx-ea334625cabb4cfb3c0b.js'
+                ],
+                'component---src-pages-uninstall-index-tsx': [
+                    '/component---src-pages-uninstall-index-tsx-8668454dc1e988a0c6bd.js'
+                ],
+                'component---src-pages-webapp-blocked-index-tsx': [
+                    '/component---src-pages-webapp-blocked-index-tsx-3b86b78ab7dc8e58bb18.js'
+                ],
+                'component---src-pages-website-blocked-index-tsx': [
+                    '/component---src-pages-website-blocked-index-tsx-1168bfa3ca144812c52d.js'
+                ],
+                'component---src-templates-b-2-b-resource-index-tsx': [
+                    '/component---src-templates-b-2-b-resource-index-tsx-7323c436151175325a98.js'
+                ],
+                'component---src-templates-landing-pages-affiliate-index-tsx': [
+                    '/component---src-templates-landing-pages-affiliate-index-tsx-2cce4f25514a64b26fa2.js'
+                ],
+                'component---src-templates-landing-pages-affiliate-premium-index-tsx': [
+                    '/component---src-templates-landing-pages-affiliate-premium-index-tsx-e0f8cec47829c3510039.js'
+                ],
+                'component---src-templates-landing-pages-b-2-b-index-tsx': [
+                    '/component---src-templates-landing-pages-b-2-b-index-tsx-76bb063a0686de1e2474.js'
+                ],
+                'component---src-templates-landing-pages-base-index-tsx': [
+                    '/component---src-templates-landing-pages-base-index-tsx-5ff849478b226fab9ae2.js'
+                ],
+                'component---src-templates-landing-pages-business-try-index-tsx': [
+                    '/component---src-templates-landing-pages-business-try-index-tsx-8a5e72763dbcda343a84.js'
+                ],
+                'component---src-templates-landing-pages-holiday-promo-index-tsx': [
+                    '/component---src-templates-landing-pages-holiday-promo-index-tsx-86903fbbd7e3b9304491.js'
+                ],
+                'component---src-templates-landing-pages-influencers-v-2-index-tsx': [
+                    '/component---src-templates-landing-pages-influencers-v-2-index-tsx-0554845fd20e5ee82ba6.js'
+                ],
+                'component---src-templates-landing-pages-special-offers-index-tsx': [
+                    '/component---src-templates-landing-pages-special-offers-index-tsx-c0bec06630b3e2f024e0.js'
+                ]
+            } /*]]>*/</script
+        ><script
+            src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/polyfill-c02d00f1f02e98370f45.js"
+            nomodule=""
+        ></script
+        ><script
+            src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/app-b20fee40388d70d1b5a1.js"
+            async=""
+        ></script
+        ><script
+            src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/99630c52-5c2be71f207637ddca37.js"
+            async=""
+        ></script
+        ><script
+            src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/framework-4e5cfb164d14a06e0847.js"
+            async=""
+        ></script
+        ><script
+            src="https://d38muu3h4xeqr1.cloudfront.net/website/static/undefined/webpack-runtime-3557376566a414e2907e.js"
+            async=""
+        ></script>
+    </body>
+</html>

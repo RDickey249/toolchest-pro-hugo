@@ -90,13 +90,13 @@ find content/categories -maxdepth 1 -type d -exec test ! -f {}/_index.md \; -pri
 3. ✅ Create dynamic meta descriptions with keyword optimization
 4. ✅ Enhanced robots.txt with sitemap directives
 5. ✅ Fix remaining bloated content in timetastic.md
-6. ✅ Logo-capture process implementation
+6. ❌ Logo-capture process (DEPRECATED - focus on content polishing only)
 
 #### **Priority 2: Core User Experience (Week 2)**
 1. ✅ Add search functionality with autocomplete
 2. ✅ Implement filtering system (price, category, rating)
 3. ❌ Create tool comparison tables (PREMIUM FEATURE - DO NOT IMPLEMENT)
-4. ⏳ Add real logos for top 100 tools using logo-capture process
+4. ❌ Add real logos for tools (DEPRECATED - focus on content polishing only)
 5. ⏳ Mobile UX optimization
 
 ### **PHASE 2: ENGAGEMENT AMPLIFICATION (Weeks 3-6)**
@@ -132,11 +132,11 @@ Replace current basic version with:
 - Crawl-delay optimization
 - Admin directory restrictions
 
-#### **4. Logo-Capture Process**
-- Implement capture workflow for tool logo replacement
-- Optimize images for web performance
-- Update frontmatter during all tool edits
-- Eliminate 1,122 placeholder images systematically
+#### **4. Logo-Capture Process (DEPRECATED)**
+- ❌ Logo acquisition removed from scope due to time constraints
+- Focus exclusively on content enhancement
+- Placeholder images will remain until post-launch phase
+- All effort directed to polishing content to 2,400+ characters
 
 #### **5. Search Functionality Implementation ✅ COMPLETED**
 **Files Created:**
@@ -223,32 +223,22 @@ Before making ANY changes, read these files:
 - Commit working state before starting
 - Test changes locally before pushing
 
-### **RULE #7: LOGO-CAPTURE PROCESS** 🎨
-**WHEN EDITING ANY TOOL, IMPLEMENT LOGO-CAPTURE TO ELIMINATE PLACEHOLDERS:**
+### **RULE #7: LOGO ACQUISITION - DEPRECATED** 🎨
+**⚠️ LOGO ACQUISITION HAS BEEN DISCONTINUED DUE TO TIME CONSTRAINTS**
 
-1. **Identify tool's official website** from content
-2. **Capture logo** using one of these methods:
-   - Direct download from `/favicon.ico` or `/logo.png`
-   - Screenshot of logo section from homepage
-   - Extract from social media profiles/press kits
-3. **Optimize image**: 
-   - Resize to 400x400px maximum
-   - Convert to optimized JPG/PNG format
-   - Save as `/static/images/tools/[tool-slug].jpg`
-4. **Update markdown file**:
-   - Change `image: "/images/tools/[tool]-placeholder.jpg"`
-   - To `image: "/images/tools/[tool-slug].jpg"`
-5. **Verify logo displays correctly** in build
+**CRITICAL UPDATE (August 2025):** Logo acquisition has been removed from the content polishing process as it was taking too much time and delaying the launch. The site is already far past its target launch date.
 
-**This process eliminates placeholder images AS WE GO while making other improvements.**
+**DO NOT:**
+- Attempt to download favicons or logos
+- Update image fields in frontmatter
+- Spend any time on logo acquisition
 
-#### **LOGO CAPTURE PRIORITY SYSTEM:**
-1. **Priority 1**: Affiliate tools on featured homepage (highest revenue impact)
-2. **Priority 2**: Tools in highly-weighted categories (traffic generators) 
-3. **Priority 3**: Remaining tools by category size (largest categories first)
-4. **Priority 4**: Smallest categories get logos last
+**FOCUS ONLY ON:**
+- Content enhancement to 2,400+ characters
+- Adding all required sections (Key Features, Pros/Cons, Get Started, How It Compares)
+- Maintaining SEO-optimized, benefit-focused writing
 
-**PREVENT CYCLICAL ISSUE:** This prioritization system ensures revenue-generating tools get visual enhancement first, maximizing affiliate conversion potential.
+**NOTE:** Logo acquisition may be revisited post-launch as a separate optimization phase, but is NOT part of the current content polishing campaign.
 
 ### **RULE #8: DIRECTORY STRUCTURE INTEGRITY** 🏗️
 **PERMANENT SOLUTION - NO MORE BANDAID FIXES:**
