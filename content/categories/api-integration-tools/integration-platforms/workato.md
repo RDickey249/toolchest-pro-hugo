@@ -1,8 +1,8 @@
 ---
 title: "Workato"
 tagline: "Enterprise automation"
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "Workato"
 deployment_status: "deployed"

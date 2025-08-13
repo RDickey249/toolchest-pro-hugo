@@ -1,8 +1,8 @@
 ---
 title: "Kapwing"
 tagline: "Ready to get started? Visit Kapwing to explore the platform and begin using t..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Kapwing"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Kapwing democratizes creative content production with an all-in-one platform tha
 
 ## Get Started with Kapwing
 
-Ready to get started? Visit [Kapwing](https://www.kapwing.com) to explore the platform and begin using this tool.
+Ready to explore Kapwing? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

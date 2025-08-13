@@ -1,8 +1,8 @@
 ---
 title: "Usabilla"
 tagline: "Voice of Customer feedback for websites and apps"
-category: "Research & Survey Tools"
-categories: ["Research & Survey Tools"]
+category: "📊 Research & Survey Tools"
+categories: ["📊 Research & Survey Tools"]
 subcategory: "User Research Testing"
 tool_name: "Usabilla"
 deployment_status: "deployed"

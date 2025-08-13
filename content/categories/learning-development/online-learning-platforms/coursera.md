@@ -1,8 +1,8 @@
 ---
 title: "Coursera - University courses online"
 tagline: "Learn from top universities and companies worldwide"
-category: "Learning & Development"
-categories: ["Learning & Development"]
+category: "🎓 Learning & Development"
+categories: ["🎓 Learning & Development"]
 subcategory: "Online Learning Platforms"
 tool_name: "Coursera - University courses online"
 deployment_status: "deployed"

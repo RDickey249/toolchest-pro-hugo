@@ -1,8 +1,8 @@
 ---
 title: "Resemble.ai"
 tagline: "Build enterprise voice AI solutions with custom cloning. Visit resemble.ai to..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Resemble.ai"
 deployment_status: "deployed"

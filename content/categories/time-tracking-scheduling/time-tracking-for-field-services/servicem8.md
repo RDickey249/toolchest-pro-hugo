@@ -41,4 +41,4 @@ Used by thousands of service businesses including HVAC, plumbing, electrical, an
 • Advanced features may require significant setup time for optimal field service coordination and comprehensive operational management implementation
 ## Get Started with ServiceM8
 
-Ready to get started? Visit [ServiceM8](https://servicem8.com) to explore the platform and begin using this tool.
+Ready to explore ServiceM8? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

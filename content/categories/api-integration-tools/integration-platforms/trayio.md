@@ -1,8 +1,8 @@
 ---
 title: "Tray.io"
 tagline: "iPaaS platform"
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "Tray.io"
 deployment_status: "deployed"

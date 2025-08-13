@@ -42,7 +42,7 @@ Used by content marketers and SEO professionals worldwide, Surfer SEO offers con
 
 ## Get Started with Surfer SEO
 
-Ready to get started? Visit [Surfer SEO](https://surferseo.com) to explore the platform and begin using this tool.
+Ready to explore Surfer SEO? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

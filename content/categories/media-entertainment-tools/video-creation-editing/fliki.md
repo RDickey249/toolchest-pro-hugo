@@ -1,8 +1,8 @@
 ---
 title: "Fliki"
 tagline: "Ready to get started? Visit Fliki to explore the platform and begin using thi..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Fliki"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Fliki transforms written content into engaging videos with lifelike AI voices, r
 
 ## Get Started with Fliki
 
-Ready to get started? Visit [Fliki](https://fliki.ai) to explore the platform and begin using this tool.
+Ready to explore Fliki? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -42,7 +42,7 @@ Used by busy professionals and entrepreneurs, Motion offers AI scheduling, calen
 
 ## Get Started with Motion
 
-Ready to get started? Visit [Motion](https://usemotion.com) to explore the platform and begin using this tool.
+Ready to explore Motion? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

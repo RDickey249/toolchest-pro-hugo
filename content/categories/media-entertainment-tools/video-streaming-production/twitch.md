@@ -1,8 +1,8 @@
 ---
 title: "Twitch"
 tagline: "Leading live streaming platform for gaming and creative content"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Streaming Production"
 tool_name: "Twitch"
 deployment_status: "deployed"
@@ -82,4 +82,4 @@ Beyond gaming, Twitch has become the premier destination for creative content in
 
 ## Get Started with Twitch
 
-Ready to get started? Visit [Twitch](https://www.twitch.tv) to explore the platform and begin using this tool.
+Ready to explore Twitch? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

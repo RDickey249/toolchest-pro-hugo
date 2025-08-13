@@ -61,4 +61,4 @@ LiquidPlanner eliminates the fiction of traditional project schedules. Instead o
 
 ## Get Started with LiquidPlanner
 
-Ready to get started? Visit [LiquidPlanner](https://www.liquidplanner.com) to explore the platform and begin using this tool.
+Ready to explore LiquidPlanner? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

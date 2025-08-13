@@ -41,4 +41,4 @@ Used by distributed companies worldwide, Insightful helps remote managers unders
 • Advanced analytics features may require significant configuration time for optimal remote team intelligence and workforce coordination implementation
 ## Get Started with Insightful (Remote)
 
-Ready to get started? Visit [Insightful (Remote)](https://insightful(remote).com) to explore the platform and begin using this tool.
+Ready to explore Insightful (Remote)? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

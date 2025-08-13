@@ -44,7 +44,7 @@ Perfect for sales teams analyzing performance metrics, marketing teams understan
 
 ## Get Started with Polymer
 
-Ready to get started? Visit [Polymer](https://www.polymersearch.com) to explore the platform and begin using this tool.
+Ready to explore Polymer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

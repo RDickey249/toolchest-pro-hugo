@@ -45,4 +45,4 @@ The platform is perfect for independent freelancers, small agencies, and consult
 
 ## Get Started with Paydirt
 
-Ready to get started? Visit [Paydirt](https://paydirtapp.com/) to explore the platform and begin using this tool.
+Ready to explore Paydirt? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -40,7 +40,7 @@ ClickUp Brain transforms project management by integrating artificial intelligen
 
 ## Get Started with ClickUp Brain
 
-Ready to get started? Visit [ClickUp Brain](https://clickup.com/ai) to explore the platform and begin using this tool.
+Ready to explore ClickUp Brain? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

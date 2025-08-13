@@ -1,8 +1,8 @@
 ---
 title: "Tome"
 tagline: "Create compelling presentations with AI-powered storytelling. Visit tome.app ..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Presentation Tools"
 tool_name: "Tome"
 deployment_status: "deployed"

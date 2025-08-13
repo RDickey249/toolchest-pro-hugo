@@ -40,7 +40,7 @@ Microsoft Copilot represents a paradigm shift in productivity software, embeddin
 
 ## Get Started with Microsoft Copilot
 
-Ready to get started? Visit [Microsoft Copilot](https://copilot.microsoft.com) to explore the platform and begin using this tool.
+Ready to explore Microsoft Copilot? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

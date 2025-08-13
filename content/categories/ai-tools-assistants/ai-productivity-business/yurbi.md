@@ -44,7 +44,7 @@ Yurbi eliminates traditional data analysis bottlenecks by enabling business user
 
 ## Get Started with Yurbi
 
-Ready to get started? Visit [Yurbi](https://www.yurbi.com) to explore the platform and begin using this tool.
+Ready to explore Yurbi? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -41,4 +41,4 @@ Used by consultants, attorneys, and professional services firms worldwide, Bill4
 • Advanced features may require significant setup time for optimal professional practice coordination and specialized client management implementation
 ## Get Started with Bill4Time
 
-Ready to get started? Visit [Bill4Time](https://bill4time.com) to explore the platform and begin using this tool.
+Ready to explore Bill4Time? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -42,4 +42,4 @@ Used by construction companies, contractors, and field service teams nationwide,
 
 ## Get Started with ClockShark
 
-Ready to get started? Visit [ClockShark](https://www.clockshark.com) to explore the platform and begin using this tool.
+Ready to explore ClockShark? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

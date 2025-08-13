@@ -1,8 +1,8 @@
 ---
 title: "Paw"
 tagline: "Advanced API testing tool for macOS with dynamic values"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Api Testing Tools"
 tool_name: "Paw"
 deployment_status: "deployed"

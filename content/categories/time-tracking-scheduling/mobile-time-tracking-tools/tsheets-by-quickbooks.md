@@ -42,4 +42,4 @@ Used by over 40,000 businesses including construction companies, service provide
 
 ## Get Started with TSheets by QuickBooks
 
-Ready to get started? Visit [TSheets](https://quickbooks.intuit.com/time-tracking) to explore the platform and begin using this tool.
+Ready to explore TSheets by QuickBooks? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

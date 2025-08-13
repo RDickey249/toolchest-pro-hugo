@@ -40,4 +40,4 @@ TimeClock Plus delivers enterprise-level time and attendance management through 
 
 ## Get Started with TimeClock Plus
 
-Ready to get started? Visit [TimeClock Plus](https://www.timeclockplus.com) to explore the platform and begin using this tool.
+Ready to explore TimeClock Plus? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

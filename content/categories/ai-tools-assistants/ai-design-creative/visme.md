@@ -42,7 +42,7 @@ Used by businesses, educators, and content creators worldwide, Visme offers thou
 
 ## Get Started with Visme
 
-Ready to get started? Visit [Visme](https://www.visme.co) to explore the platform and begin using this tool.
+Ready to explore Visme? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

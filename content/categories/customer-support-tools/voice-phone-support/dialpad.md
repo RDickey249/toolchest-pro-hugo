@@ -1,8 +1,8 @@
 ---
 title: "Dialpad"
 tagline: "AI-powered business communications platform"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Voice Phone Support"
 tool_name: "Dialpad"
 deployment_status: "deployed"

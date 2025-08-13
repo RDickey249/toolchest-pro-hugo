@@ -1,16 +1,14 @@
 ---
 title: "Omnisend"
 tagline: "E-commerce email & SMS marketing"
-category: "Marketing & Social Media"
+category: "📢 Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "Omnisend"
 deployment_status: "deployed"
 image: "/images/tools/omnisend-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
-categories: ["Marketing & Social Media"]
+categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
-affiliate: true
-featured: true
 external_link: "https://www.omnisend.com"
 ---
 Omnisend is the marketing automation platform built specifically for e-commerce businesses that want to increase sales through email and SMS marketing.
@@ -52,10 +50,7 @@ Unlike generic email tools, Omnisend is designed around e-commerce workflows and
 Trusted by over 100,000 e-commerce businesses to automate their marketing and increase revenue through targeted, personalized campaigns.
 
 
-## Affiliate Disclosure
-
-**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Omnisend
 
-Ready to get started? Visit [Omnisend](https://www.omnisend.com) to explore the platform and begin using this tool.
+Ready to explore Omnisend? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

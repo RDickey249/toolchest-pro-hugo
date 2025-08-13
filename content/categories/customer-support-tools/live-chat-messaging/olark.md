@@ -1,8 +1,8 @@
 ---
 title: "Olark"
 tagline: "Simple and powerful live chat for your website"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat Messaging"
 tool_name: "Olark"
 deployment_status: "deployed"

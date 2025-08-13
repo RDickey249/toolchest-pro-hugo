@@ -40,7 +40,7 @@ ConvertCart transforms abandoned cart recovery by using AI-powered personalizati
 
 ## Get Started with ConvertCart
 
-Ready to get started? Visit [ConvertCart](https://www.convertcart.com) to explore the platform and begin using this tool.
+Ready to explore ConvertCart? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

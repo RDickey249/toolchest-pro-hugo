@@ -40,7 +40,7 @@ Zendesk AI revolutionizes customer service by integrating advanced artificial in
 
 ## Get Started with Zendesk AI
 
-Ready to get started? Visit [Zendesk AI](https://www.zendesk.com/solutions/ai) to explore the platform and begin using this tool.
+Ready to explore Zendesk AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -42,7 +42,7 @@ Used by knowledge workers, researchers, and writers, Mem offers smart search, co
 
 ## Get Started with Mem
 
-Ready to get started? Visit [Mem](https://mem.ai) to explore the platform and begin using this tool.
+Ready to explore Mem? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

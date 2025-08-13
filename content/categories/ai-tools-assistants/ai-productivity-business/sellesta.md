@@ -42,7 +42,7 @@ Used by Amazon sellers, private label brands, and marketplace agencies, Sellesta
 
 ## Get Started with Sellesta
 
-Ready to get started? Visit [Sellesta](https://www.sellesta.com) to explore the platform and begin using this tool.
+Ready to explore Sellesta? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

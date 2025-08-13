@@ -1,8 +1,8 @@
 ---
 title: "Auphonic"
 tagline: "Automate professional audio post-production. Visit auphonic.com to start opti..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Auphonic"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Lovo.ai"
 tagline: "Create professional voiceovers with AI voices. Visit lovo.ai to start generat..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Lovo.ai"
 deployment_status: "deployed"

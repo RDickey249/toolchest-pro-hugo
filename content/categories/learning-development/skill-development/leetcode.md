@@ -1,8 +1,8 @@
 ---
 title: "LeetCode - Coding interview prep"
 tagline: "LeetCode is a coding interview preparation platform that provides algorithmic programming challenges, mock interviews, and technical assessment tools used by major tech companies for hiring..."
-category: "Learning & Development"
-categories: ["Learning & Development"]
+category: "🎓 Learning & Development"
+categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "LeetCode"
 deployment_status: "deployed"

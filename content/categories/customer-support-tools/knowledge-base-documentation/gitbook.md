@@ -1,8 +1,8 @@
 ---
 title: "GitBook"
 tagline: "Documentation platform with versioning and integrations"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "GitBook"
 deployment_status: "deployed"

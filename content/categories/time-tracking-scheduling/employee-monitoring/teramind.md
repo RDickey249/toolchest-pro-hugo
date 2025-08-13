@@ -47,4 +47,4 @@ Used by Fortune 500 companies, government agencies, and financial institutions, 
 
 ## Get Started with Teramind
 
-Ready to get started? Visit [Teramind](https://www.teramind.co) to explore the platform and begin using this tool.
+Ready to explore Teramind? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

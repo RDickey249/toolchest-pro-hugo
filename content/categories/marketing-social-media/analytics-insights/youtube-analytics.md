@@ -1,8 +1,8 @@
 ---
 title: "YouTube Analytics - Video performance tracking"
 tagline: "YouTube Analytics is the comprehensive analytics platform for YouTube creators and businesses, providing detailed insights into video performance, audience behavior, and revenue metrics..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "YouTube Analytics"
 deployment_status: "deployed"

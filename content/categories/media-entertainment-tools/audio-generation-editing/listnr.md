@@ -1,8 +1,8 @@
 ---
 title: "Listnr"
 tagline: "Ready to get started? Visit Listnr to explore the platform and begin using th..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Listnr"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Listnr empowers content creators with AI-powered text-to-speech technology that 
 
 ## Get Started with Listnr
 
-Ready to get started? Visit [Listnr](https://www.listnr.ai) to explore the platform and begin using this tool.
+Ready to explore Listnr? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

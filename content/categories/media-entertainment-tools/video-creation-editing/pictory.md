@@ -1,8 +1,8 @@
 ---
 title: "Pictory"
 tagline: "Turn your blog posts into videos instantly. Visit pictory.ai to start your fr..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Pictory"
 deployment_status: "deployed"

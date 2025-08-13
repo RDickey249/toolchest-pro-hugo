@@ -61,4 +61,4 @@ Husky eliminates the "it works on my machine" problem by running the same qualit
 
 ## Get Started with Husky
 
-Ready to get started? Visit [Husky](https://typicode.github.io/husky) to explore the platform and begin using this tool.
+Ready to explore Husky? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -1,8 +1,8 @@
 ---
 title: "Lumen5"
 tagline: "Turn your blog posts into engaging videos. Visit lumen5.com to start creating..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Lumen5"
 deployment_status: "deployed"

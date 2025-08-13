@@ -42,7 +42,7 @@ Used by millions of businesses, marketers, and creators worldwide, Magic Studio 
 
 ## Get Started with Canva Magic Studio
 
-Ready to get started? Visit [Canva Magic Studio](https://www.canva.com/magic-studio) to explore the platform and begin using this tool.
+Ready to explore Canva Magic Studio? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -42,7 +42,7 @@ Used by busy professionals and knowledge workers, Akiflow eliminates tool fragme
 
 ## Get Started with Akiflow
 
-Ready to get started? Visit [Akiflow](https://akiflow.com) to explore the platform and begin using this tool.
+Ready to explore Akiflow? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

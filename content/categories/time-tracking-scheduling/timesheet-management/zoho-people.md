@@ -53,4 +53,4 @@ Beyond time tracking, Zoho People creates a complete employee experience ecosyst
 
 ## Get Started with Zoho People
 
-Ready to get started? Visit [Zoho People](https://www.zoho.com/people) to explore the platform and begin using this tool.
+Ready to explore Zoho People? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

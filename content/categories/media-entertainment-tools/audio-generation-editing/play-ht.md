@@ -1,8 +1,8 @@
 ---
 title: "Play.ht"
 tagline: "Create ultra-realistic AI voices. Visit play.ht to try the world's most advan..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Play.ht"
 deployment_status: "deployed"

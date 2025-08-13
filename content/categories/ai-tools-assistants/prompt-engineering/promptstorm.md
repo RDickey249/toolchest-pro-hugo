@@ -39,4 +39,4 @@ PromptStorm accelerates productivity through an extensive library of ready-to-us
 • May not cover highly specialized or niche use cases
 ## Get Started with PromptStorm
 
-Ready to get started? Visit [PromptStorm](https://promptstorm.com) to explore the platform and begin using this tool.
+Ready to explore PromptStorm? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

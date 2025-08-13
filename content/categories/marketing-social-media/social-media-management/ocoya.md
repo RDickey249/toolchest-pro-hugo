@@ -1,8 +1,8 @@
 ---
 title: "Ocoya"
 tagline: "Ready to get started? Visit Ocoya to explore the platform and begin using thi..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Ocoya"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Ocoya transforms social media management by combining AI content creation with a
 
 ## Get Started with Ocoya
 
-Ready to get started? Visit [Ocoya](https://www.ocoya.com) to explore the platform and begin using this tool.
+Ready to explore Ocoya? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

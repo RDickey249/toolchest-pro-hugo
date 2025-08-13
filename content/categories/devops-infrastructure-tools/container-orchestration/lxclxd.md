@@ -1,8 +1,8 @@
 ---
 title: "LXC/LXD"
 tagline: "System containers and container hypervisor for Linux"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Container & Orchestration"
 tool_name: "LXC/LXD"
 deployment_status: "deployed"

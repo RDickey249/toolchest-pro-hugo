@@ -40,7 +40,7 @@ Toucan Toco revolutionizes business intelligence by providing guided analytics e
 
 ## Get Started with Toucan Toco
 
-Ready to get started? Visit [Toucan Toco](https://www.toucantoco.com) to explore the platform and begin using this tool.
+Ready to explore Toucan Toco? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

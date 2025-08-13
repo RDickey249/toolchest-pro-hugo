@@ -44,7 +44,7 @@ Ideal for monitoring brand reputation, analyzing customer feedback for product i
 
 ## Get Started with MonkeyLearn
 
-Ready to get started? Visit [MonkeyLearn](https://monkeylearn.com) to explore the platform and begin using this tool.
+Ready to explore MonkeyLearn? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

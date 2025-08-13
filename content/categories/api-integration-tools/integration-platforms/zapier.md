@@ -1,17 +1,12 @@
 ---
 title: "Zapier"
 tagline: "Ready to get started? Visit Zapier to explore the platform and begin using th..."
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"
-affiliate: true
-affiliate_url: "https://zapier.com/partner/toolchest"
-affiliate_cta: "Automate Your Workflows"
-commission: "25%"
-affiliate_tier: "standard"
 ---
 Zapier is the leading automation platform that connects over 5,000 apps to eliminate repetitive tasks and manual data entry. It lets you create "Zaps" - automated workflows that trigger actions between different applications based on specific events or conditions.
 
@@ -48,9 +43,6 @@ Zapier excels at both simple two-step automations and complex multi-step workflo
 • Learning curve for advanced features
 
 
-## Affiliate Disclosure
-
-**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Zapier
 

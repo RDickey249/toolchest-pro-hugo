@@ -1,8 +1,8 @@
 ---
 title: "Veed"
 tagline: "Edit videos like a pro in your browser. Visit veed.io to start creating profe..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Veed"
 deployment_status: "deployed"

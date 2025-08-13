@@ -1,8 +1,8 @@
 ---
 title: "Wisecut"
 tagline: "Transform long videos into engaging content with AI. Visit wisecut.video to s..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Wisecut"
 deployment_status: "deployed"

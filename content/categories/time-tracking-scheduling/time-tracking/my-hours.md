@@ -43,4 +43,4 @@ Used by teams across diverse industries, My Hours offers professional time track
 
 ## Get Started with My Hours
 
-Ready to get started? Visit [My Hours](https://www.myhours.com/) to explore the platform and begin using this tool.
+Ready to explore My Hours? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

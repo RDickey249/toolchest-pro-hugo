@@ -1,8 +1,8 @@
 ---
 title: "Insomnia"
 tagline: "Powerful REST client with beautiful design and advanced features"
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "API Management"
 tool_name: "Insomnia"
 deployment_status: "deployed"

@@ -42,4 +42,4 @@ Used by remote teams and agencies worldwide, TMetric offers smart time tracking 
 
 ## Get Started with TMetric
 
-Ready to get started? Visit [TMetric](https://tmetric.com/) to explore the platform and begin using this tool.
+Ready to explore TMetric? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -40,7 +40,7 @@ CodeWhisperer transforms development productivity by providing AWS-native AI cod
 
 ## Get Started with CodeWhisperer
 
-Ready to get started? Visit [CodeWhisperer](https://aws.amazon.com/codewhisperer) to explore the platform and begin using this tool.
+Ready to explore CodeWhisperer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

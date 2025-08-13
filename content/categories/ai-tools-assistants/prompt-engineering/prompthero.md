@@ -39,4 +39,4 @@ PromptHero functions as the Google of AI prompts, providing a sophisticated sear
 • Quality varies across user-contributed content
 ## Get Started with PromptHero
 
-Ready to get started? Visit [PromptHero](https://prompthero.com) to explore the platform and begin using this tool.
+Ready to explore PromptHero? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

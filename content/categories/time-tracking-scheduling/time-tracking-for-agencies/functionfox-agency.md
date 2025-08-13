@@ -41,4 +41,4 @@ Used by creative agencies, design studios, and marketing firms worldwide, Functi
 • Advanced creative features may require significant setup time for optimal creative agency coordination and dashboard management implementation
 ## Get Started with FunctionFox (Agency)
 
-Ready to get started? Visit [FunctionFox (Agency)](https://functionfox(agency).com) to explore the platform and begin using this tool.
+Ready to explore FunctionFox (Agency)? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -1,8 +1,8 @@
 ---
 title: "Tawk.to"
 tagline: "Free live chat software for websites"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat & Messaging"
 tool_name: "Tawk.to"
 deployment_status: "deployed"

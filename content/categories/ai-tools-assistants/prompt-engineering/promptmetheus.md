@@ -43,4 +43,4 @@ Perfect for AI product teams, research organizations, and enterprise companies b
 • Requires significant setup and configuration for optimal use
 ## Get Started with Promptmetheus
 
-Ready to get started? Visit [Promptmetheus](https://promptmetheus.com) to explore the platform and begin using this tool.
+Ready to explore Promptmetheus? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

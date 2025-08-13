@@ -71,7 +71,7 @@ Used by millions to bring their imagination to life through the power of artific
 
 ## Get Started with DALL·E
 
-Ready to get started? Visit [DALL·E](https://openai.com/dall-e) to explore the platform and begin using this tool.
+Ready to explore DALL·E? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -40,4 +40,4 @@ Windsurf Creative revolutionizes digital design workflows by providing an AI-pow
 
 ## Get Started with Windsurf Creative
 
-Ready to get started? Visit [Windsurf](https://codeium.com/windsurf) to explore the platform and begin using this tool.
+Ready to explore Windsurf Creative? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

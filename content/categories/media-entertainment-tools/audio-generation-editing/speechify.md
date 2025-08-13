@@ -1,8 +1,8 @@
 ---
 title: "Speechify"
 tagline: "Turn any text into audio instantly. Visit speechify.com to start your free tr..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Speechify"
 deployment_status: "deployed"

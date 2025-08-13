@@ -1,8 +1,8 @@
 ---
 title: "Prometheus"
 tagline: "Open-source monitoring system with time-series database"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Monitoring Observability"
 tool_name: "Prometheus"
 deployment_status: "deployed"

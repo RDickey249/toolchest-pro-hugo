@@ -42,4 +42,4 @@ Used by companies like Mojang (Minecraft), King, and DICE, Favro combines the fl
 
 ## Get Started with Favro
 
-Ready to get started? Visit [Favro](https://www.favro.com) to explore the platform and begin using this tool.
+Ready to explore Favro? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

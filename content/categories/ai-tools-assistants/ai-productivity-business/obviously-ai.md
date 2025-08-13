@@ -23,7 +23,7 @@ Obviously AI democratizes machine learning by enabling business users to build s
 
 ## Get Started with Obviously AI
 
-Ready to get started? Visit [Obviously AI](https://www.obviously.ai) to explore the platform and begin using this tool.
+Ready to explore Obviously AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## Pros and Cons
 

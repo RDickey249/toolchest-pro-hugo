@@ -44,7 +44,7 @@ Slick Write's no-nonsense approach focuses on essential writing improvement feat
 
 ## Get Started with Slick Write
 
-Ready to get started? Visit [Slick Write](https://www.slickwrite.com) to explore the platform and begin using this tool.
+Ready to explore Slick Write? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

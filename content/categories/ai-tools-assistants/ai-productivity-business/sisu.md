@@ -40,7 +40,7 @@ Sisu transforms business metrics monitoring into intelligent diagnostic insights
 
 ## Get Started with Sisu
 
-Ready to get started? Visit [Sisu](https://www.sisudata.com) to explore the platform and begin using this tool.
+Ready to explore Sisu? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

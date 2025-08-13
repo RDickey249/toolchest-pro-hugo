@@ -1,16 +1,14 @@
 ---
 title: "Booking.com"
 tagline: "Leading online travel platform"
-category: "Marketing & Social Media"
+category: "📢 Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "Booking.com"
 deployment_status: "deployed"
 image: "/images/tools/booking-com-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
-categories: ["Marketing & Social Media"]
+categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
-affiliate: true
-featured: true
 external_link: "https://www.booking.com"
 ---
 Booking.com is the world's leading digital travel platform, connecting millions of travelers with accommodations, flights, rental cars, and experiences worldwide.
@@ -54,10 +52,7 @@ As part of Booking Holdings, Booking.com serves over 1.5 billion visitors annual
 Trusted by millions of travelers and property partners worldwide to facilitate seamless travel experiences and maximize booking potential.
 
 
-## Affiliate Disclosure
-
-**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Booking.com
 
-Ready to get started? Visit [Booking.com](https://www.booking.com) to explore the platform and begin using this tool.
+Ready to explore Booking.com? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

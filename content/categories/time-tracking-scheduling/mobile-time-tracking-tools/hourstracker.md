@@ -44,4 +44,4 @@ Perfect for freelancers, consultants, and mobile professionals who need straight
 
 ## Get Started with HoursTracker
 
-Ready to get started? Visit [HoursTracker](https://www.hourstrackerapp.com) to explore the platform and begin using this tool.
+Ready to explore HoursTracker? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -40,7 +40,7 @@ Tellius revolutionizes business intelligence by combining advanced analytics wit
 
 ## Get Started with Tellius
 
-Ready to get started? Visit [Tellius](https://www.tellius.com) to explore the platform and begin using this tool.
+Ready to explore Tellius? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

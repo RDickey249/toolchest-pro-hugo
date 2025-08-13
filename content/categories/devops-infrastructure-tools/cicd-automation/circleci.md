@@ -1,8 +1,8 @@
 ---
 title: "CircleCI"
 tagline: "Cloud-based continuous integration and deployment platform"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cicd Automation"
 tool_name: "CircleCI"
 deployment_status: "deployed"

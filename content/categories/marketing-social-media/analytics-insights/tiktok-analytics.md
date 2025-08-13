@@ -1,8 +1,8 @@
 ---
 title: "TikTok Analytics - Short-form video insights"
 tagline: "TikTok Analytics provides detailed performance insights for TikTok content, offering engagement metrics, audience demographics, and video performance data for creators and businesses..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "TikTok Analytics"
 deployment_status: "deployed"

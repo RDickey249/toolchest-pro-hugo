@@ -1,8 +1,8 @@
 ---
 title: "SurveyJS"
 tagline: "Open-source JavaScript survey library for developers"
-category: "Research & Survey Tools"
-categories: ["Research & Survey Tools"]
+category: "📊 Research & Survey Tools"
+categories: ["📊 Research & Survey Tools"]
 subcategory: "Survey Platforms"
 tool_name: "SurveyJS"
 deployment_status: "deployed"

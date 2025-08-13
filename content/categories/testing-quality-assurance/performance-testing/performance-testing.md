@@ -1,8 +1,8 @@
 ---
 title: "Performance Testing"
 tagline: "Comprehensive approach to application performance validation"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Performance Testing"
 tool_name: "Performance Testing"
 deployment_status: "deployed"

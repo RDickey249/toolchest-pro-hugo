@@ -39,4 +39,4 @@ Promptable creates an integrated workspace for prompt engineering that combines 
 • Requires internet connection for full functionality
 ## Get Started with Promptable
 
-Ready to get started? Visit [Promptable](https://promptable.com) to explore the platform and begin using this tool.
+Ready to explore Promptable? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

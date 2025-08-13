@@ -40,7 +40,7 @@ Penpot transforms collaborative design by providing a completely open-source, we
 
 ## Get Started with Penpot
 
-Ready to get started? Visit [Penpot](https://penpot.app) to explore the platform and begin using this tool.
+Ready to explore Penpot? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

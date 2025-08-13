@@ -1,8 +1,8 @@
 ---
 title: "Thunder Client"
 tagline: "Lightweight REST API client extension for VS Code"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Api Testing Tools"
 tool_name: "Thunder Client"
 deployment_status: "deployed"

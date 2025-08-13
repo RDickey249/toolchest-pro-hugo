@@ -61,4 +61,4 @@ Factorial replaces 5-10 different HR tools with one platform. Instead of managin
 
 ## Get Started with Factorial
 
-Ready to get started? Visit [Factorial](https://factorialhr.com) to explore the platform and begin using this tool.
+Ready to explore Factorial? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

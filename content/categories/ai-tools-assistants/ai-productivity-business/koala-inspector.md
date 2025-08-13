@@ -42,7 +42,7 @@ Used by dropshippers, e-commerce entrepreneurs, and digital marketers worldwide,
 
 ## Get Started with Koala Inspector
 
-Ready to get started? Visit [Koala Inspector](https://koala-app.com) to explore the platform and begin using this tool.
+Ready to explore Koala Inspector? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

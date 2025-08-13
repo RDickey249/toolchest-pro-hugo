@@ -41,4 +41,4 @@ Used by companies managing remote and hybrid teams worldwide, Workpuls combines 
 • Advanced features may require significant configuration time for optimal remote workforce monitoring and accountability implementation
 ## Get Started with Workpuls
 
-Ready to get started? Visit [Workpuls](https://workpuls.com) to explore the platform and begin using this tool.
+Ready to explore Workpuls? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

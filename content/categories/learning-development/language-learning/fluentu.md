@@ -1,8 +1,8 @@
 ---
 title: "FluentU - Real-world video content"
 tagline: "FluentU is a real-world video content language learning platform that transforms authentic videos like music videos, movie trailers, news clips, and inspiring talks into immersive language lessons..."
-category: "Learning & Development"
-categories: ["Learning & Development"]
+category: "🎓 Learning & Development"
+categories: ["🎓 Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "FluentU"
 deployment_status: "deployed"

@@ -40,7 +40,7 @@ GrammarlyGO elevates writing assistance beyond grammar checking by integrating g
 
 ## Get Started with GrammarlyGO
 
-Ready to get started? Visit [GrammarlyGO](https://www.grammarly.com/go) to explore the platform and begin using this tool.
+Ready to explore GrammarlyGO? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -1,13 +1,13 @@
 ---
 title: "Zabbix"
 tagline: "Enterprise-grade monitoring solution for networks, servers, and applications"
-category: "DevOps & Infrastructure Tools"
+category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Monitoring & Observability"
 tool_name: "Zabbix"
 deployment_status: "deployed"
 image: "/images/tools/zabbix-placeholder.jpg"
-tags: ["development-technical-tools", "monitoring-observability"]
-categories: ["DevOps & Infrastructure Tools"]
+tags: ["devops-infrastructure-tools", "development-technical-tools", "cicd-automation", "cloud-platforms", "container-orchestration", "monitoring-observability"]
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Monitoring & Observability"]
 ---
 Zabbix is the enterprise-grade open-source monitoring solution trusted by companies like ING Bank, T-Mobile, and SoftBank worldwide to maintain IT infrastructure reliability through comprehensive real-time monitoring of servers, networks, applications, and services at massive scale without licensing costs or vendor lock-in. As the leading open-source alternative to proprietary monitoring platforms, Zabbix transforms how organizations approach infrastructure monitoring by providing enterprise capabilities including auto-discovery, predictive analytics, and distributed monitoring while maintaining complete control over data and deployment architecture.

@@ -39,4 +39,4 @@ PromptPal simplifies the prompt discovery process through carefully curated coll
 • May not include cutting-edge experimental prompt techniques
 ## Get Started with PromptPal
 
-Ready to get started? Visit [PromptPal](https://promptpal.com) to explore the platform and begin using this tool.
+Ready to explore PromptPal? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

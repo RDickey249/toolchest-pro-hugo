@@ -42,7 +42,7 @@ Used by customer support teams and contact centers, Forethought offers automated
 
 ## Get Started with Forethought
 
-Ready to get started? Visit [Forethought](https://forethought.ai) to explore the platform and begin using this tool.
+Ready to explore Forethought? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

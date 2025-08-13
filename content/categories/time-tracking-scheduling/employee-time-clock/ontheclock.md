@@ -44,4 +44,4 @@ OnTheClock is ideal for businesses with multiple locations, remote teams, or com
 
 ## Get Started with OnTheClock
 
-Ready to get started? Visit [OnTheClock](https://www.ontheclock.com) to explore the platform and begin using this tool.
+Ready to explore OnTheClock? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

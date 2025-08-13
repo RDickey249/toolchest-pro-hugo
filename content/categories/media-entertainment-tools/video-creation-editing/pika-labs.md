@@ -1,8 +1,8 @@
 ---
 title: "Pika Labs"
 tagline: "Ready to get started? Visit Pika Labs to explore the platform and begin using..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Pika Labs"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Pika Labs emerges as an exciting newcomer in AI video generation, challenging es
 
 ## Get Started with Pika Labs
 
-Ready to get started? Visit [Pika Labs](https://pika.art) to explore the platform and begin using this tool.
+Ready to explore Pika Labs? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

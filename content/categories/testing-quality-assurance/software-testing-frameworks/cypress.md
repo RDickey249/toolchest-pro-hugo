@@ -1,8 +1,8 @@
 ---
 title: "Cypress"
 tagline: "Fast, easy and reliable testing for modern web applications"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Software Testing Frameworks"
 tool_name: "Cypress"
 deployment_status: "deployed"

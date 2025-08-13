@@ -1,8 +1,8 @@
 ---
 title: "Zoho Survey"
 tagline: "Online survey tool integrated with Zoho's business suite"
-category: "Research & Survey Tools"
-categories: ["Research & Survey Tools"]
+category: "📊 Research & Survey Tools"
+categories: ["📊 Research & Survey Tools"]
 subcategory: "Survey Platforms"
 tool_name: "Zoho Survey"
 deployment_status: "deployed"

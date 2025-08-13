@@ -1,13 +1,13 @@
 ---
 title: "Grafana"
 tagline: "Monitoring and observability"
-category: "DevOps & Infrastructure Tools"
+category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Monitoring & Observability"
 tool_name: "Grafana"
 deployment_status: "deployed"
 image: "/images/tools/grafana-placeholder.jpg"
-tags: ["analytics-data-tools", "business-intelligence"]
-categories: ["DevOps & Infrastructure Tools"]
+tags: ["devops-infrastructure-tools", "development-technical-tools", "cicd-automation", "cloud-platforms", "container-orchestration", "monitoring-observability"]
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Business Intelligence"]
 ---
 Grafana is the leading open-source platform for monitoring and observability, transforming time-series data into beautiful, actionable dashboards.

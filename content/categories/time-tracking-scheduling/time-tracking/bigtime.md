@@ -45,4 +45,4 @@ The platform is ideal for established professional services firms that need soph
 
 ## Get Started with BigTime
 
-Ready to get started? Visit [BigTime](https://www.bigtime.net/) to explore the platform and begin using this tool.
+Ready to explore BigTime? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

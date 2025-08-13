@@ -1,8 +1,8 @@
 ---
 title: "Jenkins"
 tagline: "Open-source automation server for continuous integration"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cicd Automation"
 tool_name: "Jenkins"
 deployment_status: "deployed"

@@ -42,7 +42,7 @@ Used by startup founders, product managers, and entrepreneurs, Uizard offers ske
 
 ## Get Started with Uizard
 
-Ready to get started? Visit [Uizard](https://uizard.io) to explore the platform and begin using this tool.
+Ready to explore Uizard? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

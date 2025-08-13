@@ -58,7 +58,7 @@ LeaveBoard eliminates the administrative headaches of leave management while giv
 
 ## Get Started with LeaveBoard
 
-Ready to get started? Visit [LeaveBoard](https://www.leaveboard.com) to explore the platform and begin using this tool.
+Ready to explore LeaveBoard? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

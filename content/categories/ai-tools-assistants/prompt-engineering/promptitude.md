@@ -39,4 +39,4 @@ Promptitude streamlines prompt engineering workflows through comprehensive manag
 • Complex feature set may overwhelm casual users
 ## Get Started with Promptitude
 
-Ready to get started? Visit [Promptitude](https://promptitude.com) to explore the platform and begin using this tool.
+Ready to explore Promptitude? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

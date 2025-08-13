@@ -1,8 +1,8 @@
 ---
 title: "Pingdom"
 tagline: "Website monitoring and performance tracking service"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Performance Testing"
 tool_name: "Pingdom"
 deployment_status: "deployed"

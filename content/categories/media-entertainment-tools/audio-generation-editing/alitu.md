@@ -1,8 +1,8 @@
 ---
 title: "Alitu"
 tagline: "Ready to get started? Visit Alitu to explore the platform and begin using thi..."
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Alitu"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Alitu transforms podcast production into a simple, automated process that handle
 
 ## Get Started with Alitu
 
-Ready to get started? Visit [Alitu](https://alitu.com) to explore the platform and begin using this tool.
+Ready to explore Alitu? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

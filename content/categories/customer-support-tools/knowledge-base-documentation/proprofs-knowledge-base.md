@@ -1,8 +1,8 @@
 ---
 title: "ProProfs Knowledge Base"
 tagline: "Easy knowledge base software with built-in analytics"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base Documentation"
 tool_name: "ProProfs Knowledge Base"
 deployment_status: "deployed"

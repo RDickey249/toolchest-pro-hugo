@@ -1,8 +1,8 @@
 ---
 title: "XSplit"
 tagline: "Professional broadcasting and recording software suite"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Streaming Production"
 tool_name: "XSplit"
 deployment_status: "deployed"

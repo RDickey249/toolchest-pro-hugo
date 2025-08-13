@@ -1,8 +1,8 @@
 ---
 title: "IFTTT"
 tagline: "Ready to get started? Visit IFTTT to explore the platform and begin using thi..."
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "IFTTT"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ IFTTT (If This Then That) simplifies automation for everyday users by connecting
 
 ## Get Started with IFTTT
 
-Ready to get started? Visit [IFTTT](https://ifttt.com) to explore the platform and begin using this tool.
+Ready to explore IFTTT? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

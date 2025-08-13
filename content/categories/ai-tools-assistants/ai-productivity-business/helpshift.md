@@ -40,7 +40,7 @@ Helpshift transforms mobile customer support by providing a comprehensive, in-ap
 
 ## Get Started with Helpshift
 
-Ready to get started? Visit [Helpshift](https://www.helpshift.com) to explore the platform and begin using this tool.
+Ready to explore Helpshift? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

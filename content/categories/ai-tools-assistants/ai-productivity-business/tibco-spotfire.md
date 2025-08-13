@@ -40,7 +40,7 @@ TIBCO Spotfire delivers enterprise-grade visual analytics and business intellige
 
 ## Get Started with TIBCO Spotfire
 
-Ready to get started? Visit [TIBCO Spotfire](https://www.tibco.com/products/tibco-spotfire) to explore the platform and begin using this tool.
+Ready to explore TIBCO Spotfire? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

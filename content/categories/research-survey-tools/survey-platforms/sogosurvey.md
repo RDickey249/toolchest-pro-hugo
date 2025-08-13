@@ -1,8 +1,8 @@
 ---
 title: "SoGoSurvey"
 tagline: "Experience management platform with powerful analytics"
-category: "Research & Survey Tools"
-categories: ["Research & Survey Tools"]
+category: "📊 Research & Survey Tools"
+categories: ["📊 Research & Survey Tools"]
 subcategory: "Survey Platforms"
 tool_name: "SoGoSurvey"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "Ahrefs"
 tagline: "SEO tools and competitive analysis platform"
-category: "Research & Survey Tools"
-categories: ["Research & Survey Tools"]
+category: "📊 Research & Survey Tools"
+categories: ["📊 Research & Survey Tools"]
 subcategory: "Market Research Tools"
 tool_name: "Ahrefs"
 deployment_status: "deployed"

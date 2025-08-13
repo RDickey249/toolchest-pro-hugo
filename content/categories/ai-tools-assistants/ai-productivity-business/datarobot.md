@@ -44,7 +44,7 @@ Perfect for large enterprises, government agencies, and organizations deploying 
 
 ## Get Started with DataRobot
 
-Ready to get started? Visit [DataRobot](https://www.datarobot.com) to explore the platform and begin using this tool.
+Ready to explore DataRobot? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

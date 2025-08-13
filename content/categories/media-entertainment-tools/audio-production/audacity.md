@@ -1,8 +1,8 @@
 ---
 title: "Audacity"
 tagline: "Free audio editing"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Production"
 tool_name: "Audacity"
 deployment_status: "deployed"

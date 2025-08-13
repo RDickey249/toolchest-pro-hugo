@@ -1,8 +1,8 @@
 ---
 title: "SlidesAI"
 tagline: "Convert text to presentations automatically. Visit slidesai.io to transform d..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Presentation Tools"
 tool_name: "SlidesAI"
 deployment_status: "deployed"

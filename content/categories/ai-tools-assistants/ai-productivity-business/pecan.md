@@ -40,7 +40,7 @@ Pecan transforms predictive analytics into a seamless, automated experience that
 
 ## Get Started with Pecan
 
-Ready to get started? Visit [Pecan](https://www.pecan.ai) to explore the platform and begin using this tool.
+Ready to explore Pecan? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

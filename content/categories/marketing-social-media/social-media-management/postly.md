@@ -1,8 +1,8 @@
 ---
 title: "Postly"
 tagline: "Ready to get started? Visit Postly to explore the platform and begin using th..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Postly"
 deployment_status: "deployed"
@@ -44,7 +44,7 @@ It's perfect for busy entrepreneurs, small businesses, and content creators who 
 
 ## Get Started with Postly
 
-Ready to get started? Visit [Postly](https://www.postly.ai) to explore the platform and begin using this tool.
+Ready to explore Postly? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

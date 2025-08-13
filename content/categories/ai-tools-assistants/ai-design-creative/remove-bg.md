@@ -40,7 +40,7 @@ Remove.bg revolutionizes background removal by using advanced AI to instantly se
 
 ## Get Started with Remove.bg
 
-Ready to get started? Visit [Remove.bg](https://www.remove.bg) to explore the platform and begin using this tool.
+Ready to explore Remove.bg? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

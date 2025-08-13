@@ -53,4 +53,4 @@ Developers love it because it feels like having an expert programmer looking ove
 
 ## Get Started with Claude Code
 
-Ready to get started? Visit [Claude Code](https://claude.ai/code) to explore the platform and begin using this tool.
+Ready to explore Claude Code? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -45,4 +45,4 @@ Sling enhances comprehensive shift planning through integrated workforce coordin
 
 ## Get Started with Sling
 
-Ready to get started? Visit [Sling](https://getsling.com) to explore the platform and begin using this tool.
+Ready to explore Sling? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

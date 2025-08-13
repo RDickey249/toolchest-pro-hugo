@@ -1,8 +1,8 @@
 ---
 title: "Simplified"
 tagline: "Streamline Creation with Simplified →..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Presentation Tools"
 tool_name: "Simplified"
 deployment_status: "deployed"
@@ -43,7 +43,7 @@ Simplified revolutionizes content creation by combining presentation tools with 
 
 ## Get Started with Simplified
 
-Ready to get started? Visit [Simplified](https://simplified.com) to explore the platform and begin using this tool.
+Ready to explore Simplified? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

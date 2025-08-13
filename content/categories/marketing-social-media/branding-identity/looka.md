@@ -1,8 +1,8 @@
 ---
 title: "Looka"
 tagline: "AI-powered complete brand identity creation"
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Branding Identity"
 tool_name: "Looka"
 deployment_status: "deployed"
@@ -41,7 +41,7 @@ Looka revolutionizes brand creation by combining artificial intelligence with pr
 
 ## Get Started with Looka
 
-Ready to get started? Visit [Looka](https://www.looka.com) to explore the platform and begin using this tool.
+Ready to explore Looka? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

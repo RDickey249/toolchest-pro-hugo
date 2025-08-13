@@ -48,4 +48,4 @@ Perfect for startups, growing businesses, and small companies who want to establ
 
 ## Get Started with Timetastic
 
-Ready to get started? Visit [Timetastic](https://timetastic.co.uk) to explore the platform and begin using this tool.
+Ready to explore Timetastic? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

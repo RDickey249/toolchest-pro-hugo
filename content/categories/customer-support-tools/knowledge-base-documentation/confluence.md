@@ -1,8 +1,8 @@
 ---
 title: "Confluence"
 tagline: "Team knowledge base"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Confluence"
 deployment_status: "deployed"

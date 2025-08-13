@@ -40,7 +40,7 @@ Bardeen revolutionizes browser-based productivity by enabling users to automate 
 
 ## Get Started with Bardeen
 
-Ready to get started? Visit [Bardeen](https://www.bardeen.ai) to explore the platform and begin using this tool.
+Ready to explore Bardeen? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

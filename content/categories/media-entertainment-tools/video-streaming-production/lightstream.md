@@ -1,8 +1,8 @@
 ---
 title: "Lightstream"
 tagline: "Cloud-based streaming production with console integration"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Streaming Production"
 tool_name: "Lightstream"
 deployment_status: "deployed"
@@ -50,4 +50,4 @@ Beyond gaming, Lightstream has become the secret weapon for mobile streamers, po
 
 ## Get Started with Lightstream
 
-Ready to get started? Visit [Lightstream](https://golightstream.com) to explore the platform and begin using this tool.
+Ready to explore Lightstream? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

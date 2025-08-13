@@ -9,8 +9,6 @@ image: "/images/tools/hunter-io-placeholder.jpg"
 tags: ["crm-sales-tools", "sales-outreach-tools"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Sales Outreach Tools"]
-affiliate: true
-featured: true
 ---
 Hunter.io is the professional email finder and verification platform trusted by over 4 million sales professionals, marketers, and recruiters worldwide to build qualified prospect lists with remarkable accuracy while ensuring GDPR compliance and data reliability through confidence scoring that eliminates guesswork from email prospecting. As the leading email discovery tool, Hunter.io transforms outbound sales and marketing by providing verified professional email addresses that enable direct communication with decision-makers while maintaining sender reputation through comprehensive verification that reduces bounce rates and improves campaign deliverability.
 

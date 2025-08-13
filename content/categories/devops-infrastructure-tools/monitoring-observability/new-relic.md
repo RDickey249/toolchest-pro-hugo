@@ -1,8 +1,8 @@
 ---
 title: "New Relic"
 tagline: "Full-stack observability platform for modern applications"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Monitoring Observability"
 tool_name: "New Relic"
 deployment_status: "deployed"

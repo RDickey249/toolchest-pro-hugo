@@ -44,4 +44,4 @@ Buddy Punch works best for construction companies, field service teams, and busi
 
 ## Get Started with Buddy Punch
 
-Ready to get started? Visit [Buddy Punch](https://buddypunch.com) to explore the platform and begin using this tool.
+Ready to explore Buddy Punch? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

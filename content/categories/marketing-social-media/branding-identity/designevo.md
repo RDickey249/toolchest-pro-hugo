@@ -1,8 +1,8 @@
 ---
 title: "DesignEvo"
 tagline: "Professional logo design with 10,000+ templates"
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Branding Identity"
 tool_name: "DesignEvo"
 deployment_status: "deployed"
@@ -41,7 +41,7 @@ DesignEvo democratizes professional logo design through an extensive template li
 
 ## Get Started with DesignEvo
 
-Ready to get started? Visit [DesignEvo](https://www.designevo.com) to explore the platform and begin using this tool.
+Ready to explore DesignEvo? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

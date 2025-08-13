@@ -1,8 +1,8 @@
 ---
 title: "HappyFox"
 tagline: "Smart help desk and customer support software"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "HappyFox"
 deployment_status: "deployed"

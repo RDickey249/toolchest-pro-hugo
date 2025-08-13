@@ -1,8 +1,8 @@
 ---
 title: "Jasmine"
 tagline: "Behavior-driven development framework for JavaScript"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Software Testing Frameworks"
 tool_name: "Jasmine"
 deployment_status: "deployed"

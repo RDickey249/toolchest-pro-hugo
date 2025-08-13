@@ -1,16 +1,14 @@
 ---
 title: "SEMrush"
 tagline: "All-in-one digital marketing and competitive research platform"
-category: "Research & Survey Tools"
+category: "📊 Research & Survey Tools"
 subcategory: "Market Research Tools"
 tool_name: "SEMrush"
 deployment_status: "deployed"
 image: "/images/tools/semrush-placeholder.jpg"
-tags: ["research-survey", "market-research-tools"]
-categories: ["Research & Survey Tools"]
+tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools"]
+categories: ["📊 Research & Survey Tools"]
 subcategories: ["Market Research Tools"]
-affiliate: true
-featured: true
 ---
 SEMrush has transformed from an SEO tool into the competitive intelligence platform trusted by over 10 million marketers at companies like Tesla, Samsung, and P&G to decode their competitors' digital strategies and uncover market opportunities worth millions in revenue. The platform's 25 billion keyword database across 142 countries provides unprecedented visibility into what customers search for, how competitors rank, and where market gaps exist that businesses can exploit. Fortune 500 companies using SEMrush report discovering an average of 50+ untapped keyword opportunities monthly that competitors overlook, leading to traffic increases of 150% within six months.
 
@@ -54,4 +52,4 @@ Beyond competitive analysis, SEMrush functions as a complete market research pla
 
 ## Get Started with SEMrush
 
-Ready to get started? Visit [SEMrush](https://semrush.com) to explore the platform and begin using this tool.
+Ready to explore SEMrush? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -41,4 +41,4 @@ Used by HVAC, plumbing, electrical, and other field service companies, mHelpDesk
 • Advanced features may require significant setup time for optimal field service work order coordination and comprehensive billing implementation
 ## Get Started with mHelpDesk
 
-Ready to get started? Visit [mHelpDesk](https://mhelpdesk.com) to explore the platform and begin using this tool.
+Ready to explore mHelpDesk? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

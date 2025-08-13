@@ -1,8 +1,8 @@
 ---
 title: "LinkedIn Analytics - Professional network insights"
 tagline: "LinkedIn Analytics provides comprehensive insights into LinkedIn Page and content performance, offering detailed professional audience demographics and engagement metrics..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "LinkedIn Analytics"
 deployment_status: "deployed"

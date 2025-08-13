@@ -1,8 +1,8 @@
 ---
 title: "Pinterest Analytics - Visual content insights"
 tagline: "Pinterest Analytics provides detailed insights into Pinterest performance, offering engagement metrics, audience demographics, and visual content analytics for businesses and creators..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "Pinterest Analytics"
 deployment_status: "deployed"

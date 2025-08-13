@@ -40,7 +40,7 @@ Mutable.ai revolutionizes codebase transformation by using advanced AI to unders
 
 ## Get Started with Mutable.ai
 
-Ready to get started? Visit [Mutable.ai](https://www.mutable.ai) to explore the platform and begin using this tool.
+Ready to explore Mutable.ai? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

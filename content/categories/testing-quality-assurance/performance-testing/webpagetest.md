@@ -1,8 +1,8 @@
 ---
 title: "WebPageTest"
 tagline: "Website performance testing and optimization tool"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Performance Testing"
 tool_name: "WebPageTest"
 deployment_status: "deployed"

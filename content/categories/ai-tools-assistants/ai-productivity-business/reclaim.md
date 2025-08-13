@@ -40,7 +40,7 @@ Reclaim revolutionizes work-life balance by intelligently defending your calenda
 
 ## Get Started with Reclaim
 
-Ready to get started? Visit [Reclaim.ai](https://reclaim.ai) to explore the platform and begin using this tool.
+Ready to explore Reclaim? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

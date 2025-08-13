@@ -40,4 +40,4 @@ Zoho Projects enhances project milestone management through integrated time trac
 
 ## Get Started with Zoho Projects
 
-Ready to get started? Visit [Zoho Projects](https://zoho.com/projects) to explore the platform and begin using this tool.
+Ready to explore Zoho Projects? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -40,7 +40,7 @@ Grok brings a rebellious spirit to the AI landscape, offering unfiltered convers
 
 ## Get Started with Grok
 
-Ready to get started? Visit [Grok](https://x.ai) to explore the platform and begin using this tool.
+Ready to explore Grok? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

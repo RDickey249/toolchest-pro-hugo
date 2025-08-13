@@ -1,19 +1,14 @@
 ---
 title: "Notion"
 tagline: "All-in-one workspace for notes, docs, and projects"
-category: "Customer Support Tools"
+category: "🎧 Customer Support Tools"
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Notion"
 deployment_status: "deployed"
 image: "/images/tools/notion-placeholder.jpg"
 tags: ["productivity-task-management", "project-management", "note-taking", "database-management", "team-collaboration"]
-categories: ["Customer Support Tools"]
+categories: ["🎧 Customer Support Tools"]
 subcategories: ["Project Management"]
-affiliate: true
-affiliate_url: "https://www.notion.so/partner/toolchest"
-affiliate_cta: "Try Notion Free"
-commission: "$10"
-affiliate_tier: "standard"
 ---
 Notion is an all-in-one workspace that combines notes, databases, project management, and team collaboration in a single, highly customizable platform. Its block-based architecture lets you build everything from simple note-taking systems to complex project workflows.
 
@@ -22,9 +17,6 @@ What makes Notion unique is its infinite flexibility and powerful database capab
 It's perfect for knowledge workers, startup teams, and anyone who wants complete control over their digital workspace. Whether you're building team wikis, managing projects, or organizing personal productivity systems, Notion adapts to your needs rather than forcing you into predetermined templates.
 
 
-## Affiliate Disclosure
-
-**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Notion
 

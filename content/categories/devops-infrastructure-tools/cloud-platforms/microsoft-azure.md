@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Azure"
 tagline: "Microsoft's comprehensive cloud platform with enterprise integration"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cloud Platforms"
 tool_name: "Microsoft Azure"
 deployment_status: "deployed"

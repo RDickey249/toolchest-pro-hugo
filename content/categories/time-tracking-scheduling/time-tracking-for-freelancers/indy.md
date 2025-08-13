@@ -41,4 +41,4 @@ Used by over 50,000 freelancers and agencies worldwide, Indy eliminates the comp
 • Advanced features may require significant setup time for optimal freelance business coordination and client management implementation
 ## Get Started with Indy
 
-Ready to get started? Visit [Indy](https://indy.com) to explore the platform and begin using this tool.
+Ready to explore Indy? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

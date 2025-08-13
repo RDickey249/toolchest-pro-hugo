@@ -1,8 +1,8 @@
 ---
 title: "Guru"
 tagline: "Real-time knowledge"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Guru"
 deployment_status: "deployed"

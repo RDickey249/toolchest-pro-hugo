@@ -40,7 +40,7 @@ Microsoft Designer reimagines graphic design for the AI era, combining intellige
 
 ## Get Started with Microsoft Designer
 
-Ready to get started? Visit [Microsoft Designer](https://designer.microsoft.com) to explore the platform and begin using this tool.
+Ready to explore Microsoft Designer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

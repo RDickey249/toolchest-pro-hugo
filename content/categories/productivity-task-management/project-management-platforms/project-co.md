@@ -57,4 +57,4 @@ While traditional PM tools often feel like administrative burden, Project.co tra
 
 ## Get Started with Project.co
 
-Ready to get started? Visit [Project.co](https://project.co) to explore the platform and begin using this tool.
+Ready to explore Project.co? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -1,8 +1,8 @@
 ---
 title: "Hindenburg"
 tagline: "Specialized audio editor designed for journalism and storytelling"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Production"
 tool_name: "Hindenburg"
 deployment_status: "deployed"
@@ -82,4 +82,4 @@ Audiobook narrators and production companies leverage Hindenburg Narrator's spec
 
 ## Get Started with Hindenburg
 
-Ready to get started? Visit [Hindenburg](https://hindenburg.com) to explore the platform and begin using this tool.
+Ready to explore Hindenburg? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

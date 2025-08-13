@@ -42,4 +42,4 @@ Used by over 500,000 freelancers and agencies worldwide, Bonsai combines profess
 
 ## Get Started with Bonsai
 
-Ready to get started? Visit [Bonsai](https://www.hellobonsai.com) to explore the platform and begin using this tool.
+Ready to explore Bonsai? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

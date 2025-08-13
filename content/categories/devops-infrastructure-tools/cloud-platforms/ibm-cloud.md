@@ -1,8 +1,8 @@
 ---
 title: "IBM Cloud"
 tagline: "Enterprise cloud platform with AI and hybrid cloud focus"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cloud Platforms"
 tool_name: "IBM Cloud"
 deployment_status: "deployed"

@@ -59,5 +59,5 @@ Octane AI solves the "paradox of choice" problem in e-commerce. When customers h
 
 ## Get Started with Octane AI
 
-Ready to get started? Visit [Octane AI](https://www.octaneai.com) to explore the platform and begin using this tool.
+Ready to explore Octane AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 

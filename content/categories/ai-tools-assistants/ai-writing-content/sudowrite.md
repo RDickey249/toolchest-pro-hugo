@@ -40,7 +40,7 @@ Sudowrite transforms creative writing by providing AI assistance specifically de
 
 ## Get Started with Sudowrite
 
-Ready to get started? Visit [Sudowrite](https://www.sudowrite.com) to explore the platform and begin using this tool.
+Ready to explore Sudowrite? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

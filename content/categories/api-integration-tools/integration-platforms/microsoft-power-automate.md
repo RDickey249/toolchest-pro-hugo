@@ -1,8 +1,8 @@
 ---
 title: "Microsoft Power Automate"
 tagline: "Microsoft's automation"
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "Microsoft Power Automate"
 deployment_status: "deployed"

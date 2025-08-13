@@ -1,8 +1,8 @@
 ---
 title: "Apigee"
 tagline: "Google's API management platform with analytics and security"
-category: "API & Integration Tools"
-categories: ["API & Integration Tools"]
+category: "🔗 API & Integration Tools"
+categories: ["🔗 API & Integration Tools"]
 subcategory: "API Management"
 tool_name: "Apigee"
 deployment_status: "deployed"

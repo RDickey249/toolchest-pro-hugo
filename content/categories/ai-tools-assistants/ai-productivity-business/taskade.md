@@ -61,4 +61,4 @@ Taskade strikes the perfect balance between powerful features and simplicity. Th
 
 ## Get Started with Taskade
 
-Ready to get started? Visit [Taskade](https://www.taskade.com) to explore the platform and begin using this tool.
+Ready to explore Taskade? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

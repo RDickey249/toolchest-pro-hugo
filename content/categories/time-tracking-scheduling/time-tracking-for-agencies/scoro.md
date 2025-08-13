@@ -41,4 +41,4 @@ Used by creative agencies, consultancies, and service businesses worldwide, Scor
 • Advanced features may require significant setup time for optimal agency CRM coordination and comprehensive project management implementation
 ## Get Started with Scoro
 
-Ready to get started? Visit [Scoro](https://scoro.com) to explore the platform and begin using this tool.
+Ready to explore Scoro? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

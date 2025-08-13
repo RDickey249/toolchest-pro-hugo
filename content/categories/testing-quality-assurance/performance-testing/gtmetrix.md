@@ -1,8 +1,8 @@
 ---
 title: "GTmetrix"
 tagline: "Website speed and performance analysis platform"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Performance Testing"
 tool_name: "GTmetrix"
 deployment_status: "deployed"

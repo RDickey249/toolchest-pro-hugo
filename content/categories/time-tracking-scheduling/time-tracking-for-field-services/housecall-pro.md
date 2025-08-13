@@ -41,4 +41,4 @@ Used by over 25,000 service pros including plumbers, electricians, HVAC technici
 • Advanced mobile features may require consistent mobile connectivity for optimal service workflow coordination and payment processing
 ## Get Started with Housecall Pro
 
-Ready to get started? Visit [Housecall Pro](https://housecallpro.com) to explore the platform and begin using this tool.
+Ready to explore Housecall Pro? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

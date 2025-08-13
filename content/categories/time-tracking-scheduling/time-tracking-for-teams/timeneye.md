@@ -41,4 +41,4 @@ Used by creative agencies and project teams worldwide, Timeneye offers automatic
 • Advanced intelligent features may require significant configuration time for optimal team coordination and smart automation implementation
 ## Get Started with Timeneye
 
-Ready to get started? Visit [Timeneye](https://timeneye.com) to explore the platform and begin using this tool.
+Ready to explore Timeneye? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

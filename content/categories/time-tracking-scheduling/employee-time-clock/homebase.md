@@ -42,4 +42,4 @@ Used by over 100,000 small businesses including restaurants, retail stores, and 
 
 ## Get Started with Homebase
 
-Ready to get started? Visit [Homebase](https://joinhomebase.com) to explore the platform and begin using this tool.
+Ready to explore Homebase? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

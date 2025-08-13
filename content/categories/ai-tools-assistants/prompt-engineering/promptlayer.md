@@ -50,7 +50,7 @@ Building production AI applications requires more than just writing prompts - yo
 
 ## Get Started with PromptLayer
 
-Ready to get started? Visit [PromptLayer](https://promptlayer.com) to explore the platform and begin using this tool.
+Ready to explore PromptLayer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 • Primarily focused on development teams rather than individual users
 
 ## Get Started with PromptLayer

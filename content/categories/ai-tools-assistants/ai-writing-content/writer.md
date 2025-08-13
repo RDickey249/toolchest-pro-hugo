@@ -42,7 +42,7 @@ Used by large organizations and marketing teams, Writer offers brand voice consi
 
 ## Get Started with Writer
 
-Ready to get started? Visit [Writer](https://writer.com) to explore the platform and begin using this tool.
+Ready to explore Writer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

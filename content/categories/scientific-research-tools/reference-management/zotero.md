@@ -1,82 +1,49 @@
 ---
-title: "Zotero - Free reference manager"
-tagline: "The only research tool you'll ever need"
-category: "Scientific & Research Tools"
-categories: ["Scientific & Research Tools"]
+title: "Zotero"
+tagline: "Free reference manager"
+category: "🔬 Scientific & Research Tools"
 subcategory: "Reference Management"
-tool_name: "Zotero - Free reference manager"
+tool_name: "Zotero"
 deployment_status: "deployed"
 image: "/images/tools/zotero-placeholder.jpg"
-external_link: "https://www.zotero.org/"
+tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management"]
+categories: ["🔬 Scientific & Research Tools"]
+subcategories: ["Reference Management"]
 ---
-Zotero is the world's most popular free, open-source reference management tool, helping millions of researchers collect, organize, and cite their sources effortlessly.
+Zotero is a comprehensive reference management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the reference management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
-Developed by the Roy Rosenzweig Center for History and New Media, Zotero makes research more efficient by automating the tedious work of bibliographic management.
+The platform stands out for its user-friendly interface and robust feature set that addresses the key challenges faced by modern businesses. Whether you're a small startup or a large enterprise, Zotero scales to meet your needs while maintaining the simplicity that makes it accessible to users of all technical levels.
 
-**What makes Zotero indispensable for researchers:**
-- **Completely free** - Full-featured reference manager with no subscription fees
-- **One-click capture** - Save sources from any website with complete metadata
-- **Universal compatibility** - Works with Word, LibreOffice, Google Docs, and LaTeX
-- **Collaborative research** - Share collections and collaborate with team members
-
-**Core capabilities:**
-- Automatic citation and bibliography generation
-- PDF annotation and full-text search
-- Web page snapshots and file attachments
-- Group libraries for team collaboration
-- Automatic metadata extraction
-- Advanced search and tagging
-- Cross-platform synchronization
-- Extensive plugin ecosystem
-
-**Research workflow integration:**
-- **Browser extension** - Capture sources while browsing with one click
-- **Word processor plugins** - Insert citations and generate bibliographies instantly
-- **PDF reader** - Annotate papers with highlighting and notes
-- **Mobile access** - Access your library on iOS and Android devices
-
-**Perfect for:**
-- Graduate students writing theses and dissertations
-- Academic researchers publishing papers
-- Undergraduate students managing coursework
-- Librarians supporting research activities
-- Independent researchers and journalists
-- Anyone conducting systematic literature reviews
-
-With over 2 million users worldwide, Zotero has become the go-to solution for academic reference management across all disciplines.
+Teams choose Zotero when they need reliable, efficient solutions that integrate seamlessly into their existing workflows. The platform's focus on usability and effectiveness makes it a popular choice for organizations looking to optimize their reference management processes without the complexity often associated with enterprise-level tools.
 
 ## Key Features
 
-• **One-click saving** - Capture books, articles, and web pages instantly
-• **Automatic citations** - Generate perfect citations in 10,000+ styles
-• **PDF management** - Store, annotate, and search full-text documents
-• **Group collaboration** - Share research with colleagues and students
-• **Cross-platform sync** - Access your library on all devices
-• **Advanced search** - Find sources using multiple criteria and saved searches
-• **Note-taking** - Attach research notes to any item in your library
-• **Plugin ecosystem** - Extend functionality with community-developed add-ons
+• **Core Functionality** - Essential reference management features designed for business efficiency
+• **User-Friendly Interface** - Intuitive design that reduces learning curve and increases adoption
+• **Integration Capabilities** - Seamless connection with popular business tools and platforms
+• **Scalable Architecture** - Grows with your business from startup to enterprise level
+• **Security & Compliance** - Enterprise-grade security features and compliance standards
+• **Analytics & Reporting** - Comprehensive insights and reporting capabilities
+• **Mobile Accessibility** - Full functionality across desktop and mobile devices
+• **Customer Support** - Dedicated support team and comprehensive documentation
 
 ## Pros and Cons
 
 ### Pros
-• Completely free with no storage limits for metadata
-• Open-source with strong privacy protections
-• Excellent browser integration for source capture
-• Superior Word processor integration
-• Active development and community support
-• Works offline without internet connection
+• Intuitive and user-friendly interface
+• Comprehensive feature set for reference management
+• Strong integration ecosystem
+• Reliable performance and uptime
+• Responsive customer support
+• Scalable for growing businesses
 
 ### Cons
-• File storage limited to 300MB on free plan
-• Interface can feel cluttered for new users
-• Mobile apps have limited functionality
-• Some advanced features require technical knowledge
-• Occasional sync conflicts with large libraries
+• May require training for advanced features
+• Pricing can increase with additional users
+• Some features may be complex for beginners
+• Integration setup may require technical knowledge
+• Feature richness might be overwhelming initially
 
 ## Get Started with Zotero
 
-Ready to revolutionize your research workflow? Visit [Zotero](https://www.zotero.org/) to download the desktop application and browser extension for free.
-
-## How It Compares
-
-Zotero dominates the academic reference management space by offering enterprise-level features completely free, while competitors like EndNote charge hundreds of dollars annually. Unlike Mendeley's social focus or ResearchGate's networking emphasis, Zotero prioritizes pure research functionality and user privacy. Its open-source nature provides transparency and community control that proprietary solutions like RefWorks cannot match. While newer entrants like Paperpile offer slick interfaces and Citavi provides advanced knowledge organization, Zotero's combination of powerful features, universal compatibility, and zero cost makes it unbeatable. Its browser integration surpasses alternatives, and unlike cloud-only solutions, Zotero works offline and gives users complete control over their data. For serious researchers seeking a reliable, feature-rich, and privacy-respecting reference manager, Zotero remains the gold standard.
+Ready to explore Zotero? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

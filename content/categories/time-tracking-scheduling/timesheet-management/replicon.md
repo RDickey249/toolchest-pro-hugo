@@ -40,4 +40,4 @@ Replicon delivers enterprise-grade timesheet and billing software through compre
 
 ## Get Started with Replicon
 
-Ready to get started? Visit [Replicon](https://www.replicon.com) to explore the platform and begin using this tool.
+Ready to explore Replicon? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

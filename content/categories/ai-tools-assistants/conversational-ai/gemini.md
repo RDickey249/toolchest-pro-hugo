@@ -72,7 +72,7 @@ Backed by Google's massive resources and DeepMind's world-class AI research team
 
 ## Get Started with Gemini
 
-Ready to get started? Visit [Gemini](https://gemini.google.com) to explore the platform and begin using this tool.
+Ready to explore Gemini? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -9,8 +9,6 @@ image: "/images/tools/supermetrics-placeholder.jpg"
 tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
-affiliate: true
-featured: true
 external_link: "https://supermetrics.com"
 ---
 Supermetrics is the leading marketing data pipeline platform that connects all your marketing platforms to your favorite reporting and analytics tools.
@@ -54,10 +52,7 @@ Instead of manually pulling data from multiple sources, Supermetrics automates d
 Used by over 200,000 marketers and 5,000+ agencies worldwide to streamline their marketing data workflows and create better reports.
 
 
-## Affiliate Disclosure
-
-**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Supermetrics
 
-Ready to get started? Visit [Supermetrics](https://supermetrics.com) to explore the platform and begin using this tool.
+Ready to explore Supermetrics? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

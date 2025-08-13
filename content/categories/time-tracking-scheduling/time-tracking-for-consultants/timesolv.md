@@ -41,4 +41,4 @@ Used by consultants, attorneys, and professional services firms, TimeSolv provid
 • Advanced features may require significant setup time for optimal consulting financial coordination and budget management implementation
 ## Get Started with TimeSolv
 
-Ready to get started? Visit [TimeSolv](https://timesolv.com) to explore the platform and begin using this tool.
+Ready to explore TimeSolv? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

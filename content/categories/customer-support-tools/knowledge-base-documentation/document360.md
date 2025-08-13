@@ -1,8 +1,8 @@
 ---
 title: "Document360"
 tagline: "Customer knowledge base"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Document360"
 deployment_status: "deployed"

@@ -43,7 +43,7 @@ Let's Enhance transforms low-resolution and poor-quality images into crisp, prof
 
 ## Get Started with Let's Enhance
 
-Ready to get started? Visit [Let's Enhance](https://letsenhance.io) to explore the platform and begin using this tool.
+Ready to explore Let's Enhance? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

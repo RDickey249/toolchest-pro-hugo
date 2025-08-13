@@ -42,7 +42,7 @@ Used by fashion retailers and home goods stores with large catalogs, Lily AI off
 
 ## Get Started with Lily AI
 
-Ready to get started? Visit [Lily AI](https://www.lily.ai) to explore the platform and begin using this tool.
+Ready to explore Lily AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

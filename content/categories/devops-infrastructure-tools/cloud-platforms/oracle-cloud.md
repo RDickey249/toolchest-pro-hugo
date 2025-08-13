@@ -1,8 +1,8 @@
 ---
 title: "Oracle Cloud"
 tagline: "Database-focused cloud platform with autonomous services"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cloud Platforms"
 tool_name: "Oracle Cloud"
 deployment_status: "deployed"

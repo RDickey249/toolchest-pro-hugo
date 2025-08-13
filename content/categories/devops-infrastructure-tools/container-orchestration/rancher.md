@@ -1,8 +1,8 @@
 ---
 title: "Rancher"
 tagline: "Complete container management platform for Kubernetes everywhere"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Container & Orchestration"
 tool_name: "Rancher"
 deployment_status: "deployed"

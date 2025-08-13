@@ -1,8 +1,8 @@
 ---
 title: "LiveChat"
 tagline: "Complete customer service platform with live chat software"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat & Messaging"
 tool_name: "LiveChat"
 deployment_status: "deployed"

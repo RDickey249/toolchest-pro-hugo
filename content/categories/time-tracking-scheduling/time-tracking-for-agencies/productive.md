@@ -42,4 +42,4 @@ Used by agencies like AKQA, DDB, and hundreds of creative studios worldwide, Pro
 
 ## Get Started with Productive
 
-Ready to get started? Visit [Productive](https://productive.io) to explore the platform and begin using this tool.
+Ready to explore Productive? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

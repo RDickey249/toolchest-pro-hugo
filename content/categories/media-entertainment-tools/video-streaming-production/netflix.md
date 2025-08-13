@@ -1,8 +1,8 @@
 ---
 title: "Netflix"
 tagline: "Global streaming leader with original content and personalization"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Streaming Production"
 tool_name: "Netflix"
 deployment_status: "deployed"

@@ -1,8 +1,8 @@
 ---
 title: "HackerRank - Programming challenges"
 tagline: "HackerRank is a programming challenge platform that offers coding problems, competitions, and skill assessments across multiple domains including algorithms, data structures, and specialized technologies..."
-category: "Learning & Development"
-categories: ["Learning & Development"]
+category: "🎓 Learning & Development"
+categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "HackerRank"
 deployment_status: "deployed"

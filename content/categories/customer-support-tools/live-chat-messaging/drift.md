@@ -1,8 +1,8 @@
 ---
 title: "Drift"
 tagline: "Ready to transform website visitors into qualified leads? Visit Drift to expe..."
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat & Messaging"
 tool_name: "Drift"
 deployment_status: "deployed"

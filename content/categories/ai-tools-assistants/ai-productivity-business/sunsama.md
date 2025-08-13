@@ -42,7 +42,7 @@ Used by professionals and entrepreneurs seeking intentional productivity, Sunsam
 
 ## Get Started with Sunsama
 
-Ready to get started? Visit [Sunsama](https://www.sunsama.com) to explore the platform and begin using this tool.
+Ready to explore Sunsama? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

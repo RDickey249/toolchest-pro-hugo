@@ -42,4 +42,4 @@ Used by HR teams seeking seamless absence management, Absence.io offers native c
 
 ## Get Started with Absence.io
 
-Ready to get started? Visit [Absence.io](https://absence.io) to explore the platform and begin using this tool.
+Ready to explore Absence.io? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

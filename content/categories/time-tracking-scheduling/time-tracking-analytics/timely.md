@@ -44,4 +44,4 @@ Perfect for teams and organizations that need strategic time intelligence, not j
 
 ## Get Started with Timely
 
-Ready to get started? Visit [Timely](https://timelyapp.com) to explore the platform and begin using this tool.
+Ready to explore Timely? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

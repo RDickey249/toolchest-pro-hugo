@@ -1,8 +1,8 @@
 ---
 title: "VWO"
 tagline: "Complete website optimization and testing platform"
-category: "Testing & Quality Assurance"
-categories: ["Testing & Quality Assurance"]
+category: "🧪 Testing & Quality Assurance"
+categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Ab Testing Optimization"
 tool_name: "VWO"
 deployment_status: "deployed"

@@ -44,7 +44,7 @@ Zingg is ideal for data engineers, IT teams, and enterprises with multiple syste
 
 ## Get Started with Zingg
 
-Ready to get started? Visit [Zingg](https://zingg.ai) to explore the platform and begin using this tool.
+Ready to explore Zingg? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

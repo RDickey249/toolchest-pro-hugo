@@ -9,8 +9,6 @@ image: "/images/tools/lemlist-placeholder.jpg"
 tags: ["crm-sales-tools", "sales-outreach-tools"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Sales Outreach Tools"]
-affiliate: true
-featured: true
 external_link: "https://lemlist.com"
 ---
 Lemlist is the personalized cold outreach platform that helps sales teams create highly customized email campaigns that actually get responses.
@@ -54,10 +52,7 @@ What sets Lemlist apart is its focus on personalization at scale - enabling you 
 Used by over 10,000 companies to create memorable, personalized outreach campaigns that cut through the noise and generate qualified meetings.
 
 
-## Affiliate Disclosure
-
-**Transparency Notice:** This page contains affiliate links. When you click through and make a purchase, ToolChest may earn a commission at no additional cost to you. This helps us maintain our free resource while ensuring we only recommend tools we genuinely believe will benefit your business.
 
 ## Get Started with Lemlist
 
-Ready to get started? Visit [Lemlist](https://lemlist.com) to explore the platform and begin using this tool.
+Ready to explore Lemlist? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

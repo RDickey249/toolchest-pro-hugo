@@ -1,8 +1,8 @@
 ---
 title: "Predis.ai"
 tagline: "Ready to get started? Visit Predis.ai to explore the platform and begin using..."
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Predis.ai"
 deployment_status: "deployed"
@@ -40,7 +40,7 @@ Predis.ai revolutionizes social media content creation by combining AI-powered p
 
 ## Get Started with Predis.ai
 
-Ready to get started? Visit [Predis.ai](https://predis.ai) to explore the platform and begin using this tool.
+Ready to explore Predis.ai? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -44,7 +44,7 @@ Leonardo AI excels at commercial creative work with clear licensing terms and pr
 
 ## Get Started with Leonardo AI
 
-Ready to get started? Visit [Leonardo AI](https://leonardo.ai) to explore the platform and begin using this tool.
+Ready to explore Leonardo AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

@@ -1,8 +1,8 @@
 ---
 title: "Helm"
 tagline: "Package manager for Kubernetes applications"
-category: "DevOps & Infrastructure Tools"
-categories: ["DevOps & Infrastructure Tools"]
+category: "🔧 DevOps & Infrastructure Tools"
+categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Container Orchestration"
 tool_name: "Helm"
 deployment_status: "deployed"

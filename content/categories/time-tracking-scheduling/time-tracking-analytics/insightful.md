@@ -44,4 +44,4 @@ Insightful serves large enterprises, remote-first organizations, and companies w
 
 ## Get Started with Insightful
 
-Ready to get started? Visit [Insightful](https://www.insightful.io) to explore the platform and begin using this tool.
+Ready to explore Insightful? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

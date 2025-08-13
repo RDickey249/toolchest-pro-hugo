@@ -1,8 +1,8 @@
 ---
 title: "Treehouse - Web development"
 tagline: "Treehouse is a web development learning platform that teaches programming through interactive courses, coding challenges, and real-world projects covering front-end and back-end development technologies..."
-category: "Learning & Development"
-categories: ["Learning & Development"]
+category: "🎓 Learning & Development"
+categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Treehouse"
 deployment_status: "deployed"

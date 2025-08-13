@@ -44,4 +44,4 @@ The platform is ideal for freelancers managing multiple client projects, small a
 
 ## Get Started with Paymo
 
-Ready to get started? Visit [Paymo](https://paymoapp.com) to explore the platform and begin using this tool.
+Ready to explore Paymo? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

@@ -40,7 +40,7 @@ DALL·E via ChatGPT revolutionizes creative visualization by combining OpenAI's 
 
 ## Get Started with DALL·E (via ChatGPT)
 
-Ready to get started? Visit [ChatGPT](https://chat.openai.com) to explore the platform and begin using this tool.
+Ready to explore DALL·E (via ChatGPT)? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

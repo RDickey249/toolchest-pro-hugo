@@ -41,4 +41,4 @@ Used by freelancers across creative and professional services, Hectic eliminates
 • Advanced features may require significant setup time for optimal freelance business coordination and comprehensive operational implementation
 ## Get Started with Hectic
 
-Ready to get started? Visit [Hectic](https://hectic.com) to explore the platform and begin using this tool.
+Ready to explore Hectic? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

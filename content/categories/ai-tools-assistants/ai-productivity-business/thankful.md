@@ -40,7 +40,7 @@ Thankful revolutionizes e-commerce customer service by providing AI-powered auto
 
 ## Get Started with Thankful
 
-Ready to get started? Visit [Thankful](https://www.thankful.ai) to explore the platform and begin using this tool.
+Ready to explore Thankful? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

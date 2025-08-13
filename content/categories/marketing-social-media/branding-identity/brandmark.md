@@ -1,8 +1,8 @@
 ---
 title: "Brandmark"
 tagline: "AI-powered logo creation with original designs"
-category: "Marketing & Social Media"
-categories: ["Marketing & Social Media"]
+category: "📢 Marketing & Social Media"
+categories: ["📢 Marketing & Social Media"]
 subcategory: "Branding Identity"
 tool_name: "Brandmark"
 deployment_status: "deployed"
@@ -41,7 +41,7 @@ Brandmark transforms logo creation through advanced AI that generates unique, pr
 
 ## Get Started with Brandmark
 
-Ready to get started? Visit [Brandmark](https://brandmark.io) to explore the platform and begin using this tool.
+Ready to explore Brandmark? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

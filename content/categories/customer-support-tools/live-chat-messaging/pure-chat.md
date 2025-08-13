@@ -1,8 +1,8 @@
 ---
 title: "Pure Chat"
 tagline: "Live chat software designed for small businesses"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat Messaging"
 tool_name: "Pure Chat"
 deployment_status: "deployed"

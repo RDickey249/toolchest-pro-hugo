@@ -44,4 +44,4 @@ uAttend serves manufacturing facilities, healthcare organizations, and businesse
 
 ## Get Started with uAttend
 
-Ready to get started? Visit [uAttend](https://www.uattend.com) to explore the platform and begin using this tool.
+Ready to explore uAttend? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

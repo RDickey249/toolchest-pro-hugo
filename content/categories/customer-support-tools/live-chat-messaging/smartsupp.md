@@ -1,8 +1,8 @@
 ---
 title: "Smartsupp"
 tagline: "Live chat with video recording and chatbots"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat Messaging"
 tool_name: "Smartsupp"
 deployment_status: "deployed"

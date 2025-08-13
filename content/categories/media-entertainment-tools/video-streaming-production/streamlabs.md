@@ -1,8 +1,8 @@
 ---
 title: "Streamlabs"
 tagline: "All-in-one streaming platform with integrated tools and widgets"
-category: "Media & Entertainment Tools"
-categories: ["Media & Entertainment Tools"]
+category: "🎵 Media & Entertainment Tools"
+categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Streaming Production"
 tool_name: "Streamlabs"
 deployment_status: "deployed"
@@ -82,4 +82,4 @@ Individual streamers from hobbyists to full-time content creators appreciate Str
 
 ## Get Started with Streamlabs
 
-Ready to get started? Visit [Streamlabs](https://streamlabs.com) to explore the platform and begin using this tool.
+Ready to explore Streamlabs? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

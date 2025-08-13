@@ -41,4 +41,4 @@ Used by over 200,000 service professionals including landscapers, plumbers, clea
 • Advanced features may require significant setup time for optimal field service business coordination and comprehensive CRM implementation
 ## Get Started with Jobber
 
-Ready to get started? Visit [Jobber](https://jobber.com) to explore the platform and begin using this tool.
+Ready to explore Jobber? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.

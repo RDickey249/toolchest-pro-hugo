@@ -1,8 +1,8 @@
 ---
 title: "KnowledgeOwl"
 tagline: "Flexible knowledge base software with powerful authoring tools"
-category: "Customer Support Tools"
-categories: ["Customer Support Tools"]
+category: "🎧 Customer Support Tools"
+categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base Documentation"
 tool_name: "KnowledgeOwl"
 deployment_status: "deployed"

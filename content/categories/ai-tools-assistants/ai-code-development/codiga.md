@@ -40,7 +40,7 @@ Codiga transforms code quality management by providing intelligent code analysis
 
 ## Get Started with Codiga
 
-Ready to get started? Visit [Codiga](https://www.codiga.io) to explore the platform and begin using this tool.
+Ready to explore Codiga? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 

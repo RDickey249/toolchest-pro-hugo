@@ -40,7 +40,7 @@ PhotoRoom revolutionizes product photography and e-commerce visuals by providing
 
 ## Get Started with PhotoRoom
 
-Ready to get started? Visit [PhotoRoom](https://www.photoroom.com) to explore the platform and begin using this tool.
+Ready to explore PhotoRoom? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
 
 ## How It Compares
 
