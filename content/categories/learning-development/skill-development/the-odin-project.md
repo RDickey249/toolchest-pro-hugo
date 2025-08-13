@@ -57,4 +57,4 @@ Self-motivated learners choose The Odin Project when they want comprehensive ful
 
 ## Get Started with The Odin Project
 
-Ready to get started? Visit [The Odin Project](https://www.theodinproject.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [The Odin Project](https://www.theodinproject.com/) to explore the platform and begin your web development journey.

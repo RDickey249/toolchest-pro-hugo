@@ -57,4 +57,4 @@ Developers and job seekers choose HackerRank when they want to practice programm
 
 ## Get Started with HackerRank
 
-Ready to get started? Visit [HackerRank](https://www.hackerrank.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [HackerRank](https://www.hackerrank.com/) to explore the platform and begin improving your coding skills.

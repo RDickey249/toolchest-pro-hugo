@@ -17,7 +17,7 @@ Used by graphic design agencies, web design studios, and marketing agencies worl
 
 Ready to optimize your creative workflow?
 
-Ready to get started? Visit [this tool](https://www.functionfox.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [FunctionFox](https://www.functionfox.com) to explore the platform and begin tracking your time and projects.
 
 Explore project management designed specifically for creative agencies and design studios.
 

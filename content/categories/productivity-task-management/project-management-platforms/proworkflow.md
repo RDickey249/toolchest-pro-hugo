@@ -17,7 +17,7 @@ Used by creative agencies, consultancies, and professional services firms worldw
 
 Ready to streamline your agency workflow?
 
-Ready to get started? Visit [this tool](https://www.proworkflow.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [ProWorkflow](https://www.proworkflow.com) to explore the platform and begin organizing your workflow.
 
 Manage projects, time tracking, client communication, and invoicing in one integrated platform.
 

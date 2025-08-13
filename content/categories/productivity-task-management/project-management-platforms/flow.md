@@ -27,7 +27,7 @@ Perfect for small teams, creative agencies, and distributed teams who want relia
 
 Ready to simplify your team's project coordination?
 
-Ready to get started? Visit [this tool](https://www.getflow.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Flow](https://www.getflow.com) to explore the platform and begin streamlining your workflow.
 
 Experience streamlined task management without overwhelming complexity.
 • **Calendar and timeline integration** - Deadline management with calendar views and milestone tracking

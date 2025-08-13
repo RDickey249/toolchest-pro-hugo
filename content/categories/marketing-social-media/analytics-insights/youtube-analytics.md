@@ -57,4 +57,4 @@ Content creators and video marketers choose YouTube Analytics when they need com
 
 ## Get Started with YouTube Analytics
 
-Ready to get started? Visit [YouTube Analytics](https://support.google.com/youtube/answer/1714323) to explore the platform and begin using this tool.
+Ready to get started? Visit [YouTube Analytics](https://support.google.com/youtube/answer/1714323) to explore the platform and begin optimizing your YouTube channel.

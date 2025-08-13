@@ -17,7 +17,7 @@ Used by small teams, remote teams, and project teams worldwide, Taskulu focuses 
 
 Ready to enhance team productivity? 
 
-Ready to get started? Visit [this tool](https://taskulu.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Taskulu](https://taskulu.com) to explore the platform and begin streamlining your task management.
 
 Explore collaborative task management with integrated team communication and unified project coordination.
 

@@ -57,4 +57,4 @@ Content creators and brands targeting younger audiences choose TikTok Analytics 
 
 ## Get Started with TikTok Analytics
 
-Ready to get started? Visit [TikTok Analytics](https://business.tiktok.com/en/solutions/tiktok-analytics) to explore the platform and begin using this tool.
+Ready to get started? Visit [TikTok Analytics](https://business.tiktok.com/en/solutions/tiktok-analytics) to explore the platform and begin tracking your TikTok performance.

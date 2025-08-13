@@ -17,7 +17,7 @@ Used by companies like Sony Music and Mercedes-Benz, Podio replaces multiple bus
 
 Ready to build custom business applications?
 
-Ready to get started? Visit [this tool](https://podio.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Podio](https://podio.com) to explore the platform and begin organizing your workflows.
 
 Create tailored CRM systems, project trackers, and process management tools without coding.
 

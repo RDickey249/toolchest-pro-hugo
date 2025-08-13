@@ -17,7 +17,7 @@ Used by sales teams, marketing teams, and remote teams worldwide, Quip integrate
 
 Ready to enhance team productivity?
 
-Ready to get started? Visit [this tool](https://quip.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Quip](https://quip.com) to explore the platform and begin collaborating on documents.
 
 Explore collaborative documents, spreadsheets, and chat integrated into a unified workspace for seamless team communication.
 

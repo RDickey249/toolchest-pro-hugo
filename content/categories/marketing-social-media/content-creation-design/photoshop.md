@@ -57,4 +57,4 @@ Professional photographers, graphic designers, and digital artists choose Photos
 
 ## Get Started with Photoshop
 
-Ready to get started? Visit [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to explore the platform and begin using this tool.
+Ready to get started? Visit [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to explore the platform and begin creating stunning visuals.

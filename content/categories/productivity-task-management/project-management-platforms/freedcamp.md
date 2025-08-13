@@ -17,7 +17,7 @@ Used by nonprofits, startups, and budget-conscious teams worldwide, Freedcamp pr
 
 Ready to access professional project management completely free?
 
-Ready to get started? Visit [this tool](https://freedcamp.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [FreedCamp](https://freedcamp.com) to explore the platform and begin managing your projects for free.
 
 Manage unlimited projects and users without cost.
 

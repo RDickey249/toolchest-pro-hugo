@@ -57,4 +57,4 @@ Career changers and aspiring developers choose FreeCodeCamp when they want compr
 
 ## Get Started with FreeCodeCamp
 
-Ready to get started? Visit [FreeCodeCamp](https://www.freecodecamp.org/) to explore the platform and begin using this tool.
+Ready to get started? Visit [FreeCodeCamp](https://www.freecodecamp.org/) to explore the platform and begin learning programming for free.

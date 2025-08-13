@@ -17,7 +17,7 @@ Used by consulting firms, creative agencies, and enterprise organizations worldw
 
 Ready to transform your project management?
 
-Ready to get started? Visit [this tool](https://www.forecast.app) to explore the platform and begin using this tool.
+Ready to get started? Visit [Forecast](https://www.forecast.app) to explore the platform and begin optimizing your project planning.
 
 Explore intelligent resource planning with predictive analytics and AI-powered project optimization.
 

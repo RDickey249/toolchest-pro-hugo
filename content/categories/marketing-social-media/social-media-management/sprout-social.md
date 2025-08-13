@@ -57,4 +57,4 @@ Enterprise marketing teams choose Sprout Social when they need a platform that t
 
 ## Get Started with Sprout Social
 
-Ready to get started? Visit [Sprout Social](https://sproutsocial.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Sprout Social](https://sproutsocial.com/) to explore the platform and begin enhancing your social media strategy.

@@ -57,4 +57,4 @@ Developers choose Exercism when they want to improve code quality and deepen the
 
 ## Get Started with Exercism
 
-Ready to get started? Visit [Exercism](https://exercism.org/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Exercism](https://exercism.org/) to explore the platform and begin practicing programming with mentor feedback.

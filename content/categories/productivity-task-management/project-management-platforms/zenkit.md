@@ -26,7 +26,7 @@ Zenkit revolutionizes project organization through a flexible platform that adap
 
 Ready to organize projects with complete flexibility? 
 
-Ready to get started? Visit [this tool](https://zenkit.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Zenkit](https://zenkit.com) to explore the platform and begin organizing your projects efficiently.
 
 Manage projects using kanban boards, calendars, lists, mind maps, and tables in one adaptable platform.
 

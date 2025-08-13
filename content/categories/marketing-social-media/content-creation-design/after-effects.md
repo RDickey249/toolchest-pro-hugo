@@ -57,4 +57,4 @@ Motion designers, video marketers, and visual effects artists choose After Effec
 
 ## Get Started with After Effects
 
-Ready to get started? Visit [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) to explore the platform and begin using this tool.
+Ready to get started? Visit [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) to explore the platform and begin creating motion graphics.

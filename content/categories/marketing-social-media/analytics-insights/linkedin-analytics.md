@@ -57,4 +57,4 @@ B2B marketers and professional service providers choose LinkedIn Analytics when 
 
 ## Get Started with LinkedIn Analytics
 
-Ready to get started? Visit [LinkedIn Analytics](https://www.linkedin.com/business/insights) to explore the platform and begin using this tool.
+Ready to get started? Visit [LinkedIn Analytics](https://www.linkedin.com/business/insights) to explore the platform and begin analyzing your LinkedIn performance.

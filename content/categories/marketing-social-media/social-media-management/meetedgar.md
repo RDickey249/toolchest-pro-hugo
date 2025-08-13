@@ -57,4 +57,4 @@ Small businesses and solopreneurs choose MeetEdgar when they need to maintain co
 
 ## Get Started with MeetEdgar
 
-Ready to get started? Visit [MeetEdgar](https://meetedgar.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [MeetEdgar](https://meetedgar.com/) to explore the platform and begin automating your social media.

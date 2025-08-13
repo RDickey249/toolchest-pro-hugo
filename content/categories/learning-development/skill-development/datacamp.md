@@ -57,4 +57,4 @@ Aspiring and current data professionals choose DataCamp when they want practical
 
 ## Get Started with DataCamp
 
-Ready to get started? Visit [DataCamp](https://www.datacamp.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [DataCamp](https://www.datacamp.com/) to explore the platform and begin mastering data science skills.

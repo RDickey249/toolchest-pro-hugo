@@ -57,4 +57,4 @@ Marketing teams and agencies choose Hootsuite when they need to manage complex s
 
 ## Get Started with Hootsuite
 
-Ready to get started? Visit [Hootsuite](https://hootsuite.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Hootsuite](https://hootsuite.com/) to explore the platform and begin managing your social media channels.

@@ -57,4 +57,4 @@ E-commerce businesses and visual content creators choose Pinterest Analytics whe
 
 ## Get Started with Pinterest Analytics
 
-Ready to get started? Visit [Pinterest Analytics](https://business.pinterest.com/en/pinterest-analytics/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Pinterest Analytics](https://business.pinterest.com/en/pinterest-analytics/) to explore the platform and begin tracking your Pinterest performance.

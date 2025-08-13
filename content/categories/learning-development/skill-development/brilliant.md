@@ -57,4 +57,4 @@ Students and professionals choose Brilliant when they want to develop deep under
 
 ## Get Started with Brilliant
 
-Ready to get started? Visit [Brilliant](https://brilliant.org/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Brilliant](https://brilliant.org/) to explore the platform and begin learning through interactive problem-solving.

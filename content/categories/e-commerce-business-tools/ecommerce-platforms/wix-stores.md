@@ -3,7 +3,7 @@ title: "Wix Stores"
 tagline: "Drag-and-drop commerce"
 category: "🛍️ E-commerce & Business Tools"
 categories: ["🛍️ E-commerce & Business Tools"]
-subcategory: "E-commerce Platforms"
+subcategory: "Ecommerce Platforms"
 tool_name: "Wix Stores"
 deployment_status: "deployed"
 image: "/images/tools/wix-stores-placeholder.jpg"

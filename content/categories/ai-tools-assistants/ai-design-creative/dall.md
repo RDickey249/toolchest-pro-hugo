@@ -57,4 +57,4 @@ Creators, designers, and businesses choose DALL-E when they need high-quality AI
 
 ## Get Started with DALL-E
 
-Ready to get started? Visit [DALL-E](https://openai.com/dall-e-2) to explore the platform and begin using this tool.
+Ready to get started? Visit [DALL-E](https://openai.com/dall-e-2) to explore the platform and begin creating AI-generated artwork.

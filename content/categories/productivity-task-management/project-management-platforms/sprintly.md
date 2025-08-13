@@ -17,7 +17,7 @@ Used by software development teams, product managers, and startups worldwide, Sp
 
 Ready to revolutionize your agile workflow? 
 
-Ready to get started? Visit [this tool](https://sprint.ly) to explore the platform and begin using this tool.
+Ready to get started? Visit [Sprintly](https://sprint.ly) to explore the platform and begin accelerating your development sprints.
 
 Explore story-driven project management with seamless user stories, sprint planning, and continuous delivery integration.
 

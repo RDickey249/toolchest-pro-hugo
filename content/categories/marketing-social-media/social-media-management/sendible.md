@@ -57,4 +57,4 @@ Digital agencies and social media management companies choose Sendible when they
 
 ## Get Started with Sendible
 
-Ready to get started? Visit [Sendible](https://www.sendible.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Sendible](https://www.sendible.com/) to explore the platform and begin streamlining your social media workflow.

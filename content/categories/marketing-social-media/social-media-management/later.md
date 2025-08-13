@@ -57,4 +57,4 @@ Creative teams and visual brands choose Later when they need a platform that pri
 
 ## Get Started with Later
 
-Ready to get started? Visit [Later](https://later.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Later](https://later.com/) to explore the platform and begin scheduling your content.

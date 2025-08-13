@@ -17,7 +17,7 @@ Trusted by marketing teams, professional services firms, and mid-market organiza
 
 Ready for enterprise-grade project management? 
 
-Ready to get started? Visit [this tool](https://www.workzone.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Workzone](https://www.workzone.com) to explore the platform and begin streamlining your project management.
 
 Explore powerful project coordination with exceptional customer support and reliable performance.
 

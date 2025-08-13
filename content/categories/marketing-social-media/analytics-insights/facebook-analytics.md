@@ -57,4 +57,4 @@ Digital marketers and social media managers choose Facebook Analytics when they 
 
 ## Get Started with Facebook Analytics
 
-Ready to get started? Visit [Facebook Analytics](https://www.facebook.com/business/insights) to explore the platform and begin using this tool.
+Ready to get started? Visit [Facebook Analytics](https://www.facebook.com/business/insights) to explore the platform and begin analyzing your Facebook performance.

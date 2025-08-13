@@ -57,4 +57,4 @@ Developers choose Codewars when they want to sharpen their programming skills th
 
 ## Get Started with Codewars
 
-Ready to get started? Visit [Codewars](https://www.codewars.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Codewars](https://www.codewars.com/) to explore the platform and begin sharpening your coding skills through challenges.

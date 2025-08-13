@@ -3,7 +3,7 @@ title: "OpenCart"
 tagline: "PHP-based e-commerce"
 category: "🛍️ E-commerce & Business Tools"
 categories: ["🛍️ E-commerce & Business Tools"]
-subcategory: "E-commerce Platforms"
+subcategory: "Ecommerce Platforms"
 tool_name: "OpenCart"
 deployment_status: "deployed"
 image: "/images/tools/opencart-placeholder.jpg"

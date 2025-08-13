@@ -57,4 +57,4 @@ Mathematically-inclined programmers choose Project Euler when they want to devel
 
 ## Get Started with Project Euler
 
-Ready to get started? Visit [Project Euler](https://projecteuler.net/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Project Euler](https://projecteuler.net/) to explore the platform and begin solving mathematical challenges.

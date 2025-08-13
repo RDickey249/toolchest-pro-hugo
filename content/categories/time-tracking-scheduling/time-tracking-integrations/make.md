@@ -45,4 +45,4 @@ The platform is ideal for businesses requiring complex time tracking automation,
 
 ## Get Started with Make
 
-Ready to get started? Visit [Make](https://www.make.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Make](https://www.make.com) to explore the platform and begin automating your workflows.

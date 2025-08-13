@@ -57,4 +57,4 @@ Serious learners choose Anki when they need maximum retention efficiency and are
 
 ## Get Started with Anki
 
-Ready to get started? Visit [Anki](https://apps.ankiweb.net/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Anki](https://apps.ankiweb.net/) to explore the platform and begin creating your personalized flashcard study system.

@@ -19,7 +19,7 @@ MeisterTask is ideal for creative teams, marketing departments, and small busine
 
 Ready to make project management beautiful?
 
-Ready to get started? Visit [this tool](https://www.meistertask.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [MeisterTask](https://www.meistertask.com) to explore the platform and begin organizing your team projects.
 
 Explore Kanban-style project management with visual workflow organization and seamless team collaboration.
 

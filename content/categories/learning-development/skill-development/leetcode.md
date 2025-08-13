@@ -57,4 +57,4 @@ Software engineers and computer science students choose LeetCode when they need 
 
 ## Get Started with LeetCode
 
-Ready to get started? Visit [LeetCode](https://leetcode.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [LeetCode](https://leetcode.com/) to explore the platform and begin practicing coding challenges.

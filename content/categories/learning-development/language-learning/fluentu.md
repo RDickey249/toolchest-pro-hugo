@@ -57,4 +57,4 @@ Language learners choose FluentU when they want to develop real-world listening 
 
 ## Get Started with FluentU
 
-Ready to get started? Visit [FluentU](https://www.fluentu.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [FluentU](https://www.fluentu.com/) to explore the platform and begin learning languages through real-world videos.

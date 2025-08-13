@@ -17,7 +17,7 @@ Used by marketing teams, construction managers, and event planners worldwide, Te
 
 Ready to simplify project planning? 
 
-Ready to get started? Visit [this tool](https://www.teamgantt.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [TeamGantt](https://www.teamgantt.com) to explore the platform and begin creating project timelines.
 
 Create intuitive, drag-and-drop Gantt charts that make advanced project scheduling accessible to your entire team.
 

@@ -57,4 +57,4 @@ Aspiring web developers choose Treehouse when they want comprehensive, career-fo
 
 ## Get Started with Treehouse
 
-Ready to get started? Visit [Treehouse](https://teamtreehouse.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Treehouse](https://teamtreehouse.com/) to explore the platform and begin learning web development skills.

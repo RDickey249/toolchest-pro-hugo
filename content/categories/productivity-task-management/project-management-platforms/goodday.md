@@ -45,6 +45,6 @@ Used by growing businesses and cross-departmental teams, GoodDay offers goal cas
 
 Ready to optimize your project workflows?
 
-Ready to get started? Visit [this tool](https://www.goodday.work) to explore the platform and begin using this tool.
+Ready to get started? Visit [GoodDay](https://www.goodday.work) to explore the platform and begin managing your projects.
 
 Explore comprehensive project management with integrated planning, task tracking, and team collaboration tools.

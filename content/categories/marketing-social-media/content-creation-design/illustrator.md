@@ -57,4 +57,4 @@ Graphic designers, brand specialists, and illustrators choose Illustrator when t
 
 ## Get Started with Illustrator
 
-Ready to get started? Visit [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) to explore the platform and begin using this tool.
+Ready to get started? Visit [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) to explore the platform and begin creating vector graphics.

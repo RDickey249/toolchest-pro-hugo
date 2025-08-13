@@ -57,4 +57,4 @@ Language learners choose Memrise when they want to build and maintain extensive 
 
 ## Get Started with Memrise
 
-Ready to get started? Visit [Memrise](https://www.memrise.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Memrise](https://www.memrise.com/) to explore the platform and begin learning languages through spaced repetition.

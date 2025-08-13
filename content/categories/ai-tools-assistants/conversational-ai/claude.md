@@ -72,7 +72,7 @@ Chosen by enterprises and individuals who value both AI capability and responsib
 
 ## Get Started with Claude
 
-Ready to get started? Visit [Claude](https://claude.ai) to explore the platform and begin using this tool.
+Ready to get started? Visit [Claude](https://claude.ai) to explore the platform and begin having AI-powered conversations.
 
 ## How It Compares
 

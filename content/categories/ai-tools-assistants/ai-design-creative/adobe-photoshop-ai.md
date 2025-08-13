@@ -41,7 +41,7 @@ Adobe Photoshop's AI features revolutionize professional image editing by integr
 
 ## Get Started with Adobe Photoshop AI
 
-Ready to get started? Visit [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to explore the platform and begin using this tool.
+Ready to get started? Visit [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to explore the platform and begin creating with AI-powered design tools.
 
 ## How It Compares
 

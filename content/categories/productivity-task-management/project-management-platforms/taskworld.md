@@ -17,7 +17,7 @@ Used by remote teams, marketing departments, and growing companies worldwide, Ta
 
 Ready to enhance team productivity? 
 
-Ready to get started? Visit [this tool](https://taskworld.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Taskworld](https://taskworld.com) to explore the platform and begin enhancing your team collaboration.
 
 Explore visual project management with intuitive task organization and powerful collaboration features.
 

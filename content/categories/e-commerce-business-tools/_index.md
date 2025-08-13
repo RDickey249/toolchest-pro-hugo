@@ -1,6 +1,6 @@
 ---
 title: "🛍️ E-commerce & Business Tools"
-slug: "e-commerce-business-tools"
+slug: "ecommerce-business-tools"
 description: "Online store platforms, payment processing, and e-commerce solutions"
 categories: ["🛍️ E-commerce & Business Tools"]
 category: "🛍️ E-commerce & Business Tools"

@@ -57,4 +57,4 @@ Publishers, marketing agencies, and graphic designers choose InDesign when they 
 
 ## Get Started with InDesign
 
-Ready to get started? Visit [Adobe InDesign](https://www.adobe.com/products/indesign.html) to explore the platform and begin using this tool.
+Ready to get started? Visit [Adobe InDesign](https://www.adobe.com/products/indesign.html) to explore the platform and begin creating professional layouts.

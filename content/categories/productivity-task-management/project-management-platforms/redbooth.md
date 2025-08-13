@@ -17,7 +17,7 @@ Used by growing businesses and distributed teams worldwide, Redbooth offers comp
 
 Ready to integrate project management with team collaboration? 
 
-Ready to get started? Visit [this tool](https://redbooth.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [Redbooth](https://redbooth.com) to explore the platform and begin enhancing your team collaboration.
 
 Coordinate projects with Gantt charts, task dependencies, and built-in team communication.
 

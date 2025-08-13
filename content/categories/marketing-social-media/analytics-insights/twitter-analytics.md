@@ -57,4 +57,4 @@ Social media managers and content creators choose Twitter Analytics when they ne
 
 ## Get Started with Twitter Analytics
 
-Ready to get started? Visit [Twitter Analytics](https://analytics.twitter.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Twitter Analytics](https://analytics.twitter.com/) to explore the platform and begin optimizing your Twitter strategy.

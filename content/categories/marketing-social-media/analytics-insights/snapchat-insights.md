@@ -57,4 +57,4 @@ Brands targeting younger audiences and businesses using AR marketing choose Snap
 
 ## Get Started with Snapchat Insights
 
-Ready to get started? Visit [Snapchat Insights](https://business.snapchat.com/insights) to explore the platform and begin using this tool.
+Ready to get started? Visit [Snapchat Insights](https://business.snapchat.com/insights) to explore the platform and begin tracking your Snapchat performance.

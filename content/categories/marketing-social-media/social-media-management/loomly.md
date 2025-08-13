@@ -57,4 +57,4 @@ Marketing teams and brand managers choose Loomly when they need a platform that 
 
 ## Get Started with Loomly
 
-Ready to get started? Visit [Loomly](https://www.loomly.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Loomly](https://www.loomly.com/) to explore the platform and begin streamlining your social media management.

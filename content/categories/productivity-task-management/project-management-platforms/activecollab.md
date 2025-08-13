@@ -17,7 +17,7 @@ Used by agencies and teams worldwide, ActiveCollab offers project planning, team
 
 Ready to integrate project management with client billing? 
 
-Ready to get started? Visit [this tool](https://activecollab.com) to explore the platform and begin using this tool.
+Ready to get started? Visit [ActiveCollab](https://activecollab.com) to explore the platform and begin managing your projects efficiently.
 
 Explore task management, time tracking, and automatic invoicing in one comprehensive system.
 

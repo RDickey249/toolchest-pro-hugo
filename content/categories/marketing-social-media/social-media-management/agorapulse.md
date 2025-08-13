@@ -57,4 +57,4 @@ Marketing teams and community managers choose Agorapulse when they need a platfo
 
 ## Get Started with Agorapulse
 
-Ready to get started? Visit [Agorapulse](https://www.agorapulse.com/) to explore the platform and begin using this tool.
+Ready to get started? Visit [Agorapulse](https://www.agorapulse.com/) to explore the platform and begin managing your social media presence.
