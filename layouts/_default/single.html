@@ -19,7 +19,7 @@
             {{ end }}
         </div>
         
-        <h1>{{ .Title }}</h1>
+        <h1><a href="{{ .Params.external_link | default "#" }}" class="tool-title-link" target="_blank" rel="noopener">{{ .Title }}</a></h1>
         
         {{ if .Params.tagline }}
         <p class="tool-tagline">{{ .Params.tagline }}</p>
