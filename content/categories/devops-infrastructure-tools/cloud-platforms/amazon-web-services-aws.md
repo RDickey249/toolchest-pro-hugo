@@ -7,6 +7,7 @@ subcategory: "Cloud Platforms"
 tool_name: "AWS"
 deployment_status: "deployed"
 image: "/images/tools/aws-placeholder.jpg"
+external_link: "https://www.amazonwebservicesaws.com"
 ---
 Amazon Web Services is the world's most comprehensive and widely adopted cloud platform, trusted by millions of customers including Netflix, Airbnb, and NASA to power their most critical applications. With over 200 services and a global infrastructure spanning 99 Availability Zones, AWS has maintained its position as the cloud computing market leader since launching in 2006.
 

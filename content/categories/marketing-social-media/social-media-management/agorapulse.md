@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "Agorapulse"
 deployment_status: "deployed"
 image: "/images/tools/agorapulse-placeholder.jpg"
+external_link: "https://www.agorapulse.com"
 ---
 
 Agorapulse is a comprehensive social media management platform that combines publishing, monitoring, and reporting with robust team collaboration and customer relationship features. The platform emphasizes community management and customer engagement, providing tools that help businesses build meaningful relationships with their social media audiences while maintaining efficient content workflows.

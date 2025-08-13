@@ -9,6 +9,7 @@ image: "/images/tools/process-street-placeholder.jpg"
 tags: ["automation-workflows", "business-process-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
+external_link: "https://www.processstreet.com"
 ---
 Process Street is a comprehensive business process automation solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business process automation space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Process Street when they need reliable, efficient solutions that in
 
 ## Get Started with Process Street
 
-Ready to explore Process Street? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Process Street](https://www.processstreet.com) to explore the platform and begin using this powerful tool.

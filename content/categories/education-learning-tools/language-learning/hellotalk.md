@@ -9,6 +9,7 @@ image: "/images/tools/hellotalk-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms", "language-learning"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Language Learning"]
+external_link: "https://www.hellotalk.com"
 ---
 HelloTalk is a comprehensive language learning solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the language learning space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose HelloTalk when they need reliable, efficient solutions that integra
 
 ## Get Started with HelloTalk
 
-Ready to explore HelloTalk? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [HelloTalk](https://www.hellotalk.com) to explore the platform and begin using this powerful tool.

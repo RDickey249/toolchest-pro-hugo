@@ -9,6 +9,7 @@ image: "/images/tools/integromat-make-placeholder.jpg"
 tags: ["automation-workflows", "workflow-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Workflow Automation"]
+external_link: "https://www.integromatmake.com"
 ---
 Integromat (Make) is a comprehensive workflow automation solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the workflow automation space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

@@ -9,6 +9,7 @@ image: "/images/tools/switch-access-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms", "communication-language-tools"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Communication & Language Tools"]
+external_link: "https://www.switchaccess.com"
 ---
 Switch Access is a comprehensive communication & language tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the communication & language tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Switch Access when they need reliable, efficient solutions that int
 
 ## Get Started with Switch Access
 
-Ready to explore Switch Access? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Switch Access](https://www.switchaccess.com) to explore the platform and begin using this powerful tool.

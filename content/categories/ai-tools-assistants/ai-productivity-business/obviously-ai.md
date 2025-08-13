@@ -7,6 +7,7 @@ subcategory: "Ai Productivity Business"
 tool_name: "Obviously AI"
 deployment_status: "deployed"
 image: "/images/tools/obviously-ai-placeholder.jpg"
+external_link: "https://www.obviouslyai.com"
 ---
 Obviously AI democratizes machine learning by enabling business users to build sophisticated predictive models without coding expertise, transforming complex data science into simple, point-and-click analytics that anyone can master. This revolutionary platform eliminates the traditional barriers between business questions and predictive insights, making it possible to forecast sales, predict customer behavior, and identify trends using natural language queries rather than programming skills. Obviously AI's strength lies in its ability to automatically handle data preprocessing, feature engineering, and model selection, delivering enterprise-grade predictions through an intuitive interface that feels more like using Excel than complex analytics software. The platform excels at empowering business analysts, marketers, and operations teams to generate actionable insights that drive decision-making and improve outcomes. Whether you're predicting customer churn for retention campaigns, forecasting demand for inventory planning, or identifying high-value prospects for sales targeting, Obviously AI provides the predictive intelligence that transforms data into competitive advantage. Its transparent approach to AI ensures users understand not just what will happen, but why, building confidence in data-driven decisions across the organization.
 
@@ -23,7 +24,7 @@ Obviously AI democratizes machine learning by enabling business users to build s
 
 ## Get Started with Obviously AI
 
-Ready to explore Obviously AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Obviously AI](https://www.obviouslyai.com) to explore the platform and begin using this powerful tool.
 
 ## Pros and Cons
 

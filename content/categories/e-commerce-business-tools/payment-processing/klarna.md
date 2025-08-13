@@ -7,6 +7,7 @@ subcategory: "Payment Processing"
 tool_name: "Klarna"
 deployment_status: "deployed"
 image: "/images/tools/klarna-placeholder.jpg"
+external_link: "https://www.klarna.com"
 ---
 Klarna revolutionizes online commerce by providing flexible buy-now-pay-later payment solutions that transform the checkout experience for consumers while significantly boosting conversion rates and average order values for merchants through innovative payment flexibility that removes financial barriers to purchase. This pioneering platform democratizes access to desired products by enabling consumers to spread payments over time while providing merchants with immediate payment and reduced cart abandonment rates.
 

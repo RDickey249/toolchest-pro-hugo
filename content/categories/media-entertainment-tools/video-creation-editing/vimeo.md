@@ -9,6 +9,7 @@ image: "/images/tools/vimeo-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing", "audio-production", "video-creation-editing"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Video Streaming & Production"]
+external_link: "https://vimeo.com"
 ---
 Vimeo is a comprehensive video streaming & production solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the video streaming & production space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Vimeo when they need reliable, efficient solutions that integrate s
 
 ## Get Started with Vimeo
 
-Ready to explore Vimeo? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Vimeo](https://vimeo.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Container & Orchestration"
 tool_name: "OpenShift"
 deployment_status: "deployed"
 image: "/images/tools/openshift-placeholder.jpg"
+external_link: "https://www.openshift.com"
 ---
 When BMW wanted to accelerate their digital transformation and modernize over 200 legacy applications, they turned to Red Hat OpenShift to orchestrate their containerized workloads across hybrid cloud environments. The automotive giant reduced deployment times from weeks to hours while maintaining enterprise-grade security and compliance across their global infrastructure.
 

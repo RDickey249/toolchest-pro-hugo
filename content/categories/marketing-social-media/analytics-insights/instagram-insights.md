@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "Instagram Insights"
 deployment_status: "deployed"
 image: "/images/tools/instagram-insights-placeholder.jpg"
+external_link: "https://www.instagraminsights.com"
 ---
 
 Instagram Insights is the native analytics platform built directly into Instagram, providing detailed performance metrics, audience demographics, and content analytics for business accounts. As Instagram's official analytics solution, it offers comprehensive data about account performance, audience behavior, and content engagement directly within the Instagram app and web interface.

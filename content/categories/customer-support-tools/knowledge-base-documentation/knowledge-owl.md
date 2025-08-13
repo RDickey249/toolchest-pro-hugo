@@ -7,6 +7,7 @@ subcategory: "Knowledge Base Documentation"
 tool_name: "KnowledgeOwl"
 deployment_status: "deployed"
 image: "/images/tools/knowledge-owl-placeholder.jpg"
+external_link: "https://www.knowledgeowl.com"
 ---
 KnowledgeOwl is the advanced knowledge base platform trusted by technical writing teams, software companies, and documentation professionals worldwide to create sophisticated, highly customized documentation experiences that meet complex organizational requirements. Designed by technical writers for technical writers, KnowledgeOwl provides the advanced authoring tools and granular control that professional documentation teams need to create exceptional user experiences.
 

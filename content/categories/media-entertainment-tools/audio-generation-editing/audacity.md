@@ -9,6 +9,7 @@ image: "/images/tools/audacity-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Audio Production"]
+external_link: "https://www.audacityteam.org"
 ---
 Audacity is a comprehensive audio production solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the audio production space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Audacity when they need reliable, efficient solutions that integrat
 
 ## Get Started with Audacity
 
-Ready to explore Audacity? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Audacity](https://www.audacityteam.org) to explore the platform and begin using this powerful tool.

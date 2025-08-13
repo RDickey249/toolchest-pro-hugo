@@ -9,6 +9,7 @@ image: "/images/tools/bigquery-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]
+external_link: "https://www.bigquery.com"
 ---
 BigQuery is a comprehensive data management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the data management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose BigQuery when they need reliable, efficient solutions that integrat
 
 ## Get Started with BigQuery
 
-Ready to explore BigQuery? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [BigQuery](https://www.bigquery.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Documentation & Productivity"
 tool_name: "Read the Docs"
 deployment_status: "deployed"
 image: "/images/tools/read-the-docs-placeholder.jpg"
+external_link: "https://www.readthedocs.com"
 ---
 Read the Docs is the world's most popular documentation hosting platform, serving over 55 million pages monthly for projects like Django, Requests, and thousands of open source projects. It revolutionizes technical documentation by automatically building and hosting docs directly from your Git repositories.
 

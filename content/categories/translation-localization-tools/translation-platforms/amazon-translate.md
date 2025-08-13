@@ -9,6 +9,7 @@ image: "/images/tools/amazon-translate-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Translation Platforms"]
+external_link: "https://www.amazontranslate.com"
 ---
 Amazon Translate is a comprehensive translation platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the translation platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Amazon Translate when they need reliable, efficient solutions that 
 
 ## Get Started with Amazon Translate
 
-Ready to explore Amazon Translate? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Amazon Translate](https://www.amazontranslate.com) to explore the platform and begin using this powerful tool.

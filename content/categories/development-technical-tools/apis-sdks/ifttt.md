@@ -9,6 +9,7 @@ image: "/images/tools/ifttt-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]
+external_link: "https://ifttt.com"
 ---
 IFTTT is a comprehensive integration platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the integration platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose IFTTT when they need reliable, efficient solutions that integrate s
 
 ## Get Started with IFTTT
 
-Ready to explore IFTTT? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [IFTTT](https://ifttt.com) to explore the platform and begin using this powerful tool.

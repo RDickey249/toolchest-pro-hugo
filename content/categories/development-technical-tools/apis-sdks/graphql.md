@@ -9,6 +9,7 @@ image: "/images/tools/graphql-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Webhook & Real-time Tools"]
+external_link: "https://www.graphql.com"
 ---
 GraphQL is a comprehensive webhook & real-time tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the webhook & real-time tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose GraphQL when they need reliable, efficient solutions that integrate
 
 ## Get Started with GraphQL
 
-Ready to explore GraphQL? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [GraphQL](https://www.graphql.com) to explore the platform and begin using this powerful tool.

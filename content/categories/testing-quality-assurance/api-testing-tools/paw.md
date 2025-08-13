@@ -7,6 +7,7 @@ subcategory: "Api Testing Tools"
 tool_name: "Paw"
 deployment_status: "deployed"
 image: "/images/tools/paw-placeholder.jpg"
+external_link: "https://www.paw.com"
 ---
 Paw is the premium API testing tool designed exclusively for macOS, trusted by developers at Apple, Shopify, and GitHub for its intuitive interface and powerful automation features. It brings native Mac design principles to API development with unmatched user experience.
 

@@ -9,6 +9,7 @@ image: "/images/tools/bamboohr-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Applicant Tracking Systems"]
+external_link: "https://www.bamboohr.com"
 ---
 BambooHR is a comprehensive applicant tracking systems solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the applicant tracking systems space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose BambooHR when they need reliable, efficient solutions that integrat
 
 ## Get Started with BambooHR
 
-Ready to explore BambooHR? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [BambooHR](https://www.bamboohr.com) to explore the platform and begin using this powerful tool.

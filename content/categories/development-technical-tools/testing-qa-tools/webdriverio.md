@@ -7,6 +7,7 @@ subcategory: "Testing & QA"
 tool_name: "WebdriverIO"
 deployment_status: "deployed"
 image: "/images/tools/webdriverio-placeholder.jpg"
+external_link: "https://www.webdriverio.com"
 ---
 WebdriverIO revolutionizes browser and mobile automation by providing the most modern and comprehensive testing framework that transforms complex test automation into streamlined, reliable processes through cutting-edge JavaScript APIs, dual-protocol support, and extensive plugin ecosystem designed specifically for developers who demand the highest quality testing capabilities with maximum flexibility and performance. This next-generation platform establishes the foundation for sophisticated test automation that scales from simple unit tests to comprehensive end-to-end testing suites.
 

@@ -9,6 +9,7 @@ image: "/images/tools/2do-placeholder.jpg"
 tags: ["productivity-task-management", "task-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Task & Project Management"]
+external_link: "https://www.2do.com"
 ---
 2Do is a comprehensive task & project management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the task & project management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose 2Do when they need reliable, efficient solutions that integrate sea
 
 ## Get Started with 2Do
 
-Ready to explore 2Do? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [2Do](https://www.2do.com) to explore the platform and begin using this powerful tool.

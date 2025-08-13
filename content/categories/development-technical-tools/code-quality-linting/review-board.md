@@ -7,6 +7,7 @@ subcategory: "Code Quality & Linting"
 tool_name: "Review Board"
 deployment_status: "deployed"
 image: "/images/tools/review-board-placeholder.jpg"
+external_link: "https://www.reviewboard.com"
 ---
 Review Board stands as the veteran champion of code review platforms, having pioneered web-based collaborative code reviews for over 15 years and earning the trust of development teams at VMware, Apache Software Foundation, and thousands of organizations worldwide who depend on its rock-solid reliability and comprehensive version control support. This mature open-source platform has weathered the evolution of software development from SVN dominance through the Git revolution, continuously adapting while maintaining the simplicity and effectiveness that made it the first choice for serious code review workflows. Unlike newer tools that focus on flashy interfaces or AI-powered features, Review Board delivers exactly what development teams need: powerful diff viewing, threaded discussions, approval workflows, and deep integration with every major version control system including Git, SVN, Perforce, and Mercurial. With its proven track record of handling millions of code reviews, extensive customization capabilities, and active open-source community, Review Board provides the stability and feature depth that enterprise development teams require for mission-critical code quality processes.
 

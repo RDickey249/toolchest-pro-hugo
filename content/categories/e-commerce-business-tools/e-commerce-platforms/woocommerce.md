@@ -7,6 +7,7 @@ subcategory: "E-commerce Platforms"
 tool_name: "WooCommerce"
 deployment_status: "deployed"
 image: "/images/tools/woocommerce-placeholder.jpg"
+external_link: "https://www.woocommerce.com"
 ---
 WooCommerce revolutionizes e-commerce by providing the world's most popular and flexible platform that transforms WordPress websites into comprehensive online stores through seamless integration, unlimited customization possibilities, and extensive ecosystem support designed specifically for businesses who require content-rich e-commerce experiences with complete control over design, functionality, and customer experience. This dominant platform establishes the foundation for e-commerce success by combining WordPress's content management excellence with sophisticated online selling capabilities.
 

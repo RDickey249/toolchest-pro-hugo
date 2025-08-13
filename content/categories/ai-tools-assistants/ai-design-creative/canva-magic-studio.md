@@ -7,6 +7,7 @@ subcategory: "Ai Design Creative"
 tool_name: "Canva Magic Studio"
 deployment_status: "deployed"
 image: "/images/tools/canva-magic-studio-placeholder.jpg"
+external_link: "https://www.canvamagicstudio.com"
 ---
 Canva Magic Studio brings powerful AI tools directly into the world's most popular design platform. With features like AI image generation, instant background removal, and Magic Write for copywriting, it transforms Canva into an intelligent design partner.
 
@@ -42,7 +43,7 @@ Used by millions of businesses, marketers, and creators worldwide, Magic Studio 
 
 ## Get Started with Canva Magic Studio
 
-Ready to explore Canva Magic Studio? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Canva Magic Studio](https://www.canvamagicstudio.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

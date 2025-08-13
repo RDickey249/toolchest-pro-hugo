@@ -7,6 +7,7 @@ subcategory: "Build Tools & Task Runners"
 tool_name: "Vite"
 deployment_status: "deployed"
 image: "/images/tools/vite-placeholder.jpg"
+external_link: "https://www.vite.com"
 ---
 Vite is the fastest-growing frontend build tool with over 8 million weekly downloads, used by companies like Google, Apple, and Microsoft to revolutionize frontend development. Created by Vue.js author Evan You, it solves the performance problems that plague traditional build tools.
 

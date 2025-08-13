@@ -9,6 +9,7 @@ image: "/images/tools/notion-placeholder.jpg"
 tags: ["productivity-task-management", "project-management", "note-taking", "database-management", "team-collaboration"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Project Management"]
+external_link: "https://www.notion.so"
 ---
 Notion is an all-in-one workspace that combines notes, databases, project management, and team collaboration in a single, highly customizable platform. Its block-based architecture lets you build everything from simple note-taking systems to complex project workflows.
 

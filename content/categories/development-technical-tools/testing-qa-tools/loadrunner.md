@@ -9,6 +9,7 @@ image: "/images/tools/loadrunner-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Performance Testing"]
+external_link: "https://www.loadrunner.com"
 ---
 LoadRunner is a comprehensive performance testing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the performance testing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose LoadRunner when they need reliable, efficient solutions that integr
 
 ## Get Started with LoadRunner
 
-Ready to explore LoadRunner? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [LoadRunner](https://www.loadrunner.com) to explore the platform and begin using this powerful tool.

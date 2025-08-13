@@ -9,6 +9,7 @@ image: "/images/tools/resilio-sync-placeholder.jpg"
 tags: ["cloud-storage-file-management", "file-transfer"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["File Transfer"]
+external_link: "https://www.resiliosync.com"
 ---
 Resilio Sync is a comprehensive file transfer solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the file transfer space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Resilio Sync when they need reliable, efficient solutions that inte
 
 ## Get Started with Resilio Sync
 
-Ready to explore Resilio Sync? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Resilio Sync](https://www.resiliosync.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "Fishbowl"
 deployment_status: "deployed"
 image: "/images/tools/fishbowl-placeholder.jpg"
+external_link: "https://www.fishbowl.com"
 ---
 Fishbowl has become the dominant inventory management solution for manufacturers and distributors who've outgrown QuickBooks' basic inventory features, with over 30,000 businesses relying on its manufacturing-specific capabilities to manage complex production workflows, multi-location operations, and sophisticated assembly processes. This powerful platform emerged as the answer to a critical gap in the QuickBooks ecosystem: while QuickBooks excels at accounting, its inventory features fall short for manufacturers who need work order management, bill of materials tracking, and production planning capabilities. By maintaining seamless integration with QuickBooks while adding enterprise-grade manufacturing functionality, Fishbowl enables growing manufacturers to scale operations without abandoning their trusted accounting system. With features designed specifically for make-to-order, make-to-stock, and engineer-to-order businesses, Fishbowl transforms chaotic production environments into streamlined operations where every component, work order, and finished product is tracked with precision. Whether you're a small manufacturer just starting to formalize processes or a mid-sized operation managing hundreds of SKUs across multiple locations, Fishbowl provides the manufacturing intelligence that QuickBooks alone simply cannot deliver.
 

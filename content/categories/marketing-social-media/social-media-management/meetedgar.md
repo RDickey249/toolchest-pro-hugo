@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "MeetEdgar"
 deployment_status: "deployed"
 image: "/images/tools/meetedgar-placeholder.jpg"
+external_link: "https://www.meetedgar.com"
 ---
 
 MeetEdgar is a social media automation platform that specializes in content recycling, automatically resharing your best-performing content to maximize reach and engagement over time. Unlike traditional scheduling tools that post content once, MeetEdgar builds a content library that continuously rotates through your evergreen posts, ensuring your valuable content reaches new audiences.

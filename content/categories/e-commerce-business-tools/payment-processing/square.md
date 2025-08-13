@@ -7,6 +7,7 @@ subcategory: "Payment Processing"
 tool_name: "Square"
 deployment_status: "deployed"
 image: "/images/tools/square-placeholder.jpg"
+external_link: "https://squareup.com"
 ---
 Square revolutionizes small business operations by combining payment processing with comprehensive business management tools in a unified platform that grows with expanding enterprises. Thousands of coffee shops, boutiques, and restaurants from local establishments to chains like Sweetgreen rely on Square's integrated ecosystem to streamline operations while providing exceptional customer experiences. The platform's seamless integration between in-person and online payments enables businesses to maintain consistent service across all channels.
 

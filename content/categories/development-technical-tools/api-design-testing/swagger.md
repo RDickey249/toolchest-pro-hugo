@@ -9,6 +9,7 @@ image: "/images/tools/swagger-placeholder.jpg"
 tags: ["development-technical-tools", "api-design-testing"]
 categories: ["Development & Technical Tools"]
 subcategories: ["API Design & Testing"]
+external_link: "https://www.swagger.com"
 ---
 Swagger is the industry-standard open-source framework trusted by developers and API teams worldwide to design, document, and generate client libraries for REST APIs through the OpenAPI Specification, transforming API development by providing standardized tools that ensure consistency, discoverability, and maintainability across development projects and organizational boundaries. As the platform that established modern API-first development practices, Swagger revolutionized how teams approach API development by enabling specification-driven development where APIs are designed before implementation, generating interactive documentation, and automatically creating client SDKs that reduce development time while ensuring consistency between specifications and implementations.
 

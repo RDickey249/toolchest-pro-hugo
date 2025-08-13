@@ -7,6 +7,7 @@ subcategory: "Documentation & Productivity"
 tool_name: "Sphinx"
 deployment_status: "deployed"
 image: "/images/tools/sphinx-placeholder.jpg"
+external_link: "https://www.sphinx.com"
 ---
 Sphinx is the most popular documentation generator in the Python ecosystem, used by major projects like Django, NumPy, and the Python language itself to create professional technical documentation. Originally developed for Python documentation, it now powers thousands of open source and enterprise documentation sites.
 

@@ -41,7 +41,7 @@ Brandmark transforms logo creation through advanced AI that generates unique, pr
 
 ## Get Started with Brandmark
 
-Ready to explore Brandmark? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Brandmark](https://www.brandmark.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

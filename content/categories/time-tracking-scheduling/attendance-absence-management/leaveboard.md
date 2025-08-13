@@ -9,6 +9,7 @@ image: "/images/tools/leaveboard-placeholder.jpg"
 tags: ["time-tracking-scheduling", "attendance-absence-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Attendance & Absence Management"]
+external_link: "https://www.leaveboard.com"
 ---
 LeaveBoard makes employee leave management simple and stress-free. No more spreadsheets, email chains, or confused managers - just a clean, modern platform that handles all your absence tracking automatically.
 
@@ -58,7 +59,7 @@ LeaveBoard eliminates the administrative headaches of leave management while giv
 
 ## Get Started with LeaveBoard
 
-Ready to explore LeaveBoard? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [LeaveBoard](https://www.leaveboard.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

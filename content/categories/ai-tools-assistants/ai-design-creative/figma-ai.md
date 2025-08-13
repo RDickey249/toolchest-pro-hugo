@@ -9,6 +9,7 @@ image: "/images/tools/figma-ai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]
+external_link: "https://www.figmaai.com"
 ---
 Figma AI is a comprehensive ai design & creative solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the ai design & creative space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Figma AI when they need reliable, efficient solutions that integrat
 
 ## Get Started with Figma AI
 
-Ready to explore Figma AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Figma AI](https://www.figmaai.com) to explore the platform and begin using this powerful tool.

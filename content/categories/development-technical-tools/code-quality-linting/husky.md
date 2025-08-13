@@ -9,6 +9,7 @@ image: "/images/tools/husky-placeholder.jpg"
 tags: ["development-technical-tools", "code-quality-linting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Quality & Linting"]
+external_link: "https://www.husky.com"
 ---
 Husky makes Git hooks simple and powerful. Automatically run linting, testing, and formatting on every commit to keep bad code out of your repository. It's the easiest way to enforce code quality standards across your entire team.
 
@@ -61,4 +62,4 @@ Husky eliminates the "it works on my machine" problem by running the same qualit
 
 ## Get Started with Husky
 
-Ready to explore Husky? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Husky](https://www.husky.com) to explore the platform and begin using this powerful tool.

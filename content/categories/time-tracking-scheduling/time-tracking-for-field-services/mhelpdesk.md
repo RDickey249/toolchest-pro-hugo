@@ -7,6 +7,7 @@ subcategory: "Time Tracking For Field Services"
 tool_name: "mHelpDesk"
 deployment_status: "deployed"
 image: "/images/tools/mhelpdesk-placeholder.jpg"
+external_link: "https://www.mhelpdesk.com"
 ---
 mHelpDesk is the field service management platform that combines work order management, scheduling, time tracking, and billing in one system. Built for service companies that need to manage technicians, track work orders, and bill customers efficiently.
 
@@ -41,4 +42,4 @@ Used by HVAC, plumbing, electrical, and other field service companies, mHelpDesk
 • Advanced features may require significant setup time for optimal field service work order coordination and comprehensive billing implementation
 ## Get Started with mHelpDesk
 
-Ready to explore mHelpDesk? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [mHelpDesk](https://www.mhelpdesk.com) to explore the platform and begin using this powerful tool.

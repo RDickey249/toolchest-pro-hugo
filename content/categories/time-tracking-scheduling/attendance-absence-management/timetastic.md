@@ -11,6 +11,7 @@ rating: 4.3
 starting_price: 2.50
 primary_use: "manage team leave and absence requests efficiently"
 top_alternatives: "BambooHR, Deputy, When I Work"
+external_link: "https://www.timetastic.com"
 ---
 Timetastic is a beautifully simple leave management platform designed specifically for small teams who need professional absence tracking without enterprise complexity. The platform transforms tedious manual vacation tracking into an effortless process with intuitive leave requests, visual calendars, and automated approval workflows.
 
@@ -48,4 +49,4 @@ Perfect for startups, growing businesses, and small companies who want to establ
 
 ## Get Started with Timetastic
 
-Ready to explore Timetastic? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Timetastic](https://www.timetastic.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Containerization & Orchestration"
 tool_name: "Minikube"
 deployment_status: "deployed"
 image: "/images/tools/minikube-placeholder.jpg"
+external_link: "https://www.minikube.com"
 ---
 Minikube is the essential local Kubernetes development environment used by millions of developers worldwide, including teams at Google, Red Hat, and countless organizations learning and developing cloud-native applications. As an official Kubernetes project maintained by the CNCF, it has become the standard way to run Kubernetes locally for development, testing, and education.
 

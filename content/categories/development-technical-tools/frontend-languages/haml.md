@@ -7,6 +7,7 @@ subcategory: "Frontend Languages"
 tool_name: "HAML"
 deployment_status: "deployed"
 image: "/images/tools/haml-placeholder.jpg"
+external_link: "https://www.haml.com"
 ---
 HAML revolutionizes HTML template development through elegant indentation-based syntax that transforms verbose, cluttered markup into clean, maintainable code that reads like poetry. Originally created for Ruby on Rails by Hampton Catlin, HAML has become the gold standard for developers who value readable templates and DRY (Don't Repeat Yourself) principles in web development.
 

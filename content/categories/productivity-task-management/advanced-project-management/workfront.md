@@ -7,6 +7,7 @@ subcategory: "Advanced Project Management"
 tool_name: "Workfront"
 deployment_status: "deployed"
 image: "/images/tools/workfront-placeholder.jpg"
+external_link: "https://www.workfront.com"
 ---
 Adobe Workfront revolutionizes enterprise work management by providing a comprehensive platform that transforms organizational chaos into structured, transparent workflows that connect strategic objectives to operational execution across large, complex organizations. This sophisticated work management solution eliminates the silos and inefficiencies that plague enterprise work coordination, creating a unified system where every project, campaign, and initiative contributes measurably to business objectives.
 

@@ -7,6 +7,7 @@ subcategory: "Content Creation Design"
 tool_name: "Photoshop"
 deployment_status: "deployed"
 image: "/images/tools/photoshop-placeholder.jpg"
+external_link: "https://www.photoshop.com"
 ---
 
 Adobe Photoshop is the world's most advanced image editing and digital art software, providing comprehensive tools for photo manipulation, digital painting, and graphic design. As the industry standard for image editing, Photoshop combines powerful selection tools, advanced layer management, and sophisticated filters to enable both basic photo corrections and complex digital artworks.

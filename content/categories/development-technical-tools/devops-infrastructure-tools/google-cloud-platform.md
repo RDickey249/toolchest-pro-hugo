@@ -9,6 +9,7 @@ image: "/images/tools/google-cloud-platform-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Cloud Platforms"]
+external_link: "https://www.googlecloudplatform.com"
 ---
 Google Cloud Platform is a comprehensive cloud platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the cloud platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Google Cloud Platform when they need reliable, efficient solutions 
 
 ## Get Started with Google Cloud Platform
 
-Ready to explore Google Cloud Platform? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Google Cloud Platform](https://www.googlecloudplatform.com) to explore the platform and begin using this powerful tool.

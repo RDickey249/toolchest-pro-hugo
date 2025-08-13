@@ -7,6 +7,7 @@ subcategory: "Package Managers & Registries"
 tool_name: "npm"
 deployment_status: "deployed"
 image: "/images/tools/npm-placeholder.jpg"
+external_link: "https://www.npm.com"
 ---
 npm is the world's largest software registry with over 2.5 million packages and 20 billion weekly downloads, powering JavaScript development for companies like Netflix, Airbnb, and PayPal. As Node.js's official package manager, it's the backbone of modern web development and the largest open source ecosystem.
 

@@ -7,6 +7,7 @@ subcategory: "Live Chat Messaging"
 tool_name: "Olark"
 deployment_status: "deployed"
 image: "/images/tools/olark-placeholder.jpg"
+external_link: "https://www.olark.com"
 ---
 Olark is the straightforward yet powerful live chat solution trusted by companies like Warby Parker, ModCloth, and thousands of small to medium businesses worldwide to connect with website visitors through clean, effective chat experiences that prioritize simplicity over complexity. Designed with the philosophy that live chat should be easy to use and effective, Olark delivers essential chat functionality without overwhelming users with unnecessary features.
 

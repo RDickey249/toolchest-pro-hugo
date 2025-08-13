@@ -7,6 +7,7 @@ subcategory: "Testing & QA"
 tool_name: "Puppeteer"
 deployment_status: "deployed"
 image: "/images/tools/puppeteer-placeholder.jpg"
+external_link: "https://www.puppeteer.com"
 ---
 Puppeteer revolutionizes browser automation by providing the most comprehensive Node.js library that delivers complete control over headless Chrome and Chromium browsers, enabling developers to create sophisticated testing, scraping, and monitoring solutions that replicate real user interactions with unmatched precision and reliability. This Google-developed library transforms complex browser automation tasks into simple, programmable workflows that integrate seamlessly into development processes for comprehensive web application testing and data extraction.
 

@@ -9,6 +9,7 @@ image: "/images/tools/thermo-fisher-lims-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Laboratory Information Management"]
+external_link: "https://www.thermofisherlims.com"
 ---
 Thermo Fisher LIMS is a comprehensive laboratory information management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the laboratory information management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Thermo Fisher LIMS when they need reliable, efficient solutions tha
 
 ## Get Started with Thermo Fisher LIMS
 
-Ready to explore Thermo Fisher LIMS? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Thermo Fisher LIMS](https://www.thermofisherlims.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Authentication & Authorization"
 tool_name: "Firebase Authentication"
 deployment_status: "deployed"
 image: "/images/tools/firebase-authentication-placeholder.jpg"
+external_link: "https://www.firebaseauthentication.com"
 ---
 Firebase Authentication is Google's comprehensive identity platform trusted by millions of applications including Alibaba, The New York Times, and countless startups to provide secure, scalable user authentication. This powerful service handles the complexity of user identity management while offering seamless integration with social login providers and the broader Firebase ecosystem.
 

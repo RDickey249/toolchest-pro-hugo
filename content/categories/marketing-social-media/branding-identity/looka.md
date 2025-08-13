@@ -41,7 +41,7 @@ Looka revolutionizes brand creation by combining artificial intelligence with pr
 
 ## Get Started with Looka
 
-Ready to explore Looka? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Looka](https://www.looka.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

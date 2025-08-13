@@ -7,6 +7,7 @@ subcategory: "API Design & Testing"
 tool_name: "Hoppscotch"
 deployment_status: "deployed"
 image: "/images/tools/hoppscotch-placeholder.jpg"
+external_link: "https://www.hoppscotch.com"
 ---
 When Netflix engineers need to quickly test their streaming API endpoints during development, they turn to lightweight tools that won't slow down their workflow. Major companies like Shopify and GitLab have adopted browser-based API testing solutions that eliminate installation overhead while providing comprehensive testing capabilities. Spotify's development teams frequently use open-source API testing platforms that support multiple protocols and offer seamless collaboration features without vendor lock-in.
 

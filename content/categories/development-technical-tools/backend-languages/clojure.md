@@ -7,6 +7,7 @@ subcategory: "Backend Languages"
 tool_name: "Clojure"
 deployment_status: "deployed"
 image: "/images/tools/clojure-placeholder.jpg"
+external_link: "https://www.clojure.com"
 ---
 Clojure is the elegant functional programming language trusted by companies like Walmart, Netflix, and Nubank to build robust, concurrent applications that handle massive scale with mathematical precision. As a modern Lisp running on the JVM, it combines the power of functional programming with access to Java's vast ecosystem, enabling developers to solve complex problems with surprisingly simple, elegant code.
 

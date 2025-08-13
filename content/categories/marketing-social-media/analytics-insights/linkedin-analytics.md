@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "LinkedIn Analytics"
 deployment_status: "deployed"
 image: "/images/tools/linkedin-analytics-placeholder.jpg"
+external_link: "https://www.linkedinanalytics.com"
 ---
 
 LinkedIn Analytics provides comprehensive insights into LinkedIn Page and content performance, offering detailed professional audience demographics and engagement metrics for businesses using LinkedIn for B2B marketing and professional networking. As LinkedIn's native analytics platform, it delivers unique insights into professional audiences that aren't available on other social platforms.

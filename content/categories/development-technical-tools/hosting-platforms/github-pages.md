@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "GitHub Pages"
 deployment_status: "deployed"
 image: "/images/tools/github-pages-placeholder.jpg"
+external_link: "https://www.githubpages.com"
 ---
 GitHub Pages is the world's most popular static site hosting platform, powering over 4 million websites including documentation for React, Bootstrap, and thousands of open source projects. As GitHub's integrated hosting solution, it seamlessly transforms repositories into professional websites with zero configuration required.
 

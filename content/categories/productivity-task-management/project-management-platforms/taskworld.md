@@ -7,6 +7,7 @@ subcategory: "Project Management Platforms"
 tool_name: "Taskworld"
 deployment_status: "deployed"
 image: "/images/tools/taskworld-placeholder.jpg"
+external_link: "https://www.taskworld.com"
 ---
 Taskworld enhances team productivity through visual project management that combines intuitive task organization with powerful collaboration features. This comprehensive platform addresses distributed team challenges by providing visual coordination tools that make project status and team contributions transparent.
 

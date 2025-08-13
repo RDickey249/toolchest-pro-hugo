@@ -7,6 +7,7 @@ subcategory: "Video Streaming Production"
 tool_name: "Streamlabs"
 deployment_status: "deployed"
 image: "/images/tools/streamlabs-placeholder.jpg"
+external_link: "https://www.streamlabs.com"
 ---
 Streamlabs revolutionizes live streaming by providing an all-in-one ecosystem that combines professional broadcasting software with integrated audience engagement and monetization tools. Major content creators including top Twitch streamers, YouTube personalities, and Facebook Gaming broadcasters rely on Streamlabs to power their streaming operations with professional-grade features wrapped in an accessible interface. The platform's foundation on OBS Studio ensures broadcast-quality output while adding user-friendly elements that eliminate technical barriers for new streamers.
 
@@ -82,4 +83,4 @@ Individual streamers from hobbyists to full-time content creators appreciate Str
 
 ## Get Started with Streamlabs
 
-Ready to explore Streamlabs? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Streamlabs](https://www.streamlabs.com) to explore the platform and begin using this powerful tool.

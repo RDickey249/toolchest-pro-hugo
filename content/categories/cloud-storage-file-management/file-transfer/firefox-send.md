@@ -9,6 +9,7 @@ image: "/images/tools/firefox-send-placeholder.jpg"
 tags: ["cloud-storage-file-management", "file-transfer"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["File Transfer"]
+external_link: "https://www.firefoxsend.com"
 ---
 Firefox Send is a comprehensive file transfer solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the file transfer space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Firefox Send when they need reliable, efficient solutions that inte
 
 ## Get Started with Firefox Send
 
-Ready to explore Firefox Send? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Firefox Send](https://www.firefoxsend.com) to explore the platform and begin using this powerful tool.

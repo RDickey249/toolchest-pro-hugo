@@ -7,6 +7,7 @@ subcategory: "Help Desk Platforms"
 tool_name: "Teamwork Desk"
 deployment_status: "deployed"
 image: "/images/tools/teamwork-desk-placeholder.jpg"
+external_link: "https://www.teamworkdesk.com"
 ---
 Teamwork Desk is the intelligent help desk platform trusted by companies like Buffer, Patreon, and thousands of support teams worldwide to deliver exceptional customer experiences through seamless collaboration and AI-powered automation. Built by the creators of Teamwork project management software, this platform brings the same focus on team productivity and customer happiness to support operations with deep project integration capabilities.
 

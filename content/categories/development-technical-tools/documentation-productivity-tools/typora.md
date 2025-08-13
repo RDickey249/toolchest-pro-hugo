@@ -7,6 +7,7 @@ subcategory: "Documentation & Productivity"
 tool_name: "Typora"
 deployment_status: "deployed"
 image: "/images/tools/typora-placeholder.jpg"
+external_link: "https://www.typora.com"
 ---
 Typora revolutionizes markdown editing by providing the most elegant and seamless WYSIWYG experience that eliminates the traditional split-pane editing approach through real-time preview integration, distraction-free design, and powerful features that transform markdown writing from technical markup into natural, flowing prose creation for writers, developers, and content creators who demand both simplicity and sophistication. This refined platform establishes the foundation for modern markdown editing that feels as natural as traditional word processing while maintaining the power and portability of markdown.
 

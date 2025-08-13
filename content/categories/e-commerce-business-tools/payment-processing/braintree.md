@@ -7,6 +7,7 @@ subcategory: "Payment Processing"
 tool_name: "Braintree"
 deployment_status: "deployed"
 image: "/images/tools/braintree-placeholder.jpg"
+external_link: "https://www.braintree.com"
 ---
 Braintree revolutionizes payment processing by providing PayPal's most sophisticated and developer-focused platform that transforms complex payment integration into streamlined, secure workflows designed for growth companies who demand advanced functionality, seamless user experiences, and comprehensive payment options without sacrificing security or developer productivity. This powerful platform establishes the foundation for modern payment experiences by combining PayPal's trusted infrastructure with cutting-edge developer tools and flexible integration options.
 

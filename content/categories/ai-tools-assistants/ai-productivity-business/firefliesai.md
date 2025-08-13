@@ -9,6 +9,7 @@ image: "/images/tools/firefliesai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]
+external_link: "https://www.firefliesai.com"
 ---
 Fireflies.ai is a comprehensive ai productivity & business solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the ai productivity & business space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Fireflies.ai when they need reliable, efficient solutions that inte
 
 ## Get Started with Fireflies.ai
 
-Ready to explore Fireflies.ai? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Fireflies.ai](https://www.firefliesai.com) to explore the platform and begin using this powerful tool.

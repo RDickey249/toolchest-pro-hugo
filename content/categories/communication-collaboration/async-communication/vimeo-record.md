@@ -9,6 +9,7 @@ image: "/images/tools/vimeo-record-placeholder.jpg"
 tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]
+external_link: "https://www.vimeorecord.com"
 ---
 Vimeo Record is a comprehensive async communication solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the async communication space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Vimeo Record when they need reliable, efficient solutions that inte
 
 ## Get Started with Vimeo Record
 
-Ready to explore Vimeo Record? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Vimeo Record](https://www.vimeorecord.com) to explore the platform and begin using this powerful tool.

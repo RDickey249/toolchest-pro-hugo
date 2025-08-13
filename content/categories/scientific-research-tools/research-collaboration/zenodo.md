@@ -9,6 +9,7 @@ image: "/images/tools/zenodo-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management", "statistical-analysis-software", "research-collaboration"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Research Collaboration"]
+external_link: "https://www.zenodo.com"
 ---
 Zenodo is a comprehensive research collaboration solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the research collaboration space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Zenodo when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Zenodo
 
-Ready to explore Zenodo? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Zenodo](https://www.zenodo.com) to explore the platform and begin using this powerful tool.

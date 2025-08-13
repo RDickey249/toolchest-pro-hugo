@@ -41,7 +41,7 @@ Zyro simplifies logo creation with an intuitive AI-powered tool that generates p
 
 ## Get Started with Zyro
 
-Ready to explore Zyro? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Zyro](https://www.zyro.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

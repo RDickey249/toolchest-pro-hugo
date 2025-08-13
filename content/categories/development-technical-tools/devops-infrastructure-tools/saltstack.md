@@ -7,6 +7,7 @@ subcategory: "DevOps & Infrastructure"
 tool_name: "SaltStack"
 deployment_status: "deployed"
 image: "/images/tools/saltstack-placeholder.jpg"
+external_link: "https://www.saltstack.com"
 ---
 When LinkedIn needed to manage over 100,000 servers across multiple data centers while maintaining real-time responsiveness and security compliance, they chose SaltStack for its event-driven architecture and lightning-fast remote execution capabilities. SaltStack's ZeroMQ-based communication system enabled LinkedIn to execute commands across their entire infrastructure in seconds rather than hours, reducing deployment times by 90% and enabling near-instantaneous responses to security threats and configuration changes.
 

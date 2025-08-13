@@ -9,6 +9,7 @@ image: "/images/tools/project-co-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]
+external_link: "https://www.projectco.com"
 ---
 Project.co is the project management platform that proves powerful doesn't have to mean complicated. Built with a focus on exceptional user experience, it delivers enterprise-grade features through an interface your team will actually enjoy using.
 
@@ -57,4 +58,4 @@ While traditional PM tools often feel like administrative burden, Project.co tra
 
 ## Get Started with Project.co
 
-Ready to explore Project.co? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Project.co](https://www.projectco.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/promptlayer-placeholder.jpg"
 tags: ["ai-tools-assistants", "prompt-engineering"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Prompt Engineering"]
+external_link: "https://www.promptlayer.com"
 ---
 PromptLayer is the observability platform for LLM applications. It helps teams track, debug, and optimize their prompts with detailed analytics and A/B testing capabilities.
 
@@ -50,7 +51,7 @@ Building production AI applications requires more than just writing prompts - yo
 
 ## Get Started with PromptLayer
 
-Ready to explore PromptLayer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [PromptLayer](https://www.promptlayer.com) to explore the platform and begin using this powerful tool.
 • Primarily focused on development teams rather than individual users
 
 ## Get Started with PromptLayer

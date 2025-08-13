@@ -7,6 +7,7 @@ subcategory: "Video Streaming Production"
 tool_name: "vMix"
 deployment_status: "deployed"
 image: "/images/tools/vmix-placeholder.jpg"
+external_link: "https://www.vmix.com"
 ---
 vMix has revolutionized live video production by replacing $100,000+ hardware switchers with software that runs on standard Windows computers, enabling churches, schools, and businesses to produce broadcast-quality content that rivals major television networks. The platform serves over 100,000 users globally including ESPN, Fox Sports, and numerous government agencies who discovered they could achieve professional production quality at 10% of traditional broadcast equipment costs. Where hardware switchers require specialized training and dedicated operators, vMix's intuitive interface enables single operators to manage complex multi-camera productions with graphics, replays, and streaming.
 
@@ -50,4 +51,4 @@ Beyond cost savings, vMix excels at modern production requirements like multi-de
 
 ## Get Started with vMix
 
-Ready to explore vMix? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [vMix](https://www.vmix.com) to explore the platform and begin using this powerful tool.

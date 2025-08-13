@@ -7,6 +7,7 @@ subcategory: "Time Tracking For Agencies"
 tool_name: "Scoro"
 deployment_status: "deployed"
 image: "/images/tools/scoro-placeholder.jpg"
+external_link: "https://www.scoro.com"
 ---
 Scoro is the all-in-one business management platform for agencies that combines CRM, project management, time tracking, and billing in one system. Instead of juggling multiple tools, agencies get everything they need to manage clients and projects efficiently.
 
@@ -41,4 +42,4 @@ Used by creative agencies, consultancies, and service businesses worldwide, Scor
 • Advanced features may require significant setup time for optimal agency CRM coordination and comprehensive project management implementation
 ## Get Started with Scoro
 
-Ready to explore Scoro? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Scoro](https://www.scoro.com) to explore the platform and begin using this powerful tool.

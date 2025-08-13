@@ -9,6 +9,7 @@ image: "/images/tools/squarespace-commerce-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management", "payment-processing", "ecommerce-platforms"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["E-commerce Platforms"]
+external_link: "https://www.squarespacecommerce.com"
 ---
 Squarespace Commerce is a comprehensive e-commerce platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the e-commerce platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Squarespace Commerce when they need reliable, efficient solutions t
 
 ## Get Started with Squarespace Commerce
 
-Ready to explore Squarespace Commerce? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Squarespace Commerce](https://www.squarespacecommerce.com) to explore the platform and begin using this powerful tool.

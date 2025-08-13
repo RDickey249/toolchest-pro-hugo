@@ -7,6 +7,7 @@ subcategory: "Audio Production"
 tool_name: "Logic Pro"
 deployment_status: "deployed"
 image: "/images/tools/logic-pro-placeholder.jpg"
+external_link: "https://www.logicpro.com"
 ---
 Logic Pro is Apple's professional music production software trusted by Grammy-winning artists, film composers, and music producers worldwide to create professional-quality music with an unmatched combination of intuitive Mac design, comprehensive content library, and professional-grade tools at an accessible one-time price point. As Apple's flagship digital audio workstation, Logic Pro delivers over 70GB of premium instruments, samples, and loops alongside industry-leading MIDI editing, audio manipulation, and mixing capabilities that rival significantly more expensive professional music production software.
 

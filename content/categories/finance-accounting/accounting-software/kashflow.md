@@ -9,6 +9,7 @@ image: "/images/tools/kashflow-placeholder.jpg"
 tags: ["finance-accounting", "accounting-software"]
 categories: ["Finance & Accounting"]
 subcategories: ["Accounting Software"]
+external_link: "https://www.kashflow.com"
 ---
 KashFlow is a comprehensive accounting software solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the accounting software space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose KashFlow when they need reliable, efficient solutions that integrat
 
 ## Get Started with KashFlow
 
-Ready to explore KashFlow? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [KashFlow](https://www.kashflow.com) to explore the platform and begin using this powerful tool.

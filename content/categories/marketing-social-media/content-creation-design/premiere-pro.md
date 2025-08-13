@@ -7,6 +7,7 @@ subcategory: "Content Creation Design"
 tool_name: "Premiere Pro"
 deployment_status: "deployed"
 image: "/images/tools/premiere-pro-placeholder.jpg"
+external_link: "https://www.premierepro.com"
 ---
 
 Adobe Premiere Pro is the industry-standard video editing software for professional film, television, and digital content creation with advanced editing tools and workflow integration. Used by video editors, filmmakers, and content creators worldwide, Premiere Pro provides comprehensive editing capabilities from basic cuts to complex multi-camera productions and color grading.

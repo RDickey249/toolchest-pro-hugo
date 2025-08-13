@@ -9,6 +9,7 @@ image: "/images/tools/testng-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Software Testing Frameworks"]
+external_link: "https://www.testng.com"
 ---
 TestNG is a comprehensive software testing frameworks solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the software testing frameworks space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose TestNG when they need reliable, efficient solutions that integrate 
 
 ## Get Started with TestNG
 
-Ready to explore TestNG? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [TestNG](https://www.testng.com) to explore the platform and begin using this powerful tool.

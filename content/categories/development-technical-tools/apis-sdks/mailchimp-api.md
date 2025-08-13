@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Mailchimp API"
 deployment_status: "deployed"
 image: "/images/tools/mailchimp-api-placeholder.jpg"
+external_link: "https://www.mailchimpapi.com"
 ---
 Mailchimp API powers email marketing for over 12 million businesses worldwide, including BuzzFeed, Lonely Planet, and Ted Baker, delivering 10+ billion emails monthly. As the world's largest marketing automation platform, it provides comprehensive tools that go far beyond simple email campaigns.
 

@@ -9,6 +9,7 @@ image: "/images/tools/vmware-site-recovery-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions", "business-backup-solutions", "disaster-recovery-platforms"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Disaster Recovery Platforms"]
+external_link: "https://www.vmwaresiterecovery.com"
 ---
 VMware Site Recovery is a comprehensive disaster recovery platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the disaster recovery platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose VMware Site Recovery when they need reliable, efficient solutions t
 
 ## Get Started with VMware Site Recovery
 
-Ready to explore VMware Site Recovery? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [VMware Site Recovery](https://www.vmwaresiterecovery.com) to explore the platform and begin using this powerful tool.

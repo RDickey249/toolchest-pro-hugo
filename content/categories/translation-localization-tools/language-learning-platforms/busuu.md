@@ -9,6 +9,7 @@ image: "/images/tools/busuu-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms", "cultural-adaptation-tools", "localization-management", "language-learning-platforms"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Language Learning Platforms"]
+external_link: "https://www.busuu.com"
 ---
 Busuu is a comprehensive language learning platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the language learning platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Busuu when they need reliable, efficient solutions that integrate s
 
 ## Get Started with Busuu
 
-Ready to explore Busuu? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Busuu](https://www.busuu.com) to explore the platform and begin using this powerful tool.

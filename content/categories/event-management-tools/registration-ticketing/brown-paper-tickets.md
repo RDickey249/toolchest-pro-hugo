@@ -9,6 +9,7 @@ image: "/images/tools/brown-paper-tickets-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms", "registration-ticketing"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Registration & Ticketing"]
+external_link: "https://www.brownpapertickets.com"
 ---
 Brown Paper Tickets is a comprehensive registration & ticketing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the registration & ticketing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Brown Paper Tickets when they need reliable, efficient solutions th
 
 ## Get Started with Brown Paper Tickets
 
-Ready to explore Brown Paper Tickets? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Brown Paper Tickets](https://www.brownpapertickets.com) to explore the platform and begin using this powerful tool.

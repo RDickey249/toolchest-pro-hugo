@@ -9,6 +9,7 @@ image: "/images/tools/splunk-placeholder.jpg"
 tags: ["devops-infrastructure-tools", "development-technical-tools", "cicd-automation", "cloud-platforms", "container-orchestration", "monitoring-observability"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Monitoring & Observability"]
+external_link: "https://www.splunk.com"
 ---
 Splunk is the enterprise data analytics platform trusted by 92 of the Fortune 100 companies worldwide to transform machine data into actionable insights through universal data ingestion, powerful search capabilities, and advanced analytics that turn massive volumes of structured and unstructured data into business intelligence and operational awareness. As the leader in data-to-everything platforms, Splunk enables organizations to monitor, search, and analyze machine-generated data from any source to gain real-time operational intelligence, security insights, and business analytics that drive informed decision-making across IT operations, security, and business intelligence.
 

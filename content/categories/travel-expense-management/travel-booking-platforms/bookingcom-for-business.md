@@ -9,6 +9,7 @@ image: "/images/tools/bookingcom-for-business-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Travel Booking Platforms"]
+external_link: "https://www.bookingcomforbusiness.com"
 ---
 Booking.com for Business is a comprehensive travel booking platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the travel booking platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Booking.com for Business when they need reliable, efficient solutio
 
 ## Get Started with Booking.com for Business
 
-Ready to explore Booking.com for Business? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Booking.com for Business](https://www.bookingcomforbusiness.com) to explore the platform and begin using this powerful tool.

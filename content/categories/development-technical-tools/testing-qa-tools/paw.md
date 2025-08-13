@@ -9,6 +9,7 @@ image: "/images/tools/paw-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["API Testing Tools"]
+external_link: "https://www.paw.com"
 ---
 Paw is a comprehensive api testing tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the api testing tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Paw when they need reliable, efficient solutions that integrate sea
 
 ## Get Started with Paw
 
-Ready to explore Paw? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Paw](https://www.paw.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/cowriter-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Workplace Inclusion Platforms"]
+external_link: "https://www.cowriter.com"
 ---
 Co:Writer is a comprehensive workplace inclusion platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the workplace inclusion platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

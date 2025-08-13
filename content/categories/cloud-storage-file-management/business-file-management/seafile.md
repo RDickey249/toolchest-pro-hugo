@@ -9,6 +9,7 @@ image: "/images/tools/seafile-placeholder.jpg"
 tags: ["cloud-storage-file-management", "business-file-management"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["Business File Management"]
+external_link: "https://www.seafile.com"
 ---
 Seafile is a comprehensive business file management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business file management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Seafile when they need reliable, efficient solutions that integrate
 
 ## Get Started with Seafile
 
-Ready to explore Seafile? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Seafile](https://www.seafile.com) to explore the platform and begin using this powerful tool.

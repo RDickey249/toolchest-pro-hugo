@@ -7,6 +7,7 @@ subcategory: "Monitoring Observability"
 tool_name: "Prometheus"
 deployment_status: "deployed"
 image: "/images/tools/prometheus-placeholder.jpg"
+external_link: "https://www.prometheus.com"
 ---
 Prometheus is the leading open-source monitoring system that has become the de facto standard for cloud-native observability, used by companies like Google, Digital Ocean, and SoundCloud to monitor billions of metrics daily. As a CNCF graduated project, it's the foundation of modern observability alongside Kubernetes.
 

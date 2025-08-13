@@ -7,6 +7,7 @@ subcategory: "Employee Time Clock Tools"
 tool_name: "uAttend"
 deployment_status: "deployed"
 image: "/images/tools/uattend-placeholder.jpg"
+external_link: "https://www.uattend.com"
 ---
 uAttend is a comprehensive time tracking system that combines biometric authentication with web-based accessibility for secure workforce management. The platform offers fingerprint recognition, facial verification, and cloud-based time tracking to prevent fraud while maintaining flexible access options.
 
@@ -44,4 +45,4 @@ uAttend serves manufacturing facilities, healthcare organizations, and businesse
 
 ## Get Started with uAttend
 
-Ready to explore uAttend? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [uAttend](https://www.uattend.com) to explore the platform and begin using this powerful tool.

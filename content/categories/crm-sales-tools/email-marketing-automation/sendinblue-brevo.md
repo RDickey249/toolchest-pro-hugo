@@ -9,6 +9,7 @@ image: "/images/tools/sendinblue-brevo-placeholder.jpg"
 tags: ["crm-sales-tools", "email-marketing-automation"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Email Marketing & Automation"]
+external_link: "https://www.sendinbluebrevo.com"
 ---
 Sendinblue (Brevo) is a comprehensive email marketing & automation solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the email marketing & automation space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

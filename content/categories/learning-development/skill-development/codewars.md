@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "Codewars"
 deployment_status: "deployed"
 image: "/images/tools/codewars-placeholder.jpg"
+external_link: "https://www.codewars.com"
 ---
 
 Codewars is a coding kata platform that improves programming skills through bite-sized challenges called kata, featuring a martial arts-inspired ranking system and community-driven problem creation. The platform gamifies the learning process by allowing users to progress through ranks from 8 kyu (beginner) to 1 dan (expert) by solving increasingly difficult programming challenges.

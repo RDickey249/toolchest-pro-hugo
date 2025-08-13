@@ -9,6 +9,7 @@ image: "/images/tools/hellosign-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]
+external_link: "https://www.hellosign.com"
 ---
 HelloSign is a comprehensive invoicing & payments solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the invoicing & payments space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose HelloSign when they need reliable, efficient solutions that integra
 
 ## Get Started with HelloSign
 
-Ready to explore HelloSign? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [HelloSign](https://www.hellosign.com) to explore the platform and begin using this powerful tool.

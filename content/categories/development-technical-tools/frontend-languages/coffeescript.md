@@ -7,6 +7,7 @@ subcategory: "Frontend Languages"
 tool_name: "CoffeeScript"
 deployment_status: "deployed"
 image: "/images/tools/coffeescript-placeholder.jpg"
+external_link: "https://www.coffeescript.com"
 ---
 CoffeeScript pioneered the JavaScript transpiler revolution, inspiring a generation of languages including TypeScript and Babel by proving that developers could write in more expressive syntax while maintaining full JavaScript compatibility. Created by Jeremy Ashkenas in 2009, CoffeeScript transformed JavaScript development for companies like GitHub, Basecamp, and Dropbox by eliminating the verbosity and quirks that plagued early JavaScript while adding powerful features from Python and Ruby. Though its popularity has shifted to TypeScript for type safety, CoffeeScript remains a beloved tool for developers who prioritize code elegance and readability, reducing code size by 30-50% while improving maintainability. With its golden rule of "It's just JavaScript," CoffeeScript compiles one-to-one into readable, idiomatic JavaScript that runs anywhere JS runs, from browsers to Node.js servers. Whether you're maintaining legacy CoffeeScript applications, teaching programming concepts without JavaScript's syntactic noise, or simply prefer writing beautiful code that reads like poetry, CoffeeScript continues to offer one of the most elegant ways to write JavaScript applications.
 

@@ -7,6 +7,7 @@ subcategory: "Security & Compliance"
 tool_name: "Veracode"
 deployment_status: "deployed"
 image: "/images/tools/veracode-placeholder.jpg"
+external_link: "https://www.veracode.com"
 ---
 Veracode revolutionizes enterprise application security by providing the most comprehensive platform that combines static analysis, dynamic testing, and software composition analysis to identify and remediate vulnerabilities throughout the entire software development lifecycle before they can reach production environments. This industry-leading platform transforms application security from reactive patching into proactive protection that integrates seamlessly into development workflows without compromising velocity or developer productivity.
 

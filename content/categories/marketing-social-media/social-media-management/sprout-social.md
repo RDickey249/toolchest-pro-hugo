@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "Sprout Social"
 deployment_status: "deployed"
 image: "/images/tools/sprout-social-placeholder.jpg"
+external_link: "https://sproutsocial.com"
 ---
 
 Sprout Social is an enterprise-grade social media management platform that combines publishing, engagement, analytics, and listening capabilities with advanced team collaboration features. Designed for businesses that prioritize customer engagement and data-driven social media strategies, Sprout Social provides sophisticated tools for managing brand presence across multiple social networks.

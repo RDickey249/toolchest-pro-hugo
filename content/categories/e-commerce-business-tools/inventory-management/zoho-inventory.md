@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "Zoho Inventory"
 deployment_status: "deployed"
 image: "/images/tools/zoho-inventory-placeholder.jpg"
+external_link: "https://www.zohoinventory.com"
 ---
 Zoho Inventory is the multi-channel inventory management system that integrates seamlessly with the complete Zoho business ecosystem. It's designed for businesses selling across multiple channels who need unified stock control and automated operations.
 

@@ -9,6 +9,7 @@ image: "/images/tools/sentry-placeholder.jpg"
 tags: ["development-technical-tools", "monitoring-observability"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Monitoring & Observability"]
+external_link: "https://www.sentry.com"
 ---
 Sentry is the error tracking and performance monitoring platform trusted by companies like Microsoft, Atlassian, and over 100,000 organizations to catch issues before users do. Processing over 1 trillion errors annually, it has become the essential tool for maintaining application reliability, helping teams reduce debugging time by up to 90% while improving user experience through proactive issue detection.
 

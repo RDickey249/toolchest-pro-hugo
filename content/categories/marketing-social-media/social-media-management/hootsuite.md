@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "Hootsuite"
 deployment_status: "deployed"
 image: "/images/tools/hootsuite-placeholder.jpg"
+external_link: "https://hootsuite.com"
 ---
 
 Hootsuite is a comprehensive social media management platform that enables businesses to schedule, publish, and analyze content across multiple social networks from a single dashboard. As one of the pioneering social media management tools, Hootsuite provides robust scheduling capabilities, team collaboration features, and detailed analytics to help organizations maintain consistent social media presence at scale.

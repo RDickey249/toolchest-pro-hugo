@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "OpenAI API"
 deployment_status: "deployed"
 image: "/images/tools/openai-api-placeholder.jpg"
+external_link: "https://www.openaiapi.com"
 ---
 OpenAI API is the revolutionary platform that democratized access to advanced AI, powering applications used by millions including ChatGPT, GitHub Copilot, and countless innovative startups. This comprehensive API provides developers with access to GPT-4, GPT-3.5, and other cutting-edge language models that can understand, generate, and analyze text with human-like intelligence.
 

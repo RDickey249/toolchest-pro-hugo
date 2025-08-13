@@ -9,6 +9,7 @@ image: "/images/tools/jira-service-management-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Help Desk Platforms"]
+external_link: "https://www.jiraservicemanagement.com"
 ---
 Jira Service Management is a comprehensive help desk platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the help desk platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Jira Service Management when they need reliable, efficient solution
 
 ## Get Started with Jira Service Management
 
-Ready to explore Jira Service Management? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Jira Service Management](https://www.jiraservicemanagement.com) to explore the platform and begin using this powerful tool.

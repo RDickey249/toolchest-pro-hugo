@@ -9,6 +9,7 @@ image: "/images/tools/notion-ai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]
+external_link: "https://www.notion.so/ai"
 ---
 Notion AI is a comprehensive ai productivity & business solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the ai productivity & business space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Notion AI when they need reliable, efficient solutions that integra
 
 ## Get Started with Notion AI
 
-Ready to explore Notion AI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Notion AI](https://www.notion.so/ai) to explore the platform and begin using this powerful tool.

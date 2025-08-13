@@ -9,6 +9,7 @@ image: "/images/tools/aspnet-core-placeholder.jpg"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
+external_link: "https://www.aspnetcore.com"
 ---
 ASP.NET Core is a comprehensive backend frameworks solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the backend frameworks space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose ASP.NET Core when they need reliable, efficient solutions that inte
 
 ## Get Started with ASP.NET Core
 
-Ready to explore ASP.NET Core? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [ASP.NET Core](https://www.aspnetcore.com) to explore the platform and begin using this powerful tool.

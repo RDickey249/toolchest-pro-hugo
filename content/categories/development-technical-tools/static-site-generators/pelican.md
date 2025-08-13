@@ -7,6 +7,7 @@ subcategory: "Static Site Generators"
 tool_name: "Pelican"
 deployment_status: "deployed"
 image: "/images/tools/pelican-placeholder.jpg"
+external_link: "https://www.pelican.com"
 ---
 Pelican revolutionizes Python-based web development by providing the most flexible and comprehensive static site generator that transforms content creation into powerful, customizable websites through Python ecosystem integration, multi-format content support, and extensive plugin architecture designed specifically for Python developers and content creators who require sophisticated static site generation with the full power of Python's capabilities. This Python-native platform establishes the foundation for flexible web development that leverages Python's extensive ecosystem while maintaining static site performance and reliability.
 

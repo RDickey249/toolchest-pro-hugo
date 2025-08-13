@@ -9,6 +9,7 @@ image: "/images/tools/github-placeholder.jpg"
 tags: ["development-technical-tools", "version-control-collaboration"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Version Control & Collaboration"]
+external_link: "https://github.com"
 ---
 GitHub is a comprehensive version control & collaboration solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the version control & collaboration space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose GitHub when they need reliable, efficient solutions that integrate 
 
 ## Get Started with GitHub
 
-Ready to explore GitHub? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [GitHub](https://github.com) to explore the platform and begin using this powerful tool.

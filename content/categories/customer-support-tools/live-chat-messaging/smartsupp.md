@@ -7,6 +7,7 @@ subcategory: "Live Chat Messaging"
 tool_name: "Smartsupp"
 deployment_status: "deployed"
 image: "/images/tools/smartsupp-placeholder.jpg"
+external_link: "https://www.smartsupp.com"
 ---
 When e-commerce companies needed to understand why customers were abandoning their shopping carts at specific checkout steps, they discovered that traditional live chat solutions only captured conversations without showing the actual user behavior that led to support inquiries. Online retailers like boutique fashion stores use advanced chat platforms that combine real-time messaging with session recording capabilities to see exactly where customers get confused during the shopping process. Small to medium businesses rely on comprehensive chat solutions that offer both automated chatbot functionality and detailed visitor insights while remaining affordable and easy to implement across their websites.
 

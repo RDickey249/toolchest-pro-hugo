@@ -9,6 +9,7 @@ image: "/images/tools/slab-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "knowledge-management"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Knowledge Management"]
+external_link: "https://www.slab.com"
 ---
 Slab is a comprehensive knowledge management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the knowledge management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Slab when they need reliable, efficient solutions that integrate se
 
 ## Get Started with Slab
 
-Ready to explore Slab? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Slab](https://www.slab.com) to explore the platform and begin using this powerful tool.

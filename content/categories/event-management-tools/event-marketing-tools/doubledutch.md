@@ -9,6 +9,7 @@ image: "/images/tools/doubledutch-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms", "registration-ticketing", "event-marketing-tools"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Event Marketing Tools"]
+external_link: "https://www.doubledutch.com"
 ---
 DoubleDutch is a comprehensive event marketing tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the event marketing tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose DoubleDutch when they need reliable, efficient solutions that integ
 
 ## Get Started with DoubleDutch
 
-Ready to explore DoubleDutch? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [DoubleDutch](https://www.doubledutch.com) to explore the platform and begin using this powerful tool.

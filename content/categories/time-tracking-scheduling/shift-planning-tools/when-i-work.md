@@ -45,4 +45,4 @@ When I Work revolutionizes collaborative shift planning through intuitive schedu
 
 ## Get Started with When I Work
 
-Ready to explore When I Work? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [When I Work](https://www.wheniwork.com) to explore the platform and begin using this powerful tool.

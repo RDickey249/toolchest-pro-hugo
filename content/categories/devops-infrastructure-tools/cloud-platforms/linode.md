@@ -7,6 +7,7 @@ subcategory: "Cloud Platforms"
 tool_name: "Linode"
 deployment_status: "deployed"
 image: "/images/tools/linode-placeholder.jpg"
+external_link: "https://www.linode.com"
 ---
 Linode is the developer-focused cloud platform trusted by companies like Udemy, GitLab, and thousands of developers worldwide to deploy high-performance applications with transparent pricing and exceptional support. Now part of Akamai's global network, it combines enterprise-grade infrastructure with the simplicity and reliability that developers love, serving over 800,000 customers across 11 global data centers.
 

@@ -9,6 +9,7 @@ image: "/images/tools/integromat-make-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]
+external_link: "https://www.integromatmake.com"
 ---
 Integromat (Make) is a comprehensive integration platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the integration platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

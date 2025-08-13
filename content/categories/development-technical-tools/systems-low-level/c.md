@@ -9,6 +9,7 @@ image: "/images/tools/c-placeholder.jpg"
 tags: ["development-technical-tools", "systems-low-level"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Systems & Low-Level"]
+external_link: "https://www.c.com"
 ---
 C++ is a comprehensive systems & low-level solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the systems & low-level space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

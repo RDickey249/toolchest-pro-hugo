@@ -9,6 +9,7 @@ image: "/images/tools/standing-desks-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Office Equipment"]
+external_link: "https://www.standingdesks.com"
 ---
 Standing Desks is a comprehensive office equipment solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the office equipment space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Standing Desks when they need reliable, efficient solutions that in
 
 ## Get Started with Standing Desks
 
-Ready to explore Standing Desks? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Standing Desks](https://www.standingdesks.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Firebase SDK"
 deployment_status: "deployed"
 image: "/images/tools/firebase-sdk-placeholder.jpg"
+external_link: "https://www.firebasesdk.com"
 ---
 Firebase SDK is Google's comprehensive backend-as-a-service platform powering over 3 million apps worldwide, including applications from The New York Times, Alibaba, and Venmo. With automatic scaling to millions of users and deep integration with Google Cloud, it has become the go-to choice for developers who want enterprise-grade infrastructure without the complexity.
 

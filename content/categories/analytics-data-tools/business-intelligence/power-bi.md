@@ -9,6 +9,7 @@ image: "/images/tools/power-bi-placeholder.jpg"
 tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]
+external_link: "https://powerbi.microsoft.com"
 ---
 Power BI is a comprehensive business intelligence solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business intelligence space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Power BI when they need reliable, efficient solutions that integrat
 
 ## Get Started with Power BI
 
-Ready to explore Power BI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Power BI](https://powerbi.microsoft.com) to explore the platform and begin using this powerful tool.

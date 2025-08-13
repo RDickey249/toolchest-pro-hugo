@@ -9,6 +9,7 @@ image: "/images/tools/taskade-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]
+external_link: "https://www.taskade.com"
 ---
 Taskade is the AI-powered workspace where teams collaborate, brainstorm, and get things done. With built-in AI assistance, flexible organization options, and real-time collaboration, it's productivity software that actually makes work more enjoyable.
 
@@ -61,4 +62,4 @@ Taskade strikes the perfect balance between powerful features and simplicity. Th
 
 ## Get Started with Taskade
 
-Ready to explore Taskade? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Taskade](https://www.taskade.com) to explore the platform and begin using this powerful tool.

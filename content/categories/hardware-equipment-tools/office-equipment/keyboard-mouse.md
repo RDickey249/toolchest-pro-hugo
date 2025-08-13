@@ -9,6 +9,7 @@ image: "/images/tools/keyboard-mouse-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Office Equipment"]
+external_link: "https://www.keyboardmouse.com"
 ---
 Keyboard & Mouse is a comprehensive office equipment solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the office equipment space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

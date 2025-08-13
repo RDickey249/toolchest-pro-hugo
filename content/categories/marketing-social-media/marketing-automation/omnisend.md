@@ -53,4 +53,4 @@ Trusted by over 100,000 e-commerce businesses to automate their marketing and in
 
 ## Get Started with Omnisend
 
-Ready to explore Omnisend? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Omnisend](https://www.omnisend.com) to explore the platform and begin using this powerful tool.

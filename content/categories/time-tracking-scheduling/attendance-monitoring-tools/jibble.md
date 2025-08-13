@@ -46,4 +46,4 @@ Used by organizations seeking advanced attendance verification at no cost, Jibbl
 • Customer support and service levels may be limited compared to premium paid solutions
 ## Get Started with Jibble
 
-Ready to explore Jibble? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Jibble](https://www.jibble.com) to explore the platform and begin using this powerful tool.

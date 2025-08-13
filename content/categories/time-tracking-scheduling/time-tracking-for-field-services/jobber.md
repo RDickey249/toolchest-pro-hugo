@@ -7,6 +7,7 @@ subcategory: "Time Tracking For Field Services"
 tool_name: "Jobber"
 deployment_status: "deployed"
 image: "/images/tools/jobber-placeholder.jpg"
+external_link: "https://www.jobber.com"
 ---
 Jobber is the complete business management platform for field service companies that combines time tracking, scheduling, CRM, and invoicing in one system. Built for teams that work on-site, it streamlines everything from quote to payment.
 
@@ -41,4 +42,4 @@ Used by over 200,000 service professionals including landscapers, plumbers, clea
 • Advanced features may require significant setup time for optimal field service business coordination and comprehensive CRM implementation
 ## Get Started with Jobber
 
-Ready to explore Jobber? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Jobber](https://www.jobber.com) to explore the platform and begin using this powerful tool.

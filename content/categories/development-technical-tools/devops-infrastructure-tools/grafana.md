@@ -9,6 +9,7 @@ image: "/images/tools/grafana-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Monitoring & Observability"]
+external_link: "https://www.grafana.com"
 ---
 Grafana is a comprehensive monitoring & observability solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the monitoring & observability space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Grafana when they need reliable, efficient solutions that integrate
 
 ## Get Started with Grafana
 
-Ready to explore Grafana? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Grafana](https://www.grafana.com) to explore the platform and begin using this powerful tool.

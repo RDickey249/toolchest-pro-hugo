@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "CoSchedule"
 deployment_status: "deployed"
 image: "/images/tools/coschedule-placeholder.jpg"
+external_link: "https://www.coschedule.com"
 ---
 
 CoSchedule is an all-in-one marketing calendar platform that helps teams organize, execute, and optimize their marketing campaigns across multiple channels and projects. More than just a social media scheduler, CoSchedule provides a centralized hub for marketing planning that integrates content marketing, social media, email campaigns, and project management into a unified workflow.

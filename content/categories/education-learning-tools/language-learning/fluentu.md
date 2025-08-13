@@ -9,6 +9,7 @@ image: "/images/tools/fluentu-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms", "language-learning"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Language Learning"]
+external_link: "https://www.fluentu.com"
 ---
 FluentU is a comprehensive language learning solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the language learning space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose FluentU when they need reliable, efficient solutions that integrate
 
 ## Get Started with FluentU
 
-Ready to explore FluentU? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [FluentU](https://www.fluentu.com) to explore the platform and begin using this powerful tool.

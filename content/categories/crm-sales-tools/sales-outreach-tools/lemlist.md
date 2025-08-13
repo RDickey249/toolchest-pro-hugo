@@ -55,4 +55,4 @@ Used by over 10,000 companies to create memorable, personalized outreach campaig
 
 ## Get Started with Lemlist
 
-Ready to explore Lemlist? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Lemlist](https://www.lemlist.com) to explore the platform and begin using this powerful tool.

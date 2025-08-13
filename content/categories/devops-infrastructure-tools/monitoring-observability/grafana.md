@@ -9,6 +9,7 @@ image: "/images/tools/grafana-placeholder.jpg"
 tags: ["devops-infrastructure-tools", "development-technical-tools", "cicd-automation", "cloud-platforms", "container-orchestration", "monitoring-observability"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Business Intelligence"]
+external_link: "https://www.grafana.com"
 ---
 Grafana is the leading open-source platform for monitoring and observability, transforming time-series data into beautiful, actionable dashboards.
 

@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "inFlow"
 deployment_status: "deployed"
 image: "/images/tools/inflow-placeholder.jpg"
+external_link: "https://www.inflow.com"
 ---
 inFlow revolutionizes inventory management for growing businesses by providing the most accessible and comprehensive platform that transforms complex stock control into streamlined operations through intuitive inventory tracking, automated ordering processes, and professional reporting capabilities designed specifically for small to medium businesses who require enterprise-level inventory functionality without the complexity or cost of large-scale systems. This business-focused platform establishes the foundation for professional inventory control that grows with business needs while maintaining affordability and ease of use.
 

@@ -9,6 +9,7 @@ image: "/images/tools/ibisworld-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Market Research Tools"]
+external_link: "https://www.ibisworld.com"
 ---
 IBISWorld is a comprehensive market research tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the market research tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose IBISWorld when they need reliable, efficient solutions that integra
 
 ## Get Started with IBISWorld
 
-Ready to explore IBISWorld? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [IBISWorld](https://www.ibisworld.com) to explore the platform and begin using this powerful tool.

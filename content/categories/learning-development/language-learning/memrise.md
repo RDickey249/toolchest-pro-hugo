@@ -7,6 +7,7 @@ subcategory: "Language Learning"
 tool_name: "Memrise"
 deployment_status: "deployed"
 image: "/images/tools/memrise-placeholder.jpg"
+external_link: "https://www.memrise.com"
 ---
 
 Memrise is a memory-based language learning platform that uses spaced repetition, mnemonic techniques, and real-world video content to help users memorize vocabulary and phrases effectively. The platform combines cognitive science research on memory retention with engaging multimedia content, focusing on helping learners build and maintain large vocabularies in their target languages.

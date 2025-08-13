@@ -7,6 +7,7 @@ subcategory: "Monitoring & Observability"
 tool_name: "Jaeger"
 deployment_status: "deployed"
 image: "/images/tools/jaeger-placeholder.jpg"
+external_link: "https://www.jaeger.com"
 ---
 Jaeger is the open-source distributed tracing system trusted by companies like Uber, Red Hat, and thousands of DevOps teams worldwide to monitor and troubleshoot complex microservices architectures by tracking exactly how requests flow through distributed systems. As a Cloud Native Computing Foundation graduated project, Jaeger has become the industry standard for distributed tracing, providing essential visibility into microservices performance and dependencies.
 

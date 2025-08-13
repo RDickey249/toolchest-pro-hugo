@@ -7,6 +7,7 @@ subcategory: "Voice Phone Support"
 tool_name: "RingCentral"
 deployment_status: "deployed"
 image: "/images/tools/ringcentral-placeholder.jpg"
+external_link: "https://www.ringcentral.com"
 ---
 RingCentral is the unified communications platform trusted by over 400,000 organizations to handle all their business communications through one reliable system. From voice calls to video meetings to team messaging, everything works together seamlessly.
 

@@ -7,6 +7,7 @@ subcategory: "Time Tracking For Legal Professionals"
 tool_name: "MyCase"
 deployment_status: "deployed"
 image: "/images/tools/mycase-placeholder.jpg"
+external_link: "https://www.mycase.com"
 ---
 MyCase is the complete law firm management platform that combines time tracking, case management, and client communication in one system. Built specifically for legal professionals, it streamlines everything from client intake to billing with secure client portals and automated workflows.
 

@@ -9,6 +9,7 @@ image: "/images/tools/sage-x3-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Inventory Management"]
+external_link: "https://www.sagex3.com"
 ---
 Sage X3 is a comprehensive inventory management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the inventory management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Sage X3 when they need reliable, efficient solutions that integrate
 
 ## Get Started with Sage X3
 
-Ready to explore Sage X3? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Sage X3](https://www.sagex3.com) to explore the platform and begin using this powerful tool.

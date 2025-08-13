@@ -7,6 +7,7 @@ subcategory: "Voice Phone Support"
 tool_name: "Grasshopper"
 deployment_status: "deployed"
 image: "/images/tools/grasshopper-placeholder.jpg"
+external_link: "https://www.grasshopper.com"
 ---
 Grasshopper is the virtual phone system trusted by entrepreneurs, solopreneurs, and small businesses worldwide to project professional communications without the complexity and cost of traditional business phone systems. Built specifically for mobile-first businesses, Grasshopper transforms existing mobile devices into professional business lines while maintaining complete separation between personal and business communications.
 

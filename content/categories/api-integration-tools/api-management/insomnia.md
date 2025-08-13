@@ -7,6 +7,7 @@ subcategory: "API Management"
 tool_name: "Insomnia"
 deployment_status: "deployed"
 image: "/images/tools/insomnia-placeholder.jpg"
+external_link: "https://www.insomnia.com"
 ---
 Insomnia revolutionizes API development and testing by providing a beautifully designed, developer-focused client that makes REST and GraphQL API interaction intuitive, efficient, and enjoyable through thoughtful interface design and powerful functionality that streamlines the entire API development workflow. This open-source platform transforms complex API testing from tedious technical tasks into smooth, productive experiences that enhance developer productivity and API quality through comprehensive testing capabilities and elegant user experience.
 

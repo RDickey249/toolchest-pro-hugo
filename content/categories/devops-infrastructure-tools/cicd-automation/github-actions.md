@@ -7,6 +7,7 @@ subcategory: "CI/CD & Automation"
 tool_name: "GitHub Actions"
 deployment_status: "deployed"
 image: "/images/tools/github-actions-placeholder.jpg"
+external_link: "https://www.githubactions.com"
 ---
 GitHub Actions revolutionizes CI/CD automation by providing the most integrated and comprehensive workflow platform that transforms complex deployment pipelines into streamlined automation processes through native GitHub integration, extensive marketplace ecosystem, and powerful workflow-as-code capabilities designed specifically for developers and teams who require seamless automation without external CI/CD complexity or additional tool management. This native platform establishes the foundation for modern development workflows that eliminate friction between code and deployment.
 

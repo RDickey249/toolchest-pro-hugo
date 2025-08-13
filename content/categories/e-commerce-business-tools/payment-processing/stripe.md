@@ -7,6 +7,7 @@ subcategory: "Payment Processing"
 tool_name: "Stripe"
 deployment_status: "deployed"
 image: "/images/tools/stripe-placeholder.jpg"
+external_link: "https://stripe.com"
 ---
 Stripe is the payment processing platform trusted by millions of businesses worldwide, from startups to enterprises like Amazon, Google, and Shopify. It's designed for developers with powerful APIs that make accepting online payments simple and scalable.
 

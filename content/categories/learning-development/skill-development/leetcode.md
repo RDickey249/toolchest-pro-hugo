@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "LeetCode"
 deployment_status: "deployed"
 image: "/images/tools/leetcode-placeholder.jpg"
+external_link: "https://www.leetcode.com"
 ---
 
 LeetCode is a coding interview preparation platform that provides algorithmic programming challenges, mock interviews, and technical assessment tools used by major tech companies for hiring. The platform has become the industry standard for technical interview preparation, with problems directly sourced from actual interviews at companies like Google, Amazon, Facebook, and Microsoft.

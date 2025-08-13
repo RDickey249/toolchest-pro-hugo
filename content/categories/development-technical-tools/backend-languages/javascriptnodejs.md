@@ -9,6 +9,7 @@ image: "/images/tools/javascriptnodejs-placeholder.jpg"
 tags: ["development-technical-tools", "backend-languages"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Languages"]
+external_link: "https://www.javascriptnodejs.com"
 ---
 JavaScript/Node.js is a comprehensive backend languages solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the backend languages space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

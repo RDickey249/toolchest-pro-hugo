@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Pusher SDK"
 deployment_status: "deployed"
 image: "/images/tools/pusher-sdk-placeholder.jpg"
+external_link: "https://www.pushersdk.com"
 ---
 Pusher SDK is the leading real-time messaging infrastructure trusted by over 300,000 developers and companies including GitLab, Intercom, and thousands of applications requiring instant data synchronization. As the pioneer of managed WebSocket services, it has become the standard for adding real-time features to web and mobile applications without the complexity of building custom infrastructure.
 

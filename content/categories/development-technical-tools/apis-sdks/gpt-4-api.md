@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "GPT-4 API"
 deployment_status: "deployed"
 image: "/images/tools/gpt-4-api-placeholder.jpg"
+external_link: "https://www.gpt4api.com"
 ---
 GPT-4 API is OpenAI's most advanced language model, trusted by companies like Microsoft, Stripe, and Khan Academy to power next-generation AI applications with unprecedented reasoning capabilities. This revolutionary API provides developers with access to human-level intelligence for complex problem-solving, multimodal understanding, and sophisticated content generation that transforms how applications interact with users.
 

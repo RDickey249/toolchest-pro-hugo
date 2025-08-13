@@ -9,6 +9,7 @@ image: "/images/tools/dashlane-placeholder.jpg"
 tags: ["security-privacy-tools", "password-management"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Password Management"]
+external_link: "https://www.dashlane.com"
 ---
 Dashlane is a comprehensive password management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the password management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Dashlane when they need reliable, efficient solutions that integrat
 
 ## Get Started with Dashlane
 
-Ready to explore Dashlane? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Dashlane](https://www.dashlane.com) to explore the platform and begin using this powerful tool.

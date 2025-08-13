@@ -9,6 +9,7 @@ image: "/images/tools/zendesk-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Help Desk Platforms"]
+external_link: "https://www.zendesk.com"
 ---
 Zendesk is a comprehensive help desk platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the help desk platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Zendesk when they need reliable, efficient solutions that integrate
 
 ## Get Started with Zendesk
 
-Ready to explore Zendesk? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Zendesk](https://www.zendesk.com) to explore the platform and begin using this powerful tool.

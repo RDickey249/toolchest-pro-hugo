@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "Treehouse"
 deployment_status: "deployed"
 image: "/images/tools/treehouse-placeholder.jpg"
+external_link: "https://www.treehouse.com"
 ---
 
 Treehouse is a web development learning platform that teaches programming through interactive courses, coding challenges, and real-world projects covering front-end and back-end development technologies. The platform provides structured learning paths that take students from complete beginners to job-ready developers, with emphasis on practical skills and portfolio-building projects.

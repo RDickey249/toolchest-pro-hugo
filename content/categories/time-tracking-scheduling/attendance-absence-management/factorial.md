@@ -9,6 +9,7 @@ image: "/images/tools/factorial-placeholder.jpg"
 tags: ["time-tracking-scheduling", "attendance-absence-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Attendance & Absence Management"]
+external_link: "https://www.factorial.com"
 ---
 Factorial is the all-in-one HR platform that helps growing businesses manage their entire employee lifecycle. From onboarding to performance reviews, time tracking to payroll, Factorial centralizes everything HR teams need in one intuitive platform.
 
@@ -61,4 +62,4 @@ Factorial replaces 5-10 different HR tools with one platform. Instead of managin
 
 ## Get Started with Factorial
 
-Ready to explore Factorial? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Factorial](https://www.factorial.com) to explore the platform and begin using this powerful tool.

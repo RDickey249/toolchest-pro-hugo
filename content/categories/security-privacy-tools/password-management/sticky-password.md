@@ -9,6 +9,7 @@ image: "/images/tools/sticky-password-placeholder.jpg"
 tags: ["security-privacy-tools", "password-management"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Password Management"]
+external_link: "https://www.stickypassword.com"
 ---
 Sticky Password is a comprehensive password management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the password management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Sticky Password when they need reliable, efficient solutions that i
 
 ## Get Started with Sticky Password
 
-Ready to explore Sticky Password? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Sticky Password](https://www.stickypassword.com) to explore the platform and begin using this powerful tool.

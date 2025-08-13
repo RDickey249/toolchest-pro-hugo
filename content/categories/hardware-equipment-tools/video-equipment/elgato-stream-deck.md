@@ -9,6 +9,7 @@ image: "/images/tools/elgato-stream-deck-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware", "video-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Video Equipment"]
+external_link: "https://www.elgatostreamdeck.com"
 ---
 Elgato Stream Deck is a comprehensive video equipment solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the video equipment space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Elgato Stream Deck when they need reliable, efficient solutions tha
 
 ## Get Started with Elgato Stream Deck
 
-Ready to explore Elgato Stream Deck? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Elgato Stream Deck](https://www.elgatostreamdeck.com) to explore the platform and begin using this powerful tool.

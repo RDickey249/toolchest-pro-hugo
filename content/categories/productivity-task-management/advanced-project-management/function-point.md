@@ -7,6 +7,7 @@ subcategory: "Advanced Project Management"
 tool_name: "Function Point"
 deployment_status: "deployed"
 image: "/images/tools/function-point-placeholder.jpg"
+external_link: "https://www.functionpoint.com"
 ---
 Function Point revolutionizes creative agency management by providing specialized project software that understands the unique workflows, challenges, and profitability requirements of design studios, advertising agencies, and creative teams. This industry-focused platform transforms complex creative project management into streamlined workflows that connect creative excellence with business success through integrated budgeting, resource planning, and profitability tracking designed specifically for creative work.
 

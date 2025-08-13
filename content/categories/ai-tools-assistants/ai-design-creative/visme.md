@@ -7,6 +7,7 @@ subcategory: "Ai Design Creative"
 tool_name: "Visme"
 deployment_status: "deployed"
 image: "/images/tools/visme-placeholder.jpg"
+external_link: "https://www.visme.com"
 ---
 Visme is the all-in-one design platform that combines presentations, infographics, and interactive content creation with AI-powered assistance. Create professional visual communications, data visualizations, and engaging content without design experience.
 
@@ -42,7 +43,7 @@ Used by businesses, educators, and content creators worldwide, Visme offers thou
 
 ## Get Started with Visme
 
-Ready to explore Visme? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Visme](https://www.visme.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

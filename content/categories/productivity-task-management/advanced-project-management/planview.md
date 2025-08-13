@@ -7,6 +7,7 @@ subcategory: "Advanced Project Management"
 tool_name: "Planview"
 deployment_status: "deployed"
 image: "/images/tools/planview-placeholder.jpg"
+external_link: "https://www.planview.com"
 ---
 Planview revolutionizes enterprise portfolio management by providing a comprehensive platform that transforms strategic planning into executable roadmaps, enabling large organizations to align resources with business objectives while maintaining visibility into value delivery across complex project portfolios. This enterprise-grade solution bridges the critical gap between C-suite strategy and operational execution, ensuring that investments, resources, and efforts align with organizational priorities and deliver measurable business outcomes.
 

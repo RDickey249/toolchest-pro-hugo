@@ -9,6 +9,7 @@ image: "/images/tools/copilot-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]
+external_link: "https://www.copilot.com"
 ---
 Microsoft Copilot is Microsoft's AI assistant that brings GPT-4 capabilities directly into the tools and platforms you already use daily.
 
@@ -72,7 +73,7 @@ The trusted choice for organizations wanting powerful AI capabilities with enter
 
 ## Get Started with Microsoft Copilot
 
-Ready to explore Microsoft Copilot? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Microsoft Copilot](https://www.copilot.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

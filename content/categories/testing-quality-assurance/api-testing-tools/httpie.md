@@ -7,6 +7,7 @@ subcategory: "Api Testing Tools"
 tool_name: "HTTPie"
 deployment_status: "deployed"
 image: "/images/tools/httpie-placeholder.jpg"
+external_link: "https://www.httpie.com"
 ---
 HTTPie revolutionizes command-line API testing by transforming the traditionally cryptic and complex world of HTTP requests into an intuitive, human-readable experience that makes API exploration and debugging as natural as having a conversation with web services. This elegant command-line tool eliminates the complexity and learning curve associated with traditional HTTP clients, providing developers with an accessible, expressive syntax that encourages rapid API experimentation and thorough HTTP debugging without the overhead of GUI applications or complex parameter configurations.
 

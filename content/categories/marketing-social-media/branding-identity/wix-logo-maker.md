@@ -41,7 +41,7 @@ Wix Logo Maker seamlessly integrates AI-powered logo creation with the world's m
 
 ## Get Started with Wix Logo Maker
 
-Ready to explore Wix Logo Maker? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Wix Logo Maker](https://www.wixlogomaker.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

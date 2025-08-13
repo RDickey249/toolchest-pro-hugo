@@ -9,6 +9,7 @@ image: "/images/tools/glint-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems", "background-checks-verification", "employee-engagement-performance"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Employee Engagement & Performance"]
+external_link: "https://www.glint.com"
 ---
 Glint is a comprehensive employee engagement & performance solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the employee engagement & performance space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Glint when they need reliable, efficient solutions that integrate s
 
 ## Get Started with Glint
 
-Ready to explore Glint? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Glint](https://www.glint.com) to explore the platform and begin using this powerful tool.

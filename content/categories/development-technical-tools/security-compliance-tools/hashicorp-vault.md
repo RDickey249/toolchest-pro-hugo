@@ -9,6 +9,7 @@ image: "/images/tools/hashicorp-vault-placeholder.jpg"
 tags: ["development-technical-tools", "security-compliance-tools"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Security & Compliance Tools"]
+external_link: "https://www.hashicorpvault.com"
 ---
 HashiCorp Vault is the enterprise secrets management platform trusted by companies like Mercedes-Benz, Samsung, and thousands of organizations worldwide to secure, store, and control access to sensitive data including passwords, API keys, certificates, and encryption keys through centralized, policy-driven security that eliminates secrets sprawl and reduces data breach risks. As the foundation of zero-trust security architecture, Vault transforms how organizations handle sensitive data by providing dynamic secrets generation, automatic rotation, and comprehensive audit capabilities that ensure secrets are never hardcoded or stored insecurely.
 

@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Slack API"
 deployment_status: "deployed"
 image: "/images/tools/slack-api-placeholder.jpg"
+external_link: "https://www.slackapi.com"
 ---
 Slack API is the comprehensive platform that powers workplace automation for millions of teams worldwide, including companies like IBM, Airbnb, and Shopify who use it to build sophisticated integrations, bots, and workflow automation tools. This robust API ecosystem enables developers to transform how teams collaborate by seamlessly connecting Slack with business systems and creating custom productivity solutions.
 

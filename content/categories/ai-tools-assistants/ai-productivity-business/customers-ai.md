@@ -55,4 +55,4 @@ Trusted by growing businesses to unlock the full potential of their customer dat
 
 ## Get Started with Customers.ai
 
-Ready to explore Customers.ai? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Customers.ai](https://www.customersai.com) to explore the platform and begin using this powerful tool.

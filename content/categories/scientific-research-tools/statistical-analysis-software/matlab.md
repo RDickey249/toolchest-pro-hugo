@@ -9,6 +9,7 @@ image: "/images/tools/matlab-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management", "statistical-analysis-software"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Statistical Analysis Software"]
+external_link: "https://www.matlab.com"
 ---
 MATLAB is a comprehensive statistical analysis software solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the statistical analysis software space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose MATLAB when they need reliable, efficient solutions that integrate 
 
 ## Get Started with MATLAB
 
-Ready to explore MATLAB? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [MATLAB](https://www.matlab.com) to explore the platform and begin using this powerful tool.

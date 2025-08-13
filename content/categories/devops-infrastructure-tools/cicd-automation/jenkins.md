@@ -7,6 +7,7 @@ subcategory: "Cicd Automation"
 tool_name: "Jenkins"
 deployment_status: "deployed"
 image: "/images/tools/jenkins-placeholder.jpg"
+external_link: "https://www.jenkins.com"
 ---
 When Samsung needed to accelerate their software delivery across hundreds of development teams, they implemented Jenkins to automate their build and deployment processes. The electronics giant now processes over 100,000 builds daily through Jenkins, reducing their release cycle from months to days while maintaining quality standards across their global development organization.
 

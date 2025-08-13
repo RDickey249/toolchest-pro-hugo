@@ -41,4 +41,4 @@ ClickTime enhances business operations through comprehensive time tracking and e
 
 ## Get Started with ClickTime
 
-Ready to explore ClickTime? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [ClickTime](https://www.clicktime.com) to explore the platform and begin using this powerful tool.

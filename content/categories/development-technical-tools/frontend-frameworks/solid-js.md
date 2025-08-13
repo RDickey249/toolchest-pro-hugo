@@ -43,4 +43,4 @@ Used by developers seeking performance and React familiarity, SolidJS offers sig
 
 ## Get Started with SolidJS
 
-Ready to explore SolidJS? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [SolidJS](https://www.solidjs.com) to explore the platform and begin using this powerful tool.

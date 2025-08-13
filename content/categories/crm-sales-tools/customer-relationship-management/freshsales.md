@@ -9,6 +9,7 @@ image: "/images/tools/freshsales-placeholder.jpg"
 tags: ["crm-sales-tools", "customer-relationship-management"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Customer Relationship Management"]
+external_link: "https://www.freshsales.com"
 ---
 Freshsales is a comprehensive customer relationship management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the customer relationship management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Freshsales when they need reliable, efficient solutions that integr
 
 ## Get Started with Freshsales
 
-Ready to explore Freshsales? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Freshsales](https://www.freshsales.com) to explore the platform and begin using this powerful tool.

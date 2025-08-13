@@ -7,6 +7,7 @@ subcategory: "IDEs & Code Editors"
 tool_name: "Eclipse"
 deployment_status: "deployed"
 image: "/images/tools/eclipse-placeholder.jpg"
+external_link: "https://www.eclipse.com"
 ---
 Eclipse is the legendary open-source IDE platform that has powered enterprise software development for over two decades, trusted by millions of developers at companies like IBM, SAP, and countless organizations worldwide. As one of the most successful open-source projects ever created, it established the foundation for modern IDE architecture and remains the backbone of Java enterprise development.
 

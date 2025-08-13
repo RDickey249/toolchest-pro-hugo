@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "SocialBee"
 deployment_status: "deployed"
 image: "/images/tools/socialbee-placeholder.jpg"
+external_link: "https://www.socialbee.com"
 ---
 
 SocialBee is a social media management platform that uses content categorization to organize and automatically recycle evergreen content while maintaining balanced posting schedules across multiple social networks. The platform's unique approach to content organization helps businesses maintain consistent social media presence without constantly creating new content.

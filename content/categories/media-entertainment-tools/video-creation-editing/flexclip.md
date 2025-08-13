@@ -7,6 +7,7 @@ subcategory: "Video Creation Editing"
 tool_name: "FlexClip"
 deployment_status: "deployed"
 image: "/images/tools/flexclip-placeholder.jpg"
+external_link: "https://www.flexclip.com"
 ---
 FlexClip is a browser-based video creation platform that combines professional templates with intuitive drag-and-drop editing. It enables businesses and content creators to produce polished marketing videos, social media content, and presentations without expensive software or technical expertise.
 
@@ -44,7 +45,7 @@ It's ideal for entrepreneurs, marketers, educators, and small business owners wh
 
 ## Get Started with FlexClip
 
-Ready to explore FlexClip? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [FlexClip](https://www.flexclip.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

@@ -9,6 +9,7 @@ image: "/images/tools/dall-e-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]
+external_link: "https://www.dalle.com"
 ---
 DALL·E is the AI image generator that started the visual AI revolution, turning simple text descriptions into stunning, original artwork.
 

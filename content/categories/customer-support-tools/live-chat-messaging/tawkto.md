@@ -7,6 +7,7 @@ subcategory: "Live Chat & Messaging"
 tool_name: "Tawk.to"
 deployment_status: "deployed"
 image: "/images/tools/tawk-to-placeholder.jpg"
+external_link: "https://www.tawkto.com"
 ---
 Tawk.to is the completely free live chat platform trusted by over 300,000 businesses worldwide to provide professional customer communication without any subscription fees, usage limits, or hidden costs. As the only major live chat solution that offers its complete feature set entirely free of charge, Tawk.to has revolutionized customer support accessibility by proving that premium chat functionality doesn't require premium pricing.
 

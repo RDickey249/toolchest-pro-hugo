@@ -9,6 +9,7 @@ image: "/images/tools/asana-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]
+external_link: "https://asana.com"
 ---
 Asana is a comprehensive project management platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the project management platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Asana when they need reliable, efficient solutions that integrate s
 
 ## Get Started with Asana
 
-Ready to explore Asana? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Asana](https://asana.com) to explore the platform and begin using this powerful tool.

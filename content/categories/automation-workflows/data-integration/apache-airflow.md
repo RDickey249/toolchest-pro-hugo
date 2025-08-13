@@ -9,6 +9,7 @@ image: "/images/tools/apache-airflow-placeholder.jpg"
 tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]
+external_link: "https://www.apacheairflow.com"
 ---
 Apache Airflow is a comprehensive data integration solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the data integration space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Apache Airflow when they need reliable, efficient solutions that in
 
 ## Get Started with Apache Airflow
 
-Ready to explore Apache Airflow? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Apache Airflow](https://www.apacheairflow.com) to explore the platform and begin using this powerful tool.

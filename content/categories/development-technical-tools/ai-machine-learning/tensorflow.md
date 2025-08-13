@@ -7,6 +7,7 @@ subcategory: "AI & Machine Learning"
 tool_name: "TensorFlow"
 deployment_status: "deployed"
 image: "/images/tools/tensorflow-placeholder.jpg"
+external_link: "https://www.tensorflow.com"
 ---
 TensorFlow is Google's open-source machine learning platform used by over 4 million developers worldwide to build and deploy AI applications at enterprise scale. It powers everything from Google Search to autonomous vehicles, making complex machine learning accessible to developers of all skill levels.
 

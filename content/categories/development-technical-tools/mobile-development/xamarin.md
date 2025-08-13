@@ -9,6 +9,7 @@ image: "/images/tools/xamarin-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-development"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Development:"]
+external_link: "https://www.xamarin.com"
 ---
 Xamarin is a comprehensive mobile development: solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the mobile development: space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Xamarin when they need reliable, efficient solutions that integrate
 
 ## Get Started with Xamarin
 
-Ready to explore Xamarin? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Xamarin](https://www.xamarin.com) to explore the platform and begin using this powerful tool.

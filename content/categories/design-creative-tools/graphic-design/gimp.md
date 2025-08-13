@@ -9,6 +9,7 @@ image: "/images/tools/gimp-placeholder.jpg"
 tags: ["design-creative-tools", "graphic-design"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Graphic Design"]
+external_link: "https://www.gimp.com"
 ---
 GIMP is a comprehensive graphic design solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the graphic design space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose GIMP when they need reliable, efficient solutions that integrate se
 
 ## Get Started with GIMP
 
-Ready to explore GIMP? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [GIMP](https://www.gimp.com) to explore the platform and begin using this powerful tool.

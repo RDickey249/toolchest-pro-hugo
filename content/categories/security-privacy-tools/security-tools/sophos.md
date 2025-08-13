@@ -9,6 +9,7 @@ image: "/images/tools/sophos-placeholder.jpg"
 tags: ["security-privacy-tools", "security-tools"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Security Tools"]
+external_link: "https://www.sophos.com"
 ---
 Sophos is a comprehensive security tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the security tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Sophos when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Sophos
 
-Ready to explore Sophos? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Sophos](https://www.sophos.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/fyle-placeholder.jpg"
 tags: ["finance-accounting", "expense-management"]
 categories: ["Finance & Accounting"]
 subcategories: ["Expense Management"]
+external_link: "https://www.fyle.com"
 ---
 Fyle is a comprehensive expense management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the expense management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Fyle when they need reliable, efficient solutions that integrate se
 
 ## Get Started with Fyle
 
-Ready to explore Fyle? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Fyle](https://www.fyle.com) to explore the platform and begin using this powerful tool.

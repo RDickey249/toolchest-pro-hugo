@@ -7,6 +7,7 @@ subcategory: "Employee Time Clock Tools"
 tool_name: "Buddy Punch"
 deployment_status: "deployed"
 image: "/images/tools/buddy-punch-placeholder.jpg"
+external_link: "https://www.buddypunch.com"
 ---
 Buddy Punch is an advanced employee time tracking system that eliminates time theft through biometric verification and location-based authentication. The platform combines facial recognition, GPS tracking, and geofencing to ensure only authorized employees can clock in from approved locations.
 
@@ -44,4 +45,4 @@ Buddy Punch works best for construction companies, field service teams, and busi
 
 ## Get Started with Buddy Punch
 
-Ready to explore Buddy Punch? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Buddy Punch](https://www.buddypunch.com) to explore the platform and begin using this powerful tool.

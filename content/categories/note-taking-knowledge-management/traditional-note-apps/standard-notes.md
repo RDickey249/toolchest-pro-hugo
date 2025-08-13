@@ -9,6 +9,7 @@ image: "/images/tools/standard-notes-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "traditional-note-apps"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Traditional Note Apps"]
+external_link: "https://www.standardnotes.com"
 ---
 Standard Notes is a comprehensive traditional note apps solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the traditional note apps space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Standard Notes when they need reliable, efficient solutions that in
 
 ## Get Started with Standard Notes
 
-Ready to explore Standard Notes? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Standard Notes](https://www.standardnotes.com) to explore the platform and begin using this powerful tool.

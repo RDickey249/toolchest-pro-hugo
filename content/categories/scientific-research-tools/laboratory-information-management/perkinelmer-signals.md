@@ -9,6 +9,7 @@ image: "/images/tools/perkinelmer-signals-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Laboratory Information Management"]
+external_link: "https://www.perkinelmersignals.com"
 ---
 PerkinElmer Signals is a comprehensive laboratory information management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the laboratory information management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose PerkinElmer Signals when they need reliable, efficient solutions th
 
 ## Get Started with PerkinElmer Signals
 
-Ready to explore PerkinElmer Signals? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [PerkinElmer Signals](https://www.perkinelmersignals.com) to explore the platform and begin using this powerful tool.

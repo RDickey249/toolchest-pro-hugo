@@ -9,6 +9,7 @@ image: "/images/tools/business-licenses-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance", "business-registration-licensing"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Business Registration & Licensing"]
+external_link: "https://www.businesslicenses.com"
 ---
 Business licenses is a comprehensive business registration & licensing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business registration & licensing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Business licenses when they need reliable, efficient solutions that
 
 ## Get Started with Business licenses
 
-Ready to explore Business licenses? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Business licenses](https://www.businesslicenses.com) to explore the platform and begin using this powerful tool.

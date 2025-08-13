@@ -9,6 +9,7 @@ image: "/images/tools/immersive-reader-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Workplace Inclusion Platforms"]
+external_link: "https://www.immersivereader.com"
 ---
 Immersive Reader is a comprehensive workplace inclusion platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the workplace inclusion platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Immersive Reader when they need reliable, efficient solutions that 
 
 ## Get Started with Immersive Reader
 
-Ready to explore Immersive Reader? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Immersive Reader](https://www.immersivereader.com) to explore the platform and begin using this powerful tool.

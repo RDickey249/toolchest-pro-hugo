@@ -7,6 +7,7 @@ subcategory: "Monitoring Observability"
 tool_name: "New Relic"
 deployment_status: "deployed"
 image: "/images/tools/new-relic-placeholder.jpg"
+external_link: "https://www.newrelic.com"
 ---
 New Relic is the world's leading observability platform trusted by over 17,000 customers including T-Mobile, DoorDash, and GitHub to monitor and optimize their entire technology stack. Founded in 2008 and processing over 200 billion metrics daily, it has become the industry standard for full-stack observability that enables teams to build better software faster.
 

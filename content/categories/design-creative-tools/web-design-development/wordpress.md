@@ -7,6 +7,7 @@ subcategory: "Web Design Development"
 tool_name: "WordPress.com"
 deployment_status: "deployed"
 image: "/images/tools/wordpress-placeholder.jpg"
+external_link: "https://wordpress.com"
 ---
 WordPress.com revolutionizes website creation by providing the most accessible and powerful hosted platform that transforms complex website development into streamlined creation processes through managed WordPress infrastructure, comprehensive content management capabilities, and professional hosting services designed specifically for individuals and businesses who want the power of WordPress without technical complexity or hosting management responsibilities. This hosted platform establishes the foundation for professional web presence that combines WordPress flexibility with managed convenience.
 

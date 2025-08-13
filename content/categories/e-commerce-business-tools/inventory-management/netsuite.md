@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "NetSuite"
 deployment_status: "deployed"
 image: "/images/tools/netsuite-placeholder.jpg"
+external_link: "https://www.netsuite.com"
 ---
 NetSuite is the leading cloud ERP platform trusted by over 32,000 organizations worldwide, including major brands like Williams-Sonoma, Shopify, and Land O'Lakes. Owned by Oracle, it provides complete business management in a unified platform that scales from small businesses to global enterprises.
 

@@ -9,6 +9,7 @@ image: "/images/tools/accessibility-insights-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Web Accessibility Testing"]
+external_link: "https://www.accessibilityinsights.com"
 ---
 Accessibility Insights is a comprehensive web accessibility testing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the web accessibility testing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Accessibility Insights when they need reliable, efficient solutions
 
 ## Get Started with Accessibility Insights
 
-Ready to explore Accessibility Insights? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Accessibility Insights](https://www.accessibilityinsights.com) to explore the platform and begin using this powerful tool.

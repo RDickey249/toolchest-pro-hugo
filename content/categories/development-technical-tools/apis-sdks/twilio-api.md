@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Twilio API"
 deployment_status: "deployed"
 image: "/images/tools/twilio-api-placeholder.jpg"
+external_link: "https://www.twilioapi.com"
 ---
 Twilio API is the world's leading cloud communications platform, powering over 150,000 businesses including Uber, Netflix, and Shopify with programmable voice, messaging, and video capabilities. Processing over 180 billion interactions annually, it's the backbone of modern digital communication infrastructure.
 

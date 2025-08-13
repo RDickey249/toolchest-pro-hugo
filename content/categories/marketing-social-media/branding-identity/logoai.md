@@ -41,7 +41,7 @@ LogoAI harnesses the power of artificial intelligence to create professional, un
 
 ## Get Started with LogoAI
 
-Ready to explore LogoAI? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [LogoAI](https://www.logoai.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

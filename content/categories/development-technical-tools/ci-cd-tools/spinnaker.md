@@ -7,6 +7,7 @@ subcategory: "CI/CD Tools"
 tool_name: "Spinnaker"
 deployment_status: "deployed"
 image: "/images/tools/spinnaker-placeholder.jpg"
+external_link: "https://www.spinnaker.com"
 ---
 Spinnaker is the enterprise-grade multi-cloud continuous delivery platform originally developed by Netflix and now trusted by companies like Google, Microsoft, and hundreds of organizations managing complex, high-stakes deployments. As an open-source project backed by the Continuous Delivery Foundation, it has become the gold standard for sophisticated deployment orchestration across multiple cloud environments.
 

@@ -7,6 +7,7 @@ subcategory: "Performance Testing"
 tool_name: "Performance Testing"
 deployment_status: "deployed"
 image: "/images/tools/performance-testing-placeholder.jpg"
+external_link: "https://www.performancetesting.com"
 ---
 Performance testing validates how applications behave under various load conditions to ensure they meet performance requirements and provide acceptable user experiences. It's essential for preventing costly issues before they impact real users.
 

@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "Exercism"
 deployment_status: "deployed"
 image: "/images/tools/exercism-placeholder.jpg"
+external_link: "https://www.exercism.com"
 ---
 
 Exercism is a programming exercise platform that focuses on deep learning through mentorship, providing coding challenges with personalized feedback from experienced developers to improve code quality and understanding. Unlike competitive programming platforms, Exercism emphasizes learning through iteration, code review, and mentorship rather than just solving problems correctly.

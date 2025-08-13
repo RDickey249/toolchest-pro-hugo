@@ -7,6 +7,7 @@ subcategory: "Knowledge Base Documentation"
 tool_name: "ReadMe"
 deployment_status: "deployed"
 image: "/images/tools/readme-io-placeholder.jpg"
+external_link: "https://www.readmeio.com"
 ---
 ReadMe is the developer-focused documentation platform trusted by companies like Shopify, Box, and thousands of API-first organizations worldwide to transform technical documentation from static pages into interactive developer experiences that accelerate integration and reduce support burden. Built specifically for API documentation, ReadMe combines automated reference generation with powerful content authoring to create documentation that developers actually want to use.
 

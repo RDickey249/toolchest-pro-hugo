@@ -9,6 +9,7 @@ image: "/images/tools/oracle-cloud-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Cloud Platforms"]
+external_link: "https://www.oraclecloud.com"
 ---
 Oracle Cloud is a comprehensive cloud platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the cloud platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Oracle Cloud when they need reliable, efficient solutions that inte
 
 ## Get Started with Oracle Cloud
 
-Ready to explore Oracle Cloud? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Oracle Cloud](https://www.oraclecloud.com) to explore the platform and begin using this powerful tool.

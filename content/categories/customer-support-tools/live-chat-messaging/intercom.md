@@ -7,6 +7,7 @@ subcategory: "Live Chat & Messaging"
 tool_name: "Intercom"
 deployment_status: "deployed"
 image: "/images/tools/intercom-placeholder.jpg"
+external_link: "https://www.intercom.com"
 ---
 Intercom is the modern customer messaging platform trusted by companies like Shopify, Atlassian, and over 25,000 businesses worldwide to engage, support, and convert customers throughout their entire journey with personalized, conversational experiences. More than just live chat, Intercom revolutionizes customer communication by combining support, marketing, and sales into one unified platform that adapts to how modern customers want to interact with businesses.
 

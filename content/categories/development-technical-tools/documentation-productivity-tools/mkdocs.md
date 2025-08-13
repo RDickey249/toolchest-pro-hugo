@@ -7,6 +7,7 @@ subcategory: "Documentation & Productivity"
 tool_name: "MkDocs"
 deployment_status: "deployed"
 image: "/images/tools/mkdocs-placeholder.jpg"
+external_link: "https://www.mkdocs.com"
 ---
 MkDocs revolutionizes documentation creation by providing a fast, simple static site generator that transforms Markdown files into beautiful, searchable documentation websites with minimal configuration and maximum customization potential. This developer-focused platform enables teams to create professional documentation that maintains the simplicity of Markdown writing while delivering the polished presentation and functionality that users expect from modern documentation sites.
 

@@ -7,6 +7,7 @@ subcategory: "Ai Productivity Business"
 tool_name: "Polymer"
 deployment_status: "deployed"
 image: "/images/tools/polymer-placeholder.jpg"
+external_link: "https://www.polymer.com"
 ---
 Polymer makes data exploration accessible through natural language queries, allowing users to ask questions about their data in plain English and receive instant insights.
 
@@ -44,7 +45,7 @@ Perfect for sales teams analyzing performance metrics, marketing teams understan
 
 ## Get Started with Polymer
 
-Ready to explore Polymer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Polymer](https://www.polymer.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

@@ -49,4 +49,4 @@ ZoomShift excels for restaurants, retail stores, manufacturing facilities, and s
 
 ## Get Started with ZoomShift
 
-Ready to explore ZoomShift? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [ZoomShift](https://www.zoomshift.com) to explore the platform and begin using this powerful tool.

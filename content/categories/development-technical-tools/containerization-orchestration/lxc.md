@@ -7,6 +7,7 @@ subcategory: "Containerization & Orchestration"
 tool_name: "LXC"
 deployment_status: "deployed"
 image: "/images/tools/lxc-placeholder.jpg"
+external_link: "https://www.lxc.com"
 ---
 LXC is the foundational Linux container technology that pioneered system-level virtualization, trusted by companies like Canonical (Ubuntu's creator) and numerous hosting providers worldwide. Unlike application containers like Docker, LXC provides complete Linux environments that run multiple processes, making it perfect for system administration and infrastructure management.
 

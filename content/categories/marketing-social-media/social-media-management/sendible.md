@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "Sendible"
 deployment_status: "deployed"
 image: "/images/tools/sendible-placeholder.jpg"
+external_link: "https://www.sendible.com"
 ---
 
 Sendible is a social media management platform designed specifically for agencies and multi-client management, offering white-label solutions and advanced client reporting features. Built with agencies in mind, Sendible provides the tools needed to manage multiple client accounts efficiently while maintaining professional branding and detailed performance reporting.

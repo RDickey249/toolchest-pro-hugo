@@ -9,6 +9,7 @@ image: "/images/tools/livechat-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms", "voice-phone-support", "live-chat-messaging"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Live Chat & Messaging"]
+external_link: "https://www.livechat.com"
 ---
 LiveChat is a comprehensive live chat & messaging solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the live chat & messaging space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose LiveChat when they need reliable, efficient solutions that integrat
 
 ## Get Started with LiveChat
 
-Ready to explore LiveChat? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [LiveChat](https://www.livechat.com) to explore the platform and begin using this powerful tool.

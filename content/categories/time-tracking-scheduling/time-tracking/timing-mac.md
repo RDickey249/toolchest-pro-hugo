@@ -9,6 +9,7 @@ image: "/images/tools/timing-mac-placeholder.jpg"
 tags: ["time-tracking-scheduling", "time-tracking"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking"]
+external_link: "https://www.timingmac.com"
 ---
 Timing (Mac) is a comprehensive time tracking solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the time tracking space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

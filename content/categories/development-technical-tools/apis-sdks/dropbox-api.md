@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Dropbox API"
 deployment_status: "deployed"
 image: "/images/tools/dropbox-api-placeholder.jpg"
+external_link: "https://www.dropboxapi.com"
 ---
 Dropbox API is the cloud storage platform powering file operations for millions of applications, with over 700 million registered users storing 500+ petabytes of data. Used by companies like Slack, WhatsApp, and Adobe, it provides the reliable file infrastructure that modern applications depend on.
 

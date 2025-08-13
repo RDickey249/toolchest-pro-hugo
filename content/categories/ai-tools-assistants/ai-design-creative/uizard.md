@@ -7,6 +7,7 @@ subcategory: "Ai Design Creative"
 tool_name: "Uizard"
 deployment_status: "deployed"
 image: "/images/tools/uizard-placeholder.jpg"
+external_link: "https://www.uizard.com"
 ---
 Uizard is the AI-powered design platform that transforms hand-drawn sketches, screenshots, and text descriptions into professional UI mockups and interactive prototypes for non-designers.
 
@@ -42,7 +43,7 @@ Used by startup founders, product managers, and entrepreneurs, Uizard offers ske
 
 ## Get Started with Uizard
 
-Ready to explore Uizard? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Uizard](https://www.uizard.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

@@ -7,6 +7,7 @@ subcategory: "Frontend Languages"
 tool_name: "Less"
 deployment_status: "deployed"
 image: "/images/tools/less-placeholder.jpg"
+external_link: "https://www.less.com"
 ---
 
 Less revolutionizes CSS development by providing a backwards-compatible CSS preprocessor that adds dynamic programming features like variables, mixins, and functions while maintaining complete syntax compatibility with standard CSS, enabling developers to write more maintainable, organized, and powerful stylesheets. This developer-friendly platform transforms static CSS limitations into dynamic stylesheet capabilities that reduce code duplication, improve maintainability, and accelerate development workflows without requiring developers to learn entirely new syntax.

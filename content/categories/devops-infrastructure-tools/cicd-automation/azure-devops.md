@@ -7,6 +7,7 @@ subcategory: "CI/CD & Automation"
 tool_name: "Azure DevOps"
 deployment_status: "deployed"
 image: "/images/tools/azure-devops-placeholder.jpg"
+external_link: "https://www.azuredevops.com"
 ---
 Azure DevOps is Microsoft's enterprise-grade DevOps platform trusted by companies like Progressive Insurance, H&R Block, and thousands of organizations to deliver software faster with comprehensive application lifecycle management. As Microsoft's flagship DevOps solution, it provides a complete, integrated toolchain that spans from planning to deployment, supporting any language, platform, and cloud while maintaining deep integration with Microsoft's ecosystem.
 

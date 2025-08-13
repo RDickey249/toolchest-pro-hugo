@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "Neocities"
 deployment_status: "deployed"
 image: "/images/tools/neocities-placeholder.jpg"
+external_link: "https://www.neocities.com"
 ---
 Neocities is a free web hosting platform that revives the creative spirit of the early internet with over 450,000 websites showcasing unique, personal web experiences. Founded in 2013, it champions individual expression and experimental web design in an era of corporate social media dominance.
 

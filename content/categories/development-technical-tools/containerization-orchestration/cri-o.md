@@ -7,6 +7,7 @@ subcategory: "Containerization & Orchestration"
 tool_name: "CRI-O"
 deployment_status: "deployed"
 image: "/images/tools/cri-o-placeholder.jpg"
+external_link: "https://www.crio.com"
 ---
 CRI-O is the purpose-built Kubernetes container runtime trusted by Red Hat OpenShift, SUSE, and enterprise Kubernetes distributions to deliver lightweight, secure container execution with OCI compliance. As the container runtime designed specifically for Kubernetes, it eliminates unnecessary features while focusing exclusively on what Kubernetes needs, resulting in improved performance, security, and reliability for production clusters.
 

@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "FreeCodeCamp"
 deployment_status: "deployed"
 image: "/images/tools/freecodecamp-placeholder.jpg"
+external_link: "https://www.freecodecamp.com"
 ---
 
 FreeCodeCamp is a free coding bootcamp that teaches web development, data science, and programming through interactive lessons, coding challenges, and nonprofit project work that builds real-world experience. The platform provides a complete computer science education at no cost, with over 8,000 hours of coursework covering everything from basic HTML to advanced algorithms and data structures.

@@ -9,6 +9,7 @@ image: "/images/tools/surface-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Computer Hardware"]
+external_link: "https://www.surface.com"
 ---
 Surface is a comprehensive computer hardware solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the computer hardware space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Surface when they need reliable, efficient solutions that integrate
 
 ## Get Started with Surface
 
-Ready to explore Surface? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Surface](https://www.surface.com) to explore the platform and begin using this powerful tool.

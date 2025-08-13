@@ -7,6 +7,7 @@ subcategory: "Time Tracking For Field Services"
 tool_name: "ServiceM8"
 deployment_status: "deployed"
 image: "/images/tools/servicem8-placeholder.jpg"
+external_link: "https://www.servicem8.com"
 ---
 ServiceM8 is the complete field service management platform that handles everything from job scheduling and dispatch to time tracking and invoicing. Built for mobile service teams, it turns your smartphone into a complete business management system.
 
@@ -41,4 +42,4 @@ Used by thousands of service businesses including HVAC, plumbing, electrical, an
 • Advanced features may require significant setup time for optimal field service coordination and comprehensive operational management implementation
 ## Get Started with ServiceM8
 
-Ready to explore ServiceM8? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [ServiceM8](https://www.servicem8.com) to explore the platform and begin using this powerful tool.

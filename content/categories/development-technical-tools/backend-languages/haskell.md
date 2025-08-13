@@ -7,6 +7,7 @@ subcategory: "Backend Languages"
 tool_name: "Haskell"
 deployment_status: "deployed"
 image: "/images/tools/haskell-placeholder.jpg"
+external_link: "https://www.haskell.com"
 ---
 When Facebook needed to combat spam at unprecedented scale, processing over 4 billion content items daily, they turned to Haskell for its mathematical precision and compile-time guarantees. The purely functional language has quietly powered critical systems at major tech companies, from Standard Chartered's risk management systems handling trillions in transactions to GitHub's semantic code analysis serving millions of repositories.
 

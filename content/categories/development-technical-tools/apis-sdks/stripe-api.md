@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Stripe API"
 deployment_status: "deployed"
 image: "/images/tools/stripe-api-placeholder.jpg"
+external_link: "https://www.stripeapi.com"
 ---
 Stripe API is the world's most powerful payment processing platform, trusted by millions of businesses including Amazon, Google, and Shopify to process over $640 billion in payments annually. Founded by the Collison brothers in 2010, it revolutionized online payments by providing developer-friendly infrastructure that makes accepting payments as simple as a few lines of code.
 

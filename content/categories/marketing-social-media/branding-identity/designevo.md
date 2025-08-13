@@ -41,7 +41,7 @@ DesignEvo democratizes professional logo design through an extensive template li
 
 ## Get Started with DesignEvo
 
-Ready to explore DesignEvo? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [DesignEvo](https://www.designevo.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

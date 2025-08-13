@@ -56,4 +56,4 @@ Trusted by over 10,000 businesses and agencies to power their cold email campaig
 
 ## Get Started with Saleshandy
 
-Ready to explore Saleshandy? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Saleshandy](https://www.saleshandy.com) to explore the platform and begin using this powerful tool.

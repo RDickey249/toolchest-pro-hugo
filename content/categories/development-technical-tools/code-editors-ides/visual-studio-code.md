@@ -9,6 +9,7 @@ image: "/images/tools/visual-studio-code-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]
+external_link: "https://code.visualstudio.com"
 ---
 Visual Studio Code is a comprehensive code editors & ides solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the code editors & ides space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Visual Studio Code when they need reliable, efficient solutions tha
 
 ## Get Started with Visual Studio Code
 
-Ready to explore Visual Studio Code? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Visual Studio Code](https://code.visualstudio.com) to explore the platform and begin using this powerful tool.

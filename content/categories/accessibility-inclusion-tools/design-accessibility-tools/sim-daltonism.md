@@ -9,6 +9,7 @@ image: "/images/tools/sim-daltonism-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Design Accessibility Tools"]
+external_link: "https://www.simdaltonism.com"
 ---
 Sim Daltonism is a comprehensive design accessibility tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the design accessibility tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Sim Daltonism when they need reliable, efficient solutions that int
 
 ## Get Started with Sim Daltonism
 
-Ready to explore Sim Daltonism? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Sim Daltonism](https://www.simdaltonism.com) to explore the platform and begin using this powerful tool.

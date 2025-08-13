@@ -7,6 +7,7 @@ subcategory: "Survey Platforms"
 tool_name: "SurveyJS"
 deployment_status: "deployed"
 image: "/images/tools/surveyjs-placeholder.jpg"
+external_link: "https://www.surveyjs.com"
 ---
 SurveyJS is the comprehensive open-source JavaScript library trusted by developers, enterprises, and software companies worldwide to add powerful survey functionality directly into their applications with complete control over data, styling, and integration. As the leading developer-focused survey solution, SurveyJS eliminates dependence on hosted survey platforms while providing the flexibility to create sophisticated survey experiences that integrate seamlessly with existing applications and workflows.
 

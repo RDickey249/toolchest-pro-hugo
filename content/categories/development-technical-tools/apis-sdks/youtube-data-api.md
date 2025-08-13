@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "YouTube Data API"
 deployment_status: "deployed"
 image: "/images/tools/youtube-data-api-placeholder.jpg"
+external_link: "https://www.youtubedataapi.com"
 ---
 YouTube Data API is the official gateway to YouTube's massive video ecosystem, trusted by companies like TikTok, Discord, and thousands of developers to integrate video functionality serving over 2 billion users monthly. As Google's comprehensive API for YouTube integration, it enables applications to tap into the world's largest video platform, accessing billions of videos while managing channels, playlists, and live streams programmatically.
 

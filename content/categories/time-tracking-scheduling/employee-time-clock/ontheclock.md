@@ -7,6 +7,7 @@ subcategory: "Employee Time Clock"
 tool_name: "OnTheClock"
 deployment_status: "deployed"
 image: "/images/tools/ontheclock-placeholder.jpg"
+external_link: "https://www.ontheclock.com"
 ---
 OnTheClock is a cloud-based employee time clock system that streamlines workforce management through comprehensive payroll integrations. The platform provides businesses with accurate time tracking and seamless payroll processing while maintaining accessibility across multiple locations and devices.
 
@@ -44,4 +45,4 @@ OnTheClock is ideal for businesses with multiple locations, remote teams, or com
 
 ## Get Started with OnTheClock
 
-Ready to explore OnTheClock? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [OnTheClock](https://www.ontheclock.com) to explore the platform and begin using this powerful tool.

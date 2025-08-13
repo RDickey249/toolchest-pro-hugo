@@ -7,6 +7,7 @@ subcategory: "Frontend Languages"
 tool_name: "SASS"
 deployment_status: "deployed"
 image: "/images/tools/sass-placeholder.jpg"
+external_link: "https://www.sass.com"
 ---
 Sass revolutionized CSS development by introducing programming concepts that transformed chaotic stylesheets into organized, maintainable design systems, earning adoption by tech giants like Google, GitHub, and Bootstrap who rely on its power to manage millions of lines of styles. Created by Hampton Catlin in 2006 and refined by Natalie Weizenbaum, Sass (Syntactically Awesome StyleSheets) solved the fundamental problems that plagued CSS at scale: no variables, no code reuse, no logical structure, and no way to manage complexity as projects grew. With over 15 years of continuous development and integration into virtually every major framework and build tool, Sass has become as essential to frontend development as JavaScript itself, powering the styling infrastructure behind most modern websites and applications. Its dual syntax approach – the original indented Sass and the CSS-compatible SCSS – provides flexibility for teams of all preferences while maintaining the power features that make complex design systems possible. Whether you're building a simple website or architecting the design system for a Fortune 500 company, Sass provides the programming constructs, organizational tools, and compilation efficiency that modern CSS development absolutely requires.
 

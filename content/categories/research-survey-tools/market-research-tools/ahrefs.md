@@ -7,6 +7,7 @@ subcategory: "Market Research Tools"
 tool_name: "Ahrefs"
 deployment_status: "deployed"
 image: "/images/tools/ahrefs-placeholder.jpg"
+external_link: "https://www.ahrefs.com"
 ---
 Ahrefs is the comprehensive SEO and market research platform trusted by companies like Facebook, Adobe, and over 60,000 digital marketers worldwide to analyze competitive landscapes, discover market opportunities, and optimize online visibility through the world's most extensive web crawling database. Processing over 8 billion web pages daily, Ahrefs maintains one of the internet's largest indexes of backlinks, keywords, and content performance data.
 

@@ -7,6 +7,7 @@ subcategory: "Software Testing Frameworks"
 tool_name: "TestNG"
 deployment_status: "deployed"
 image: "/images/tools/testng-placeholder.jpg"
+external_link: "https://www.testng.com"
 ---
 TestNG revolutionizes Java testing by providing enterprise-grade testing capabilities that transform complex test suite management from a coordination nightmare into an orchestrated, scalable testing strategy with advanced parallel execution, flexible configuration, and comprehensive reporting. This powerful framework elevates Java testing beyond basic unit tests, enabling sophisticated testing scenarios that support large-scale enterprise applications with complex dependencies, data-driven requirements, and parallel execution demands.
 

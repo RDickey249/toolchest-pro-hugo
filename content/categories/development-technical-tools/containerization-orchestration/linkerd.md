@@ -7,6 +7,7 @@ subcategory: "Containerization & Orchestration"
 tool_name: "Linkerd"
 deployment_status: "deployed"
 image: "/images/tools/linkerd-placeholder.jpg"
+external_link: "https://www.linkerd.com"
 ---
 Linkerd is the lightweight service mesh trusted by companies like Expedia, HP, and Nordstrom to secure, observe, and manage Kubernetes microservices with minimal operational overhead. As the first service mesh to graduate from the Cloud Native Computing Foundation, Linkerd provides automatic mTLS encryption, rich observability, and intelligent traffic management while maintaining the smallest resource footprint in the service mesh ecosystem.
 

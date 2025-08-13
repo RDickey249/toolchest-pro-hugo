@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "PayPal API"
 deployment_status: "deployed"
 image: "/images/tools/paypal-api-placeholder.jpg"
+external_link: "https://www.paypalapi.com"
 ---
 PayPal API is the world's leading digital payments platform processing over $1.4 trillion in payment volume annually across 200+ markets and currencies. Used by over 30 million merchants including eBay, Shopify, and Stripe, it powers global commerce for businesses of every size.
 

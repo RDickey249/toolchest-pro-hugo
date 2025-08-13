@@ -9,6 +9,7 @@ image: "/images/tools/mulesoft-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]
+external_link: "https://www.mulesoft.com"
 ---
 MuleSoft is a comprehensive integration platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the integration platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose MuleSoft when they need reliable, efficient solutions that integrat
 
 ## Get Started with MuleSoft
 
-Ready to explore MuleSoft? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [MuleSoft](https://www.mulesoft.com) to explore the platform and begin using this powerful tool.

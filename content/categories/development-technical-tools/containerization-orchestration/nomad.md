@@ -7,6 +7,7 @@ subcategory: "Containerization & Orchestration"
 tool_name: "Nomad"
 deployment_status: "deployed"
 image: "/images/tools/nomad-placeholder.jpg"
+external_link: "https://www.nomad.com"
 ---
 When Roblox needed to orchestrate over 40,000 containers across multiple cloud providers while maintaining simplicity, they turned to HashiCorp Nomad. Unlike the complexity of Kubernetes, Nomad offered them the flexibility to run containers, virtual machines, and legacy applications on the same platform with just a single binary deployment. This approach helped Roblox reduce their operational overhead by 60% while supporting their massive gaming infrastructure that serves over 70 million daily active users.
 

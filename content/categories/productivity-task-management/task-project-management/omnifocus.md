@@ -7,6 +7,7 @@ subcategory: "Task Project Management"
 tool_name: "OmniFocus"
 deployment_status: "deployed"
 image: "/images/tools/omnifocus-placeholder.jpg"
+external_link: "https://www.omnifocus.com"
 ---
 OmniFocus revolutionizes personal productivity by providing the most sophisticated implementation of Getting Things Done (GTD) methodology available, combining Apple's design excellence with powerful organizational features that transform chaotic task lists into clear, actionable systems. This premium productivity platform goes beyond simple task management to provide the comprehensive project organization, context-based filtering, and systematic review processes that enable professionals to maintain clarity and control over complex responsibilities.
 

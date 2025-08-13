@@ -7,6 +7,7 @@ subcategory: "Live Chat & Messaging"
 tool_name: "LiveChat"
 deployment_status: "deployed"
 image: "/images/tools/livechat-inc-placeholder.jpg"
+external_link: "https://www.livechat.com"
 ---
 LiveChat is the complete customer service platform trusted by companies like Mercedes-Benz, PayPal, and over 37,000 businesses worldwide to connect with customers in real-time through reliable, feature-rich chat solutions that convert visitors into satisfied customers. Known for exceptional reliability and intuitive design, LiveChat provides a comprehensive solution that works perfectly out of the box while offering extensive customization for unique business needs.
 

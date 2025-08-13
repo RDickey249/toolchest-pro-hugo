@@ -7,6 +7,7 @@ subcategory: "DevOps & Infrastructure"
 tool_name: "Pulumi"
 deployment_status: "deployed"
 image: "/images/tools/pulumi-placeholder.jpg"
+external_link: "https://www.pulumi.com"
 ---
 Pulumi is the revolutionary infrastructure as code platform trusted by companies like Mercedes-Benz, Snowflake, and thousands of engineering teams to define cloud infrastructure using real programming languages instead of YAML or proprietary DSLs. Founded by former Microsoft and Google engineers, it has transformed how developers approach infrastructure by bringing software engineering practices to cloud operations.
 

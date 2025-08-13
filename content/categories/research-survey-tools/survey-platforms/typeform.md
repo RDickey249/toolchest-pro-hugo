@@ -9,6 +9,7 @@ image: "/images/tools/typeform-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Survey Platforms"]
+external_link: "https://www.typeform.com"
 ---
 Typeform is a comprehensive survey platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the survey platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Typeform when they need reliable, efficient solutions that integrat
 
 ## Get Started with Typeform
 
-Ready to explore Typeform? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Typeform](https://www.typeform.com) to explore the platform and begin using this powerful tool.

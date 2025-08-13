@@ -9,6 +9,7 @@ image: "/images/tools/waters-nugenesis-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Laboratory Information Management"]
+external_link: "https://www.watersnugenesis.com"
 ---
 Waters NuGenesis is a comprehensive laboratory information management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the laboratory information management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Waters NuGenesis when they need reliable, efficient solutions that 
 
 ## Get Started with Waters NuGenesis
 
-Ready to explore Waters NuGenesis? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Waters NuGenesis](https://www.watersnugenesis.com) to explore the platform and begin using this powerful tool.

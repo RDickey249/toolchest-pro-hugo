@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "Twitter Analytics"
 deployment_status: "deployed"
 image: "/images/tools/twitter-analytics-placeholder.jpg"
+external_link: "https://www.twitteranalytics.com"
 ---
 
 Twitter Analytics is the native analytics platform for Twitter, providing detailed insights into tweet performance, audience engagement, and follower demographics for all Twitter accounts. The platform offers comprehensive data about how tweets perform, who engages with content, and how audiences grow over time, making it essential for businesses and creators using Twitter for marketing and communication.

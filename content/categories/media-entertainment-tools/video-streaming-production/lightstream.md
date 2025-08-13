@@ -7,6 +7,7 @@ subcategory: "Video Streaming Production"
 tool_name: "Lightstream"
 deployment_status: "deployed"
 image: "/images/tools/lightstream-placeholder.jpg"
+external_link: "https://www.lightstream.com"
 ---
 Lightstream revolutionized console streaming by moving production capabilities to the cloud, enabling Xbox, PlayStation, and Nintendo Switch gamers to create professional broadcasts that previously required $2,000+ in capture cards, streaming PCs, and software licenses. The platform serves over 500,000 creators including partnered Twitch streamers and YouTube Gaming influencers who discovered they could match the production quality of PC streamers without leaving their couch. Where traditional streaming demanded technical expertise in OBS configuration, encoding settings, and hardware compatibility, Lightstream reduces setup to connecting your console and choosing a template.
 
@@ -50,4 +51,4 @@ Beyond gaming, Lightstream has become the secret weapon for mobile streamers, po
 
 ## Get Started with Lightstream
 
-Ready to explore Lightstream? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Lightstream](https://www.lightstream.com) to explore the platform and begin using this powerful tool.

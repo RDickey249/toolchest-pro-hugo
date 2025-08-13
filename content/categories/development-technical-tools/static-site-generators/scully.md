@@ -7,6 +7,7 @@ subcategory: "Static Site Generators"
 tool_name: "Scully"
 deployment_status: "deployed"
 image: "/images/tools/scully-placeholder.jpg"
+external_link: "https://www.scully.com"
 ---
 Scully is the first and most advanced static site generator built specifically for Angular applications, created by the Angular team at Google. It transforms existing Angular apps into blazing-fast static sites while maintaining all dynamic functionality and Angular features.
 

@@ -9,6 +9,7 @@ image: "/images/tools/axe-devtools-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Web Accessibility Testing"]
+external_link: "https://www.axedevtools.com"
 ---
 axe DevTools is a comprehensive web accessibility testing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the web accessibility testing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose axe DevTools when they need reliable, efficient solutions that inte
 
 ## Get Started with axe DevTools
 
-Ready to explore axe DevTools? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [axe DevTools](https://www.axedevtools.com) to explore the platform and begin using this powerful tool.

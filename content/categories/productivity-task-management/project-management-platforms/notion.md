@@ -9,6 +9,7 @@ image: "/images/tools/notion-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]
+external_link: "https://www.notion.so"
 ---
 Notion is a comprehensive project management platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the project management platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Notion when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Notion
 
-Ready to explore Notion? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Notion](https://www.notion.so) to explore the platform and begin using this powerful tool.

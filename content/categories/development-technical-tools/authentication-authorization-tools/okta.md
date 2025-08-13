@@ -7,6 +7,7 @@ subcategory: "Authentication & Authorization"
 tool_name: "Okta"
 deployment_status: "deployed"
 image: "/images/tools/okta-placeholder.jpg"
+external_link: "https://www.okta.com"
 ---
 When FedEx needed to secure access for over 220,000 employees across 5,000+ applications, they chose Okta to eliminate password fatigue and strengthen security posture. The identity management leader processes over 100 billion authentications annually, protecting organizations like MGM Resorts, Zoom, and JetBlue from security breaches while simplifying user experiences.
 

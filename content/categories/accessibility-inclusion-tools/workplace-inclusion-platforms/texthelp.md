@@ -9,6 +9,7 @@ image: "/images/tools/texthelp-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Workplace Inclusion Platforms"]
+external_link: "https://www.texthelp.com"
 ---
 Texthelp is a comprehensive workplace inclusion platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the workplace inclusion platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Texthelp when they need reliable, efficient solutions that integrat
 
 ## Get Started with Texthelp
 
-Ready to explore Texthelp? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Texthelp](https://www.texthelp.com) to explore the platform and begin using this powerful tool.

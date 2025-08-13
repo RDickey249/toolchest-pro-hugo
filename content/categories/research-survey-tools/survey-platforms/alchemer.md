@@ -7,6 +7,7 @@ subcategory: "Survey Platforms"
 tool_name: "Alchemer"
 deployment_status: "deployed"
 image: "/images/tools/alchemer-placeholder.jpg"
+external_link: "https://www.alchemer.com"
 ---
 When BMW needed to conduct comprehensive customer experience research across multiple touchpoints, they required a survey platform that could handle complex logic and seamlessly integrate with their existing CRM systems. Fortune 500 companies like Johnson & Johnson rely on advanced survey platforms that offer enterprise-grade security, HIPAA compliance, and sophisticated automation workflows for their market research initiatives. Organizations such as Adobe use flexible survey solutions that can be completely customized and white-labeled to match their brand requirements while providing powerful analytics capabilities.
 

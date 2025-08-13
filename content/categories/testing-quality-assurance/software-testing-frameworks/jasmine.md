@@ -7,6 +7,7 @@ subcategory: "Software Testing Frameworks"
 tool_name: "Jasmine"
 deployment_status: "deployed"
 image: "/images/tools/jasmine-placeholder.jpg"
+external_link: "https://www.jasmine.com"
 ---
 Jasmine revolutionizes JavaScript testing by pioneering behavior-driven development practices that transform technical testing into readable, specification-driven documentation that both developers and stakeholders can understand and maintain. This foundational framework established the BDD syntax that has become the standard for modern JavaScript testing, providing clean, expressive test structures that serve as living documentation for application behavior while ensuring comprehensive test coverage.
 

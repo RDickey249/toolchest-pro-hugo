@@ -9,6 +9,7 @@ image: "/images/tools/gemini-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]
+external_link: "https://www.gemini.com"
 ---
 Gemini is Google's most advanced AI model, built by DeepMind to compete directly with ChatGPT and Claude in the conversational AI space.
 
@@ -72,7 +73,7 @@ Backed by Google's massive resources and DeepMind's world-class AI research team
 
 ## Get Started with Gemini
 
-Ready to explore Gemini? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Gemini](https://www.gemini.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

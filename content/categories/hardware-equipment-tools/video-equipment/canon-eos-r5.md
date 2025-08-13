@@ -9,6 +9,7 @@ image: "/images/tools/canon-eos-r5-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware", "video-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Video Equipment"]
+external_link: "https://www.canoneosr5.com"
 ---
 Canon EOS R5 is a comprehensive video equipment solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the video equipment space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Canon EOS R5 when they need reliable, efficient solutions that inte
 
 ## Get Started with Canon EOS R5
 
-Ready to explore Canon EOS R5? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Canon EOS R5](https://www.canoneosr5.com) to explore the platform and begin using this powerful tool.

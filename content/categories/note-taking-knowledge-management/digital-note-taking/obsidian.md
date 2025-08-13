@@ -9,6 +9,7 @@ image: "/images/tools/obsidian-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "digital-note-taking"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Digital Note-Taking"]
+external_link: "https://www.obsidian.com"
 ---
 Obsidian is a comprehensive digital note-taking solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the digital note-taking space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Obsidian when they need reliable, efficient solutions that integrat
 
 ## Get Started with Obsidian
 
-Ready to explore Obsidian? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Obsidian](https://www.obsidian.com) to explore the platform and begin using this powerful tool.

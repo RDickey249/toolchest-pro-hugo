@@ -7,6 +7,7 @@ subcategory: "Language Learning"
 tool_name: "FluentU"
 deployment_status: "deployed"
 image: "/images/tools/fluentu-placeholder.jpg"
+external_link: "https://www.fluentu.com"
 ---
 
 FluentU is a real-world video content language learning platform that transforms authentic videos like music videos, movie trailers, news clips, and inspiring talks into immersive language lessons. The platform bridges the gap between classroom language learning and real-world comprehension by using content that native speakers actually watch, enhanced with interactive subtitles, vocabulary explanations, and comprehension exercises.

@@ -9,6 +9,7 @@ image: "/images/tools/copilot-microsoft-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]
+external_link: "https://www.copilotmicrosoft.com"
 ---
 Copilot (Microsoft) is a comprehensive conversational ai solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the conversational ai space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

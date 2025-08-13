@@ -7,6 +7,7 @@ subcategory: "Content Creation Design"
 tool_name: "InDesign"
 deployment_status: "deployed"
 image: "/images/tools/indesign-placeholder.jpg"
+external_link: "https://www.indesign.com"
 ---
 
 Adobe InDesign is the industry-standard desktop publishing software for creating professional layouts, publications, and print materials with precise typography and design control. Used by graphic designers, publishers, and marketing professionals worldwide, InDesign excels at multi-page document creation, from simple brochures to complex magazines and books.

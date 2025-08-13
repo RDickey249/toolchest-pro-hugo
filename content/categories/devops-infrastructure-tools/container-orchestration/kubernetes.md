@@ -7,6 +7,7 @@ subcategory: "Container Orchestration"
 tool_name: "Kubernetes"
 deployment_status: "deployed"
 image: "/images/tools/kubernetes-placeholder.jpg"
+external_link: "https://kubernetes.io"
 ---
 Kubernetes is the open-source container orchestration platform that has become the foundation of modern cloud computing, trusted by companies like Google, Netflix, and Spotify to manage billions of containers in production. Originally developed by Google and donated to the Cloud Native Computing Foundation, Kubernetes is now the industry standard for deploying, scaling, and managing containerized applications across any infrastructure.
 

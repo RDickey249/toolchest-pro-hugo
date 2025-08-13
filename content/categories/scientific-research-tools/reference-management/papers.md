@@ -9,6 +9,7 @@ image: "/images/tools/papers-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Reference Management"]
+external_link: "https://www.papers.com"
 ---
 Papers is a comprehensive reference management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the reference management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Papers when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Papers
 
-Ready to explore Papers? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Papers](https://www.papers.com) to explore the platform and begin using this powerful tool.

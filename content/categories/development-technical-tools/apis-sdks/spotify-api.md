@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Spotify API"
 deployment_status: "deployed"
 image: "/images/tools/spotify-api-placeholder.jpg"
+external_link: "https://www.spotifyapi.com"
 ---
 Spotify API provides developers access to the world's largest music streaming platform with over 500 million users and 100 million songs, powering music experiences for Nike Run Club, Starbucks, and thousands of applications. The comprehensive API ecosystem enables rich music integration that goes far beyond simple playback.
 

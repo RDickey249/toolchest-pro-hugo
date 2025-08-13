@@ -9,6 +9,7 @@ image: "/images/tools/instagram-insights-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-social-media", "content-creation-design", "analytics-insights"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Analytics & Insights"]
+external_link: "https://www.instagraminsights.com"
 ---
 Instagram Insights is a comprehensive analytics & insights solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the analytics & insights space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Instagram Insights when they need reliable, efficient solutions tha
 
 ## Get Started with Instagram Insights
 
-Ready to explore Instagram Insights? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Instagram Insights](https://www.instagraminsights.com) to explore the platform and begin using this powerful tool.

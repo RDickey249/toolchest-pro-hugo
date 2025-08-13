@@ -9,6 +9,7 @@ image: "/images/tools/spss-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management", "statistical-analysis-software"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Statistical Analysis Software"]
+external_link: "https://www.spss.com"
 ---
 SPSS is a comprehensive statistical analysis software solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the statistical analysis software space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose SPSS when they need reliable, efficient solutions that integrate se
 
 ## Get Started with SPSS
 
-Ready to explore SPSS? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [SPSS](https://www.spss.com) to explore the platform and begin using this powerful tool.

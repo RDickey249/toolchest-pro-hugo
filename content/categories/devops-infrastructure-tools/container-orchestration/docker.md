@@ -9,6 +9,7 @@ image: "/images/tools/docker-placeholder.jpg"
 tags: ["devops-infrastructure-tools", "development-technical-tools", "cicd-automation", "cloud-platforms", "container-orchestration"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Containerization & Orchestration"]
+external_link: "https://www.docker.com"
 ---
 Docker is the containerization platform that revolutionized how applications are built, shipped, and deployed by packaging software and its dependencies into portable containers.
 
@@ -56,4 +57,4 @@ The technology that made "build once, run anywhere" a reality for applications.
 
 ## Get Started with Docker
 
-Ready to explore Docker? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Docker](https://www.docker.com) to explore the platform and begin using this powerful tool.

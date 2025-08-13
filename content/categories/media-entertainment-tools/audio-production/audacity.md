@@ -7,6 +7,7 @@ subcategory: "Audio Production"
 tool_name: "Audacity"
 deployment_status: "deployed"
 image: "/images/tools/audacity-placeholder.jpg"
+external_link: "https://www.audacityteam.org"
 ---
 Audacity revolutionizes audio production by providing professional-grade recording and editing capabilities through completely free, open-source software that eliminates cost barriers while delivering the core functionality needed for podcasting, music production, and audio restoration. This democratizing platform transforms expensive audio editing from an exclusive professional tool into accessible creativity software that enables anyone to produce broadcast-quality audio content without subscription fees or license restrictions.
 

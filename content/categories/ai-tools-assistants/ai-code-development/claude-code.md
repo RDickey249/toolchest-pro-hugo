@@ -7,6 +7,7 @@ subcategory: "Ai Code Development"
 tool_name: "Claude Code"
 deployment_status: "deployed"
 image: "/images/tools/claude-code-placeholder.jpg"
+external_link: "https://www.claudecode.com"
 ---
 Claude Code brings AI pair programming directly to your terminal. Built by Anthropic, it's a powerful CLI tool that lets developers write, debug, and analyze code through natural conversation.
 
@@ -53,4 +54,4 @@ Developers love it because it feels like having an expert programmer looking ove
 
 ## Get Started with Claude Code
 
-Ready to explore Claude Code? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Claude Code](https://www.claudecode.com) to explore the platform and begin using this powerful tool.

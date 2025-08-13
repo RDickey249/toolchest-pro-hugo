@@ -9,6 +9,7 @@ image: "/images/tools/rive-placeholder.jpg"
 tags: ["design-creative-tools", "video-animation"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Video & Animation"]
+external_link: "https://www.rive.com"
 ---
 Rive is a comprehensive video & animation solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the video & animation space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Rive when they need reliable, efficient solutions that integrate se
 
 ## Get Started with Rive
 
-Ready to explore Rive? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Rive](https://www.rive.com) to explore the platform and begin using this powerful tool.

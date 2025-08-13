@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "Later"
 deployment_status: "deployed"
 image: "/images/tools/later-placeholder.jpg"
+external_link: "https://later.com"
 ---
 
 Later is a visual-first social media scheduling platform that specializes in Instagram, Pinterest, and other visual platforms with drag-and-drop calendar planning and media management. Originally built as an Instagram scheduler, Later has evolved into a comprehensive visual content management system that helps brands maintain consistent, engaging social media presence across multiple platforms.

@@ -16,6 +16,7 @@ breadcrumbs:
   - name: "Conversational AI"
     url: "/categories/ai-tools-assistants/conversational-ai/"
   - name: "Poe"
+external_link: "https://www.poe.com"
 ---
 Poe by Quora brings together ChatGPT, Claude, GPT-4, and dozens of specialized AI models in one unified platform. Instead of juggling multiple subscriptions and interfaces, you can instantly switch between models to compare responses and find the perfect AI for each task.
 

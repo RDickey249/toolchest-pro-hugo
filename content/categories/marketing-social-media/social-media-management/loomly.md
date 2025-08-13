@@ -7,6 +7,7 @@ subcategory: "Social Media Management"
 tool_name: "Loomly"
 deployment_status: "deployed"
 image: "/images/tools/loomly-placeholder.jpg"
+external_link: "https://www.loomly.com"
 ---
 
 Loomly is a brand success platform that combines social media management with content inspiration, brand safety features, and collaborative workflows designed for consistent brand building. More than just a scheduling tool, Loomly focuses on helping brands maintain consistent messaging and visual identity across all social media channels while providing creative inspiration and collaboration features.

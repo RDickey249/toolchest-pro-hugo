@@ -7,6 +7,7 @@ subcategory: "AI & Machine Learning"
 tool_name: "PyTorch"
 deployment_status: "deployed"
 image: "/images/tools/pytorch-placeholder.jpg"
+external_link: "https://www.pytorch.com"
 ---
 PyTorch has revolutionized deep learning research and production by providing the flexibility researchers crave with the performance production systems demand, powering breakthroughs from GPT to Stable Diffusion at companies like Meta, Tesla, and OpenAI. Originally developed by Facebook AI Research in 2016, PyTorch's pythonic design and dynamic computation graphs liberated researchers from the rigid constraints of TensorFlow 1.0, sparking an exodus that saw PyTorch adoption in research papers grow from 10% to over 70% in just four years. This framework's "define-by-run" philosophy means you can use native Python control flow, debug with standard Python tools, and modify architectures on the fly – capabilities that have made it the unanimous choice for cutting-edge AI research. With the recent PyTorch 2.0 release introducing compile mode for 2x speedups and maintaining backward compatibility, plus production deployments at scale by Microsoft, Amazon, and virtually every AI unicorn, PyTorch has proven that research flexibility and production performance aren't mutually exclusive. Whether you're prototyping the next breakthrough in AI, deploying models serving billions of users, or learning deep learning for the first time, PyTorch provides the perfect balance of simplicity, power, and ecosystem that has made it the framework defining the future of AI.
 

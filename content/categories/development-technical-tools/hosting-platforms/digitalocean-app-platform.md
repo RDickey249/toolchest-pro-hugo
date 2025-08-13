@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "DigitalOcean App Platform"
 deployment_status: "deployed"
 image: "/images/tools/digitalocean-app-platform-placeholder.jpg"
+external_link: "https://www.digitaloceanappplatform.com"
 ---
 DigitalOcean App Platform is the developer-friendly platform-as-a-service trusted by companies like GitLab, Hashnode, and thousands of development teams worldwide to build, deploy, and scale applications with transparent pricing and zero infrastructure management overhead. Built on DigitalOcean's reliable cloud infrastructure, this platform eliminates the complexity of DevOps while providing enterprise-grade performance and scalability.
 

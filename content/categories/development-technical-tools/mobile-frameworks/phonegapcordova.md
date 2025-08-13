@@ -9,6 +9,7 @@ image: "/images/tools/phonegapcordova-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Frameworks"]
+external_link: "https://www.phonegapcordova.com"
 ---
 PhoneGap/Cordova is a comprehensive mobile frameworks solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the mobile frameworks space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

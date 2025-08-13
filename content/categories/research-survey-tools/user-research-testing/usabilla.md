@@ -7,6 +7,7 @@ subcategory: "User Research Testing"
 tool_name: "Usabilla"
 deployment_status: "deployed"
 image: "/images/tools/usabilla-placeholder.jpg"
+external_link: "https://www.usabilla.com"
 ---
 When KLM Royal Dutch Airlines needed to improve their mobile app experience, they used visual feedback tools to capture specific user comments on interface elements, resulting in a 25% increase in mobile booking conversions. Major e-commerce platforms like eBay rely on Voice of Customer solutions that collect real-time feedback at critical touchpoints without disrupting the user journey. Global companies such as Samsung leverage micro-survey platforms that can target specific user segments based on behavior patterns and deliver actionable insights through automated analytics.
 

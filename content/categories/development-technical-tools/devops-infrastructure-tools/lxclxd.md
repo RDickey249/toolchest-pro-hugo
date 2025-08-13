@@ -9,6 +9,7 @@ image: "/images/tools/lxclxd-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Container & Orchestration"]
+external_link: "https://www.lxclxd.com"
 ---
 LXC/LXD is a comprehensive container & orchestration solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the container & orchestration space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

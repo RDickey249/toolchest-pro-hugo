@@ -9,6 +9,7 @@ image: "/images/tools/assembly-placeholder.jpg"
 tags: ["development-technical-tools", "systems-low-level"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Systems & Low-Level"]
+external_link: "https://www.assembly.com"
 ---
 Assembly is a comprehensive systems & low-level solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the systems & low-level space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Assembly when they need reliable, efficient solutions that integrat
 
 ## Get Started with Assembly
 
-Ready to explore Assembly? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Assembly](https://www.assembly.com) to explore the platform and begin using this powerful tool.

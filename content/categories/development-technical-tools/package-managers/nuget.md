@@ -7,6 +7,7 @@ subcategory: "Package Managers"
 tool_name: "NuGet"
 deployment_status: "deployed"
 image: "/images/tools/nuget-placeholder.jpg"
+external_link: "https://www.nuget.com"
 ---
 NuGet revolutionizes .NET development by providing the most comprehensive and essential package management platform that transforms complex library distribution and dependency management into streamlined development workflows through seamless Visual Studio integration, intelligent dependency resolution, and vast package ecosystem designed specifically for .NET developers who require reliable, secure, and efficient package management across all .NET platforms. This foundational platform establishes the backbone of modern .NET development by making library sharing and dependency management effortless and reliable.
 

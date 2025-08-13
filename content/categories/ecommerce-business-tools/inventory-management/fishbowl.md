@@ -9,6 +9,7 @@ image: "/images/tools/fishbowl-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Inventory Management"]
+external_link: "https://www.fishbowl.com"
 ---
 Fishbowl is a comprehensive inventory management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the inventory management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Fishbowl when they need reliable, efficient solutions that integrat
 
 ## Get Started with Fishbowl
 
-Ready to explore Fishbowl? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Fishbowl](https://www.fishbowl.com) to explore the platform and begin using this powerful tool.

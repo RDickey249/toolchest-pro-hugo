@@ -7,6 +7,7 @@ subcategory: "Package Managers & Registries"
 tool_name: "Bun"
 deployment_status: "deployed"
 image: "/images/tools/bun-placeholder.jpg"
+external_link: "https://www.bun.com"
 ---
 Bun is the revolutionary all-in-one JavaScript runtime that's transforming how developers build applications, delivering up to 4x faster performance than Node.js while providing a complete toolchain including bundler, test runner, and package manager. Created by Jarred Sumner and adopted by companies like Vercel and thousands of developers worldwide, Bun represents the future of JavaScript development tooling.
 

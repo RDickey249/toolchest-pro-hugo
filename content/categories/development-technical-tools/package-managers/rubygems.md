@@ -7,6 +7,7 @@ subcategory: "Package Managers"
 tool_name: "RubyGems"
 deployment_status: "deployed"
 image: "/images/tools/rubygems-placeholder.jpg"
+external_link: "https://www.rubygems.com"
 ---
 RubyGems revolutionizes Ruby development by providing the most comprehensive and essential package management platform that transforms complex library distribution and dependency management into streamlined development workflows through intelligent gem installation, sophisticated dependency resolution, and comprehensive community ecosystem designed specifically for Ruby developers who require reliable, secure, and efficient package management across all Ruby projects. This foundational platform establishes the backbone of Ruby development by making library sharing and dependency management effortless and reliable.
 

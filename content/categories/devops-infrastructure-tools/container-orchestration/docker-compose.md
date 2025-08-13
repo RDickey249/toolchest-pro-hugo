@@ -7,6 +7,7 @@ subcategory: "Container & Orchestration"
 tool_name: "Docker Compose"
 deployment_status: "deployed"
 image: "/images/tools/docker-compose-placeholder.jpg"
+external_link: "https://www.dockercompose.com"
 ---
 Docker Compose is the essential multi-container orchestration tool trusted by companies like Netflix, Airbnb, and thousands of development teams to simplify complex application stacks with elegant YAML configuration. As Docker's official tool for defining and running multi-container applications, it transforms complicated container setups into simple, version-controlled configurations that entire teams can understand and maintain.
 

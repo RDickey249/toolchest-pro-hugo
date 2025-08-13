@@ -9,6 +9,7 @@ image: "/images/tools/javakotlin-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-development"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Development:"]
+external_link: "https://www.javakotlin.com"
 ---
 Java/Kotlin is a comprehensive mobile development: solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the mobile development: space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

@@ -7,6 +7,7 @@ subcategory: "Content Creation Design"
 tool_name: "After Effects"
 deployment_status: "deployed"
 image: "/images/tools/after-effects-placeholder.jpg"
+external_link: "https://www.aftereffects.com"
 ---
 
 Adobe After Effects is the industry-standard motion graphics and visual effects software for creating animated graphics, compositing, and post-production effects for video content. Used by motion designers, video editors, and visual effects artists, After Effects combines powerful animation tools with sophisticated compositing capabilities to create everything from simple animated logos to complex visual effects sequences.

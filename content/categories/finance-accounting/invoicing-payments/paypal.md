@@ -9,6 +9,7 @@ image: "/images/tools/paypal-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]
+external_link: "https://www.paypal.com"
 ---
 PayPal is a comprehensive invoicing & payments solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the invoicing & payments space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose PayPal when they need reliable, efficient solutions that integrate 
 
 ## Get Started with PayPal
 
-Ready to explore PayPal? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [PayPal](https://www.paypal.com) to explore the platform and begin using this powerful tool.

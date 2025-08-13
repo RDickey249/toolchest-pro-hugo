@@ -7,6 +7,7 @@ subcategory: "Package Managers & Registries"
 tool_name: "Homebrew"
 deployment_status: "deployed"
 image: "/images/tools/homebrew-placeholder.jpg"
+external_link: "https://www.homebrew.com"
 ---
 When Shopify's engineering team needed to standardize their development environment across 1,000+ developers, they turned to Homebrew to ensure consistent tooling and eliminate "works on my machine" problems. The popular package manager has become the de facto standard for macOS development, with over 4 million users and 7,000+ available packages.
 

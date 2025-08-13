@@ -9,6 +9,7 @@ image: "/images/tools/legal-research-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance", "business-registration-licensing", "legal-document-management"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Legal Document Management"]
+external_link: "https://www.legalresearch.com"
 ---
 Legal Research is a comprehensive legal document management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the legal document management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Legal Research when they need reliable, efficient solutions that in
 
 ## Get Started with Legal Research
 
-Ready to explore Legal Research? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Legal Research](https://www.legalresearch.com) to explore the platform and begin using this powerful tool.

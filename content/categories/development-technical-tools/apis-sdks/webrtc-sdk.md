@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "WebRTC SDK"
 deployment_status: "deployed"
 image: "/images/tools/webrtc-sdk-placeholder.jpg"
+external_link: "https://www.webrtcsdk.com"
 ---
 WebRTC SDK is the revolutionary open-source standard that powers real-time communication for billions of users worldwide, including platforms like Google Meet, Discord, WhatsApp Web, and Zoom. Developed by Google and standardized by the W3C, it has fundamentally changed how we build communication applications by enabling direct peer-to-peer connections without plugins or servers.
 

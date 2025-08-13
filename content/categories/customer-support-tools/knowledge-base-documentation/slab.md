@@ -7,6 +7,7 @@ subcategory: "Knowledge Base & Documentation"
 tool_name: "Slab"
 deployment_status: "deployed"
 image: "/images/tools/slab-placeholder.jpg"
+external_link: "https://www.slab.com"
 ---
 Slab redefines team knowledge management by solving the universal problem of information chaos with a beautifully designed platform that makes documentation a joy to create and even better to consume. Founded by former engineers from Google and Uber who experienced firsthand how poor documentation tools kill productivity, Slab has earned the trust of modern teams at Asana, Discord, and Benchling by proving that wikis don't have to be ugly, clunky, or abandoned. This innovative platform combines the elegance of Medium with the power of enterprise knowledge management, resulting in documentation that gets 3x higher engagement rates than traditional wikis. With its unique Topics system that organizes content like a well-designed library, unified search that actually finds what you need, and collaborative editing that feels like Google Docs, Slab transforms scattered information into accessible team intelligence. Whether you're onboarding new employees, maintaining technical documentation, or preserving institutional knowledge, Slab provides the modern experience that ensures your documentation becomes a living resource rather than a digital graveyard.
 

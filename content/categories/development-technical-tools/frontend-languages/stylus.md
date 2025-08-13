@@ -7,6 +7,7 @@ subcategory: "Frontend Languages"
 tool_name: "Stylus"
 deployment_status: "deployed"
 image: "/images/tools/stylus-placeholder.jpg"
+external_link: "https://www.stylus.com"
 ---
 Stylus is the expressive CSS preprocessor that offers unmatched flexibility with its optional syntax and powerful programming features. It's designed for developers who want maximum control over their stylesheets without syntactic constraints.
 

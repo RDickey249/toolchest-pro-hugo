@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "Firebase Hosting"
 deployment_status: "deployed"
 image: "/images/tools/firebase-hosting-placeholder.jpg"
+external_link: "https://www.firebasehosting.com"
 ---
 Firebase Hosting is Google's lightning-fast web hosting platform trusted by companies like The New York Times, Alibaba, and millions of developers to deliver content through Google's global infrastructure. As part of the Firebase ecosystem serving over 3 million apps, it combines the simplicity of static hosting with the power of serverless computing, delivering sub-second page loads worldwide through 200+ CDN locations.
 

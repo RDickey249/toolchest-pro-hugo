@@ -7,6 +7,7 @@ subcategory: "Static Site Generators"
 tool_name: "Jekyll"
 deployment_status: "deployed"
 image: "/images/tools/jekyll-placeholder.jpg"
+external_link: "https://www.jekyll.com"
 ---
 Jekyll revolutionizes static site generation by providing the most blog-focused and accessible platform that transforms content creation into elegant, fast websites through Ruby-powered generation, intuitive blogging features, and seamless GitHub Pages integration designed specifically for developers, writers, and content creators who require professional static sites with effortless publishing and comprehensive blogging capabilities. This pioneering platform established the foundation for modern static site generation by making professional website creation accessible through familiar development workflows.
 

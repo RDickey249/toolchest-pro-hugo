@@ -7,6 +7,7 @@ subcategory: "Conversational Ai"
 tool_name: "Grok"
 deployment_status: "deployed"
 image: "/images/tools/grok-placeholder.jpg"
+external_link: "https://www.grok.com"
 ---
 Grok brings a rebellious spirit to the AI landscape, offering unfiltered conversations with a distinctive personality that sets it apart from cautious competitors. Developed by xAI and integrated directly into the X (formerly Twitter) platform, Grok provides real-time access to social media trends and breaking news while maintaining a witty, sometimes edgy conversational style. This AI assistant refuses to be another corporate chatbot, instead embracing humor, sarcasm, and direct answers to questions that might make other AIs uncomfortable. Grok's unique advantage lies in its immediate access to X's firehose of real-time information, making it exceptional for understanding current events, social trends, and emerging narratives as they unfold. Whether you're tracking breaking news, analyzing social sentiment, or simply want an AI that speaks more like a knowledgeable friend than a cautious assistant, Grok delivers refreshingly honest interactions. For X Premium subscribers seeking an AI that matches the platform's freewheeling culture, Grok offers an experience unlike any other mainstream AI assistant.
 
@@ -40,7 +41,7 @@ Grok brings a rebellious spirit to the AI landscape, offering unfiltered convers
 
 ## Get Started with Grok
 
-Ready to explore Grok? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Grok](https://www.grok.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

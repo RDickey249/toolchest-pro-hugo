@@ -47,4 +47,4 @@ Used by organizations across healthcare, finance, and government sectors, Veriat
 
 ## Get Started with Veriato
 
-Ready to explore Veriato? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Veriato](https://www.veriato.com) to explore the platform and begin using this powerful tool.

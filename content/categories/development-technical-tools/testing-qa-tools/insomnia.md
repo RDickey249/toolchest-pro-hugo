@@ -9,6 +9,7 @@ image: "/images/tools/insomnia-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["API Testing Tools"]
+external_link: "https://www.insomnia.com"
 ---
 Insomnia is a comprehensive api testing tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the api testing tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Insomnia when they need reliable, efficient solutions that integrat
 
 ## Get Started with Insomnia
 
-Ready to explore Insomnia? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Insomnia](https://www.insomnia.com) to explore the platform and begin using this powerful tool.

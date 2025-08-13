@@ -9,6 +9,7 @@ image: "/images/tools/airtable-placeholder.jpg"
 tags: ["automation-workflows", "business-process-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]
+external_link: "https://airtable.com"
 ---
 Airtable is a comprehensive business process automation solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business process automation space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Airtable when they need reliable, efficient solutions that integrat
 
 ## Get Started with Airtable
 
-Ready to explore Airtable? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Airtable](https://airtable.com) to explore the platform and begin using this powerful tool.

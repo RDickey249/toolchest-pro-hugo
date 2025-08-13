@@ -7,6 +7,7 @@ subcategory: "Authentication & Authorization"
 tool_name: "Auth0"
 deployment_status: "deployed"
 image: "/images/tools/auth0-placeholder.jpg"
+external_link: "https://www.auth0.com"
 ---
 Auth0 is the comprehensive identity platform trusted by over 100,000 customers including Samsung, Mercedes-Benz, and Microsoft to secure billions of login transactions monthly. This developer-first authentication service eliminates the complexity of building secure login systems while providing enterprise-grade security features that scale from startups to global enterprises.
 

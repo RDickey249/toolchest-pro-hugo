@@ -7,6 +7,7 @@ subcategory: "Cicd Automation"
 tool_name: "TeamCity"
 deployment_status: "deployed"
 image: "/images/tools/teamcity-placeholder.jpg"
+external_link: "https://www.teamcity.com"
 ---
 When JetBrains needed a CI/CD solution that could handle their complex multi-product development workflow across IntelliJ IDEA, PyCharm, and dozens of other IDEs, they created TeamCity. Today, this same platform powers the development pipelines of over 30,000 companies worldwide, including Samsung, BMW, and NASA. TeamCity processes more than 1.5 million builds daily, maintaining a 99.9% uptime rate while supporting everything from simple web applications to complex enterprise software with hundreds of interdependent components.
 

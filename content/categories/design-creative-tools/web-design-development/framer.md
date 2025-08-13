@@ -9,6 +9,7 @@ image: "/images/tools/framer-placeholder.jpg"
 tags: ["design-creative-tools", "web-design-development"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Web Design & Development"]
+external_link: "https://www.framer.com"
 ---
 Framer is a comprehensive web design & development solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the web design & development space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Framer when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Framer
 
-Ready to explore Framer? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Framer](https://www.framer.com) to explore the platform and begin using this powerful tool.

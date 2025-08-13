@@ -9,6 +9,7 @@ image: "/images/tools/elastic-stack-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Monitoring & Observability"]
+external_link: "https://www.elasticstack.com"
 ---
 Elastic Stack is a comprehensive monitoring & observability solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the monitoring & observability space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Elastic Stack when they need reliable, efficient solutions that int
 
 ## Get Started with Elastic Stack
 
-Ready to explore Elastic Stack? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Elastic Stack](https://www.elasticstack.com) to explore the platform and begin using this powerful tool.

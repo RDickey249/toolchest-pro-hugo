@@ -7,6 +7,7 @@ subcategory: "Container Orchestration"
 tool_name: "Helm"
 deployment_status: "deployed"
 image: "/images/tools/helm-placeholder.jpg"
+external_link: "https://www.helm.com"
 ---
 Helm is the de facto package manager for Kubernetes, used by over 80% of Kubernetes deployments including teams at Microsoft, IBM, and Samsung to manage complex application deployments. With over 1,800 community charts available, it has become the standard for Kubernetes application packaging and distribution.
 

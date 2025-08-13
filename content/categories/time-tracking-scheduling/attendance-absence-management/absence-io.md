@@ -7,6 +7,7 @@ subcategory: "Attendance Absence Management"
 tool_name: "Absence.io"
 deployment_status: "deployed"
 image: "/images/tools/absence-io-placeholder.jpg"
+external_link: "https://www.absenceio.com"
 ---
 Absence.io is the calendar-integrated leave management platform that automates vacation and sick leave tracking with intelligent policy enforcement and workforce analytics.
 
@@ -42,4 +43,4 @@ Used by HR teams seeking seamless absence management, Absence.io offers native c
 
 ## Get Started with Absence.io
 
-Ready to explore Absence.io? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Absence.io](https://www.absenceio.com) to explore the platform and begin using this powerful tool.

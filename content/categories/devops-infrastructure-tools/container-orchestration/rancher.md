@@ -7,6 +7,7 @@ subcategory: "Container & Orchestration"
 tool_name: "Rancher"
 deployment_status: "deployed"
 image: "/images/tools/rancher-placeholder.jpg"
+external_link: "https://www.rancher.com"
 ---
 Rancher is the complete Kubernetes management platform used by over 40,000 organizations including NASA, Toyota, and Allianz to deploy and manage Kubernetes everywhere. It simplifies complex multi-cluster operations while maintaining enterprise security and governance at scale.
 

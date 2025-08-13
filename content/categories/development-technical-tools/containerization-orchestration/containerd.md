@@ -7,6 +7,7 @@ subcategory: "Containerization & Orchestration"
 tool_name: "Containerd"
 deployment_status: "deployed"
 image: "/images/tools/containerd-placeholder.jpg"
+external_link: "https://www.containerd.com"
 ---
 Containerd is the industry-standard container runtime that powers Docker Desktop, Kubernetes, and virtually every major container platform in production today. As a graduated CNCF project, it handles over 75% of the world's container workloads with exceptional reliability and performance.
 

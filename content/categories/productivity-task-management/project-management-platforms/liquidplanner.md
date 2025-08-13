@@ -9,6 +9,7 @@ image: "/images/tools/liquidplanner-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]
+external_link: "https://www.liquidplanner.com"
 ---
 LiquidPlanner is the project management tool that finally makes project schedules realistic. Instead of fixed deadlines that everyone knows are wrong, LiquidPlanner uses intelligent scheduling that adapts to reality - accounting for priorities, interruptions, and resource constraints.
 
@@ -61,4 +62,4 @@ LiquidPlanner eliminates the fiction of traditional project schedules. Instead o
 
 ## Get Started with LiquidPlanner
 
-Ready to explore LiquidPlanner? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [LiquidPlanner](https://www.liquidplanner.com) to explore the platform and begin using this powerful tool.

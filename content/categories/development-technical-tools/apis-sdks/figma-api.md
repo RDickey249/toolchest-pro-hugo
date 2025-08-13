@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Figma API"
 deployment_status: "deployed"
 image: "/images/tools/figma-api-placeholder.jpg"
+external_link: "https://www.figmaapi.com"
 ---
 Figma API is the powerful RESTful interface that connects design and development teams, trusted by companies like Microsoft, Uber, and Airbnb to automate their design-to-code workflows. This comprehensive API provides programmatic access to design files, components, and collaboration features, enabling seamless integration between design tools and development pipelines.
 

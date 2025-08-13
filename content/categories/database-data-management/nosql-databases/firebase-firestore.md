@@ -9,6 +9,7 @@ image: "/images/tools/firebase-firestore-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["NoSQL Databases"]
+external_link: "https://www.firebasefirestore.com"
 ---
 Firebase Firestore is a comprehensive nosql databases solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the nosql databases space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Firebase Firestore when they need reliable, efficient solutions tha
 
 ## Get Started with Firebase Firestore
 
-Ready to explore Firebase Firestore? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Firebase Firestore](https://www.firebasefirestore.com) to explore the platform and begin using this powerful tool.

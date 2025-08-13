@@ -9,6 +9,7 @@ image: "/images/tools/babbel-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms", "language-learning"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Language Learning"]
+external_link: "https://www.babbel.com"
 ---
 Babbel is a comprehensive language learning solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the language learning space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Babbel when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Babbel
 
-Ready to explore Babbel? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Babbel](https://www.babbel.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/monster-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Job Posting & Sourcing"]
+external_link: "https://www.monster.com"
 ---
 Monster is a comprehensive job posting & sourcing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the job posting & sourcing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Monster when they need reliable, efficient solutions that integrate
 
 ## Get Started with Monster
 
-Ready to explore Monster? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Monster](https://www.monster.com) to explore the platform and begin using this powerful tool.

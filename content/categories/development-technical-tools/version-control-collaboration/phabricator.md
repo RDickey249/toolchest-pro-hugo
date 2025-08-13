@@ -7,6 +7,7 @@ subcategory: "Version Control & Collaboration"
 tool_name: "Phabricator"
 deployment_status: "deployed"
 image: "/images/tools/phabricator-placeholder.jpg"
+external_link: "https://www.phabricator.com"
 ---
 Phabricator is the comprehensive development platform originally built by Facebook and trusted by companies like Uber, Dropbox, and Wikimedia to unify code review, project management, and team collaboration in a single powerful suite. As the platform that scaled Facebook's engineering from dozens to thousands of developers, it provides battle-tested tools that handle the complexity of modern software development while maintaining simplicity and performance.
 

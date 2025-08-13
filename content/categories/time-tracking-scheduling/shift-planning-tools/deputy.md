@@ -47,4 +47,4 @@ Used by 300,000+ shift workers across retail, healthcare, and hospitality, Deput
 
 ## Get Started with Deputy
 
-Ready to explore Deputy? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Deputy](https://www.deputy.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/clarizen-placeholder.jpg"
 tags: ["productivity-task-management", "advanced-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Advanced Project Management"]
+external_link: "https://www.clarizen.com"
 ---
 Clarizen is a comprehensive advanced project management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the advanced project management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Clarizen when they need reliable, efficient solutions that integrat
 
 ## Get Started with Clarizen
 
-Ready to explore Clarizen? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Clarizen](https://www.clarizen.com) to explore the platform and begin using this powerful tool.

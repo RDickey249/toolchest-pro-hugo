@@ -7,6 +7,7 @@ subcategory: "Video Streaming Production"
 tool_name: "Wirecast"
 deployment_status: "deployed"
 image: "/images/tools/wirecast-placeholder.jpg"
+external_link: "https://www.wirecast.com"
 ---
 Wirecast is the professional live streaming and production software trusted by broadcasters, corporate video teams, and production companies worldwide to create television-quality live streams and broadcasts through advanced multi-camera switching, professional graphics, and comprehensive audio mixing that rivals traditional broadcast equipment at a fraction of the cost. As the industry-standard solution for professional live video production, Wirecast transforms how organizations approach live streaming by providing broadcast-grade capabilities including unlimited input sources, real-time switching, and professional graphics that enable everything from corporate webinars to major event broadcasts.
 

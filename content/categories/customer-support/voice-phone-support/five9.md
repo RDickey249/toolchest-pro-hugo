@@ -9,6 +9,7 @@ image: "/images/tools/five9-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms", "voice-phone-support"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Voice & Phone Support"]
+external_link: "https://www.five9.com"
 ---
 Five9 is a comprehensive voice & phone support solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the voice & phone support space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Five9 when they need reliable, efficient solutions that integrate s
 
 ## Get Started with Five9
 
-Ready to explore Five9? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Five9](https://www.five9.com) to explore the platform and begin using this powerful tool.

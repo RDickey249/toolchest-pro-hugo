@@ -43,4 +43,4 @@ Used by creative professionals and consulting teams worldwide, Hours combines ou
 
 ## Get Started with Hours
 
-Ready to explore Hours? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Hours](https://www.hours.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/nielsen-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Market Research Tools"]
+external_link: "https://www.nielsen.com"
 ---
 Nielsen is a comprehensive market research tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the market research tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Nielsen when they need reliable, efficient solutions that integrate
 
 ## Get Started with Nielsen
 
-Ready to explore Nielsen? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Nielsen](https://www.nielsen.com) to explore the platform and begin using this powerful tool.

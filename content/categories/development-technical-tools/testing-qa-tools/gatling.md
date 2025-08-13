@@ -9,6 +9,7 @@ image: "/images/tools/gatling-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Performance Testing"]
+external_link: "https://www.gatling.com"
 ---
 Gatling is a comprehensive performance testing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the performance testing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Gatling when they need reliable, efficient solutions that integrate
 
 ## Get Started with Gatling
 
-Ready to explore Gatling? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Gatling](https://www.gatling.com) to explore the platform and begin using this powerful tool.

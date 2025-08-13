@@ -55,4 +55,4 @@ Used by over 200,000 marketers and 5,000+ agencies worldwide to streamline their
 
 ## Get Started with Supermetrics
 
-Ready to explore Supermetrics? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Supermetrics](https://www.supermetrics.com) to explore the platform and begin using this powerful tool.

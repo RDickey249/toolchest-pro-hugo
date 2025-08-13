@@ -9,6 +9,7 @@ image: "/images/tools/toggl-placeholder.jpg"
 tags: ["time-tracking-scheduling", "time-tracking"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking"]
+external_link: "https://toggl.com"
 ---
 Toggl is a comprehensive time tracking solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the time tracking space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Toggl when they need reliable, efficient solutions that integrate s
 
 ## Get Started with Toggl
 
-Ready to explore Toggl? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Toggl](https://toggl.com) to explore the platform and begin using this powerful tool.

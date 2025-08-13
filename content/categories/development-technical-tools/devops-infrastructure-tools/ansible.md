@@ -7,6 +7,7 @@ subcategory: "DevOps & Infrastructure"
 tool_name: "Ansible"
 deployment_status: "deployed"
 image: "/images/tools/ansible-placeholder.jpg"
+external_link: "https://www.ansible.com"
 ---
 Ansible is the leading agentless automation platform trusted by enterprises like NASA, BMW, and Hootsuite to automate infrastructure at scale. It uses simple YAML syntax that anyone can read, making complex automation accessible to both developers and system administrators.
 

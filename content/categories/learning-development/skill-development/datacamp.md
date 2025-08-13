@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "DataCamp"
 deployment_status: "deployed"
 image: "/images/tools/datacamp-placeholder.jpg"
+external_link: "https://www.datacamp.com"
 ---
 
 DataCamp is a data science learning platform that teaches programming languages like Python and R, statistical analysis, and machine learning through interactive coding exercises and real-world projects. The platform provides hands-on learning experiences where students write actual code in their browser, working with real datasets to develop practical skills that directly apply to data science careers.

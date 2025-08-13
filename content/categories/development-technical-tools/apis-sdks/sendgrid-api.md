@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "SendGrid API"
 deployment_status: "deployed"
 image: "/images/tools/sendgrid-api-placeholder.jpg"
+external_link: "https://www.sendgridapi.com"
 ---
 SendGrid API is the world's leading cloud-based email delivery platform trusted by over 80,000 customers including Airbnb, Uber, and Spotify to send billions of emails monthly with exceptional deliverability. Now part of Twilio, it has become the gold standard for transactional and marketing email infrastructure that developers and marketers rely on globally.
 

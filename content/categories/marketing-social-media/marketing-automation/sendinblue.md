@@ -9,6 +9,7 @@ image: "/images/tools/sendinblue-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
+external_link: "https://www.sendinblue.com"
 ---
 Sendinblue (now Brevo) is the all-in-one marketing platform trusted by over 500,000 businesses worldwide to manage email, SMS, chat, and CRM communications from a single dashboard while providing enterprise-grade features at startup-friendly prices that make sophisticated marketing automation accessible to businesses of all sizes. As the European alternative to expensive American marketing platforms, Sendinblue transforms customer communication by combining multiple marketing channels into one unified platform with unique volume-based pricing that benefits businesses with large contact lists who want comprehensive marketing capabilities without paying premium subscription costs.
 

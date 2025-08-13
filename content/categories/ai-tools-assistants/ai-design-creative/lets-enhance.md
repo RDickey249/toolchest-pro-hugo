@@ -7,6 +7,7 @@ subcategory: "Ai Design Creative"
 tool_name: "Let's Enhance"
 deployment_status: "deployed"
 image: "/images/tools/lets-enhance-placeholder.jpg"
+external_link: "https://www.letsenhance.com"
 ---
 
 # Let's Enhance

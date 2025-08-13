@@ -9,6 +9,7 @@ image: "/images/tools/go-placeholder.jpg"
 tags: ["development-technical-tools", "backend-languages"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Languages"]
+external_link: "https://www.go.com"
 ---
 Go is a comprehensive backend languages solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the backend languages space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Go when they need reliable, efficient solutions that integrate seam
 
 ## Get Started with Go
 
-Ready to explore Go? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Go](https://www.go.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Time Tracking Analytics"
 tool_name: "Insightful"
 deployment_status: "deployed"
 image: "/images/tools/insightful-placeholder.jpg"
+external_link: "https://www.insightful.com"
 ---
 Insightful is an advanced workforce analytics platform that provides detailed employee monitoring and productivity insights for enterprise organizations. The system combines comprehensive time tracking with sophisticated analytics to deliver actionable intelligence about workforce performance and operational efficiency.
 
@@ -44,4 +45,4 @@ Insightful serves large enterprises, remote-first organizations, and companies w
 
 ## Get Started with Insightful
 
-Ready to explore Insightful? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Insightful](https://www.insightful.com) to explore the platform and begin using this powerful tool.

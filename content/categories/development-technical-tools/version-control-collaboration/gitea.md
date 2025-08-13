@@ -7,6 +7,7 @@ subcategory: "Version Control & Collaboration"
 tool_name: "Gitea"
 deployment_status: "deployed"
 image: "/images/tools/gitea-placeholder.jpg"
+external_link: "https://www.gitea.com"
 ---
 Gitea is a lightweight, self-hosted Git service with over 50,000 installations worldwide, providing a complete GitHub-like experience with minimal resource requirements. Written in Go and designed for efficiency, it can run on hardware as modest as a Raspberry Pi while supporting thousands of repositories.
 

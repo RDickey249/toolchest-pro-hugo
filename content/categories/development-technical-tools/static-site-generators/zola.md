@@ -7,6 +7,7 @@ subcategory: "Static Site Generators"
 tool_name: "Zola"
 deployment_status: "deployed"
 image: "/images/tools/zola-placeholder.jpg"
+external_link: "https://www.zola.com"
 ---
 Zola revolutionizes static site generation by leveraging Rust's performance advantages to deliver blazingly fast build times while maintaining zero runtime dependencies and simple configuration that makes website creation both efficient and accessible. This performance-focused platform transforms static site generation from time-consuming build processes into lightning-fast compilation experiences that scale from simple blogs to complex, content-rich websites without sacrificing speed or adding complexity.
 

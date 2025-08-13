@@ -9,6 +9,7 @@ image: "/images/tools/checkr-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems", "background-checks-verification"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Background Checks & Verification"]
+external_link: "https://www.checkr.com"
 ---
 Checkr is a comprehensive background checks & verification solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the background checks & verification space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Checkr when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Checkr
 
-Ready to explore Checkr? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Checkr](https://www.checkr.com) to explore the platform and begin using this powerful tool.

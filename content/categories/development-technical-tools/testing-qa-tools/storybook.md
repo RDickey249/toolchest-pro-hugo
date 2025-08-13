@@ -7,6 +7,7 @@ subcategory: "Testing & QA"
 tool_name: "Storybook"
 deployment_status: "deployed"
 image: "/images/tools/storybook-placeholder.jpg"
+external_link: "https://www.storybook.com"
 ---
 Storybook revolutionizes frontend development by providing the most comprehensive component development platform that transforms UI component creation into isolated, testable, and documented workflows through interactive component playgrounds, automated visual testing, and extensive addon ecosystem designed specifically for frontend teams who require professional component development with comprehensive testing and documentation capabilities. This essential platform establishes the foundation for modern design systems and component libraries that scale across teams and projects.
 

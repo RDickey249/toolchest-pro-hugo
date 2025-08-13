@@ -7,6 +7,7 @@ subcategory: "Video Streaming Production"
 tool_name: "XSplit"
 deployment_status: "deployed"
 image: "/images/tools/xsplit-placeholder.jpg"
+external_link: "https://www.xsplit.com"
 ---
 XSplit is the professional broadcasting and recording software suite trusted by streamers, content creators, and businesses worldwide to deliver high-quality live streams and recordings through advanced capabilities that balance professional features with user-friendly design and reliable performance. As a comprehensive streaming solution, XSplit provides both XSplit Broadcaster for advanced live streaming and XSplit Gamecaster for simplified game streaming, enabling creators to produce professional-quality content without requiring extensive technical expertise or complex setup procedures.
 

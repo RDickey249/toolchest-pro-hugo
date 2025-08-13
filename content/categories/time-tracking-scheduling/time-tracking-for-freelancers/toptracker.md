@@ -9,6 +9,7 @@ image: "/images/tools/toptracker-placeholder.jpg"
 tags: ["time-tracking-scheduling", "time-tracking-for-freelancers"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking for Freelancers"]
+external_link: "https://www.toptracker.com"
 ---
 TopTracker is the free time tracking app that helps freelancers build trust with clients through transparent work verification. With automatic screenshots and activity monitoring, it proves you're working when you say you are.
 
@@ -61,4 +62,4 @@ TopTracker eliminates the "trust problem" in remote work. Clients see exactly wh
 
 ## Get Started with TopTracker
 
-Ready to explore TopTracker? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [TopTracker](https://www.toptracker.com) to explore the platform and begin using this powerful tool.

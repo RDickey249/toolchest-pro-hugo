@@ -7,6 +7,7 @@ subcategory: "E-commerce Platforms"
 tool_name: "Squarespace Commerce"
 deployment_status: "deployed"
 image: "/images/tools/squarespace-commerce-placeholder.jpg"
+external_link: "https://www.squarespacecommerce.com"
 ---
 Squarespace Commerce is the leading design-focused e-commerce platform trusted by over 4 million businesses worldwide, including brands like Keanu Reeves' ARCH Motorcycle Company and John Mayer's Current Mood. With industry-leading templates and built-in marketing tools, it has become the go-to choice for creators who refuse to compromise on aesthetics.
 

@@ -7,6 +7,7 @@ subcategory: "Cloud Platforms"
 tool_name: "IBM Cloud"
 deployment_status: "deployed"
 image: "/images/tools/ibm-cloud-placeholder.jpg"
+external_link: "https://www.ibmcloud.com"
 ---
 IBM Cloud is the enterprise-focused cloud platform trusted by companies like American Airlines, Humana, and BMW to power mission-critical applications with advanced AI capabilities and hybrid cloud flexibility. Combining IBM's century of enterprise expertise with modern cloud infrastructure, this platform delivers the security, compliance, and integration capabilities that large organizations require for digital transformation.
 

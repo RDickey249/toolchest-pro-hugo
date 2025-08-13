@@ -7,6 +7,7 @@ subcategory: "Static Site Generators"
 tool_name: "VuePress"
 deployment_status: "deployed"
 image: "/images/tools/vuepress-placeholder.jpg"
+external_link: "https://www.vuepress.com"
 ---
 VuePress is the Vue-powered static site generator used by major projects like Vue.js, Vetur, and Element UI to create beautiful, interactive documentation sites. It combines the simplicity of markdown with the power of Vue components for engaging docs.
 

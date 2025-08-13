@@ -9,6 +9,7 @@ image: "/images/tools/intercom-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms", "voice-phone-support", "live-chat-messaging"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Live Chat & Messaging"]
+external_link: "https://www.intercom.com"
 ---
 Intercom is a comprehensive live chat & messaging solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the live chat & messaging space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Intercom when they need reliable, efficient solutions that integrat
 
 ## Get Started with Intercom
 
-Ready to explore Intercom? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Intercom](https://www.intercom.com) to explore the platform and begin using this powerful tool.

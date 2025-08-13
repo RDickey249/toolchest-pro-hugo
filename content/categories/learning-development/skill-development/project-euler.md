@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "Project Euler"
 deployment_status: "deployed"
 image: "/images/tools/project-euler-placeholder.jpg"
+external_link: "https://www.projecteuler.com"
 ---
 
 Project Euler is a collection of challenging mathematical and computational problems designed to be solved through programming, combining mathematical insight with algorithmic thinking to develop problem-solving skills. Named after the Swiss mathematician Leonhard Euler, the platform presents problems that require both mathematical knowledge and efficient programming techniques to solve within reasonable time constraints.

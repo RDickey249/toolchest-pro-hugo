@@ -7,6 +7,7 @@ subcategory: "Content Creation Design"
 tool_name: "Illustrator"
 deployment_status: "deployed"
 image: "/images/tools/illustrator-placeholder.jpg"
+external_link: "https://www.illustrator.com"
 ---
 
 Adobe Illustrator is the industry-standard vector graphics software for creating logos, illustrations, and scalable artwork with precision and mathematical accuracy. Unlike raster-based image editors, Illustrator uses mathematical vectors to create graphics that can be scaled to any size without losing quality, making it essential for logo design, print graphics, and illustrations.

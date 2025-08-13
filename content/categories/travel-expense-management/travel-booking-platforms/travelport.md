@@ -9,6 +9,7 @@ image: "/images/tools/travelport-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Travel Booking Platforms"]
+external_link: "https://www.travelport.com"
 ---
 Travelport is a comprehensive travel booking platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the travel booking platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Travelport when they need reliable, efficient solutions that integr
 
 ## Get Started with Travelport
 
-Ready to explore Travelport? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Travelport](https://www.travelport.com) to explore the platform and begin using this powerful tool.

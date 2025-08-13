@@ -47,4 +47,4 @@ Join thousands of entrepreneurs who use ClickFunnels to build profitable sales f
 
 ## Get Started with ClickFunnels
 
-Ready to explore ClickFunnels? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [ClickFunnels](https://www.clickfunnels.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Backend Languages"
 tool_name: "Lua"
 deployment_status: "deployed"
 image: "/images/tools/lua-placeholder.jpg"
+external_link: "https://www.lua.com"
 ---
 Lua is a powerful, lightweight scripting language used by major applications like World of Warcraft, Adobe Lightroom, and VLC Media Player for extensibility and configuration. With just 247KB compiled size, it's designed specifically for embedding into larger applications with minimal overhead.
 

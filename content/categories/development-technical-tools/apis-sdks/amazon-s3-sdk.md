@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Amazon S3 SDK"
 deployment_status: "deployed"
 image: "/images/tools/amazon-s3-sdk-placeholder.jpg"
+external_link: "https://www.amazons3sdk.com"
 ---
 Amazon S3 SDK is the world's most widely used cloud storage service, storing over 100 trillion objects and powering applications for Netflix, Airbnb, and NASA. As the backbone of the modern internet, it handles exabytes of data daily with unmatched reliability and performance.
 

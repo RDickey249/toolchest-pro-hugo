@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "HackerRank"
 deployment_status: "deployed"
 image: "/images/tools/hackerrank-placeholder.jpg"
+external_link: "https://www.hackerrank.com"
 ---
 
 HackerRank is a programming challenge platform that offers coding problems, competitions, and skill assessments across multiple domains including algorithms, data structures, and specialized technologies. The platform serves both individual skill development and corporate hiring needs, providing standardized assessments that companies use to evaluate technical candidates.

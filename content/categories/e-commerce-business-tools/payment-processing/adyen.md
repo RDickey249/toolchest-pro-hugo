@@ -7,6 +7,7 @@ subcategory: "Payment Processing"
 tool_name: "Adyen"
 deployment_status: "deployed"
 image: "/images/tools/adyen-placeholder.jpg"
+external_link: "https://www.adyen.com"
 ---
 Adyen revolutionizes enterprise commerce by providing the most unified and sophisticated payment platform that transforms complex multi-channel payment processing into seamless omnichannel experiences through single-stack architecture, real-time data optimization, and comprehensive global payment capabilities designed specifically for large-scale enterprises who require uncompromising performance and complete payment control across all channels. This enterprise-grade platform establishes the foundation for unified commerce that eliminates the complexity and fragmentation typically associated with enterprise payment operations.
 

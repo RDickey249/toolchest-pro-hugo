@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "Facebook Analytics"
 deployment_status: "deployed"
 image: "/images/tools/facebook-analytics-placeholder.jpg"
+external_link: "https://www.facebookanalytics.com"
 ---
 
 Facebook Analytics provides comprehensive insights into Facebook and Instagram performance, offering detailed audience demographics, engagement metrics, and conversion tracking for businesses using Meta's advertising and content platforms. As Facebook's native analytics solution, it offers deep integration with Facebook's ecosystem and access to proprietary data not available through third-party tools.

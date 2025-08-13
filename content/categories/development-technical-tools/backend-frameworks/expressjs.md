@@ -9,6 +9,7 @@ image: "/images/tools/expressjs-placeholder.jpg"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]
+external_link: "https://www.expressjs.com"
 ---
 Express.js is a comprehensive backend frameworks solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the backend frameworks space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Express.js when they need reliable, efficient solutions that integr
 
 ## Get Started with Express.js
 
-Ready to explore Express.js? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Express.js](https://www.expressjs.com) to explore the platform and begin using this powerful tool.

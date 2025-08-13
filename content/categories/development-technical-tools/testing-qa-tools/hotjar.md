@@ -9,6 +9,7 @@ image: "/images/tools/hotjar-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["A/B Testing & Optimization"]
+external_link: "https://www.hotjar.com"
 ---
 Hotjar is a comprehensive a/b testing & optimization solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the a/b testing & optimization space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Hotjar when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Hotjar
 
-Ready to explore Hotjar? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Hotjar](https://www.hotjar.com) to explore the platform and begin using this powerful tool.

@@ -9,6 +9,7 @@ image: "/images/tools/zoho-people-placeholder.jpg"
 tags: ["time-tracking-scheduling", "timesheet-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Timesheet Management"]
+external_link: "https://www.zohopeople.com"
 ---
 Zoho People revolutionizes workforce management by seamlessly integrating comprehensive HR functionality with sophisticated time tracking capabilities, serving over 30,000 organizations including companies like Emirates NBD, Pernod Ricard, and thousands of growing businesses that need unified employee management. The platform eliminates the costly inefficiencies of maintaining separate HR and time tracking systems, where data synchronization issues and manual processes consume up to 15 hours of administrative time weekly. Instead of juggling multiple tools with conflicting data, HR teams gain a single source of truth that connects timesheet data directly with payroll processing, performance evaluations, and project management.
 
@@ -53,4 +54,4 @@ Beyond time tracking, Zoho People creates a complete employee experience ecosyst
 
 ## Get Started with Zoho People
 
-Ready to explore Zoho People? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Zoho People](https://www.zohopeople.com) to explore the platform and begin using this powerful tool.

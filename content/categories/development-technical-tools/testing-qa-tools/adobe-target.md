@@ -9,6 +9,7 @@ image: "/images/tools/adobe-target-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["A/B Testing & Optimization"]
+external_link: "https://www.adobetarget.com"
 ---
 Adobe Target is a comprehensive a/b testing & optimization solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the a/b testing & optimization space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Adobe Target when they need reliable, efficient solutions that inte
 
 ## Get Started with Adobe Target
 
-Ready to explore Adobe Target? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Adobe Target](https://www.adobetarget.com) to explore the platform and begin using this powerful tool.

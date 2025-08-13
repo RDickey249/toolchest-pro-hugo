@@ -9,6 +9,7 @@ image: "/images/tools/acronis-true-image-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Personal Backup Solutions"]
+external_link: "https://www.acronistrueimage.com"
 ---
 Acronis True Image is a comprehensive personal backup solutions solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the personal backup solutions space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Acronis True Image when they need reliable, efficient solutions tha
 
 ## Get Started with Acronis True Image
 
-Ready to explore Acronis True Image? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Acronis True Image](https://www.acronistrueimage.com) to explore the platform and begin using this powerful tool.

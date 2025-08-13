@@ -7,6 +7,7 @@ subcategory: "Audio Generation Editing"
 tool_name: "Resemble.ai"
 deployment_status: "deployed"
 image: "/images/tools/resemble-ai-placeholder.jpg"
+external_link: "https://www.resembleai.com"
 ---
 Resemble.ai is an enterprise-grade voice AI platform with advanced speech synthesis and real-time voice conversion capabilities. Create custom digital voice personas and maintain brand consistency across customer touchpoints.
 

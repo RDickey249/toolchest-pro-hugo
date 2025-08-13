@@ -9,6 +9,7 @@ image: "/images/tools/state-government-portals-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance", "business-registration-licensing"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Business Registration & Licensing"]
+external_link: "https://www.stategovernmentportals.com"
 ---
 State government portals is a comprehensive business registration & licensing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business registration & licensing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose State government portals when they need reliable, efficient solutio
 
 ## Get Started with State government portals
 
-Ready to explore State government portals? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [State government portals](https://www.stategovernmentportals.com) to explore the platform and begin using this powerful tool.

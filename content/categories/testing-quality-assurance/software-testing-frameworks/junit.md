@@ -7,6 +7,7 @@ subcategory: "Software Testing Frameworks"
 tool_name: "JUnit"
 deployment_status: "deployed"
 image: "/images/tools/junit-placeholder.jpg"
+external_link: "https://www.junit.com"
 ---
 JUnit revolutionizes Java development by establishing the foundational testing framework that transforms code reliability from an afterthought into a core development practice, enabling developers to write robust, maintainable applications with confidence. This industry-standard platform has become the backbone of Java testing ecosystems, providing the essential infrastructure that supports test-driven development, continuous integration, and quality assurance practices across enterprise and open-source projects worldwide.
 

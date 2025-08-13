@@ -55,4 +55,4 @@ Trusted by millions of travelers and property partners worldwide to facilitate s
 
 ## Get Started with Booking.com
 
-Ready to explore Booking.com? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Booking.com](https://www.bookingcom.com) to explore the platform and begin using this powerful tool.

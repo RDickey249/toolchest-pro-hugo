@@ -7,6 +7,7 @@ subcategory: "Advanced Project Management"
 tool_name: "Clubhouse"
 deployment_status: "deployed"
 image: "/images/tools/clubhouse-placeholder.jpg"
+external_link: "https://www.clubhouse.com"
 ---
 Shortcut (formerly Clubhouse) revolutionizes software team management by providing streamlined agile development workflows that eliminate the complexity and overhead typically associated with traditional project management tools, focusing exclusively on what software teams actually need to ship great products efficiently. This developer-focused platform transforms chaotic development processes into clear, actionable workflows that keep engineering teams focused on building rather than managing administrative overhead.
 

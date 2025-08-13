@@ -9,6 +9,7 @@ image: "/images/tools/docusign-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]
+external_link: "https://www.docusign.com"
 ---
 DocuSign is a comprehensive invoicing & payments solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the invoicing & payments space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose DocuSign when they need reliable, efficient solutions that integrat
 
 ## Get Started with DocuSign
 
-Ready to explore DocuSign? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [DocuSign](https://www.docusign.com) to explore the platform and begin using this powerful tool.

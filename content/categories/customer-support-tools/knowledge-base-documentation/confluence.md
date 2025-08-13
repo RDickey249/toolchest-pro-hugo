@@ -7,6 +7,7 @@ subcategory: "Knowledge Base & Documentation"
 tool_name: "Confluence"
 deployment_status: "deployed"
 image: "/images/tools/confluence-placeholder.jpg"
+external_link: "https://www.confluence.com"
 ---
 Confluence is Atlassian's enterprise knowledge management platform used by over 75,000 organizations including NASA, Spotify, and Airbnb to centralize team knowledge and documentation. With over 250 million pages created, it's the most widely adopted enterprise wiki solution.
 

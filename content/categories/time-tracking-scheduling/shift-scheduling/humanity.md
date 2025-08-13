@@ -47,4 +47,4 @@ Used by companies like McDonald's, Subway, and thousands of retail and healthcar
 
 ## Get Started with Humanity
 
-Ready to explore Humanity? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Humanity](https://www.humanity.com) to explore the platform and begin using this powerful tool.

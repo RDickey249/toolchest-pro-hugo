@@ -9,6 +9,7 @@ image: "/images/tools/obs-compatible-devices-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware", "video-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Video Equipment"]
+external_link: "https://www.obscompatibledevices.com"
 ---
 OBS-compatible devices is a comprehensive video equipment solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the video equipment space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose OBS-compatible devices when they need reliable, efficient solutions
 
 ## Get Started with OBS-compatible devices
 
-Ready to explore OBS-compatible devices? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [OBS-compatible devices](https://www.obscompatibledevices.com) to explore the platform and begin using this powerful tool.

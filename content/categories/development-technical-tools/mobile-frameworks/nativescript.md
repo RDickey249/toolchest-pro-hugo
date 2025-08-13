@@ -9,6 +9,7 @@ image: "/images/tools/nativescript-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Frameworks"]
+external_link: "https://www.nativescript.com"
 ---
 NativeScript is a comprehensive mobile frameworks solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the mobile frameworks space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose NativeScript when they need reliable, efficient solutions that inte
 
 ## Get Started with NativeScript
 
-Ready to explore NativeScript? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [NativeScript](https://www.nativescript.com) to explore the platform and begin using this powerful tool.

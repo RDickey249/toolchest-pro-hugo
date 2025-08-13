@@ -7,6 +7,7 @@ subcategory: "Voice Phone Support"
 tool_name: "Dialpad"
 deployment_status: "deployed"
 image: "/images/tools/dialpad-placeholder.jpg"
+external_link: "https://www.dialpad.com"
 ---
 Dialpad is the AI-powered business communications platform trusted by companies like Netflix, Motorola, and over 25,000 organizations worldwide to transform customer conversations through real-time voice intelligence and unified communications technology that turns every call into actionable insights. Built on Google Cloud infrastructure with proprietary Voice Intelligence technology, Dialpad delivers enterprise-grade communications that go far beyond traditional phone systems by providing live coaching, sentiment analysis, and automated call summaries that enhance both agent performance and customer satisfaction.
 

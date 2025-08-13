@@ -9,6 +9,7 @@ image: "/images/tools/udacity-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Online Learning Platforms"]
+external_link: "https://www.udacity.com"
 ---
 Udacity is a comprehensive online learning platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the online learning platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Udacity when they need reliable, efficient solutions that integrate
 
 ## Get Started with Udacity
 
-Ready to explore Udacity? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Udacity](https://www.udacity.com) to explore the platform and begin using this powerful tool.

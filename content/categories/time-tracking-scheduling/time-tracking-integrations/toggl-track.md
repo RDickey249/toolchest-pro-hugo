@@ -7,6 +7,7 @@ subcategory: "Time Tracking Integrations"
 tool_name: "Toggl Track"
 deployment_status: "deployed"
 image: "/images/tools/toggl-track-placeholder.jpg"
+external_link: "https://www.toggltrack.com"
 ---
 Toggl Track is a popular time tracking platform that specializes in comprehensive integrations across leading productivity tools and business applications. The software seamlessly connects time tracking with task management, project coordination, and workflow automation to provide unified productivity management across diverse tool ecosystems.
 
@@ -44,4 +45,4 @@ The platform is ideal for teams using multiple productivity tools that need unif
 
 ## Get Started with Toggl Track
 
-Ready to explore Toggl Track? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Toggl Track](https://www.toggltrack.com) to explore the platform and begin using this powerful tool.

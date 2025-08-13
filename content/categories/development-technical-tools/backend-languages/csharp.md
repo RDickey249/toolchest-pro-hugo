@@ -7,6 +7,7 @@ subcategory: "Backend Languages"
 tool_name: "C#"
 deployment_status: "deployed"
 image: "/images/tools/csharp-placeholder.jpg"
+external_link: "https://www.csharp.com"
 ---
 C# is Microsoft's flagship programming language trusted by millions of developers worldwide, including teams at Stack Overflow, Unity Technologies, and countless Fortune 500 companies. As the backbone of the .NET ecosystem, C# powers everything from web applications to video games, making it one of the most versatile languages in modern software development.
 

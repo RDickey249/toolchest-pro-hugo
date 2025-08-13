@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "YouTube Analytics"
 deployment_status: "deployed"
 image: "/images/tools/youtube-analytics-placeholder.jpg"
+external_link: "https://www.youtubeanalytics.com"
 ---
 
 YouTube Analytics is the comprehensive analytics platform for YouTube creators and businesses, providing detailed insights into video performance, audience behavior, and revenue metrics for channels using YouTube for content marketing and monetization. As YouTube's native analytics solution, it offers the most detailed and accurate data about video performance and audience engagement.

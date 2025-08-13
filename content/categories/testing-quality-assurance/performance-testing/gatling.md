@@ -7,6 +7,7 @@ subcategory: "Performance Testing"
 tool_name: "Gatling"
 deployment_status: "deployed"
 image: "/images/tools/gatling-logo.png"
+external_link: "https://www.gatling.com"
 ---
 Gatling revolutionizes performance testing by combining the power of functional programming with high-performance asynchronous architecture, delivering a load testing framework that scales effortlessly from hundreds to millions of virtual users while maintaining precision and reliability. This sophisticated platform transforms performance validation from a bottleneck into an accelerated development practice that integrates seamlessly with modern DevOps workflows.
 

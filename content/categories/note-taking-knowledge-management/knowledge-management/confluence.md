@@ -9,6 +9,7 @@ image: "/images/tools/confluence-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "knowledge-management"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Knowledge Management"]
+external_link: "https://www.confluence.com"
 ---
 Confluence is a comprehensive knowledge management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the knowledge management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Confluence when they need reliable, efficient solutions that integr
 
 ## Get Started with Confluence
 
-Ready to explore Confluence? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Confluence](https://www.confluence.com) to explore the platform and begin using this powerful tool.

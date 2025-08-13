@@ -9,6 +9,7 @@ image: "/images/tools/things-3-macios-placeholder.jpg"
 tags: ["productivity-task-management", "task-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Task & Project Management"]
+external_link: "https://www.things3macios.com"
 ---
 Things 3 (Mac/iOS) is a comprehensive task & project management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the task & project management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

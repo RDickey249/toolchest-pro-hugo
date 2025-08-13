@@ -7,6 +7,7 @@ subcategory: "Frontend Languages"
 tool_name: "Pug"
 deployment_status: "deployed"
 image: "/images/tools/pug-placeholder.jpg"
+external_link: "https://www.pug.com"
 ---
 Pug revolutionizes HTML template development by providing the most elegant and concise template engine that transforms verbose HTML markup into clean, indentation-based syntax that eliminates closing tags and reduces development time while improving code readability and maintainability for developers who value elegant, expressive code. This powerful template engine establishes the foundation for modern HTML development by making markup creation feel natural and efficient through its whitespace-sensitive syntax and powerful template features.
 

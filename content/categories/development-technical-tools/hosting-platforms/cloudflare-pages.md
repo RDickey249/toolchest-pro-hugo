@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "Cloudflare Pages"
 deployment_status: "deployed"
 image: "/images/tools/cloudflare-pages-placeholder.jpg"
+external_link: "https://www.cloudflarepages.com"
 ---
 Cloudflare Pages is the modern JAMstack platform that leverages Cloudflare's massive global network spanning 250+ cities to deliver websites at lightning speed. Trusted by companies like Discord, Shopify, and OKCupid, this platform combines static site hosting with edge computing capabilities for unmatched performance.
 

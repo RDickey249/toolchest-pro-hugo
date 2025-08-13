@@ -7,6 +7,7 @@ subcategory: "Employee Engagement Performance"
 tool_name: "360 Feedback"
 deployment_status: "deployed"
 image: "/images/tools/360-feedback-placeholder.jpg"
+external_link: "https://www.360feedback.com"
 ---
 360 feedback platforms have transformed performance management by solving the fundamental flaw in traditional reviews: single-perspective bias that provides incomplete pictures of employee performance and limits development opportunities. These sophisticated systems revolutionized talent development at companies like Google, Microsoft, and GE by enabling comprehensive multi-rater assessments that capture insights from supervisors, peers, direct reports, and external stakeholders to create complete performance profiles. By aggregating diverse perspectives through anonymous, structured feedback processes, 360 tools eliminate the blind spots that plague traditional manager-only evaluations while providing the rich, actionable insights needed for meaningful professional development. Research shows that employees who receive 360 feedback demonstrate 8.9% greater profitability and are 2.3x more likely to be engaged at work, making these platforms essential for organizations serious about talent optimization. Whether you're developing high-potential leaders, building coaching cultures, or creating succession planning programs, 360 feedback platforms provide the comprehensive insights that turn performance conversations from judgmental exercises into development opportunities.
 

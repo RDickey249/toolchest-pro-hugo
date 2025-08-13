@@ -9,6 +9,7 @@ image: "/images/tools/nextjs-placeholder.jpg"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]
+external_link: "https://www.nextjs.com"
 ---
 Next.js is a comprehensive frontend frameworks solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the frontend frameworks space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Next.js when they need reliable, efficient solutions that integrate
 
 ## Get Started with Next.js
 
-Ready to explore Next.js? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Next.js](https://www.nextjs.com) to explore the platform and begin using this powerful tool.

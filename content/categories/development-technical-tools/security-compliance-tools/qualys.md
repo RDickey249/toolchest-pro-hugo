@@ -9,6 +9,7 @@ image: "/images/tools/qualys-placeholder.jpg"
 tags: ["development-technical-tools", "security-compliance-tools"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Security & Compliance Tools"]
+external_link: "https://www.qualys.com"
 ---
 Qualys is the comprehensive cloud security platform trusted by over 19,000 organizations worldwide including Fortune 500 enterprises and government agencies to identify, prioritize, and remediate security vulnerabilities across their entire IT infrastructure through continuous monitoring, automated compliance reporting, and AI-powered risk assessment that keeps organizations secure and audit-ready. As the pioneer in cloud-based vulnerability management, Qualys transforms enterprise security by providing unified visibility across networks, web applications, and cloud assets while automating compliance workflows that traditionally required extensive manual effort and multiple disparate security tools.
 

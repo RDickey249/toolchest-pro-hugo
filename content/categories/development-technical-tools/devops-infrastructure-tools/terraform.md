@@ -7,6 +7,7 @@ subcategory: "DevOps & Infrastructure"
 tool_name: "Terraform"
 deployment_status: "deployed"
 image: "/images/tools/terraform-placeholder.jpg"
+external_link: "https://www.terraform.com"
 ---
 Terraform is the leading infrastructure as code platform used by over 100,000 organizations including Netflix, Uber, and Samsung to provision and manage cloud infrastructure at scale. With over 2,000 supported providers and 100 million resources under management, it's the industry standard for declarative infrastructure automation.
 

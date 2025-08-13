@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "Railway"
 deployment_status: "deployed"
 image: "/images/tools/railway-placeholder.jpg"
+external_link: "https://www.railway.com"
 ---
 Railway is the modern infrastructure platform that has simplified deployment for over 200,000 developers, providing zero-configuration hosting that makes application deployment as simple as a git push. Used by startups and indie developers, it's the Netlify for full-stack applications.
 

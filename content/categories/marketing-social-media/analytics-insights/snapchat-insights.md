@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "Snapchat Insights"
 deployment_status: "deployed"
 image: "/images/tools/snapchat-insights-placeholder.jpg"
+external_link: "https://www.snapchatinsights.com"
 ---
 
 Snapchat Insights provides comprehensive analytics for Snapchat content and advertising campaigns, offering engagement metrics, audience demographics, and ad performance data for businesses and creators using Snapchat for marketing and brand engagement. The platform combines organic content analytics with paid advertising insights, focusing on Snapchat's unique ephemeral content format and younger audience demographics.

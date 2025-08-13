@@ -9,6 +9,7 @@ image: "/images/tools/dall-e-openai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]
+external_link: "https://www.dalleopenai.com"
 ---
 DALL-E (OpenAI) is a comprehensive ai design & creative solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the ai design & creative space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

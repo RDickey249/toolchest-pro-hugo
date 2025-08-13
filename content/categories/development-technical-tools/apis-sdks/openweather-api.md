@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "OpenWeather API"
 deployment_status: "deployed"
 image: "/images/tools/openweather-api-placeholder.jpg"
+external_link: "https://www.openweatherapi.com"
 ---
 OpenWeather API is the comprehensive weather data platform trusted by companies like Uber, Microsoft, and over 2 million developers to integrate real-time weather intelligence into applications worldwide. As one of the most popular weather APIs with over 1 billion API calls daily, it provides accurate weather data for 200,000+ cities globally, enabling everything from ride-sharing surge pricing to agricultural planning systems.
 

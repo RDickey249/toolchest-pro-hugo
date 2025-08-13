@@ -41,7 +41,7 @@ Logomaster elevates AI logo creation through advanced machine learning algorithm
 
 ## Get Started with Logomaster
 
-Ready to explore Logomaster? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Logomaster](https://www.logomaster.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

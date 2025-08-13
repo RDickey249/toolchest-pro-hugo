@@ -7,6 +7,7 @@ subcategory: "Ai Productivity Business"
 tool_name: "Yurbi"
 deployment_status: "deployed"
 image: "/images/tools/yurbi-placeholder.jpg"
+external_link: "https://www.yurbi.com"
 ---
 Yurbi is a self-service business intelligence platform that makes data analysis accessible to business users without requiring technical expertise.
 
@@ -44,7 +45,7 @@ Yurbi eliminates traditional data analysis bottlenecks by enabling business user
 
 ## Get Started with Yurbi
 
-Ready to explore Yurbi? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Yurbi](https://www.yurbi.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

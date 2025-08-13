@@ -9,6 +9,7 @@ image: "/images/tools/soc-2-compliance-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Privacy & Compliance"]
+external_link: "https://www.soc2compliance.com"
 ---
 SOC 2 compliance is a comprehensive privacy & compliance solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the privacy & compliance space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose SOC 2 compliance when they need reliable, efficient solutions that 
 
 ## Get Started with SOC 2 compliance
 
-Ready to explore SOC 2 compliance? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [SOC 2 compliance](https://www.soc2compliance.com) to explore the platform and begin using this powerful tool.

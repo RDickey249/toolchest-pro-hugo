@@ -9,6 +9,7 @@ image: "/images/tools/bear-macios-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "digital-note-taking"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Digital Note-Taking"]
+external_link: "https://www.bearmacios.com"
 ---
 Bear (Mac/iOS) is a comprehensive digital note-taking solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the digital note-taking space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

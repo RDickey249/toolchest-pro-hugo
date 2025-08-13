@@ -7,6 +7,7 @@ subcategory: "Voice Phone Support"
 tool_name: "Talkdesk"
 deployment_status: "deployed"
 image: "/images/tools/talkdesk-placeholder.jpg"
+external_link: "https://www.talkdesk.com"
 ---
 Talkdesk is the AI-powered cloud contact center platform trusted by companies like Shopify, IBM, and thousands of customer service organizations worldwide to deliver enterprise-grade capabilities through modern cloud software that eliminates traditional contact center complexity while improving agent productivity and customer satisfaction. Built from the ground up for the cloud era, Talkdesk transforms customer service operations with intelligent automation and intuitive design.
 

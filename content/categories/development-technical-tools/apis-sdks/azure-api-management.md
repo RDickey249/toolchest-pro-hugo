@@ -9,6 +9,7 @@ image: "/images/tools/azure-api-management-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["API Management"]
+external_link: "https://www.azureapimanagement.com"
 ---
 Azure API Management is a comprehensive api management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the api management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Azure API Management when they need reliable, efficient solutions t
 
 ## Get Started with Azure API Management
 
-Ready to explore Azure API Management? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Azure API Management](https://www.azureapimanagement.com) to explore the platform and begin using this powerful tool.

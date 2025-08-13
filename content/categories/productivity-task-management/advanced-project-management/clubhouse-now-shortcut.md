@@ -9,6 +9,7 @@ image: "/images/tools/clubhouse-now-shortcut-placeholder.jpg"
 tags: ["productivity-task-management", "advanced-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Advanced Project Management"]
+external_link: "https://www.clubhousenowshortcut.com"
 ---
 Clubhouse (now Shortcut) is a comprehensive advanced project management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the advanced project management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

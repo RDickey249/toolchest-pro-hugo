@@ -9,6 +9,7 @@ image: "/images/tools/google-cloud-backup-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions", "business-backup-solutions"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Business Backup Solutions"]
+external_link: "https://www.googlecloudbackup.com"
 ---
 Google Cloud Backup is a comprehensive business backup solutions solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business backup solutions space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Google Cloud Backup when they need reliable, efficient solutions th
 
 ## Get Started with Google Cloud Backup
 
-Ready to explore Google Cloud Backup? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Google Cloud Backup](https://www.googlecloudbackup.com) to explore the platform and begin using this powerful tool.

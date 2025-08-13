@@ -7,6 +7,7 @@ subcategory: "Ai Writing Content"
 tool_name: "Slick Write"
 deployment_status: "deployed"
 image: "/images/tools/slick-write-placeholder.jpg"
+external_link: "https://www.slickwrite.com"
 ---
 Slick Write is a free web-based writing analysis tool that provides comprehensive grammar, style, and structure checking without any registration or subscription requirements. It offers professional-quality writing assistance through a clean, simple interface that anyone can use immediately.
 
@@ -44,7 +45,7 @@ Slick Write's no-nonsense approach focuses on essential writing improvement feat
 
 ## Get Started with Slick Write
 
-Ready to explore Slick Write? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Slick Write](https://www.slickwrite.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

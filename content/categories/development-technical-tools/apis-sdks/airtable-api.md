@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Airtable API"
 deployment_status: "deployed"
 image: "/images/tools/airtable-api-placeholder.jpg"
+external_link: "https://www.airtableapi.com"
 ---
 Airtable API is the powerful interface to the world's most popular spreadsheet-database hybrid, trusted by over 300,000 organizations including Netflix, Shopify, and thousands of teams building custom applications. As the bridge between simple spreadsheets and complex databases, it enables developers to create sophisticated applications with the flexibility that traditional databases cannot match.
 

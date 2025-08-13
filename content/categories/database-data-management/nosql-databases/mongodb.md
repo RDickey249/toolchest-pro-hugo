@@ -9,6 +9,7 @@ image: "/images/tools/mongodb-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["NoSQL Databases"]
+external_link: "https://www.mongodb.com"
 ---
 MongoDB is a comprehensive nosql databases solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the nosql databases space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose MongoDB when they need reliable, efficient solutions that integrate
 
 ## Get Started with MongoDB
 
-Ready to explore MongoDB? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [MongoDB](https://www.mongodb.com) to explore the platform and begin using this powerful tool.

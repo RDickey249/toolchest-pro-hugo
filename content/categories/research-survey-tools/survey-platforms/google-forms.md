@@ -9,6 +9,7 @@ image: "/images/tools/google-forms-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Survey Platforms"]
+external_link: "https://www.googleforms.com"
 ---
 Google Forms is a comprehensive survey platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the survey platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Google Forms when they need reliable, efficient solutions that inte
 
 ## Get Started with Google Forms
 
-Ready to explore Google Forms? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Google Forms](https://www.googleforms.com) to explore the platform and begin using this powerful tool.

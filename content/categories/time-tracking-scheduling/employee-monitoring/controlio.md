@@ -45,4 +45,4 @@ Controlio streamlines employee monitoring through comprehensive cloud-based trac
 
 ## Get Started with Controlio
 
-Ready to explore Controlio? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Controlio](https://www.controlio.com) to explore the platform and begin using this powerful tool.

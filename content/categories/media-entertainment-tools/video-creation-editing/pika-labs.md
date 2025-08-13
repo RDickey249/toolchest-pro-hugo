@@ -7,6 +7,7 @@ subcategory: "Video Creation Editing"
 tool_name: "Pika Labs"
 deployment_status: "deployed"
 image: "/images/tools/pika-labs-placeholder.jpg"
+external_link: "https://www.pikalabs.com"
 ---
 Pika Labs emerges as an exciting newcomer in AI video generation, challenging established players with its focus on creating fluid, artistic video content from text and image prompts. This innovative platform specializes in short-form video creation, producing mesmerizing clips that blend creativity with technical sophistication. Pika's strength lies in its ability to understand artistic intent, generating videos with unique visual styles ranging from photorealistic to fantastical animations. The platform's Discord-based community fosters experimentation and learning, where creators share techniques and push creative boundaries together. Whether you're a digital artist exploring motion, a social media creator needing eye-catching content, or a filmmaker prototyping concepts, Pika Labs offers an accessible entry point into AI video generation. Its rapid development cycle means new features and improvements arrive frequently, keeping pace with the fast-evolving AI landscape. For creators seeking an alternative to mainstream platforms, Pika Labs provides a fresh perspective on what AI-generated video can achieve, prioritizing artistic expression and community collaboration.
 
@@ -40,7 +41,7 @@ Pika Labs emerges as an exciting newcomer in AI video generation, challenging es
 
 ## Get Started with Pika Labs
 
-Ready to explore Pika Labs? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Pika Labs](https://www.pikalabs.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

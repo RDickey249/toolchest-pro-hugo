@@ -7,6 +7,7 @@ subcategory: "Cloud Platforms"
 tool_name: "Oracle Cloud"
 deployment_status: "deployed"
 image: "/images/tools/oracle-cloud-placeholder.jpg"
+external_link: "https://www.oraclecloud.com"
 ---
 Oracle Cloud Infrastructure is the enterprise-grade cloud platform trusted by companies like FedEx, Mazda, and thousands of Oracle customers worldwide to power mission-critical applications with autonomous database technology and predictable high performance. Built specifically for enterprise workloads, OCI delivers the reliability, security, and cost-effectiveness that large organizations require for their most demanding applications.
 

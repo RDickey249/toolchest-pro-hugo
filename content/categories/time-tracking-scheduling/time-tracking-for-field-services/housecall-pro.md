@@ -7,6 +7,7 @@ subcategory: "Time Tracking For Field Services"
 tool_name: "Housecall Pro"
 deployment_status: "deployed"
 image: "/images/tools/housecall-pro-placeholder.jpg"
+external_link: "https://www.housecallpro.com"
 ---
 Housecall Pro is the all-in-one business platform for home service professionals. From scheduling and dispatching to time tracking and payment processing, it handles every aspect of running a field service business from your phone.
 
@@ -41,4 +42,4 @@ Used by over 25,000 service pros including plumbers, electricians, HVAC technici
 • Advanced mobile features may require consistent mobile connectivity for optimal service workflow coordination and payment processing
 ## Get Started with Housecall Pro
 
-Ready to explore Housecall Pro? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Housecall Pro](https://www.housecallpro.com) to explore the platform and begin using this powerful tool.

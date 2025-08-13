@@ -7,6 +7,7 @@ subcategory: "E-commerce Platforms"
 tool_name: "Zen Cart"
 deployment_status: "deployed"
 image: "/images/tools/zen-cart-placeholder.jpg"
+external_link: "https://www.zencart.com"
 ---
 Zen Cart revolutionizes accessible e-commerce by providing a completely free, open-source shopping cart platform that delivers comprehensive online store functionality through community-driven development, enabling businesses to establish professional e-commerce operations without licensing fees or subscription commitments. This cost-effective platform transforms the barrier of expensive e-commerce software into accessible retail solutions that support businesses from startup to established operations without ongoing software costs.
 

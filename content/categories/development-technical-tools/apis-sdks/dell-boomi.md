@@ -9,6 +9,7 @@ image: "/images/tools/dell-boomi-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]
+external_link: "https://www.dellboomi.com"
 ---
 Dell Boomi is a comprehensive integration platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the integration platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Dell Boomi when they need reliable, efficient solutions that integr
 
 ## Get Started with Dell Boomi
 
-Ready to explore Dell Boomi? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Dell Boomi](https://www.dellboomi.com) to explore the platform and begin using this powerful tool.

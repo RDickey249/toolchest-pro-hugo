@@ -9,6 +9,7 @@ image: "/images/tools/citrix-sharefile-placeholder.jpg"
 tags: ["cloud-storage-file-management", "business-file-management"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["Business File Management"]
+external_link: "https://www.citrixsharefile.com"
 ---
 Citrix ShareFile is a comprehensive business file management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the business file management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Citrix ShareFile when they need reliable, efficient solutions that 
 
 ## Get Started with Citrix ShareFile
 
-Ready to explore Citrix ShareFile? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Citrix ShareFile](https://www.citrixsharefile.com) to explore the platform and begin using this powerful tool.

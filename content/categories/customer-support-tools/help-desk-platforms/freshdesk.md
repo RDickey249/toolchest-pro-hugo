@@ -7,6 +7,7 @@ subcategory: "Help Desk Platforms"
 tool_name: "Freshdesk"
 deployment_status: "deployed"
 image: "/images/tools/freshdesk-placeholder.jpg"
+external_link: "https://www.freshdesk.com"
 ---
 Freshdesk is the modern customer support platform trusted by over 60,000 companies including Klarna, Bridgestone, and The Atlantic to deliver exceptional customer experiences across every channel. This cloud-based help desk solution transforms complex support operations into streamlined, efficient workflows that both agents and customers love, making world-class customer service accessible to businesses of all sizes.
 

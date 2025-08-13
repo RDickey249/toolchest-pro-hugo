@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Cloudinary API"
 deployment_status: "deployed"
 image: "/images/tools/cloudinary-api-placeholder.jpg"
+external_link: "https://www.cloudinaryapi.com"
 ---
 When Peloton needed to deliver high-quality workout videos to millions of users worldwide without buffering, they chose Cloudinary to automatically optimize and stream content across their global CDN. The platform processes over 20 billion media assets monthly, helping companies like BuzzFeed, Trivago, and Lululemon deliver pixel-perfect images and seamless video experiences that convert browsers into customers.
 

@@ -7,6 +7,7 @@ subcategory: "Code Quality & Linting"
 tool_name: "CodeClimate"
 deployment_status: "deployed"
 image: "/images/tools/codeclimate-placeholder.jpg"
+external_link: "https://www.codeclimate.com"
 ---
 Code Climate revolutionizes automated code review by providing comprehensive analysis that goes beyond syntax checking to measure maintainability, identify security vulnerabilities, and quantify technical debt, enabling development teams to make data-driven decisions about code quality and refactoring priorities. This sophisticated platform transforms subjective code review processes into objective, measurable insights that help teams maintain high-quality codebases while accelerating development velocity through automated quality gates.
 

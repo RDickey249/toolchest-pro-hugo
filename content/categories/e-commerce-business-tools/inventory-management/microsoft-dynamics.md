@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "Microsoft Dynamics"
 deployment_status: "deployed"
 image: "/images/tools/microsoft-dynamics-placeholder.jpg"
+external_link: "https://www.microsoftdynamics.com"
 ---
 Microsoft Dynamics is the comprehensive business applications suite trusted by over 250,000 organizations worldwide, including Fortune 500 companies like BP, H&R Block, and thousands of enterprises seeking integrated ERP and CRM solutions. As part of Microsoft's cloud ecosystem, it has become the leading choice for businesses wanting unified operations within the Microsoft platform.
 

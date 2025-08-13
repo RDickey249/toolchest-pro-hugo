@@ -7,6 +7,7 @@ subcategory: "Language Learning"
 tool_name: "Anki"
 deployment_status: "deployed"
 image: "/images/tools/anki-placeholder.jpg"
+external_link: "https://www.anki.com"
 ---
 
 Anki is a spaced repetition flashcard system that uses cognitive science principles to optimize memory retention, making it highly effective for language vocabulary acquisition and long-term knowledge retention. The platform calculates optimal review intervals based on how well users remember each card, ensuring that difficult material appears more frequently while well-known information is reviewed less often.

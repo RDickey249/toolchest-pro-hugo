@@ -9,6 +9,7 @@ image: "/images/tools/htmlcss-placeholder.jpg"
 tags: ["development-technical-tools", "frontend-languages"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Languages"]
+external_link: "https://www.htmlcss.com"
 ---
 HTML/CSS is a comprehensive frontend languages solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the frontend languages space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

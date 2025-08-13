@@ -43,4 +43,4 @@ Used by enterprises and consulting firms worldwide, actiTIME offers advanced ana
 
 ## Get Started with actiTIME
 
-Ready to explore actiTIME? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [actiTIME](https://www.actitime.com) to explore the platform and begin using this powerful tool.

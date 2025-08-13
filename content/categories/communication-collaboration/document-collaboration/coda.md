@@ -9,6 +9,7 @@ image: "/images/tools/coda-placeholder.jpg"
 tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]
+external_link: "https://www.coda.com"
 ---
 Coda is a comprehensive document collaboration solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the document collaboration space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Coda when they need reliable, efficient solutions that integrate se
 
 ## Get Started with Coda
 
-Ready to explore Coda? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Coda](https://www.coda.com) to explore the platform and begin using this powerful tool.

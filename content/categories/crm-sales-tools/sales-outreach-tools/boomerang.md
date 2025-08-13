@@ -9,6 +9,7 @@ image: "/images/tools/boomerang-placeholder.jpg"
 tags: ["crm-sales-tools", "sales-outreach-tools"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Sales & Outreach Tools"]
+external_link: "https://www.boomerang.com"
 ---
 Boomerang is a comprehensive sales & outreach tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the sales & outreach tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Boomerang when they need reliable, efficient solutions that integra
 
 ## Get Started with Boomerang
 
-Ready to explore Boomerang? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Boomerang](https://www.boomerang.com) to explore the platform and begin using this powerful tool.

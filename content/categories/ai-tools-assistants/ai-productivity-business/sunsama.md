@@ -7,6 +7,7 @@ subcategory: "Ai Productivity Business"
 tool_name: "Sunsama"
 deployment_status: "deployed"
 image: "/images/tools/sunsama-placeholder.jpg"
+external_link: "https://www.sunsama.com"
 ---
 Sunsama is the mindful daily planning platform that combines task management with work-life balance principles to help busy professionals create realistic, sustainable schedules and prevent burnout.
 
@@ -42,7 +43,7 @@ Used by professionals and entrepreneurs seeking intentional productivity, Sunsam
 
 ## Get Started with Sunsama
 
-Ready to explore Sunsama? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Sunsama](https://www.sunsama.com) to explore the platform and begin using this powerful tool.
 
 ## How It Compares
 

@@ -7,6 +7,7 @@ subcategory: "Conversational Ai"
 tool_name: "Chatfuel"
 deployment_status: "deployed"
 image: "/images/tools/chatfuel-placeholder.jpg"
+external_link: "https://www.chatfuel.com"
 ---
 Chatfuel is a visual chatbot platform designed specifically for Facebook Messenger and Instagram automation. The platform enables businesses to create sophisticated chatbots without coding, using a drag-and-drop interface to build conversation flows that engage customers and drive sales.
 

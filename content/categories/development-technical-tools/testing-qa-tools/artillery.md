@@ -9,6 +9,7 @@ image: "/images/tools/artillery-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Performance Testing"]
+external_link: "https://www.artillery.com"
 ---
 Artillery is a comprehensive performance testing solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the performance testing space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Artillery when they need reliable, efficient solutions that integra
 
 ## Get Started with Artillery
 
-Ready to explore Artillery? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Artillery](https://www.artillery.com) to explore the platform and begin using this powerful tool.

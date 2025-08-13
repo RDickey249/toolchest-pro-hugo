@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "The Odin Project"
 deployment_status: "deployed"
 image: "/images/tools/the-odin-project-placeholder.jpg"
+external_link: "https://www.theodinproject.com"
 ---
 
 The Odin Project is a free, open-source full-stack web development curriculum that provides a comprehensive learning path from HTML basics to advanced JavaScript frameworks and backend development. The platform combines curated resources from across the web with practical projects, creating a structured bootcamp-style experience without the associated costs or time constraints.

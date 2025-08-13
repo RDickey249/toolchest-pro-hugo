@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "Pinterest Analytics"
 deployment_status: "deployed"
 image: "/images/tools/pinterest-analytics-placeholder.jpg"
+external_link: "https://www.pinterestanalytics.com"
 ---
 
 Pinterest Analytics provides detailed insights into Pinterest performance, offering engagement metrics, audience demographics, and visual content analytics for businesses and creators using Pinterest for marketing and traffic generation. As Pinterest's native analytics platform, it offers unique insights into visual content performance and user shopping behavior.

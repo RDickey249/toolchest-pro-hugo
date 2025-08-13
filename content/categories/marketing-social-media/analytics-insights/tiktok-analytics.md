@@ -7,6 +7,7 @@ subcategory: "Analytics Insights"
 tool_name: "TikTok Analytics"
 deployment_status: "deployed"
 image: "/images/tools/tiktok-analytics-placeholder.jpg"
+external_link: "https://www.tiktokanalytics.com"
 ---
 
 TikTok Analytics provides detailed performance insights for TikTok content, offering engagement metrics, audience demographics, and video performance data for creators and businesses using TikTok for marketing and content creation. As TikTok's native analytics platform, it offers unique insights into short-form video performance and Gen Z/Millennial audience behavior.

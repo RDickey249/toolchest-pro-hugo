@@ -9,6 +9,7 @@ image: "/images/tools/project-euler-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Skill Development"]
+external_link: "https://www.projecteuler.com"
 ---
 Project Euler is a comprehensive skill development solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the skill development space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Project Euler when they need reliable, efficient solutions that int
 
 ## Get Started with Project Euler
 
-Ready to explore Project Euler? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Project Euler](https://www.projecteuler.com) to explore the platform and begin using this powerful tool.

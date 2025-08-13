@@ -63,4 +63,4 @@ Trusted by over 30,000 e-commerce businesses worldwide to create successful refe
 
 ## Get Started with ReferralCandy
 
-Ready to explore ReferralCandy? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [ReferralCandy](https://www.referralcandy.com) to explore the platform and begin using this powerful tool.

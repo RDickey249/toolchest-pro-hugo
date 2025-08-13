@@ -7,6 +7,7 @@ subcategory: "E-commerce Platforms"
 tool_name: "PrestaShop"
 deployment_status: "deployed"
 image: "/images/tools/prestashop-placeholder.jpg"
+external_link: "https://www.prestashop.com"
 ---
 PrestaShop revolutionizes affordable e-commerce by providing the most comprehensive open-source platform that delivers enterprise-grade retail capabilities without licensing costs through extensive customization options, international commerce features, and professional functionality designed specifically for startups and growing businesses who require sophisticated e-commerce without the traditional barriers of high costs or vendor lock-in. This powerful platform establishes the foundation for cost-effective online retail that scales from startup to enterprise without compromising on features or functionality.
 

@@ -7,6 +7,7 @@ subcategory: "Hosting Platforms"
 tool_name: "Hostinger"
 deployment_status: "deployed"
 image: "/images/tools/hostinger-placeholder.jpg"
+external_link: "https://www.hostinger.com"
 ---
 Hostinger is one of the world's fastest-growing web hosting companies, serving over 29 million users across 178 countries with affordable, high-performance hosting solutions. Known for combining premium features with budget-friendly pricing, it has become the go-to choice for cost-conscious businesses and developers.
 

@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "Cin7"
 deployment_status: "deployed"
 image: "/images/tools/cin7-placeholder.jpg"
+external_link: "https://www.cin7.com"
 ---
 Cin7 revolutionizes inventory management by providing the most comprehensive and integrated platform that transforms complex multi-channel inventory operations into unified, automated workflows through advanced manufacturing capabilities, extensive integration ecosystem, and intelligent automation designed specifically for growing businesses who require sophisticated inventory control without the complexity of enterprise-level systems. This powerful platform establishes the foundation for scalable inventory operations that grow seamlessly from small businesses to complex manufacturing and distribution enterprises.
 

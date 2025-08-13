@@ -7,6 +7,7 @@ subcategory: "Task Project Management"
 tool_name: "Things 3"
 deployment_status: "deployed"
 image: "/images/tools/things-3-placeholder.jpg"
+external_link: "https://www.things3.com"
 ---
 Things 3 revolutionizes personal productivity by providing the most elegant and sophisticated task management experience designed exclusively for Apple's ecosystem, combining award-winning interface design with powerful organizational capabilities that transform chaotic task lists into clear, actionable systems that enhance focus and productivity. This premium platform represents the pinnacle of Apple-native productivity design, delivering seamless integration with Apple devices while maintaining the aesthetic excellence and intuitive workflows that Apple users expect from premium applications.
 

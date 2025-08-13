@@ -7,6 +7,7 @@ subcategory: "Package Managers & Registries"
 tool_name: "pnpm"
 deployment_status: "deployed"
 image: "/images/tools/pnpm-placeholder.jpg"
+external_link: "https://www.pnpm.com"
 ---
 pnpm is the high-performance JavaScript package manager trusted by companies like Microsoft, Bytedance, and Vue.js to dramatically reduce disk space usage and installation times through intelligent symlink-based storage. As the most efficient package manager available, it can reduce node_modules disk usage by up to 95% while installing packages up to 2x faster than npm, making it essential for large-scale JavaScript development.
 

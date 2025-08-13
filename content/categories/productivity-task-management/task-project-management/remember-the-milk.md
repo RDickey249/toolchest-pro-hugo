@@ -9,6 +9,7 @@ image: "/images/tools/remember-the-milk-placeholder.jpg"
 tags: ["productivity-task-management", "task-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Task & Project Management"]
+external_link: "https://www.rememberthemilk.com"
 ---
 Remember The Milk is a comprehensive task & project management solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the task & project management space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Remember The Milk when they need reliable, efficient solutions that
 
 ## Get Started with Remember The Milk
 
-Ready to explore Remember The Milk? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Remember The Milk](https://www.rememberthemilk.com) to explore the platform and begin using this powerful tool.

@@ -7,6 +7,7 @@ subcategory: "Testing & QA"
 tool_name: "Mock Service Worker (MSW)"
 deployment_status: "deployed"
 image: "/images/tools/msw-placeholder.jpg"
+external_link: "https://www.msw.com"
 ---
 Mock Service Worker (MSW) revolutionizes API mocking by leveraging service worker technology to intercept network requests seamlessly across browser and Node.js environments, enabling developers to create realistic API mocking that works identically in testing, development, and production debugging scenarios. This innovative platform transforms API mocking from complex server setup and configuration into client-side request interception that feels natural and requires minimal setup while providing comprehensive mocking capabilities.
 

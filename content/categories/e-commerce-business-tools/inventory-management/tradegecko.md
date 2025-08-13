@@ -7,6 +7,7 @@ subcategory: "Inventory Management"
 tool_name: "TradeGecko"
 deployment_status: "deployed"
 image: "/images/tools/tradegecko-placeholder.jpg"
+external_link: "https://www.tradegecko.com"
 ---
 TradeGecko revolutionized wholesale and multi-channel inventory management by creating the first truly integrated platform that could handle complex B2B relationships while seamlessly syncing across online marketplaces, ultimately earning acquisition by Intuit for integration into QuickBooks Commerce. This pioneering platform solved the fundamental challenge facing growing wholesale businesses: managing inventory across multiple sales channels, complex customer relationships, and supplier networks without losing visibility or control. By combining sophisticated inventory management with powerful B2B portal functionality, TradeGecko enabled thousands of distributors and wholesale businesses to scale operations, automate reordering, and provide Amazon-level ordering experiences to their business customers. Though the original TradeGecko platform has been sunset in favor of QuickBooks Commerce, its innovative approach to wholesale inventory management continues to influence the industry and provides a migration path for businesses seeking comprehensive inventory solutions. Whether you're a manufacturer selling direct to retailers, a distributor managing multiple brands, or a growing e-commerce business expanding into wholesale, the evolution from TradeGecko to QuickBooks Commerce represents the maturation of wholesale inventory management.
 

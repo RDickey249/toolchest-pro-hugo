@@ -7,6 +7,7 @@ subcategory: "Container Security"
 tool_name: "Twistlock (Prisma Cloud)"
 deployment_status: "deployed"
 image: "/images/tools/twistlock-placeholder.jpg"
+external_link: "https://www.twistlock.com"
 ---
 Twistlock (now Prisma Cloud) is the enterprise container security platform trusted by companies like Mercedes-Benz, DocuSign, and thousands of organizations to protect cloud-native applications across their entire lifecycle. As Palo Alto Networks' flagship cloud security solution, it provides comprehensive protection from code to runtime, securing containerized workloads, serverless functions, and Kubernetes environments at scale.
 

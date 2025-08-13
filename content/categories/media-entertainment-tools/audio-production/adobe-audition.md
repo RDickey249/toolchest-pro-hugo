@@ -7,6 +7,7 @@ subcategory: "Audio Production"
 tool_name: "Adobe Audition"
 deployment_status: "deployed"
 image: "/images/tools/adobe-audition-placeholder.jpg"
+external_link: "https://www.adobeaudition.com"
 ---
 Adobe Audition revolutionizes professional audio production by combining industry-leading spectral editing capabilities with comprehensive multi-track recording and mixing tools that deliver broadcast-quality results for podcasts, music production, and post-production workflows. This Creative Cloud flagship transforms complex audio editing challenges into streamlined creative processes through advanced spectral frequency display, surgical audio repair tools, and seamless integration with the broader Adobe ecosystem.
 

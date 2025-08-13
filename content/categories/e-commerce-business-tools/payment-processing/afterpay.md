@@ -7,6 +7,7 @@ subcategory: "Payment Processing"
 tool_name: "Afterpay"
 deployment_status: "deployed"
 image: "/images/tools/afterpay-placeholder.jpg"
+external_link: "https://www.afterpay.com"
 ---
 Afterpay revolutionizes e-commerce payments by providing the most consumer-friendly buy-now-pay-later platform that transforms purchasing power into accessible shopping experiences through interest-free installment plans, instant approval processes, and seamless checkout integration designed specifically for modern consumers who value financial flexibility without the burden of traditional credit requirements. This pioneering platform establishes the foundation for accessible commerce that bridges the gap between consumer desire and immediate purchasing power.
 

@@ -7,6 +7,7 @@ subcategory: "APIs & SDKs"
 tool_name: "Notion API"
 deployment_status: "deployed"
 image: "/images/tools/notion-api-placeholder.jpg"
+external_link: "https://www.notionapi.com"
 ---
 Notion API is the powerful integration platform trusted by companies like Figma, Linear, and thousands of developers worldwide to build sophisticated content management systems, productivity applications, and workflow automation tools using Notion's flexible all-in-one workspace as the backend. As the official API for the world's most popular productivity platform, it enables developers to create custom applications that leverage Notion's powerful database and content capabilities.
 

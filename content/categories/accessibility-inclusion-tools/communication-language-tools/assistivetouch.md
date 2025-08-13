@@ -9,6 +9,7 @@ image: "/images/tools/assistivetouch-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms", "communication-language-tools"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Communication & Language Tools"]
+external_link: "https://www.assistivetouch.com"
 ---
 AssistiveTouch is a comprehensive communication & language tools solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the communication & language tools space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose AssistiveTouch when they need reliable, efficient solutions that in
 
 ## Get Started with AssistiveTouch
 
-Ready to explore AssistiveTouch? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [AssistiveTouch](https://www.assistivetouch.com) to explore the platform and begin using this powerful tool.

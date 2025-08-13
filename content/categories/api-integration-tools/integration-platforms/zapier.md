@@ -7,6 +7,7 @@ subcategory: "Integration Platforms"
 tool_name: "Zapier"
 deployment_status: "deployed"
 image: "/images/tools/zapier-placeholder.jpg"
+external_link: "https://zapier.com"
 ---
 Zapier is the leading automation platform that connects over 5,000 apps to eliminate repetitive tasks and manual data entry. It lets you create "Zaps" - automated workflows that trigger actions between different applications based on specific events or conditions.
 

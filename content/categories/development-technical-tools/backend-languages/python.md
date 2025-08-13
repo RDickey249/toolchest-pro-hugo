@@ -9,6 +9,7 @@ image: "/images/tools/python-placeholder.jpg"
 tags: ["development-technical-tools", "backend-languages"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Languages"]
+external_link: "https://www.python.com"
 ---
 Python is a comprehensive backend languages solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the backend languages space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Python when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Python
 
-Ready to explore Python? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Python](https://www.python.com) to explore the platform and begin using this powerful tool.

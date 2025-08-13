@@ -9,6 +9,7 @@ image: "/images/tools/splash-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Event Planning Platforms"]
+external_link: "https://www.splash.com"
 ---
 Splash is a comprehensive event planning platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the event planning platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -46,4 +47,4 @@ Teams choose Splash when they need reliable, efficient solutions that integrate 
 
 ## Get Started with Splash
 
-Ready to explore Splash? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Splash](https://www.splash.com) to explore the platform and begin using this powerful tool.

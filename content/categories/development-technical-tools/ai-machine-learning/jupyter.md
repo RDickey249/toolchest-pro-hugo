@@ -7,6 +7,7 @@ subcategory: "AI & Machine Learning"
 tool_name: "Jupyter"
 deployment_status: "deployed"
 image: "/images/tools/jupyter-placeholder.jpg"
+external_link: "https://www.jupyter.com"
 ---
 Jupyter is the world's leading interactive computing platform used by over 20 million data scientists, researchers, and educators to create and share live code documents. Originally developed for Python, it now supports over 40 programming languages and powers everything from Netflix's data science to NASA's space missions.
 

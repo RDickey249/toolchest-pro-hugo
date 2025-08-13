@@ -7,6 +7,7 @@ subcategory: "Live Chat Messaging"
 tool_name: "Pure Chat"
 deployment_status: "deployed"
 image: "/images/tools/pure-chat-placeholder.jpg"
+external_link: "https://www.purechat.com"
 ---
 Pure Chat is the user-friendly live chat solution specifically designed for small businesses and growing teams that want to add professional chat functionality to their websites without overwhelming complexity or enterprise pricing. Built with small business needs at its core, Pure Chat focuses on delivering essential chat features exceptionally well while maintaining the simplicity and affordability that growing businesses require.
 

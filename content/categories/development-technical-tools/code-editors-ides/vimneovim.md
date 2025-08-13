@@ -9,6 +9,7 @@ image: "/images/tools/vimneovim-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]
+external_link: "https://www.vimneovim.com"
 ---
 Vim/Neovim is a comprehensive code editors & ides solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the code editors & ides space, it provides teams with the tools they need to work more efficiently and achieve better results.
 

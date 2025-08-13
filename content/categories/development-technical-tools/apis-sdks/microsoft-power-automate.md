@@ -9,6 +9,7 @@ image: "/images/tools/microsoft-power-automate-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]
+external_link: "https://www.microsoftpowerautomate.com"
 ---
 Microsoft Power Automate is a comprehensive integration platforms solution designed to help businesses streamline their operations and improve productivity. As a leading platform in the integration platforms space, it provides teams with the tools they need to work more efficiently and achieve better results.
 
@@ -47,4 +48,4 @@ Teams choose Microsoft Power Automate when they need reliable, efficient solutio
 
 ## Get Started with Microsoft Power Automate
 
-Ready to explore Microsoft Power Automate? Visit their official website to learn more about the platform and discover how this tool can benefit your workflow.
+Ready to get started? Visit [Microsoft Power Automate](https://www.microsoftpowerautomate.com) to explore the platform and begin using this powerful tool.

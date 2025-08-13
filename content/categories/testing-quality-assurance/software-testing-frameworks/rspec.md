@@ -7,6 +7,7 @@ subcategory: "Software Testing Frameworks"
 tool_name: "RSpec"
 deployment_status: "deployed"
 image: "/images/tools/rspec-placeholder.jpg"
+external_link: "https://www.rspec.com"
 ---
 RSpec revolutionizes Ruby testing by establishing the gold standard for behavior-driven development that transforms technical test specifications into readable, executable documentation that both developers and stakeholders can understand and maintain. This influential framework has shaped modern testing practices across multiple programming languages by providing elegant, expressive syntax that makes test intentions crystal clear while enabling comprehensive application behavior validation through intuitive natural language constructs.
 

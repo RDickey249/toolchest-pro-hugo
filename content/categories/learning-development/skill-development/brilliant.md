@@ -7,6 +7,7 @@ subcategory: "Skill Development"
 tool_name: "Brilliant"
 deployment_status: "deployed"
 image: "/images/tools/brilliant-placeholder.jpg"
+external_link: "https://www.brilliant.com"
 ---
 
 Brilliant is an interactive learning platform that teaches math and science concepts through problem-solving and visual explanations, making complex topics accessible through hands-on exploration and guided discovery. The platform breaks down sophisticated concepts in mathematics, physics, computer science, and data analysis into bite-sized, interactive lessons that build understanding through active engagement rather than passive consumption.
