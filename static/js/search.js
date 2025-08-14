@@ -131,9 +131,9 @@ class ToolSearch {
                 let score = 0;
                 const normalizedTitle = tool.title.toLowerCase();
                 const normalizedTagline = tool.tagline ? tool.tagline.toLowerCase() : '';
-                const normalizedContent = tool.content ? tool.content.toLowerCase() : '';
                 const normalizedCategory = tool.category ? tool.category.toLowerCase() : '';
                 const normalizedSubcategory = tool.subcategory ? tool.subcategory.toLowerCase() : '';
+                const normalizedKeywords = tool.keywords ? tool.keywords.toLowerCase() : '';
                 
                 // Exact title match
                 if (normalizedTitle === normalizedQuery) score += 100;
@@ -149,11 +149,15 @@ class ToolSearch {
                 if (normalizedCategory.includes(normalizedQuery)) score += 25;
                 if (normalizedSubcategory.includes(normalizedQuery)) score += 15;
                 
-                // Content matches (lower priority)
-                if (normalizedContent.includes(normalizedQuery)) score += 5;
+                // Keywords matches (HIGH PRIORITY for feature search)
+                if (normalizedKeywords.includes(normalizedQuery)) score += 35;
                 
-                // Boost affiliate tools slightly for revenue
-                if (tool.affiliate_link) score += 2;
+                // Boost affiliate tools for revenue optimization
+                if (tool.url && (tool.url.includes('shopify.pxf.io') || tool.url.includes('plrfunnels.com') || 
+                                tool.url.includes('activecampaign') || tool.url.includes('systeme.io') ||
+                                tool.url.includes('saleshandy') || tool.url.includes('customers-ai'))) {
+                    score += 5;
+                }
                 
                 return { ...tool, score };
             })
