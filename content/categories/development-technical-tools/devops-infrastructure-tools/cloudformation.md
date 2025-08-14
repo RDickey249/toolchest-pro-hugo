@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "DevOps & Infrastructure"
 tool_name: "CloudFormation"
 deployment_status: "deployed"
-image: "/images/tools/cloudformation-placeholder.jpg"
 external_link: "https://www.cloudformation.com"
 ---
 CloudFormation is AWS's premier infrastructure as code service trusted by companies like Netflix, Capital One, and thousands of enterprises to provision and manage cloud resources at scale. As the native AWS solution for infrastructure automation, it handles billions of resource deployments annually while ensuring consistency, compliance, and cost optimization across complex cloud environments.

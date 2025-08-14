@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Zendesk Guide"
 deployment_status: "deployed"
-image: "/images/tools/zendesk-guide-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Knowledge Base & Documentation"]

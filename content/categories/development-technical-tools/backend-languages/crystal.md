@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Backend Languages"
 tool_name: "Crystal"
 deployment_status: "deployed"
-image: "/images/tools/crystal-placeholder.jpg"
 external_link: "https://www.crystal.com"
 ---
 Crystal is the high-performance programming language trusted by companies like 84codes and growing startups to deliver Ruby's elegant syntax with C-level performance and compile-time safety. Born from the desire to combine Ruby's developer happiness with systems programming speed, it achieves near-C performance while maintaining the expressiveness that makes Ruby beloved by developers worldwide.

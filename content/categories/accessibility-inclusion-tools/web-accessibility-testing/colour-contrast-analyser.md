@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Web Accessibility Testing"
 tool_name: "Colour Contrast Analyser"
 deployment_status: "deployed"
-image: "/images/tools/colour-contrast-analyser-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Web Accessibility Testing"]

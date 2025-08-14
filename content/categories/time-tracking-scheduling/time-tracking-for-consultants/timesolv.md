@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Consultants"
 tool_name: "TimeSolv"
 deployment_status: "deployed"
-image: "/images/tools/timesolv-placeholder.jpg"
 external_link: "https://www.timesolv.com"
 ---
 TimeSolv is the time tracking and billing solution designed specifically for consultants and professional service firms. With project budgeting, detailed reporting, and automated invoicing, it helps consultants track profitability and ensure projects stay on budget.

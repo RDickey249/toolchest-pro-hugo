@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Static Site Generators"
 tool_name: "Eleventy"
 deployment_status: "deployed"
-image: "/images/tools/eleventy-placeholder.jpg"
 external_link: "https://www.eleventy.com"
 ---
 Eleventy (11ty) has emerged as the developer's choice for static site generation, earning passionate devotion from creators who value simplicity, performance, and the freedom to use any templating language without being locked into a specific framework or ecosystem. Created by Zach Leatherman, a Netlify engineer obsessed with web performance, Eleventy takes a radically different approach by betting on web standards over JavaScript frameworks, resulting in sites that are 10x smaller and faster than typical Gatsby or Next.js builds. This philosophy has attracted major adopters including Google's web.dev, Mozilla's MDN, and the U.S. Web Design System, who chose Eleventy for its zero-client-JavaScript default and sub-second build times even for sites with thousands of pages. With its unique approach of "use whatever templating language you already know" supporting 11 different engines out of the box, Eleventy eliminates the learning curve while delivering enterprise-grade features through its powerful data cascade and collection system. Whether you're building a personal blog, a government website requiring accessibility compliance, or a high-traffic documentation portal, Eleventy provides the perfect balance of simplicity and power without the JavaScript fatigue plaguing modern web development.

@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Accounting Software"
 tool_name: "FreshBooks"
 deployment_status: "deployed"
-image: "/images/tools/freshbooks-placeholder.jpg"
 tags: ["finance-accounting", "accounting-software"]
 categories: ["Finance & Accounting"]
 subcategories: ["Accounting Software"]

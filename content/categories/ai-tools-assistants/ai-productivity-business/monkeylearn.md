@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "MonkeyLearn"
 deployment_status: "deployed"
-image: "/images/tools/monkeylearn-placeholder.jpg"
 external_link: "https://www.monkeylearn.com"
 ---
 MonkeyLearn is a text analysis platform that uses machine learning to analyze sentiment, extract topics, and classify content from unstructured text data.

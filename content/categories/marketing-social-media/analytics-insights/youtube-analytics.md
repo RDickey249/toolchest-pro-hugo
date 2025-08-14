@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "YouTube Analytics"
 deployment_status: "deployed"
-image: "/images/tools/youtube-analytics-placeholder.jpg"
 external_link: "https://www.youtubeanalytics.com"
 ---
 

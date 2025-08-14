@@ -5,7 +5,6 @@ category: "Design & Creative Tools"
 subcategory: "Video & Animation"
 tool_name: "Adobe After Effects"
 deployment_status: "deployed"
-image: "/images/tools/adobe-after-effects-placeholder.jpg"
 tags: ["design-creative-tools", "video-animation"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Video & Animation"]

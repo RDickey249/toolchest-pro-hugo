@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "Performance Testing"
 tool_name: "JMeter"
 deployment_status: "deployed"
-image: "/images/tools/jmeter-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Performance Testing"]

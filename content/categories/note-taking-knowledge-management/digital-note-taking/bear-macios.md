@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Digital Note-Taking"
 tool_name: "Bear (Mac/iOS)"
 deployment_status: "deployed"
-image: "/images/tools/bear-macios-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "digital-note-taking"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Digital Note-Taking"]

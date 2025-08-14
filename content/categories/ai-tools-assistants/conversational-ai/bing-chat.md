@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Conversational AI"
 tool_name: "Bing Chat"
 deployment_status: "deployed"
-image: "/images/tools/bing-chat-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]

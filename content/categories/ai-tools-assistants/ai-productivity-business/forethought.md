@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Forethought"
 deployment_status: "deployed"
-image: "/images/tools/forethought-placeholder.jpg"
 external_link: "https://www.forethought.com"
 ---
 Forethought is the AI-powered customer support automation platform that handles routine inquiries, predicts customer needs, and empowers human agents with intelligent assistance for scalable service operations.

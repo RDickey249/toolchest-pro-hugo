@@ -5,7 +5,6 @@ category: "🗄️ Database & Data Management"
 subcategory: "NoSQL Databases"
 tool_name: "MongoDB"
 deployment_status: "deployed"
-image: "/images/tools/mongodb-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["NoSQL Databases"]

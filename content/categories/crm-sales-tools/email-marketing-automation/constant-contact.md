@@ -5,7 +5,6 @@ category: "CRM & Sales Tools"
 subcategory: "Email Marketing & Automation"
 tool_name: "Constant Contact"
 deployment_status: "deployed"
-image: "/images/tools/constant-contact-placeholder.jpg"
 tags: ["crm-sales-tools", "email-marketing-automation"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Email Marketing & Automation"]

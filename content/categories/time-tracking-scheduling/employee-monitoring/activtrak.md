@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Monitoring"
 tool_name: "ActivTrak"
 deployment_status: "deployed"
-image: "/images/tools/activtrak-placeholder.jpg"
 external_link: "https://www.activtrak.com"
 rating: 4.3
 starting_price: 29

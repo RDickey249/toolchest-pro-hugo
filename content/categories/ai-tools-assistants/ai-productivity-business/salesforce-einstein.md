@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Productivity & Business"
 tool_name: "Salesforce Einstein"
 deployment_status: "deployed"
-image: "/images/tools/salesforce-einstein-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]

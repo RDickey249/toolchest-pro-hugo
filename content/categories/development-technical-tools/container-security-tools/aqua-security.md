@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Container Security"
 tool_name: "Aqua Security"
 deployment_status: "deployed"
-image: "/images/tools/aqua-security-placeholder.jpg"
 external_link: "https://www.aquasecurity.com"
 ---
 Aqua Security is the leading container-native security platform trusted by over 500 enterprise customers including Nasdaq, Goldman Sachs, and Samsung to secure cloud-native applications. As the first platform designed specifically for container and Kubernetes security, it protects over 10 billion container deployments worldwide.

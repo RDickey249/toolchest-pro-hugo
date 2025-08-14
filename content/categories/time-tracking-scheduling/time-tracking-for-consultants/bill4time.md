@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Consultants"
 tool_name: "Bill4Time"
 deployment_status: "deployed"
-image: "/images/tools/bill4time-placeholder.jpg"
 external_link: "https://www.bill4time.com"
 ---
 Bill4Time is the time tracking and billing platform designed for consultants, attorneys, and professional service providers. With automated invoicing, expense tracking, and detailed reporting, it handles the unique billing requirements of professional services firms.

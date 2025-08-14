@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Prompt Engineering"
 tool_name: "PromptLayer"
 deployment_status: "deployed"
-image: "/images/tools/promptlayer-placeholder.jpg"
 tags: ["ai-tools-assistants", "prompt-engineering"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Prompt Engineering"]

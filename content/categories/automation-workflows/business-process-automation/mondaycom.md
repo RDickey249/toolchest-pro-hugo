@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Business Process Automation"
 tool_name: "Monday.com"
 deployment_status: "deployed"
-image: "/images/tools/mondaycom-placeholder.jpg"
 tags: ["automation-workflows", "business-process-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]

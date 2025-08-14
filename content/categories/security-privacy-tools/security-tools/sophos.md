@@ -5,7 +5,6 @@ category: "Security & Privacy Tools"
 subcategory: "Security Tools"
 tool_name: "Sophos"
 deployment_status: "deployed"
-image: "/images/tools/sophos-placeholder.jpg"
 tags: ["security-privacy-tools", "security-tools"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Security Tools"]

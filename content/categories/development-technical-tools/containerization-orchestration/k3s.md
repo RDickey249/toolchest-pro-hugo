@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Containerization & Orchestration"
 tool_name: "K3s"
 deployment_status: "deployed"
-image: "/images/tools/k3s-placeholder.jpg"
 external_link: "https://www.k3s.com"
 ---
 K3s is the lightweight Kubernetes distribution developed by Rancher and adopted by thousands of organizations including SUSE, AWS, and edge computing leaders for resource-constrained environments. As a CNCF sandbox project, it has become the standard for running Kubernetes on edge devices, IoT deployments, and development environments with minimal overhead.

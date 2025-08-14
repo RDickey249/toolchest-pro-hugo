@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "Ab Testing Optimization"
 tool_name: "Unbounce"
 deployment_status: "deployed"
-image: "/images/tools/unbounce-placeholder.jpg"
 tags: ["testing-quality-assurance", "testing-qa-tools", "performance-testing", "software-testing-frameworks", "ab-testing-optimization"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["A/B Testing & Optimization"]

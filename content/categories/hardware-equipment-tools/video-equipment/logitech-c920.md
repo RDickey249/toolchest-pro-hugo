@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Video Equipment"
 tool_name: "Logitech C920"
 deployment_status: "deployed"
-image: "/images/tools/logitech-c920-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware", "video-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Video Equipment"]

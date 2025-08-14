@@ -5,7 +5,6 @@ tagline: "Video streaming platforms and live broadcast tools"
 category: "Media & Entertainment"
 subcategory: "Video Streaming & Production"
 description: "Video streaming and production platforms enable content creators to broadcast live or share recorded video content with global audiences. From major streaming services to live broadcasting software, these tools provide the infrastructure for modern video entertainment. With features like real-time streaming, professional broadcast tools, and audience engagement features, creators can build communities around their content."
-image: "/images/subcategories/video-streaming-production-placeholder.jpg"
 ---
 
 # Video Streaming & Production

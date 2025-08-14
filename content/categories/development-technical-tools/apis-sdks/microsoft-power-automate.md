@@ -5,7 +5,6 @@ category: "🔗 API & Integration Tools"
 subcategory: "Integration Platforms"
 tool_name: "Microsoft Power Automate"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-power-automate-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]

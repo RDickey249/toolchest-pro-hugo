@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Hootsuite"
 deployment_status: "deployed"
-image: "/images/tools/hootsuite-placeholder.jpg"
 external_link: "https://hootsuite.com"
 ---
 

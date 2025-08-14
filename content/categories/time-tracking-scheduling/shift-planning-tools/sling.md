@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Shift Planning Tools"
 tool_name: "Sling"
 deployment_status: "deployed"
-image: "/images/tools/sling-placeholder.jpg"
 external_link: "https://getsling.com"
 rating: 4.3
 starting_price: 29

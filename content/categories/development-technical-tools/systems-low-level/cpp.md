@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Systems & Low-Level"
 tool_name: "C++"
 deployment_status: "deployed"
-image: "/images/tools/cpp-placeholder.jpg"
 external_link: "https://www.cpp.com"
 ---
 C++ is one of the most influential programming languages in computing history, powering everything from game engines like Unreal Engine to critical infrastructure like Google Chrome and Adobe Creative Suite. Created by Bjarne Stroustrup in 1985, it extends C with object-oriented programming while maintaining the performance that systems programming demands.

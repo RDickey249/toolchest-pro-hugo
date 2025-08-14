@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Brilliant"
 deployment_status: "deployed"
-image: "/images/tools/brilliant-placeholder.jpg"
 external_link: "https://www.brilliant.com"
 ---
 

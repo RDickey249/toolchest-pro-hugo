@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "A/B Testing & Optimization"
 tool_name: "Google Optimize"
 deployment_status: "deployed"
-image: "/images/tools/google-optimize-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["A/B Testing & Optimization"]

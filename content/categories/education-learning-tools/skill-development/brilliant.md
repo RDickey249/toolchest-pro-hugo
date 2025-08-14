@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Skill Development"
 tool_name: "Brilliant"
 deployment_status: "deployed"
-image: "/images/tools/brilliant-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Skill Development"]

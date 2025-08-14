@@ -5,7 +5,6 @@ category: "Communication & Collaboration"
 subcategory: "Team Communication"
 tool_name: "WhatsApp Business"
 deployment_status: "deployed"
-image: "/images/tools/whatsapp-business-placeholder.jpg"
 tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]

@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Web Analytics"
 tool_name: "Adobe Analytics"
 deployment_status: "deployed"
-image: "/images/tools/adobe-analytics-placeholder.jpg"
 tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]

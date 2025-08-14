@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "FluentU"
 deployment_status: "deployed"
-image: "/images/tools/fluentu-placeholder.jpg"
 external_link: "https://www.fluentu.com"
 ---
 

@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Online Learning Platforms"
 tool_name: "MasterClass"
 deployment_status: "deployed"
-image: "/images/tools/masterclass-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Online Learning Platforms"]

@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Task & Project Management"
 tool_name: "2Do"
 deployment_status: "deployed"
-image: "/images/tools/2do-placeholder.jpg"
 tags: ["productivity-task-management", "task-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Task & Project Management"]

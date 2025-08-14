@@ -5,7 +5,6 @@ category: "Communication & Collaboration"
 subcategory: "Team Communication"
 tool_name: "Discord"
 deployment_status: "deployed"
-image: "/images/tools/discord-placeholder.jpg"
 tags: ["communication-collaboration", "team-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Team Communication"]

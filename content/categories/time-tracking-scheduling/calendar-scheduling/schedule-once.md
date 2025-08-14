@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Calendar & Scheduling"
 tool_name: "Schedule Once"
 deployment_status: "deployed"
-image: "/images/tools/schedule-once-placeholder.jpg"
 tags: ["time-tracking-scheduling", "calendar-scheduling"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Calendar & Scheduling"]

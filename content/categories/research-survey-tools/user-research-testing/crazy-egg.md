@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "User Research & Testing"
 tool_name: "Crazy Egg"
 deployment_status: "deployed"
-image: "/images/tools/crazy-egg-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools", "academic-research-tools", "user-research-testing"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["User Research & Testing"]

@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Motion"
 deployment_status: "deployed"
-image: "/images/tools/motion-placeholder.jpg"
 external_link: "https://www.motion.com"
 ---
 Motion is the AI-powered scheduling platform that combines intelligent task management with calendar optimization to automatically organize your day, protect focus time, and ensure deadlines are met.

@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Calendar & Scheduling"
 tool_name: "Outlook Calendar"
 deployment_status: "deployed"
-image: "/images/tools/outlook-calendar-placeholder.jpg"
 tags: ["time-tracking-scheduling", "calendar-scheduling"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Calendar & Scheduling"]

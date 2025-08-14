@@ -5,7 +5,6 @@ tagline: "System monitoring and application observability platforms"
 category: "DevOps & Infrastructure"
 subcategory: "Monitoring & Observability"
 description: "Monitoring and observability tools provide visibility into system health, application performance, and user experience through metrics, logs, and traces. These platforms enable proactive issue detection, performance optimization, and root cause analysis. From infrastructure monitoring to application performance management, these tools ensure systems run reliably and efficiently in production environments."
-image: "/images/subcategories/monitoring-observability-placeholder.jpg"
 ---
 
 # Monitoring & Observability

@@ -5,7 +5,6 @@ category: "💾 Backup & Disaster Recovery"
 subcategory: "Business Backup Solutions"
 tool_name: "Google Cloud Backup"
 deployment_status: "deployed"
-image: "/images/tools/google-cloud-backup-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions", "business-backup-solutions"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Business Backup Solutions"]

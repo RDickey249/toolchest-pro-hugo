@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Attendance Monitoring Tools"
 tool_name: "Jibble"
 deployment_status: "deployed"
-image: "/images/tools/jibble-placeholder.jpg"
 external_link: "https://www.jibble.io"
 rating: 4.3
 starting_price: 29

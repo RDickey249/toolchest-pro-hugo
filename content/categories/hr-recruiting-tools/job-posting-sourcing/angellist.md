@@ -5,7 +5,6 @@ category: "👥 HR & Recruiting Tools"
 subcategory: "Job Posting & Sourcing"
 tool_name: "AngelList"
 deployment_status: "deployed"
-image: "/images/tools/angellist-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Job Posting & Sourcing"]

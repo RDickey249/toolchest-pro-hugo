@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Mobile Frameworks"
 tool_name: "PhoneGap/Cordova"
 deployment_status: "deployed"
-image: "/images/tools/phonegapcordova-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Frameworks"]

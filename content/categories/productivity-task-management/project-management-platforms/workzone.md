@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Workzone"
 deployment_status: "deployed"
-image: "/images/tools/workzone-placeholder.jpg"
 external_link: "https://www.workzone.com"
 ---
 Workzone is the enterprise-grade project management platform designed for organizations that need powerful features with exceptional customer support. Get comprehensive project coordination, resource management, and team collaboration with reliable performance.

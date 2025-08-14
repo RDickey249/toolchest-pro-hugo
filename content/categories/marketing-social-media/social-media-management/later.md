@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Later"
 deployment_status: "deployed"
-image: "/images/tools/later-placeholder.jpg"
 external_link: "https://later.com"
 ---
 

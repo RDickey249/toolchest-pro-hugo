@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Monitoring"
 tool_name: "Teramind"
 deployment_status: "deployed"
-image: "/images/tools/teramind-placeholder.jpg"
 external_link: "https://www.teramind.co"
 rating: 4.3
 starting_price: 29

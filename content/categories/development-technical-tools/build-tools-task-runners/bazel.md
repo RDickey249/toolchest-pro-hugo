@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Build Tools & Task Runners"
 tool_name: "Bazel"
 deployment_status: "deployed"
-image: "/images/tools/bazel-placeholder.jpg"
 external_link: "https://www.bazel.com"
 ---
 Bazel is Google's enterprise-grade build system used internally to build all Google software, from Android to Chrome, handling billions of lines of code daily. It's designed specifically for massive, multi-language codebases that traditional build tools simply can't handle efficiently.

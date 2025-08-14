@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "TikTok Analytics"
 deployment_status: "deployed"
-image: "/images/tools/tiktok-analytics-placeholder.jpg"
 external_link: "https://www.tiktokanalytics.com"
 ---
 

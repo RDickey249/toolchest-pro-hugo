@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Event Marketing Tools"
 tool_name: "Mailchimp"
 deployment_status: "deployed"
-image: "/images/tools/mailchimp-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms", "registration-ticketing", "event-marketing-tools"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Event Marketing Tools"]

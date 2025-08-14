@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Frontend Frameworks"
 tool_name: "Angular"
 deployment_status: "deployed"
-image: "/images/tools/angular-placeholder.jpg"
 tags: ["development-technical-tools", "frontend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Frameworks"]

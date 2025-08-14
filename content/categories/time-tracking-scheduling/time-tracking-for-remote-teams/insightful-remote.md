@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Remote Teams"
 tool_name: "Insightful (Remote)"
 deployment_status: "deployed"
-image: "/images/tools/insightful-remote-placeholder.jpg"
 external_link: "https://www.insightfulremote.com"
 ---
 Insightful (Remote) is the employee monitoring platform designed specifically for remote teams that need visibility into productivity without micromanagement. Track screen time, app usage, and work patterns while maintaining employee privacy and trust.

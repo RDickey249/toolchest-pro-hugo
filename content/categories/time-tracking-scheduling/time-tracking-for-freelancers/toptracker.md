@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Time Tracking For Freelancers"
 tool_name: "TopTracker"
 deployment_status: "deployed"
-image: "/images/tools/toptracker-placeholder.jpg"
 tags: ["time-tracking-scheduling", "time-tracking-for-freelancers"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking for Freelancers"]

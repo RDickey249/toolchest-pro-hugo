@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "Kayako"
 deployment_status: "deployed"
-image: "/images/tools/kayako-placeholder.jpg"
 external_link: "https://www.kayako.com"
 ---
 Kayako is the unified customer service platform trusted by companies like Canon, Mazda, and thousands of growing businesses to create seamless, context-rich customer experiences across every communication channel. This innovative platform revolutionizes customer support by weaving together conversations from email, social media, live chat, and phone calls into a single, continuous thread that preserves the complete customer journey.

@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Redbooth"
 deployment_status: "deployed"
-image: "/images/tools/redbooth-placeholder.jpg"
 external_link: "https://www.redbooth.com"
 ---
 Redbooth is the integrated project management platform that combines advanced planning tools with team collaboration features. Coordinate projects with Gantt charts, task dependencies, and built-in team communication in one unified workspace.

@@ -5,7 +5,6 @@ category: "Security & Privacy Tools"
 subcategory: "VPN Services"
 tool_name: "IPVanish"
 deployment_status: "deployed"
-image: "/images/tools/ipvanish-placeholder.jpg"
 tags: ["security-privacy-tools", "vpn-services"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["VPN Services"]

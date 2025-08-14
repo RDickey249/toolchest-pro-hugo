@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Audio Equipment"
 tool_name: "Beyerdynamic DT 770"
 deployment_status: "deployed"
-image: "/images/tools/beyerdynamic-dt-770-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Audio Equipment"]

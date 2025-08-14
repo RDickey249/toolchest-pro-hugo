@@ -5,7 +5,6 @@ tagline: "User experience research and usability testing tools"
 category: "Research & Survey"
 subcategory: "User Research & Testing"
 description: "User research and testing tools enable organizations to understand how people interact with their products, services, and experiences. These platforms facilitate various research methods including usability testing, card sorting, tree testing, and user interviews. By observing real user behavior and gathering feedback, teams can identify pain points, validate design decisions, and create experiences that truly meet user needs."
-image: "/images/subcategories/user-research-testing-placeholder.jpg"
 ---
 
 # User Research & Testing

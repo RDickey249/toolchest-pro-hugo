@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "HackerRank"
 deployment_status: "deployed"
-image: "/images/tools/hackerrank-placeholder.jpg"
 external_link: "https://www.hackerrank.com"
 ---
 

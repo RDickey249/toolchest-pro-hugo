@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "Instagram Insights"
 deployment_status: "deployed"
-image: "/images/tools/instagram-insights-placeholder.jpg"
 external_link: "https://www.instagraminsights.com"
 ---
 

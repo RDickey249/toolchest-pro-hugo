@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Writing & Content"
 tool_name: "Copy.ai"
 deployment_status: "deployed"
-image: "/images/tools/copyai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-writing-content"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Writing & Content"]

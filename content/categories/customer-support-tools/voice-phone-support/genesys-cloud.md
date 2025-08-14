@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Voice Phone Support"
 tool_name: "Genesys Cloud"
 deployment_status: "deployed"
-image: "/images/tools/genesys-cloud-placeholder.jpg"
 external_link: "https://www.genesyscloud.com"
 ---
 Genesys Cloud is the enterprise customer experience platform trusted by American Express, BMW, and T-Mobile to handle millions of customer interactions daily. It orchestrates seamless customer journeys across voice, digital, and self-service channels with AI-powered insights.

@@ -5,7 +5,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "Music & Audio"
 tool_name: "YouTube Music"
 deployment_status: "deployed"
-image: "/images/tools/youtube-music-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing", "audio-production", "video-creation-editing", "music-audio"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Music & Audio"]

@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Workflow Automation"
 tool_name: "n8n"
 deployment_status: "deployed"
-image: "/images/tools/n8n-placeholder.jpg"
 tags: ["automation-workflows", "workflow-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Workflow Automation"]

@@ -5,7 +5,6 @@ category: "Design & Creative Tools"
 subcategory: "Video & Animation"
 tool_name: "Adobe Premiere Pro"
 deployment_status: "deployed"
-image: "/images/tools/adobe-premiere-pro-placeholder.jpg"
 tags: ["design-creative-tools", "video-animation"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Video & Animation"]

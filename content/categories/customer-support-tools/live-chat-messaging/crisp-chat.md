@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Live Chat Messaging"
 tool_name: "Crisp Chat"
 deployment_status: "deployed"
-image: "/images/tools/crisp-chat-placeholder.jpg"
 external_link: "https://www.crispchat.com"
 ---
 Crisp is the modern all-in-one messaging platform trusted by companies like Klarna, GitBook, and thousands of growing businesses worldwide to unify customer conversations across live chat, email, social media, and SMS into one powerful shared inbox. Built with simplicity and innovation at its core, Crisp transforms customer communication by eliminating the complexity of enterprise solutions while providing advanced features that enhance every customer interaction.

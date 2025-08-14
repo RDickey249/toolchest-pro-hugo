@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cicd Automation"
 tool_name: "Travis CI"
 deployment_status: "deployed"
-image: "/images/tools/travis-ci-placeholder.jpg"
 external_link: "https://www.travisci.com"
 ---
 Travis CI is the pioneering continuous integration service that democratized automated testing for over 900,000 open source projects on GitHub, including Ruby on Rails, Node.js, and React. As the first major CI-as-a-service platform, it made enterprise-grade testing accessible to every developer with simple YAML configuration.

@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Task Project Management"
 tool_name: "Any.do"
 deployment_status: "deployed"
-image: "/images/tools/any-do-placeholder.jpg"
 external_link: "https://www.anydo.com"
 ---
 Any.do revolutionizes personal productivity by combining elegant task management with innovative voice input technology, creating a seamless experience that transforms how you capture, organize, and complete tasks throughout your day. This beautifully designed productivity platform goes beyond traditional to-do lists to provide intelligent scheduling, calendar integration, and collaborative features that help individuals and families stay organized without complexity.

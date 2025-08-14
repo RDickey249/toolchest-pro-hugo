@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Skill Development"
 tool_name: "Treehouse"
 deployment_status: "deployed"
-image: "/images/tools/treehouse-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Skill Development"]

@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "Discord API"
 deployment_status: "deployed"
-image: "/images/tools/discord-api-placeholder.jpg"
 external_link: "https://www.discordapi.com"
 ---
 Discord API powers over 4 million active bots serving 150+ million Discord users monthly, enabling developers to build everything from simple moderation bots to complex gaming integrations. Used by companies like Spotify, YouTube, and Twitch to enhance their Discord communities with custom functionality.

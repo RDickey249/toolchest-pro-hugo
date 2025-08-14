@@ -5,7 +5,6 @@ category: "⚖️ Legal & Compliance Tools"
 subcategory: "Privacy & Compliance"
 tool_name: "GDPR compliance tools"
 deployment_status: "deployed"
-image: "/images/tools/gdpr-compliance-tools-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Privacy & Compliance"]

@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Computer Hardware"
 tool_name: "Apple MacBook"
 deployment_status: "deployed"
-image: "/images/tools/apple-macbook-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Computer Hardware"]

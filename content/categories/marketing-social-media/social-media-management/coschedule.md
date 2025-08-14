@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "CoSchedule"
 deployment_status: "deployed"
-image: "/images/tools/coschedule-placeholder.jpg"
 external_link: "https://www.coschedule.com"
 ---
 

@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Production"
 tool_name: "Ableton Live"
 deployment_status: "deployed"
-image: "/images/tools/ableton-live-placeholder.jpg"
 external_link: "https://www.abletonlive.com"
 ---
 Ableton Live is the innovative digital audio workstation trusted by electronic music producers, live performers, and experimental artists worldwide to create, perform, and manipulate music through its revolutionary dual-view interface that seamlessly combines traditional linear recording with real-time loop-based composition and live performance capabilities. As the DAW that redefined electronic music production, Ableton Live transforms creative workflows by enabling musicians to compose, arrange, and perform music simultaneously through its unique Session View that allows real-time triggering of loops, samples, and effects for dynamic live performances and spontaneous composition.

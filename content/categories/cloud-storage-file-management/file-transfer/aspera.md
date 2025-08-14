@@ -5,7 +5,6 @@ category: "Cloud Storage & File Management"
 subcategory: "File Transfer"
 tool_name: "Aspera"
 deployment_status: "deployed"
-image: "/images/tools/aspera-placeholder.jpg"
 tags: ["cloud-storage-file-management", "file-transfer"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["File Transfer"]

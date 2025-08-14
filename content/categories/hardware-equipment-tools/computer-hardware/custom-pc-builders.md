@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Computer Hardware"
 tool_name: "Custom PC Builders"
 deployment_status: "deployed"
-image: "/images/tools/custom-pc-builders-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Computer Hardware"]

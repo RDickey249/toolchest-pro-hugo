@@ -5,7 +5,6 @@ category: "💾 Backup & Disaster Recovery"
 subcategory: "Personal Backup Solutions"
 tool_name: "Acronis True Image"
 deployment_status: "deployed"
-image: "/images/tools/acronis-true-image-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Personal Backup Solutions"]

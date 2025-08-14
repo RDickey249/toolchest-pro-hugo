@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Container & Orchestration"
 tool_name: "LXC/LXD"
 deployment_status: "deployed"
-image: "/images/tools/lxc-lxd-placeholder.jpg"
 external_link: "https://www.lxclxd.com"
 ---
 LXC/LXD is Canonical's system container platform that bridges the gap between traditional VMs and application containers, powering infrastructure for companies like Tesla, Deutsche Telekom, and CERN. Unlike Docker's application containers, it runs complete Linux systems with init processes and multiple services.

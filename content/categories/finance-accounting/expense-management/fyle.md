@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Expense Management"
 tool_name: "Fyle"
 deployment_status: "deployed"
-image: "/images/tools/fyle-placeholder.jpg"
 tags: ["finance-accounting", "expense-management"]
 categories: ["Finance & Accounting"]
 subcategories: ["Expense Management"]

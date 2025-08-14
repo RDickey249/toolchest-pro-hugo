@@ -5,7 +5,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "Audio Production"
 tool_name: "Ableton Live"
 deployment_status: "deployed"
-image: "/images/tools/ableton-live-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Audio Production"]

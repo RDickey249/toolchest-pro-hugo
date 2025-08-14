@@ -6,7 +6,6 @@ categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Api Testing Tools"
 tool_name: "Thunder Client"
 deployment_status: "deployed"
-image: "/images/tools/thunder-client-placeholder.jpg"
 external_link: "https://www.thunderclient.com"
 ---
 Thunder Client revolutionizes developer-focused API testing by seamlessly integrating comprehensive REST client capabilities directly into Visual Studio Code, eliminating context switching and external tool dependencies while providing developers with immediate, in-editor API testing that enhances development workflows. This innovative VS Code extension transforms API development from a fragmented, multi-tool process into a streamlined, integrated experience that keeps developers focused on code while providing powerful API testing, debugging, and validation capabilities within their familiar development environment.

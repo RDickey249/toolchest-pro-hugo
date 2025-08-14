@@ -5,7 +5,6 @@ category: "📢 Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "Booking.com"
 deployment_status: "deployed"
-image: "/images/tools/booking-com-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]

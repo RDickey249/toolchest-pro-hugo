@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Project Management Platforms"
 tool_name: "Linear"
 deployment_status: "deployed"
-image: "/images/tools/linear-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]

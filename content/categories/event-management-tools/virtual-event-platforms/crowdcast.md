@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Virtual Event Platforms"
 tool_name: "Crowdcast"
 deployment_status: "deployed"
-image: "/images/tools/crowdcast-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Virtual Event Platforms"]

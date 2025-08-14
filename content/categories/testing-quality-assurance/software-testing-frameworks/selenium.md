@@ -6,7 +6,6 @@ categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Software Testing Frameworks"
 tool_name: "Selenium"
 deployment_status: "deployed"
-image: "/images/tools/selenium-placeholder.jpg"
 external_link: "https://www.selenium.com"
 ---
 Selenium revolutionizes web testing by providing the most comprehensive and widely-adopted browser automation framework that transforms manual testing bottlenecks into scalable, reliable automated validation processes across any browser, platform, or programming language. This industry-standard platform has become the backbone of web application testing worldwide, enabling teams to achieve comprehensive test coverage, cross-browser compatibility, and continuous delivery confidence through powerful automation capabilities.

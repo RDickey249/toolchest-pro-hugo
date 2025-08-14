@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Anki"
 deployment_status: "deployed"
-image: "/images/tools/anki-placeholder.jpg"
 external_link: "https://www.anki.com"
 ---
 

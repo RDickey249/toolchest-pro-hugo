@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Monitoring Observability"
 tool_name: "Elastic Stack"
 deployment_status: "deployed"
-image: "/images/tools/elastic-stack-placeholder.jpg"
 external_link: "https://www.elasticstack.com"
 ---
 The Elastic Stack is the world's most popular open-source search and analytics platform, used by over 50% of Fortune 500 companies including Netflix, Microsoft, and The New York Times to power everything from application search to enterprise observability. Processing over 3 billion documents daily, it's the foundation of modern data-driven operations.

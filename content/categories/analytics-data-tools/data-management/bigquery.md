@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Data Management"
 tool_name: "BigQuery"
 deployment_status: "deployed"
-image: "/images/tools/bigquery-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]

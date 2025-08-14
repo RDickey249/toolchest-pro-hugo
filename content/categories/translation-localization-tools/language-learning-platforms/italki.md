@@ -5,7 +5,6 @@ category: "🌍 Translation & Localization Tools"
 subcategory: "Language Learning Platforms"
 tool_name: "italki"
 deployment_status: "deployed"
-image: "/images/tools/italki-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms", "cultural-adaptation-tools", "localization-management", "language-learning-platforms"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Language Learning Platforms"]

@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Adobe Podcast"
 deployment_status: "deployed"
-image: "/images/tools/adobe-podcast-placeholder.jpg"
 external_link: "https://www.adobepodcast.com"
 ---
 Adobe Podcast is an AI-powered audio enhancement platform that transforms amateur recordings into professional-quality sound. Remove background noise, echo, and room reverb with one-click processing through a simple web interface.
@@ -18,7 +17,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Adobe Podcast"
 deployment_status: "deployed"
-image: "/images/tools/adobe-podcast-placeholder.jpg"
 ---
 
 # Adobe Podcast

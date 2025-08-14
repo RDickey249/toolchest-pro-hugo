@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base Documentation"
 tool_name: "Help Scout Docs"
 deployment_status: "deployed"
-image: "/images/tools/helpscout-docs-placeholder.jpg"
 external_link: "https://www.helpscoutdocs.com"
 ---
 Help Scout Docs is the beautifully simple knowledge base platform trusted by companies like Buffer, Shopify, and thousands of customer-focused teams worldwide to create helpful documentation that actually gets used without the complexity and overwhelming features of traditional knowledge management platforms. As part of the Help Scout customer support ecosystem, Docs transforms how teams approach self-service support by making documentation creation and discovery effortless for both creators and users.

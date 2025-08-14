@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Frontend Languages"
 tool_name: "Less"
 deployment_status: "deployed"
-image: "/images/tools/less-placeholder.jpg"
 external_link: "https://www.less.com"
 ---
 

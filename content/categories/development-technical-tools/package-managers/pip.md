@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Package Managers"
 tool_name: "pip"
 deployment_status: "deployed"
-image: "/images/tools/pip-placeholder.jpg"
 external_link: "https://www.pip.com"
 ---
 pip is Python's standard package installer with over 400,000 packages available on PyPI, used by millions of developers worldwide to manage Python libraries and dependencies. It's the essential tool that connects you to the entire Python ecosystem.

@@ -5,7 +5,6 @@ category: "Design & Creative Tools"
 subcategory: "Graphic Design"
 tool_name: "Canva"
 deployment_status: "deployed"
-image: "/images/tools/canva-placeholder.jpg"
 tags: ["design-creative-tools", "graphic-design"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Graphic Design"]

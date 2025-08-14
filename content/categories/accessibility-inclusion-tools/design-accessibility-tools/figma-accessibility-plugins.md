@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Design Accessibility Tools"
 tool_name: "Figma accessibility plugins"
 deployment_status: "deployed"
-image: "/images/tools/figma-accessibility-plugins-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Design Accessibility Tools"]

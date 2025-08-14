@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "DevOps & Infrastructure"
 tool_name: "Chef"
 deployment_status: "deployed"
-image: "/images/tools/chef-placeholder.jpg"
 external_link: "https://www.chef.com"
 ---
 Chef is the enterprise infrastructure automation platform used by over 10,000 organizations including Facebook, Bloomberg, and Nordstrom to manage millions of servers worldwide. With over a decade of proven reliability, it's the gold standard for infrastructure as code in large-scale environments.

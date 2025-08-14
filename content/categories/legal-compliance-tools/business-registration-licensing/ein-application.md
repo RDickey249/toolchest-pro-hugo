@@ -5,7 +5,6 @@ category: "⚖️ Legal & Compliance Tools"
 subcategory: "Business Registration & Licensing"
 tool_name: "EIN application"
 deployment_status: "deployed"
-image: "/images/tools/ein-application-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance", "business-registration-licensing"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Business Registration & Licensing"]

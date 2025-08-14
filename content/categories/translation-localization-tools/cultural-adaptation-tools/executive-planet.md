@@ -5,7 +5,6 @@ category: "🌍 Translation & Localization Tools"
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Executive Planet"
 deployment_status: "deployed"
-image: "/images/tools/executive-planet-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms", "cultural-adaptation-tools"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Cultural Adaptation Tools"]

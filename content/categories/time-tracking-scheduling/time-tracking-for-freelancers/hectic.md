@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Freelancers"
 tool_name: "Hectic"
 deployment_status: "deployed"
-image: "/images/tools/hectic-placeholder.jpg"
 external_link: "https://www.hectic.com"
 ---
 Hectic is the all-in-one business management platform designed specifically for freelancers and solopreneurs. With time tracking, client management, project organization, and automated invoicing, it handles every aspect of running a freelance business from one dashboard.

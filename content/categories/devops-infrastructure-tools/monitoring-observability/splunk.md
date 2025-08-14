@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Monitoring & Observability"
 tool_name: "Splunk"
 deployment_status: "deployed"
-image: "/images/tools/splunk-placeholder.jpg"
 tags: ["devops-infrastructure-tools", "development-technical-tools", "cicd-automation", "cloud-platforms", "container-orchestration", "monitoring-observability"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Monitoring & Observability"]

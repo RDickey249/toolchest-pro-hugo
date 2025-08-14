@@ -5,7 +5,6 @@ category: "👥 HR & Recruiting Tools"
 subcategory: "Employee Engagement & Performance"
 tool_name: "15Five"
 deployment_status: "deployed"
-image: "/images/tools/15five-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems", "background-checks-verification", "employee-engagement-performance"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Employee Engagement & Performance"]

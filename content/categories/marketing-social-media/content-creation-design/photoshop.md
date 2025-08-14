@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Content Creation Design"
 tool_name: "Photoshop"
 deployment_status: "deployed"
-image: "/images/tools/photoshop-placeholder.jpg"
 external_link: "https://www.photoshop.com"
 ---
 

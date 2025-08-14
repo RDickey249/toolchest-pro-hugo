@@ -5,7 +5,6 @@ category: "💾 Backup & Disaster Recovery"
 subcategory: "Disaster Recovery Platforms"
 tool_name: "AWS Disaster Recovery"
 deployment_status: "deployed"
-image: "/images/tools/aws-disaster-recovery-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions", "business-backup-solutions", "disaster-recovery-platforms"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Disaster Recovery Platforms"]

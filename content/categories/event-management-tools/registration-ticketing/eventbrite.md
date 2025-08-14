@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Registration & Ticketing"
 tool_name: "Eventbrite"
 deployment_status: "deployed"
-image: "/images/tools/eventbrite-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms", "registration-ticketing"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Registration & Ticketing"]

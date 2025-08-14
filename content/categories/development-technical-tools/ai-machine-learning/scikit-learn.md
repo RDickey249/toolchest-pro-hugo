@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "AI & Machine Learning"
 tool_name: "Scikit-learn"
 deployment_status: "deployed"
-image: "/images/tools/scikit-learn-placeholder.jpg"
 external_link: "https://www.scikitlearn.com"
 ---
 Scikit-learn is the world's most popular machine learning library, trusted by millions of data scientists and researchers at companies like Spotify, Evernote, and institutions like NASA to build production machine learning models. With over 2.5 billion downloads and backing from major tech companies, it has become the foundational toolkit for classical machine learning and data science.

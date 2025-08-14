@@ -5,7 +5,6 @@ category: "🔗 API & Integration Tools"
 subcategory: "Integration Platforms"
 tool_name: "Integromat (Make)"
 deployment_status: "deployed"
-image: "/images/tools/integromat-make-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Integration Platforms"]

@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Authentication & Authorization"
 tool_name: "OAuth 2.0"
 deployment_status: "deployed"
-image: "/images/tools/oauth-2-0-placeholder.jpg"
 external_link: "https://www.oauth20.com"
 ---
 OAuth 2.0 is the foundational authorization framework trusted by companies like Google, Microsoft, and virtually every major platform to secure API access for billions of users daily. As the internet's most widely adopted authorization standard, it enables applications to access user data securely without exposing passwords, powering everything from social media integrations to enterprise single sign-on systems.

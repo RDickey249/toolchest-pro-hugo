@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Mobile Frameworks"
 tool_name: "Ionic"
 deployment_status: "deployed"
-image: "/images/tools/ionic-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Frameworks"]

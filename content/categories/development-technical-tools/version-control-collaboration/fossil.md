@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Version Control & Collaboration"
 tool_name: "Fossil"
 deployment_status: "deployed"
-image: "/images/tools/fossil-placeholder.jpg"
 external_link: "https://www.fossil.com"
 ---
 Fossil is the all-in-one distributed version control system trusted by SQLite developers and security-conscious organizations to manage complete software projects without external dependencies. Created by the same team behind SQLite, it provides integrated bug tracking, wiki documentation, and web interfaces in a single, tamper-evident executable that ensures data integrity.

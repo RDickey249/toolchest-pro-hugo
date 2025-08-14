@@ -5,7 +5,6 @@ category: "Design & Creative Tools"
 subcategory: "Graphic Design"
 tool_name: "Gravit Designer"
 deployment_status: "deployed"
-image: "/images/tools/gravit-designer-placeholder.jpg"
 tags: ["design-creative-tools", "graphic-design"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Graphic Design"]

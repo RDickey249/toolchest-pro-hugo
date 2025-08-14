@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cloud Platforms"
 tool_name: "Microsoft Azure"
 deployment_status: "deployed"
-image: "/images/tools/azure-placeholder.jpg"
 external_link: "https://www.microsoftazure.com"
 ---
 Microsoft Azure is the comprehensive cloud platform trusted by 95% of Fortune 500 companies including Coca-Cola, Boeing, and H&R Block to power their digital transformation with seamless Microsoft ecosystem integration. This enterprise-focused platform provides over 200 cloud services across compute, networking, AI, and data analytics, with global availability spanning 60+ regions worldwide.

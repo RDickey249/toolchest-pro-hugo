@@ -5,7 +5,6 @@ category: "Cloud Storage & File Management"
 subcategory: "File Transfer"
 tool_name: "WeTransfer"
 deployment_status: "deployed"
-image: "/images/tools/wetransfer-placeholder.jpg"
 tags: ["cloud-storage-file-management", "file-transfer"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["File Transfer"]

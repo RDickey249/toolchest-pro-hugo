@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Writing & Content"
 tool_name: "ProWritingAid"
 deployment_status: "deployed"
-image: "/images/tools/prowritingaid-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-writing-content"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Writing & Content"]

@@ -5,7 +5,6 @@ category: "🗄️ Database & Data Management"
 subcategory: "Relational Databases"
 tool_name: "Google Cloud SQL"
 deployment_status: "deployed"
-image: "/images/tools/google-cloud-sql-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases", "data-warehousing-analytics", "relational-databases"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["Relational Databases"]

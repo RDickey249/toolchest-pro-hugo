@@ -5,7 +5,6 @@ category: "💾 Backup & Disaster Recovery"
 subcategory: "Disaster Recovery Platforms"
 tool_name: "Datto"
 deployment_status: "deployed"
-image: "/images/tools/datto-placeholder.jpg"
 tags: ["backup-disaster-recovery", "backup-recovery", "personal-backup-solutions", "business-backup-solutions", "disaster-recovery-platforms"]
 categories: ["💾 Backup & Disaster Recovery"]
 subcategories: ["Disaster Recovery Platforms"]

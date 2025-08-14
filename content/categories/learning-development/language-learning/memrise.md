@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Language Learning"
 tool_name: "Memrise"
 deployment_status: "deployed"
-image: "/images/tools/memrise-placeholder.jpg"
 external_link: "https://www.memrise.com"
 ---
 

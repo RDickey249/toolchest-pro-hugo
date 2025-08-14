@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Code Quality & Linting"
 tool_name: "Stylelint"
 deployment_status: "deployed"
-image: "/images/tools/stylelint-placeholder.jpg"
 external_link: "https://www.stylelint.com"
 ---
 Stylelint is the industry-leading CSS linter trusted by companies like WordPress, Bootstrap, and thousands of frontend teams to maintain pristine stylesheets across large codebases. With over 170 built-in rules and comprehensive support for modern CSS, preprocessors, and CSS-in-JS, it has become the definitive tool for CSS code quality and consistency.

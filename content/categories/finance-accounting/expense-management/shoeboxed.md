@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Expense Management"
 tool_name: "Shoeboxed"
 deployment_status: "deployed"
-image: "/images/tools/shoeboxed-placeholder.jpg"
 tags: ["finance-accounting", "expense-management"]
 categories: ["Finance & Accounting"]
 subcategories: ["Expense Management"]

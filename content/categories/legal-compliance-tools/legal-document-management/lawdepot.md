@@ -5,7 +5,6 @@ category: "⚖️ Legal & Compliance Tools"
 subcategory: "Legal Document Management"
 tool_name: "LawDepot"
 deployment_status: "deployed"
-image: "/images/tools/lawdepot-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance", "business-registration-licensing", "legal-document-management"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Legal Document Management"]

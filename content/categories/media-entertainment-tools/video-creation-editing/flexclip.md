@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "FlexClip"
 deployment_status: "deployed"
-image: "/images/tools/flexclip-placeholder.jpg"
 external_link: "https://www.flexclip.com"
 ---
 FlexClip is a browser-based video creation platform that combines professional templates with intuitive drag-and-drop editing. It enables businesses and content creators to produce polished marketing videos, social media content, and presentations without expensive software or technical expertise.

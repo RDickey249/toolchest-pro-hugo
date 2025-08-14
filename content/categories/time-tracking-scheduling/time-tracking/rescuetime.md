@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Time Tracking"
 tool_name: "RescueTime"
 deployment_status: "deployed"
-image: "/images/tools/rescuetime-placeholder.jpg"
 tags: ["time-tracking-scheduling", "time-tracking"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking"]

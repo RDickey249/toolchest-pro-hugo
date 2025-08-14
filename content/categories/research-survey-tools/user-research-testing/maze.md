@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "User Research & Testing"
 tool_name: "Maze"
 deployment_status: "deployed"
-image: "/images/tools/maze-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools", "academic-research-tools", "user-research-testing"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["User Research & Testing"]

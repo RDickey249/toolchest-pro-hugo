@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "DataCamp"
 deployment_status: "deployed"
-image: "/images/tools/datacamp-placeholder.jpg"
 external_link: "https://www.datacamp.com"
 ---
 

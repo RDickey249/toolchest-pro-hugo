@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Code Editors & IDEs"
 tool_name: "Visual Studio Code"
 deployment_status: "deployed"
-image: "/images/tools/visual-studio-code-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]

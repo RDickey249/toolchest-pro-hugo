@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Package Managers & Registries"
 tool_name: "Cargo"
 deployment_status: "deployed"
-image: "/images/tools/cargo-placeholder.jpg"
 external_link: "https://www.cargo.com"
 ---
 Cargo is Rust's official package manager and build system that has revolutionized systems programming by making package management as elegant as the language itself. With over 100,000 packages on crates.io and growing rapidly, it powers the entire Rust ecosystem from embedded systems to web services.

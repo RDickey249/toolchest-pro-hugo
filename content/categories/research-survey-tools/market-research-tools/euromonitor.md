@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "Market Research Tools"
 tool_name: "Euromonitor"
 deployment_status: "deployed"
-image: "/images/tools/euromonitor-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Market Research Tools"]

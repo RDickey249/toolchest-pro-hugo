@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Productivity & Business"
 tool_name: "Otter.ai"
 deployment_status: "deployed"
-image: "/images/tools/otterai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]

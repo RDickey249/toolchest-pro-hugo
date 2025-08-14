@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Online Learning Platforms"
 tool_name: "Coursera - University courses online"
 deployment_status: "deployed"
-image: "/images/tools/coursera-placeholder.jpg"
 external_link: "https://www.coursera.org/"
 ---
 Coursera is the world's leading online learning platform, partnering with top universities and companies to offer high-quality education accessible to everyone, everywhere.

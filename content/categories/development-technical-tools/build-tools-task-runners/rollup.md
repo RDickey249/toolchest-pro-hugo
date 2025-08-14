@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Build Tools & Task Runners"
 tool_name: "Rollup"
 deployment_status: "deployed"
-image: "/images/tools/rollup-placeholder.jpg"
 external_link: "https://www.rollup.com"
 ---
 Rollup is the precision JavaScript bundler trusted by libraries like Vue.js, React, and D3 to create ultra-efficient bundles through advanced tree-shaking optimization. As the preferred tool for library authors and performance-conscious developers, it produces cleaner, smaller bundles by leveraging ES modules' static structure to eliminate dead code with surgical precision.

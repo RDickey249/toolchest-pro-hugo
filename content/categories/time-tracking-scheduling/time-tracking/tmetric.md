@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
 tool_name: "TMetric"
 deployment_status: "deployed"
-image: "/images/tools/tmetric-placeholder.jpg"
 external_link: "https://www.tmetric.com"
 ---
 TMetric is the intelligent time tracking platform that balances comprehensive monitoring with user privacy and control. Track time automatically, manage projects, and generate detailed insights without invasive surveillance.

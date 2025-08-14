@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Time Tracking"
 tool_name: "Toggl"
 deployment_status: "deployed"
-image: "/images/tools/toggl-placeholder.jpg"
 tags: ["time-tracking-scheduling", "time-tracking"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Time Tracking"]

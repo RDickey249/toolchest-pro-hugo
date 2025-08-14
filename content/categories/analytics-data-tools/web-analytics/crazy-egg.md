@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Web Analytics"
 tool_name: "Crazy Egg"
 deployment_status: "deployed"
-image: "/images/tools/crazy-egg-placeholder.jpg"
 tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]

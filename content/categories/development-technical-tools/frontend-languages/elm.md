@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Frontend Languages"
 tool_name: "Elm"
 deployment_status: "deployed"
-image: "/images/tools/elm-placeholder.jpg"
 external_link: "https://www.elm.com"
 ---
 Elm is the purely functional programming language that guarantees zero runtime exceptions, trusted by companies like NoRedInk and various organizations to build rock-solid web applications with unprecedented reliability. This innovative language eliminates entire categories of bugs through its advanced type system and functional programming principles, making it impossible to experience the runtime crashes that plague traditional JavaScript applications.

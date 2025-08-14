@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Web Analytics"
 tool_name: "Hotjar"
 deployment_status: "deployed"
-image: "/images/tools/hotjar-placeholder.jpg"
 tags: ["analytics-data-tools", "web-analytics"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Web Analytics"]

@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Shift Planning Tools"
 tool_name: "Deputy"
 deployment_status: "deployed"
-image: "/images/tools/deputy-placeholder.jpg"
 external_link: "https://deputy.com"
 rating: 4.3
 starting_price: 29

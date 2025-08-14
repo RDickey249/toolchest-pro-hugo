@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "Help Scout"
 deployment_status: "deployed"
-image: "/images/tools/help-scout-placeholder.jpg"
 external_link: "https://www.helpscout.com"
 ---
 Help Scout is the beautifully simple help desk platform trusted by over 12,000 companies including Buffer, Basecamp, and Lonely Planet to deliver personal, human customer support that feels more like email than traditional ticketing software. Designed specifically for growing businesses that want to maintain meaningful customer relationships as they scale, this platform removes the complexity that typically comes with enterprise help desk systems.

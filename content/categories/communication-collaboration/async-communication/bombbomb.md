@@ -5,7 +5,6 @@ category: "Communication & Collaboration"
 subcategory: "Async Communication"
 tool_name: "BombBomb"
 deployment_status: "deployed"
-image: "/images/tools/bombbomb-placeholder.jpg"
 tags: ["communication-collaboration", "async-communication"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Async Communication"]

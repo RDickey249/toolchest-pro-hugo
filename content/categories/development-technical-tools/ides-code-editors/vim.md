@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "IDEs & Code Editors"
 tool_name: "Vim"
 deployment_status: "deployed"
-image: "/images/tools/vim-placeholder.jpg"
 external_link: "https://www.vim.com"
 ---
 Vim is the legendary modal text editor that has defined efficient text editing for over 30 years, used by millions of developers including Linux Torvalds, Google engineers, and countless system administrators worldwide. Originally created by Bram Moolenaar in 1991, it remains the most ubiquitous editor in existence, pre-installed on virtually every Unix-like system.

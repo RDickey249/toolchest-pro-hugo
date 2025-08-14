@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Voice Phone Support"
 tool_name: "Aircall"
 deployment_status: "deployed"
-image: "/images/tools/aircall-placeholder.jpg"
 external_link: "https://www.aircall.com"
 ---
 Aircall is the cloud-based phone system trusted by companies like Shopify, Intercom, and thousands of modern businesses worldwide to transform traditional telephony into intelligent, integrated communication that drives sales and support success. Built specifically for remote and hybrid teams, Aircall eliminates the complexity of traditional phone systems while providing enterprise-grade features that integrate seamlessly with popular CRM and helpdesk platforms.

@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Favro"
 deployment_status: "deployed"
-image: "/images/tools/favro-placeholder.jpg"
 external_link: "https://www.favro.com"
 ---
 Favro is the flexible project management platform built for agile teams who need more than rigid templates. Whether you work in Kanban, Scrum, or your own hybrid methodology, Favro adapts to your team's workflow instead of forcing you into a predetermined structure.

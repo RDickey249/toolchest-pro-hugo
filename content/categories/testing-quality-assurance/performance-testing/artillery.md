@@ -6,7 +6,6 @@ categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Performance Testing"
 tool_name: "Artillery"
 deployment_status: "deployed"
-image: "/images/tools/artillery-placeholder.jpg"
 external_link: "https://www.artillery.com"
 ---
 Artillery revolutionizes performance testing by providing the most modern and developer-friendly load testing platform that transforms complex performance validation into streamlined testing workflows through simple YAML configuration, comprehensive protocol support, and seamless CI/CD integration designed specifically for developers and SREs who require reliable performance testing without complex setup or specialized expertise. This innovative platform establishes the foundation for continuous performance validation that ensures applications and APIs can handle production traffic with confidence.

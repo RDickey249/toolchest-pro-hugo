@@ -5,7 +5,6 @@ tagline: "Real-time customer communication tools"
 category: "Customer Support"
 subcategory: "Live Chat & Messaging"
 description: "Live chat and messaging tools enable businesses to provide instant support through real-time conversations. These platforms integrate with websites, mobile apps, and social media channels to meet customers where they are. With features like chatbots, canned responses, and visitor tracking, support teams can handle multiple conversations efficiently while maintaining personal connections with customers."
-image: "/images/subcategories/live-chat-messaging-placeholder.jpg"
 ---
 
 # Live Chat & Messaging

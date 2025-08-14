@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Calendar & Scheduling"
 tool_name: "Acuity Scheduling"
 deployment_status: "deployed"
-image: "/images/tools/acuity-scheduling-placeholder.jpg"
 tags: ["time-tracking-scheduling", "calendar-scheduling"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Calendar & Scheduling"]

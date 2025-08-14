@@ -5,7 +5,6 @@ tagline: "Large-scale data processing and analytics platforms"
 category: "Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 description: "Data warehousing and analytics platforms handle massive datasets for business intelligence, machine learning, and advanced analytics. These systems provide columnar storage, distributed processing, and specialized query engines optimized for analytical workloads. From cloud-native solutions to big data frameworks, these platforms enable organizations to extract insights from petabytes of data."
-image: "/images/subcategories/data-warehousing-analytics-placeholder.jpg"
 ---
 
 # Data Warehousing & Analytics

@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cicd Automation"
 tool_name: "Bamboo"
 deployment_status: "deployed"
-image: "/images/tools/bamboo-placeholder.jpg"
 external_link: "https://www.bamboo.com"
 ---
 Bamboo is Atlassian's enterprise-grade continuous integration and deployment server, trusted by thousands of organizations including NASA, LinkedIn, and BMW to automate their software delivery pipelines. This powerful CI/CD platform provides deep integration with the Atlassian ecosystem, making it the natural choice for teams already using Jira, Bitbucket, and Confluence.

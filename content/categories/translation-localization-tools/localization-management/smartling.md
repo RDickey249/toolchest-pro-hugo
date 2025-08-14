@@ -5,7 +5,6 @@ category: "🌍 Translation & Localization Tools"
 subcategory: "Localization Management"
 tool_name: "Smartling"
 deployment_status: "deployed"
-image: "/images/tools/smartling-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms", "cultural-adaptation-tools", "localization-management"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Localization Management"]

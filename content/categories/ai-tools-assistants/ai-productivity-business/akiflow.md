@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Akiflow"
 deployment_status: "deployed"
-image: "/images/tools/akiflow-placeholder.jpg"
 external_link: "https://www.akiflow.com"
 ---
 Akiflow is the unified task management platform that consolidates work from email, Slack, project tools, and calendars into one organized workspace. Stop switching between apps and manage everything from a single command center.

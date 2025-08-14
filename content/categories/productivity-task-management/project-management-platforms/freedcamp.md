@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Freedcamp"
 deployment_status: "deployed"
-image: "/images/tools/freedcamp-placeholder.jpg"
 external_link: "https://www.freedcamp.com"
 ---
 Freedcamp is the comprehensive project management platform offering enterprise-level features completely free for unlimited users, making professional project coordination accessible to any organization regardless of budget.

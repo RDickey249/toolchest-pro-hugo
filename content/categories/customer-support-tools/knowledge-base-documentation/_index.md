@@ -5,7 +5,6 @@ tagline: "Self-service support and help documentation"
 category: "Customer Support"
 subcategory: "Knowledge Base & Documentation"
 description: "Knowledge base and documentation tools empower customers to find answers independently through searchable articles, FAQs, tutorials, and guides. These self-service platforms reduce support ticket volume while improving customer satisfaction by providing instant access to information. With features like article versioning, feedback collection, and analytics, businesses can continuously improve their documentation to better serve customer needs."
-image: "/images/subcategories/knowledge-base-documentation-placeholder.jpg"
 ---
 
 # Knowledge Base & Documentation

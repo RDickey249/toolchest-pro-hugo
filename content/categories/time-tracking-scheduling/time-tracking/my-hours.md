@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
 tool_name: "My Hours"
 deployment_status: "deployed"
-image: "/images/tools/my-hours-placeholder.jpg"
 external_link: "https://www.myhours.com"
 ---
 My Hours is the comprehensive time tracking platform that balances powerful features with user-friendly design. Track time on projects, manage teams, generate reports, and create invoices with an interface that's easy for everyone to use.

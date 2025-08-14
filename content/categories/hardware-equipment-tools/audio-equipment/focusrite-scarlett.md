@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Audio Equipment"
 tool_name: "Focusrite Scarlett"
 deployment_status: "deployed"
-image: "/images/tools/focusrite-scarlett-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Audio Equipment"]

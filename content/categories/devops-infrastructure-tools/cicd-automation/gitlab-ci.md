@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cicd Automation"
 tool_name: "GitLab CI"
 deployment_status: "deployed"
-image: "/images/tools/gitlab-ci-placeholder.jpg"
 external_link: "https://www.gitlabci.com"
 ---
 GitLab CI/CD is the comprehensive DevOps platform trusted by companies like Goldman Sachs, NVIDIA, and Siemens to deliver software faster with built-in security and compliance. As the industry's most complete DevOps solution, it eliminates tool sprawl by providing everything from source code management to production monitoring in a single, integrated platform.

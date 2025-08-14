@@ -5,7 +5,6 @@ category: "🛍️ E-commerce & Business Tools"
 subcategory: "Payment Processing"
 tool_name: "Authorize.Net"
 deployment_status: "deployed"
-image: "/images/tools/authorizenet-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management", "payment-processing"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Payment Processing"]

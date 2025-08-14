@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Invoicing & Payments"
 tool_name: "Stripe"
 deployment_status: "deployed"
-image: "/images/tools/stripe-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]

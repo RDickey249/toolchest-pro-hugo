@@ -6,7 +6,6 @@ categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "Workato"
 deployment_status: "deployed"
-image: "/images/tools/workato-placeholder.jpg"
 external_link: "https://www.workato.com"
 ---
 Workato revolutionizes enterprise automation by combining AI-powered workflow orchestration with intelligent process automation that enables Fortune 500 companies to connect and automate their most complex business processes across thousands of applications and systems. This sophisticated platform transforms traditional automation approaches through its unique recipe-based architecture that makes complex integrations maintainable while providing the enterprise-grade governance and security that large organizations demand.

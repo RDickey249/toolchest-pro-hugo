@@ -5,7 +5,6 @@ category: "🔗 API & Integration Tools"
 subcategory: "Webhook & Real-time Tools"
 tool_name: "Pusher"
 deployment_status: "deployed"
-image: "/images/tools/pusher-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Webhook & Real-time Tools"]

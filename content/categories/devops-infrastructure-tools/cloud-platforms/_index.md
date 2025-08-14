@@ -5,7 +5,6 @@ tagline: "Infrastructure-as-a-Service providers and cloud computing platforms"
 category: "DevOps & Infrastructure"
 subcategory: "Cloud Platforms"
 description: "Cloud platforms provide on-demand computing resources including servers, storage, databases, and networking through the internet. These Infrastructure-as-a-Service (IaaS) providers enable organizations to scale resources dynamically, reduce capital expenses, and deploy applications globally. From hyperscale providers offering comprehensive services to specialized platforms focusing on simplicity and developer experience, cloud platforms form the foundation of modern digital infrastructure."
-image: "/images/subcategories/cloud-platforms-placeholder.jpg"
 ---
 
 # Cloud Platforms

@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Frontend Languages"
 tool_name: "JavaScript"
 deployment_status: "deployed"
-image: "/images/tools/javascript-placeholder.jpg"
 tags: ["development-technical-tools", "frontend-languages"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Frontend Languages"]

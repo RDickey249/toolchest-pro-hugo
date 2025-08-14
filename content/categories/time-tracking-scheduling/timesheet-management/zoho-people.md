@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Timesheet Management"
 tool_name: "Zoho People"
 deployment_status: "deployed"
-image: "/images/tools/zoho-people-placeholder.jpg"
 tags: ["time-tracking-scheduling", "timesheet-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Timesheet Management"]

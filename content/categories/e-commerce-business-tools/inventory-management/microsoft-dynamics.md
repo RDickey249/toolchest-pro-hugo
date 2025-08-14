@@ -5,7 +5,6 @@ category: "🛍️ E-commerce & Business Tools"
 subcategory: "Inventory Management"
 tool_name: "Microsoft Dynamics"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-dynamics-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Inventory Management"]

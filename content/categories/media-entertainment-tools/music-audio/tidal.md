@@ -5,7 +5,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "Music & Audio"
 tool_name: "Tidal"
 deployment_status: "deployed"
-image: "/images/tools/tidal-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing", "audio-production", "video-creation-editing", "music-audio"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Music & Audio"]

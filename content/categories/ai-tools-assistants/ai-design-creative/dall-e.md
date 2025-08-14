@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Ai Design Creative"
 tool_name: "DALL·E"
 deployment_status: "deployed"
-image: "/images/tools/dall-e-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]

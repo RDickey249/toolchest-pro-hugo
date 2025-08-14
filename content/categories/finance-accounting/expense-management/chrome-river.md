@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Expense Management"
 tool_name: "Chrome River"
 deployment_status: "deployed"
-image: "/images/tools/chrome-river-placeholder.jpg"
 tags: ["finance-accounting", "expense-management"]
 categories: ["Finance & Accounting"]
 subcategories: ["Expense Management"]

@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Knowledge Management"
 tool_name: "Document360"
 deployment_status: "deployed"
-image: "/images/tools/document360-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "knowledge-management"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Knowledge Management"]

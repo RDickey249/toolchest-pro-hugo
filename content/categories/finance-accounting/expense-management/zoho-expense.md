@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Expense Management"
 tool_name: "Zoho Expense"
 deployment_status: "deployed"
-image: "/images/tools/zoho-expense-placeholder.jpg"
 tags: ["finance-accounting", "expense-management"]
 categories: ["Finance & Accounting"]
 subcategories: ["Expense Management"]

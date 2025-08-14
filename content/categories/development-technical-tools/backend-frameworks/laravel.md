@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Backend Frameworks"
 tool_name: "Laravel"
 deployment_status: "deployed"
-image: "/images/tools/laravel-placeholder.jpg"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

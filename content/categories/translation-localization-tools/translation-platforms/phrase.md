@@ -5,7 +5,6 @@ category: "🌍 Translation & Localization Tools"
 subcategory: "Translation Platforms"
 tool_name: "Phrase"
 deployment_status: "deployed"
-image: "/images/tools/phrase-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Translation Platforms"]

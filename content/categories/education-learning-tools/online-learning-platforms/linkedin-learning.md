@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Online Learning Platforms"
 tool_name: "LinkedIn Learning"
 deployment_status: "deployed"
-image: "/images/tools/linkedin-learning-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Online Learning Platforms"]

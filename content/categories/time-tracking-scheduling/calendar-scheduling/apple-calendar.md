@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Calendar & Scheduling"
 tool_name: "Apple Calendar"
 deployment_status: "deployed"
-image: "/images/tools/apple-calendar-placeholder.jpg"
 tags: ["time-tracking-scheduling", "calendar-scheduling"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Calendar & Scheduling"]

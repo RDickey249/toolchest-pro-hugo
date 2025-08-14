@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Language Learning"
 tool_name: "italki"
 deployment_status: "deployed"
-image: "/images/tools/italki-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms", "language-learning"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Language Learning"]

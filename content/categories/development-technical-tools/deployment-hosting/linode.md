@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Deployment & Hosting"
 tool_name: "Linode"
 deployment_status: "deployed"
-image: "/images/tools/linode-placeholder.jpg"
 tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]

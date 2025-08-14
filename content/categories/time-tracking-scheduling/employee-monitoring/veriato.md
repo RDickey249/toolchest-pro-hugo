@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Monitoring"
 tool_name: "Veriato"
 deployment_status: "deployed"
-image: "/images/tools/veriato-placeholder.jpg"
 external_link: "https://veriato.com"
 rating: 4.3
 starting_price: 29

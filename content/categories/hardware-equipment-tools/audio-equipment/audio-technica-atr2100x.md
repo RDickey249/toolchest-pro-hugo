@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Audio Equipment"
 tool_name: "Audio-Technica ATR2100x"
 deployment_status: "deployed"
-image: "/images/tools/audio-technica-atr2100x-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Audio Equipment"]

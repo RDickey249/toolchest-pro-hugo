@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Office Equipment"
 tool_name: "Standing Desks"
 deployment_status: "deployed"
-image: "/images/tools/standing-desks-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Office Equipment"]

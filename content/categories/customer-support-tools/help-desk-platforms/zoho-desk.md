@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "Zoho Desk"
 deployment_status: "deployed"
-image: "/images/tools/zoho-desk-placeholder.jpg"
 external_link: "https://www.zohodesk.com"
 ---
 Zoho Desk is the context-aware help desk platform trusted by over 50,000 businesses including Dell, Daimler, and McAfee to deliver personalized customer support with complete customer context and intelligent automation. As part of Zoho's comprehensive business suite, this platform excels at providing agents with unified customer information from CRM, purchase history, and previous interactions without requiring them to switch between multiple applications.

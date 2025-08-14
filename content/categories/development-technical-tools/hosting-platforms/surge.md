@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Surge"
 deployment_status: "deployed"
-image: "/images/tools/surge-placeholder.jpg"
 external_link: "https://www.surge.com"
 ---
 Surge is the static web publishing platform that lets frontend developers deploy websites with a single terminal command. With zero configuration required, it eliminates the complexity of traditional web hosting for static sites.

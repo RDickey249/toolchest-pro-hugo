@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "Survey Platforms"
 tool_name: "SurveyMonkey"
 deployment_status: "deployed"
-image: "/images/tools/surveymonkey-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Survey Platforms"]

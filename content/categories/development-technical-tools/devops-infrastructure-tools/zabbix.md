@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Monitoring & Observability"
 tool_name: "Zabbix"
 deployment_status: "deployed"
-image: "/images/tools/zabbix-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Monitoring & Observability"]

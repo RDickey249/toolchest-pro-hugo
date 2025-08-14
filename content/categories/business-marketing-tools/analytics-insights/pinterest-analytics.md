@@ -5,7 +5,6 @@ category: "📢 Marketing & Social Media"
 subcategory: "Analytics & Insights"
 tool_name: "Pinterest Analytics"
 deployment_status: "deployed"
-image: "/images/tools/pinterest-analytics-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-social-media", "content-creation-design", "analytics-insights"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Analytics & Insights"]

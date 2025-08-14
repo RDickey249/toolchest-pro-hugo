@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Backend Frameworks"
 tool_name: "Gin"
 deployment_status: "deployed"
-image: "/images/tools/gin-placeholder.jpg"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Document360"
 deployment_status: "deployed"
-image: "/images/tools/document360-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Knowledge Base & Documentation"]

@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Taskulu"
 deployment_status: "deployed"
-image: "/images/tools/taskulu-placeholder.jpg"
 external_link: "https://www.taskulu.com"
 ---
 Taskulu enhances team productivity through a collaborative platform that combines intuitive task management with effective team communication. This unified workspace allows teams to organize projects, coordinate activities, and maintain clear visibility into progress while fostering collaboration and accountability.

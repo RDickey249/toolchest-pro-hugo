@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Attendance Absence Management"
 tool_name: "LeaveBoard"
 deployment_status: "deployed"
-image: "/images/tools/leaveboard-placeholder.jpg"
 tags: ["time-tracking-scheduling", "attendance-absence-management"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Attendance & Absence Management"]

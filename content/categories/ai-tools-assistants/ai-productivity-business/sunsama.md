@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Sunsama"
 deployment_status: "deployed"
-image: "/images/tools/sunsama-placeholder.jpg"
 external_link: "https://www.sunsama.com"
 ---
 Sunsama is the mindful daily planning platform that combines task management with work-life balance principles to help busy professionals create realistic, sustainable schedules and prevent burnout.

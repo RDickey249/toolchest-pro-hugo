@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking Analytics"
 tool_name: "Timely"
 deployment_status: "deployed"
-image: "/images/tools/timely-placeholder.jpg"
 external_link: "https://www.timely.com"
 ---
 Timely combines AI-powered automatic time tracking with sophisticated analytics to provide deep insights into productivity patterns and project allocation. The platform captures work activities automatically and transforms them into actionable intelligence about how time is actually spent.

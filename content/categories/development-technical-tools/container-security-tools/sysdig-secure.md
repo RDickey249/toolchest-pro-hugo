@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Container Security"
 tool_name: "Sysdig Secure"
 deployment_status: "deployed"
-image: "/images/tools/sysdig-secure-placeholder.jpg"
 external_link: "https://www.sysdigsecure.com"
 ---
 Sysdig Secure is the leading runtime security platform for containers and cloud-native applications, trusted by enterprises like Goldman Sachs, Tempur Sealy, and T-Mobile to protect their most critical workloads. As the pioneer of runtime security, it provides the deep visibility and threat detection that traditional security tools miss.

@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Monitoring Observability"
 tool_name: "Datadog"
 deployment_status: "deployed"
-image: "/images/tools/datadog-placeholder.jpg"
 external_link: "https://www.datadog.com"
 ---
 Datadog is the leading cloud monitoring and analytics platform used by over 27,000 organizations including Airbnb, Samsung, and The New York Times to monitor their entire technology stack. Processing over 50 trillion data points daily, it's the most comprehensive observability solution in the market.

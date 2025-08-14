@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Code Quality & Linting"
 tool_name: "Codacy"
 deployment_status: "deployed"
-image: "/images/tools/codacy-placeholder.jpg"
 external_link: "https://www.codacy.com"
 ---
 Codacy revolutionizes automated code review by providing comprehensive static analysis that goes beyond basic linting to deliver actionable insights on security vulnerabilities, code complexity, and maintainability issues directly within your development workflow. This intelligent platform transforms manual code review processes into automated quality gates that catch issues before they reach production, enabling development teams to maintain high coding standards while accelerating delivery velocity through seamless Git integration.

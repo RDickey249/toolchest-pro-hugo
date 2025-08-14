@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Video Equipment"
 tool_name: "Rode Wireless GO"
 deployment_status: "deployed"
-image: "/images/tools/rode-wireless-go-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware", "video-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Video Equipment"]

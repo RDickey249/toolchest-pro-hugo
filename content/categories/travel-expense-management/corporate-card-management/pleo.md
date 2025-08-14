@@ -5,7 +5,6 @@ category: "✈️ Travel & Expense Management"
 subcategory: "Corporate Card Management"
 tool_name: "Pleo"
 deployment_status: "deployed"
-image: "/images/tools/pleo-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms", "corporate-card-management"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Corporate Card Management"]

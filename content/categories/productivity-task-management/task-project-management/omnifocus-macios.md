@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Task & Project Management"
 tool_name: "OmniFocus (Mac/iOS)"
 deployment_status: "deployed"
-image: "/images/tools/omnifocus-macios-placeholder.jpg"
 tags: ["productivity-task-management", "task-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Task & Project Management"]

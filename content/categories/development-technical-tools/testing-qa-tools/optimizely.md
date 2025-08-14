@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "A/B Testing & Optimization"
 tool_name: "Optimizely"
 deployment_status: "deployed"
-image: "/images/tools/optimizely-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["A/B Testing & Optimization"]

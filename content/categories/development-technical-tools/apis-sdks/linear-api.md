@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "Linear API"
 deployment_status: "deployed"
-image: "/images/tools/linear-api-placeholder.jpg"
 external_link: "https://www.linearapi.com"
 ---
 Linear API is the powerful GraphQL interface to Linear's acclaimed project management platform, trusted by engineering teams at Stripe, Coinbase, and thousands of high-performance companies to automate workflows and build custom integrations. As one of the most developer-friendly APIs in the project management space, it provides comprehensive access to Linear's fast, opinionated issue tracking system.

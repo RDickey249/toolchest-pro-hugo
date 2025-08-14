@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "API Testing Tools"
 tool_name: "Paw"
 deployment_status: "deployed"
-image: "/images/tools/paw-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["API Testing Tools"]

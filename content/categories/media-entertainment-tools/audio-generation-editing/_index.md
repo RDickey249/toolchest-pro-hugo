@@ -5,7 +5,6 @@ tagline: "AI-powered audio creation and editing platforms"
 category: "Video & Audio"
 subcategory: "Audio Generation & Editing"
 description: "Audio generation and editing tools leverage artificial intelligence to create, modify, and enhance audio content with professional quality results. These platforms enable voice synthesis, audio cleanup, noise reduction, and automated editing that traditionally required expensive software and technical expertise. From creating voiceovers to cleaning up podcast recordings, these tools make professional audio production accessible to content creators of all skill levels."
-image: "/images/subcategories/audio-generation-editing-placeholder.jpg"
 ---
 
 # Audio Generation & Editing

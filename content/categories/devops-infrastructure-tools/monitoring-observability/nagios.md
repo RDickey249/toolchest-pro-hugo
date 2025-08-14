@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Monitoring Observability"
 tool_name: "Nagios"
 deployment_status: "deployed"
-image: "/images/tools/nagios-placeholder.jpg"
 external_link: "https://www.nagios.com"
 ---
 Nagios is the battle-tested IT infrastructure monitoring system that has been the backbone of enterprise operations for over 20 years, trusted by organizations including NASA, Boeing, and thousands of mission-critical environments worldwide. As one of the original network monitoring solutions, it has proven its reliability by continuously monitoring some of the world's most important infrastructure.

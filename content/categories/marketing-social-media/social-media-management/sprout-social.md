@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Sprout Social"
 deployment_status: "deployed"
-image: "/images/tools/sprout-social-placeholder.jpg"
 external_link: "https://sproutsocial.com"
 ---
 

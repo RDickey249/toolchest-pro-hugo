@@ -5,7 +5,6 @@ category: "👥 HR & Recruiting Tools"
 subcategory: "Applicant Tracking Systems"
 tool_name: "Greenhouse"
 deployment_status: "deployed"
-image: "/images/tools/greenhouse-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Applicant Tracking Systems"]

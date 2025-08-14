@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "LinkedIn Analytics"
 deployment_status: "deployed"
-image: "/images/tools/linkedin-analytics-placeholder.jpg"
 external_link: "https://www.linkedinanalytics.com"
 ---
 

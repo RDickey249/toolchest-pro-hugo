@@ -5,7 +5,6 @@ category: "CRM & Sales Tools"
 subcategory: "Sales & Outreach Tools"
 tool_name: "Apollo"
 deployment_status: "deployed"
-image: "/images/tools/apollo-placeholder.jpg"
 tags: ["crm-sales-tools", "sales-outreach-tools"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Sales & Outreach Tools"]

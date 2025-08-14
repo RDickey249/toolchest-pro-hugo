@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Voice & Phone Support"
 tool_name: "Five9"
 deployment_status: "deployed"
-image: "/images/tools/five9-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms", "voice-phone-support"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Voice & Phone Support"]

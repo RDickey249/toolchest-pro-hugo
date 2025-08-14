@@ -5,7 +5,6 @@ category: "🌍 Translation & Localization Tools"
 subcategory: "Cultural Adaptation Tools"
 tool_name: "Aperian Global"
 deployment_status: "deployed"
-image: "/images/tools/aperian-global-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms", "cultural-adaptation-tools"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Cultural Adaptation Tools"]

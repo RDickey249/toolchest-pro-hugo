@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Code Editors & IDEs"
 tool_name: "JetBrains Suite"
 deployment_status: "deployed"
-image: "/images/tools/jetbrains-suite-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]

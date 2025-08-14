@@ -5,7 +5,6 @@ tagline: "Logo design and brand identity creation tools"
 category: "Business Marketing"
 subcategory: "Branding & Identity"
 description: "Branding and identity tools help businesses create professional visual identities including logos, color schemes, and brand guidelines. These platforms make professional design accessible through AI-powered generators, template libraries, and intuitive design interfaces. From startup logo creation to comprehensive brand system development, these tools enable businesses to establish memorable, consistent brand presence across all marketing materials."
-image: "/images/subcategories/branding-identity-placeholder.jpg"
 ---
 
 # Branding & Identity

@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Design Accessibility Tools"
 tool_name: "InVision accessibility features"
 deployment_status: "deployed"
-image: "/images/tools/invision-accessibility-features-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Design Accessibility Tools"]

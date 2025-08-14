@@ -5,7 +5,6 @@ category: "📢 Marketing & Social Media"
 subcategory: "Social Media Management"
 tool_name: "Sendible"
 deployment_status: "deployed"
-image: "/images/tools/sendible-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-social-media", "content-creation-design", "analytics-insights", "social-media-management"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Social Media Management"]

@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Analytics & Observability"
 tool_name: "Elastic Stack (ELK)"
 deployment_status: "deployed"
-image: "/images/tools/elastic-stack-elk-placeholder.jpg"
 external_link: "https://www.elasticstackelk.com"
 ---
 Elastic Stack (ELK) is the world's most popular open-source log analytics platform, powering search and analytics for companies like Netflix, Uber, and thousands of organizations managing petabytes of data daily. Comprising Elasticsearch, Logstash, Kibana, and Beats, it has become the de facto standard for log management, application monitoring, and security analytics across industries.

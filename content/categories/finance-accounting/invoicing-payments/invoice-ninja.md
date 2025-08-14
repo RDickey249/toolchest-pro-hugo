@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Invoicing & Payments"
 tool_name: "Invoice Ninja"
 deployment_status: "deployed"
-image: "/images/tools/invoice-ninja-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]

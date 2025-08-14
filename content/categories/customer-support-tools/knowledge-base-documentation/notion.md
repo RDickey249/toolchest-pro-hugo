@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Notion"
 deployment_status: "deployed"
-image: "/images/tools/notion-placeholder.jpg"
 tags: ["productivity-task-management", "project-management", "note-taking", "database-management", "team-collaboration"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Project Management"]

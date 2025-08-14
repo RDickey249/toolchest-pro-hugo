@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Help Desk Platforms"
 tool_name: "Help Scout"
 deployment_status: "deployed"
-image: "/images/tools/help-scout-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Help Desk Platforms"]

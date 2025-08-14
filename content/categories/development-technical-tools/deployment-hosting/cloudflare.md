@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Deployment & Hosting"
 tool_name: "Cloudflare"
 deployment_status: "deployed"
-image: "/images/tools/cloudflare-placeholder.jpg"
 tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]

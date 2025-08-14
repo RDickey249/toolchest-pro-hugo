@@ -5,7 +5,6 @@ category: "Communication & Collaboration"
 subcategory: "Document Collaboration"
 tool_name: "Google Workspace"
 deployment_status: "deployed"
-image: "/images/tools/google-workspace-placeholder.jpg"
 tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]

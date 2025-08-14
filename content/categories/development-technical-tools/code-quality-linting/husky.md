@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Code Quality & Linting"
 tool_name: "Husky"
 deployment_status: "deployed"
-image: "/images/tools/husky-placeholder.jpg"
 tags: ["development-technical-tools", "code-quality-linting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Quality & Linting"]

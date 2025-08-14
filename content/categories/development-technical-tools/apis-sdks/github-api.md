@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "GitHub API"
 deployment_status: "deployed"
-image: "/images/tools/github-api-placeholder.jpg"
 external_link: "https://www.githubapi.com"
 ---
 When Microsoft acquired GitHub for $7.5 billion, they weren't just buying a code hosting platform—they were investing in the API that powers millions of developer workflows worldwide. GitHub API has become the backbone of modern software development, enabling tools like Dependabot to automatically update over 30 million repositories monthly and powering CI/CD systems that deploy code billions of times each year.

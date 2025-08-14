@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Security & Compliance"
 tool_name: "Qualys"
 deployment_status: "deployed"
-image: "/images/tools/qualys-placeholder.jpg"
 tags: ["development-technical-tools", "security-compliance-tools"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Security & Compliance Tools"]

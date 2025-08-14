@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Registration & Ticketing"
 tool_name: "Universe"
 deployment_status: "deployed"
-image: "/images/tools/universe-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms", "registration-ticketing"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Registration & Ticketing"]

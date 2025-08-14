@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Data Management"
 tool_name: "Snowflake"
 deployment_status: "deployed"
-image: "/images/tools/snowflake-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]

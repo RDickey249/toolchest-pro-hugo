@@ -5,7 +5,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "Video Streaming & Production"
 tool_name: "Lightstream"
 deployment_status: "deployed"
-image: "/images/tools/lightstream-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing", "audio-production", "video-creation-editing"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Video Streaming & Production"]

@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Help Desk Platforms"
 tool_name: "Jira Service Management"
 deployment_status: "deployed"
-image: "/images/tools/jira-service-management-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Help Desk Platforms"]

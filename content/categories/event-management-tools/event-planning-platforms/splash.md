@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Event Planning Platforms"
 tool_name: "Splash"
 deployment_status: "deployed"
-image: "/images/tools/splash-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Event Planning Platforms"]

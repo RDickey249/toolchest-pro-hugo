@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"
 tool_name: "Surfer SEO"
 deployment_status: "deployed"
-image: "/images/tools/surfer-seo-placeholder.jpg"
 external_link: "https://www.surferseo.com"
 ---
 Surfer SEO is the data-driven content optimization platform that combines real-time SERP analysis with AI-powered writing assistance to help content creators consistently outrank competitors in search results.

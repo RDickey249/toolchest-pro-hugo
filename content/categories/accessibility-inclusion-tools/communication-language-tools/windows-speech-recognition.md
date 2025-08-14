@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Communication & Language Tools"
 tool_name: "Windows Speech Recognition"
 deployment_status: "deployed"
-image: "/images/tools/windows-speech-recognition-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms", "communication-language-tools"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Communication & Language Tools"]

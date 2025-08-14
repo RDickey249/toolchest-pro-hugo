@@ -5,7 +5,6 @@ category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "Hadoop"
 deployment_status: "deployed"
-image: "/images/tools/hadoop-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases", "data-warehousing-analytics"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Warehousing & Analytics"]

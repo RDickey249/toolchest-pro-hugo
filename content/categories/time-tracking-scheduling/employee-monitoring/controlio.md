@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Employee Monitoring"
 tool_name: "Controlio"
 deployment_status: "deployed"
-image: "/images/tools/controlio-placeholder.jpg"
 external_link: "https://controlio.net"
 rating: 4.3
 starting_price: 29

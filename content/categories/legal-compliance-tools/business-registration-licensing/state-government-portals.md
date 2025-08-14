@@ -5,7 +5,6 @@ category: "⚖️ Legal & Compliance Tools"
 subcategory: "Business Registration & Licensing"
 tool_name: "State government portals"
 deployment_status: "deployed"
-image: "/images/tools/state-government-portals-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance", "business-registration-licensing"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Business Registration & Licensing"]

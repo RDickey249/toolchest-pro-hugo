@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking Integrations"
 tool_name: "ClockShark"
 deployment_status: "deployed"
-image: "/images/tools/clockshark-placeholder.jpg"
 external_link: "https://www.clockshark.com"
 ---
 ClockShark is the mobile time tracking app built specifically for construction and field service crews. With GPS verification, photo time stamps, and job site tracking, it eliminates time theft and provides accurate project costing for field-based work.

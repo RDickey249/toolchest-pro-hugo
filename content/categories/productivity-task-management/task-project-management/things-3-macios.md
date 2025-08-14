@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Task & Project Management"
 tool_name: "Things 3 (Mac/iOS)"
 deployment_status: "deployed"
-image: "/images/tools/things-3-macios-placeholder.jpg"
 tags: ["productivity-task-management", "task-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Task & Project Management"]

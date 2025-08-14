@@ -5,7 +5,6 @@ category: "🔗 API & Integration Tools"
 subcategory: "Webhook & Real-time Tools"
 tool_name: "ngrok"
 deployment_status: "deployed"
-image: "/images/tools/ngrok-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["Webhook & Real-time Tools"]

@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Workplace Inclusion Platforms"
 tool_name: "Grammarly"
 deployment_status: "deployed"
-image: "/images/tools/grammarly-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing", "design-accessibility-tools", "workplace-inclusion-platforms"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Workplace Inclusion Platforms"]

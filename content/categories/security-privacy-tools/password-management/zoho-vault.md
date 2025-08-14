@@ -5,7 +5,6 @@ category: "Security & Privacy Tools"
 subcategory: "Password Management"
 tool_name: "Zoho Vault"
 deployment_status: "deployed"
-image: "/images/tools/zoho-vault-placeholder.jpg"
 tags: ["security-privacy-tools", "password-management"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Password Management"]

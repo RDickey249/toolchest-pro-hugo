@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Writing Content"
 tool_name: "Writer"
 deployment_status: "deployed"
-image: "/images/tools/writer-placeholder.jpg"
 external_link: "https://www.writer.com"
 ---
 Writer is the enterprise AI writing platform that ensures consistent brand voice, compliance standards, and professional quality across all company communications for business teams and organizations.

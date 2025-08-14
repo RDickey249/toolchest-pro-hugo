@@ -5,7 +5,6 @@ tagline: "Flexible, scalable databases for modern applications"
 category: "Database & Data Management"
 subcategory: "NoSQL Databases"
 description: "NoSQL databases provide flexible data models and horizontal scalability for modern applications that require rapid development, large-scale data handling, and diverse data types. These systems support document storage, key-value pairs, wide-column formats, and graph relationships, making them ideal for web applications, real-time analytics, content management, and IoT data processing."
-image: "/images/subcategories/nosql-databases-placeholder.jpg"
 ---
 
 # NoSQL Databases

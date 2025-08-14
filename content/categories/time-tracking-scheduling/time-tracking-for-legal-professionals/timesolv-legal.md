@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Legal Professionals"
 tool_name: "TimeSolv (Legal)"
 deployment_status: "deployed"
-image: "/images/tools/timesolv-legal-placeholder.jpg"
 external_link: "https://www.timesolvlegal.com"
 ---
 TimeSolv is the legal-specific time tracking and billing platform designed for attorneys who need detailed budget management and compliance reporting. With project budgeting, expense tracking, and legal-compliant billing, it helps law firms track profitability while meeting regulatory requirements.

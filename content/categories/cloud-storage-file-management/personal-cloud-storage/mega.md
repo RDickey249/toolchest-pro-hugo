@@ -5,7 +5,6 @@ category: "Cloud Storage & File Management"
 subcategory: "Personal Cloud Storage"
 tool_name: "MEGA"
 deployment_status: "deployed"
-image: "/images/tools/mega-placeholder.jpg"
 tags: ["cloud-storage-file-management", "personal-cloud-storage"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["Personal Cloud Storage"]

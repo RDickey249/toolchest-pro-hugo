@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Audio Equipment"
 tool_name: "Rode PodMic"
 deployment_status: "deployed"
-image: "/images/tools/rode-podmic-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Audio Equipment"]

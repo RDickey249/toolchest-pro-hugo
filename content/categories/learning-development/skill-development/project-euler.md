@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Project Euler"
 deployment_status: "deployed"
-image: "/images/tools/project-euler-placeholder.jpg"
 external_link: "https://www.projecteuler.com"
 ---
 

@@ -5,7 +5,6 @@ category: "Design & Creative Tools"
 subcategory: "Web Design & Development"
 tool_name: "Carrd"
 deployment_status: "deployed"
-image: "/images/tools/carrd-placeholder.jpg"
 tags: ["design-creative-tools", "web-design-development"]
 categories: ["Design & Creative Tools"]
 subcategories: ["Web Design & Development"]

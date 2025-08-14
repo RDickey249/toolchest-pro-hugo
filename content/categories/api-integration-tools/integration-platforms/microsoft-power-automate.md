@@ -6,7 +6,6 @@ categories: ["🔗 API & Integration Tools"]
 subcategory: "Integration Platforms"
 tool_name: "Microsoft Power Automate"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-power-automate-placeholder.jpg"
 external_link: "https://powerautomate.microsoft.com"
 ---
 Microsoft Power Automate revolutionizes business process automation by providing a comprehensive low-code platform that seamlessly connects Microsoft 365 applications with hundreds of external services, enabling organizations to automate repetitive workflows without requiring programming expertise. This intelligent automation platform transforms manual business processes into streamlined, efficient workflows that reduce human error while freeing teams to focus on higher-value activities that drive business growth.

@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Polymer"
 deployment_status: "deployed"
-image: "/images/tools/polymer-placeholder.jpg"
 external_link: "https://www.polymer.com"
 ---
 Polymer makes data exploration accessible through natural language queries, allowing users to ask questions about their data in plain English and receive instant insights.

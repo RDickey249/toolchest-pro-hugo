@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Render"
 deployment_status: "deployed"
-image: "/images/tools/render-placeholder.jpg"
 external_link: "https://www.render.com"
 ---
 Render is the modern cloud platform trusted by thousands of developers and companies including Typeform, Linear, and growing startups to deploy web applications with zero DevOps overhead. Founded by former Stripe engineers, it has revolutionized cloud hosting by combining the simplicity of Heroku with the power and transparency of AWS, all at developer-friendly pricing.

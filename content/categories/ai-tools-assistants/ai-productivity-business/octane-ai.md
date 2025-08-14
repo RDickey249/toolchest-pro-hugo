@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Ai Productivity Business"
 tool_name: "Octane AI"
 deployment_status: "deployed"
-image: "/images/tools/octane-ai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]

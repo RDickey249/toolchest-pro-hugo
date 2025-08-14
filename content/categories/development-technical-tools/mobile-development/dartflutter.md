@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Mobile Development:"
 tool_name: "Dart/Flutter"
 deployment_status: "deployed"
-image: "/images/tools/dartflutter-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-development"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Development:"]

@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Container & Orchestration"
 tool_name: "Docker"
 deployment_status: "deployed"
-image: "/images/tools/docker-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Container & Orchestration"]

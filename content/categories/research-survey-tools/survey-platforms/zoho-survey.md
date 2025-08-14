@@ -6,7 +6,6 @@ categories: ["📊 Research & Survey Tools"]
 subcategory: "Survey Platforms"
 tool_name: "Zoho Survey"
 deployment_status: "deployed"
-image: "/images/tools/zoho-survey-placeholder.jpg"
 external_link: "https://www.zohosurvey.com"
 ---
 Zoho Survey is the comprehensive survey platform trusted by organizations worldwide to collect actionable feedback while seamlessly integrating with the complete Zoho business ecosystem, enabling automatic data flow between surveys, CRM, marketing campaigns, and business analytics for unified customer insights. As part of Zoho's integrated business suite, the platform eliminates data silos by connecting survey responses directly to customer records, sales pipelines, and marketing automation workflows without manual data transfer or complex integrations.

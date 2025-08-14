@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Containerization & Orchestration"
 tool_name: "Dapr"
 deployment_status: "deployed"
-image: "/images/tools/dapr-placeholder.jpg"
 external_link: "https://www.dapr.com"
 ---
 Dapr is the distributed application runtime trusted by companies like Microsoft, HashiCorp, and thousands of cloud-native developers worldwide to simplify microservices development through portable building blocks and consistent APIs. As a CNCF incubating project, Dapr eliminates the complexity of distributed systems by providing pre-built capabilities for service communication, state management, and event-driven architectures that work across any cloud or edge environment.

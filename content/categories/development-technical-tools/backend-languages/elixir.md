@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Backend Languages"
 tool_name: "Elixir"
 deployment_status: "deployed"
-image: "/images/tools/elixir-placeholder.jpg"
 external_link: "https://www.elixir.com"
 ---
 Elixir is the functional programming language trusted by companies like Discord, Pinterest, and WhatsApp to build massively concurrent, fault-tolerant systems that handle millions of users with remarkable reliability. Built on the battle-tested Erlang Virtual Machine (BEAM) that powers telecommunications infrastructure worldwide, Elixir combines modern syntax with decades of proven distributed systems technology.

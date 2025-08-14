@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "FunctionFox"
 deployment_status: "deployed"
-image: "/images/tools/functionfox-placeholder.jpg"
 external_link: "https://www.functionfox.com"
 ---
 FunctionFox specializes in project management for creative agencies and design studios with streamlined workflows focused on creative professionals. This platform addresses unique operational challenges through features designed for agency workflows, including creative project phases, client approval processes, and time tracking for billable creative work.

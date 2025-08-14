@@ -5,7 +5,6 @@ category: "Security & Privacy Tools"
 subcategory: "Password Management"
 tool_name: "Sticky Password"
 deployment_status: "deployed"
-image: "/images/tools/sticky-password-placeholder.jpg"
 tags: ["security-privacy-tools", "password-management"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Password Management"]

@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Security & Compliance"
 tool_name: "HashiCorp Vault"
 deployment_status: "deployed"
-image: "/images/tools/hashicorp-vault-placeholder.jpg"
 tags: ["development-technical-tools", "security-compliance-tools"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Security & Compliance Tools"]

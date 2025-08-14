@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Code Quality & Linting"
 tool_name: "ESLint"
 deployment_status: "deployed"
-image: "/images/tools/eslint-placeholder.jpg"
 external_link: "https://www.eslint.com"
 ---
 ESLint is the industry-standard JavaScript linter trusted by millions of developers worldwide, including teams at Netflix, Airbnb, and Facebook. Used in over 90% of JavaScript projects, this essential tool catches errors, enforces coding standards, and maintains code quality across entire codebases.

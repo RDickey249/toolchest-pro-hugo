@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "A/B Testing & Optimization"
 tool_name: "Amplitude"
 deployment_status: "deployed"
-image: "/images/tools/amplitude-placeholder.jpg"
 tags: ["testing-quality-assurance", "testing-qa-tools", "performance-testing", "software-testing-frameworks", "ab-testing-optimization"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Web Analytics"]

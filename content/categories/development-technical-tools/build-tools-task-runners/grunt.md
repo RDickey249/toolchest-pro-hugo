@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Build Tools & Task Runners"
 tool_name: "Grunt"
 deployment_status: "deployed"
-image: "/images/tools/grunt-placeholder.jpg"
 external_link: "https://www.grunt.com"
 ---
 Grunt is the pioneering JavaScript task runner that launched the modern build automation era, with over 1.5 billion downloads and adoption by companies like jQuery Foundation, Bootstrap, and countless open-source projects. As the first mainstream JavaScript build tool, it established the foundation for configuration-driven automation that influenced the entire frontend ecosystem.

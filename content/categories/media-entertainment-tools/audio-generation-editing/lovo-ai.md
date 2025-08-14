@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Generation Editing"
 tool_name: "Lovo.ai"
 deployment_status: "deployed"
-image: "/images/tools/lovo-ai-placeholder.jpg"
 external_link: "https://www.lovoai.com"
 ---
 Lovo.ai is an AI voice platform that combines text-to-speech generation with video creation tools. Choose from 500+ AI voices across 100+ languages to create professional voiceovers, videos, and audio content.
@@ -18,7 +17,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "🎵 Media & Entertainment Tools"
 tool_name: "Lovo.ai"
 deployment_status: "deployed"
-image: "/images/tools/lovo-ai-placeholder.jpg"
 ---
 
 # Lovo.ai

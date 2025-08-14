@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Advanced Project Management"
 tool_name: "Targetprocess"
 deployment_status: "deployed"
-image: "/images/tools/targetprocess-placeholder.jpg"
 external_link: "https://www.targetprocess.com"
 ---
 Targetprocess revolutionizes enterprise agile management by providing a sophisticated visual platform specifically designed for large organizations scaling agile methodologies across multiple teams, departments, and business units. This comprehensive solution transforms the complexity of coordinating hundreds or thousands of team members into clear, manageable visual workflows that maintain strategic alignment while enabling autonomous team operation at scale.

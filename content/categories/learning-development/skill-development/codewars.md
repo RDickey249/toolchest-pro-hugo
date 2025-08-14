@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "Codewars"
 deployment_status: "deployed"
-image: "/images/tools/codewars-placeholder.jpg"
 external_link: "https://www.codewars.com"
 ---
 

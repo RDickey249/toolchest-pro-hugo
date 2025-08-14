@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
 tool_name: "Hours"
 deployment_status: "deployed"
-image: "/images/tools/hours-placeholder.jpg"
 external_link: "https://www.hourstimetracking.com"
 ---
 Hours is the beautifully designed time tracking app that makes logging time feel natural and effortless. Track time on projects with elegant visual organization, comprehensive reporting, and seamless team collaboration.

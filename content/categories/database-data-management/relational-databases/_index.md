@@ -5,7 +5,6 @@ tagline: "SQL databases with ACID compliance and structured schemas"
 category: "Database & Data Management"
 subcategory: "Relational Databases"
 description: "Relational databases provide structured data storage using SQL (Structured Query Language) with ACID compliance, ensuring data integrity and consistency. These systems organize data into tables with defined relationships, making them ideal for transactional applications, financial systems, and scenarios requiring strict data consistency. From open-source solutions to enterprise platforms, relational databases remain the backbone of most business applications."
-image: "/images/subcategories/relational-databases-placeholder.jpg"
 ---
 
 # Relational Databases

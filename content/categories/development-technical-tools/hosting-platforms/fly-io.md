@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Fly.io"
 deployment_status: "deployed"
-image: "/images/tools/fly-io-placeholder.jpg"
 external_link: "https://www.flyio.com"
 ---
 Fly.io is the revolutionary edge computing platform trusted by companies like Replit, Supabase, and thousands of developers to deploy applications globally with sub-50ms latency through intelligent edge infrastructure. As the platform redefining application deployment, it runs full-stack applications at the edge of the internet, automatically placing them in data centers closest to users for exceptional performance worldwide.

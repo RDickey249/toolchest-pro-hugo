@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Version Control & Collaboration"
 tool_name: "Git"
 deployment_status: "deployed"
-image: "/images/tools/git-placeholder.jpg"
 external_link: "https://www.git.com"
 ---
 Git is the foundational distributed version control system trusted by companies like Google, Microsoft, and virtually every software development team worldwide to manage code collaboration and project history. Created by Linus Torvalds for Linux kernel development, it has become the universal standard for version control, powering platforms like GitHub, GitLab, and Bitbucket that serve millions of developers daily.

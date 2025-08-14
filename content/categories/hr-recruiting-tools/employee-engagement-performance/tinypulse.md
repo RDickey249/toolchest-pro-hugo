@@ -5,7 +5,6 @@ category: "👥 HR & Recruiting Tools"
 subcategory: "Employee Engagement & Performance"
 tool_name: "TINYpulse"
 deployment_status: "deployed"
-image: "/images/tools/tinypulse-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems", "background-checks-verification", "employee-engagement-performance"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Employee Engagement & Performance"]

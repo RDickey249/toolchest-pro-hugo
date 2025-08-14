@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "Academic Research Tools"
 tool_name: "Mendeley"
 deployment_status: "deployed"
-image: "/images/tools/mendeley-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools", "academic-research-tools"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Academic Research Tools"]

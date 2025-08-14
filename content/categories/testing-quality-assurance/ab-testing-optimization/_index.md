@@ -5,7 +5,6 @@ tagline: "Experimentation platforms for conversion optimization"
 category: "Testing & Quality Assurance"
 subcategory: "A/B Testing & Optimization"
 description: "A/B testing and optimization tools enable data-driven improvement of user experiences through controlled experiments and behavioral analysis. These platforms allow teams to test different versions of web pages, features, and user flows to determine which variations perform better. With statistical analysis, user segmentation, and integration with analytics platforms, these tools help optimize conversion rates and user engagement."
-image: "/images/subcategories/ab-testing-optimization-placeholder.jpg"
 ---
 
 # A/B Testing & Optimization

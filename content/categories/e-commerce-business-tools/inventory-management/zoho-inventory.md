@@ -5,7 +5,6 @@ category: "🛍️ E-commerce & Business Tools"
 subcategory: "Inventory Management"
 tool_name: "Zoho Inventory"
 deployment_status: "deployed"
-image: "/images/tools/zoho-inventory-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Inventory Management"]

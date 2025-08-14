@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Code & Development"
 tool_name: "Replit"
 deployment_status: "deployed"
-image: "/images/tools/replit-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-code-development"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Code & Development"]

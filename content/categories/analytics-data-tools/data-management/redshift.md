@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Data Management"
 tool_name: "Redshift"
 deployment_status: "deployed"
-image: "/images/tools/redshift-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]

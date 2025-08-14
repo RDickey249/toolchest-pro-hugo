@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Code Editors & IDEs"
 tool_name: "CodePen"
 deployment_status: "deployed"
-image: "/images/tools/codepen-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]

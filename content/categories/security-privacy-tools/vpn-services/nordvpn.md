@@ -5,7 +5,6 @@ category: "Security & Privacy Tools"
 subcategory: "VPN Services"
 tool_name: "NordVPN"
 deployment_status: "deployed"
-image: "/images/tools/nordvpn-placeholder.jpg"
 tags: ["security-privacy-tools", "vpn-services"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["VPN Services"]

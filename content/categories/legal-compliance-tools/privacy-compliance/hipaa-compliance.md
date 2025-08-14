@@ -5,7 +5,6 @@ category: "⚖️ Legal & Compliance Tools"
 subcategory: "Privacy & Compliance"
 tool_name: "HIPAA compliance"
 deployment_status: "deployed"
-image: "/images/tools/hipaa-compliance-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Privacy & Compliance"]

@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Cloud Platforms"
 tool_name: "IBM Cloud"
 deployment_status: "deployed"
-image: "/images/tools/ibm-cloud-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Cloud Platforms"]

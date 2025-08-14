@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Guru"
 deployment_status: "deployed"
-image: "/images/tools/guru-placeholder.jpg"
 external_link: "https://www.guru.com"
 ---
 Guru transforms enterprise knowledge management by solving the critical problem that plagues every growing organization: outdated, scattered information that kills productivity and customer satisfaction. This revolutionary platform has earned the trust of industry leaders like Spotify, Shopify, and Square by introducing a game-changing verification engine that ensures your team always accesses accurate, up-to-date knowledge exactly when they need it. Unlike traditional wikis that become graveyards of obsolete information, Guru's AI-powered system actively maintains knowledge freshness through automated verification cycles, expert ownership assignments, and intelligent expiration dates. With seamless integration into your existing workflow tools and a powerful browser extension that surfaces relevant knowledge without context switching, Guru eliminates the average 20% of work time employees waste searching for information. Whether your support team needs instant access to troubleshooting guides, your sales team requires competitive battlecards, or new hires need comprehensive onboarding resources, Guru delivers trusted knowledge that drives measurable improvements in response times, customer satisfaction scores, and employee confidence.

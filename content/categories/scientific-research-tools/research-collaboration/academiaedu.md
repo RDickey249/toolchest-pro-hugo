@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Research Collaboration"
 tool_name: "Academia.edu"
 deployment_status: "deployed"
-image: "/images/tools/academiaedu-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management", "statistical-analysis-software", "research-collaboration"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Research Collaboration"]

@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Workflow Automation"
 tool_name: "Integrately"
 deployment_status: "deployed"
-image: "/images/tools/integrately-placeholder.jpg"
 tags: ["automation-workflows", "workflow-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Workflow Automation"]

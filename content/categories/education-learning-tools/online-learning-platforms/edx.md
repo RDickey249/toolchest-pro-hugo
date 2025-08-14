@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Online Learning Platforms"
 tool_name: "edX"
 deployment_status: "deployed"
-image: "/images/tools/edx-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Online Learning Platforms"]

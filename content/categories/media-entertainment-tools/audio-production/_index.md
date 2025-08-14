@@ -5,7 +5,6 @@ tagline: "Professional audio recording and editing software"
 category: "Media & Entertainment"
 subcategory: "Audio Production"
 description: "Audio production tools provide professional-grade capabilities for recording, editing, mixing, and mastering audio content. From full-featured digital audio workstations to specialized editing software, these tools serve musicians, podcasters, sound designers, and audio engineers. With advanced features like multi-track recording, real-time effects, and precision editing, these platforms enable the creation of broadcast-quality audio content."
-image: "/images/subcategories/audio-production-placeholder.jpg"
 ---
 
 # Audio Production

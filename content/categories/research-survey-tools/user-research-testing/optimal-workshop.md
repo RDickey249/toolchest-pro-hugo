@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "User Research & Testing"
 tool_name: "Optimal Workshop"
 deployment_status: "deployed"
-image: "/images/tools/optimal-workshop-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms", "market-research-tools", "academic-research-tools", "user-research-testing"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["User Research & Testing"]

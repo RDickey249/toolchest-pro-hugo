@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Static Site Generators"
 tool_name: "Docusaurus"
 deployment_status: "deployed"
-image: "/images/tools/docusaurus-placeholder.jpg"
 external_link: "https://www.docusaurus.com"
 ---
 Docusaurus is Facebook's modern documentation platform trusted by companies like Airbnb, Netflix, and thousands of open-source projects to create beautiful, maintainable documentation websites. Built with React and powered by modern web technologies, this platform makes it easy to create documentation that developers and users actually want to read and contribute to.

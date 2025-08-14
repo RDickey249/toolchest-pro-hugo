@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Authentication & Authorization"
 tool_name: "Keycloak"
 deployment_status: "deployed"
-image: "/images/tools/keycloak-placeholder.jpg"
 external_link: "https://www.keycloak.com"
 ---
 When European fintech leader N26 needed to secure millions of customer accounts while meeting strict GDPR compliance requirements, they chose Keycloak as their identity foundation. The digital bank successfully manages authentication for over 8 million users across multiple countries using Keycloak's flexible, self-hosted architecture that keeps sensitive identity data under complete organizational control.

@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "API Design & Testing"
 tool_name: "Swagger"
 deployment_status: "deployed"
-image: "/images/tools/swagger-placeholder.jpg"
 tags: ["development-technical-tools", "api-design-testing"]
 categories: ["Development & Technical Tools"]
 subcategories: ["API Design & Testing"]

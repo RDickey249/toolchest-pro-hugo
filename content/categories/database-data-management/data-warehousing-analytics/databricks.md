@@ -5,7 +5,6 @@ category: "🗄️ Database & Data Management"
 subcategory: "Data Warehousing & Analytics"
 tool_name: "Databricks"
 deployment_status: "deployed"
-image: "/images/tools/databricks-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases", "data-warehousing-analytics"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["Data Warehousing & Analytics"]

@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "Unsplash API"
 deployment_status: "deployed"
-image: "/images/tools/unsplash-api-placeholder.jpg"
 external_link: "https://www.unsplashapi.com"
 ---
 Unsplash API is the gateway to the world's most generous photo library, trusted by companies like Medium, Trello, and thousands of applications to access over 3 million high-quality images from 300,000+ photographers worldwide. As the API powering billions of photo views monthly, it has democratized access to professional photography, enabling developers to integrate stunning visuals without licensing complexities or costs.

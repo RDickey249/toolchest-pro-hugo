@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "API Testing Tools"
 tool_name: "Postman"
 deployment_status: "deployed"
-image: "/images/tools/postman-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["API Testing Tools"]

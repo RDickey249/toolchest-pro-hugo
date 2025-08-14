@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Content Creation Design"
 tool_name: "After Effects"
 deployment_status: "deployed"
-image: "/images/tools/after-effects-placeholder.jpg"
 external_link: "https://www.aftereffects.com"
 ---
 

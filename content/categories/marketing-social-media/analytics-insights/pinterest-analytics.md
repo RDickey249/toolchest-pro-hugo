@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "Pinterest Analytics"
 deployment_status: "deployed"
-image: "/images/tools/pinterest-analytics-placeholder.jpg"
 external_link: "https://www.pinterestanalytics.com"
 ---
 

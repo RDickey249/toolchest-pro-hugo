@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Productivity & Business"
 tool_name: "HubSpot AI"
 deployment_status: "deployed"
-image: "/images/tools/hubspot-ai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]

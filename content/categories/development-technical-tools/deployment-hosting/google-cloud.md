@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Deployment & Hosting"
 tool_name: "Google Cloud"
 deployment_status: "deployed"
-image: "/images/tools/google-cloud-placeholder.jpg"
 tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]

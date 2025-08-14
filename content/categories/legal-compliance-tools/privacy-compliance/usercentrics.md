@@ -5,7 +5,6 @@ category: "⚖️ Legal & Compliance Tools"
 subcategory: "Privacy & Compliance"
 tool_name: "Usercentrics"
 deployment_status: "deployed"
-image: "/images/tools/usercentrics-placeholder.jpg"
 tags: ["legal-compliance-tools", "legal-compliance", "privacy-compliance"]
 categories: ["⚖️ Legal & Compliance Tools"]
 subcategories: ["Privacy & Compliance"]

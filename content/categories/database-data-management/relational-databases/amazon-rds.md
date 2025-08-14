@@ -5,7 +5,6 @@ category: "🗄️ Database & Data Management"
 subcategory: "Relational Databases"
 tool_name: "Amazon RDS"
 deployment_status: "deployed"
-image: "/images/tools/amazon-rds-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases", "data-warehousing-analytics", "relational-databases"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["Relational Databases"]

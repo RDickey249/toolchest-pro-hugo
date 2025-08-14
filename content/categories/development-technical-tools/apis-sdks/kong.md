@@ -5,7 +5,6 @@ category: "🔗 API & Integration Tools"
 subcategory: "API Management"
 tool_name: "Kong"
 deployment_status: "deployed"
-image: "/images/tools/kong-placeholder.jpg"
 tags: ["development-technical-tools", "apis-sdks"]
 categories: ["🔗 API & Integration Tools"]
 subcategories: ["API Management"]

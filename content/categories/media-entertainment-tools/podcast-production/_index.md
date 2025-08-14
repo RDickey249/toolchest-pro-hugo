@@ -5,7 +5,6 @@ tagline: "End-to-end podcast creation and distribution platforms"
 category: "Video & Audio"
 subcategory: "Podcast Production"
 description: "Podcast production tools provide comprehensive solutions for creating, editing, and distributing podcast content. These platforms combine recording capabilities with editing tools, hosting services, and distribution networks to support the entire podcast creation workflow. From solo creators to professional podcast networks, these tools offer the features needed to produce engaging audio content and reach audiences across all major podcast platforms."
-image: "/images/subcategories/podcast-production-placeholder.jpg"
 ---
 
 # Podcast Production

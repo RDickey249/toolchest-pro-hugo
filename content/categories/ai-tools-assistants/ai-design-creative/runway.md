@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Design & Creative"
 tool_name: "Runway"
 deployment_status: "deployed"
-image: "/images/tools/runway-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]

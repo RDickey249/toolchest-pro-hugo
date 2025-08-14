@@ -5,7 +5,6 @@ tagline: "Containerization and orchestration platforms for modern applications"
 category: "DevOps & Infrastructure"
 subcategory: "Container & Orchestration"
 description: "Container and orchestration tools enable consistent application deployment across different environments through lightweight, portable containers. These platforms package applications with their dependencies, ensuring they run reliably from development to production. Orchestration systems manage containerized applications at scale, handling deployment, scaling, networking, and service discovery automatically."
-image: "/images/subcategories/container-orchestration-placeholder.jpg"
 ---
 
 # Container & Orchestration

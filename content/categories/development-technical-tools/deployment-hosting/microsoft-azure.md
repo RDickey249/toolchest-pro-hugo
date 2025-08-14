@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Deployment & Hosting"
 tool_name: "Microsoft Azure"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-azure-placeholder.jpg"
 tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]

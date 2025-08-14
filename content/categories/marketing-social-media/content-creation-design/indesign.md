@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Content Creation Design"
 tool_name: "InDesign"
 deployment_status: "deployed"
-image: "/images/tools/indesign-placeholder.jpg"
 external_link: "https://www.indesign.com"
 ---
 

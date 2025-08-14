@@ -5,7 +5,6 @@ category: "Cloud Storage & File Management"
 subcategory: "Business File Management"
 tool_name: "Box"
 deployment_status: "deployed"
-image: "/images/tools/box-placeholder.jpg"
 tags: ["cloud-storage-file-management", "business-file-management"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["Business File Management"]

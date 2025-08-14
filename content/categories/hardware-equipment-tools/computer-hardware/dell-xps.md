@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Computer Hardware"
 tool_name: "Dell XPS"
 deployment_status: "deployed"
-image: "/images/tools/dell-xps-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment", "computer-hardware"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Computer Hardware"]

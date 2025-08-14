@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Container & Orchestration"
 tool_name: "Podman"
 deployment_status: "deployed"
-image: "/images/tools/podman-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Container & Orchestration"]

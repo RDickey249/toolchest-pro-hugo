@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "DevOps & Infrastructure"
 tool_name: "Puppet"
 deployment_status: "deployed"
-image: "/images/tools/puppet-placeholder.jpg"
 external_link: "https://www.puppet.com"
 ---
 Puppet is the industry-leading declarative configuration management platform trusted by over 40,000 companies including Google, Cisco, and Bank of America to automate and enforce infrastructure compliance at massive scale. Founded in 2005 by Luke Kanies, it pioneered the "Infrastructure as Code" movement and remains the gold standard for enterprise configuration management.

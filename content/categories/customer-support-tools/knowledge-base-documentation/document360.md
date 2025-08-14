@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Document360"
 deployment_status: "deployed"
-image: "/images/tools/document360-placeholder.jpg"
 external_link: "https://www.document360.com"
 ---
 Document360 has become the knowledge management backbone for over 15,000 companies including Harvard University, McKinsey & Company, and Stack Overflow, who discovered that effective documentation reduces support tickets by up to 67% while improving customer satisfaction scores. The platform bridges the critical gap between customer-facing help centers and internal team wikis, eliminating the costly fragmentation that occurs when organizations maintain separate documentation systems. Companies using Document360 report saving an average of 20 hours weekly on documentation management while achieving 3x faster onboarding for both customers and employees.

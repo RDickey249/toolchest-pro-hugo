@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Web Accessibility Testing"
 tool_name: "WAVE"
 deployment_status: "deployed"
-image: "/images/tools/wave-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Web Accessibility Testing"]

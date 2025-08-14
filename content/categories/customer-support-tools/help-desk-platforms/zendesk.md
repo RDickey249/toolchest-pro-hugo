@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "Zendesk"
 deployment_status: "deployed"
-image: "/images/tools/zendesk-placeholder.jpg"
 external_link: "https://www.zendesk.com"
 ---
 Zendesk is the world's leading customer service platform used by over 100,000 businesses including Shopify, Uber, and Pandora to deliver exceptional customer experiences. With 20+ billion customer interactions handled annually, it's the gold standard for omnichannel support operations.

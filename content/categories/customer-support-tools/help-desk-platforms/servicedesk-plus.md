@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Help Desk Platforms"
 tool_name: "ServiceDesk Plus"
 deployment_status: "deployed"
-image: "/images/tools/servicedesk-plus-placeholder.jpg"
 external_link: "https://www.servicedeskplus.com"
 ---
 ServiceDesk Plus is the comprehensive IT help desk and service management platform trusted by companies like NASA, BMW, and thousands of IT organizations worldwide to implement ITIL best practices while automating routine tasks and empowering end-users through self-service capabilities. Developed by ManageEngine as an enterprise-grade ITSM solution, ServiceDesk Plus transforms traditional IT support into strategic service delivery that drives business efficiency.

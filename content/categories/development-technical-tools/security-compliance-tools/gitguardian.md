@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Security & Compliance"
 tool_name: "GitGuardian"
 deployment_status: "deployed"
-image: "/images/tools/gitguardian-placeholder.jpg"
 external_link: "https://www.gitguardian.com"
 ---
 GitGuardian revolutionizes code security by providing comprehensive secrets detection that continuously monitors code repositories to prevent API keys, passwords, certificates, and sensitive credentials from being exposed in source code, transforming reactive security incidents into proactive protection that stops data breaches before they occur. This security-first platform addresses one of the most common and dangerous security vulnerabilities in modern development by automatically scanning all code changes and providing immediate alerts when sensitive information is detected.

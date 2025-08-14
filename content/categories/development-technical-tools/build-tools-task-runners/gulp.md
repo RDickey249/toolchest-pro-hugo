@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Build Tools & Task Runners"
 tool_name: "Gulp"
 deployment_status: "deployed"
-image: "/images/tools/gulp-placeholder.jpg"
 external_link: "https://www.gulp.com"
 ---
 Gulp is the pioneering streaming build system and task runner that revolutionized frontend development workflows, with over 3.5 billion downloads and adoption by companies like Netflix, Twitter, and Adobe. As one of the most popular build tools on npm, it established the foundation for modern JavaScript-based build automation that influenced tools like Webpack and Vite.

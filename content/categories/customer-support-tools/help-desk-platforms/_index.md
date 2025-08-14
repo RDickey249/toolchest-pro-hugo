@@ -5,7 +5,6 @@ tagline: "Ticketing and support management systems"
 category: "Customer Support"
 subcategory: "Help Desk Platforms"
 description: "Help desk platforms provide comprehensive ticketing systems that help support teams organize, prioritize, and resolve customer inquiries efficiently. These tools centralize all support requests, automate workflows, track performance metrics, and ensure no customer issue falls through the cracks. From small businesses to enterprise organizations, help desk platforms scale to meet growing support demands while maintaining service quality."
-image: "/images/subcategories/help-desk-platforms-placeholder.jpg"
 ---
 
 # Help Desk Platforms

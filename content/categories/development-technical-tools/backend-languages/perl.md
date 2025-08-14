@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Backend Languages"
 tool_name: "Perl"
 deployment_status: "deployed"
-image: "/images/tools/perl-placeholder.jpg"
 external_link: "https://www.perl.com"
 ---
 Perl is the versatile programming language trusted by organizations like Amazon, BBC, and the Human Genome Project to power mission-critical systems through unmatched text processing and system administration capabilities. With over 35 years of evolution and the vast CPAN repository containing 200,000+ modules, it remains the Swiss Army knife of programming languages, handling everything from web applications to bioinformatics breakthroughs.

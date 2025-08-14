@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Laboratory Information Management"
 tool_name: "CloudLAB"
 deployment_status: "deployed"
-image: "/images/tools/cloudlab-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Laboratory Information Management"]

@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Reference Management"
 tool_name: "Bookends"
 deployment_status: "deployed"
-image: "/images/tools/bookends-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Reference Management"]

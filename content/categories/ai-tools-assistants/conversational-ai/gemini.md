@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Conversational Ai"
 tool_name: "Gemini"
 deployment_status: "deployed"
-image: "/images/tools/gemini-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]

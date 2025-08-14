@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Conversational AI"
 tool_name: "Perplexity"
 deployment_status: "deployed"
-image: "/images/tools/perplexity-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]

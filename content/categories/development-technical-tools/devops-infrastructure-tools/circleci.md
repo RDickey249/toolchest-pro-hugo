@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "CI/CD & Automation"
 tool_name: "CircleCI"
 deployment_status: "deployed"
-image: "/images/tools/circleci-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["CI/CD & Automation"]

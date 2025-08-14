@@ -5,7 +5,6 @@ category: "CRM & Sales Tools"
 subcategory: "Customer Relationship Management"
 tool_name: "Zoho CRM"
 deployment_status: "deployed"
-image: "/images/tools/zoho-crm-placeholder.jpg"
 tags: ["crm-sales-tools", "customer-relationship-management"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Customer Relationship Management"]

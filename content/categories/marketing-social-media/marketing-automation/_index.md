@@ -5,7 +5,6 @@ tagline: "Email marketing and campaign automation platforms"
 category: "Business Marketing"
 subcategory: "Marketing Automation"
 description: "Marketing automation platforms enable businesses to nurture leads, engage customers, and drive conversions through personalized, automated communications. These tools provide email marketing, behavioral triggers, segmentation, and analytics that help businesses scale their marketing efforts while maintaining personal connections. From simple newsletter campaigns to sophisticated lead nurturing workflows, these platforms support marketing strategies of all complexity levels."
-image: "/images/subcategories/marketing-automation-placeholder.jpg"
 ---
 
 # Marketing Automation

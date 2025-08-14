@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Legal Professionals"
 tool_name: "Bill4Time (Legal)"
 deployment_status: "deployed"
-image: "/images/tools/bill4time-legal-placeholder.jpg"
 external_link: "https://www.bill4timelegal.com"
 ---
 Bill4Time is the legal-specific time tracking and billing platform that includes trust accounting, compliance reporting, and client management tools designed for law firms. With automated billing, expense tracking, and detailed legal reports, it ensures compliance while maximizing profitability.

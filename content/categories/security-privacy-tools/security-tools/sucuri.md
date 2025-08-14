@@ -5,7 +5,6 @@ category: "Security & Privacy Tools"
 subcategory: "Security Tools"
 tool_name: "Sucuri"
 deployment_status: "deployed"
-image: "/images/tools/sucuri-placeholder.jpg"
 tags: ["security-privacy-tools", "security-tools"]
 categories: ["Security & Privacy Tools"]
 subcategories: ["Security Tools"]

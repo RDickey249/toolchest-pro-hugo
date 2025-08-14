@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Deployment & Hosting"
 tool_name: "Netlify"
 deployment_status: "deployed"
-image: "/images/tools/netlify-placeholder.jpg"
 tags: ["development-technical-tools", "deployment-hosting"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Deployment & Hosting"]

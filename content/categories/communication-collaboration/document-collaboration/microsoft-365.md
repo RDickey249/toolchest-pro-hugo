@@ -5,7 +5,6 @@ category: "Communication & Collaboration"
 subcategory: "Document Collaboration"
 tool_name: "Microsoft 365"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-365-placeholder.jpg"
 tags: ["communication-collaboration", "document-collaboration"]
 categories: ["Communication & Collaboration"]
 subcategories: ["Document Collaboration"]

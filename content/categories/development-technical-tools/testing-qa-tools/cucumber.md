@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Testing & QA"
 tool_name: "Cucumber"
 deployment_status: "deployed"
-image: "/images/tools/cucumber-placeholder.jpg"
 external_link: "https://www.cucumber.com"
 ---
 Cucumber revolutionizes behavior-driven development by providing the most comprehensive testing framework that bridges the communication gap between technical and business stakeholders through executable specifications written in natural language, transforming abstract requirements into living documentation that validates software behavior while fostering true collaboration across development teams. This pioneering platform establishes the foundation for specification-by-example development that ensures software meets business requirements through executable, maintainable acceptance tests.

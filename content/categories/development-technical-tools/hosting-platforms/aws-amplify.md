@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "AWS Amplify"
 deployment_status: "deployed"
-image: "/images/tools/aws-amplify-placeholder.jpg"
 external_link: "https://www.awsamplify.com"
 ---
 AWS Amplify is the comprehensive full-stack platform trusted by companies like HyperTrack, Wag!, and thousands of developers to build and deploy scalable web and mobile applications with enterprise-grade AWS infrastructure. As Amazon's answer to Firebase and Vercel, it provides everything needed to go from idea to production in minutes while maintaining the power and flexibility of the complete AWS ecosystem.

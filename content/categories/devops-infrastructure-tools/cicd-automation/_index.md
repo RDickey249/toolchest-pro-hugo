@@ -5,7 +5,6 @@ tagline: "Continuous integration and deployment automation platforms"
 category: "DevOps & Infrastructure"
 subcategory: "CI/CD & Automation"
 description: "CI/CD and automation tools enable continuous integration, testing, and deployment of software changes, reducing manual errors and accelerating delivery cycles. These platforms automatically build, test, and deploy applications when code changes are made, ensuring consistent quality and rapid feedback. From simple build automation to complex deployment pipelines, these tools form the backbone of modern DevOps practices."
-image: "/images/subcategories/cicd-automation-placeholder.jpg"
 ---
 
 # CI/CD & Automation

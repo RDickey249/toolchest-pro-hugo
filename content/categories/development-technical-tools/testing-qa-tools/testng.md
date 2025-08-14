@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "Software Testing Frameworks"
 tool_name: "TestNG"
 deployment_status: "deployed"
-image: "/images/tools/testng-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Software Testing Frameworks"]

@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Code Quality & Linting"
 tool_name: "Prettier"
 deployment_status: "deployed"
-image: "/images/tools/prettier-placeholder.jpg"
 external_link: "https://www.prettier.com"
 ---
 Prettier revolutionizes code formatting by eliminating style debates through intelligent, opinionated formatting that works consistently across JavaScript, TypeScript, CSS, HTML, JSON, and dozens of other languages. Trusted by millions of developers at companies like Facebook, Airbnb, and Microsoft, Prettier transforms chaotic codebases into beautifully consistent, readable code that follows industry best practices without any configuration overhead.

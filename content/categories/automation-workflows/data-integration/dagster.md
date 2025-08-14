@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Data Integration"
 tool_name: "Dagster"
 deployment_status: "deployed"
-image: "/images/tools/dagster-placeholder.jpg"
 tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]

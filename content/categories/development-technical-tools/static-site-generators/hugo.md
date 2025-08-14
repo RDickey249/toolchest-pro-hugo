@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Static Site Generators"
 tool_name: "Hugo"
 deployment_status: "deployed"
-image: "/images/tools/hugo-placeholder.jpg"
 external_link: "https://www.hugo.com"
 ---
 Hugo revolutionizes static site generation by providing the most performant and flexible platform that transforms complex website creation into lightning-fast development workflows through Go-powered architecture, sub-second build times, and comprehensive content management capabilities designed specifically for developers, content creators, and organizations who require maximum performance without sacrificing functionality or flexibility. This high-performance platform establishes the foundation for modern web development that prioritizes speed, scalability, and developer experience.

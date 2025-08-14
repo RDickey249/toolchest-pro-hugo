@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "CI/CD & Automation"
 tool_name: "GitHub Actions"
 deployment_status: "deployed"
-image: "/images/tools/github-actions-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["CI/CD & Automation"]

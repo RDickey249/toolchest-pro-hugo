@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "CI/CD & Automation"
 tool_name: "Azure DevOps"
 deployment_status: "deployed"
-image: "/images/tools/azure-devops-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["CI/CD & Automation"]

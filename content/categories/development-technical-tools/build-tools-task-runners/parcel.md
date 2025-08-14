@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Build Tools & Task Runners"
 tool_name: "Parcel"
 deployment_status: "deployed"
-image: "/images/tools/parcel-placeholder.jpg"
 external_link: "https://www.parcel.com"
 ---
 Parcel is the zero-configuration web bundler trusted by developers at companies like Facebook, Microsoft, and Atlassian for its simplicity and performance. With over 1 million weekly downloads, it eliminates the complex setup that traditional bundlers require while delivering exceptional build speeds through multi-core processing.

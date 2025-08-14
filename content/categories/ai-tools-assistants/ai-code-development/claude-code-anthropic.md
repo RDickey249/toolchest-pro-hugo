@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Code & Development"
 tool_name: "Claude Code (Anthropic)"
 deployment_status: "deployed"
-image: "/images/tools/claude-code-anthropic-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-code-development"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Code & Development"]

@@ -5,7 +5,6 @@ tagline: "Unit, integration, and end-to-end testing frameworks"
 category: "Testing & Quality Assurance"
 subcategory: "Software Testing Frameworks"
 description: "Software testing frameworks provide the foundation for automated testing across different languages and application types. These tools enable developers to write and execute unit tests, integration tests, and end-to-end tests that validate application functionality and prevent regressions. From JavaScript testing frameworks to browser automation tools, these platforms support test-driven development and continuous integration workflows."
-image: "/images/subcategories/software-testing-frameworks-placeholder.jpg"
 ---
 
 # Software Testing Frameworks

@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Data Management"
 tool_name: "Databricks"
 deployment_status: "deployed"
-image: "/images/tools/databricks-placeholder.jpg"
 tags: ["analytics-data-tools", "data-management"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Data Management"]

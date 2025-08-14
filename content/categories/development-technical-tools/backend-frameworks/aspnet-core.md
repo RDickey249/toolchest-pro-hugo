@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Backend Frameworks"
 tool_name: "ASP.NET Core"
 deployment_status: "deployed"
-image: "/images/tools/aspnet-core-placeholder.jpg"
 tags: ["development-technical-tools", "backend-frameworks"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Frameworks"]

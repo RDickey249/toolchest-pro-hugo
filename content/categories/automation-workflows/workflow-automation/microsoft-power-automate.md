@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Workflow Automation"
 tool_name: "Microsoft Power Automate"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-power-automate-placeholder.jpg"
 tags: ["automation-workflows", "workflow-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Workflow Automation"]

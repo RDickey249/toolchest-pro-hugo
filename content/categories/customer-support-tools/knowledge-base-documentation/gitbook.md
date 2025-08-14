@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "GitBook"
 deployment_status: "deployed"
-image: "/images/tools/gitbook-placeholder.jpg"
 external_link: "https://www.gitbook.com"
 ---
 GitBook is the modern documentation platform used by teams at GitLab, Decathlon, and Linear to create beautiful, collaborative knowledge bases. It bridges the gap between developer-friendly Git workflows and intuitive content creation for non-technical team members.

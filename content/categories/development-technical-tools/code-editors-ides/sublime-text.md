@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Code Editors & IDEs"
 tool_name: "Sublime Text"
 deployment_status: "deployed"
-image: "/images/tools/sublime-text-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]

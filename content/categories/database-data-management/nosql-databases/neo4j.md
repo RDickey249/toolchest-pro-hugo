@@ -5,7 +5,6 @@ category: "🗄️ Database & Data Management"
 subcategory: "NoSQL Databases"
 tool_name: "Neo4j"
 deployment_status: "deployed"
-image: "/images/tools/neo4j-placeholder.jpg"
 tags: ["database-data-management", "data-management", "nosql-databases"]
 categories: ["🗄️ Database & Data Management"]
 subcategories: ["NoSQL Databases"]

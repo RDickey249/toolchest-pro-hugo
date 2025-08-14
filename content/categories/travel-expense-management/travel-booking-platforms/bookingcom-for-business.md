@@ -5,7 +5,6 @@ category: "✈️ Travel & Expense Management"
 subcategory: "Travel Booking Platforms"
 tool_name: "Booking.com for Business"
 deployment_status: "deployed"
-image: "/images/tools/bookingcom-for-business-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Travel Booking Platforms"]

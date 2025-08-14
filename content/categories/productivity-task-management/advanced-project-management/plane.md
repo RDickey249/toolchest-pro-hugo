@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Advanced Project Management"
 tool_name: "Plane"
 deployment_status: "deployed"
-image: "/images/tools/plane-placeholder.jpg"
 tags: ["productivity-task-management", "advanced-project-management"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Advanced Project Management"]

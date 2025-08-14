@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Loomly"
 deployment_status: "deployed"
-image: "/images/tools/loomly-placeholder.jpg"
 external_link: "https://www.loomly.com"
 ---
 

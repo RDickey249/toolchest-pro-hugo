@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Agencies"
 tool_name: "Productive"
 deployment_status: "deployed"
-image: "/images/tools/productive-placeholder.jpg"
 external_link: "https://www.productive.com"
 ---
 Productive is the agency management platform that combines time tracking, project budgeting, and profitability insights in one powerful system. Built specifically for creative agencies, it helps you understand which projects make money and which ones don't.

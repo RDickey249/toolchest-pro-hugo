@@ -6,7 +6,6 @@ categories: ["🔗 API & Integration Tools"]
 subcategory: "API Management"
 tool_name: "Postman - API development platform"
 deployment_status: "deployed"
-image: "/images/tools/postman-placeholder.jpg"
 external_link: "https://www.postman.com/"
 ---
 Postman is the world's leading API development platform, empowering over 25 million developers to build, test, and collaborate on APIs more efficiently.

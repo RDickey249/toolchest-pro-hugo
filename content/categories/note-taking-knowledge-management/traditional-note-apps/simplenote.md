@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Traditional Note Apps"
 tool_name: "Simplenote"
 deployment_status: "deployed"
-image: "/images/tools/simplenote-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "traditional-note-apps"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Traditional Note Apps"]

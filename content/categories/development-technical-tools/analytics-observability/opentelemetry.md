@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Analytics & Observability"
 tool_name: "OpenTelemetry"
 deployment_status: "deployed"
-image: "/images/tools/opentelemetry-placeholder.jpg"
 external_link: "https://www.opentelemetry.com"
 ---
 OpenTelemetry is the industry-standard observability framework trusted by companies like Google, Microsoft, and Netflix to unify telemetry collection across their entire technology stack. As a Cloud Native Computing Foundation graduated project, it has become the definitive solution for vendor-neutral observability, merging OpenTracing and OpenCensus to create a single, comprehensive standard for metrics, traces, and logs.

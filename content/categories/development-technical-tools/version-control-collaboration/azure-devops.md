@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Version Control & Collaboration"
 tool_name: "Azure DevOps"
 deployment_status: "deployed"
-image: "/images/tools/azure-devops-placeholder.jpg"
 tags: ["development-technical-tools", "version-control-collaboration"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Version Control & Collaboration"]

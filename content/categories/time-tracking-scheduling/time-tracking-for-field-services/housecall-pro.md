@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Field Services"
 tool_name: "Housecall Pro"
 deployment_status: "deployed"
-image: "/images/tools/housecall-pro-placeholder.jpg"
 external_link: "https://www.housecallpro.com"
 ---
 Housecall Pro is the all-in-one business platform for home service professionals. From scheduling and dispatching to time tracking and payment processing, it handles every aspect of running a field service business from your phone.

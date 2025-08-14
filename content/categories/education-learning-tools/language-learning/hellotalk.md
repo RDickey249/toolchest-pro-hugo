@@ -5,7 +5,6 @@ category: "🎓 Learning & Development"
 subcategory: "Language Learning"
 tool_name: "HelloTalk"
 deployment_status: "deployed"
-image: "/images/tools/hellotalk-placeholder.jpg"
 tags: ["education-learning-tools", "learning-development", "skill-development", "online-learning-platforms", "language-learning"]
 categories: ["🎓 Learning & Development"]
 subcategories: ["Language Learning"]

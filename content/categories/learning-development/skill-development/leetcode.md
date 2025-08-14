@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "LeetCode"
 deployment_status: "deployed"
-image: "/images/tools/leetcode-placeholder.jpg"
 external_link: "https://www.leetcode.com"
 ---
 

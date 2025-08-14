@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Design & Creative"
 tool_name: "Figma AI"
 deployment_status: "deployed"
-image: "/images/tools/figma-ai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-design-creative"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Design & Creative"]

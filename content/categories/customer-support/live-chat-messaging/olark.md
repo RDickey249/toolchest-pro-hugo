@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Live Chat & Messaging"
 tool_name: "Olark"
 deployment_status: "deployed"
-image: "/images/tools/olark-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms", "voice-phone-support", "live-chat-messaging"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Live Chat & Messaging"]

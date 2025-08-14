@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Business Process Automation"
 tool_name: "OutSystems"
 deployment_status: "deployed"
-image: "/images/tools/outsystems-placeholder.jpg"
 tags: ["automation-workflows", "business-process-automation"]
 categories: ["Automation & Workflows"]
 subcategories: ["Business Process Automation"]

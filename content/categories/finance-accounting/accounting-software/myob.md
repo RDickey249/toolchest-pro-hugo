@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Accounting Software"
 tool_name: "MYOB"
 deployment_status: "deployed"
-image: "/images/tools/myob-placeholder.jpg"
 tags: ["finance-accounting", "accounting-software"]
 categories: ["Finance & Accounting"]
 subcategories: ["Accounting Software"]

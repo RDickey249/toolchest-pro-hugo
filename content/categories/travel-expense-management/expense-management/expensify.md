@@ -5,7 +5,6 @@ category: "✈️ Travel & Expense Management"
 subcategory: "Expense Management"
 tool_name: "Expensify"
 deployment_status: "deployed"
-image: "/images/tools/expensify-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms", "corporate-card-management", "expense-management"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Expense Management"]

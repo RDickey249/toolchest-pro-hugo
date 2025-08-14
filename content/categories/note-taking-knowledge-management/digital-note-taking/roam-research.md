@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Digital Note-Taking"
 tool_name: "Roam Research"
 deployment_status: "deployed"
-image: "/images/tools/roam-research-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "digital-note-taking"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Digital Note-Taking"]

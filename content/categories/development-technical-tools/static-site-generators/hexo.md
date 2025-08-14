@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Static Site Generators"
 tool_name: "Hexo"
 deployment_status: "deployed"
-image: "/images/tools/hexo-placeholder.jpg"
 external_link: "https://www.hexo.com"
 ---
 Hexo revolutionizes blog development by providing the most blog-focused and performance-optimized static site generator built on Node.js that transforms content creation into fast, beautiful blogs through extensive theming capabilities, powerful plugin architecture, and blogging-specific features designed for content creators who demand both speed and aesthetic excellence. This specialized platform establishes the foundation for modern blogging that combines lightning-fast generation with comprehensive content management features.

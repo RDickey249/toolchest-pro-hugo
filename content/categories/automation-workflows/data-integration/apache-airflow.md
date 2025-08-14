@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Data Integration"
 tool_name: "Apache Airflow"
 deployment_status: "deployed"
-image: "/images/tools/apache-airflow-placeholder.jpg"
 tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]

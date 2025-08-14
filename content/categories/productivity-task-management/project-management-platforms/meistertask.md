@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "MeisterTask"
 deployment_status: "deployed"
-image: "/images/tools/meistertask-placeholder.jpg"
 external_link: "https://www.meistertask.com"
 ---
 MeisterTask is a beautifully designed Kanban-style project management platform that emphasizes visual workflow organization and team collaboration. The platform makes project tracking feel more like creative collaboration than administrative burden while maintaining the structure needed for successful project completion.

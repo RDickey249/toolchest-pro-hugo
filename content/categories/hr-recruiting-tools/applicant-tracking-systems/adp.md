@@ -5,7 +5,6 @@ category: "👥 HR & Recruiting Tools"
 subcategory: "Applicant Tracking Systems"
 tool_name: "ADP"
 deployment_status: "deployed"
-image: "/images/tools/adp-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Applicant Tracking Systems"]

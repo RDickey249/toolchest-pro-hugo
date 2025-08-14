@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Branding Identity"
 tool_name: "Tailor Brands"
 deployment_status: "deployed"
-image: "/images/tools/tailor-brands-placeholder.jpg"
 external_link: "https://www.tailorbrands.com"
 ---
 Tailor Brands is an AI-powered platform that creates complete brand ecosystems, going far beyond simple logo generation. It combines brand identity design with business formation services, websites, and legal support in one integrated solution.

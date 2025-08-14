@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Audio Equipment"
 tool_name: "Zoom H1n"
 deployment_status: "deployed"
-image: "/images/tools/zoom-h1n-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Audio Equipment"]

@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Reference Management"
 tool_name: "ReadCube"
 deployment_status: "deployed"
-image: "/images/tools/readcube-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Reference Management"]

@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Lumen5"
 deployment_status: "deployed"
-image: "/images/tools/lumen5-placeholder.jpg"
 external_link: "https://www.lumen5.com"
 ---
 Lumen5 is an AI-powered video creation platform that transforms written content into engaging videos. Simply provide a URL or text, and Lumen5 automatically creates professional videos for social media and marketing campaigns.

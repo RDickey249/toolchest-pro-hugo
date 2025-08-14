@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Digital Note-Taking"
 tool_name: "Logseq"
 deployment_status: "deployed"
-image: "/images/tools/logseq-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "digital-note-taking"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Digital Note-Taking"]

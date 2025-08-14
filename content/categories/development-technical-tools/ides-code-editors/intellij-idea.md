@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "IDEs & Code Editors"
 tool_name: "IntelliJ IDEA"
 deployment_status: "deployed"
-image: "/images/tools/intellij-idea-placeholder.jpg"
 external_link: "https://www.intellijidea.com"
 ---
 IntelliJ IDEA is the most intelligent Java IDE trusted by companies like Google, Netflix, and Uber to accelerate development through unparalleled code intelligence and developer productivity features. As JetBrains' flagship IDE with over 10 million users, it has redefined what developers expect from development environments, offering code completion so smart it feels like pair programming with an expert.

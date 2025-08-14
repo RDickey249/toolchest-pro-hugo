@@ -5,7 +5,6 @@ category: "🌍 Translation & Localization Tools"
 subcategory: "Localization Management"
 tool_name: "Weblate"
 deployment_status: "deployed"
-image: "/images/tools/weblate-placeholder.jpg"
 tags: ["translation-localization-tools", "translation-localization", "translation-platforms", "cultural-adaptation-tools", "localization-management"]
 categories: ["🌍 Translation & Localization Tools"]
 subcategories: ["Localization Management"]

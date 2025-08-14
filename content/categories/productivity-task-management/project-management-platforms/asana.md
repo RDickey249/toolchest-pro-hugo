@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Project Management Platforms"
 tool_name: "Asana"
 deployment_status: "deployed"
-image: "/images/tools/asana-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]

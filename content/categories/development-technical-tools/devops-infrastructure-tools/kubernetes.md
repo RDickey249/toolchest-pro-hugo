@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Container & Orchestration"
 tool_name: "Kubernetes"
 deployment_status: "deployed"
-image: "/images/tools/kubernetes-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Container & Orchestration"]

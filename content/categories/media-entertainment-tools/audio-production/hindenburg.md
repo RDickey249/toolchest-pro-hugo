@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Audio Production"
 tool_name: "Hindenburg"
 deployment_status: "deployed"
-image: "/images/tools/hindenburg-placeholder.jpg"
 external_link: "https://www.hindenburg.com"
 ---
 Hindenburg transforms audio production for journalists, podcasters, and storytellers by offering specialized tools designed specifically for spoken word content rather than music production. Major news organizations including BBC, NPR, and Danish Broadcasting Corporation rely on Hindenburg for their radio and podcast production workflows, appreciating its streamlined approach to voice editing and broadcasting compliance. The software's intelligent automation features eliminate tedious manual adjustments while maintaining the professional quality standards required for broadcast media.

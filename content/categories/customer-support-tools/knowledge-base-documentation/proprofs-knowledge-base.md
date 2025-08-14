@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base Documentation"
 tool_name: "ProProfs Knowledge Base"
 deployment_status: "deployed"
-image: "/images/tools/proprofs-knowledge-base-placeholder.jpg"
 external_link: "https://www.proprofsknowledgebase.com"
 ---
 ProProfs Knowledge Base is the user-friendly documentation platform designed for non-technical teams who want to create professional self-service resources without complexity. It features drag-and-drop editing, pre-designed templates, and built-in analytics that show which content actually helps customers.

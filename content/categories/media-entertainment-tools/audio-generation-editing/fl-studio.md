@@ -5,7 +5,6 @@ category: "🎵 Media & Entertainment Tools"
 subcategory: "Audio Production"
 tool_name: "FL Studio"
 deployment_status: "deployed"
-image: "/images/tools/fl-studio-placeholder.jpg"
 tags: ["media-entertainment-tools", "video-audio-tools", "video-streaming-production", "audio-generation-editing"]
 categories: ["🎵 Media & Entertainment Tools"]
 subcategories: ["Audio Production"]

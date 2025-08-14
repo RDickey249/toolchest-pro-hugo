@@ -6,7 +6,6 @@ categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategory: "Cloud Platforms"
 tool_name: "Google Cloud Platform"
 deployment_status: "deployed"
-image: "/images/tools/gcp-placeholder.jpg"
 external_link: "https://www.googlecloudplatform.com"
 ---
 Google Cloud Platform is the enterprise cloud built on the same global infrastructure that powers Google Search, Gmail, and YouTube, serving billions of users worldwide. Trusted by companies like Spotify, Twitter, and The Home Depot, GCP offers cutting-edge cloud services with particular strengths in AI, data analytics, and container orchestration technologies.

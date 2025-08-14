@@ -5,7 +5,6 @@ tagline: "Call center and telephony solutions"
 category: "Customer Support"
 subcategory: "Voice & Phone Support"
 description: "Voice and phone support tools provide comprehensive telephony solutions for customer service teams. From cloud-based call centers to VoIP systems and interactive voice response (IVR), these platforms enable businesses to handle phone-based support efficiently. With features like call routing, recording, analytics, and CRM integration, teams can deliver personalized phone support while maintaining operational efficiency."
-image: "/images/subcategories/voice-phone-support-placeholder.jpg"
 ---
 
 # Voice & Phone Support

@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Focus & Productivity"
 tool_name: "Be Focused"
 deployment_status: "deployed"
-image: "/images/tools/be-focused-placeholder.jpg"
 tags: ["time-tracking-scheduling", "focus-productivity"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Focus & Productivity"]

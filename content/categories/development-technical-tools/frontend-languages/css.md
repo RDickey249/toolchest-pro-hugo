@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Frontend Languages"
 tool_name: "CSS"
 deployment_status: "deployed"
-image: "/images/tools/css-placeholder.jpg"
 external_link: "https://www.css.com"
 ---
 CSS is the styling language that controls how every website and web application looks and feels. From simple color changes to complex animations and responsive layouts, CSS transforms plain HTML into beautiful, interactive user experiences.

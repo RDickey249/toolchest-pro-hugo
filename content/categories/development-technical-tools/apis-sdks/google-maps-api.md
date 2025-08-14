@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "Google Maps API"
 deployment_status: "deployed"
-image: "/images/tools/google-maps-api-placeholder.jpg"
 external_link: "https://www.googlemapsapi.com"
 ---
 When Uber revolutionized transportation, they built their entire platform on Google Maps API, processing over 15 million trips daily across 900+ cities worldwide. The comprehensive mapping platform has become the backbone of location-based services, powering everything from Airbnb's property discovery to Pokemon GO's augmented reality gameplay that engaged over 1 billion users globally.

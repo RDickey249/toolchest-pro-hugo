@@ -5,7 +5,6 @@ category: "✈️ Travel & Expense Management"
 subcategory: "Corporate Card Management"
 tool_name: "Brex"
 deployment_status: "deployed"
-image: "/images/tools/brex-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms", "corporate-card-management"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Corporate Card Management"]

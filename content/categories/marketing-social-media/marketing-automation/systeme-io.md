@@ -5,7 +5,6 @@ category: "📢 Marketing & Social Media"
 subcategory: "Marketing Automation"
 tool_name: "Systeme.io"
 deployment_status: "deployed"
-image: "/images/tools/systeme-io-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]

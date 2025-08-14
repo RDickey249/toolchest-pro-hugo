@@ -5,7 +5,6 @@ category: "♿ Accessibility & Inclusion Tools"
 subcategory: "Web Accessibility Testing"
 tool_name: "axe DevTools"
 deployment_status: "deployed"
-image: "/images/tools/axe-devtools-placeholder.jpg"
 tags: ["accessibility-inclusion-tools", "accessibility-inclusion", "web-accessibility-testing"]
 categories: ["♿ Accessibility & Inclusion Tools"]
 subcategories: ["Web Accessibility Testing"]

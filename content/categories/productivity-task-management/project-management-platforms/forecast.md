@@ -6,7 +6,6 @@ categories: ["Productivity & Task Management"]
 subcategory: "Project Management Platforms"
 tool_name: "Forecast"
 deployment_status: "deployed"
-image: "/images/tools/forecast-placeholder.jpg"
 external_link: "https://www.forecast.com"
 ---
 Forecast transforms project management through intelligent resource planning and predictive analytics that help teams optimize capacity, improve project outcomes, and make data-driven decisions. This sophisticated platform combines traditional project management with advanced AI-powered insights for intelligent forecasting and resource optimization.

@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Voice Phone Support"
 tool_name: "Five9"
 deployment_status: "deployed"
-image: "/images/tools/five9-placeholder.jpg"
 external_link: "https://www.five9.com"
 ---
 When major financial institutions like credit unions needed to transform their contact centers to handle increasing customer volumes while maintaining personal service quality, they turned to AI-powered cloud contact center solutions that could automate routine inquiries and optimize agent productivity. Fortune 500 companies such as healthcare organizations rely on intelligent contact center platforms that seamlessly integrate voice, chat, and email channels while providing comprehensive analytics and workforce management capabilities. Organizations like insurance companies use advanced contact center solutions that leverage predictive analytics and omnichannel routing to ensure customers reach the right agent with complete context from previous interactions.

@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Authentication & Authorization"
 tool_name: "OpenID Connect"
 deployment_status: "deployed"
-image: "/images/tools/openid-connect-placeholder.jpg"
 external_link: "https://www.openidconnect.com"
 ---
 OpenID Connect is the industry-standard identity layer trusted by companies like Google, Microsoft, and Auth0 to provide secure, standardized authentication on top of OAuth 2.0. As the definitive solution for modern identity verification, it enables applications to authenticate users reliably while maintaining the authorization capabilities of OAuth 2.0, powering single sign-on experiences for billions of users worldwide.

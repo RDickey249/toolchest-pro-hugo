@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Field Services"
 tool_name: "Jobber"
 deployment_status: "deployed"
-image: "/images/tools/jobber-placeholder.jpg"
 external_link: "https://www.jobber.com"
 ---
 Jobber is the complete business management platform for field service companies that combines time tracking, scheduling, CRM, and invoicing in one system. Built for teams that work on-site, it streamlines everything from quote to payment.

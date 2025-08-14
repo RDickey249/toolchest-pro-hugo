@@ -5,7 +5,6 @@ category: "Cloud Storage & File Management"
 subcategory: "File Transfer"
 tool_name: "SendAnywhere"
 deployment_status: "deployed"
-image: "/images/tools/sendanywhere-placeholder.jpg"
 tags: ["cloud-storage-file-management", "file-transfer"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["File Transfer"]

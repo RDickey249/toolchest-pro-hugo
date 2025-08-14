@@ -5,7 +5,6 @@ category: "Automation & Workflows"
 subcategory: "Data Integration"
 tool_name: "Stitch"
 deployment_status: "deployed"
-image: "/images/tools/stitch-placeholder.jpg"
 tags: ["automation-workflows", "data-integration"]
 categories: ["Automation & Workflows"]
 subcategories: ["Data Integration"]

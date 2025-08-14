@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Backend Languages"
 tool_name: "Node.js"
 deployment_status: "deployed"
-image: "/images/tools/node-js-placeholder.jpg"
 external_link: "https://www.nodejs.com"
 ---
 Node.js is the revolutionary JavaScript runtime that transformed backend development, powering applications for Netflix, LinkedIn, and millions of developers worldwide with its event-driven, non-blocking architecture. Built on Chrome's V8 engine and created by Ryan Dahl in 2009, it has become the backbone of modern web development by enabling JavaScript everywhere.

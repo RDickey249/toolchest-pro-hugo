@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"
 tool_name: "DALL-E (OpenAI)"
 deployment_status: "deployed"
-image: "/images/tools/dall-placeholder.jpg"
 external_link: "https://www.dall.com"
 ---
 

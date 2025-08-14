@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking"
 tool_name: "Paydirt"
 deployment_status: "deployed"
-image: "/images/tools/paydirt-placeholder.jpg"
 external_link: "https://paydirtapp.com"
 ---
 Paydirt is a streamlined time tracking and invoicing platform designed specifically for freelancers and small businesses. The software focuses on essential features like time logging, project organization, and professional billing without the complexity of enterprise-level business management tools.

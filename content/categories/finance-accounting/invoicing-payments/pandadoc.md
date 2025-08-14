@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Invoicing & Payments"
 tool_name: "PandaDoc"
 deployment_status: "deployed"
-image: "/images/tools/pandadoc-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]

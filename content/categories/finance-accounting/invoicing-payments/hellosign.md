@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Invoicing & Payments"
 tool_name: "HelloSign"
 deployment_status: "deployed"
-image: "/images/tools/hellosign-placeholder.jpg"
 tags: ["finance-accounting", "invoicing-payments"]
 categories: ["Finance & Accounting"]
 subcategories: ["Invoicing & Payments"]

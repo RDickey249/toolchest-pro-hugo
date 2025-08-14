@@ -6,7 +6,6 @@ categories: ["🧪 Testing & Quality Assurance"]
 subcategory: "Performance Testing"
 tool_name: "LoadRunner"
 deployment_status: "deployed"
-image: "/images/tools/loadrunner-placeholder.jpg"
 external_link: "https://www.loadrunner.com"
 ---
 LoadRunner is the industry-standard enterprise performance testing platform trusted by 95% of Fortune 500 companies for over 25 years. From banking systems handling millions of transactions to e-commerce sites during Black Friday, LoadRunner validates application performance under the most demanding conditions.

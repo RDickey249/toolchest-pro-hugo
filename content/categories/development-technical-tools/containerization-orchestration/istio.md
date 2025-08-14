@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Containerization & Orchestration"
 tool_name: "Istio"
 deployment_status: "deployed"
-image: "/images/tools/istio-placeholder.jpg"
 external_link: "https://www.istio.com"
 ---
 When eBay needed to secure and manage communication between over 1,000 microservices handling millions of transactions daily, they implemented Istio as their service mesh solution. The platform immediately provided mutual TLS encryption for all service-to-service communication, comprehensive traffic management, and deep observability without requiring any code changes to their existing applications. Within six months, eBay reduced security incidents by 85% and improved their mean time to resolution for production issues by 60% through Istio's powerful telemetry and traffic management capabilities.

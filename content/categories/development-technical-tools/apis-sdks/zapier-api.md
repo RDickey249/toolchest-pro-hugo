@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "Zapier API"
 deployment_status: "deployed"
-image: "/images/tools/zapier-api-placeholder.jpg"
 external_link: "https://www.zapierapi.com"
 ---
 Zapier API is the powerful developer platform that enables building custom integrations for the world's largest automation ecosystem, trusted by companies like BuzzFeed, Adobe, and thousands of SaaS providers to connect their applications with 5,000+ other tools. This comprehensive API empowers developers to create seamless integrations that unlock the full potential of business automation.

@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Business Intelligence"
 tool_name: "Domo"
 deployment_status: "deployed"
-image: "/images/tools/domo-placeholder.jpg"
 tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]

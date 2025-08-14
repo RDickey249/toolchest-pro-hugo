@@ -6,7 +6,6 @@ categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "Referral Marketing"
 tool_name: "ReferralCandy"
 deployment_status: "deployed"
-image: "/images/tools/referralcandy-placeholder.jpg"
 tags: ["e-commerce-business-tools", "referral-marketing"]
 external_link: "https://www.referralcandy.com"
 rating: 4.4

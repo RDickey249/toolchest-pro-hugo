@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Mobile Development:"
 tool_name: "Xamarin"
 deployment_status: "deployed"
-image: "/images/tools/xamarin-placeholder.jpg"
 tags: ["development-technical-tools", "mobile-development"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Mobile Development:"]

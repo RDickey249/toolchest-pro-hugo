@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Mobile Time Tracking Tools"
 tool_name: "HoursTracker"
 deployment_status: "deployed"
-image: "/images/tools/hourstracker-placeholder.jpg"
 external_link: "https://www.hourstracker.com"
 ---
 HoursTracker is a mobile time tracking app designed for freelancers and independent contractors who need simple, accurate work hour tracking with automatic earnings calculations.

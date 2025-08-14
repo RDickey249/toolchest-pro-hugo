@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Registration & Ticketing"
 tool_name: "Aventri"
 deployment_status: "deployed"
-image: "/images/tools/aventri-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms", "virtual-event-platforms", "registration-ticketing"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Registration & Ticketing"]

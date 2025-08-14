@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "Survey Platforms"
 tool_name: "Formstack"
 deployment_status: "deployed"
-image: "/images/tools/formstack-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Survey Platforms"]

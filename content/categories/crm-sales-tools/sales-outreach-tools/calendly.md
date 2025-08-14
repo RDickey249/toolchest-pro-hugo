@@ -5,7 +5,6 @@ category: "CRM & Sales Tools"
 subcategory: "Sales & Outreach Tools"
 tool_name: "Calendly"
 deployment_status: "deployed"
-image: "/images/tools/calendly-placeholder.jpg"
 tags: ["crm-sales-tools", "sales-outreach-tools"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Sales & Outreach Tools"]

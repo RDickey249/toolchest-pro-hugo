@@ -5,7 +5,6 @@ category: "Time Tracking & Scheduling"
 subcategory: "Focus & Productivity"
 tool_name: "StayFocusd"
 deployment_status: "deployed"
-image: "/images/tools/stayfocusd-placeholder.jpg"
 tags: ["time-tracking-scheduling", "focus-productivity"]
 categories: ["Time Tracking & Scheduling"]
 subcategories: ["Focus & Productivity"]

@@ -5,7 +5,6 @@ tagline: "Online survey creation and data collection tools"
 category: "Research & Survey"
 subcategory: "Survey Platforms"
 description: "Survey platforms provide powerful tools for creating, distributing, and analyzing online surveys and forms. These solutions offer diverse question types, advanced logic, and branching capabilities to create engaging survey experiences. With features like real-time analytics, data visualization, and integration options, survey platforms help organizations collect feedback, measure satisfaction, conduct research, and make data-driven decisions across all aspects of their business."
-image: "/images/subcategories/survey-platforms-placeholder.jpg"
 ---
 
 # Survey Platforms

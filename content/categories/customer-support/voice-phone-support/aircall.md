@@ -5,7 +5,6 @@ category: "🎧 Customer Support Tools"
 subcategory: "Voice & Phone Support"
 tool_name: "Aircall"
 deployment_status: "deployed"
-image: "/images/tools/aircall-placeholder.jpg"
 tags: ["customer-support", "customer-support-tools", "knowledge-base-documentation", "help-desk-platforms", "voice-phone-support"]
 categories: ["🎧 Customer Support Tools"]
 subcategories: ["Voice & Phone Support"]

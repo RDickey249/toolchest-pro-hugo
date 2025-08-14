@@ -5,7 +5,6 @@ tagline: "Social media scheduling, management, and analytics tools"
 category: "Business Marketing"
 subcategory: "Social Media Management"
 description: "Social media management tools help businesses maintain consistent presence across multiple social platforms through content scheduling, analytics, and engagement management. These platforms streamline social media workflows by enabling bulk content creation, automated posting, and comprehensive performance tracking. From small businesses managing a few accounts to agencies handling dozens of clients, these tools provide the efficiency and insights needed for effective social media marketing."
-image: "/images/subcategories/social-media-management-placeholder.jpg"
 ---
 
 # Social Media Management

@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Statistical Analysis Software"
 tool_name: "GraphPad Prism"
 deployment_status: "deployed"
-image: "/images/tools/graphpad-prism-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management", "statistical-analysis-software"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Statistical Analysis Software"]

@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Knowledge Base & Documentation"
 tool_name: "Helpjuice"
 deployment_status: "deployed"
-image: "/images/tools/helpjuice-placeholder.jpg"
 external_link: "https://www.helpjuice.com"
 ---
 Helpjuice is the customer-focused knowledge base platform used by thousands of companies to reduce support tickets while improving customer satisfaction. It's designed specifically to create self-service documentation that customers actually want to use.

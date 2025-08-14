@@ -5,7 +5,6 @@ category: "📊 Research & Survey Tools"
 subcategory: "Survey Platforms"
 tool_name: "Microsoft Forms"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-forms-placeholder.jpg"
 tags: ["research-survey-tools", "research-survey", "survey-platforms"]
 categories: ["📊 Research & Survey Tools"]
 subcategories: ["Survey Platforms"]

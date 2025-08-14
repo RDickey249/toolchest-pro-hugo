@@ -5,7 +5,6 @@ category: "🛍️ E-commerce & Business Tools"
 subcategory: "Ecommerce Platforms"
 tool_name: "Shopify"
 deployment_status: "deployed"
-image: "/images/tools/shopify-placeholder.jpg"
 tags: ["ecommerce-business-tools", "ecommerce-platforms"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Ecommerce Platforms"]

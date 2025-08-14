@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "Glitch"
 deployment_status: "deployed"
-image: "/images/tools/glitch-placeholder.jpg"
 external_link: "https://www.glitch.com"
 ---
 Glitch is the creative coding platform trusted by Mozilla, The New York Times, and thousands of educators to make programming accessible through browser-based development with instant deployment and real-time collaboration. As the platform that pioneered "coding in the cloud," it eliminates setup friction while fostering a vibrant community where developers learn, experiment, and share projects effortlessly.

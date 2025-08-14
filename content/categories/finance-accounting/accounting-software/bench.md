@@ -5,7 +5,6 @@ category: "Finance & Accounting"
 subcategory: "Accounting Software"
 tool_name: "Bench"
 deployment_status: "deployed"
-image: "/images/tools/bench-placeholder.jpg"
 tags: ["finance-accounting", "accounting-software"]
 categories: ["Finance & Accounting"]
 subcategories: ["Accounting Software"]

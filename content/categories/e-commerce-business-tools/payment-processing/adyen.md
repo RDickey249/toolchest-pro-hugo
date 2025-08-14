@@ -5,7 +5,6 @@ category: "🛍️ E-commerce & Business Tools"
 subcategory: "Payment Processing"
 tool_name: "Adyen"
 deployment_status: "deployed"
-image: "/images/tools/adyen-placeholder.jpg"
 tags: ["ecommerce-business-tools", "e-commerce-business-tools", "inventory-management", "payment-processing"]
 categories: ["🛍️ E-commerce & Business Tools"]
 subcategories: ["Payment Processing"]

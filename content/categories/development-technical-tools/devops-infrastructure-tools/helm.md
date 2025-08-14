@@ -5,7 +5,6 @@ category: "🔧 DevOps & Infrastructure Tools"
 subcategory: "Container & Orchestration"
 tool_name: "Helm"
 deployment_status: "deployed"
-image: "/images/tools/helm-placeholder.jpg"
 tags: ["development-technical-tools", "devops-infrastructure-tools"]
 categories: ["🔧 DevOps & Infrastructure Tools"]
 subcategories: ["Container & Orchestration"]

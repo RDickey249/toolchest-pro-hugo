@@ -5,7 +5,6 @@ category: "🖥️ Hardware & Equipment Tools"
 subcategory: "Office Equipment"
 tool_name: "Printers"
 deployment_status: "deployed"
-image: "/images/tools/printers-placeholder.jpg"
 tags: ["hardware-equipment-tools", "hardware-equipment", "audio-equipment", "office-equipment"]
 categories: ["🖥️ Hardware & Equipment Tools"]
 subcategories: ["Office Equipment"]

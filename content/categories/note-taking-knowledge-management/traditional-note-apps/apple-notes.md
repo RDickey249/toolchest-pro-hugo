@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Traditional Note Apps"
 tool_name: "Apple Notes"
 deployment_status: "deployed"
-image: "/images/tools/apple-notes-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "traditional-note-apps"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Traditional Note Apps"]

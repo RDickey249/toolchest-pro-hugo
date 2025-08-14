@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Code Quality & Linting"
 tool_name: "Gerrit"
 deployment_status: "deployed"
-image: "/images/tools/gerrit-placeholder.jpg"
 external_link: "https://www.gerrit.com"
 ---
 Gerrit revolutionizes enterprise code review by providing the most comprehensive and rigorous Git-based platform that transforms code quality management into systematic, enforceable workflows through mandatory review processes, fine-grained access control, and sophisticated change management designed specifically for large development organizations who cannot compromise on code quality or security standards. This enterprise-grade platform establishes the foundation for systematic code review that scales from small teams to thousands of developers while maintaining complete quality control.

@@ -5,7 +5,6 @@ category: "Productivity & Task Management"
 subcategory: "Project Management Platforms"
 tool_name: "Project.co"
 deployment_status: "deployed"
-image: "/images/tools/project-co-placeholder.jpg"
 tags: ["productivity-task-management", "project-management-platforms"]
 categories: ["Productivity & Task Management"]
 subcategories: ["Project Management Platforms"]

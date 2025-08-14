@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Backend Languages"
 tool_name: "Rust"
 deployment_status: "deployed"
-image: "/images/tools/rust-placeholder.jpg"
 tags: ["development-technical-tools", "backend-languages"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Backend Languages"]

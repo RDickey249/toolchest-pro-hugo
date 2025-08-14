@@ -6,7 +6,6 @@ categories: ["🎵 Media & Entertainment Tools"]
 subcategory: "Video Creation Editing"
 tool_name: "Wisecut"
 deployment_status: "deployed"
-image: "/images/tools/wisecut-placeholder.jpg"
 external_link: "https://www.wisecut.com"
 ---
 Wisecut is an AI-powered video editing platform that automatically transforms long-form content into engaging, fast-paced videos. The AI analyzes speech patterns to remove dead space, filler words, and boring segments while preserving natural conversation flow.
@@ -18,7 +17,6 @@ category: "🎨 Design & Creative Tools"
 subcategory: "🎨 Design & Creative Tools"
 tool_name: "Wisecut"
 deployment_status: "deployed"
-image: "/images/tools/wisecut-placeholder.jpg"
 ---
 
 # Wisecut

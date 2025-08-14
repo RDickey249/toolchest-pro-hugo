@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Frontend Languages"
 tool_name: "HTML"
 deployment_status: "deployed"
-image: "/images/tools/html-placeholder.jpg"
 external_link: "https://www.html.com"
 ---
 HTML is the foundational markup language of the web, providing structure and semantic meaning to every website and web application. It's the essential technology that powers everything from simple blogs to complex applications at Google, Facebook, and Amazon.

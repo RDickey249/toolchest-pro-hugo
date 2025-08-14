@@ -5,7 +5,6 @@ category: "✈️ Travel & Expense Management"
 subcategory: "Corporate Card Management"
 tool_name: "Chase Business Cards"
 deployment_status: "deployed"
-image: "/images/tools/chase-business-cards-placeholder.jpg"
 tags: ["travel-expense-management", "travel-expense", "travel-booking-platforms", "corporate-card-management"]
 categories: ["✈️ Travel & Expense Management"]
 subcategories: ["Corporate Card Management"]

@@ -5,7 +5,6 @@ category: "🎪 Event Management Tools"
 subcategory: "Event Planning Platforms"
 tool_name: "Bizzabo"
 deployment_status: "deployed"
-image: "/images/tools/bizzabo-placeholder.jpg"
 tags: ["event-management-tools", "event-management", "event-planning-platforms"]
 categories: ["🎪 Event Management Tools"]
 subcategories: ["Event Planning Platforms"]

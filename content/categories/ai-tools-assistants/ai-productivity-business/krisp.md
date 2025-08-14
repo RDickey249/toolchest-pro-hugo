@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "AI Productivity & Business"
 tool_name: "Krisp"
 deployment_status: "deployed"
-image: "/images/tools/krisp-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]

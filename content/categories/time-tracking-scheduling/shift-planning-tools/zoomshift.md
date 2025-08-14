@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Shift Planning Tools"
 tool_name: "ZoomShift"
 deployment_status: "deployed"
-image: "/images/tools/zoomshift-placeholder.jpg"
 external_link: "https://zoomshift.com"
 rating: 4.3
 starting_price: 29

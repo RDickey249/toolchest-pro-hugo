@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Shift Scheduling"
 tool_name: "Humanity"
 deployment_status: "deployed"
-image: "/images/tools/humanity-placeholder.jpg"
 external_link: "https://humanity.com"
 rating: 4.3
 starting_price: 29

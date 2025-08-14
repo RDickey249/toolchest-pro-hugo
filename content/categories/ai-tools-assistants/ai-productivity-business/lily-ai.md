@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Productivity Business"
 tool_name: "Lily AI"
 deployment_status: "deployed"
-image: "/images/tools/lily-ai-placeholder.jpg"
 external_link: "https://www.lilyai.com"
 ---
 Lily AI is the e-commerce product intelligence platform that automatically generates detailed product attributes and tags from images and descriptions to improve search accuracy and personalization for fashion and lifestyle retailers.

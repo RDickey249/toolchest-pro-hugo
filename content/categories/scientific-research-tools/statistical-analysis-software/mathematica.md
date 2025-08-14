@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Statistical Analysis Software"
 tool_name: "Mathematica"
 deployment_status: "deployed"
-image: "/images/tools/mathematica-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management", "reference-management", "statistical-analysis-software"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Statistical Analysis Software"]

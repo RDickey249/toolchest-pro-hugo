@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Analytics Insights"
 tool_name: "Snapchat Insights"
 deployment_status: "deployed"
-image: "/images/tools/snapchat-insights-placeholder.jpg"
 external_link: "https://www.snapchatinsights.com"
 ---
 

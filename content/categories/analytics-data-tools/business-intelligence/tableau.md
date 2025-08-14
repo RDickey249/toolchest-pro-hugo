@@ -5,7 +5,6 @@ category: "Analytics & Data Tools"
 subcategory: "Business Intelligence"
 tool_name: "Tableau"
 deployment_status: "deployed"
-image: "/images/tools/tableau-placeholder.jpg"
 tags: ["analytics-data-tools", "business-intelligence"]
 categories: ["Analytics & Data Tools"]
 subcategories: ["Business Intelligence"]

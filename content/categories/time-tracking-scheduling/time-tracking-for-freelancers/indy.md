@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Freelancers"
 tool_name: "Indy"
 deployment_status: "deployed"
-image: "/images/tools/indy-placeholder.jpg"
 external_link: "https://www.indy.com"
 ---
 Indy is the comprehensive business management platform for freelancers that combines time tracking, contract management, invoicing, and task organization in one place. From project planning to payment collection, it handles the entire freelance business lifecycle.

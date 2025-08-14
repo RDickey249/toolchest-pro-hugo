@@ -5,7 +5,6 @@ category: "👥 HR & Recruiting Tools"
 subcategory: "Background Checks & Verification"
 tool_name: "Employment verification"
 deployment_status: "deployed"
-image: "/images/tools/employment-verification-placeholder.jpg"
 tags: ["hr-recruiting-tools", "hr-recruiting", "job-posting-sourcing", "applicant-tracking-systems", "background-checks-verification"]
 categories: ["👥 HR & Recruiting Tools"]
 subcategories: ["Background Checks & Verification"]

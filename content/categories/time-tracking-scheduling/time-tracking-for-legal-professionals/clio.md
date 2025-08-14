@@ -6,7 +6,6 @@ categories: ["Time Tracking & Scheduling"]
 subcategory: "Time Tracking For Legal Professionals"
 tool_name: "Clio"
 deployment_status: "deployed"
-image: "/images/tools/clio-placeholder.jpg"
 external_link: "https://www.clio.com"
 ---
 Clio is the leading legal practice management platform that combines time tracking, case management, and billing in one integrated system. Built specifically for law firms, it handles the business side of legal practice so attorneys can focus on serving clients.

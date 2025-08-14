@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Hosting Platforms"
 tool_name: "GitLab Pages"
 deployment_status: "deployed"
-image: "/images/tools/gitlab-pages-placeholder.jpg"
 external_link: "https://www.gitlabpages.com"
 ---
 GitLab Pages is the integrated static site hosting solution trusted by companies like GitLab itself, NASA, and thousands of organizations to deploy websites directly from repositories with seamless CI/CD automation. As GitLab's native hosting service, it transforms any repository into a live website while maintaining the same version control, access permissions, and collaboration features that teams already use for code development.

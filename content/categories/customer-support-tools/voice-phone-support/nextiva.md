@@ -6,7 +6,6 @@ categories: ["🎧 Customer Support Tools"]
 subcategory: "Voice Phone Support"
 tool_name: "Nextiva"
 deployment_status: "deployed"
-image: "/images/tools/nextiva-placeholder.jpg"
 external_link: "https://www.nextiva.com"
 ---
 Nextiva is the complete business communications platform trusted by companies like Cold Stone Creamery, Edward Jones, and thousands of businesses worldwide to unify voice, video, collaboration, and customer experience tools in one integrated solution that delivers reliability and scalability from small offices to large enterprises. Built with the "Amazing Service" philosophy, Nextiva has earned recognition as one of the most reliable business communication providers through consistent innovation and customer-focused development.

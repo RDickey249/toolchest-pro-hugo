@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "Agorapulse"
 deployment_status: "deployed"
-image: "/images/tools/agorapulse-placeholder.jpg"
 external_link: "https://www.agorapulse.com"
 ---
 

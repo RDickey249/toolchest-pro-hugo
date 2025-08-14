@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Monitoring & Observability"
 tool_name: "Sentry"
 deployment_status: "deployed"
-image: "/images/tools/sentry-placeholder.jpg"
 tags: ["development-technical-tools", "monitoring-observability"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Monitoring & Observability"]

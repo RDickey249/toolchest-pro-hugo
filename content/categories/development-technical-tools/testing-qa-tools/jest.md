@@ -5,7 +5,6 @@ category: "🧪 Testing & Quality Assurance"
 subcategory: "Software Testing Frameworks"
 tool_name: "Jest"
 deployment_status: "deployed"
-image: "/images/tools/jest-placeholder.jpg"
 tags: ["development-technical-tools", "testing-qa-tools"]
 categories: ["🧪 Testing & Quality Assurance"]
 subcategories: ["Software Testing Frameworks"]

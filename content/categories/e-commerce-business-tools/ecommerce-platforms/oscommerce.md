@@ -6,7 +6,6 @@ categories: ["🛍️ E-commerce & Business Tools"]
 subcategory: "Ecommerce Platforms"
 tool_name: "osCommerce"
 deployment_status: "deployed"
-image: "/images/tools/oscommerce-placeholder.jpg"
 external_link: "https://www.oscommerce.com"
 ---
 osCommerce stands as one of the pioneering open-source e-commerce platforms that has powered online retail for over two decades, delivering proven, enterprise-ready solutions with the flexibility and cost-effectiveness that only true open-source software can provide. As one of the first comprehensive e-commerce platforms to emerge in the early 2000s, osCommerce has evolved through continuous community development to support modern online retail requirements while maintaining its core philosophy of accessibility and customization.

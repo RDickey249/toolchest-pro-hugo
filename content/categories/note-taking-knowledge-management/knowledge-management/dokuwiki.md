@@ -5,7 +5,6 @@ category: "Note-Taking & Knowledge Management"
 subcategory: "Knowledge Management"
 tool_name: "DokuWiki"
 deployment_status: "deployed"
-image: "/images/tools/dokuwiki-placeholder.jpg"
 tags: ["note-taking-knowledge-management", "knowledge-management"]
 categories: ["Note-Taking & Knowledge Management"]
 subcategories: ["Knowledge Management"]

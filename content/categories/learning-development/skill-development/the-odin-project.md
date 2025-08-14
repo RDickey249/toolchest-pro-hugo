@@ -6,7 +6,6 @@ categories: ["🎓 Learning & Development"]
 subcategory: "Skill Development"
 tool_name: "The Odin Project"
 deployment_status: "deployed"
-image: "/images/tools/the-odin-project-placeholder.jpg"
 external_link: "https://www.theodinproject.com"
 ---
 

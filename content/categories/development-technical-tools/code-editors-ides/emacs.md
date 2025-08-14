@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Code Editors & IDEs"
 tool_name: "Emacs"
 deployment_status: "deployed"
-image: "/images/tools/emacs-placeholder.jpg"
 tags: ["development-technical-tools", "code-editors-ides"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Code Editors & IDEs"]

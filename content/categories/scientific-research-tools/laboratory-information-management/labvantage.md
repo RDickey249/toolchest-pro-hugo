@@ -5,7 +5,6 @@ category: "🔬 Scientific & Research Tools"
 subcategory: "Laboratory Information Management"
 tool_name: "LabVantage"
 deployment_status: "deployed"
-image: "/images/tools/labvantage-placeholder.jpg"
 tags: ["scientific-research-tools", "scientific-research", "laboratory-information-management"]
 categories: ["🔬 Scientific & Research Tools"]
 subcategories: ["Laboratory Information Management"]

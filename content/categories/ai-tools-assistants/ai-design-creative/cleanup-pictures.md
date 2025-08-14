@@ -6,7 +6,6 @@ categories: ["AI Tools & Assistants"]
 subcategory: "Ai Design Creative"
 tool_name: "Cleanup.pictures"
 deployment_status: "deployed"
-image: "/images/tools/cleanup-pictures-placeholder.jpg"
 external_link: "https://www.cleanuppictures.com"
 ---
 Cleanup.pictures is the AI-powered photo editing tool that seamlessly removes unwanted objects, people, text, and blemishes from images with just a few clicks, eliminating complex manual editing work.

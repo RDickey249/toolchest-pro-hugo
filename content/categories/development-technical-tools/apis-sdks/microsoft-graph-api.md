@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "APIs & SDKs"
 tool_name: "Microsoft Graph API"
 deployment_status: "deployed"
-image: "/images/tools/microsoft-graph-api-placeholder.jpg"
 external_link: "https://www.microsoftgraphapi.com"
 ---
 Microsoft Graph API is Microsoft's unified gateway to the entire Microsoft 365 and Azure ecosystem, serving over 250 million commercial Office 365 users worldwide. Used by companies like SAP, Adobe, and Miro to build powerful productivity integrations, it's the single endpoint that unlocks Microsoft's vast enterprise platform.

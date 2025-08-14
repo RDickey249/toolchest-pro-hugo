@@ -6,7 +6,6 @@ categories: ["Development & Technical Tools"]
 subcategory: "Build Tools & Task Runners"
 tool_name: "Webpack"
 deployment_status: "deployed"
-image: "/images/tools/webpack-placeholder.jpg"
 external_link: "https://www.webpack.com"
 ---
 Webpack is the industry-standard module bundler that revolutionized JavaScript development, trusted by companies like Facebook, Netflix, and millions of developers worldwide to build and optimize modern web applications. As the foundation for frameworks like React, Vue, and Angular, it has become the essential tool that powers the modern web development ecosystem.

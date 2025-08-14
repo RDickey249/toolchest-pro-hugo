@@ -6,7 +6,6 @@ categories: ["📢 Marketing & Social Media"]
 subcategory: "Social Media Management"
 tool_name: "SocialBee"
 deployment_status: "deployed"
-image: "/images/tools/socialbee-placeholder.jpg"
 external_link: "https://www.socialbee.com"
 ---
 

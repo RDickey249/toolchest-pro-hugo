@@ -5,7 +5,6 @@ category: "Development & Technical Tools"
 subcategory: "Systems & Low-Level"
 tool_name: "Zig"
 deployment_status: "deployed"
-image: "/images/tools/zig-placeholder.jpg"
 tags: ["development-technical-tools", "systems-low-level"]
 categories: ["Development & Technical Tools"]
 subcategories: ["Systems & Low-Level"]

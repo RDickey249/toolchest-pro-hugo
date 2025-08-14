@@ -5,7 +5,6 @@ category: "Cloud Storage & File Management"
 subcategory: "Personal Cloud Storage"
 tool_name: "Dropbox"
 deployment_status: "deployed"
-image: "/images/tools/dropbox-placeholder.jpg"
 tags: ["cloud-storage-file-management", "personal-cloud-storage"]
 categories: ["Cloud Storage & File Management"]
 subcategories: ["Personal Cloud Storage"]

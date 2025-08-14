@@ -5,7 +5,6 @@ category: "AI Tools & Assistants"
 subcategory: "Conversational AI"
 tool_name: "Bard (Google)"
 deployment_status: "deployed"
-image: "/images/tools/bard-google-placeholder.jpg"
 tags: ["ai-tools-assistants", "conversational-ai"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["Conversational AI"]
