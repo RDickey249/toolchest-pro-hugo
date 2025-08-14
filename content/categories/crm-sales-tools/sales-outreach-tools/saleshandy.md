@@ -9,7 +9,7 @@ image: "/images/tools/saleshandy-placeholder.jpg"
 tags: ["crm-sales-tools", "sales-outreach-tools"]
 categories: ["CRM & Sales Tools"]
 subcategories: ["Sales Outreach Tools"]
-external_link: "https://www.saleshandy.com"
+external_link: "https://www.saleshandy.com/?p=v3&via=c3dd6b"
 ---
 Saleshandy is the cold email outreach platform that helps sales teams and agencies scale their prospecting efforts with automated sequences and deliverability optimization.
 
@@ -56,4 +56,4 @@ Trusted by over 10,000 businesses and agencies to power their cold email campaig
 
 ## Get Started with Saleshandy
 
-Ready to get started? Visit [Saleshandy](https://www.saleshandy.com) to explore the platform and begin using this powerful tool.
+Ready to get started? Visit [Saleshandy](https://www.saleshandy.com/?p=v3&via=c3dd6b) to explore the platform and begin using this powerful tool.

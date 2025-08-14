@@ -9,7 +9,7 @@ image: "/images/tools/systeme-io-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
-external_link: "https://systeme.io"
+external_link: "https://e50f-affiliates.systeme.io/proxy/request/492531440d715e1e449f1f93416da9a312008"
 ---
 Systeme.io is the all-in-one platform that replaces multiple tools for online entrepreneurs and small businesses wanting to sell products and services online.
 
@@ -55,4 +55,4 @@ Used by thousands of entrepreneurs to launch and scale their online businesses w
 
 ## Get Started with Systeme.io
 
-Ready to get started? Visit [Systeme.io](https://www.systemeio.com) to explore the platform and begin using this powerful tool.
+Ready to get started? Visit [Systeme.io](https://e50f-affiliates.systeme.io/proxy/request/492531440d715e1e449f1f93416da9a312008) to explore the platform and begin using this powerful tool.

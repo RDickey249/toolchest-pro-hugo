@@ -9,7 +9,7 @@ image: "/images/tools/customers-ai-placeholder.jpg"
 tags: ["ai-tools-assistants", "ai-productivity-business"]
 categories: ["AI Tools & Assistants"]
 subcategories: ["AI Productivity & Business"]
-external_link: "https://customers.ai"
+external_link: "https://app.mobilemonkey.com/signup?a_aid=0249&a_bid=26579029"
 ---
 Customers.ai is the AI-powered customer intelligence platform that helps businesses understand, segment, and engage their customers with unprecedented precision.
 
@@ -55,4 +55,4 @@ Trusted by growing businesses to unlock the full potential of their customer dat
 
 ## Get Started with Customers.ai
 
-Ready to get started? Visit [Customers.ai](https://www.customersai.com) to explore the platform and begin using this powerful tool.
+Ready to get started? Visit [Customers.ai](https://app.mobilemonkey.com/signup?a_aid=0249&a_bid=26579029) to explore the platform and begin using this powerful tool.

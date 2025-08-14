@@ -9,7 +9,7 @@ image: "/images/tools/clickfunnels-placeholder.jpg"
 tags: ["business-marketing-tools", "marketing-automation"]
 categories: ["📢 Marketing & Social Media"]
 subcategories: ["Marketing Automation"]
-external_link: "https://www.clickfunnels.com"
+external_link: "https://www.plrfunnels.com/plr?aff=abd11897697d24c8a7eac2ecdc0c3c450c9d5c95cf7d36028ca1db57736a3a81"
 ---
 ClickFunnels is the all-in-one sales funnel builder that helps entrepreneurs and businesses create high-converting marketing funnels without technical expertise.
 
@@ -47,4 +47,4 @@ Join thousands of entrepreneurs who use ClickFunnels to build profitable sales f
 
 ## Get Started with ClickFunnels
 
-Ready to get started? Visit [ClickFunnels](https://www.clickfunnels.com) to explore the platform and begin using this powerful tool.
+Ready to get started? Visit [ClickFunnels](https://www.plrfunnels.com/plr?aff=abd11897697d24c8a7eac2ecdc0c3c450c9d5c95cf7d36028ca1db57736a3a81) to explore the platform and begin using this powerful tool.
