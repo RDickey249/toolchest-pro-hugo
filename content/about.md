@@ -7,7 +7,7 @@ draft: false
 
 ## Our Mission: Cutting Through the Tool Overwhelm
 
-ToolChest is a comprehensive directory of 1,271+ business tools organized to help you discover what you need without the overwhelm. In a world where new business tools launch every day, we provide a structured, searchable catalog that cuts through the noise. Our goal is simple: organize the business tool landscape so you can find what you're looking for quickly and efficiently. We believe that the right tools should be easy to discover, and our categorized approach helps you explore by function, use case, and business need.
+ToolChest is a comprehensive directory of 1,630+ business tools organized to help you discover what you need without the overwhelm. In a world where new business tools launch every day, we provide a structured, searchable catalog that cuts through the noise. Our goal is simple: organize the business tool landscape so you can find what you're looking for quickly and efficiently. We believe that the right tools should be easy to discover, and our categorized approach helps you explore by function, use case, and business need.
 
 ## About Ryan Dickey
 
@@ -17,7 +17,6 @@ ToolChest is a comprehensive directory of 1,271+ business tools organized to hel
   </div>
   <div class="author-bio">
     <p>Ryan Dickey is an AI Content Strategist and Apress author who founded ToolChest after experiencing firsthand the overwhelming nature of choosing the right business tools in today's saturated market. With extensive expertise in AI-powered content creation and business tool research, Ryan created this comprehensive directory to help others navigate the complex landscape of business software and services.</p>
-    
     <p>His approach focuses on organization and accessibility, creating a structured catalog that helps users discover tools by category and function rather than getting lost in endless lists and marketing pages.</p>
   </div>
 </div>
@@ -116,6 +115,6 @@ Ready to explore our organized collection of business tools? Browse by category 
 
 Have a question about our recommendations or want to suggest a tool for review? We'd love to hear from you.
 
-**Email:** [ryandickey08@outlook.com](mailto:ryandickey08@outlook.com)
+**Email:** [toolmaster@toolchest.pro](mailto:toolmaster@toolchest.pro)
 
 *For business inquiries, tool recommendations, partnership opportunities, or general questions about our curation process.*
